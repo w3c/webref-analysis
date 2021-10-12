@@ -1,0 +1,60 @@
+name: Analyze Webref data
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+
+    - name: Install pandoc
+      run: sudo apt-get install pandoc
+
+    - name: Install Strudy
+      run: npm install strudy
+
+    - name: Checkout webref
+      uses: actions/checkout@v2
+      with:
+        repository: w3c/webref
+        ref: main
+        fetch-depth: 1
+        path: webref
+
+    - name: Checkout current reports
+      uses: actions/checkout@v2
+      with:
+        repository: w3c/webref-analysis
+        path: webref-analysis
+
+    - name: Run Strudy on Webref data
+      run: node_modules/.bin/strudy webref/ed > webref-analysis/index.json
+
+    - name: Generate Markdown reports
+      run: |
+        node_modules/.bin/strudy webref-analysis/index.json --format markdown > webref-analysis/index.md
+        node_modules/.bin/strudy webref-analysis/index.json --format markdown --perissue > webref-analysis/perissue.md
+
+    - name: Generate HTML reports
+      run: |
+        node_modules/.bin/strudy webref-analysis/index.json --format html > webref-analysis/index.html
+        node_modules/.bin/strudy webref-analysis/index.json --format html --perissue > webref-analysis/perissue.html
+
+    - name: Push new reports to git
+      run: |
+        git config user.name "webref-analysis-bot"
+        git config user.email "<>"
+        git remote set-url --push origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+        git add -A
+        WEBREF_SHA=$(git --git-dir=../webref/.git rev-parse HEAD)
+        git commit -m "Update study reports from Webref data" -m "Using Webref commit $WEBREF_SHA."
+        git push origin HEAD:main
+      working-directory: webref-analysis
