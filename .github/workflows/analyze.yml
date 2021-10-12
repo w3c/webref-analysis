@@ -48,6 +48,10 @@ jobs:
         node_modules/.bin/strudy webref-analysis/index.json --format html > webref-analysis/index.html
         node_modules/.bin/strudy webref-analysis/index.json --format html --perissue > webref-analysis/perissue.html
 
+    - name: Create diff report
+      run: |
+        node_modules/.bin/strudy webref-analysis/index.json --diff https://w3c.github.io/webref-analysis/index.json > webref-analysis/diff.md
+
     - name: Push new reports to git
       run: |
         git config user.name "webref-analysis-bot"
