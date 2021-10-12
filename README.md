@@ -11,7 +11,7 @@ Specifications covered by this repository are technical Web specifications that 
 This repository contains the following human-readable reports:
 
 - [Potential spec anomalies, per spec](https://w3c.github.io/webref-analysis/)
-- [Potential spec anomalies, per anomaly](https://w3c.github.io/webref-analysis/)
+- [Potential spec anomalies, per anomaly](https://w3c.github.io/webref-analysis/perissue.html)
 
 These reports are created from a machine-readable [JSON report](https://w3c.github.io/webref-analysis/index.json) assembled by running [Strudy](https://github.com/w3c/strudy) on the crawl data published for latest Editor's Drafts of specs in [Webref](https://github.com/w3c/webref).
 
