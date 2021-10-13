@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Reffy report</title>
-    <link rel="stylesheet" href="https://w3c.github.io/webref/common/font-awesome.css" />
+  <title>Web specs analysis</title>
+    <link rel="stylesheet" href="https://w3c.github.io/webref-analysis/includes/font-awesome.css" />
   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous" />
-  <link rel="stylesheet" href="https://w3c.github.io/webref/common/styles.css" />
+  <link rel="stylesheet" href="https://w3c.github.io/webref-analysis/includes/styles.css" />
   <!--[if lte IE 8]>
       <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css" />
   <![endif]-->
@@ -18,8 +18,8 @@
   <![endif]-->
   </head>
 <body>
-    <h1>Reffy crawl report (per issue)</h1>
-  <p><a href="https://github.com/w3c/reffy">Reffy</a> is a <i>spec exploration tool</i>. It crawls a list of specifications to study the WebIDL content, the links that they contain, and the references that these specifications contain.</p>
+    <h1>Web specs analysis (per issue)</h1>
+  <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>446 specifications were crawled in this report.</p>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
@@ -208,7 +208,7 @@
   <li><a href="https://www.w3.org/TR/SVG11/">Scalable Vector Graphics (SVG) 1.1 (Second Edition)</a></li>
   </ul>
   <p>=&gt; 1 specification found</p>
-  <p>WebIDL continues to evolve. Reffy may incorrectly report as invalid perfectly valid WebIDL content if the specification uses bleeding-edge WebIDL features</p>
+  <p>WebIDL continues to evolve. Strudy may incorrectly report as invalid perfectly valid WebIDL content if the specification uses bleeding-edge WebIDL features</p>
   </section>
   <section id="list-of-specifications-with-obsolete-webidl-constructs" class="level2">
   <h2>List of specifications with obsolete WebIDL constructs</h2>
@@ -273,7 +273,7 @@
   <li><code>RTCIdentityProviderGlobalScope</code> used in <a href="https://w3c.github.io/webrtc-identity/">Identity for WebRTC 1.0</a></li>
   </ul>
   <p>=&gt; 1 [Exposed] name found</p>
-  <p>Please keep in mind that Reffy only knows about IDL terms defined in the specifications that were crawled <strong>and</strong> that do not have invalid IDL content.</p>
+  <p>Please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled <strong>and</strong> that do not have invalid IDL content.</p>
   </section>
   <section id="list-of-webidl-names-not-defined-in-the-specifications-crawled" class="level2">
   <h2>List of WebIDL names not defined in the specifications crawled</h2>
@@ -297,7 +297,7 @@
   <li><code>bigint</code> used in <a href="https://w3c.github.io/webrtc-encoded-transform/">WebRTC Encoded Transform</a></li>
   </ul>
   <p>=&gt; 17 WebIDL names found</p>
-  <p>Some of them may be type errors in specs (e.g. “int” does not exist, “Array” cannot be used on its own, etc.) Also, please keep in mind that Reffy only knows about IDL terms defined in the specifications that were crawled <strong>and</strong> that do not have invalid IDL content.</p>
+  <p>Some of them may be type errors in specs (e.g. “int” does not exist, “Array” cannot be used on its own, etc.) Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled <strong>and</strong> that do not have invalid IDL content.</p>
   </section>
   <section id="list-of-webidl-names-defined-in-more-than-one-spec" class="level2">
   <h2>List of WebIDL names defined in more than one spec</h2>
@@ -1423,7 +1423,7 @@
   </ul>
   <p>=&gt; 261 missing references for links found in 102 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
-  <p>Note Reffy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
+  <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
   <section id="reference-url-is-inconsistent-with-url-used-in-document-links" class="level2">
   <h2>Reference URL is inconsistent with URL used in document links</h2>

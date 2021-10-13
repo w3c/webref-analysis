@@ -1,5 +1,5 @@
 % Reffy crawl
-% Reffy
+% Strudy
 % October 13, 2021
 
 446 specifications were crawled in this report.
@@ -193,7 +193,7 @@ Basically all specifications have normative dependencies on some other specifica
 
 => 1 specification found
 
-WebIDL continues to evolve. Reffy may incorrectly report as invalid perfectly valid WebIDL content if the specification uses bleeding-edge WebIDL features
+WebIDL continues to evolve. Strudy may incorrectly report as invalid perfectly valid WebIDL content if the specification uses bleeding-edge WebIDL features
 
 
 ## List of specifications with obsolete WebIDL constructs
@@ -262,7 +262,7 @@ WebIDL continues to evolve. Reffy may incorrectly report as invalid perfectly va
 
 => 1 [Exposed] name found
 
-Please keep in mind that Reffy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
+Please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
 
 
 ## List of WebIDL names not defined in the specifications crawled
@@ -288,7 +288,7 @@ Please keep in mind that Reffy only knows about IDL terms defined in the specifi
 => 17 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
-Also, please keep in mind that Reffy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
+Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
 
 
 ## List of WebIDL names defined in more than one spec
@@ -1191,7 +1191,7 @@ Also, please keep in mind that Reffy only knows about IDL terms defined in the s
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
-Note Reffy only reports on links to "well-known" specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.
+Note Strudy only reports on links to "well-known" specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.
 
 
 ## Reference URL is inconsistent with URL used in document links

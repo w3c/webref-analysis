@@ -1,5 +1,5 @@
 % Reffy crawl
-% Reffy
+% Strudy
 % October 13, 2021
 
 # Ecma International {#ecma_international}
