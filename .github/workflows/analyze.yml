@@ -57,8 +57,14 @@ jobs:
         git config user.name "webref-analysis-bot"
         git config user.email "<>"
         git remote set-url --push origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-        git add -A
-        WEBREF_SHA=$(git --git-dir=../webref/.git rev-parse HEAD)
-        git commit -m "Update study reports from Webref data" -m "Using Webref commit $WEBREF_SHA."
-        git push origin HEAD:main
+        DIFF=$(git diff | sed 's/^[ ]*//' | sed 's/[ ]*$//')
+        if [ -n "$DIFF" ]; then
+          echo "DIFF=$DIFF"
+          git add -A
+          WEBREF_SHA=$(git --git-dir=../webref/.git rev-parse HEAD)
+          git commit -m "Update study reports from Webref data" -m "Using Webref commit $WEBREF_SHA."
+          git push origin HEAD:main
+        else
+          echo "No diff to push"
+        fi
       working-directory: webref-analysis
