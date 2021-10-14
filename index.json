@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-14T12:48:50.691Z",
+  "date": "2021-10-14T18:42:25.471Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -1941,7 +1941,7 @@
     {
       "title": "Clipboard API and events",
       "shortname": "clipboard-apis",
-      "date": "7 September 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/clipboard-apis/",
       "release": {
         "url": "https://www.w3.org/TR/clipboard-apis/",
@@ -2801,7 +2801,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "28 September 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -7588,7 +7588,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "13 October 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7906,7 +7906,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "31 August 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -52901,7 +52901,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "13 October 2021",
+      "date": "14 October 2021",
       "url": "https://drafts.csswg.org/web-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/web-animations-2/",
@@ -53833,9 +53833,19 @@
               "crawled": "https://w3c.github.io/beacon/"
             },
             {
+              "url": "https://www.w3.org/TR/clipboard-apis/",
+              "title": "Clipboard API and events",
+              "crawled": "https://w3c.github.io/clipboard-apis/"
+            },
+            {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure API",
               "crawled": "https://wicg.github.io/compute-pressure/"
+            },
+            {
+              "url": "https://www.w3.org/TR/CSP3/",
+              "title": "Content Security Policy Level 3",
+              "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
               "url": "https://www.w3.org/TR/requestidlecallback/",
@@ -55029,7 +55039,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "13 October 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55077,7 +55087,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "13 October 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55168,7 +55178,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "13 October 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
