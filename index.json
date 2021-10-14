@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-14T06:42:30.007Z",
+  "date": "2021-10-14T12:48:50.691Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -20606,7 +20606,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "31 August 2021",
+      "date": "14 October 2021",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -26081,7 +26081,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "13 October 2021",
+      "date": "14 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -38364,7 +38364,7 @@
     {
       "title": "MathML Accessiblity API Mappings 1.0",
       "shortname": "mathml-aam",
-      "date": "23 April 2021",
+      "date": "14 October 2021",
       "url": "https://w3c.github.io/mathml-aam/",
       "nightly": {
         "url": "https://w3c.github.io/mathml-aam/",
@@ -53966,6 +53966,11 @@
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
+              "url": "https://dom.spec.whatwg.org/",
+              "title": "DOM Standard",
+              "crawled": "https://dom.spec.whatwg.org/"
             },
             {
               "url": "https://wicg.github.io/is-input-pending/",
