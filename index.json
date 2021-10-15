@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-15T00:52:53.150Z",
+  "date": "2021-10-15T06:41:51.553Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -6799,7 +6799,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-4",
-      "date": "20 September 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/css-cascade-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -6932,7 +6932,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-5",
-      "date": "20 September 2021",
+      "date": "14 October 2021",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -6971,6 +6971,7 @@
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/css-style-attr/",
+          "https://www.w3.org/TR/2021/WD-css-cascade-4-20210319/",
           "https://www.w3.org/TR/2020/WD-css-cascade-4-20200818/",
           "https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/",
           "https://www.w3.org/TR/2016/CR-css-cascade-4-20160114/",
@@ -7053,11 +7054,6 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-4/",
-              "title": "CSS Conditional Rules Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-conditional-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -7369,6 +7365,7 @@
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
+            "https://www.w3.org/TR/2021/WD-css-cascade-4-20210319/",
             "https://www.w3.org/TR/2020/WD-css-cascade-4-20200818/",
             "https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/",
             "https://www.w3.org/TR/2016/CR-css-cascade-4-20160114/",
@@ -8167,8 +8164,7 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-link-element",
-            "https://www.w3.org/TR/css-cascade-5/#typedef-declaration"
+            "https://html.spec.whatwg.org/#the-link-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8242,16 +8238,6 @@
             }
           ],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-cascade-5/#typedef-declaration"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -21783,7 +21769,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "4 October 2021",
+      "date": "15 October 2021",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
