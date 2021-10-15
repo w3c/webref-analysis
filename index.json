@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-15T12:45:57.848Z",
+  "date": "2021-10-15T18:43:38.412Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -751,7 +751,7 @@
     {
       "title": "App History API",
       "shortname": "app-history",
-      "date": "12 October 2021",
+      "date": "15 October 2021",
       "url": "https://wicg.github.io/app-history/",
       "nightly": {
         "url": "https://wicg.github.io/app-history/",
@@ -24005,7 +24005,8 @@
             "https://www.w3.org/TR/css-transitions-1/#animtype-length",
             "https://www.w3.org/TR/css-transitions-1/#animtype-number",
             "https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list",
-            "https://drafts.csswg.org/css-color-3/#color0"
+            "https://drafts.csswg.org/css-color-3/#color0",
+            "https://www.w3.org/TR/css-color-4/#linear-light-sRGB"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -25989,7 +25990,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "6 October 2021",
+      "date": "15 October 2021",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -26067,7 +26068,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "14 October 2021",
+      "date": "15 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -50870,7 +50871,7 @@
     {
       "title": "UI Events",
       "shortname": "uievents",
-      "date": "8 October 2021",
+      "date": "15 October 2021",
       "url": "https://www.w3.org/TR/uievents/",
       "release": {
         "url": "https://www.w3.org/TR/uievents/",
@@ -51081,7 +51082,6 @@
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#the-input-element",
             "https://html.spec.whatwg.org/#the-textarea-element",
-            "https://html.spec.whatwg.org/#context-menus",
             "https://html.spec.whatwg.org/#windowproxy"
           ],
           "evolvingLinks": [],
@@ -52216,7 +52216,7 @@
     {
       "title": "uuid",
       "shortname": "uuid",
-      "date": "26 August 2021",
+      "date": "15 October 2021",
       "url": "https://wicg.github.io/uuid/",
       "nightly": {
         "url": "https://wicg.github.io/uuid/",
@@ -54029,6 +54029,11 @@
               "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
+              "url": "https://wicg.github.io/sanitizer-api/",
+              "title": "HTML Sanitizer API",
+              "crawled": "https://wicg.github.io/sanitizer-api/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -54252,6 +54257,11 @@
               "url": "https://www.w3.org/TR/user-timing-3/",
               "title": "User Timing Level 3",
               "crawled": "https://w3c.github.io/user-timing/"
+            },
+            {
+              "url": "https://wicg.github.io/uuid/",
+              "title": "uuid",
+              "crawled": "https://wicg.github.io/uuid/"
             },
             {
               "url": "https://www.w3.org/TR/vibration/",
@@ -61240,7 +61250,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "14 October 2021",
+      "date": "15 October 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61352,7 +61362,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "14 October 2021",
+      "date": "15 October 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
