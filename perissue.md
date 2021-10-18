@@ -3664,6 +3664,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-nonce`](https://html.spec.whatwg.org/#attr-nonce)
      * [`https://html.spec.whatwg.org/#source-browsing-context`](https://html.spec.whatwg.org/#source-browsing-context)
      * [`https://fetch.spec.whatwg.org/#concept-request-target-browsing-context`](https://fetch.spec.whatwg.org/#concept-request-target-browsing-context)
+     * [`https://webassembly.github.io/spec/js-api/#dom-host-ensure-can-compile-wasm-bytes`](https://webassembly.github.io/spec/js-api/#dom-host-ensure-can-compile-wasm-bytes)
+     * [`https://webassembly.github.io/spec/web-api/#exceptiondef-compileerror`](https://webassembly.github.io/spec/web-api/#exceptiondef-compileerror)
      * [`https://w3c.github.io/reporting/#group`](https://w3c.github.io/reporting/#group)
      * [`https://www.w3.org/TR/css-cascade-5/#at-ruledef-import`](https://www.w3.org/TR/css-cascade-5/#at-ruledef-import)
      * [`https://www.w3.org/TR/cssom-1/#insert-a-css-rule`](https://www.w3.org/TR/cssom-1/#insert-a-css-rule)
@@ -9226,7 +9228,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 6042 problematic external links found in 230 specifications
+=> 6044 problematic external links found in 230 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

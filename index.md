@@ -12229,7 +12229,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
 - Crawled URL: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
-- Crawled version: 14 October 2021
+- Crawled version: 18 October 2021
 - Editor's Draft: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
 - Latest published version: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
 - Shortname: CSP3
@@ -12312,6 +12312,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-nonce`](https://html.spec.whatwg.org/#attr-nonce)
      * [`https://html.spec.whatwg.org/#source-browsing-context`](https://html.spec.whatwg.org/#source-browsing-context)
      * [`https://fetch.spec.whatwg.org/#concept-request-target-browsing-context`](https://fetch.spec.whatwg.org/#concept-request-target-browsing-context)
+     * [`https://webassembly.github.io/spec/js-api/#dom-host-ensure-can-compile-wasm-bytes`](https://webassembly.github.io/spec/js-api/#dom-host-ensure-can-compile-wasm-bytes)
+     * [`https://webassembly.github.io/spec/web-api/#exceptiondef-compileerror`](https://webassembly.github.io/spec/web-api/#exceptiondef-compileerror)
      * [`https://w3c.github.io/reporting/#group`](https://w3c.github.io/reporting/#group)
      * [`https://www.w3.org/TR/css-cascade-5/#at-ruledef-import`](https://www.w3.org/TR/css-cascade-5/#at-ruledef-import)
      * [`https://www.w3.org/TR/cssom-1/#insert-a-css-rule`](https://www.w3.org/TR/cssom-1/#insert-a-css-rule)
@@ -19004,7 +19006,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Crawled URL: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
-- Crawled version: 12 October 2021
+- Crawled version: 18 October 2021
 - Editor's Draft: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Shortname: mediacapture-streams
@@ -19423,7 +19425,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 11 October 2021
+- Crawled version: 18 October 2021
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc

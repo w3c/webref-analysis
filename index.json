@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-18T00:50:16.100Z",
+  "date": "2021-10-18T06:41:24.021Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -2849,7 +2849,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "14 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -3090,6 +3090,8 @@
             "https://html.spec.whatwg.org/#attr-nonce",
             "https://html.spec.whatwg.org/#source-browsing-context",
             "https://fetch.spec.whatwg.org/#concept-request-target-browsing-context",
+            "https://webassembly.github.io/spec/js-api/#dom-host-ensure-can-compile-wasm-bytes",
+            "https://webassembly.github.io/spec/web-api/#exceptiondef-compileerror",
             "https://w3c.github.io/reporting/#group",
             "https://www.w3.org/TR/css-cascade-5/#at-ruledef-import",
             "https://www.w3.org/TR/cssom-1/#insert-a-css-rule",
@@ -30065,7 +30067,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "12 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -51742,7 +51744,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "11 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
