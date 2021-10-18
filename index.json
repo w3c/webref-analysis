@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-18T06:41:24.021Z",
+  "date": "2021-10-18T12:46:18.558Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -2125,7 +2125,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "17 September 2021",
+      "date": "18 October 2021",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2241,6 +2241,7 @@
             "https://www.w3.org/TR/css-values/#value-defs",
             "https://www.w3.org/TR/css-values/#percentages",
             "https://www.w3.org/TR/css-cascade/#initial-values",
+            "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://www.w3.org/TR/css-cascade/#inherited-property",
             "https://www.w3.org/TR/css-cascade/#computed",
             "https://www.w3.org/TR/css-pseudo/#generated-content",
@@ -5967,7 +5968,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "14 October 2021",
+      "date": "18 October 2021",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -8205,7 +8206,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "12 October 2021",
+      "date": "18 October 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -11280,7 +11281,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 October 2021",
+      "date": "18 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36407,8 +36408,7 @@
             "https://html.spec.whatwg.org/#concept-global-object-realm",
             "https://www.w3.org/TR/performance-timeline-2/#dom-performance",
             "https://webidl.spec.whatwg.org/#default-tojson-operation",
-            "https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time",
-            "https://www.w3.org/TR/css-values-3/#funcdef-url"
+            "https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -43911,7 +43911,7 @@
     {
       "title": "Web Cryptography API",
       "shortname": "WebCryptoAPI",
-      "date": "11 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/WebCryptoAPI/",
       "release": {
         "url": "https://www.w3.org/TR/WebCryptoAPI/",
@@ -44071,6 +44071,11 @@
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
+            },
+            {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
@@ -51425,7 +51430,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "15 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -51538,7 +51543,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "15 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

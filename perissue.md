@@ -3506,6 +3506,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-values/#value-defs`](https://www.w3.org/TR/css-values/#value-defs)
      * [`https://www.w3.org/TR/css-values/#percentages`](https://www.w3.org/TR/css-values/#percentages)
      * [`https://www.w3.org/TR/css-cascade/#initial-values`](https://www.w3.org/TR/css-cascade/#initial-values)
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://www.w3.org/TR/css-cascade/#inherited-property`](https://www.w3.org/TR/css-cascade/#inherited-property)
      * [`https://www.w3.org/TR/css-cascade/#computed`](https://www.w3.org/TR/css-cascade/#computed)
      * [`https://www.w3.org/TR/css-pseudo/#generated-content`](https://www.w3.org/TR/css-pseudo/#generated-content)
@@ -7527,7 +7528,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/performance-timeline-2/#dom-performance`](https://www.w3.org/TR/performance-timeline-2/#dom-performance)
      * [`https://webidl.spec.whatwg.org/#default-tojson-operation`](https://webidl.spec.whatwg.org/#default-tojson-operation)
      * [`https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time`](https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time)
-     * [`https://www.w3.org/TR/css-values-3/#funcdef-url`](https://www.w3.org/TR/css-values-3/#funcdef-url)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/):
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
      * [`https://html.spec.whatwg.org/#attr-img-srcset`](https://html.spec.whatwg.org/#attr-img-srcset)
