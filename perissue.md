@@ -2051,7 +2051,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/):
      * [`https://fetch.spec.whatwg.org/#concept-main-fetch`](https://fetch.spec.whatwg.org/#concept-main-fetch)
      * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
-     * [`https://url.spec.whatwg.org/#default-port`](https://url.spec.whatwg.org/#default-port)
      * [`https://w3c.github.io/reporting/#visible-to-reportingobservers`](https://w3c.github.io/reporting/#visible-to-reportingobservers)
 - [Cross-Origin-Embedder-Policy: credentialless](https://wicg.github.io/credentiallessness/):
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
@@ -2717,8 +2716,6 @@ Links in the body of a specification should be to the same document as that poin
 - [UI Events KeyboardEvent key Values](https://w3c.github.io/uievents-key/):
      * [`https://www.w3.org/TR/uievents/#dead-key`](https://www.w3.org/TR/uievents/#dead-key)
      * [`https://www.w3.org/TR/uievents/#compositionupdate`](https://www.w3.org/TR/uievents/#compositionupdate)
-- [URLPattern API](https://wicg.github.io/urlpattern/):
-     * [`https://url.spec.whatwg.org/#default-port`](https://url.spec.whatwg.org/#default-port)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
      * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
      * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
@@ -2828,7 +2825,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://fullscreen.spec.whatwg.org/#fully-exit-fullscreen`](https://fullscreen.spec.whatwg.org/#fully-exit-fullscreen)
      * [`https://fullscreen.spec.whatwg.org/#unfullscreen-a-document`](https://fullscreen.spec.whatwg.org/#unfullscreen-a-document)
      * [`https://drafts.csswg.org/css-device-adapt/#initial-viewport`](https://drafts.csswg.org/css-device-adapt/#initial-viewport)
-     * [`https://url.spec.whatwg.org/#default-port`](https://url.spec.whatwg.org/#default-port)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/):
      * [`https://w3c.github.io/webdriver/#dfn-local-ends`](https://w3c.github.io/webdriver/#dfn-local-ends)
      * [`https://w3c.github.io/webdriver/#dfn-remote-ends`](https://w3c.github.io/webdriver/#dfn-remote-ends)
@@ -3013,7 +3009,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 820 problematic external links found in 193 specifications
+=> 817 problematic external links found in 192 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3291,8 +3287,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 - [Event Timing API](https://wicg.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
-- [Fetch Standard](https://fetch.spec.whatwg.org/):
-     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
 - [File System Access](https://wicg.github.io/file-system-access/):
      * [`https://storage.spec.whatwg.org/#site-storage`](https://storage.spec.whatwg.org/#site-storage)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/):
@@ -3317,7 +3311,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
      * [`https://url.spec.whatwg.org/#syntax-url-absolute`](https://url.spec.whatwg.org/#syntax-url-absolute)
      * [`https://url.spec.whatwg.org/#syntax-url-relative`](https://url.spec.whatwg.org/#syntax-url-relative)
-     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
      * [`https://url.spec.whatwg.org/#default-encode-set`](https://url.spec.whatwg.org/#default-encode-set)
      * [`https://url.spec.whatwg.org/#warning-avoid-psl`](https://url.spec.whatwg.org/#warning-avoid-psl)
      * [`https://webidl.spec.whatwg.org/#dfn-named-constructor`](https://webidl.spec.whatwg.org/#dfn-named-constructor)
@@ -3889,7 +3882,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 813 problematic external links found in 57 specifications
+=> 811 problematic external links found in 56 specifications
 
 
 ## Broken external links

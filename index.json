@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-19T12:46:39.458Z",
+  "date": "2021-10-19T18:41:18.929Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -1242,7 +1242,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "14 October 2021",
+      "date": "19 October 2021",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -2970,7 +2970,6 @@
           "notExported": [
             "https://fetch.spec.whatwg.org/#concept-main-fetch",
             "https://url.spec.whatwg.org/#concept-base-url",
-            "https://url.spec.whatwg.org/#default-port",
             "https://w3c.github.io/reporting/#visible-to-reportingobservers"
           ],
           "notDfn": [],
@@ -23002,7 +23001,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "18 October 2021",
+      "date": "19 October 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -23418,9 +23417,7 @@
           "notExported": [
             "https://w3c.github.io/FileAPI/#readOperation"
           ],
-          "notDfn": [
-            "https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag"
-          ],
+          "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#parallel-queue",
@@ -26069,7 +26066,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "18 October 2021",
+      "date": "19 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34262,7 +34259,6 @@
             "https://drafts.csswg.org/css2/#content%E2%91%A0",
             "https://url.spec.whatwg.org/#syntax-url-absolute",
             "https://url.spec.whatwg.org/#syntax-url-relative",
-            "https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag",
             "https://url.spec.whatwg.org/#default-encode-set",
             "https://url.spec.whatwg.org/#warning-avoid-psl",
             "https://webidl.spec.whatwg.org/#dfn-named-constructor",
@@ -50871,7 +50867,7 @@
     {
       "title": "UI Events",
       "shortname": "uievents",
-      "date": "15 October 2021",
+      "date": "19 October 2021",
       "url": "https://www.w3.org/TR/uievents/",
       "release": {
         "url": "https://www.w3.org/TR/uievents/",
@@ -51825,9 +51821,7 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [
-            "https://url.spec.whatwg.org/#default-port"
-          ],
+          "notExported": [],
           "notDfn": [
             "https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag"
           ],
@@ -55529,8 +55523,7 @@
             "https://fullscreen.spec.whatwg.org/#fullscreen-is-supported",
             "https://fullscreen.spec.whatwg.org/#fully-exit-fullscreen",
             "https://fullscreen.spec.whatwg.org/#unfullscreen-a-document",
-            "https://drafts.csswg.org/css-device-adapt/#initial-viewport",
-            "https://url.spec.whatwg.org/#default-port"
+            "https://drafts.csswg.org/css-device-adapt/#initial-viewport"
           ],
           "notDfn": [
             "https://url.spec.whatwg.org/#syntax-url-absolute",
@@ -61291,7 +61284,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "18 October 2021",
+      "date": "19 October 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61403,7 +61396,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "18 October 2021",
+      "date": "19 October 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
