@@ -18563,7 +18563,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/largest-contentful-paint/](https://wicg.github.io/largest-contentful-paint/)
 - Crawled URL: [https://wicg.github.io/largest-contentful-paint/](https://wicg.github.io/largest-contentful-paint/)
-- Crawled version: 30 September 2021
+- Crawled version: 19 October 2021
 - Editor's Draft: [https://wicg.github.io/largest-contentful-paint/](https://wicg.github.io/largest-contentful-paint/)
 - Shortname: largest-contentful-paint
 
@@ -18606,7 +18606,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/layout-instability/](https://wicg.github.io/layout-instability/)
 - Crawled URL: [https://wicg.github.io/layout-instability/](https://wicg.github.io/layout-instability/)
-- Crawled version: 19 May 2021
+- Crawled version: 19 October 2021
 - Editor's Draft: [https://wicg.github.io/layout-instability/](https://wicg.github.io/layout-instability/)
 - Shortname: layout-instability
 
@@ -19568,12 +19568,8 @@ No informative reference to this spec from other specs.
 
 - External links to private terms:
      * [`https://url.spec.whatwg.org/#default-port`](https://url.spec.whatwg.org/#default-port)
-     * [`https://url.spec.whatwg.org/#hostname-state`](https://url.spec.whatwg.org/#hostname-state)
-     * [`https://url.spec.whatwg.org/#port-state`](https://url.spec.whatwg.org/#port-state)
-     * [`https://url.spec.whatwg.org/#path-start-state`](https://url.spec.whatwg.org/#path-start-state)
-     * [`https://url.spec.whatwg.org/#cannot-be-a-base-url-path-state`](https://url.spec.whatwg.org/#cannot-be-a-base-url-path-state)
-     * [`https://url.spec.whatwg.org/#query-state`](https://url.spec.whatwg.org/#query-state)
-     * [`https://url.spec.whatwg.org/#fragment-state`](https://url.spec.whatwg.org/#fragment-state)
+- External links that neither target definitions nor headings:
+     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21322,6 +21318,8 @@ Informative references to this spec from:
 
 - External links to private terms:
      * [`https://w3c.github.io/FileAPI/#readOperation`](https://w3c.github.io/FileAPI/#readOperation)
+- External links that neither target definitions nor headings:
+     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#parallel-queue`](https://html.spec.whatwg.org/#parallel-queue)
@@ -21715,13 +21713,6 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/cssom/#concept-css-style-sheet-disabled-flag`](https://drafts.csswg.org/cssom/#concept-css-style-sheet-disabled-flag)
      * [`https://drafts.csswg.org/cssom/#concept-css-style-sheet-css-rules`](https://drafts.csswg.org/cssom/#concept-css-style-sheet-css-rules)
      * [`https://drafts.csswg.org/cssom/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom/#concept-css-style-sheet-origin-clean-flag)
-     * [`https://url.spec.whatwg.org/#scheme-start-state`](https://url.spec.whatwg.org/#scheme-start-state)
-     * [`https://url.spec.whatwg.org/#host-state`](https://url.spec.whatwg.org/#host-state)
-     * [`https://url.spec.whatwg.org/#hostname-state`](https://url.spec.whatwg.org/#hostname-state)
-     * [`https://url.spec.whatwg.org/#port-state`](https://url.spec.whatwg.org/#port-state)
-     * [`https://url.spec.whatwg.org/#path-start-state`](https://url.spec.whatwg.org/#path-start-state)
-     * [`https://url.spec.whatwg.org/#query-state`](https://url.spec.whatwg.org/#query-state)
-     * [`https://url.spec.whatwg.org/#fragment-state`](https://url.spec.whatwg.org/#fragment-state)
      * [`https://url.spec.whatwg.org/#concept-host-serializer`](https://url.spec.whatwg.org/#concept-host-serializer)
      * [`https://url.spec.whatwg.org/#serialize-an-integer`](https://url.spec.whatwg.org/#serialize-an-integer)
      * [`https://w3c.github.io/FileAPI/#snapshot-state`](https://w3c.github.io/FileAPI/#snapshot-state)
@@ -21774,6 +21765,7 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
      * [`https://url.spec.whatwg.org/#syntax-url-absolute`](https://url.spec.whatwg.org/#syntax-url-absolute)
      * [`https://url.spec.whatwg.org/#syntax-url-relative`](https://url.spec.whatwg.org/#syntax-url-relative)
+     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
      * [`https://url.spec.whatwg.org/#default-encode-set`](https://url.spec.whatwg.org/#default-encode-set)
      * [`https://url.spec.whatwg.org/#warning-avoid-psl`](https://url.spec.whatwg.org/#warning-avoid-psl)
      * [`https://webidl.spec.whatwg.org/#dfn-named-constructor`](https://webidl.spec.whatwg.org/#dfn-named-constructor)
@@ -22827,7 +22819,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 13 September 2021
+- Crawled version: 19 October 2021
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
@@ -23036,6 +23028,8 @@ Normative references to this spec from:
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
@@ -23071,6 +23065,7 @@ Normative references to this spec from:
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [UI Events](https://w3c.github.io/uievents/)
+- [URL Standard](https://url.spec.whatwg.org/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [uuid](https://wicg.github.io/uuid/)
@@ -23092,6 +23087,7 @@ Normative references to this spec from:
 - [WebGPU](https://gpuweb.github.io/gpuweb/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebTransport](https://w3c.github.io/webtransport/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
 Informative references to this spec from:
 
@@ -23108,7 +23104,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 16 August 2021
+- Crawled version: 19 October 2021
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 

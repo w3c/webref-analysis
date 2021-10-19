@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-19T06:41:59.133Z",
+  "date": "2021-10-19T12:46:39.458Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -23418,7 +23418,9 @@
           "notExported": [
             "https://w3c.github.io/FileAPI/#readOperation"
           ],
-          "notDfn": [],
+          "notDfn": [
+            "https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag"
+          ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#parallel-queue",
@@ -34207,13 +34209,6 @@
             "https://drafts.csswg.org/cssom/#concept-css-style-sheet-disabled-flag",
             "https://drafts.csswg.org/cssom/#concept-css-style-sheet-css-rules",
             "https://drafts.csswg.org/cssom/#concept-css-style-sheet-origin-clean-flag",
-            "https://url.spec.whatwg.org/#scheme-start-state",
-            "https://url.spec.whatwg.org/#host-state",
-            "https://url.spec.whatwg.org/#hostname-state",
-            "https://url.spec.whatwg.org/#port-state",
-            "https://url.spec.whatwg.org/#path-start-state",
-            "https://url.spec.whatwg.org/#query-state",
-            "https://url.spec.whatwg.org/#fragment-state",
             "https://url.spec.whatwg.org/#concept-host-serializer",
             "https://url.spec.whatwg.org/#serialize-an-integer",
             "https://w3c.github.io/FileAPI/#snapshot-state",
@@ -34267,6 +34262,7 @@
             "https://drafts.csswg.org/css2/#content%E2%91%A0",
             "https://url.spec.whatwg.org/#syntax-url-absolute",
             "https://url.spec.whatwg.org/#syntax-url-relative",
+            "https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag",
             "https://url.spec.whatwg.org/#default-encode-set",
             "https://url.spec.whatwg.org/#warning-avoid-psl",
             "https://webidl.spec.whatwg.org/#dfn-named-constructor",
@@ -37746,7 +37742,7 @@
     {
       "title": "Largest Contentful Paint",
       "shortname": "largest-contentful-paint",
-      "date": "30 September 2021",
+      "date": "19 October 2021",
       "url": "https://wicg.github.io/largest-contentful-paint/",
       "nightly": {
         "url": "https://wicg.github.io/largest-contentful-paint/",
@@ -37838,7 +37834,7 @@
     {
       "title": "Layout Instability API",
       "shortname": "layout-instability",
-      "date": "19 May 2021",
+      "date": "19 October 2021",
       "url": "https://wicg.github.io/layout-instability/",
       "nightly": {
         "url": "https://wicg.github.io/layout-instability/",
@@ -51374,7 +51370,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "13 September 2021",
+      "date": "19 October 2021",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -51830,15 +51826,11 @@
         },
         "xrefs": {
           "notExported": [
-            "https://url.spec.whatwg.org/#default-port",
-            "https://url.spec.whatwg.org/#hostname-state",
-            "https://url.spec.whatwg.org/#port-state",
-            "https://url.spec.whatwg.org/#path-start-state",
-            "https://url.spec.whatwg.org/#cannot-be-a-base-url-path-state",
-            "https://url.spec.whatwg.org/#query-state",
-            "https://url.spec.whatwg.org/#fragment-state"
+            "https://url.spec.whatwg.org/#default-port"
           ],
-          "notDfn": [],
+          "notDfn": [
+            "https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag"
+          ],
           "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54098,6 +54090,16 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
+              "url": "https://wicg.github.io/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://wicg.github.io/largest-contentful-paint/"
+            },
+            {
+              "url": "https://wicg.github.io/layout-instability/",
+              "title": "Layout Instability API",
+              "crawled": "https://wicg.github.io/layout-instability/"
+            },
+            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
@@ -54273,6 +54275,11 @@
               "crawled": "https://w3c.github.io/uievents/"
             },
             {
+              "url": "https://url.spec.whatwg.org/",
+              "title": "URL Standard",
+              "crawled": "https://url.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/user-timing-2/",
               "title": "User Timing Level 3",
               "crawled": "https://w3c.github.io/user-timing/"
@@ -54376,6 +54383,11 @@
               "url": "https://www.w3.org/TR/webtransport/",
               "title": "WebTransport",
               "crawled": "https://w3c.github.io/webtransport/"
+            },
+            {
+              "url": "https://xhr.spec.whatwg.org/",
+              "title": "XMLHttpRequest Standard",
+              "crawled": "https://xhr.spec.whatwg.org/"
             }
           ],
           "informative": [
@@ -63306,7 +63318,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "16 August 2021",
+      "date": "19 October 2021",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",

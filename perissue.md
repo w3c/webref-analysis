@@ -2415,13 +2415,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/cssom/#concept-css-style-sheet-disabled-flag`](https://drafts.csswg.org/cssom/#concept-css-style-sheet-disabled-flag)
      * [`https://drafts.csswg.org/cssom/#concept-css-style-sheet-css-rules`](https://drafts.csswg.org/cssom/#concept-css-style-sheet-css-rules)
      * [`https://drafts.csswg.org/cssom/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom/#concept-css-style-sheet-origin-clean-flag)
-     * [`https://url.spec.whatwg.org/#scheme-start-state`](https://url.spec.whatwg.org/#scheme-start-state)
-     * [`https://url.spec.whatwg.org/#host-state`](https://url.spec.whatwg.org/#host-state)
-     * [`https://url.spec.whatwg.org/#hostname-state`](https://url.spec.whatwg.org/#hostname-state)
-     * [`https://url.spec.whatwg.org/#port-state`](https://url.spec.whatwg.org/#port-state)
-     * [`https://url.spec.whatwg.org/#path-start-state`](https://url.spec.whatwg.org/#path-start-state)
-     * [`https://url.spec.whatwg.org/#query-state`](https://url.spec.whatwg.org/#query-state)
-     * [`https://url.spec.whatwg.org/#fragment-state`](https://url.spec.whatwg.org/#fragment-state)
      * [`https://url.spec.whatwg.org/#concept-host-serializer`](https://url.spec.whatwg.org/#concept-host-serializer)
      * [`https://url.spec.whatwg.org/#serialize-an-integer`](https://url.spec.whatwg.org/#serialize-an-integer)
      * [`https://w3c.github.io/FileAPI/#snapshot-state`](https://w3c.github.io/FileAPI/#snapshot-state)
@@ -2726,12 +2719,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/uievents/#compositionupdate`](https://www.w3.org/TR/uievents/#compositionupdate)
 - [URLPattern API](https://wicg.github.io/urlpattern/):
      * [`https://url.spec.whatwg.org/#default-port`](https://url.spec.whatwg.org/#default-port)
-     * [`https://url.spec.whatwg.org/#hostname-state`](https://url.spec.whatwg.org/#hostname-state)
-     * [`https://url.spec.whatwg.org/#port-state`](https://url.spec.whatwg.org/#port-state)
-     * [`https://url.spec.whatwg.org/#path-start-state`](https://url.spec.whatwg.org/#path-start-state)
-     * [`https://url.spec.whatwg.org/#cannot-be-a-base-url-path-state`](https://url.spec.whatwg.org/#cannot-be-a-base-url-path-state)
-     * [`https://url.spec.whatwg.org/#query-state`](https://url.spec.whatwg.org/#query-state)
-     * [`https://url.spec.whatwg.org/#fragment-state`](https://url.spec.whatwg.org/#fragment-state)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
      * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
      * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
@@ -3026,7 +3013,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 833 problematic external links found in 193 specifications
+=> 820 problematic external links found in 193 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3304,6 +3291,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 - [Event Timing API](https://wicg.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
+- [Fetch Standard](https://fetch.spec.whatwg.org/):
+     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
 - [File System Access](https://wicg.github.io/file-system-access/):
      * [`https://storage.spec.whatwg.org/#site-storage`](https://storage.spec.whatwg.org/#site-storage)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/):
@@ -3328,6 +3317,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
      * [`https://url.spec.whatwg.org/#syntax-url-absolute`](https://url.spec.whatwg.org/#syntax-url-absolute)
      * [`https://url.spec.whatwg.org/#syntax-url-relative`](https://url.spec.whatwg.org/#syntax-url-relative)
+     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
      * [`https://url.spec.whatwg.org/#default-encode-set`](https://url.spec.whatwg.org/#default-encode-set)
      * [`https://url.spec.whatwg.org/#warning-avoid-psl`](https://url.spec.whatwg.org/#warning-avoid-psl)
      * [`https://webidl.spec.whatwg.org/#dfn-named-constructor`](https://webidl.spec.whatwg.org/#dfn-named-constructor)
@@ -3842,6 +3832,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/uievents-key/#key-SymbolLock`](https://www.w3.org/TR/uievents-key/#key-SymbolLock)
      * [`https://www.w3.org/TR/uievents-key/#key-Alt`](https://www.w3.org/TR/uievents-key/#key-Alt)
      * [`https://www.w3.org/TR/uievents-key/#key-AltGraph`](https://www.w3.org/TR/uievents-key/#key-AltGraph)
+- [URLPattern API](https://wicg.github.io/urlpattern/):
+     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
      * [`https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp`](https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
@@ -3897,7 +3889,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 810 problematic external links found in 55 specifications
+=> 813 problematic external links found in 57 specifications
 
 
 ## Broken external links
