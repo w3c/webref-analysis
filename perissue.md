@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 19, 2021
+% October 20, 2021
 
 446 specifications were crawled in this report.
 
@@ -4550,6 +4550,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-manipulation-task-source`](https://html.spec.whatwg.org/#dom-manipulation-task-source)
      * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
+     * [`https://heycam.github.io/webidl/#DOMTimeStamp`](https://heycam.github.io/webidl/#DOMTimeStamp)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/):
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#dom-settimeout`](https://html.spec.whatwg.org/#dom-settimeout)
@@ -5490,6 +5491,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#list-of-active-timers`](https://html.spec.whatwg.org/#list-of-active-timers)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
+     * [`https://webidl.spec.whatwg.org/#DOMTimeStamp`](https://webidl.spec.whatwg.org/#DOMTimeStamp)
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/):
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/):
@@ -6669,6 +6671,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#networking-task-source`](https://html.spec.whatwg.org/#networking-task-source)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/):
+     * [`https://heycam.github.io/webidl/#DOMTimeStamp`](https://heycam.github.io/webidl/#DOMTimeStamp)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#structuredserializeforstorage`](https://html.spec.whatwg.org/#structuredserializeforstorage)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
@@ -7210,6 +7213,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://www.w3.org/TR/secure-contexts/#secure-context`](https://www.w3.org/TR/secure-contexts/#secure-context)
+     * [`https://webidl.spec.whatwg.org/#DOMTimeStamp`](https://webidl.spec.whatwg.org/#DOMTimeStamp)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#the-initial-insertion-mode`](https://html.spec.whatwg.org/#the-initial-insertion-mode)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
@@ -8711,6 +8715,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#binarytype`](https://html.spec.whatwg.org/#binarytype)
      * [`https://html.spec.whatwg.org/#dom-websocket-binarytype`](https://html.spec.whatwg.org/#dom-websocket-binarytype)
+     * [`https://webidl.spec.whatwg.org/#DOMTimeStamp`](https://webidl.spec.whatwg.org/#DOMTimeStamp)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/):
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -8881,7 +8886,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4703 problematic external links found in 290 specifications
+=> 4708 problematic external links found in 290 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

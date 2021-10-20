@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-19T18:41:18.929Z",
+  "date": "2021-10-20T00:52:42.125Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -3255,7 +3255,8 @@
             "https://html.spec.whatwg.org/#queue-a-global-task",
             "https://html.spec.whatwg.org/#dom-manipulation-task-source",
             "https://html.spec.whatwg.org/#non-secure-context",
-            "https://html.spec.whatwg.org/#secure-context"
+            "https://html.spec.whatwg.org/#secure-context",
+            "https://heycam.github.io/webidl/#DOMTimeStamp"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -5129,6 +5130,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
@@ -6677,7 +6683,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 3",
       "shortname": "css-cascade-3",
-      "date": "15 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/css-cascade-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-3/",
@@ -6801,7 +6807,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-4",
-      "date": "15 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/css-cascade-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -6934,7 +6940,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-5",
-      "date": "15 October 2021",
+      "date": "18 October 2021",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -7586,7 +7592,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "14 October 2021",
+      "date": "19 October 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7951,6 +7957,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-extensions-1/",
               "title": "CSS Extensions",
               "crawled": "https://drafts.csswg.org/css-extensions-1/"
@@ -7981,11 +7992,6 @@
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-3/",
@@ -8071,6 +8077,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 4",
               "crawled": "https://drafts.csswg.org/css-cascade/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -17489,7 +17500,7 @@
     {
       "title": "CSS Transforms Module Level 2",
       "shortname": "css-transforms-2",
-      "date": "13 October 2021",
+      "date": "19 October 2021",
       "url": "https://www.w3.org/TR/css-transforms-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-transforms-2/",
@@ -18761,7 +18772,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "15 October 2021",
+      "date": "19 October 2021",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -20742,6 +20753,11 @@
               "url": "https://drafts.csswg.org/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-highlight-api-1/",
@@ -24676,7 +24692,8 @@
             "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#list-of-active-timers",
-            "https://html.spec.whatwg.org/#task-source"
+            "https://html.spec.whatwg.org/#task-source",
+            "https://webidl.spec.whatwg.org/#DOMTimeStamp"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -35229,7 +35246,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/IFT/Overview.html",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -36002,7 +36025,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "31 August 2021",
+      "date": "18 October 2021",
       "url": "https://w3c.github.io/IFT/Overview.html",
       "nightly": {
         "url": "https://w3c.github.io/IFT/Overview.html",
@@ -41000,6 +41023,7 @@
             "https://w3c.github.io/vibration/#idl-def-vibratepattern"
           ],
           "brokenLinks": [
+            "https://heycam.github.io/webidl/#DOMTimeStamp",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#structuredserializeforstorage",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
@@ -44282,7 +44306,8 @@
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://www.w3.org/TR/secure-contexts/#secure-context"
+            "https://www.w3.org/TR/secure-contexts/#secure-context",
+            "https://webidl.spec.whatwg.org/#DOMTimeStamp"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45450,7 +45475,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45505,7 +45530,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45594,7 +45619,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45668,7 +45693,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45726,7 +45751,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45764,7 +45789,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45814,7 +45839,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45870,7 +45895,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50867,7 +50892,7 @@
     {
       "title": "UI Events",
       "shortname": "uievents",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.w3.org/TR/uievents/",
       "release": {
         "url": "https://www.w3.org/TR/uievents/",
@@ -51453,21 +51478,6 @@
               "url": "https://wicg.github.io/credentiallessness/",
               "title": "Cross-Origin-Embedder-Policy: credentialless",
               "crawled": "https://wicg.github.io/credentiallessness/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -53763,7 +53773,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "18 October 2021",
+      "date": "19 October 2021",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -61867,7 +61877,8 @@
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#binarytype",
-            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
+            "https://html.spec.whatwg.org/#dom-websocket-binarytype",
+            "https://webidl.spec.whatwg.org/#DOMTimeStamp"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
