@@ -11487,7 +11487,6 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- [Streams Standard](https://streams.spec.whatwg.org/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
@@ -11498,7 +11497,9 @@ Normative references to this spec from:
 - [WebTransport](https://w3c.github.io/webtransport/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Streams Standard](https://streams.spec.whatwg.org/)
 
 
 ## Math Working Group {#math_working_group}
@@ -11936,7 +11937,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 13 October 2021
+- Crawled version: 20 October 2021
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -17530,11 +17531,11 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
 
 - [Streams Standard](https://streams.spec.whatwg.org/)
-
-No informative reference to this spec from other specs.
 
 
 ### Compute Pressure API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -22758,7 +22759,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 13 October 2021
+- Crawled version: 20 October 2021
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 

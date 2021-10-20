@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-20T06:44:45.880Z",
+  "date": "2021-10-20T12:48:25.179Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -2492,14 +2492,14 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
               "url": "https://streams.spec.whatwg.org/",
               "title": "Streams Standard",
               "crawled": "https://streams.spec.whatwg.org/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": true
       }
@@ -22434,11 +22434,6 @@
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
-              "url": "https://streams.spec.whatwg.org/",
-              "title": "Streams Standard",
-              "crawled": "https://streams.spec.whatwg.org/"
-            },
-            {
               "url": "https://url.spec.whatwg.org/",
               "title": "URL Standard",
               "crawled": "https://url.spec.whatwg.org/"
@@ -22484,7 +22479,13 @@
               "crawled": "https://xhr.spec.whatwg.org/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://streams.spec.whatwg.org/",
+              "title": "Streams Standard",
+              "crawled": "https://streams.spec.whatwg.org/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -43061,7 +43062,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "13 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -49373,7 +49374,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "13 October 2021",
+      "date": "20 October 2021",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
