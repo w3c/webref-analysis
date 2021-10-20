@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-20T12:48:25.179Z",
+  "date": "2021-10-20T18:41:44.531Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -1242,7 +1242,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -8195,7 +8195,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "7 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -9942,7 +9942,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "4 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10188,6 +10188,11 @@
               "crawled": "https://drafts.csswg.org/css-cascade/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-4/",
+              "title": "CSS Conditional Rules Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-conditional-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -10237,7 +10242,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "4 August 2021",
+      "date": "20 October 2021",
       "url": "https://drafts.csswg.org/css-fonts-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-fonts-5/",
@@ -21727,7 +21732,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "12 October 2021",
+      "date": "20 October 2021",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -26089,7 +26094,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -51396,7 +51401,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
