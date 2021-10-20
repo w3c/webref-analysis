@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-20T00:52:42.125Z",
+  "date": "2021-10-20T06:44:45.880Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -25333,6 +25333,11 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-timing-2/",
               "title": "Resource Timing Level 2",
               "crawled": "https://w3c.github.io/resource-timing/"
@@ -37963,7 +37968,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "19 October 2021",
+      "date": "20 October 2021",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -44244,7 +44249,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "16 June 2021",
+      "date": "20 October 2021",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",
@@ -44306,8 +44311,7 @@
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://www.w3.org/TR/secure-contexts/#secure-context",
-            "https://webidl.spec.whatwg.org/#DOMTimeStamp"
+            "https://www.w3.org/TR/secure-contexts/#secure-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54364,6 +54368,11 @@
               "crawled": "https://webassembly.github.io/spec/web-api/"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -55290,7 +55299,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "6 October 2021",
+      "date": "20 October 2021",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",

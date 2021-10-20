@@ -7213,7 +7213,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://www.w3.org/TR/secure-contexts/#secure-context`](https://www.w3.org/TR/secure-contexts/#secure-context)
-     * [`https://webidl.spec.whatwg.org/#DOMTimeStamp`](https://webidl.spec.whatwg.org/#DOMTimeStamp)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#the-initial-insertion-mode`](https://html.spec.whatwg.org/#the-initial-insertion-mode)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
@@ -8886,7 +8885,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4708 problematic external links found in 290 specifications
+=> 4707 problematic external links found in 290 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
