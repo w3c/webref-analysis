@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-21T12:49:46.478Z",
+  "date": "2021-10-21T18:52:02.109Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -9944,7 +9944,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "20 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10244,7 +10244,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "20 October 2021",
+      "date": "21 October 2021",
       "url": "https://drafts.csswg.org/css-fonts-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-fonts-5/",
@@ -25331,6 +25331,11 @@
               "crawled": "https://w3c.github.io/navigation-timing/"
             },
             {
+              "url": "https://notifications.spec.whatwg.org/",
+              "title": "Notifications API Standard",
+              "crawled": "https://notifications.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/paint-timing/",
               "title": "Paint Timing 1",
               "crawled": "https://w3c.github.io/paint-timing/"
@@ -26096,7 +26101,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "20 October 2021",
+      "date": "21 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36183,7 +36188,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "28 September 2021",
+      "date": "21 October 2021",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -38686,7 +38691,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "18 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -40970,7 +40975,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "19 July 2021",
+      "date": "21 October 2021",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -41036,7 +41041,6 @@
             "https://w3c.github.io/vibration/#idl-def-vibratepattern"
           ],
           "brokenLinks": [
-            "https://heycam.github.io/webidl/#DOMTimeStamp",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#structuredserializeforstorage",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
@@ -54112,6 +54116,11 @@
               "crawled": "https://w3c.github.io/image-resource/"
             },
             {
+              "url": "https://infra.spec.whatwg.org/",
+              "title": "Infra Standard",
+              "crawled": "https://infra.spec.whatwg.org/"
+            },
+            {
               "url": "https://wicg.github.io/input-device-capabilities/",
               "title": "Input Device Capabilities",
               "crawled": "https://wicg.github.io/input-device-capabilities/"
@@ -54175,6 +54184,11 @@
               "url": "https://wicg.github.io/netinfo/",
               "title": "Network Information API",
               "crawled": "https://wicg.github.io/netinfo/"
+            },
+            {
+              "url": "https://notifications.spec.whatwg.org/",
+              "title": "Notifications API Standard",
+              "crawled": "https://notifications.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/page-visibility-2/",
@@ -55134,7 +55148,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "14 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55182,7 +55196,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "14 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55273,7 +55287,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "14 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -61666,7 +61680,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "18 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
