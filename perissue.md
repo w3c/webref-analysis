@@ -186,9 +186,10 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 ## List of WebIDL names defined in more than one spec
 
 - `MessageEventSource` defined in [HTML Standard](https://html.spec.whatwg.org/multipage/) and [Portals](https://wicg.github.io/portals/)
+- `MidiPermissionDescriptor` defined in [Permissions](https://w3c.github.io/permissions/) and [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - `PermissionState` defined in [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/) and [Permissions](https://w3c.github.io/permissions/)
 
-=> 2 WebIDL names found
+=> 3 WebIDL names found
 
 "There can be only one"...
 

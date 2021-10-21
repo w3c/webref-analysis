@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-21T00:53:38.952Z",
+  "date": "2021-10-21T06:45:56.350Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -21790,7 +21790,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "20 October 2021",
+      "date": "21 October 2021",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -37976,7 +37976,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "20 October 2021",
+      "date": "21 October 2021",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -42477,6 +42477,16 @@
                 "crawled": "https://w3c.github.io/deviceorientation/"
               }
             ]
+          },
+          {
+            "name": "MidiPermissionDescriptor",
+            "refs": [
+              {
+                "url": "https://www.w3.org/TR/webmidi/",
+                "title": "Web MIDI API",
+                "crawled": "https://webaudio.github.io/web-midi-api/"
+              }
+            ]
           }
         ],
         "missingWebIdlRef": [],
@@ -42614,6 +42624,11 @@
               "url": "https://webbluetoothcg.github.io/web-bluetooth/",
               "title": "Web Bluetooth",
               "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://w3c.github.io/web-nfc/",
@@ -54411,6 +54426,11 @@
               "crawled": "https://w3c.github.io/webtransport/"
             },
             {
+              "url": "https://www.w3.org/TR/webxr/",
+              "title": "WebXR Device API",
+              "crawled": "https://immersive-web.github.io/webxr/"
+            },
+            {
               "url": "https://xhr.spec.whatwg.org/",
               "title": "XMLHttpRequest Standard",
               "crawled": "https://xhr.spec.whatwg.org/"
@@ -54556,7 +54576,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "11 August 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
@@ -54583,7 +54603,18 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
-        "redefinedIdlNames": [],
+        "redefinedIdlNames": [
+          {
+            "name": "MidiPermissionDescriptor",
+            "refs": [
+              {
+                "url": "https://www.w3.org/TR/permissions/",
+                "title": "Permissions",
+                "crawled": "https://w3c.github.io/permissions/"
+              }
+            ]
+          }
+        ],
         "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
@@ -62554,7 +62585,7 @@
     {
       "title": "WebXR Device API",
       "shortname": "webxr",
-      "date": "5 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/webxr/",
       "release": {
         "url": "https://www.w3.org/TR/webxr/",
