@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 20, 2021
+% October 21, 2021
 
 446 specifications were crawled in this report.
 
@@ -4568,8 +4568,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/aria/#legend`](https://w3c.github.io/aria/#legend)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/):
      * [`https://html.spec.whatwg.org/#attr-fe-autocomplete`](https://html.spec.whatwg.org/#attr-fe-autocomplete)
-     * [`https://html.spec.whatwg.org/#concept-request-origin`](https://html.spec.whatwg.org/#concept-request-origin)
+     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#parent-browsing-context`](https://html.spec.whatwg.org/#parent-browsing-context)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
@@ -4581,8 +4583,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
+     * [`https://html.spec.whatwg.org/#dom-manipulation-task-source`](https://html.spec.whatwg.org/#dom-manipulation-task-source)
      * [`https://html.spec.whatwg.org/#the-form-element`](https://html.spec.whatwg.org/#the-form-element)
      * [`https://html.spec.whatwg.org/#dom-form-submit`](https://html.spec.whatwg.org/#dom-form-submit)
      * [`https://html.spec.whatwg.org/#attr-fe-autocomplete-username`](https://html.spec.whatwg.org/#attr-fe-autocomplete-username)
@@ -8885,7 +8887,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4707 problematic external links found in 290 specifications
+=> 4709 problematic external links found in 290 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
