@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-21T06:45:56.350Z",
+  "date": "2021-10-21T12:49:46.478Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -51418,7 +51418,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "20 October 2021",
+      "date": "21 October 2021",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -51807,6 +51807,7 @@
             "https://html.spec.whatwg.org/#dom-location-protocol",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
+            "https://html.spec.whatwg.org/#concept-origin-tuple",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#eventsource",
