@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-22T12:11:25.864Z",
+  "date": "2021-10-22T12:48:11.358Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -9947,7 +9947,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -23054,7 +23054,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "19 October 2021",
+      "date": "22 October 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
