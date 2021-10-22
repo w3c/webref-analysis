@@ -170,14 +170,28 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 
 ## List of WebIDL names not defined in the specifications crawled
 
+- `ArrayBuffer` used in [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [HTML Standard](https://html.spec.whatwg.org/multipage/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- `BigInt64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- `BigUint64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - `CSSPercentishArray` used in [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- `DOMTimeStamp` used in [Cookie Store API](https://wicg.github.io/cookie-store/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- `DataView` used in [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web NFC](https://w3c.github.io/web-nfc/), [WebHID API](https://wicg.github.io/webhid/), [WebUSB API](https://wicg.github.io/webusb/)
+- `Float32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/), [WebXR Device API](https://immersive-web.github.io/webxr/), [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/), [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- `Float64Array` used in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- `Int16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- `Int32Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- `Int8Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `PostMessageOptions` used in [Portals](https://wicg.github.io/portals/)
+- `Uint16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebGPU](https://gpuweb.github.io/gpuweb/)
+- `Uint8Array` used in [Encoding Standard](https://encoding.spec.whatwg.org/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- `Uint8ClampedArray` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `WebAppManifest` used in [Web Share Target API](https://w3c.github.io/web-share-target/)
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 6 WebIDL names found
+=> 20 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
@@ -198,14 +212,25 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
-- [File API](https://w3c.github.io/FileAPI/) uses `MediaSource` but does not reference [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [Encoding Standard](https://encoding.spec.whatwg.org/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/) uses:
+    * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+    * `MediaSource` but does not reference [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [File System Access](https://wicg.github.io/file-system-access/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) uses `Gamepad` but does not reference [Gamepad](https://w3c.github.io/gamepad/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) uses `WebGL2RenderingContext` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) uses `DOMHighResTimeStamp` but does not reference [High Resolution Time](https://w3c.github.io/hr-time/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) uses `CSSPseudoElement` but does not reference [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation) uses:
     * `AuthenticationExtensionsClientInputs` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
     * `CollectedClientData` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/) uses `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/) uses:
+    * `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+    * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/) uses:
     * `GLenum` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLint` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -230,7 +255,10 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLint` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLsizei` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
-- [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/) uses `VideoFrame` but does not reference [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/) uses:
+    * `VideoFrame` but does not reference [WebCodecs](https://w3c.github.io/webcodecs/)
+    * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+    * `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/) uses `WebGLShader` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/) uses `GLenum` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/) uses:
@@ -249,6 +277,8 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `GLint` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLuint` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLsizei` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
+- [WebHID API](https://wicg.github.io/webhid/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [WebUSB API](https://wicg.github.io/webusb/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [WebXR Anchors Module](https://immersive-web.github.io/anchors/) uses `XRHitTestResult` but does not reference [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
 - [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/) uses `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/) uses:
@@ -263,7 +293,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 53 missing references for IDL definitions found in 25 specifications
+=> 66 missing references for IDL definitions found in 34 specifications
 
 
 ## No definition for CSS properties

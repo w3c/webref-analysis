@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-22T06:44:26.560Z",
+  "date": "2021-10-22T12:11:25.864Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -3213,7 +3213,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "DOMTimeStamp"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -9884,6 +9886,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
+          "ArrayBuffer",
           "CSSOMString"
         ],
         "redefinedIdlNames": [],
@@ -22329,9 +22332,22 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Uint8Array"
+        ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -22537,9 +22553,22 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -23047,7 +23076,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -23614,9 +23645,21 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          },
           {
             "name": "MediaSource",
             "refs": [
@@ -23829,7 +23872,18 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -24406,7 +24460,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array",
+          "Uint32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {
@@ -24807,7 +24864,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array",
+          "Float64Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -26185,6 +26245,8 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
+          "ArrayBuffer",
+          "Uint8ClampedArray",
           "WindowProxy"
         ],
         "redefinedIdlNames": [
@@ -39759,7 +39821,18 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -41224,7 +41297,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array",
+          "Float64Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -43607,7 +43683,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -44302,7 +44380,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -53246,7 +53326,11 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer",
+          "Float32Array",
+          "Uint8Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -53399,7 +53483,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -53614,9 +53700,22 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "DataView"
+        ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -53730,7 +53829,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer",
+          "Uint8Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -53822,7 +53924,21 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer",
+          "BigInt64Array",
+          "BigUint64Array",
+          "DataView",
+          "Float32Array",
+          "Float64Array",
+          "Int16Array",
+          "Int32Array",
+          "Int8Array",
+          "Uint16Array",
+          "Uint32Array",
+          "Uint8Array",
+          "Uint8ClampedArray"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -54612,7 +54728,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Uint8Array"
+        ],
         "redefinedIdlNames": [
           {
             "name": "MidiPermissionDescriptor",
@@ -54690,7 +54808,18 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "ArrayBufferView",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -54752,7 +54881,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "DataView"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -55217,7 +55348,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -55910,9 +56043,32 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Uint32Array"
+        ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "ArrayBufferView",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "obsoleteDfnsModel": true
         },
@@ -58699,7 +58855,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array",
+          "Int32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {
@@ -58709,6 +58868,26 @@
                 "url": "https://www.w3.org/TR/webcodecs/",
                 "title": "WebCodecs",
                 "crawled": "https://w3c.github.io/webcodecs/"
+              }
+            ]
+          },
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "ArrayBufferView",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
               }
             ]
           }
@@ -61111,7 +61290,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Int32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {
@@ -61258,7 +61439,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Int32Array",
+          "Uint32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {
@@ -61383,7 +61567,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer",
+          "Uint32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -61558,9 +61745,22 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "DataView"
+        ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -61701,7 +61901,10 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer",
+          "DOMTimeStamp"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -61980,6 +62183,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
+          "ArrayBuffer",
           "bigint"
         ],
         "redefinedIdlNames": [],
@@ -62168,9 +62372,22 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "DataView"
+        ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BufferSource",
+            "refs": [
+              {
+                "url": "https://webidl.spec.whatwg.org/",
+                "title": "Web IDL Standard",
+                "crawled": "https://webidl.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -62543,7 +62760,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "ArrayBuffer"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {
@@ -62621,7 +62840,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {
@@ -62987,7 +63208,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -63065,7 +63288,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -63256,7 +63481,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Float32Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {

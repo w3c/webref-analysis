@@ -1221,7 +1221,7 @@ No informative reference to this spec from other specs.
 
 ## WebGL Working Group {#webgl_working_group}
 
-### WebGL 2.0 Specification {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### WebGL 2.0 Specification {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -1233,6 +1233,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Uint32Array`
+- Missing references for WebIDL names: 
+     * `ArrayBufferView` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-offscreencanvas-interface`](https://html.spec.whatwg.org/#the-offscreencanvas-interface)
 - External links to outdated specs:
@@ -1992,7 +1996,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL Specification {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
+### WebGL Specification {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -2004,8 +2008,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`, `Int32Array`
 - Missing references for WebIDL names: 
      * `VideoFrame` defined in [WebCodecs](https://w3c.github.io/webcodecs/)
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
+     * `ArrayBufferView` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
      * [`https://html.spec.whatwg.org/#imagebitmapoptions`](https://html.spec.whatwg.org/#imagebitmapoptions)
@@ -2510,7 +2517,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_multi_draw Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL WEBGL_multi_draw Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2524,6 +2531,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `Int32Array`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLint` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -2543,7 +2551,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2557,6 +2565,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `Int32Array`, `Uint32Array`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLint` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -3478,7 +3487,7 @@ No informative reference to this spec from other specs.
 
 ## Audio Working Group {#audio_working_group}
 
-### Web Audio API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Audio API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -3491,6 +3500,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`, `Float32Array`, `Uint8Array`
 - Missing references for links: 
      * [`https://www.w3.org/TR/mediacapture-fromelement/`](https://www.w3.org/TR/mediacapture-fromelement/)
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
@@ -3565,7 +3575,7 @@ Informative references to this spec from:
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
-### Web MIDI API {data-spec=true data-anomaly=true data-redefinedIdlNames=true data-missingDfns=true data-xrefs=true}
+### Web MIDI API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-redefinedIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -3578,6 +3588,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Uint8Array`
 - WebIDL names also defined elsewhere: 
     * `MidiPermissionDescriptor` also defined in [Permissions](https://w3c.github.io/permissions/)
 - Broken external links:
@@ -6053,7 +6064,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown WebIDL names used: `ArrayBuffer`, `CSSOMString`
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - Broken external links:
@@ -9596,7 +9607,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Geometry Interfaces Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Geometry Interfaces Module Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9609,6 +9620,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`, `Float64Array`
 - External links to private terms:
      * [`https://drafts.csswg.org/css-values-4/#absolute-length`](https://drafts.csswg.org/css-values-4/#absolute-length)
 - External links that neither target definitions nor headings:
@@ -10639,7 +10651,7 @@ Informative references to this spec from:
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 
 
-### Orientation Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Orientation Sensor {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10652,6 +10664,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`, `Float64Array`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/)
      * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
@@ -10793,7 +10806,7 @@ No informative reference to this spec from other specs.
 
 ## GPU for the Web Working Group {#gpu_for_the_web_working_group}
 
-### WebGPU {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebGPU {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10806,6 +10819,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`, `Uint32Array`
 - Missing references for links: 
      * [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/)
 - External links to private terms:
@@ -10942,7 +10956,7 @@ Informative references to this spec from:
 
 ## HTML Media Extensions Working Group {#html_media_extensions_working_group}
 
-### Encrypted Media Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Encrypted Media Extensions {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10955,6 +10969,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
+- Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
      * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
@@ -11064,7 +11081,7 @@ Informative references to this spec from:
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
-### WebXR Depth Sensing Module {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
+### WebXR Depth Sensing Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11077,6 +11094,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
 - Missing references for WebIDL names: 
      * `WebGLTexture` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - External links to private terms:
@@ -11101,7 +11119,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Device API {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### WebXR Device API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11114,6 +11132,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`
 - Missing references for WebIDL names: 
      * `WebGLRenderingContext` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `WebGLFramebuffer` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -11255,7 +11274,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebXR Hand Input Module - Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebXR Hand Input Module - Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11268,6 +11287,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/), related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 - External links to private terms:
@@ -11295,7 +11315,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Hit Test Module {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### WebXR Hit Test Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11308,6 +11328,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`
 - External links to private terms:
      * [`https://www.w3.org/TR/webxr/#feature-descriptor`](https://www.w3.org/TR/webxr/#feature-descriptor)
      * [`https://www.w3.org/TR/webxr/#capable-of-supporting`](https://www.w3.org/TR/webxr/#capable-of-supporting)
@@ -11408,7 +11429,7 @@ Although they do not, the following specs should also normatively reference this
 No informative reference to this spec from other specs.
 
 
-### WebXR Lighting Estimation API Level 1 {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebXR Lighting Estimation API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11420,6 +11441,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`
 - Missing references for WebIDL names: 
      * `XRWebGLBinding` defined in [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
      * `WebGLTexture` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -11449,7 +11471,7 @@ No informative reference to this spec from other specs.
 
 ## Internationalization Working Group {#internationalization_working_group}
 
-### Encoding Standard {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Encoding Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11462,6 +11484,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Uint8Array`
+- Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#event-loop`](https://html.spec.whatwg.org/#event-loop)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -11670,7 +11695,7 @@ Informative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 
 
-### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11683,6 +11708,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Missing references for links: 
      * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/)
      * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/)
@@ -12986,7 +13013,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Presentation API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Presentation API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12999,6 +13026,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#dom-location-reload`](https://html.spec.whatwg.org/#dom-location-reload)
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
@@ -14810,7 +14838,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### File API {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### File API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14823,7 +14851,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
 - Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
      * `MediaSource` defined in [Media Source Extensions™](https://w3c.github.io/media-source/)
 - Missing references for links: 
      * [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/)
@@ -14939,7 +14969,7 @@ Informative references to this spec from:
 - [WebHID API](https://wicg.github.io/webhid/)
 
 
-### Gamepad Extensions {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Gamepad Extensions {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14951,6 +14981,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Float32Array`, `Uint32Array`
 - Missing references for WebIDL names: 
      * `Gamepad` defined in [Gamepad](https://w3c.github.io/gamepad/)
 - Missing references for links: 
@@ -15203,7 +15234,7 @@ Informative references to this spec from:
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 
 
-### Push API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Push API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15216,6 +15247,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#network`](https://html.spec.whatwg.org/#network)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
@@ -15544,7 +15576,7 @@ No informative reference to this spec from other specs.
 
 ## Web Authentication Working Group {#web_authentication_working_group}
 
-### Web Authentication: An API for accessing Public Key Credentials - Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Authentication: An API for accessing Public Key Credentials - Level 3 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15557,6 +15589,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
 - Missing references for links: 
      * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
      * [`https://www.w3.org/TR/string-meta/`](https://www.w3.org/TR/string-meta/)
@@ -15625,7 +15658,7 @@ Informative references to this spec from:
 
 ## Web Bluetooth Community Group {#web_bluetooth_community_group}
 
-### Web Bluetooth {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Web Bluetooth {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15637,6 +15670,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `DataView`
+- Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -15680,7 +15716,7 @@ Informative references to this spec from:
 
 ## Web Cryptography Working Group {#web_cryptography_working_group}
 
-### Web Cryptography API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Web Cryptography API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15693,6 +15729,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`, `Uint8Array`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -15850,7 +15887,7 @@ Informative references to this spec from:
 
 ## Web Machine Learning Working Group {#web_machine_learning_working_group}
 
-### Web Neural Network API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Web Neural Network API {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15863,6 +15900,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for WebIDL names: 
+     * `ArrayBufferView` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - Broken external links:
@@ -15882,7 +15921,7 @@ No informative reference to this spec from other specs.
 
 ## Web NFC Community Group {#web_nfc_community_group}
 
-### Web NFC {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Web NFC {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15894,6 +15933,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `DataView`
 - External links to private terms:
      * [`https://url.spec.whatwg.org/#concept-domain-to-ascii`](https://url.spec.whatwg.org/#concept-domain-to-ascii)
      * [`https://dom.spec.whatwg.org/#abortsignal-abort-algorithms`](https://dom.spec.whatwg.org/#abortsignal-abort-algorithms)
@@ -17658,7 +17698,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Cookie Store API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Cookie Store API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17670,6 +17710,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `DOMTimeStamp`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/), related reference "Service-Workers" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 - Broken external links:
@@ -18117,7 +18158,7 @@ Informative references to this spec from:
 - [File System Access](https://wicg.github.io/file-system-access/)
 
 
-### File System Access {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### File System Access {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18129,6 +18170,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FILE-API" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -19922,7 +19965,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebHID API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### WebHID API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19934,6 +19977,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `DataView`
+- Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -19991,7 +20037,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebUSB API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebUSB API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20003,6 +20049,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `DataView`
+- Missing references for WebIDL names: 
+     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
@@ -20694,7 +20743,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebRTC 1.0: Real-Time Communication Between Browsers {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### WebRTC 1.0: Real-Time Communication Between Browsers {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20707,6 +20756,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`, `DOMTimeStamp`
 - Possibly no definition for IDL properties: 
      * `setStreams(...streams)` with type `method` for [`RTCRtpSender`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender), but found [`setStreams()`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams) with type `method` for `RTCRtpSender`
      * `addTrack(track, ...streams)` with type `method` for [`RTCPeerConnection`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection), but found [`addTrack()`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack) with type `method` for `RTCPeerConnection`
@@ -20776,7 +20826,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `bigint`
+- Unknown WebIDL names used: `ArrayBuffer`, `bigint`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webcrypto/`](https://w3c.github.io/webcrypto/), related reference "WebCryptoAPI" uses URL [`https://www.w3.org/TR/WebCryptoAPI/`](https://www.w3.org/TR/WebCryptoAPI/)
 - Broken external links:
@@ -20847,7 +20897,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20860,6 +20910,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
 - Missing references for links: 
      * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
      * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
@@ -21317,7 +21368,7 @@ Informative references to this spec from:
 
 ## Fetch Workstream {#fetch_workstream}
 
-### Fetch Standard {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Fetch Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21329,6 +21380,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`
 - External links to private terms:
      * [`https://w3c.github.io/FileAPI/#readOperation`](https://w3c.github.io/FileAPI/#readOperation)
 - Broken external links:
@@ -21553,7 +21605,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `WindowProxy`
+- Unknown WebIDL names used: `ArrayBuffer`, `Uint8ClampedArray`, `WindowProxy`
 - WebIDL names also defined elsewhere: 
     * `MessageEventSource` also defined in [Portals](https://wicg.github.io/portals/)
 - Missing references for WebIDL names: 
@@ -22929,7 +22981,7 @@ Informative references to this spec from:
 
 ## Web IDL Workstream {#web_idl_workstream}
 
-### Web IDL Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Web IDL Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -22941,6 +22993,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `ArrayBuffer`, `BigInt64Array`, `BigUint64Array`, `DataView`, `Float32Array`, `Float64Array`, `Int16Array`, `Int32Array`, `Int8Array`, `Uint16Array`, `Uint32Array`, `Uint8Array`, `Uint8ClampedArray`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/)
 - Broken external links:
@@ -23101,6 +23154,20 @@ Normative references to this spec from:
 - [WebTransport](https://w3c.github.io/webtransport/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
+- [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
+- [WebHID API](https://wicg.github.io/webhid/)
+- [WebUSB API](https://wicg.github.io/webusb/)
 
 Informative references to this spec from:
 
