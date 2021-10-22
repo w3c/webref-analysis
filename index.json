@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-21T18:52:02.109Z",
+  "date": "2021-10-22T00:53:35.671Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -18779,7 +18779,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "19 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -37515,7 +37515,7 @@
     {
       "title": "JS Self-Profiling API",
       "shortname": "js-self-profiling",
-      "date": "15 October 2021",
+      "date": "21 October 2021",
       "url": "https://wicg.github.io/js-self-profiling/",
       "nightly": {
         "url": "https://wicg.github.io/js-self-profiling/",
@@ -44276,7 +44276,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "20 October 2021",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",
@@ -44332,13 +44332,13 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#network",
+            "https://html.spec.whatwg.org/#secure-context",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
-            "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://www.w3.org/TR/secure-contexts/#secure-context"
+            "https://html.spec.whatwg.org/#event-handler-event-type"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45506,7 +45506,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45561,7 +45561,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45650,7 +45650,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45724,7 +45724,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45782,7 +45782,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45820,7 +45820,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45870,7 +45870,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45926,7 +45926,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "21 October 2021",
+      "date": "22 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -48097,11 +48097,6 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/push-api/",
-              "title": "Push API",
-              "crawled": "https://w3c.github.io/push-api/"
             },
             {
               "url": "https://www.w3.org/TR/referrer-policy/",
@@ -51148,7 +51143,7 @@
     {
       "title": "UI Events KeyboardEvent code Values",
       "shortname": "uievents-code",
-      "date": "13 July 2020",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/uievents-code/",
       "release": {
         "url": "https://www.w3.org/TR/uievents-code/",
@@ -51236,7 +51231,7 @@
     {
       "title": "UI Events KeyboardEvent key Values",
       "shortname": "uievents-key",
-      "date": "11 April 2018",
+      "date": "21 October 2021",
       "url": "https://www.w3.org/TR/uievents-key/",
       "release": {
         "url": "https://www.w3.org/TR/uievents-key/",
