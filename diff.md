@@ -1,4 +1,4 @@
-% Diff between report from "October 22, 2021" and reference report from "October 21, 2021"
+% Diff between report from "October 22, 2021" and reference report from "October 22, 2021"
 % Strudy
 % October 22, 2021
 
