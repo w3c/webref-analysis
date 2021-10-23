@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-23T00:53:22.081Z",
+  "date": "2021-10-23T06:42:54.255Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -21793,7 +21793,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "22 October 2021",
+      "date": "23 October 2021",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23914,7 +23914,6 @@
             "https://w3c.github.io/FileAPI/#UnixEpoch",
             "https://w3c.github.io/FileAPI/#snapshot-state",
             "https://w3c.github.io/FileAPI/#readOperation",
-            "https://w3c.github.io/permissions/#dfn-create-a-permissionstatus",
             "https://storage.spec.whatwg.org/#storage-endpoint-identifier",
             "https://storage.spec.whatwg.org/#storage-endpoint-types",
             "https://storage.spec.whatwg.org/#storage-endpoint-quota"
@@ -42520,7 +42519,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "17 October 2021",
+      "date": "23 October 2021",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
