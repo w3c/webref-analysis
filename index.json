@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-24T00:53:16.391Z",
+  "date": "2021-10-24T06:41:52.693Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -54556,6 +54556,11 @@
               "crawled": "https://immersive-web.github.io/webxr/"
             },
             {
+              "url": "https://www.w3.org/TR/webxrlayers-1/",
+              "title": "WebXR Layers API Level 1",
+              "crawled": "https://immersive-web.github.io/layers/"
+            },
+            {
               "url": "https://xhr.spec.whatwg.org/",
               "title": "XMLHttpRequest Standard",
               "crawled": "https://xhr.spec.whatwg.org/"
@@ -63338,7 +63343,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "1 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
