@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-23T18:49:18.515Z",
+  "date": "2021-10-24T00:53:16.391Z",
   "stats": {
     "crawled": 446,
-    "errors": 1,
+    "errors": 0,
     "studied": 446
   },
   "results": [
@@ -4052,6 +4052,11 @@
               "crawled": "https://drafts.csswg.org/css-fonts-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -5154,6 +5159,11 @@
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -5983,10 +5993,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-break-3/#fragmentation-model",
-            "https://www.w3.org/TR/css-break-3/#break-margins"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -6088,6 +6095,11 @@
               "url": "https://www.w3.org/TR/css3-exclusions/",
               "title": "CSS Exclusions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-exclusions/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
@@ -6258,10 +6270,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-break-3/#fragmentation-model",
-            "https://www.w3.org/TR/css-break-3/#break-margins"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -6364,6 +6373,11 @@
               "url": "https://www.w3.org/TR/css-flexbox-1/",
               "title": "CSS Flexible Box Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
@@ -6785,9 +6799,7 @@
             "https://html.spec.whatwg.org/#quirks-mode",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints",
-            "https://html.spec.whatwg.org/#the-s-element",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans"
+            "https://html.spec.whatwg.org/#the-s-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -6918,10 +6930,7 @@
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints",
             "https://html.spec.whatwg.org/#the-s-element",
-            "https://html.spec.whatwg.org/#the-slot-element",
-            "https://www.w3.org/TR/css-break-3/#page-break-properties",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans"
+            "https://html.spec.whatwg.org/#the-slot-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -7112,6 +7121,11 @@
               "url": "https://drafts.csswg.org/css-fonts-5/",
               "title": "CSS Fonts Module Level 5",
               "crawled": "https://drafts.csswg.org/css-fonts-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
@@ -7358,10 +7372,7 @@
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints",
             "https://html.spec.whatwg.org/#the-s-element",
-            "https://html.spec.whatwg.org/#the-slot-element",
-            "https://www.w3.org/TR/css-break-3/#page-break-properties",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans"
+            "https://html.spec.whatwg.org/#the-slot-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -7585,7 +7596,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "19 October 2021",
+      "date": "23 October 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7903,7 +7914,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "16 October 2021",
+      "date": "23 October 2021",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8009,7 +8020,7 @@
     {
       "title": "CSS Conditional Rules Module Level 3",
       "shortname": "css-conditional-3",
-      "date": "6 October 2021",
+      "date": "23 October 2021",
       "url": "https://www.w3.org/TR/css-conditional-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -8188,7 +8199,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "20 October 2021",
+      "date": "23 October 2021",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -8382,6 +8393,7 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://drafts.csswg.org/css-break-3/#monolithic",
             "https://drafts.csswg.org/css2/#stacking-context",
             "https://w3c.github.io/IntersectionObserver/#intersectionobserver-intersection-root"
           ],
@@ -8395,15 +8407,7 @@
             "https://html.spec.whatwg.org/#update-the-rendering",
             "https://html.spec.whatwg.org/#dom-window-focus",
             "https://html.spec.whatwg.org/#the-iframe-element",
-            "https://html.spec.whatwg.org/#dom-innertext",
-            "https://drafts.csswg.org/css-break-3/#monolithic",
-            "https://drafts.csswg.org/css-break-3/#fragmentation-container",
-            "https://drafts.csswg.org/css-break-3/#fragmentation-context",
-            "https://drafts.csswg.org/css-break-3/#fragmented-flow",
-            "https://drafts.csswg.org/css-break-3/#fragmentation",
-            "https://drafts.csswg.org/css-break-3/#forced-break",
-            "https://www.w3.org/TR/css-break-3/#possible-breaks",
-            "https://www.w3.org/TR/css-break-3/#break-between"
+            "https://html.spec.whatwg.org/#dom-innertext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8970,6 +8974,11 @@
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -9259,7 +9268,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#fragment",
             "https://html.spec.whatwg.org/#the-summary-element",
             "https://html.spec.whatwg.org/#the-legend-element",
             "https://html.spec.whatwg.org/#the-fieldset-element",
@@ -9646,9 +9654,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-break-3/#fragment"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -9804,6 +9810,11 @@
               "crawled": "https://drafts.csswg.org/css-exclusions/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -9829,14 +9840,12 @@
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#attr-tabindex",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside",
+          "notDfn": [
             "https://www.w3.org/TR/css3-break/#btw-blocks",
             "https://www.w3.org/TR/css3-break/#end-block"
+          ],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9938,7 +9947,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "22 October 2021",
+      "date": "23 October 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10238,7 +10247,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "21 October 2021",
+      "date": "23 October 2021",
       "url": "https://drafts.csswg.org/css-fonts-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-fonts-5/",
@@ -10307,6 +10316,7 @@
     {
       "title": "CSS Fragmentation Module Level 3",
       "shortname": "css-break-3",
+      "date": "17 May 2021",
       "url": "https://www.w3.org/TR/css-break-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-break-3/",
@@ -10318,12 +10328,7 @@
         "sourcePath": "css-break-3/Overview.bs",
         "filename": "Overview.html"
       },
-      "crawled": {
-        "url": "https://drafts.csswg.org/css-break/",
-        "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "css-break-3/Overview.bs",
-        "filename": "Overview.html"
-      },
+      "crawled": "https://drafts.csswg.org/css-break/",
       "organization": "W3C",
       "groups": [
         {
@@ -10332,8 +10337,7 @@
         }
       ],
       "report": {
-        "error": "TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded\n    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:106:111",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -10341,11 +10345,40 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "margin-break"
+                ],
+                "type": "property",
+                "for": []
+              }
+            }
+          ],
           "idl": []
         },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css3-regions/",
+          "https://www.w3.org/TR/css3-multicol/",
+          "https://www.w3.org/TR/css3-page/",
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/2011/REC-CSS2-20110607/",
+          "https://www.w3.org/TR/css3-writing-modes/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css3-background/",
+          "https://www.w3.org/TR/2015/WD-css3-break-20150129/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://www.w3.org/TR/css-values-3/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -10500,6 +10533,22 @@
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
             }
+          ]
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://www.w3.org/TR/css3-background/#background-positioning-area"
+          ],
+          "notDfn": [
+            "https://www.w3.org/TR/css3-page/#left-right-first"
+          ],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": [
+            "https://www.w3.org/TR/2011/REC-CSS2-20110607/",
+            "https://www.w3.org/TR/2015/WD-css3-break-20150129/"
           ]
         },
         "ok": false
@@ -10710,10 +10759,7 @@
           "notDfn": [
             "https://www.w3.org/TR/css-page-3/#left-right-first"
           ],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-break-3/#breaking-controls",
-            "https://www.w3.org/TR/css-break-3/#acknowledgments"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -10819,7 +10865,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://www.w3.org/TR/css3-selectors/#first-letter",
-            "https://drafts.csswg.org/css-break/#widows-orphans",
             "https://drafts.csswg.org/css-color/#cmyk-colors",
             "https://drafts.csswg.org/css-overflow-3/#paginated-overflow"
           ],
@@ -11181,16 +11226,12 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [
-            "https://www.w3.org/TR/css-flexbox-1/#order-accessibility"
-          ],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#attr-tabindex",
-            "https://drafts.csswg.org/css-break-3/#fragment",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after",
-            "https://www.w3.org/TR/css-break-3/#break-margins",
+            "https://www.w3.org/TR/css-flexbox-1/#order-accessibility",
             "https://www.w3.org/TR/css3-break/#btw-blocks",
             "https://www.w3.org/TR/css3-break/#end-block"
+          ],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -11824,15 +11865,13 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/css-break-3/#monolithic",
             "https://drafts.csswg.org/css-text-3/#hang",
             "https://drafts.csswg.org/css-text-3/#word-separator",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#fragment",
-            "https://drafts.csswg.org/css-break-3/#monolithic",
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans",
             "https://html.spec.whatwg.org/#textmetrics"
           ],
           "evolvingLinks": [],
@@ -11902,8 +11941,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#fragment",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside",
             "https://html.spec.whatwg.org/#worklet",
             "https://html.spec.whatwg.org/#worklet-global-scope-type",
             "https://html.spec.whatwg.org/#workletglobalscope",
@@ -12365,6 +12402,11 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -12620,6 +12662,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -12693,12 +12740,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside",
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -12761,11 +12803,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -13375,6 +13413,11 @@
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -13556,13 +13599,7 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-html-element",
             "https://html.spec.whatwg.org/#html-vs-xhtml",
-            "https://html.spec.whatwg.org/#the-body-element",
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after",
-            "https://www.w3.org/TR/css-break-3/#varying-size-boxes",
-            "https://www.w3.org/TR/css-break-3/#parallel-flows"
+            "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -13928,6 +13965,11 @@
               "crawled": "https://drafts.csswg.org/css-display/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -14026,12 +14068,10 @@
             "https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://www.w3.org/TR/css3-break/#forced-breaks",
+          "notDfn": [
             "https://www.w3.org/TR/css3-break/#btw-blocks"
           ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -14400,6 +14440,11 @@
               "url": "https://www.w3.org/TR/css-sizing-4/",
               "title": "CSS Box Sizing Module Level 4",
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
@@ -14798,6 +14843,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -14844,11 +14894,7 @@
             "https://drafts.csswg.org/css3-multicol/#multi-column-element"
           ],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#attr-tabindex",
-            "https://www.w3.org/TR/css3-break/#varying-size-boxes",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after"
+            "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -14938,9 +14984,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#fragment"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -15670,6 +15714,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
@@ -16524,9 +16573,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/css-transforms/#grouping-property-values",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside",
             "https://html.spec.whatwg.org/#tables-2"
           ],
           "evolvingLinks": [],
@@ -16656,7 +16702,6 @@
             "https://www.w3.org/TR/css-backgrounds-3/#the-border-style"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/css-break-3/#fragment",
             "https://html.spec.whatwg.org/#the-ins-element",
             "https://html.spec.whatwg.org/#the-del-element",
             "https://www.w3.org/TR/css-color-3/#color0"
@@ -16823,7 +16868,6 @@
             "https://www.w3.org/TR/css-ruby-1/#autohide"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#fragment",
             "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
@@ -17056,6 +17100,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 4",
               "crawled": "https://drafts.csswg.org/css-cascade/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
@@ -17299,6 +17348,11 @@
               "url": "https://www.w3.org/TR/css-box-4/",
               "title": "CSS Box Model Module Level 4",
               "crawled": "https://drafts.csswg.org/css-box-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
@@ -17960,10 +18014,6 @@
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-after",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-before",
-            "https://drafts.csswg.org/css-break-3/#propdef-break-inside",
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans",
             "https://drafts.csswg.org/css-fonts-3/#absolute-size-value",
             "https://drafts.csswg.org/css-fonts-3/#relative-size-value"
           ],
@@ -18409,6 +18459,11 @@
               "crawled": "https://drafts.csswg.org/css-fonts-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -18708,7 +18763,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans",
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
@@ -18964,6 +19018,11 @@
               "url": "https://drafts.csswg.org/css-fonts-5/",
               "title": "CSS Fonts Module Level 5",
               "crawled": "https://drafts.csswg.org/css-fonts-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-4/",
@@ -19331,7 +19390,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-break-3/#propdef-orphans",
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
@@ -19546,6 +19604,11 @@
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -19756,8 +19819,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#bidi-rendering",
-            "https://html.spec.whatwg.org/#the-body-element",
-            "https://drafts.csswg.org/css-break-3/#fragment"
+            "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -39528,6 +39590,11 @@
               "crawled": "https://drafts.csswg.org/css-display/"
             },
             {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
@@ -45518,7 +45585,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45573,7 +45640,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45662,7 +45729,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45736,7 +45803,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45794,7 +45861,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45832,7 +45899,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45882,7 +45949,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45938,7 +46005,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "23 October 2021",
+      "date": "24 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
