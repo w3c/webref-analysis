@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-25T06:43:37.924Z",
+  "date": "2021-10-25T12:48:35.296Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -15632,8 +15632,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/selectors-4/#live-profile",
-            "https://infra.spec.whatwg.org/#pair"
+            "https://www.w3.org/TR/selectors-4/#live-profile"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -23055,7 +23054,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "22 October 2021",
+      "date": "25 October 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24759,8 +24758,7 @@
             "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#list-of-active-timers",
-            "https://html.spec.whatwg.org/#task-source",
-            "https://webidl.spec.whatwg.org/#DOMTimeStamp"
+            "https://html.spec.whatwg.org/#task-source"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -37531,7 +37529,7 @@
     {
       "title": "Intl.Segmenter Proposal",
       "shortname": "tc39-intl-segmenter",
-      "date": "22 August 2021",
+      "date": "25 October 2021",
       "url": "https://tc39.es/proposal-intl-segmenter/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-segmenter/",
@@ -38756,7 +38754,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "21 October 2021",
+      "date": "25 October 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -44357,7 +44355,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "21 October 2021",
+      "date": "25 October 2021",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",
@@ -61886,7 +61884,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "21 October 2021",
+      "date": "25 October 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -62154,8 +62152,7 @@
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#binarytype",
-            "https://html.spec.whatwg.org/#dom-websocket-binarytype",
-            "https://webidl.spec.whatwg.org/#DOMTimeStamp"
+            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -63624,7 +63621,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "19 October 2021",
+      "date": "25 October 2021",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
