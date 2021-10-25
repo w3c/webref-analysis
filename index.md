@@ -75,7 +75,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 20 October 2021
+- Crawled version: 25 October 2021
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -8097,6 +8097,7 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/selectors-4/#structural-pseudo-classes`](https://drafts.csswg.org/selectors-4/#structural-pseudo-classes)
 - Broken external links:
      * [`https://www.w3.org/TR/selectors-4/#live-profile`](https://www.w3.org/TR/selectors-4/#live-profile)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13268,6 +13269,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#auxiliary-browsing-context`](https://html.spec.whatwg.org/#auxiliary-browsing-context)
      * [`https://html.spec.whatwg.org/#module-map`](https://html.spec.whatwg.org/#module-map)
      * [`https://html.spec.whatwg.org/#resolve-a-module-specifier`](https://html.spec.whatwg.org/#resolve-a-module-specifier)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
      * [`https://w3c.github.io/push-api/#h-the-push-event`](https://w3c.github.io/push-api/#h-the-push-event)
      * [`https://w3c.github.io/push-api/#dfn-push`](https://w3c.github.io/push-api/#dfn-push)
      * [`https://w3c.github.io/push-api/#dfn-fire-the-push-event`](https://w3c.github.io/push-api/#dfn-fire-the-push-event)
@@ -18211,6 +18213,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-drag-data-item-kind`](https://html.spec.whatwg.org/#the-drag-data-item-kind)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#event-messageerror`](https://html.spec.whatwg.org/#event-messageerror)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18633,6 +18636,7 @@ No informative reference to this spec from other specs.
      * [`https://wicg.github.io/event-timing#has-dispatched-input-event`](https://wicg.github.io/event-timing#has-dispatched-input-event)
      * [`https://drafts.csswg.org/cssom-view/#viewport`](https://drafts.csswg.org/cssom-view/#viewport)
 - Broken external links:
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
@@ -18714,7 +18718,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 21 October 2021
+- Crawled version: 25 October 2021
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
@@ -19537,6 +19541,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#sandboxed-plugins-browsing-context-flag`](https://html.spec.whatwg.org/#sandboxed-plugins-browsing-context-flag)
      * [`https://html.spec.whatwg.org/#concept-plugin-secure`](https://html.spec.whatwg.org/#concept-plugin-secure)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21011,6 +21016,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://html.spec.whatwg.org/#concept-agent-event-loop`](https://html.spec.whatwg.org/#concept-agent-event-loop)
      * [`https://html.spec.whatwg.org/#feedback-from-the-protocol`](https://html.spec.whatwg.org/#feedback-from-the-protocol)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21567,6 +21573,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#attr-iframe-allowfullscreen`](https://html.spec.whatwg.org/#attr-iframe-allowfullscreen)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -22440,7 +22447,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Crawled URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
-- Crawled version: 21 October 2021
+- Crawled version: 24 October 2021
 - Editor's Draft: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Shortname: infra
 
@@ -23024,6 +23031,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#serializable-objects`](https://html.spec.whatwg.org/#serializable-objects)
      * [`https://html.spec.whatwg.org/#serialization-steps`](https://html.spec.whatwg.org/#serialization-steps)
      * [`https://html.spec.whatwg.org/#deserialization-steps`](https://html.spec.whatwg.org/#deserialization-steps)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/)
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-25T00:51:00.866Z",
+  "date": "2021-10-25T06:43:37.924Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -15632,7 +15632,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/selectors-4/#live-profile"
+            "https://www.w3.org/TR/selectors-4/#live-profile",
+            "https://infra.spec.whatwg.org/#pair"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -21737,7 +21738,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "20 October 2021",
+      "date": "25 October 2021",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -23947,7 +23948,8 @@
             "https://html.spec.whatwg.org/#concept-dnd-ro",
             "https://html.spec.whatwg.org/#the-drag-data-item-kind",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#event-messageerror"
+            "https://html.spec.whatwg.org/#event-messageerror",
+            "https://infra.spec.whatwg.org/#pair"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -24340,7 +24342,8 @@
             "https://html.spec.whatwg.org/#event-handler-content-attributes",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#attr-iframe-allowfullscreen",
-            "https://html.spec.whatwg.org/#attr-iframe-allow"
+            "https://html.spec.whatwg.org/#attr-iframe-allow",
+            "https://infra.spec.whatwg.org/#pair"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -36249,7 +36252,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "21 October 2021",
+      "date": "24 October 2021",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -37910,6 +37913,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://infra.spec.whatwg.org/#pair",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-document-bc",
@@ -38042,7 +38046,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "21 October 2021",
+      "date": "25 October 2021",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -48000,7 +48004,8 @@
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#sandboxed-plugins-browsing-context-flag",
-            "https://html.spec.whatwg.org/#concept-plugin-secure"
+            "https://html.spec.whatwg.org/#concept-plugin-secure",
+            "https://infra.spec.whatwg.org/#pair"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -49262,6 +49267,7 @@
             "https://html.spec.whatwg.org/#auxiliary-browsing-context",
             "https://html.spec.whatwg.org/#module-map",
             "https://html.spec.whatwg.org/#resolve-a-module-specifier",
+            "https://infra.spec.whatwg.org/#pair",
             "https://w3c.github.io/push-api/#h-the-push-event",
             "https://w3c.github.io/push-api/#dfn-push",
             "https://w3c.github.io/push-api/#dfn-fire-the-push-event",
@@ -54615,7 +54621,8 @@
             "https://html.spec.whatwg.org/#serializable",
             "https://html.spec.whatwg.org/#serializable-objects",
             "https://html.spec.whatwg.org/#serialization-steps",
-            "https://html.spec.whatwg.org/#deserialization-steps"
+            "https://html.spec.whatwg.org/#deserialization-steps",
+            "https://infra.spec.whatwg.org/#pair"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -62342,7 +62349,8 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
             "https://html.spec.whatwg.org/#concept-agent-event-loop",
-            "https://html.spec.whatwg.org/#feedback-from-the-protocol"
+            "https://html.spec.whatwg.org/#feedback-from-the-protocol",
+            "https://infra.spec.whatwg.org/#pair"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],

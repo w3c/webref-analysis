@@ -4981,6 +4981,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
 - [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts/):
      * [`https://www.w3.org/TR/selectors-4/#live-profile`](https://www.w3.org/TR/selectors-4/#live-profile)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
      * [`https://www.w3.org/TR/css3-transitions/#animatable-types`](https://www.w3.org/TR/css3-transitions/#animatable-types)
      * [`https://www.w3.org/TR/css3-transitions/#animtype-simple-list`](https://www.w3.org/TR/css3-transitions/#animtype-simple-list)
@@ -5427,6 +5428,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-drag-data-item-kind`](https://html.spec.whatwg.org/#the-drag-data-item-kind)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#event-messageerror`](https://html.spec.whatwg.org/#event-messageerror)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/):
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#attr-img-crossorigin`](https://html.spec.whatwg.org/#attr-img-crossorigin)
@@ -5464,6 +5466,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#attr-iframe-allowfullscreen`](https://html.spec.whatwg.org/#attr-iframe-allowfullscreen)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [Gamepad](https://w3c.github.io/gamepad/):
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
@@ -6214,6 +6217,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://www.w3.org/TR/uievents-code/#code-quote`](https://www.w3.org/TR/uievents-code/#code-quote)
 - [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/):
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
@@ -7554,6 +7558,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#sandboxed-plugins-browsing-context-flag`](https://html.spec.whatwg.org/#sandboxed-plugins-browsing-context-flag)
      * [`https://html.spec.whatwg.org/#concept-plugin-secure`](https://html.spec.whatwg.org/#concept-plugin-secure)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/):
      * [`https://html.spec.whatwg.org/#concept-document-windowconcept-document-window`](https://html.spec.whatwg.org/#concept-document-windowconcept-document-window)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -7772,6 +7777,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#auxiliary-browsing-context`](https://html.spec.whatwg.org/#auxiliary-browsing-context)
      * [`https://html.spec.whatwg.org/#module-map`](https://html.spec.whatwg.org/#module-map)
      * [`https://html.spec.whatwg.org/#resolve-a-module-specifier`](https://html.spec.whatwg.org/#resolve-a-module-specifier)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
      * [`https://w3c.github.io/push-api/#h-the-push-event`](https://w3c.github.io/push-api/#h-the-push-event)
      * [`https://w3c.github.io/push-api/#dfn-push`](https://w3c.github.io/push-api/#dfn-push)
      * [`https://w3c.github.io/push-api/#dfn-fire-the-push-event`](https://w3c.github.io/push-api/#dfn-fire-the-push-event)
@@ -8304,6 +8310,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#serializable-objects`](https://html.spec.whatwg.org/#serializable-objects)
      * [`https://html.spec.whatwg.org/#serialization-steps`](https://html.spec.whatwg.org/#serialization-steps)
      * [`https://html.spec.whatwg.org/#deserialization-steps`](https://html.spec.whatwg.org/#deserialization-steps)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [Web Locks API](https://wicg.github.io/web-locks/):
      * [`https://html.spec.whatwg.org/#integration-with-the-javascript-agent-cluster-formalism`](https://html.spec.whatwg.org/#integration-with-the-javascript-agent-cluster-formalism)
      * [`https://html.spec.whatwg.org/#starting-a-new-parallel-queue`](https://html.spec.whatwg.org/#starting-a-new-parallel-queue)
@@ -8773,6 +8780,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://html.spec.whatwg.org/#concept-agent-event-loop`](https://html.spec.whatwg.org/#concept-agent-event-loop)
      * [`https://html.spec.whatwg.org/#feedback-from-the-protocol`](https://html.spec.whatwg.org/#feedback-from-the-protocol)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
@@ -8917,7 +8925,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4709 problematic external links found in 290 specifications
+=> 4717 problematic external links found in 290 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
