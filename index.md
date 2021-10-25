@@ -172,6 +172,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Document Policy](https://wicg.github.io/document-policy/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
@@ -8097,6 +8098,7 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/selectors-4/#structural-pseudo-classes`](https://drafts.csswg.org/selectors-4/#structural-pseudo-classes)
 - Broken external links:
      * [`https://www.w3.org/TR/selectors-4/#live-profile`](https://www.w3.org/TR/selectors-4/#live-profile)
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11434,7 +11436,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
 - Crawled URL: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
-- Crawled version: 8 September 2021
+- Crawled version: 25 October 2021
 - Editor's Draft: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
 - Shortname: lighting-estimation
 
@@ -17892,7 +17894,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
 - Crawled URL: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
-- Crawled version: 22 February 2021
+- Crawled version: 25 October 2021
 - Editor's Draft: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
 - Shortname: document-policy
 
@@ -17909,6 +17911,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#creating-a-new-browsing-context`](https://html.spec.whatwg.org/#creating-a-new-browsing-context)
      * [`https://html.spec.whatwg.org/#concept-request-origin`](https://html.spec.whatwg.org/#concept-request-origin)
      * [`https://html.spec.whatwg.org/#active-sandboxing-flag-set`](https://html.spec.whatwg.org/#active-sandboxing-flag-set)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#process-a-navigate-fetch`](https://html.spec.whatwg.org/#process-a-navigate-fetch)
      * [`https://html.spec.whatwg.org/#initialise-the-document-object`](https://html.spec.whatwg.org/#initialise-the-document-object)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
@@ -21602,7 +21605,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 22 October 2021
+- Crawled version: 25 October 2021
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -22820,7 +22823,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 20 October 2021
+- Crawled version: 25 October 2021
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 
@@ -22884,7 +22887,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 21 October 2021
+- Crawled version: 25 October 2021
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
@@ -23158,6 +23161,7 @@ Normative references to this spec from:
 - [WebTransport](https://w3c.github.io/webtransport/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:

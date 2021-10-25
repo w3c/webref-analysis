@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-25T12:48:35.296Z",
+  "date": "2021-10-25T18:43:46.046Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -15632,7 +15632,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/selectors-4/#live-profile"
+            "https://www.w3.org/TR/selectors-4/#live-profile",
+            "https://infra.spec.whatwg.org/#pair"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20442,7 +20443,7 @@
     {
       "title": "Document Policy",
       "shortname": "document-policy",
-      "date": "22 February 2021",
+      "date": "25 October 2021",
       "url": "https://wicg.github.io/document-policy/",
       "nightly": {
         "url": "https://wicg.github.io/document-policy/",
@@ -20496,6 +20497,7 @@
             "https://html.spec.whatwg.org/#creating-a-new-browsing-context",
             "https://html.spec.whatwg.org/#concept-request-origin",
             "https://html.spec.whatwg.org/#active-sandboxing-flag-set",
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#process-a-navigate-fetch",
             "https://html.spec.whatwg.org/#initialise-the-document-object",
             "https://html.spec.whatwg.org/#browsing-context-container",
@@ -22128,6 +22130,11 @@
               "url": "https://wicg.github.io/cookie-store/",
               "title": "Cookie Store API",
               "crawled": "https://wicg.github.io/cookie-store/"
+            },
+            {
+              "url": "https://wicg.github.io/document-policy/",
+              "title": "Document Policy",
+              "crawled": "https://wicg.github.io/document-policy/"
             },
             {
               "url": "https://wicg.github.io/entries-api/",
@@ -26161,7 +26168,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "22 October 2021",
+      "date": "25 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -49478,7 +49485,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "20 October 2021",
+      "date": "25 October 2021",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -51500,7 +51507,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "21 October 2021",
+      "date": "25 October 2021",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -54563,6 +54570,11 @@
               "url": "https://www.w3.org/TR/webxrlayers-1/",
               "title": "WebXR Layers API Level 1",
               "crawled": "https://immersive-web.github.io/layers/"
+            },
+            {
+              "url": "https://immersive-web.github.io/lighting-estimation/",
+              "title": "WebXR Lighting Estimation API Level 1",
+              "crawled": "https://immersive-web.github.io/lighting-estimation/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -63468,7 +63480,7 @@
     {
       "title": "WebXR Lighting Estimation API Level 1",
       "shortname": "lighting-estimation",
-      "date": "8 September 2021",
+      "date": "25 October 2021",
       "url": "https://immersive-web.github.io/lighting-estimation/",
       "nightly": {
         "url": "https://immersive-web.github.io/lighting-estimation/",
