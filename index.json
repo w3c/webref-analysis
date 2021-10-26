@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-26T06:43:27.836Z",
+  "date": "2021-10-26T12:47:27.984Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -888,7 +888,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "05 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -23060,7 +23060,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
