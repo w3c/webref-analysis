@@ -13970,7 +13970,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 23 October 2021
+- Crawled version: 26 October 2021
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -15723,7 +15723,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
 - Crawled URL: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
-- Crawled version: 18 October 2021
+- Crawled version: 26 October 2021
 - Editor's Draft: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
 - Latest published version: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
 - Shortname: WebCryptoAPI
@@ -18718,7 +18718,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 25 October 2021
+- Crawled version: 26 October 2021
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
