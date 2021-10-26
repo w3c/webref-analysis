@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-25T18:43:46.046Z",
+  "date": "2021-10-26T00:51:01.029Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -15632,8 +15632,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/selectors-4/#live-profile",
-            "https://infra.spec.whatwg.org/#pair"
+            "https://www.w3.org/TR/selectors-4/#live-profile"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18783,7 +18782,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "21 October 2021",
+      "date": "25 October 2021",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -43665,7 +43664,7 @@
     {
       "title": "Presentation API",
       "shortname": "presentation-api",
-      "date": "09 December 2020",
+      "date": "25 October 2021",
       "url": "https://www.w3.org/TR/presentation-api/",
       "release": {
         "url": "https://www.w3.org/TR/presentation-api/",
@@ -45594,7 +45593,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45649,7 +45648,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45738,7 +45737,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45812,7 +45811,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45870,7 +45869,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45908,7 +45907,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45958,7 +45957,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46014,7 +46013,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50187,7 +50186,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "23 October 2021",
+      "date": "25 October 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -52225,7 +52224,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "24 September 2021",
+      "date": "25 October 2021",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
@@ -54460,6 +54459,11 @@
               "url": "https://www.w3.org/TR/user-timing-3/",
               "title": "User Timing Level 3",
               "crawled": "https://w3c.github.io/user-timing/"
+            },
+            {
+              "url": "https://wicg.github.io/ua-client-hints/",
+              "title": "User-Agent Client Hints",
+              "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
               "url": "https://wicg.github.io/uuid/",
@@ -61562,7 +61566,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "22 October 2021",
+      "date": "25 October 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61677,7 +61681,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "22 October 2021",
+      "date": "25 October 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
