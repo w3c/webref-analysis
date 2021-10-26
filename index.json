@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-26T12:47:27.984Z",
+  "date": "2021-10-26T18:43:58.649Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -941,9 +941,9 @@
         "xrefs": {
           "notExported": [],
           "notDfn": [
+            "https://www.w3.org/TR/wai-aria-1.1/#aria-hidden",
             "https://www.w3.org/TR/wai-aria-1.1/#aria-checked",
             "https://www.w3.org/TR/wai-aria-1.1/#aria-disabled",
-            "https://www.w3.org/TR/wai-aria-1.1/#aria-hidden",
             "https://www.w3.org/TR/wai-aria-1.1/#aria-placeholder",
             "https://www.w3.org/TR/wai-aria-1.1/#aria-valuemax",
             "https://www.w3.org/TR/wai-aria-1.1/#aria-readonly",
@@ -1242,7 +1242,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "20 October 2021",
+      "date": "26 October 2021",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -1330,6 +1330,7 @@
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#serialization-of-a-site",
             "https://html.spec.whatwg.org/#concept-origin-scheme",
             "https://html.spec.whatwg.org/#concept-origin-host",
             "https://html.spec.whatwg.org/#concept-origin-port"
@@ -17510,7 +17511,7 @@
     {
       "title": "CSS Transforms Module Level 2",
       "shortname": "css-transforms-2",
-      "date": "19 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/css-transforms-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-transforms-2/",
@@ -18006,7 +18007,6 @@
             "https://www.w3.org/TR/geometry-1/#dommatrixreadonly-stringification-behavior"
           ],
           "notDfn": [
-            "https://drafts.csswg.org/css-transforms-2/#valdef-perspective-none%E2%91%A0",
             "https://drafts.fxtf.org/compositing-2/#propdef-mix"
           ],
           "brokenLinks": [
@@ -22644,7 +22644,7 @@
     {
       "title": "Error Cause",
       "shortname": "tc39-error-cause",
-      "date": "23 September 2021",
+      "date": "26 October 2021",
       "url": "https://tc39.es/proposal-error-cause/",
       "nightly": {
         "url": "https://tc39.es/proposal-error-cause/",
@@ -42564,16 +42564,6 @@
                 "crawled": "https://w3c.github.io/deviceorientation/"
               }
             ]
-          },
-          {
-            "name": "MidiPermissionDescriptor",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/webmidi/",
-                "title": "Web MIDI API",
-                "crawled": "https://webaudio.github.io/web-midi-api/"
-              }
-            ]
           }
         ],
         "missingWebIdlRef": [],
@@ -45639,6 +45629,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
+              "title": "Secure Payment Confirmation",
+              "crawled": "https://w3c.github.io/secure-payment-confirmation"
             }
           ]
         },
@@ -48294,7 +48289,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "13 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -50186,7 +50181,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54727,7 +54722,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "21 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
@@ -54756,18 +54751,7 @@
         "unknownIdlNames": [
           "Uint8Array"
         ],
-        "redefinedIdlNames": [
-          {
-            "name": "MidiPermissionDescriptor",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/permissions/",
-                "title": "Permissions",
-                "crawled": "https://w3c.github.io/permissions/"
-              }
-            ]
-          }
-        ],
+        "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
@@ -61566,7 +61550,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61681,7 +61665,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -63637,7 +63621,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "25 October 2021",
+      "date": "26 October 2021",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
