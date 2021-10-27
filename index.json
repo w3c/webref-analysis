@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-27T06:43:47.175Z",
+  "date": "2021-10-27T12:47:17.469Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -26167,7 +26167,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "26 October 2021",
+      "date": "27 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -33516,6 +33516,11 @@
               "crawled": "https://w3c.github.io/media-playback-quality/"
             },
             {
+              "url": "https://www.w3.org/TR/mediaqueries-5/",
+              "title": "Media Queries Level 5",
+              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediasession/",
               "title": "Media Session Standard",
               "crawled": "https://w3c.github.io/mediasession/"
@@ -39516,7 +39521,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "26 October 2021",
+      "date": "27 October 2021",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -39714,7 +39719,9 @@
             "https://drafts.csswg.org/css-color-4/#css-system-colors"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#joint-session-history"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
