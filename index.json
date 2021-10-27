@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-27T00:53:32.607Z",
+  "date": "2021-10-27T06:43:47.175Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -38050,7 +38050,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "26 October 2021",
+      "date": "27 October 2021",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -39516,7 +39516,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "13 July 2021",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -41155,7 +41155,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "4 June 2021",
+      "date": "27 October 2021",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -43654,7 +43654,7 @@
     {
       "title": "Presentation API",
       "shortname": "presentation-api",
-      "date": "25 October 2021",
+      "date": "27 October 2021",
       "url": "https://www.w3.org/TR/presentation-api/",
       "release": {
         "url": "https://www.w3.org/TR/presentation-api/",
@@ -44351,7 +44351,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "25 October 2021",
+      "date": "27 October 2021",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",

@@ -9725,7 +9725,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Crawled URL: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
-- Crawled version: 13 July 2021
+- Crawled version: 26 October 2021
 - Editor's Draft: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
 - Latest published version: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Shortname: mediaqueries-5
@@ -12937,7 +12937,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Crawled URL: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
-- Crawled version: 4 June 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
 - Latest published version: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Shortname: openscreenprotocol
@@ -13017,7 +13017,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
 - Crawled URL: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
-- Crawled version: 25 October 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
 - Latest published version: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
 - Shortname: presentation-api
@@ -15237,7 +15237,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
 - Crawled URL: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
-- Crawled version: 25 October 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
 - Latest published version: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
 - Shortname: push-api
@@ -18715,7 +18715,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 26 October 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
