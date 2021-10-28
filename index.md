@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 27, 2021
+% October 28, 2021
 
 # Ecma International {#ecma_international}
 
@@ -603,7 +603,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -632,7 +632,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -692,7 +692,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1069,7 +1069,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1098,7 +1098,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1138,7 +1138,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1171,7 +1171,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1200,7 +1200,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3907,110 +3907,6 @@ No informative reference to this spec from other specs.
 
 ## Cascading Style Sheets (CSS) Working Group {#cascading_style_sheets_css_working_group}
 
-### 500 Internal Server Error {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
-- Crawled URL: [https://drafts.csswg.org/css-line-grid/](https://drafts.csswg.org/css-line-grid/)
-- Crawled version: 27 October 2021
-- Editor's Draft: [https://drafts.csswg.org/css-line-grid/](https://drafts.csswg.org/css-line-grid/)
-- Latest published version: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
-- Shortname: css-line-grid-1
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-
-Informative references to this spec from:
-
-- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/)
-
-
-### 500 Internal Server Error {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
-- Crawled URL: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
-- Crawled version: 27 October 2021
-- Editor's Draft: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
-- Latest published version: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
-- Shortname: css-lists-3
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [CSS 2](https://drafts.csswg.org/css2/)
-- [CSS 2](https://drafts.csswg.org/css2/)
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
-- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
-- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions/)
-- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
-- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
-- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-
-Informative references to this spec from:
-
-- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
-- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
-- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
-- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/)
-
-
-### 500 Internal Server Error {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
-- Crawled URL: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
-- Crawled version: 27 October 2021
-- Editor's Draft: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
-- Latest published version: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
-- Shortname: css-logical-1
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/)
-- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
-- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
-- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/)
-- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [Web Animations](https://drafts.csswg.org/web-animations-1/)
-
-Informative references to this spec from:
-
-- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
-- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
-
-
 ### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -4030,6 +3926,7 @@ Informative references to this spec from:
      * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
@@ -4125,6 +4022,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
 - Inconsistent references for links: 
@@ -4135,7 +4033,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-     * [`https://drafts.csswg.org/css-lists-3/#valdef-list-style-image-none`](https://drafts.csswg.org/css-lists-3/#valdef-list-style-image-none)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -4186,6 +4083,9 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
@@ -4267,6 +4167,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
 - Inconsistent references for links: 
@@ -4277,7 +4178,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-     * [`https://drafts.csswg.org/css-lists-3/#valdef-list-style-image-none`](https://drafts.csswg.org/css-lists-3/#valdef-list-style-image-none)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -4383,6 +4283,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -4427,6 +4328,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
@@ -4455,6 +4357,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - External links to private terms:
      * [`https://drafts.csswg.org/web-animations-1/#play-state`](https://drafts.csswg.org/web-animations-1/#play-state)
@@ -4518,6 +4421,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
      * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/)
@@ -4577,6 +4481,7 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
@@ -4639,6 +4544,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
 - External links to private terms:
@@ -4674,6 +4580,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
      * [`https://w3c.github.io/contentEditable/`](https://w3c.github.io/contentEditable/)
      * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
@@ -4748,6 +4655,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
      * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
@@ -4764,7 +4672,6 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/css-writing-modes-3/#dominant-baseline`](https://drafts.csswg.org/css-writing-modes-3/#dominant-baseline)
 - Broken external links:
      * [`https://drafts.csswg.org/selectors-3/#first-formatted-line0`](https://drafts.csswg.org/selectors-3/#first-formatted-line0)
-     * [`https://drafts.csswg.org/css-logical-1/#inset-properties`](https://drafts.csswg.org/css-logical-1/#inset-properties)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4778,6 +4685,7 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -4822,6 +4730,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
      * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
      * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -4871,16 +4780,13 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
      * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
      * [`https://www.w3.org/TR/css-logical-1/`](https://www.w3.org/TR/css-logical-1/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://www.w3.org/TR/css-logical-1/#margin-properties`](https://www.w3.org/TR/css-logical-1/#margin-properties)
-     * [`https://www.w3.org/TR/css-logical-1/#padding-properties`](https://www.w3.org/TR/css-logical-1/#padding-properties)
-     * [`https://www.w3.org/TR/css-logical-1/#border-properties`](https://www.w3.org/TR/css-logical-1/#border-properties)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
 
@@ -4900,6 +4806,7 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
@@ -4950,6 +4857,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css2/`](https://www.w3.org/TR/css2/)
      * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
 - Inconsistent references for links: 
@@ -4971,8 +4879,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
      * [`https://html.spec.whatwg.org/#the-meter-element`](https://html.spec.whatwg.org/#the-meter-element)
      * [`https://html.spec.whatwg.org/#the-marquee-element`](https://html.spec.whatwg.org/#the-marquee-element)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-max-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-max-block-size)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4993,6 +4899,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/)
@@ -5041,6 +4948,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/)
      * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -5049,13 +4957,6 @@ Informative references to this spec from:
 - External links that neither target definitions nor headings:
      * [`https://www.w3.org/TR/css-flexbox-1/#algo-main-item`](https://www.w3.org/TR/css-flexbox-1/#algo-main-item)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-min-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-min-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-min-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-min-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-max-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-max-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-max-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-max-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#logical-property-group`](https://drafts.csswg.org/css-logical-1/#logical-property-group)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
 
 #### Known dependencies on this specification {.dependencies}
@@ -5091,6 +4992,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
      * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
 - Inconsistent references for links: 
@@ -5101,7 +5003,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-position`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-position)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5109,6 +5010,7 @@ Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions/)
@@ -5127,7 +5029,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade/](https://drafts.csswg.org/css-cascade/)
-- Crawled version: 18 October 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://drafts.csswg.org/css-cascade/](https://drafts.csswg.org/css-cascade/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
 - Shortname: css-cascade-4
@@ -5139,6 +5041,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
      * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
      * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/)
@@ -5160,7 +5063,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-position`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-position)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/)
 
@@ -5177,6 +5079,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
@@ -5187,7 +5090,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade/](https://drafts.csswg.org/css-cascade/)
-- Crawled version: 18 October 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://drafts.csswg.org/css-cascade/](https://drafts.csswg.org/css-cascade/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Shortname: css-cascade-5
@@ -5199,8 +5102,10 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
      * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
+     * [`https://www.w3.org/TR/2021/WD-css-cascade-4-20211015/`](https://www.w3.org/TR/2021/WD-css-cascade-4-20211015/)
      * [`https://www.w3.org/TR/2021/WD-css-cascade-4-20210319/`](https://www.w3.org/TR/2021/WD-css-cascade-4-20210319/)
      * [`https://www.w3.org/TR/2020/WD-css-cascade-4-20200818/`](https://www.w3.org/TR/2020/WD-css-cascade-4-20200818/)
      * [`https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/`](https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/)
@@ -5225,8 +5130,8 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-position`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-position)
 - External links that use a dated URL:
+     * [`https://www.w3.org/TR/2021/WD-css-cascade-4-20211015/`](https://www.w3.org/TR/2021/WD-css-cascade-4-20211015/)
      * [`https://www.w3.org/TR/2021/WD-css-cascade-4-20210319/`](https://www.w3.org/TR/2021/WD-css-cascade-4-20210319/)
      * [`https://www.w3.org/TR/2020/WD-css-cascade-4-20200818/`](https://www.w3.org/TR/2020/WD-css-cascade-4-20200818/)
      * [`https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/`](https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/)
@@ -5270,6 +5175,8 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -5340,6 +5247,8 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
@@ -5366,6 +5275,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
 - Inconsistent references for links: 
@@ -5412,6 +5322,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
@@ -5441,6 +5352,7 @@ Normative references to this spec from:
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
@@ -5472,6 +5384,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/)
@@ -5612,6 +5525,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 - Inconsistent references for links: 
@@ -5632,7 +5546,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-window-focus`](https://html.spec.whatwg.org/#dom-window-focus)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#dom-innertext`](https://html.spec.whatwg.org/#dom-innertext)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-set`](https://drafts.csswg.org/css-lists-3/#propdef-counter-set)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5673,12 +5586,6 @@ Informative references to this spec from:
 - External links to private terms:
      * [`https://drafts.csswg.org/css-text-3/#grapheme-cluster`](https://drafts.csswg.org/css-text-3/#grapheme-cluster)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-type`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-type)
-     * [`https://drafts.csswg.org/css-lists-3/#funcdef-counter`](https://drafts.csswg.org/css-lists-3/#funcdef-counter)
-     * [`https://drafts.csswg.org/css-lists-3/#funcdef-counters`](https://drafts.csswg.org/css-lists-3/#funcdef-counters)
-     * [`https://drafts.csswg.org/css-lists-3/#valdef-list-style-type-none`](https://drafts.csswg.org/css-lists-3/#valdef-list-style-type-none)
-     * [`https://drafts.csswg.org/css-lists-3/#valdef-list-style-position-inside`](https://drafts.csswg.org/css-lists-3/#valdef-list-style-position-inside)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style`](https://drafts.csswg.org/css-lists-3/#propdef-list-style)
      * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
 
 #### Known dependencies on this specification {.dependencies}
@@ -5687,6 +5594,7 @@ Normative references to this spec from:
 
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
@@ -5739,6 +5647,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/)
 - Inconsistent references for links: 
@@ -5757,6 +5666,7 @@ Normative references to this spec from:
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
@@ -5829,6 +5739,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
      * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
      * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/)
@@ -5891,6 +5802,9 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
@@ -6014,14 +5928,13 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css3-box/`](https://www.w3.org/TR/css3-box/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
      * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#list-style-position-outside`](https://drafts.csswg.org/css-lists-3/#list-style-position-outside)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6075,6 +5988,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
 - External links to private terms:
@@ -6112,6 +6026,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
      * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-speech/`](https://www.w3.org/TR/css-speech/)
      * [`https://www.w3.org/TR/css3-align/`](https://www.w3.org/TR/css3-align/)
@@ -6217,6 +6132,7 @@ Informative references to this spec from:
      * `<font-feature-value-type>`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/)
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
@@ -6272,6 +6188,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
 - [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -6292,6 +6209,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-syntax-3/`](https://www.w3.org/TR/css-syntax-3/)
      * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/)
@@ -6333,6 +6251,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
      * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
      * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
@@ -6361,6 +6280,7 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -6405,6 +6325,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/)
      * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
@@ -6470,6 +6391,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://w3c.github.io/dpub-pagination/`](https://w3c.github.io/dpub-pagination/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
      * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
      * [`https://books.spec.whatwg.org/`](https://books.spec.whatwg.org/)
@@ -6480,7 +6402,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
      * [`https://www.w3.org/TR/css3-selectors/#first-letter`](https://www.w3.org/TR/css3-selectors/#first-letter)
-     * [`https://drafts.csswg.org/css-lists/#counter`](https://drafts.csswg.org/css-lists/#counter)
      * [`https://drafts.csswg.org/css-color/#cmyk-colors`](https://drafts.csswg.org/css-color/#cmyk-colors)
      * [`https://drafts.csswg.org/css-overflow-3/#paginated-overflow`](https://drafts.csswg.org/css-overflow-3/#paginated-overflow)
 - External links that use a dated URL:
@@ -6515,6 +6436,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
@@ -6544,6 +6466,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
 - Inconsistent references for links: 
@@ -6551,11 +6474,7 @@ No informative reference to this spec from other specs.
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#typedef-counter`](https://drafts.csswg.org/css-lists-3/#typedef-counter)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-increment`](https://drafts.csswg.org/css-lists-3/#propdef-counter-increment)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-reset`](https://drafts.csswg.org/css-lists-3/#propdef-counter-reset)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-     * [`https://www.w3.org/TR/css-lists-3/#inheriting-counters`](https://www.w3.org/TR/css-lists-3/#inheriting-counters)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6564,6 +6483,7 @@ Normative references to this spec from:
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/)
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
@@ -6582,7 +6502,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Crawled URL: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
-- Crawled version: 2 July 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
 - Latest published version: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Shortname: css-grid-2
@@ -6596,8 +6516,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
      * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-break/`](https://www.w3.org/TR/css-break/)
      * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
 - Inconsistent references for links: 
@@ -6653,6 +6573,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
@@ -6660,8 +6581,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - External links that neither target definitions nor headings:
      * [`https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order`](https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order)
-- Broken external links:
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6688,6 +6607,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/)
      * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/)
@@ -6700,9 +6620,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css3-background/#the-background-size`](https://www.w3.org/TR/css3-background/#the-background-size)
      * [`https://www.w3.org/TR/css3-background/#the-border-image-slice`](https://www.w3.org/TR/css3-background/#the-border-image-slice)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-image`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-image)
-     * [`https://drafts.csswg.org/css-lists-3/#valdef-list-style-type-none`](https://drafts.csswg.org/css-lists-3/#valdef-list-style-type-none)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-type`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-type)
      * [`https://html.spec.whatwg.org/#concept-imagebitmap-good`](https://html.spec.whatwg.org/#concept-imagebitmap-good)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#attr-img-src`](https://html.spec.whatwg.org/#attr-img-src)
@@ -6727,6 +6644,7 @@ Normative references to this spec from:
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
@@ -6765,6 +6683,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
      * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/)
@@ -6774,9 +6693,6 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/css2/#stacking-context`](https://drafts.csswg.org/css2/#stacking-context)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-image`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-image)
-     * [`https://drafts.csswg.org/css-lists-3/#valdef-list-style-type-none`](https://drafts.csswg.org/css-lists-3/#valdef-list-style-type-none)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-type`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-type)
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
      * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
      * [`https://html.spec.whatwg.org/#canvas`](https://html.spec.whatwg.org/#canvas)
@@ -6794,6 +6710,7 @@ Normative references to this spec from:
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
@@ -6824,6 +6741,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
 - Inconsistent references for links: 
@@ -6834,7 +6752,6 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/css-text-3/#word-separator`](https://drafts.csswg.org/css-text-3/#word-separator)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#valdef-list-style-position-inside`](https://drafts.csswg.org/css-lists-3/#valdef-list-style-position-inside)
      * [`https://html.spec.whatwg.org/#textmetrics`](https://html.spec.whatwg.org/#textmetrics)
 
 #### Known dependencies on this specification {.dependencies}
@@ -6869,6 +6786,7 @@ Informative references to this spec from:
 
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
 
 
 ### CSS Layout API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -6911,6 +6829,143 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
+### CSS Line Grid Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
+- Crawled URL: [https://drafts.csswg.org/css-line-grid/](https://drafts.csswg.org/css-line-grid/)
+- Crawled version: 18 September 2020
+- Editor's Draft: [https://drafts.csswg.org/css-line-grid/](https://drafts.csswg.org/css-line-grid/)
+- Latest published version: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
+- Shortname: css-line-grid-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+     * [`https://drafts.csswg.org/css-inline/#text-over-edge`](https://drafts.csswg.org/css-inline/#text-over-edge)
+     * [`https://drafts.csswg.org/css-inline/#text-under-edge`](https://drafts.csswg.org/css-inline/#text-under-edge)
+- Broken external links:
+     * [`https://drafts.csswg.org/css-inline/#central`](https://drafts.csswg.org/css-inline/#central)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+Informative references to this spec from:
+
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/)
+
+
+### CSS Lists and Counters Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
+- Crawled URL: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
+- Crawled version: 14 July 2021
+- Editor's Draft: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
+- Latest published version: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
+- Shortname: css-lists-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-li-element`](https://html.spec.whatwg.org/#the-li-element)
+     * [`https://html.spec.whatwg.org/#the-ul-element`](https://html.spec.whatwg.org/#the-ul-element)
+     * [`https://html.spec.whatwg.org/#the-ol-element`](https://html.spec.whatwg.org/#the-ol-element)
+     * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
+     * [`https://html.spec.whatwg.org/#lists`](https://html.spec.whatwg.org/#lists)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/)
+
+
+### CSS Logical Properties and Values Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
+- Crawled URL: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
+- Crawled version: 4 August 2021
+- Editor's Draft: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
+- Latest published version: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
+- Shortname: css-logical-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-writing-modes/`](https://www.w3.org/TR/css-writing-modes/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+
+
 ### CSS Masking Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -6926,6 +6981,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
      * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
@@ -6988,6 +7044,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -7019,6 +7076,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/2011/CR-css3-multicol-20110412/`](https://www.w3.org/TR/2011/CR-css3-multicol-20110412/)
 - Inconsistent references for links: 
@@ -7072,6 +7130,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -7193,28 +7252,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
-     * [`https://drafts.csswg.org/css-logical-1/#logical-property-group`](https://drafts.csswg.org/css-logical-1/#logical-property-group)
-     * [`https://drafts.csswg.org/css-logical-1/#mapping-logic`](https://drafts.csswg.org/css-logical-1/#mapping-logic)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-start)
      * [`https://drafts.csswg.org/css-color-3/#alphavalue-def`](https://drafts.csswg.org/css-color-3/#alphavalue-def)
-     * [`https://drafts.csswg.org/css-lists-3/#typedef-counter`](https://drafts.csswg.org/css-lists-3/#typedef-counter)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7239,6 +7277,7 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
@@ -7294,6 +7333,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/)
      * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/css-logical-1/`](https://www.w3.org/TR/css-logical-1/)
@@ -7310,7 +7350,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
      * [`https://html.spec.whatwg.org/#html-vs-xhtml`](https://html.spec.whatwg.org/#html-vs-xhtml)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
-     * [`https://www.w3.org/TR/css-logical-1/#box`](https://www.w3.org/TR/css-logical-1/#box)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7326,6 +7365,7 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
@@ -7375,6 +7415,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
@@ -7422,6 +7463,7 @@ Informative references to this spec from:
      * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
      * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -7452,6 +7494,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -7490,6 +7533,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
      * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/)
 - Inconsistent references for links: 
@@ -7607,13 +7651,12 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://www.w3.org/TR/css-logical-1/#inset-properties`](https://www.w3.org/TR/css-logical-1/#inset-properties)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7629,6 +7672,8 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
@@ -7710,11 +7755,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/)
 - Broken external links:
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
-     * [`https://drafts.csswg.org/css-lists-3/#marker`](https://drafts.csswg.org/css-lists-3/#marker)
-     * [`https://drafts.csswg.org/css-lists-3/#list-item`](https://drafts.csswg.org/css-lists-3/#list-item)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-position`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-position)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
-     * [`https://www.w3.org/TR/css-lists-3/#marker-properties`](https://www.w3.org/TR/css-lists-3/#marker-properties)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 
@@ -7736,6 +7777,7 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
@@ -7775,6 +7817,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
      * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
@@ -7835,18 +7878,18 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://drafts.csswg.org/css-line-grid-1/#propdef-line-grid`](https://drafts.csswg.org/css-line-grid-1/#propdef-line-grid)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
 Informative references to this spec from:
@@ -7869,6 +7912,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
 - Inconsistent references for links: 
@@ -7903,6 +7947,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css3-text/`](https://www.w3.org/TR/css3-text/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
@@ -7956,7 +8001,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-type`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-type)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7993,6 +8037,7 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8033,6 +8078,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8041,13 +8087,12 @@ No informative reference to this spec from other specs.
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#the-section-element`](https://html.spec.whatwg.org/#the-section-element)
-     * [`https://drafts.csswg.org/css-logical-1/#inset-properties`](https://drafts.csswg.org/css-logical-1/#inset-properties)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset`](https://drafts.csswg.org/css-logical-1/#propdef-inset)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
@@ -8071,6 +8116,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 - Inconsistent references for links: 
@@ -8136,6 +8182,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
      * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8162,6 +8209,7 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
@@ -8188,6 +8236,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8226,6 +8275,7 @@ Informative references to this spec from:
      * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8280,6 +8330,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8287,8 +8338,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-type`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-type)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-image`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-image)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
 
@@ -8388,6 +8437,7 @@ Normative references to this spec from:
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
@@ -8438,6 +8488,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
 - Inconsistent references for links: 
@@ -8455,6 +8506,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
@@ -8481,6 +8533,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
 - Inconsistent references for links: 
@@ -8535,6 +8588,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
      * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
@@ -8593,6 +8647,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8617,6 +8672,8 @@ Normative references to this spec from:
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -8666,6 +8723,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
 - External links to private terms:
@@ -8682,6 +8740,7 @@ Normative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
@@ -8710,6 +8769,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/`](https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/)
      * [`https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/`](https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
      * [`https://www.w3.org/TR/css3-animations/`](https://www.w3.org/TR/css3-animations/)
@@ -8772,7 +8832,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-transforms-2/](https://www.w3.org/TR/css-transforms-2/)
 - Crawled URL: [https://drafts.csswg.org/css-transforms-2/](https://drafts.csswg.org/css-transforms-2/)
-- Crawled version: 26 October 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://drafts.csswg.org/css-transforms-2/](https://drafts.csswg.org/css-transforms-2/)
 - Latest published version: [https://www.w3.org/TR/css-transforms-2/](https://www.w3.org/TR/css-transforms-2/)
 - Shortname: css-transforms-2
@@ -8781,6 +8841,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -8825,6 +8886,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
      * [`https://w3c.github.io/dom/`](https://w3c.github.io/dom/)
@@ -8876,6 +8938,7 @@ Informative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
@@ -8948,70 +9011,10 @@ No informative reference to this spec from other specs.
 - External links that neither target definitions nor headings:
      * [`https://drafts.fxtf.org/compositing-2/#propdef-mix`](https://drafts.fxtf.org/compositing-2/#propdef-mix)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-reset`](https://drafts.csswg.org/css-lists-3/#propdef-counter-reset)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-image`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-image)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-increment`](https://drafts.csswg.org/css-lists-3/#propdef-counter-increment)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-set`](https://drafts.csswg.org/css-lists-3/#propdef-counter-set)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style`](https://drafts.csswg.org/css-lists-3/#propdef-list-style)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-position`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-position)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-type`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-type)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-marker-side`](https://drafts.csswg.org/css-lists-3/#propdef-marker-side)
      * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
      * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
      * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block`](https://drafts.csswg.org/css-logical-1/#propdef-border-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset`](https://drafts.csswg.org/css-logical-1/#propdef-inset)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-max-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-max-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-max-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-max-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-min-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-min-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-min-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-min-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-start)
-     * [`https://drafts.csswg.org/css-line-grid-1/#propdef-box-snap`](https://drafts.csswg.org/css-line-grid-1/#propdef-box-snap)
-     * [`https://drafts.csswg.org/css-line-grid-1/#propdef-line-grid`](https://drafts.csswg.org/css-line-grid-1/#propdef-line-grid)
-     * [`https://drafts.csswg.org/css-line-grid-1/#propdef-line-snap`](https://drafts.csswg.org/css-line-grid-1/#propdef-line-snap)
      * [`https://drafts.csswg.org/css-fonts-3/#absolute-size-value`](https://drafts.csswg.org/css-fonts-3/#absolute-size-value)
      * [`https://drafts.csswg.org/css-fonts-3/#relative-size-value`](https://drafts.csswg.org/css-fonts-3/#relative-size-value)
 
@@ -9153,6 +9156,9 @@ Normative references to this spec from:
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
@@ -9286,6 +9292,9 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
@@ -9365,6 +9374,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -9401,6 +9411,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-logical-1/`](https://www.w3.org/TR/css-logical-1/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
      * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
@@ -9413,7 +9424,6 @@ Informative references to this spec from:
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
-     * [`https://www.w3.org/TR/css-logical-1/#box`](https://www.w3.org/TR/css-logical-1/#box)
      * [`https://html.spec.whatwg.org/#bidi-rendering`](https://html.spec.whatwg.org/#bidi-rendering)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
 - External links that use a dated URL:
@@ -9439,6 +9449,9 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -9569,6 +9582,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/)
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
@@ -9627,6 +9641,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
 - External links to private terms:
@@ -9815,6 +9830,7 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
@@ -9853,6 +9869,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
 - Inconsistent references for links: 
@@ -10081,6 +10098,7 @@ Normative references to this spec from:
 - [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
@@ -12207,6 +12225,7 @@ Informative references to this spec from:
      * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
@@ -12252,6 +12271,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
 - External links to private terms:
@@ -12679,6 +12699,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
@@ -13432,70 +13453,10 @@ No informative reference to this spec from other specs.
 - External links that neither target definitions nor headings:
      * [`https://drafts.fxtf.org/compositing-2/#propdef-mix`](https://drafts.fxtf.org/compositing-2/#propdef-mix)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-reset`](https://drafts.csswg.org/css-lists-3/#propdef-counter-reset)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-image`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-image)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-increment`](https://drafts.csswg.org/css-lists-3/#propdef-counter-increment)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-counter-set`](https://drafts.csswg.org/css-lists-3/#propdef-counter-set)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style`](https://drafts.csswg.org/css-lists-3/#propdef-list-style)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-position`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-position)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-list-style-type`](https://drafts.csswg.org/css-lists-3/#propdef-list-style-type)
-     * [`https://drafts.csswg.org/css-lists-3/#propdef-marker-side`](https://drafts.csswg.org/css-lists-3/#propdef-marker-side)
      * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
      * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
      * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block`](https://drafts.csswg.org/css-logical-1/#propdef-border-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-end-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-start-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-block-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-block-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-end-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-color`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-color)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-start-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-style`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-style)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-border-inline-width`](https://drafts.csswg.org/css-logical-1/#propdef-border-inline-width)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset`](https://drafts.csswg.org/css-logical-1/#propdef-inset)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-inset-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-inset-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-margin-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-margin-inline-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-max-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-max-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-max-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-max-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-min-block-size`](https://drafts.csswg.org/css-logical-1/#propdef-min-block-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-min-inline-size`](https://drafts.csswg.org/css-logical-1/#propdef-min-inline-size)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block-end`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-block-start`](https://drafts.csswg.org/css-logical-1/#propdef-padding-block-start)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-end`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-end)
-     * [`https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-start`](https://drafts.csswg.org/css-logical-1/#propdef-padding-inline-start)
-     * [`https://drafts.csswg.org/css-line-grid-1/#propdef-box-snap`](https://drafts.csswg.org/css-line-grid-1/#propdef-box-snap)
-     * [`https://drafts.csswg.org/css-line-grid-1/#propdef-line-grid`](https://drafts.csswg.org/css-line-grid-1/#propdef-line-grid)
-     * [`https://drafts.csswg.org/css-line-grid-1/#propdef-line-snap`](https://drafts.csswg.org/css-line-grid-1/#propdef-line-snap)
      * [`https://drafts.csswg.org/css-fonts-3/#absolute-size-value`](https://drafts.csswg.org/css-fonts-3/#absolute-size-value)
      * [`https://drafts.csswg.org/css-fonts-3/#relative-size-value`](https://drafts.csswg.org/css-fonts-3/#relative-size-value)
 
@@ -18188,7 +18149,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
 - Crawled URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
-- Crawled version: 28 September 2021
+- Crawled version: 27 October 2021
 - Editor's Draft: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
 - Shortname: eyedropper-api
 
@@ -21329,6 +21290,7 @@ Normative references to this spec from:
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
@@ -22249,27 +22211,10 @@ Informative references to this spec from:
      * [`https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml`](https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml)
      * [`https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager`](https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager)
      * [`https://drafts.csswg.org/css-syntax/#conform-classes`](https://drafts.csswg.org/css-syntax/#conform-classes)
-     * [`https://drafts.csswg.org/css-logical/#propdef-margin-block-start`](https://drafts.csswg.org/css-logical/#propdef-margin-block-start)
-     * [`https://drafts.csswg.org/css-logical/#propdef-margin-block-end`](https://drafts.csswg.org/css-logical/#propdef-margin-block-end)
-     * [`https://drafts.csswg.org/css-logical/#propdef-margin-inline-start`](https://drafts.csswg.org/css-logical/#propdef-margin-inline-start)
-     * [`https://drafts.csswg.org/css-logical/#propdef-margin-inline-end`](https://drafts.csswg.org/css-logical/#propdef-margin-inline-end)
-     * [`https://drafts.csswg.org/css-logical/#propdef-padding-block-start`](https://drafts.csswg.org/css-logical/#propdef-padding-block-start)
-     * [`https://drafts.csswg.org/css-logical/#propdef-padding-block-end`](https://drafts.csswg.org/css-logical/#propdef-padding-block-end)
-     * [`https://drafts.csswg.org/css-logical/#propdef-padding-inline-start`](https://drafts.csswg.org/css-logical/#propdef-padding-inline-start)
-     * [`https://drafts.csswg.org/css-logical/#propdef-padding-inline-end`](https://drafts.csswg.org/css-logical/#propdef-padding-inline-end)
-     * [`https://drafts.csswg.org/css-logical/#propdef-border-block-start-width`](https://drafts.csswg.org/css-logical/#propdef-border-block-start-width)
-     * [`https://drafts.csswg.org/css-logical/#propdef-block-size`](https://drafts.csswg.org/css-logical/#propdef-block-size)
-     * [`https://drafts.csswg.org/css-logical/#propdef-inline-size`](https://drafts.csswg.org/css-logical/#propdef-inline-size)
-     * [`https://drafts.csswg.org/css-logical/#propdef-inset-block-start`](https://drafts.csswg.org/css-logical/#propdef-inset-block-start)
-     * [`https://drafts.csswg.org/css-logical/#propdef-inset-block-end`](https://drafts.csswg.org/css-logical/#propdef-inset-block-end)
      * [`https://drafts.csswg.org/css-align/#propdef-propdef-justify-content`](https://drafts.csswg.org/css-align/#propdef-propdef-justify-content)
      * [`https://drafts.csswg.org/css-align/#propdef-propdef-justify-items`](https://drafts.csswg.org/css-align/#propdef-propdef-justify-items)
      * [`https://drafts.csswg.org/css-grid/#propdef-grid-column-gap`](https://drafts.csswg.org/css-grid/#propdef-grid-column-gap)
      * [`https://drafts.csswg.org/css-grid/#propdef-grid-row-gap`](https://drafts.csswg.org/css-grid/#propdef-grid-row-gap)
-     * [`https://drafts.csswg.org/css-lists/#list-item`](https://drafts.csswg.org/css-lists/#list-item)
-     * [`https://drafts.csswg.org/css-lists/#propdef-counter-reset`](https://drafts.csswg.org/css-lists/#propdef-counter-reset)
-     * [`https://drafts.csswg.org/css-lists/#propdef-counter-set`](https://drafts.csswg.org/css-lists/#propdef-counter-set)
-     * [`https://drafts.csswg.org/css-lists/#propdef-list-style-type`](https://drafts.csswg.org/css-lists/#propdef-list-style-type)
      * [`https://drafts.csswg.org/css-multicol/#propdef-column-gap`](https://drafts.csswg.org/css-multicol/#propdef-column-gap)
      * [`https://drafts.csswg.org/css-values/#vw`](https://drafts.csswg.org/css-values/#vw)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-cue-text`](https://w3c.github.io/webvtt/#webvtt-file-using-cue-text)
@@ -22331,6 +22276,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
@@ -22619,6 +22565,7 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
