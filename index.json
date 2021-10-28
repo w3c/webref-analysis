@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-28T12:46:20.865Z",
+  "date": "2021-10-28T18:41:33.273Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -22761,7 +22761,7 @@
     {
       "title": "Event Timing API",
       "shortname": "event-timing",
-      "date": "7 October 2021",
+      "date": "28 October 2021",
       "url": "https://wicg.github.io/event-timing/",
       "nightly": {
         "url": "https://wicg.github.io/event-timing/",
@@ -48381,7 +48381,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "26 October 2021",
+      "date": "28 October 2021",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -49571,7 +49571,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "25 October 2021",
+      "date": "28 October 2021",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -50273,7 +50273,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "26 October 2021",
+      "date": "28 October 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -55380,7 +55380,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "27 October 2021",
+      "date": "28 October 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55436,7 +55436,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "27 October 2021",
+      "date": "28 October 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55529,7 +55529,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "27 October 2021",
+      "date": "28 October 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
