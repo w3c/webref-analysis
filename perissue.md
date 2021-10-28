@@ -201,8 +201,9 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 
 - `MessageEventSource` defined in [HTML Standard](https://html.spec.whatwg.org/multipage/) and [Portals](https://wicg.github.io/portals/)
 - `PermissionState` defined in [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/) and [Permissions](https://w3c.github.io/permissions/)
+- `PushPermissionDescriptor` defined in [Permissions](https://w3c.github.io/permissions/) and [Push API](https://w3c.github.io/push-api/)
 
-=> 2 WebIDL names found
+=> 3 WebIDL names found
 
 "There can be only one"...
 
