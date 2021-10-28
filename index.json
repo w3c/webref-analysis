@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-28T06:41:59.904Z",
+  "date": "2021-10-28T09:46:29.007Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -42614,7 +42614,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "27 October 2021",
+      "date": "28 October 2021",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -42649,16 +42649,6 @@
                 "url": "https://www.w3.org/TR/orientation-event/",
                 "title": "DeviceOrientation Event Specification",
                 "crawled": "https://w3c.github.io/deviceorientation/"
-              }
-            ]
-          },
-          {
-            "name": "PushPermissionDescriptor",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/push-api/",
-                "title": "Push API",
-                "crawled": "https://w3c.github.io/push-api/"
               }
             ]
           }
@@ -44482,18 +44472,7 @@
         "unknownIdlNames": [
           "ArrayBuffer"
         ],
-        "redefinedIdlNames": [
-          {
-            "name": "PushPermissionDescriptor",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/permissions/",
-                "title": "Permissions",
-                "crawled": "https://w3c.github.io/permissions/"
-              }
-            ]
-          }
-        ],
+        "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
