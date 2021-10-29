@@ -1573,6 +1573,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/2015/WD-svg-strokes-20150407/`](https://www.w3.org/TR/2015/WD-svg-strokes-20150407/) but does not list it in its references
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html) links to [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/) but does not list it in its references
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/) links to [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation) links to [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/) but does not list it in its references
 - [Selectors Level 4](https://drafts.csswg.org/selectors/) links to:
     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
@@ -1671,7 +1672,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 715 missing references for links found in 187 specifications
+=> 716 missing references for links found in 188 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2012,6 +2013,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/payment-request/`](https://w3c.github.io/payment-request/) but related reference "PAYMENT-REQUEST" uses URL [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
     * [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/)
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
@@ -2095,7 +2097,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 344 inconsistent references for links found in 180 specifications
+=> 345 inconsistent references for links found in 180 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2784,6 +2786,14 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/payment-request/#dfn-payment-permission`](https://w3c.github.io/payment-request/#dfn-payment-permission)
      * [`https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made`](https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made)
      * [`https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request`](https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request)
+     * [`https://w3c.github.io/webdriver/#dfn-extension-command`](https://w3c.github.io/webdriver/#dfn-extension-command)
+     * [`https://w3c.github.io/webdriver/#dfn-remote-end-steps`](https://w3c.github.io/webdriver/#dfn-remote-end-steps)
+     * [`https://w3c.github.io/webdriver/#dfn-errors`](https://w3c.github.io/webdriver/#dfn-errors)
+     * [`https://w3c.github.io/webdriver/#dfn-error-code`](https://w3c.github.io/webdriver/#dfn-error-code)
+     * [`https://w3c.github.io/webdriver/#dfn-invalid-argument`](https://w3c.github.io/webdriver/#dfn-invalid-argument)
+     * [`https://w3c.github.io/webdriver/#dfn-getting-properties`](https://w3c.github.io/webdriver/#dfn-getting-properties)
+     * [`https://w3c.github.io/webdriver/#dfn-undefined`](https://w3c.github.io/webdriver/#dfn-undefined)
+     * [`https://w3c.github.io/webdriver/#dfn-success`](https://w3c.github.io/webdriver/#dfn-success)
 - [Server Timing](https://w3c.github.io/server-timing/):
      * [`https://www.w3.org/TR/resource-timing-2/#dfn-current-document`](https://www.w3.org/TR/resource-timing-2/#dfn-current-document)
      * [`https://www.w3.org/TR/navigation-timing-2/#dfn-current-document`](https://www.w3.org/TR/navigation-timing-2/#dfn-current-document)
@@ -3111,7 +3121,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 816 problematic external links found in 192 specifications
+=> 824 problematic external links found in 192 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -7430,7 +7440,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://fetch.spec.whatwg.org/#concept-response-https-state`](https://fetch.spec.whatwg.org/#concept-response-https-state)
      * [`https://fetch.spec.whatwg.org/#wait-for-a-response`](https://fetch.spec.whatwg.org/#wait-for-a-response)
-     * [`https://dom.spec.whatwg.org/#context-object`](https://dom.spec.whatwg.org/#context-object)
      * [`https://w3c.github.io/webdriver/#dfn-error`](https://w3c.github.io/webdriver/#dfn-error)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/):
      * [`https://w3c.github.io/permissions/#powerful-feature`](https://w3c.github.io/permissions/#powerful-feature)
@@ -9001,7 +9010,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4721 problematic external links found in 291 specifications
+=> 4720 problematic external links found in 291 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

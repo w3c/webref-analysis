@@ -557,7 +557,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -1216,7 +1216,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Reporting API 1](https://w3c.github.io/reporting/)
 
 
 # Khronos Group {#khronos_group}
@@ -9986,7 +9988,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 25 August 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Shortname: scroll-animations-1
 
@@ -14990,6 +14992,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Reporting API 1](https://w3c.github.io/reporting/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [URL Standard](https://url.spec.whatwg.org/)
@@ -16244,13 +16247,13 @@ Informative references to this spec from:
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 
 
-### Secure Payment Confirmation {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Secure Payment Confirmation {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Crawled URL: [https://w3c.github.io/secure-payment-confirmation](https://w3c.github.io/secure-payment-confirmation)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://w3c.github.io/secure-payment-confirmation](https://w3c.github.io/secure-payment-confirmation)
 - Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Shortname: secure-payment-confirmation
@@ -16260,11 +16263,14 @@ Informative references to this spec from:
 - Missing references for WebIDL names: 
      * `AuthenticationExtensionsClientInputs` defined in [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
      * `CollectedClientData` defined in [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
+- Missing references for links: 
+     * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/), related reference "WEBAUTHN-3" uses URL [`https://www.w3.org/TR/webauthn-3/`](https://www.w3.org/TR/webauthn-3/)
      * [`https://w3c.github.io/payment-request/`](https://w3c.github.io/payment-request/), related reference "PAYMENT-REQUEST" uses URL [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
      * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/), related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
      * [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/), related reference "PAYMENT-METHOD-ID" uses URL [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/)
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - External links to private terms:
      * [`https://w3c.github.io/webauthn/#relying-party`](https://w3c.github.io/webauthn/#relying-party)
      * [`https://w3c.github.io/webauthn/#webauthn-extensions`](https://w3c.github.io/webauthn/#webauthn-extensions)
@@ -16276,6 +16282,14 @@ Informative references to this spec from:
      * [`https://w3c.github.io/payment-request/#dfn-payment-permission`](https://w3c.github.io/payment-request/#dfn-payment-permission)
      * [`https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made`](https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made)
      * [`https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request`](https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request)
+     * [`https://w3c.github.io/webdriver/#dfn-extension-command`](https://w3c.github.io/webdriver/#dfn-extension-command)
+     * [`https://w3c.github.io/webdriver/#dfn-remote-end-steps`](https://w3c.github.io/webdriver/#dfn-remote-end-steps)
+     * [`https://w3c.github.io/webdriver/#dfn-errors`](https://w3c.github.io/webdriver/#dfn-errors)
+     * [`https://w3c.github.io/webdriver/#dfn-error-code`](https://w3c.github.io/webdriver/#dfn-error-code)
+     * [`https://w3c.github.io/webdriver/#dfn-invalid-argument`](https://w3c.github.io/webdriver/#dfn-invalid-argument)
+     * [`https://w3c.github.io/webdriver/#dfn-getting-properties`](https://w3c.github.io/webdriver/#dfn-getting-properties)
+     * [`https://w3c.github.io/webdriver/#dfn-undefined`](https://w3c.github.io/webdriver/#dfn-undefined)
+     * [`https://w3c.github.io/webdriver/#dfn-success`](https://w3c.github.io/webdriver/#dfn-success)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#concept-environment-top-level-origin`](https://html.spec.whatwg.org/#concept-environment-top-level-origin)
@@ -16873,7 +16887,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Crawled URL: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
-- Crawled version: 26 February 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
 - Latest published version: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Shortname: reporting-1
@@ -16912,7 +16926,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://fetch.spec.whatwg.org/#concept-response-https-state`](https://fetch.spec.whatwg.org/#concept-response-https-state)
      * [`https://fetch.spec.whatwg.org/#wait-for-a-response`](https://fetch.spec.whatwg.org/#wait-for-a-response)
-     * [`https://dom.spec.whatwg.org/#context-object`](https://dom.spec.whatwg.org/#context-object)
      * [`https://w3c.github.io/webdriver/#dfn-error`](https://w3c.github.io/webdriver/#dfn-error)
 
 #### Known dependencies on this specification {.dependencies}
@@ -20961,7 +20974,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -20986,7 +20999,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Shortname: wasm-js-api-1
@@ -21030,7 +21043,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Shortname: wasm-web-api-1
@@ -21684,7 +21697,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 27 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -23202,6 +23215,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [Reporting API 1](https://w3c.github.io/reporting/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [Save Data API](https://wicg.github.io/savedata/)

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-29T12:48:38.291Z",
+  "date": "2021-10-29T18:43:41.743Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -23843,6 +23843,11 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
+              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
+              "title": "Secure Payment Confirmation",
+              "crawled": "https://w3c.github.io/secure-payment-confirmation"
+            },
+            {
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -26249,7 +26254,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 October 2021",
+      "date": "29 October 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -44994,7 +44999,7 @@
     {
       "title": "Reporting API 1",
       "shortname": "reporting-1",
-      "date": "26 February 2021",
+      "date": "29 October 2021",
       "url": "https://www.w3.org/TR/reporting-1/",
       "release": {
         "url": "https://www.w3.org/TR/reporting-1/",
@@ -45131,7 +45136,6 @@
             "https://html.spec.whatwg.org/#active-document",
             "https://fetch.spec.whatwg.org/#concept-response-https-state",
             "https://fetch.spec.whatwg.org/#wait-for-a-response",
-            "https://dom.spec.whatwg.org/#context-object",
             "https://w3c.github.io/webdriver/#dfn-error"
           ],
           "evolvingLinks": [],
@@ -46029,7 +46033,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/reporting-1/",
+              "title": "Reporting API 1",
+              "crawled": "https://w3c.github.io/reporting/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -48111,7 +48121,7 @@
     {
       "title": "Scroll-linked Animations",
       "shortname": "scroll-animations-1",
-      "date": "25 August 2021",
+      "date": "29 October 2021",
       "url": "https://drafts.csswg.org/scroll-animations-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/scroll-animations-1/",
@@ -48384,7 +48394,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "28 October 2021",
+      "date": "29 October 2021",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -48438,7 +48448,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/webdriver/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/webauthn/",
@@ -48467,6 +48479,13 @@
               "name": "PAYMENT-METHOD-ID",
               "url": "https://www.w3.org/TR/payment-method-id/"
             }
+          },
+          {
+            "link": "https://w3c.github.io/FileAPI/",
+            "ref": {
+              "name": "FileAPI",
+              "url": "https://www.w3.org/TR/FileAPI/"
+            }
           }
         ],
         "referencedBy": {
@@ -48484,7 +48503,15 @@
             "https://w3c.github.io/payment-request/#dfn-payment-method",
             "https://w3c.github.io/payment-request/#dfn-payment-permission",
             "https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made",
-            "https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request"
+            "https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request",
+            "https://w3c.github.io/webdriver/#dfn-extension-command",
+            "https://w3c.github.io/webdriver/#dfn-remote-end-steps",
+            "https://w3c.github.io/webdriver/#dfn-errors",
+            "https://w3c.github.io/webdriver/#dfn-error-code",
+            "https://w3c.github.io/webdriver/#dfn-invalid-argument",
+            "https://w3c.github.io/webdriver/#dfn-getting-properties",
+            "https://w3c.github.io/webdriver/#dfn-undefined",
+            "https://w3c.github.io/webdriver/#dfn-success"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -50276,7 +50303,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "28 October 2021",
+      "date": "29 October 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54466,6 +54493,11 @@
               "crawled": "https://w3c.github.io/remote-playback/"
             },
             {
+              "url": "https://www.w3.org/TR/reporting-1/",
+              "title": "Reporting API 1",
+              "crawled": "https://w3c.github.io/reporting/"
+            },
+            {
               "url": "https://www.w3.org/TR/resize-observer-1/",
               "title": "Resize Observer",
               "crawled": "https://drafts.csswg.org/resize-observer/"
@@ -55388,7 +55420,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "28 October 2021",
+      "date": "29 October 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55444,7 +55476,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "28 October 2021",
+      "date": "29 October 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55537,7 +55569,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "28 October 2021",
+      "date": "29 October 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
