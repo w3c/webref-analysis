@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 28, 2021
+% October 29, 2021
 
 446 specifications were crawled in this report.
 
@@ -107,7 +107,6 @@ WebIDL continues to evolve. Strudy may incorrectly report as invalid perfectly v
 
 ## Specifications that use WebIDL but do not reference the WebIDL spec
 
-- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [SVG Animations](https://svgwg.org/specs/animations/)
@@ -155,7 +154,7 @@ WebIDL continues to evolve. Strudy may incorrectly report as invalid perfectly v
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebRTC Priority Control API](https://w3c.github.io/webrtc-priority/)
 
-=> 47 specifications found
+=> 46 specifications found
 
 
 
@@ -4022,6 +4021,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#missing-value-default`](https://html.spec.whatwg.org/#missing-value-default)
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
+     * [`https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes`](https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes)
+     * [`https://html.spec.whatwg.org/#canonical-keyword`](https://html.spec.whatwg.org/#canonical-keyword)
      * [`https://html.spec.whatwg.org/#translatable-attributes`](https://html.spec.whatwg.org/#translatable-attributes)
      * [`https://html.spec.whatwg.org/#reflect`](https://html.spec.whatwg.org/#reflect)
      * [`https://html.spec.whatwg.org/#keywords-and-enumerated-attributes`](https://html.spec.whatwg.org/#keywords-and-enumerated-attributes)
@@ -5217,6 +5218,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#process-a-navigate-fetch`](https://html.spec.whatwg.org/#process-a-navigate-fetch)
      * [`https://html.spec.whatwg.org/#initialise-the-document-object`](https://html.spec.whatwg.org/#initialise-the-document-object)
+     * [`https://html.spec.whatwg.org/#bc-container-document`](https://html.spec.whatwg.org/#bc-container-document)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#attr-iframe-sandbox`](https://html.spec.whatwg.org/#attr-iframe-sandbox)
@@ -8999,7 +9001,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4718 problematic external links found in 291 specifications
+=> 4721 problematic external links found in 291 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

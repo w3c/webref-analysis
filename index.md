@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 28, 2021
+% October 29, 2021
 
 # Ecma International {#ecma_international}
 
@@ -603,7 +603,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -632,7 +632,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -692,7 +692,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1069,7 +1069,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1098,7 +1098,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1138,7 +1138,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1171,7 +1171,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1200,7 +1200,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 28 October 2021
+- Crawled version: 29 October 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2637,20 +2637,19 @@ Informative references to this spec from:
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 
 
-### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-noRefToWebIDL=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 17 September 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
 
 #### Potential issue(s) {.anomalies}
 
-- Spec uses WebIDL but does not reference it normatively
 - Missing references for links: 
      * [`https://w3c.github.io/aria-practices/`](https://w3c.github.io/aria-practices/)
      * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
@@ -2668,6 +2667,8 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#missing-value-default`](https://html.spec.whatwg.org/#missing-value-default)
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
+     * [`https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes`](https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes)
+     * [`https://html.spec.whatwg.org/#canonical-keyword`](https://html.spec.whatwg.org/#canonical-keyword)
      * [`https://html.spec.whatwg.org/#translatable-attributes`](https://html.spec.whatwg.org/#translatable-attributes)
      * [`https://html.spec.whatwg.org/#reflect`](https://html.spec.whatwg.org/#reflect)
      * [`https://html.spec.whatwg.org/#keywords-and-enumerated-attributes`](https://html.spec.whatwg.org/#keywords-and-enumerated-attributes)
@@ -6502,7 +6503,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Crawled URL: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
-- Crawled version: 27 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
 - Latest published version: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Shortname: css-grid-2
@@ -10888,7 +10889,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 26 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10957,7 +10958,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 26 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -17971,7 +17972,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
 - Crawled URL: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
-- Crawled version: 25 October 2021
+- Crawled version: 28 October 2021
 - Editor's Draft: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
 - Shortname: document-policy
 
@@ -17991,6 +17992,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#process-a-navigate-fetch`](https://html.spec.whatwg.org/#process-a-navigate-fetch)
      * [`https://html.spec.whatwg.org/#initialise-the-document-object`](https://html.spec.whatwg.org/#initialise-the-document-object)
+     * [`https://html.spec.whatwg.org/#bc-container-document`](https://html.spec.whatwg.org/#bc-container-document)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#attr-iframe-sandbox`](https://html.spec.whatwg.org/#attr-iframe-sandbox)
@@ -23117,6 +23119,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [App History API](https://wicg.github.io/app-history/)
 - [Attribution Reporting](https://wicg.github.io/conversion-measurement-api/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
