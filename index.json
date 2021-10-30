@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-10-30T12:45:58.234Z",
+  "date": "2021-10-30T18:43:48.697Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -3631,7 +3631,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "20 October 2021",
+      "date": "30 October 2021",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",
@@ -7619,7 +7619,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "29 October 2021",
+      "date": "30 October 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7786,11 +7786,6 @@
               "crawled": "https://drafts.csswg.org/css-scrollbars/"
             },
             {
-              "url": "https://www.w3.org/TR/css-shapes-1/",
-              "title": "CSS Shapes Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-shapes/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-tables-3/",
               "title": "CSS Table Module Level 3",
               "crawled": "https://drafts.csswg.org/css-tables-3/"
@@ -7938,7 +7933,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "23 October 2021",
+      "date": "30 October 2021",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -7998,6 +7993,11 @@
               "url": "https://www.w3.org/TR/css-scoping-1/",
               "title": "CSS Scoping Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scoping/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-shapes-1/",
+              "title": "CSS Shapes Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-shapes/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
