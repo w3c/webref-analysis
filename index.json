@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-01T06:42:38.188Z",
+  "date": "2021-11-01T12:48:31.225Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -23140,7 +23140,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "26 October 2021",
+      "date": "1 November 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -26254,7 +26254,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "29 October 2021",
+      "date": "1 November 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
