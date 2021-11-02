@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-01T18:43:08.074Z",
+  "date": "2021-11-02T00:51:08.015Z",
   "stats": {
     "crawled": 446,
     "errors": 0,
@@ -4782,6 +4782,11 @@
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -4833,11 +4838,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
@@ -7619,7 +7619,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "30 October 2021",
+      "date": "1 November 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7648,7 +7648,16 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "<color-interpolation-method>"
+                ],
+                "value": "in [ <rectangular-color-space> | <polar-color-space> <hue-interpolation-method>? ]"
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -7933,7 +7942,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "30 October 2021",
+      "date": "1 November 2021",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -11570,7 +11579,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "17 May 2021",
+      "date": "1 November 2021",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -11630,6 +11639,11 @@
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
@@ -11680,11 +11694,6 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-3/",
@@ -17785,6 +17794,11 @@
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
@@ -17830,11 +17844,6 @@
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -24126,6 +24135,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
@@ -24151,13 +24165,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -45245,7 +45253,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "26 August 2021",
+      "date": "1 November 2021",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
@@ -45682,7 +45690,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45742,7 +45750,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45831,7 +45839,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45905,7 +45913,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45963,7 +45971,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46001,7 +46009,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46057,7 +46065,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46113,7 +46121,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50303,7 +50311,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "29 October 2021",
+      "date": "1 November 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54638,6 +54646,11 @@
               "crawled": "https://w3c.github.io/webcrypto/"
             },
             {
+              "url": "https://wicg.github.io/web-locks/",
+              "title": "Web Locks API",
+              "crawled": "https://wicg.github.io/web-locks/"
+            },
+            {
               "url": "https://www.w3.org/TR/webmidi/",
               "title": "Web MIDI API",
               "crawled": "https://webaudio.github.io/web-midi-api/"
@@ -54782,7 +54795,7 @@
     {
       "title": "Web Locks API",
       "shortname": "web-locks",
-      "date": "20 August 2021",
+      "date": "1 November 2021",
       "url": "https://wicg.github.io/web-locks/",
       "nightly": {
         "url": "https://wicg.github.io/web-locks/",
@@ -61695,7 +61708,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61810,7 +61823,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "1 November 2021",
+      "date": "2 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

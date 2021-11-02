@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 01, 2021
+% November 02, 2021
 
 446 specifications were crawled in this report.
 
@@ -298,6 +298,8 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/):
     * `margin-trim` with type `property`
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/):
+    * `<color-interpolation-method>`
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
     * `<feature-value-block>`
     * `<font-feature-value-type>`
@@ -372,7 +374,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `<dasharray>`
     * `<marker-ref>`
 
-=> 70 properties without definition found in 5 specifications
+=> 71 properties without definition found in 6 specifications
 
 
 ## No definition for IDL properties
