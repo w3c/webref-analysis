@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 02, 2021
+% November 03, 2021
 
 446 specifications were crawled in this report.
 
@@ -8388,7 +8388,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#serializable-objects`](https://html.spec.whatwg.org/#serializable-objects)
      * [`https://html.spec.whatwg.org/#serialization-steps`](https://html.spec.whatwg.org/#serialization-steps)
      * [`https://html.spec.whatwg.org/#deserialization-steps`](https://html.spec.whatwg.org/#deserialization-steps)
-     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [Web Locks API](https://wicg.github.io/web-locks/):
      * [`https://html.spec.whatwg.org/#integration-with-the-javascript-agent-cluster-formalism`](https://html.spec.whatwg.org/#integration-with-the-javascript-agent-cluster-formalism)
      * [`https://html.spec.whatwg.org/#starting-a-new-parallel-queue`](https://html.spec.whatwg.org/#starting-a-new-parallel-queue)
@@ -9002,7 +9001,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4720 problematic external links found in 291 specifications
+=> 4719 problematic external links found in 291 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
