@@ -31,7 +31,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -91,7 +90,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -272,7 +270,7 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `BigUint64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - `CSSPercentishArray` used in [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- `DOMTimeStamp` used in [Cookie Store API](https://wicg.github.io/cookie-store/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- `DOMTimeStamp` used in [Cookie Store API](https://wicg.github.io/cookie-store/)
 - `DataView` used in [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web NFC](https://w3c.github.io/web-nfc/), [WebHID API](https://wicg.github.io/webhid/), [WebUSB API](https://wicg.github.io/webusb/)
 - `Float32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/), [WebXR Device API](https://immersive-web.github.io/webxr/), [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/), [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 - `Float64Array` used in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -899,15 +897,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `remove(index)` with type `method` for [`HTMLSelectElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmlselectelement), but found [`remove()`](https://html.spec.whatwg.org/multipage/form-elements.html#dom-select-remove) with type `method` for `HTMLSelectElement`
     * `setRangeText(replacement)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
     * `setRangeText(replacement, start, end, selectionMode)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-    * `fill(fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`fill()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-fill) with type `method` for `CanvasDrawPath`
-    * `fill(path, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`fill()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-fill) with type `method` for `CanvasDrawPath`
-    * `stroke(path)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`stroke()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-stroke) with type `method` for `CanvasDrawPath`
-    * `clip(fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`clip()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-clip) with type `method` for `CanvasDrawPath`
-    * `clip(path, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`clip()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-clip) with type `method` for `CanvasDrawPath`
-    * `isPointInPath(x, y, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInPath()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinpath) with type `method` for `CanvasDrawPath`
-    * `isPointInPath(path, x, y, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInPath()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinpath) with type `method` for `CanvasDrawPath`
-    * `isPointInStroke(x, y)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInStroke()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinstroke) with type `method` for `CanvasDrawPath`
-    * `isPointInStroke(path, x, y)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInStroke()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinstroke) with type `method` for `CanvasDrawPath`
     * `drawFocusIfNeeded(path, element)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`drawFocusIfNeeded(element)`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawfocusifneeded) with type `method` for `CanvasUserInterface`
     * `scrollPathIntoView(path)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`scrollPathIntoView()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-scrollpathintoview) with type `method` for `CanvasUserInterface`
     * `drawImage(image, dx, dy)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
@@ -922,7 +911,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `setStreams(...streams)` with type `method` for [`RTCRtpSender`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender), but found [`setStreams()`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams) with type `method` for `RTCRtpSender`
     * `addTrack(track, ...streams)` with type `method` for [`RTCPeerConnection`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection), but found [`addTrack()`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack) with type `method` for `RTCPeerConnection`
 
-=> 26 properties without definition found in 2 specifications
+=> 17 properties without definition found in 2 specifications
 
 
 ## Missing references based on document links
@@ -1552,6 +1541,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
 - [Image Resource](https://w3c.github.io/image-resource/) links to [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
 - [import assertions](https://tc39.es/proposal-import-assertions/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html) links to [`https://w3c.github.io/IFT/`](https://w3c.github.io/IFT/) but does not list it in its references
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to:
     * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/) but does not list it in its references
     * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/) but does not list it in its references
@@ -1764,7 +1754,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 708 missing references for links found in 186 specifications
+=> 709 missing references for links found in 187 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

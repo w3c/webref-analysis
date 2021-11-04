@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-04T06:44:03.402Z",
+  "date": "2021-11-04T18:43:26.075Z",
   "stats": {
     "crawled": 446,
     "errors": 3,
@@ -486,7 +486,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "28 October 2021",
+      "date": "04 November 2021",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -627,7 +627,7 @@
     {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
-      "date": "3 September 2021",
+      "date": "4 November 2021",
       "url": "https://www.w3.org/TR/ambient-light/",
       "release": {
         "url": "https://www.w3.org/TR/ambient-light/",
@@ -20362,7 +20362,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "02 August 2021",
+      "date": "04 November 2021",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -26293,7 +26293,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "3 November 2021",
+      "date": "4 November 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -27788,492 +27788,6 @@
                 "definedIn": "pre"
               },
               "for": null
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "fill(fillRule)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-fill",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-fill",
-                "linkingText": [
-                  "fill()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "fill(path, fillRule)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-fill",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-fill",
-                "linkingText": [
-                  "fill()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "stroke(path)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-stroke",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-stroke",
-                "linkingText": [
-                  "stroke()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "clip(fillRule)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-clip",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-clip",
-                "linkingText": [
-                  "clip()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "clip(path, fillRule)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-clip",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-clip",
-                "linkingText": [
-                  "clip()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "isPointInPath(x, y, fillRule)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-ispointinpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinpath",
-                "linkingText": [
-                  "isPointInPath()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "isPointInPath(path, x, y, fillRule)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-ispointinpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinpath",
-                "linkingText": [
-                  "isPointInPath()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "isPointInStroke(x, y)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-ispointinstroke",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinstroke",
-                "linkingText": [
-                  "isPointInStroke()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "isPointInStroke(path, x, y)"
-                ],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false
-              },
-              "found": {
-                "id": "dom-context-2d-ispointinstroke",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinstroke",
-                "linkingText": [
-                  "isPointInStroke()"
-                ],
-                "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "CanvasDrawPath"
-                ],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "drawing-paths-to-the-canvas",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#drawing-paths-to-the-canvas",
-                  "title": "Drawing paths to the canvas",
-                  "number": "4.12.5.1.12"
-                },
-                "definedIn": "prose"
-              },
-              "for": {
-                "id": "canvasdrawpath",
-                "href": "https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath",
-                "linkingText": [
-                  "CanvasDrawPath"
-                ],
-                "localLinkingText": [],
-                "type": "interface",
-                "for": [],
-                "access": "public",
-                "informative": false,
-                "heading": {
-                  "id": "2dcontext",
-                  "href": "https://html.spec.whatwg.org/multipage/canvas.html#2dcontext",
-                  "title": "The 2D rendering context",
-                  "number": "4.12.5.1"
-                },
-                "definedIn": "pre"
-              },
-              "warning": true
             },
             {
               "expected": {
@@ -35897,7 +35411,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36336,7 +35850,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "19 October 2021",
+      "date": "4 November 2021",
       "url": "https://w3c.github.io/IFT/Overview.html",
       "nightly": {
         "url": "https://w3c.github.io/IFT/Overview.html",
@@ -36364,13 +35878,15 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/IFT/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -42739,7 +42255,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "28 October 2021",
+      "date": "04 November 2021",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -44606,18 +44122,17 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
+            },
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
             }
           ]
         },
@@ -47931,7 +47446,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 431)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 431)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -50416,7 +49931,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "2 November 2021",
+      "date": "4 November 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54209,6 +53724,11 @@
               "url": "https://www.w3.org/TR/wai-aria-1.2/",
               "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
               "crawled": "https://w3c.github.io/aria/"
+            },
+            {
+              "url": "https://www.w3.org/TR/ambient-light/",
+              "title": "Ambient Light Sensor",
+              "crawled": "https://w3c.github.io/ambient-light/"
             },
             {
               "url": "https://wicg.github.io/app-history/",
@@ -61819,7 +61339,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "3 November 2021",
+      "date": "4 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61934,7 +61454,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "3 November 2021",
+      "date": "4 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -62153,7 +61673,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "25 October 2021",
+      "date": "04 November 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -62181,7 +61701,6 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [
           "ArrayBuffer",
-          "DOMTimeStamp",
           "RTCStatsType"
         ],
         "redefinedIdlNames": [],
@@ -63829,7 +63348,7 @@
     {
       "title": "WebXR Lighting Estimation API Level 1",
       "shortname": "lighting-estimation",
-      "date": "25 October 2021",
+      "date": "4 November 2021",
       "url": "https://immersive-web.github.io/lighting-estimation/",
       "nightly": {
         "url": "https://immersive-web.github.io/lighting-estimation/",

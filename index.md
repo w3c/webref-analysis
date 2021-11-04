@@ -557,7 +557,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 2 November 2021
+- Crawled version: 4 November 2021
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -2645,7 +2645,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 28 October 2021
+- Crawled version: 04 November 2021
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -10325,7 +10325,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Crawled URL: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
-- Crawled version: 3 September 2021
+- Crawled version: 4 November 2021
 - Editor's Draft: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
 - Latest published version: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Shortname: ambient-light
@@ -10404,7 +10404,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 02 August 2021
+- Crawled version: 04 November 2021
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -10895,7 +10895,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 3 November 2021
+- Crawled version: 4 November 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10964,7 +10964,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 3 November 2021
+- Crawled version: 4 November 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11517,7 +11517,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
 - Crawled URL: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
-- Crawled version: 25 October 2021
+- Crawled version: 4 November 2021
 - Editor's Draft: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
 - Shortname: lighting-estimation
 
@@ -14049,7 +14049,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 28 October 2021
+- Crawled version: 04 November 2021
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -15341,13 +15341,12 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Permissions](https://w3c.github.io/permissions/)
 
 
 ### Selection API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -15919,19 +15918,20 @@ No informative reference to this spec from other specs.
 
 ## Web Fonts Working Group {#web_fonts_working_group}
 
-### Incremental Font Transfer {data-spec=true data-missingDfns=true data-ok=true}
+### Incremental Font Transfer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 19 October 2021
+- Crawled version: 4 November 2021
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Shortname: IFT
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/IFT/`](https://w3c.github.io/IFT/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20379,7 +20379,6 @@ The following network or parsing error occurred:
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -20870,7 +20869,6 @@ The following network or parsing error occurred:
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -20934,14 +20932,14 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 25 October 2021
+- Crawled version: 04 November 2021
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `DOMTimeStamp`, `RTCStatsType`
+- Unknown WebIDL names used: `ArrayBuffer`, `RTCStatsType`
 - Possibly no definition for IDL properties: 
      * `setStreams(...streams)` with type `method` for [`RTCRtpSender`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender), but found [`setStreams()`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams) with type `method` for `RTCRtpSender`
      * `addTrack(track, ...streams)` with type `method` for [`RTCPeerConnection`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection), but found [`addTrack()`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack) with type `method` for `RTCPeerConnection`
@@ -21897,7 +21895,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 3 November 2021
+- Crawled version: 4 November 2021
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -22028,15 +22026,6 @@ Informative references to this spec from:
      * `remove(index)` with type `method` for [`HTMLSelectElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmlselectelement), but found [`remove()`](https://html.spec.whatwg.org/multipage/form-elements.html#dom-select-remove) with type `method` for `HTMLSelectElement`
      * `setRangeText(replacement)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
      * `setRangeText(replacement, start, end, selectionMode)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-     * `fill(fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`fill()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-fill) with type `method` for `CanvasDrawPath`
-     * `fill(path, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`fill()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-fill) with type `method` for `CanvasDrawPath`
-     * `stroke(path)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`stroke()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-stroke) with type `method` for `CanvasDrawPath`
-     * `clip(fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`clip()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-clip) with type `method` for `CanvasDrawPath`
-     * `clip(path, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`clip()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-clip) with type `method` for `CanvasDrawPath`
-     * `isPointInPath(x, y, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInPath()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinpath) with type `method` for `CanvasDrawPath`
-     * `isPointInPath(path, x, y, fillRule)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInPath()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinpath) with type `method` for `CanvasDrawPath`
-     * `isPointInStroke(x, y)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInStroke()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinstroke) with type `method` for `CanvasDrawPath`
-     * `isPointInStroke(path, x, y)` with type `method` for [`CanvasDrawPath`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawpath), but found [`isPointInStroke()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-ispointinstroke) with type `method` for `CanvasDrawPath`
      * `drawFocusIfNeeded(path, element)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`drawFocusIfNeeded(element)`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawfocusifneeded) with type `method` for `CanvasUserInterface`
      * `scrollPathIntoView(path)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`scrollPathIntoView()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-scrollpathintoview) with type `method` for `CanvasUserInterface`
      * `drawImage(image, dx, dy)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
@@ -23338,6 +23327,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
 - [App History API](https://wicg.github.io/app-history/)
 - [Attribution Reporting](https://wicg.github.io/conversion-measurement-api/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
