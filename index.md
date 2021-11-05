@@ -557,7 +557,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 4 November 2021
+- Crawled version: 5 November 2021
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -21840,7 +21840,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 4 November 2021
+- Crawled version: 5 November 2021
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -21908,7 +21908,7 @@ Informative references to this spec from:
      * `constructor(type, eventInitDict)` with type `constructor` for [`DragEvent`](https://html.spec.whatwg.org/multipage/dnd.html#dragevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
      * `dataTransfer` with type `dict-member` for [`DragEventInit`](https://html.spec.whatwg.org/multipage/dnd.html#drageventinit), but found [`dataTransfer`](https://html.spec.whatwg.org/multipage/dnd.html#dom-dragevent-datatransfer) with type `attribute` for `DragEvent`
      * `constructor(type, eventInitDict)` with type `constructor` for [`PopStateEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#popstateevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `state` with type `dict-member` for [`PopStateEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#popstateeventinit), but found [`state`](https://html.spec.whatwg.org/multipage/images.html#img-req-state) with type `dfn`
+     * `state` with type `dict-member` for [`PopStateEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#popstateeventinit), but found [`state`](https://html.spec.whatwg.org/multipage/images.html#img-req-state) with type `dfn` for `image request`
      * `constructor(type, eventInitDict)` with type `constructor` for [`HashChangeEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
      * `oldURL` with type `dict-member` for [`HashChangeEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeeventinit), but found [`oldURL`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-hashchangeevent-oldurl) with type `attribute` for `HashChangeEvent`
      * `newURL` with type `dict-member` for [`HashChangeEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeeventinit), but found [`newURL`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-hashchangeevent-newurl) with type `attribute` for `HashChangeEvent`

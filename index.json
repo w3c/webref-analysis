@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-05T06:43:08.188Z",
+  "date": "2021-11-05T12:46:35.324Z",
   "stats": {
     "crawled": 446,
     "errors": 1,
@@ -26291,7 +26291,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "4 November 2021",
+      "date": "5 November 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -29941,8 +29941,10 @@
                 ],
                 "localLinkingText": [],
                 "type": "dfn",
-                "for": [],
-                "access": "private",
+                "for": [
+                  "image request"
+                ],
+                "access": "public",
                 "informative": false,
                 "heading": {
                   "id": "images-processing-model",
@@ -49955,7 +49957,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "4 November 2021",
+      "date": "5 November 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
