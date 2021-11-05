@@ -1,104 +1,8 @@
 % Reffy crawl
 % Strudy
-% November 04, 2021
+% November 05, 2021
 
 446 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Identifiers for WebRTC's Statistics API]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 430)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-- [MediaStreamTrack Content Hints]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 356)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-- [Scalable Video Coding (SVC) Extension for WebRTC]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 431)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-
-=> 3 specifications found
 
 
 ## Specifications without normative dependencies
@@ -278,7 +182,6 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `Int32Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - `Int8Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `PostMessageOptions` used in [Portals](https://wicg.github.io/portals/)
-- `RTCStatsType` used in [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - `Uint16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebGPU](https://gpuweb.github.io/gpuweb/)
 - `Uint8Array` used in [Encoding Standard](https://encoding.spec.whatwg.org/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web MIDI API](https://webaudio.github.io/web-midi-api/)
@@ -287,7 +190,7 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 21 WebIDL names found
+=> 20 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
@@ -1539,6 +1442,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) links to:
     * [`https://spec.whatwg.org/`](https://spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/) links to [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
 - [Image Resource](https://w3c.github.io/image-resource/) links to [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
 - [import assertions](https://tc39.es/proposal-import-assertions/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html) links to [`https://w3c.github.io/IFT/`](https://w3c.github.io/IFT/) but does not list it in its references
@@ -1754,7 +1658,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 709 missing references for links found in 187 specifications
+=> 710 missing references for links found in 188 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1991,6 +1895,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/accelerometer/`](https://w3c.github.io/accelerometer/) but related reference "ACCELEROMETER" uses URL [`https://www.w3.org/TR/accelerometer/`](https://www.w3.org/TR/accelerometer/)
+- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/) links to [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
@@ -2179,7 +2084,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 345 inconsistent references for links found in 180 specifications
+=> 346 inconsistent references for links found in 181 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -3161,7 +3066,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://immersive-web.github.io/webxr/#populate-the-pose`](https://immersive-web.github.io/webxr/#populate-the-pose)
      * [`https://immersive-web.github.io/webxr/#xrsession-animation-frame`](https://immersive-web.github.io/webxr/#xrsession-animation-frame)
      * [`https://immersive-web.github.io/webxr/#explicit-consent`](https://immersive-web.github.io/webxr/#explicit-consent)
-     * [`https://heycam.github.io/webidl/#value-pair`](https://heycam.github.io/webidl/#value-pair)
+     * [`https://webidl.spec.whatwg.org/#value-pair`](https://webidl.spec.whatwg.org/#value-pair)
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/):
      * [`https://www.w3.org/TR/webxr/#feature-descriptor`](https://www.w3.org/TR/webxr/#feature-descriptor)
      * [`https://www.w3.org/TR/webxr/#capable-of-supporting`](https://www.w3.org/TR/webxr/#capable-of-supporting)
@@ -4216,8 +4121,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#shared-history-push/replace-state-steps`](https://html.spec.whatwg.org/#shared-history-push/replace-state-steps)
      * [`https://html.spec.whatwg.org/#hh-entry-update`](https://html.spec.whatwg.org/#hh-entry-update)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
-     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
-     * [`https://html.spec.whatwg.org/#history-traversal-task-source`](https://html.spec.whatwg.org/#history-traversal-task-source)
      * [`https://html.spec.whatwg.org/#update-the-session-history-with-the-new-page`](https://html.spec.whatwg.org/#update-the-session-history-with-the-new-page)
      * [`https://html.spec.whatwg.org/#traverse-the-history`](https://html.spec.whatwg.org/#traverse-the-history)
      * [`https://html.spec.whatwg.org/#creating-a-new-browsing-context`](https://html.spec.whatwg.org/#creating-a-new-browsing-context)
@@ -6491,6 +6394,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-object-data`](https://html.spec.whatwg.org/#attr-object-data)
      * [`https://html.spec.whatwg.org/#the-embed-element`](https://html.spec.whatwg.org/#the-embed-element)
      * [`https://html.spec.whatwg.org/#attr-embed-src`](https://html.spec.whatwg.org/#attr-embed-src)
+- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/):
+     * [`https://html.spec.whatwg.org/#mathml`](https://html.spec.whatwg.org/#mathml)
+     * [`https://w3c.github.io/core-aam/#role-map-math`](https://w3c.github.io/core-aam/#role-map-math)
 - [MathML Core](https://w3c.github.io/mathml-core/):
      * [`https://www.w3.org/TR/css-color-3/#colorunits`](https://www.w3.org/TR/css-color-3/#colorunits)
      * [`https://www.w3.org/TR/css-color-3/#foreground`](https://www.w3.org/TR/css-color-3/#foreground)
@@ -8646,7 +8552,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set`](https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://w3c.github.io/webrtc-svc/#scalabilitymodes*`](https://w3c.github.io/webrtc-svc/#scalabilitymodes*)
 - [WebDriver](https://w3c.github.io/webdriver/):
      * [`https://html.spec.whatwg.org/#focus`](https://html.spec.whatwg.org/#focus)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
@@ -8930,118 +8835,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#binarytype`](https://html.spec.whatwg.org/#binarytype)
      * [`https://html.spec.whatwg.org/#dom-websocket-binarytype`](https://html.spec.whatwg.org/#dom-websocket-binarytype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dfn-stats-object`](https://www.w3.org/TR/webrtc-stats/#dfn-stats-object)
-     * [`https://www.w3.org/TR/webrtc-stats/#dfn-monitored-object`](https://www.w3.org/TR/webrtc-stats/#dfn-monitored-object)
-     * [`https://www.w3.org/TR/webrtc-stats/#lifetime-considerations-for-monitored-objects`](https://www.w3.org/TR/webrtc-stats/#lifetime-considerations-for-monitored-objects)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-ssrc`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-ssrc)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-packetssent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-packetssent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-codec`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-codec)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-payloadtype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-payloadtype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-mimetype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-mimetype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-clockrate`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-clockrate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-channels`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-channels)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-sdpfmtpline`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-sdpfmtpline)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-inbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-inbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-kind`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-kind)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-transportid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-transportid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-codecid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-codecid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetslost`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetslost)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-framesdropped`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-framesdropped)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-remoteid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-remoteid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesdecoded`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesdecoded)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-nackcount`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-nackcount)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalaudioenergy`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalaudioenergy)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalsamplesduration`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalsamplesduration)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-outbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-outbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-remoteid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-remoteid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framesencoded`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framesencoded)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-nackcount`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-nackcount)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-inbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-inbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-localid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-localid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-roundtriptime`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-roundtriptime)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-outbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-outbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-localid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-localid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-remotetimestamp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-remotetimestamp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-media-source`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-media-source)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-trackidentifier`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-trackidentifier)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-kind`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-kind)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalaudioenergy`](https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalaudioenergy)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalsamplesduration`](https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalsamplesduration)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-width`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-width)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-height`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-height)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-framespersecond`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-framespersecond)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-peer-connection`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-peer-connection)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsopened`](https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsopened)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsclosed`](https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsclosed)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-data-channel`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-data-channel)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-label`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-label)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-protocol`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-protocol)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-datachannelidentifier`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-datachannelidentifier)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-state`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-state)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-transport`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-transport)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-selectedcandidatepairid`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-selectedcandidatepairid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-localcertificateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-localcertificateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-remotecertificateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-remotecertificateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-candidate-pair`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-candidate-pair)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-transportid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-transportid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-state`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-state)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-local-candidate`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-local-candidate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-address`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-address)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-port`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-port)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-protocol`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-protocol)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-candidatetype`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-candidatetype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-url`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-url)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-candidate`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-candidate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-certificate`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-certificate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprint`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprint)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprintalgorithm`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprintalgorithm)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-base64certificate`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-base64certificate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-issuercertificateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-issuercertificateid)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/):
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -9213,7 +9006,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4827 problematic external links found in 291 specifications
+=> 4714 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
