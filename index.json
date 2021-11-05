@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-05T12:46:35.324Z",
+  "date": "2021-11-05T18:41:41.335Z",
   "stats": {
     "crawled": 446,
-    "errors": 1,
+    "errors": 0,
     "studied": 446
   },
   "results": [
@@ -1599,7 +1599,7 @@
     {
       "title": "Battery Status API",
       "shortname": "battery-status",
-      "date": "13 September 2021",
+      "date": "05 November 2021",
       "url": "https://www.w3.org/TR/battery-status/",
       "release": {
         "url": "https://www.w3.org/TR/battery-status/",
@@ -25481,6 +25481,11 @@
               "crawled": "https://wicg.github.io/video-rvfc/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://wicg.github.io/js-self-profiling/",
               "title": "JS Self-Profiling API",
               "crawled": "https://wicg.github.io/js-self-profiling/"
@@ -35391,6 +35396,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
+      "date": "15 July 2021",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -35402,12 +35408,7 @@
         "sourcePath": "webrtc-stats.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/webrtc-stats/",
-        "repository": "https://github.com/w3c/webrtc-stats",
-        "sourcePath": "webrtc-stats.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/webrtc-stats/",
       "organization": "W3C",
       "groups": [
         {
@@ -35416,10 +35417,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -35428,7 +35429,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/webrtc-extensions/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -35445,6 +35448,14 @@
               "crawled": "https://wicg.github.io/video-rvfc/"
             }
           ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -35497,7 +35508,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -36358,6 +36375,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
               "url": "https://wicg.github.io/idle-detection/",
@@ -38198,7 +38220,7 @@
     {
       "title": "MathML Accessiblity API Mappings 1.0",
       "shortname": "mathml-aam",
-      "date": "04 November 2021",
+      "date": "05 November 2021",
       "url": "https://w3c.github.io/mathml-aam/",
       "nightly": {
         "url": "https://w3c.github.io/mathml-aam/",
@@ -38563,6 +38585,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-identity/",
@@ -39108,7 +39135,7 @@
     {
       "title": "Media Queries Level 4",
       "shortname": "mediaqueries-4",
-      "date": "17 May 2021",
+      "date": "5 November 2021",
       "url": "https://www.w3.org/TR/mediaqueries-4/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -44899,7 +44926,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "1 November 2021",
+      "date": "5 November 2021",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
@@ -48048,7 +48075,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "3 November 2021",
+      "date": "5 November 2021",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -53252,7 +53279,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "7 October 2021",
+      "date": "5 November 2021",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -54022,6 +54049,11 @@
               "crawled": "https://w3c.github.io/webrtc-ice/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
@@ -54460,7 +54492,7 @@
     {
       "title": "Web Locks API",
       "shortname": "web-locks",
-      "date": "2 November 2021",
+      "date": "5 November 2021",
       "url": "https://wicg.github.io/web-locks/",
       "nightly": {
         "url": "https://wicg.github.io/web-locks/",
@@ -54523,6 +54555,8 @@
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#concept-environment-id",
             "https://html.spec.whatwg.org/#responsible-event-loop"
@@ -61379,7 +61413,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "4 November 2021",
+      "date": "5 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61494,7 +61528,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "4 November 2021",
+      "date": "5 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -61740,8 +61774,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "ArrayBuffer",
-          "RTCStatsType"
+          "ArrayBuffer"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -61887,6 +61920,11 @@
               "crawled": "https://w3c.github.io/webrtc-ice/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
@@ -61976,119 +62014,7 @@
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#binarytype",
-            "https://html.spec.whatwg.org/#dom-websocket-binarytype",
-            "https://www.w3.org/TR/webrtc-stats/#dfn-stats-object",
-            "https://www.w3.org/TR/webrtc-stats/#dfn-monitored-object",
-            "https://www.w3.org/TR/webrtc-stats/#lifetime-considerations-for-monitored-objects",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-ssrc",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-packetssent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-codec",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-payloadtype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-mimetype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-clockrate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-channels",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-sdpfmtpline",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-inbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-kind",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-transportid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-codecid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetslost",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-framesdropped",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-remoteid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesdecoded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-nackcount",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalaudioenergy",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalsamplesduration",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-outbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-remoteid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framesencoded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-nackcount",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-inbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-localid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-roundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-outbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-localid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-remotetimestamp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-media-source",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-trackidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-kind",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalaudioenergy",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalsamplesduration",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-width",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-height",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-framespersecond",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-peer-connection",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsopened",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsclosed",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-data-channel",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-label",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-protocol",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-datachannelidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-state",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-transport",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-selectedcandidatepairid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-localcertificateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-remotecertificateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-candidate-pair",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-transportid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-state",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-local-candidate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-address",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-port",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-protocol",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-candidatetype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-url",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-candidate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-certificate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprint",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprintalgorithm",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-base64certificate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-issuercertificateid"
+            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -62209,7 +62135,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
           "informative": []
         },
         "ok": false
