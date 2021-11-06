@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-06T12:46:18.168Z",
+  "date": "2021-11-06T18:44:13.557Z",
   "stats": {
     "crawled": 446,
-    "errors": 2,
+    "errors": 3,
     "studied": 446
   },
   "results": [
@@ -33252,11 +33252,6 @@
               "crawled": "https://w3c.github.io/mediacapture-depth/"
             },
             {
-              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
-              "title": "Media Capture from DOM Elements",
-              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
-            },
-            {
               "url": "https://wicg.github.io/media-feeds/",
               "title": "Media Feeds",
               "crawled": "https://wicg.github.io/media-feeds/"
@@ -35411,7 +35406,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -38575,11 +38570,6 @@
               "crawled": "https://w3c.github.io/mediacapture-depth/"
             },
             {
-              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
-              "title": "Media Capture from DOM Elements",
-              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
-            },
-            {
               "url": "https://www.w3.org/TR/image-capture/",
               "title": "MediaStream Image Capture",
               "crawled": "https://w3c.github.io/mediacapture-image/"
@@ -38635,11 +38625,6 @@
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
-              "title": "Media Capture from DOM Elements",
-              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
             },
             {
               "url": "https://www.w3.org/TR/fingerprinting-guidance/",
@@ -38895,7 +38880,6 @@
     {
       "title": "Media Capture from DOM Elements",
       "shortname": "mediacapture-fromelement",
-      "date": "05 July 2021",
       "url": "https://www.w3.org/TR/mediacapture-fromelement/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-fromelement/",
@@ -38907,7 +38891,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/mediacapture-fromelement/",
+      "crawled": {
+        "url": "https://w3c.github.io/mediacapture-fromelement/",
+        "repository": "https://github.com/w3c/mediacapture-fromelement",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -38916,10 +38905,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 348)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -38929,15 +38918,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/mediacapture-main/",
-            "ref": {
-              "name": "mediacapture-streams",
-              "url": "https://www.w3.org/TR/mediacapture-streams/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
@@ -38947,33 +38928,6 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             }
           ]
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#video",
-            "https://html.spec.whatwg.org/#audio",
-            "https://html.spec.whatwg.org/#canvas",
-            "https://html.spec.whatwg.org/#htmlmediaelement",
-            "https://html.spec.whatwg.org/#htmlcanvaselement",
-            "https://html.spec.whatwg.org/#videotrack",
-            "https://html.spec.whatwg.org/#audiotrack",
-            "https://html.spec.whatwg.org/#dom-videotracklist-selectedindex",
-            "https://html.spec.whatwg.org/#dom-audiotrack-enabled",
-            "https://html.spec.whatwg.org/#dom-media-have_nothing",
-            "https://html.spec.whatwg.org/#ended-playback",
-            "https://html.spec.whatwg.org/#dom-media-src",
-            "https://html.spec.whatwg.org/#dom-media-srcobject",
-            "https://html.spec.whatwg.org/#dom-media-playbackrate",
-            "https://html.spec.whatwg.org/#concept-canvas-origin-clean",
-            "https://html.spec.whatwg.org/#window"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [
-            "https://www.w3.org/TR/html5/"
-          ],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -47463,7 +47417,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 431)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 431)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -53149,11 +53103,6 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
-              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
-              "title": "Media Capture from DOM Elements",
-              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
-            },
-            {
               "url": "https://www.w3.org/TR/webmidi/",
               "title": "Web MIDI API",
               "crawled": "https://webaudio.github.io/web-midi-api/"
@@ -53229,7 +53178,8 @@
             "https://html.spec.whatwg.org/#clean-up-after-running-script",
             "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
-            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference"
+            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference",
+            "https://www.w3.org/TR/mediacapture-fromelement/#dom-htmlmediaelement-capturestream"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -54071,11 +54021,6 @@
               "url": "https://w3c.github.io/mediacapture-automation/",
               "title": "Media Capture Automation",
               "crawled": "https://w3c.github.io/mediacapture-automation/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
-              "title": "Media Capture from DOM Elements",
-              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
             },
             {
               "url": "https://w3c.github.io/media-playback-quality/",
@@ -61894,11 +61839,6 @@
               "url": "https://www.w3.org/TR/mediacapture-streams/",
               "title": "Media Capture and Streams",
               "crawled": "https://w3c.github.io/mediacapture-main/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
-              "title": "Media Capture from DOM Elements",
-              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
             },
             {
               "url": "https://www.w3.org/TR/mst-content-hint/",

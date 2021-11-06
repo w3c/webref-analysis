@@ -31,7 +31,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -39,7 +38,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
     at async Promise.all (index 430)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-- [Scalable Video Coding (SVC) Extension for WebRTC]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
+- [Media Capture from DOM Elements]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
     at isReady (__puppeteer_evaluation_script__:12:27)
     at isReady (__puppeteer_evaluation_script__:19:27)
     at async isReady (__puppeteer_evaluation_script__:19:21)
@@ -67,10 +66,39 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
+    at async Promise.all (index 348)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
+- [Scalable Video Coding (SVC) Extension for WebRTC]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
     at async Promise.all (index 431)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
 
-=> 2 specifications found
+=> 3 specifications found
 
 
 ## Specifications without normative dependencies
@@ -1966,7 +1994,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/) links to [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/) links to:
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -2152,7 +2179,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 346 inconsistent references for links found in 181 specifications
+=> 345 inconsistent references for links found in 180 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -6617,23 +6644,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
      * [`https://html.spec.whatwg.org/#canvas-pixel-arraybuffer`](https://html.spec.whatwg.org/#canvas-pixel-arraybuffer)
      * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/):
-     * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
-     * [`https://html.spec.whatwg.org/#canvas`](https://html.spec.whatwg.org/#canvas)
-     * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
-     * [`https://html.spec.whatwg.org/#htmlcanvaselement`](https://html.spec.whatwg.org/#htmlcanvaselement)
-     * [`https://html.spec.whatwg.org/#videotrack`](https://html.spec.whatwg.org/#videotrack)
-     * [`https://html.spec.whatwg.org/#audiotrack`](https://html.spec.whatwg.org/#audiotrack)
-     * [`https://html.spec.whatwg.org/#dom-videotracklist-selectedindex`](https://html.spec.whatwg.org/#dom-videotracklist-selectedindex)
-     * [`https://html.spec.whatwg.org/#dom-audiotrack-enabled`](https://html.spec.whatwg.org/#dom-audiotrack-enabled)
-     * [`https://html.spec.whatwg.org/#dom-media-have_nothing`](https://html.spec.whatwg.org/#dom-media-have_nothing)
-     * [`https://html.spec.whatwg.org/#ended-playback`](https://html.spec.whatwg.org/#ended-playback)
-     * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
-     * [`https://html.spec.whatwg.org/#dom-media-playbackrate`](https://html.spec.whatwg.org/#dom-media-playbackrate)
-     * [`https://html.spec.whatwg.org/#concept-canvas-origin-clean`](https://html.spec.whatwg.org/#concept-canvas-origin-clean)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
 - [Media Feeds](https://wicg.github.io/media-feeds/):
      * [`https://html.spec.whatwg.org/#case-sensitive`](https://html.spec.whatwg.org/#case-sensitive)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
@@ -8361,6 +8371,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://heycam.github.io/webidl/#dfn-get-buffer-source-reference`](https://heycam.github.io/webidl/#dfn-get-buffer-source-reference)
+     * [`https://www.w3.org/TR/mediacapture-fromelement/#dom-htmlmediaelement-capturestream`](https://www.w3.org/TR/mediacapture-fromelement/#dom-htmlmediaelement-capturestream)
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/):
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
@@ -9189,7 +9200,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4829 problematic external links found in 292 specifications
+=> 4814 problematic external links found in 291 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9248,8 +9259,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/webstorage/`](https://www.w3.org/TR/webstorage/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/):
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/):
@@ -9306,7 +9315,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 48 specifications
+=> 56 problematic external links found in 47 specifications
 
 
 ## External links that use a dated URL

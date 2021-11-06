@@ -3559,6 +3559,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://heycam.github.io/webidl/#dfn-get-buffer-source-reference`](https://heycam.github.io/webidl/#dfn-get-buffer-source-reference)
+     * [`https://www.w3.org/TR/mediacapture-fromelement/#dom-htmlmediaelement-capturestream`](https://www.w3.org/TR/mediacapture-fromelement/#dom-htmlmediaelement-capturestream)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/2dcontext/`](https://www.w3.org/TR/2dcontext/)
 
@@ -3568,7 +3569,6 @@ Normative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
@@ -20383,7 +20383,6 @@ The following network or parsing error occurred:
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -20530,7 +20529,6 @@ Normative references to this spec from:
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
@@ -20545,7 +20543,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
@@ -20640,40 +20637,51 @@ Informative references to this spec from:
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 
 
-### Media Capture from DOM Elements {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Media Capture from DOM Elements {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-fromelement/](https://www.w3.org/TR/mediacapture-fromelement/)
-- Crawled URL: [https://w3c.github.io/mediacapture-fromelement/](https://w3c.github.io/mediacapture-fromelement/)
-- Crawled version: 05 July 2021
+- Crawled URL: [[object Object]]([object Object])
 - Editor's Draft: [https://w3c.github.io/mediacapture-fromelement/](https://w3c.github.io/mediacapture-fromelement/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-fromelement/](https://www.w3.org/TR/mediacapture-fromelement/)
 - Shortname: mediacapture-fromelement
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
-     * [`https://html.spec.whatwg.org/#canvas`](https://html.spec.whatwg.org/#canvas)
-     * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
-     * [`https://html.spec.whatwg.org/#htmlcanvaselement`](https://html.spec.whatwg.org/#htmlcanvaselement)
-     * [`https://html.spec.whatwg.org/#videotrack`](https://html.spec.whatwg.org/#videotrack)
-     * [`https://html.spec.whatwg.org/#audiotrack`](https://html.spec.whatwg.org/#audiotrack)
-     * [`https://html.spec.whatwg.org/#dom-videotracklist-selectedindex`](https://html.spec.whatwg.org/#dom-videotracklist-selectedindex)
-     * [`https://html.spec.whatwg.org/#dom-audiotrack-enabled`](https://html.spec.whatwg.org/#dom-audiotrack-enabled)
-     * [`https://html.spec.whatwg.org/#dom-media-have_nothing`](https://html.spec.whatwg.org/#dom-media-have_nothing)
-     * [`https://html.spec.whatwg.org/#ended-playback`](https://html.spec.whatwg.org/#ended-playback)
-     * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
-     * [`https://html.spec.whatwg.org/#dom-media-playbackrate`](https://html.spec.whatwg.org/#dom-media-playbackrate)
-     * [`https://html.spec.whatwg.org/#concept-canvas-origin-clean`](https://html.spec.whatwg.org/#concept-canvas-origin-clean)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+The following network or parsing error occurred:
+`Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
+    at async Promise.all (index 348)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20845,7 +20853,6 @@ The following network or parsing error occurred:
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -21069,7 +21076,6 @@ Normative references to this spec from:
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
@@ -22541,7 +22547,6 @@ Normative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
@@ -23372,7 +23377,6 @@ Normative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [Network Information API](https://wicg.github.io/netinfo/)
