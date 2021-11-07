@@ -195,7 +195,6 @@
   <li><a href="https://w3c.github.io/mediacapture-automation/">Media Capture Automation</a></li>
   <li><a href="https://w3c.github.io/navigation-timing/">Navigation Timing Level 2</a></li>
   <li><a href="https://w3c.github.io/network-error-logging/">Network Error Logging</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a></li>
   <li><a href="https://w3c.github.io/permissions/">Permissions</a></li>
   <li><a href="https://w3c.github.io/pointerevents/">Pointer Events</a></li>
@@ -14290,6 +14289,7 @@
   <li><a href="https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set"><code>https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#htmlmediaelement"><code>https://html.spec.whatwg.org/#htmlmediaelement</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-media-src"><code>https://html.spec.whatwg.org/#dom-media-src</code></a></li>
+  <li><a href="https://w3c.github.io/webrtc-svc/#scalabilitymodes*"><code>https://w3c.github.io/webrtc-svc/#scalabilitymodes*</code></a></li>
   </ul></li>
   </ul>
   </section>
@@ -15706,8 +15706,6 @@
   <li>External links to private terms:
   <ul>
   <li><a href="https://wicg.github.io/BackgroundSync/spec/#fire-a-sync-event"><code>https://wicg.github.io/BackgroundSync/spec/#fire-a-sync-event</code></a></li>
-  <li><a href="https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent"><code>https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent</code></a></li>
-  <li><a href="https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent"><code>https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent</code></a></li>
   </ul></li>
   <li>Broken external links:
   <ul>
@@ -15833,6 +15831,12 @@
   <li><a href="https://w3c.github.io/push-api/#dfn-fire-the-push-event"><code>https://w3c.github.io/push-api/#dfn-fire-the-push-event</code></a></li>
   <li><a href="https://www.w3.org/TR/page-visibility/#VisibilityState"><code>https://www.w3.org/TR/page-visibility/#VisibilityState</code></a></li>
   <li><a href="https://wicg.github.io/BackgroundSync/spec/#sync"><code>https://wicg.github.io/BackgroundSync/spec/#sync</code></a></li>
+  <li><a href="https://w3c.github.io/payment-handler/#the-canmakepaymentevent"><code>https://w3c.github.io/payment-handler/#the-canmakepaymentevent</code></a></li>
+  <li><a href="https://w3c.github.io/payment-handler/#dom-canmakepaymentevent"><code>https://w3c.github.io/payment-handler/#dom-canmakepaymentevent</code></a></li>
+  <li><a href="https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent"><code>https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent</code></a></li>
+  <li><a href="https://w3c.github.io/payment-handler/#the-paymentrequestevent"><code>https://w3c.github.io/payment-handler/#the-paymentrequestevent</code></a></li>
+  <li><a href="https://w3c.github.io/payment-handler/#dom-paymentrequestevent"><code>https://w3c.github.io/payment-handler/#dom-paymentrequestevent</code></a></li>
+  <li><a href="https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent"><code>https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent</code></a></li>
   </ul></li>
   </ul>
   </section>
@@ -15854,7 +15858,6 @@
   <li><a href="https://notifications.spec.whatwg.org/">Notifications API Standard</a></li>
   <li><a href="https://wicg.github.io/origin-policy/">Origin Policy</a></li>
   <li><a href="https://wicg.github.io/page-lifecycle/">Page Lifecycle</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://wicg.github.io/portals/">Portals</a></li>
   <li><a href="https://w3c.github.io/presentation-api/">Presentation API</a></li>
   <li><a href="https://w3c.github.io/push-api/">Push API</a></li>
@@ -18440,7 +18443,6 @@
   <li><a href="https://wicg.github.io/get-installed-related-apps/spec/">Get Installed Related Apps API</a></li>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a></li>
   <li><a href="https://w3c.github.io/image-resource/">Image Resource</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a></li>
   <li><a href="https://w3c.github.io/web-share-target/">Web Share Target API</a></li>
   </ul>
@@ -18713,7 +18715,6 @@
   <p>Informative references to this spec from:</p>
   <ul>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/webappsec-secure-contexts/">Secure Contexts</a></li>
   </ul>
   </section>
@@ -18983,14 +18984,13 @@
   </section>
   <section id="web_payments_working_group" class="level2">
   <h2>Web Payments Working Group</h2>
-  <section id="payment-handler-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
+  <section id="payment-handler-api" class="level3" data-spec="true" data-error="true">
   <h3>Payment Handler API</h3>
   <section id="spec-info-316" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/payment-handler/">https://www.w3.org/TR/payment-handler/</a></li>
-  <li>Crawled URL: <a href="https://w3c.github.io/payment-handler/">https://w3c.github.io/payment-handler/</a></li>
-  <li>Crawled version: 04 October 2021</li>
+  <li>Crawled URL: <a href="%5Bobject%20Object%5D">[object Object]</a></li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/payment-handler/">https://w3c.github.io/payment-handler/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/payment-handler/">https://www.w3.org/TR/payment-handler/</a></li>
   <li>Shortname: payment-handler</li>
@@ -18998,42 +18998,8 @@
   </section>
   <section id="potential-issues-316" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <ul>
-  <li>External links to private terms:
-  <ul>
-  <li><a href="https://www.w3.org/TR/payment-request/#dfn-payment-method"><code>https://www.w3.org/TR/payment-request/#dfn-payment-method</code></a></li>
-  </ul></li>
-  <li>Broken external links:
-  <ul>
-  <li><a href="https://www.w3.org/TR/service-workers-1/#service-worker-global-scope"><code>https://www.w3.org/TR/service-workers-1/#service-worker-global-scope</code></a></li>
-  <li><a href="https://www.w3.org/TR/service-workers-1/#dfn-extend-lifetime-promises"><code>https://www.w3.org/TR/service-workers-1/#dfn-extend-lifetime-promises</code></a></li>
-  <li><a href="https://www.w3.org/TR/service-workers-1/#client-visibilitystate-attribute"><code>https://www.w3.org/TR/service-workers-1/#client-visibilitystate-attribute</code></a></li>
-  <li><a href="https://www.w3.org/TR/service-workers-1/#dfn-pending-promises-count"><code>https://www.w3.org/TR/service-workers-1/#dfn-pending-promises-count</code></a></li>
-  <li><a href="https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag"><code>https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#canmakepayment()-method"><code>https://www.w3.org/TR/payment-request/#canmakepayment()-method</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#show()-method"><code>https://www.w3.org/TR/payment-request/#show()-method</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#user-interaction-task-source"><code>https://html.spec.whatwg.org/#user-interaction-task-source</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#workerglobalscope"><code>https://html.spec.whatwg.org/#workerglobalscope</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#the-link-element"><code>https://html.spec.whatwg.org/#the-link-element</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens"><code>https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-link-sizes"><code>https://html.spec.whatwg.org/#attr-link-sizes</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#relevant-settings-object"><code>https://html.spec.whatwg.org/#relevant-settings-object</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#api-base-url"><code>https://html.spec.whatwg.org/#api-base-url</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-handlers"><code>https://html.spec.whatwg.org/#event-handlers</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-handler-event-type"><code>https://html.spec.whatwg.org/#event-handler-event-type</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin"><code>https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-origin"><code>https://html.spec.whatwg.org/#concept-origin</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#navigate"><code>https://html.spec.whatwg.org/#navigate</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#structuredserialize"><code>https://html.spec.whatwg.org/#structuredserialize</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#structureddeserialize"><code>https://html.spec.whatwg.org/#structureddeserialize</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#queue-a-microtask"><code>https://html.spec.whatwg.org/#queue-a-microtask</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
-  <li><a href="https://www.w3.org/TR/appmanifest/#fetching-image-resources"><code>https://www.w3.org/TR/appmanifest/#fetching-image-resources</code></a></li>
-  </ul></li>
-  </ul>
+  <p>The following network or parsing error occurred: <code>Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)     at runMicrotasks (&lt;anonymous&gt;)     at processTicksAndRejections (internal/process/task_queues.js:95:5)     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)     at async Promise.all (index 364)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)</code></p>
+  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
   </section>
   <section id="known-dependencies-on-this-specification-316" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -19073,7 +19039,6 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a></li>
   <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a></li>
   <li><a href="https://w3c.github.io/secure-payment-confirmation">Secure Payment Confirmation</a></li>
@@ -19127,10 +19092,7 @@
   </section>
   <section id="known-dependencies-on-this-specification-318" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
-  <p>Normative references to this spec from:</p>
-  <ul>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
-  </ul>
+  <p>No normative reference to this spec from other specs.</p>
   <p>Informative references to this spec from:</p>
   <ul>
   <li><a href="https://w3c.github.io/payment-method-id/">Payment Method Identifiers</a></li>
@@ -19208,7 +19170,6 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a></li>
   <li><a href="https://w3c.github.io/secure-payment-confirmation">Secure Payment Confirmation</a></li>
   </ul>
@@ -24135,7 +24096,7 @@
   </section>
   <section id="potential-issues-419" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)     at runMicrotasks (&lt;anonymous&gt;)     at processTicksAndRejections (internal/process/task_queues.js:95:5)     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)     at async Promise.all (index 430)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)</code></p>
+  <p>The following network or parsing error occurred: <code>Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)     at processTicksAndRejections (internal/process/task_queues.js:95:5)     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)     at async Promise.all (index 430)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)</code></p>
   <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
   </section>
   <section id="known-dependencies-on-this-specification-419" class="level4 dependencies">
@@ -24637,14 +24598,13 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="scalable-video-coding-svc-extension-for-webrtc" class="level3" data-spec="true" data-missingDfns="true" data-xrefs="true" data-ok="true">
+  <section id="scalable-video-coding-svc-extension-for-webrtc" class="level3" data-spec="true" data-error="true">
   <h3>Scalable Video Coding (SVC) Extension for WebRTC</h3>
   <section id="spec-info-428" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webrtc-svc/">https://www.w3.org/TR/webrtc-svc/</a></li>
-  <li>Crawled URL: <a href="https://w3c.github.io/webrtc-svc/">https://w3c.github.io/webrtc-svc/</a></li>
-  <li>Crawled version: 03 November 2021</li>
+  <li>Crawled URL: <a href="%5Bobject%20Object%5D">[object Object]</a></li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/webrtc-svc/">https://w3c.github.io/webrtc-svc/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webrtc-svc/">https://www.w3.org/TR/webrtc-svc/</a></li>
   <li>Shortname: webrtc-svc</li>
@@ -24652,7 +24612,8 @@
   </section>
   <section id="potential-issues-428" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>This specification looks good!</p>
+  <p>The following network or parsing error occurred: <code>Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long     at isReady (__puppeteer_evaluation_script__:12:27)     at isReady (__puppeteer_evaluation_script__:19:27)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at async isReady (__puppeteer_evaluation_script__:19:21)     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)     at processTicksAndRejections (internal/process/task_queues.js:95:5)     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)     at async Promise.all (index 431)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)</code></p>
+  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
   </section>
   <section id="known-dependencies-on-this-specification-428" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -24892,7 +24853,6 @@
   <li><a href="https://w3c.github.io/mediacapture-main/">Media Capture and Streams</a></li>
   <li><a href="https://w3c.github.io/mediacapture-fromelement/">Media Capture from DOM Elements</a></li>
   <li><a href="https://w3c.github.io/mst-content-hint/">MediaStreamTrack Content Hints</a></li>
-  <li><a href="https://w3c.github.io/webrtc-svc/">Scalable Video Coding (SVC) Extension for WebRTC</a></li>
   <li><a href="https://webaudio.github.io/web-audio-api/">Web Audio API</a></li>
   <li><a href="https://w3c.github.io/webcodecs/">WebCodecs</a></li>
   <li><a href="https://w3c.github.io/webrtc-encoded-transform/">WebRTC Encoded Transform</a></li>
@@ -25438,7 +25398,6 @@
   <li><a href="https://wicg.github.io/page-lifecycle/">Page Lifecycle</a></li>
   <li><a href="https://w3c.github.io/page-visibility/">Page Visibility Level 2</a></li>
   <li><a href="https://w3c.github.io/paint-timing/">Paint Timing 1</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a></li>
   <li><a href="https://w3c.github.io/permissions/">Permissions</a></li>
   <li><a href="https://w3c.github.io/webappsec-permissions-policy/">Permissions Policy</a></li>
@@ -26506,7 +26465,6 @@
   <li><a href="https://wicg.github.io/page-lifecycle/">Page Lifecycle</a></li>
   <li><a href="https://w3c.github.io/page-visibility/">Page Visibility Level 2</a></li>
   <li><a href="https://w3c.github.io/paint-timing/">Paint Timing 1</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-method-id/">Payment Method Identifiers</a></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a></li>
   <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a></li>
@@ -26757,7 +26715,6 @@
   <li><a href="https://wicg.github.io/origin-policy/">Origin Policy</a></li>
   <li><a href="https://wicg.github.io/sms-one-time-codes/">Origin-bound one-time codes delivered via SMS</a></li>
   <li><a href="https://wicg.github.io/page-lifecycle/">Page Lifecycle</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a></li>
   <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a></li>
   <li><a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
@@ -26866,7 +26823,6 @@
   <li><a href="https://w3c.github.io/media-capabilities/">Media Capabilities</a></li>
   <li><a href="https://w3c.github.io/mediasession/">Media Session Standard</a></li>
   <li><a href="https://wicg.github.io/origin-policy/">Origin Policy</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/preload/">Preload</a></li>
   <li><a href="https://w3c.github.io/ServiceWorker/">Service Workers Nightly</a></li>
   <li><a href="https://webaudio.github.io/web-audio-api/">Web Audio API</a></li>
@@ -27217,7 +27173,6 @@
   <li><a href="https://w3c.github.io/network-error-logging/">Network Error Logging</a></li>
   <li><a href="https://notifications.spec.whatwg.org/">Notifications API Standard</a></li>
   <li><a href="https://wicg.github.io/origin-policy/">Origin Policy</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-method-id/">Payment Method Identifiers</a></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a></li>
   <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a></li>
@@ -27396,7 +27351,6 @@
   <li><a href="https://wicg.github.io/netinfo/">Network Information API</a></li>
   <li><a href="https://notifications.spec.whatwg.org/">Notifications API Standard</a></li>
   <li><a href="https://w3c.github.io/page-visibility/">Page Visibility Level 2</a></li>
-  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a></li>
   <li><a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
   <li><a href="https://w3c.github.io/permissions/">Permissions</a></li>
@@ -27410,7 +27364,6 @@
   <li><a href="https://drafts.csswg.org/resize-observer/">Resize Observer</a></li>
   <li><a href="https://w3c.github.io/resource-timing/">Resource Timing Level 2</a></li>
   <li><a href="https://wicg.github.io/savedata/">Save Data API</a></li>
-  <li><a href="https://w3c.github.io/webrtc-svc/">Scalable Video Coding (SVC) Extension for WebRTC</a></li>
   <li><a href="https://w3c.github.io/mediacapture-screen-share/">Screen Capture</a></li>
   <li><a href="https://w3c.github.io/screen-wake-lock/">Screen Wake Lock API</a></li>
   <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
