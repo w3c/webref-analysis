@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-08T12:49:20.914Z",
+  "date": "2021-11-08T18:41:34.511Z",
   "stats": {
     "crawled": 446,
-    "errors": 3,
+    "errors": 0,
     "studied": 446
   },
   "results": [
@@ -881,7 +881,8 @@
             "https://html.spec.whatwg.org/#creating-a-new-browsing-context",
             "https://html.spec.whatwg.org/#stop-document-loading",
             "https://html.spec.whatwg.org/#a-browsing-context-is-discarded",
-            "https://html.spec.whatwg.org/#concept-navigate-mature"
+            "https://html.spec.whatwg.org/#concept-navigate-mature",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -893,7 +894,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "26 October 2021",
+      "date": "08 November 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -3750,7 +3751,8 @@
             "https://html.spec.whatwg.org/#attr-fe-autocomplete-nickname",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#worker"
+            "https://html.spec.whatwg.org/#worker",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20714,7 +20716,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "18 October 2021",
+      "date": "8 November 2021",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -22266,6 +22268,11 @@
               "url": "https://www.w3.org/TR/user-timing-3/",
               "title": "User Timing Level 3",
               "crawled": "https://w3c.github.io/user-timing/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ]
         },
@@ -22578,6 +22585,11 @@
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -22988,7 +23000,8 @@
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
-            "https://html.spec.whatwg.org/#in-parallel"
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -23403,6 +23416,11 @@
               "crawled": "https://wicg.github.io/origin-policy/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -23511,6 +23529,11 @@
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
               "crawled": "https://w3c.github.io/webauthn/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -23637,7 +23660,8 @@
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#windoworworkerglobalscope"
+            "https://html.spec.whatwg.org/#windoworworkerglobalscope",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -24941,6 +24965,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://html.spec.whatwg.org/#in-parallel"
           ],
           "evolvingLinks": [],
@@ -25459,6 +25484,11 @@
               "url": "https://wicg.github.io/video-rvfc/",
               "title": "HTMLVideoElement.requestVideoFrameCallback()",
               "crawled": "https://wicg.github.io/video-rvfc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
               "url": "https://wicg.github.io/js-self-profiling/",
@@ -33356,6 +33386,11 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -33724,6 +33759,11 @@
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://wicg.github.io/speech-api/",
@@ -35375,6 +35415,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
+      "date": "15 July 2021",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -35386,12 +35427,7 @@
         "sourcePath": "webrtc-stats.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/webrtc-stats/",
-        "repository": "https://github.com/w3c/webrtc-stats",
-        "sourcePath": "webrtc-stats.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/webrtc-stats/",
       "organization": "W3C",
       "groups": [
         {
@@ -35400,10 +35436,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -35412,7 +35448,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/webrtc-extensions/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -35429,6 +35467,14 @@
               "crawled": "https://wicg.github.io/video-rvfc/"
             }
           ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -35481,7 +35527,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -35591,7 +35643,8 @@
             "https://html.spec.whatwg.org/#queue-a-global-task",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#allowed-to-use",
-            "https://html.spec.whatwg.org/#window"
+            "https://html.spec.whatwg.org/#window",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -36344,6 +36397,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
@@ -36667,6 +36725,11 @@
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -38542,6 +38605,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-identity/",
@@ -41794,10 +41862,7 @@
             "https://html.spec.whatwg.org/#structureddeserialize",
             "https://html.spec.whatwg.org/#queue-a-microtask",
             "https://html.spec.whatwg.org/#concept-relevant-global",
-            "https://www.w3.org/TR/appmanifest/#fetching-image-resources",
-            "https://www.w3.org/TR/payment-method-id/#dfn-pmi",
-            "https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier",
-            "https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier"
+            "https://www.w3.org/TR/appmanifest/#fetching-image-resources"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41809,6 +41874,7 @@
     {
       "title": "Payment Method Identifiers",
       "shortname": "payment-method-id",
+      "date": "28 September 2021",
       "url": "https://www.w3.org/TR/payment-method-id/",
       "release": {
         "url": "https://www.w3.org/TR/payment-method-id/",
@@ -41820,12 +41886,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/payment-method-id/",
-        "repository": "https://github.com/w3c/payment-method-id",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/payment-method-id/",
       "organization": "W3C",
       "groups": [
         {
@@ -41834,8 +41895,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 366)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -41872,6 +41932,16 @@
             }
           ],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#case-sensitive"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -41929,7 +41999,13 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -41944,7 +42020,6 @@
             "https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers",
             "https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers",
             "https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers",
-            "https://w3c.github.io/payment-method-id/#dfn-validate-a-url-based-payment-method-identifier",
             "https://www.w3.org/TR/appmanifest/#dfn-obtaining-the-manifest",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
@@ -42066,16 +42141,18 @@
               "crawled": "https://w3c.github.io/secure-payment-confirmation"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/payment-method-id/#dfn-pmi",
-            "https://www.w3.org/TR/payment-method-id/#dfn-validate-a-payment-method-identifier",
-            "https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier",
-            "https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
             "https://html.spec.whatwg.org/#window",
@@ -43554,7 +43631,8 @@
             "https://html.spec.whatwg.org/#task-queue",
             "https://html.spec.whatwg.org/#event-loop-processing-model",
             "https://html.spec.whatwg.org/#relevant-agent",
-            "https://html.spec.whatwg.org/#concept-agent-event-loop"
+            "https://html.spec.whatwg.org/#concept-agent-event-loop",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -47934,6 +48012,11 @@
               "url": "https://wicg.github.io/background-sync/spec/",
               "title": "Web Background Synchronization",
               "crawled": "https://wicg.github.io/background-sync/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ],
           "informative": [
@@ -48129,8 +48212,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier",
-            "https://w3c.github.io/payment-method-id/#registry",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
             "https://html.spec.whatwg.org/#relevant-settings-object",
@@ -48872,6 +48953,11 @@
               "url": "https://wicg.github.io/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://wicg.github.io/web-locks/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ]
         },
@@ -49343,7 +49429,8 @@
             "https://html.spec.whatwg.org/#structuredserialize",
             "https://html.spec.whatwg.org/#structureddeserialize",
             "https://html.spec.whatwg.org/#websocket",
-            "https://html.spec.whatwg.org/#dom-websocket-bufferedamount"
+            "https://html.spec.whatwg.org/#dom-websocket-bufferedamount",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -51458,6 +51545,11 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -51571,6 +51663,11 @@
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -52981,6 +53078,11 @@
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ],
           "informative": [
@@ -53312,6 +53414,7 @@
             "https://w3c.github.io/webappsec-credential-management/#store-credential-sameoriginwithancestors",
             "https://w3c.github.io/webappsec-credential-management/#create-origin-options-sameoriginwithancestors",
             "https://url.spec.whatwg.org/#host-same-site",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://heycam.github.io/webidl#dfn-get-buffer-source-reference",
             "https://w3c.github.io/webdriver/#dfn-error"
           ],
@@ -53528,7 +53631,8 @@
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
-            "https://html.spec.whatwg.org/#navigator"
+            "https://html.spec.whatwg.org/#navigator",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -53964,6 +54068,11 @@
               "crawled": "https://w3c.github.io/webrtc-ice/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
@@ -54279,6 +54388,11 @@
               "crawled": "https://w3c.github.io/web-share/"
             },
             {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
+            },
+            {
               "url": "https://www.w3.org/TR/wasm-js-api-1/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/spec/js-api/"
@@ -54474,7 +54588,8 @@
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#concept-environment-id",
-            "https://html.spec.whatwg.org/#responsible-event-loop"
+            "https://html.spec.whatwg.org/#responsible-event-loop",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54690,6 +54805,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#browsing-context",
@@ -54900,7 +55016,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -54932,6 +55054,7 @@
     {
       "title": "Web Share Target API",
       "shortname": "web-share-target",
+      "date": "04 February 2021",
       "url": "https://w3c.github.io/web-share-target/",
       "nightly": {
         "url": "https://w3c.github.io/web-share-target/",
@@ -54939,12 +55062,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/web-share-target/",
-        "repository": "https://github.com/w3c/web-share-target",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/web-share-target/",
       "organization": "W3C",
       "groups": [
         {
@@ -54953,12 +55071,14 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 70)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "WebAppManifest"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -54970,6 +55090,27 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler",
+            "https://html.spec.whatwg.org/#navigator",
+            "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
+            "https://html.spec.whatwg.org/#multipart/form-data-boundary-string",
+            "https://html.spec.whatwg.org/#creating-a-new-browsing-context",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#navigate",
+            "https://www.w3.org/TR/appmanifest/#dom-webappmanifest",
+            "https://www.w3.org/TR/appmanifest/#dfn-extension-point",
+            "https://www.w3.org/TR/appmanifest/#dom-webappmanifest-scope",
+            "https://www.w3.org/TR/appmanifest/#dfn-issue-a-developer-warning",
+            "https://www.w3.org/TR/appmanifest/#dfn-install"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -61627,7 +61768,8 @@
             "https://html.spec.whatwg.org/#documents",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#the-iframe-element",
-            "https://html.spec.whatwg.org/#attr-iframe-allow"
+            "https://html.spec.whatwg.org/#attr-iframe-allow",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -61666,8 +61808,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "ArrayBuffer",
-          "RTCStatsType"
+          "ArrayBuffer"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -61813,6 +61954,11 @@
               "crawled": "https://w3c.github.io/webrtc-ice/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
@@ -61902,119 +62048,7 @@
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#binarytype",
-            "https://html.spec.whatwg.org/#dom-websocket-binarytype",
-            "https://www.w3.org/TR/webrtc-stats/#dfn-stats-object",
-            "https://www.w3.org/TR/webrtc-stats/#dfn-monitored-object",
-            "https://www.w3.org/TR/webrtc-stats/#lifetime-considerations-for-monitored-objects",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-ssrc",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-packetssent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-codec",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-payloadtype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-mimetype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-clockrate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-channels",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-sdpfmtpline",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-inbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-kind",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-transportid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-codecid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetslost",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-framesdropped",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-remoteid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesdecoded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-nackcount",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalaudioenergy",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalsamplesduration",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-outbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-remoteid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framesencoded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-nackcount",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-inbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-localid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-roundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-outbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-localid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-remotetimestamp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-media-source",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-trackidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-kind",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalaudioenergy",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalsamplesduration",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-width",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-height",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-framespersecond",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-peer-connection",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsopened",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsclosed",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-data-channel",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-label",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-protocol",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-datachannelidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-state",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-transport",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-selectedcandidatepairid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-localcertificateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-remotecertificateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-candidate-pair",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-transportid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-state",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-local-candidate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-address",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-port",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-protocol",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-candidatetype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-url",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-candidate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-certificate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprint",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprintalgorithm",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-base64certificate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-issuercertificateid"
+            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -62087,7 +62121,8 @@
             "https://html.spec.whatwg.org/#worker",
             "https://html.spec.whatwg.org/#structuredserializewithtransfer",
             "https://html.spec.whatwg.org/#task-source",
-            "https://html.spec.whatwg.org/#structureddeserialize"
+            "https://html.spec.whatwg.org/#structureddeserialize",
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -62135,7 +62170,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
           "informative": []
         },
         "ok": false
