@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 07, 2021
+% November 08, 2021
 
 # Ecma International {#ecma_international}
 
@@ -603,7 +603,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -632,7 +632,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -692,7 +692,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1069,7 +1069,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1098,7 +1098,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1138,7 +1138,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1171,7 +1171,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1200,7 +1200,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 7 November 2021
+- Crawled version: 8 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2688,6 +2688,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
@@ -2922,6 +2923,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/)
      * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/)
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/)
+     * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/)
      * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
@@ -2932,6 +2934,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
 - Broken external links:
+     * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
      * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
      * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
      * [`https://w3c.github.io/core-aam/#role-map-article`](https://w3c.github.io/core-aam/#role-map-article)
@@ -2939,13 +2942,18 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/#role-map-button`](https://w3c.github.io/core-aam/#role-map-button)
      * [`https://w3c.github.io/core-aam/#role-map-slider`](https://w3c.github.io/core-aam/#role-map-slider)
      * [`https://w3c.github.io/core-aam/#role-map-toolbar`](https://w3c.github.io/core-aam/#role-map-toolbar)
+     * [`https://w3c.github.io/core-aam/#role-map-blockquote`](https://w3c.github.io/core-aam/#role-map-blockquote)
      * [`https://w3c.github.io/core-aam/#role-map-button-pressed`](https://w3c.github.io/core-aam/#role-map-button-pressed)
      * [`https://w3c.github.io/core-aam/#role-map-button-haspopup`](https://w3c.github.io/core-aam/#role-map-button-haspopup)
+     * [`https://w3c.github.io/core-aam/#role-map-caption`](https://w3c.github.io/core-aam/#role-map-caption)
+     * [`https://w3c.github.io/core-aam/#role-map-code`](https://w3c.github.io/core-aam/#role-map-code)
      * [`https://w3c.github.io/core-aam/#role-map-listbox`](https://w3c.github.io/core-aam/#role-map-listbox)
      * [`https://w3c.github.io/core-aam/#ariaMultiselectableFalse`](https://w3c.github.io/core-aam/#ariaMultiselectableFalse)
      * [`https://w3c.github.io/core-aam/#role-map-definition`](https://w3c.github.io/core-aam/#role-map-definition)
+     * [`https://w3c.github.io/core-aam/#role-map-deletion`](https://w3c.github.io/core-aam/#role-map-deletion)
      * [`https://w3c.github.io/core-aam/#role-map-term`](https://w3c.github.io/core-aam/#role-map-term)
      * [`https://w3c.github.io/core-aam/#role-map-dialog`](https://w3c.github.io/core-aam/#role-map-dialog)
+     * [`https://w3c.github.io/core-aam/#role-map-emphasis`](https://w3c.github.io/core-aam/#role-map-emphasis)
      * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
      * [`https://w3c.github.io/core-aam/#role-map-figure`](https://w3c.github.io/core-aam/#role-map-figure)
      * [`https://w3c.github.io/core-aam/#role-map-contentinfo`](https://w3c.github.io/core-aam/#role-map-contentinfo)
@@ -2954,6 +2962,7 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/#ariaLevel`](https://w3c.github.io/core-aam/#ariaLevel)
      * [`https://w3c.github.io/core-aam/#role-map-banner`](https://w3c.github.io/core-aam/#role-map-banner)
      * [`https://w3c.github.io/core-aam/#role-map-separator`](https://w3c.github.io/core-aam/#role-map-separator)
+     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
      * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
      * [`https://w3c.github.io/core-aam/#role-map-presentation`](https://w3c.github.io/core-aam/#role-map-presentation)
      * [`https://w3c.github.io/core-aam/#role-map-checkbox`](https://w3c.github.io/core-aam/#role-map-checkbox)
@@ -2965,19 +2974,25 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/#role-map-searchbox`](https://w3c.github.io/core-aam/#role-map-searchbox)
      * [`https://w3c.github.io/core-aam/#role-map-combobox`](https://w3c.github.io/core-aam/#role-map-combobox)
      * [`https://w3c.github.io/core-aam/#ariaControls`](https://w3c.github.io/core-aam/#ariaControls)
+     * [`https://w3c.github.io/core-aam/#role-map-insertion`](https://w3c.github.io/core-aam/#role-map-insertion)
      * [`https://w3c.github.io/core-aam/#role-map-listitem`](https://w3c.github.io/core-aam/#role-map-listitem)
      * [`https://w3c.github.io/core-aam/#role-map-main`](https://w3c.github.io/core-aam/#role-map-main)
      * [`https://w3c.github.io/core-aam/#role-map-list`](https://w3c.github.io/core-aam/#role-map-list)
      * [`https://w3c.github.io/core-aam/#role-map-menu`](https://w3c.github.io/core-aam/#role-map-menu)
+     * [`https://w3c.github.io/core-aam/#role-map-meter`](https://w3c.github.io/core-aam/#role-map-meter)
      * [`https://w3c.github.io/core-aam/#role-map-navigation`](https://w3c.github.io/core-aam/#role-map-navigation)
      * [`https://w3c.github.io/core-aam/#role-map-option`](https://w3c.github.io/core-aam/#role-map-option)
      * [`https://w3c.github.io/core-aam/#ariaSelectedTrue`](https://w3c.github.io/core-aam/#ariaSelectedTrue)
      * [`https://w3c.github.io/core-aam/#role-map-status`](https://w3c.github.io/core-aam/#role-map-status)
+     * [`https://w3c.github.io/core-aam/#role-map-paragraph`](https://w3c.github.io/core-aam/#role-map-paragraph)
      * [`https://w3c.github.io/core-aam/#role-map-progressbar`](https://w3c.github.io/core-aam/#role-map-progressbar)
      * [`https://w3c.github.io/core-aam/#ariaValueMax`](https://w3c.github.io/core-aam/#ariaValueMax)
      * [`https://w3c.github.io/core-aam/#ariaValueMin`](https://w3c.github.io/core-aam/#ariaValueMin)
      * [`https://w3c.github.io/core-aam/#ariaValueNow`](https://w3c.github.io/core-aam/#ariaValueNow)
      * [`https://w3c.github.io/core-aam/#role-map-region`](https://w3c.github.io/core-aam/#role-map-region)
+     * [`https://w3c.github.io/core-aam/#role-map-strong`](https://w3c.github.io/core-aam/#role-map-strong)
+     * [`https://w3c.github.io/core-aam/#role-map-subscript`](https://w3c.github.io/core-aam/#role-map-subscript)
+     * [`https://w3c.github.io/core-aam/#role-map-superscript`](https://w3c.github.io/core-aam/#role-map-superscript)
      * [`https://w3c.github.io/core-aam/#role-map-table`](https://w3c.github.io/core-aam/#role-map-table)
      * [`https://w3c.github.io/core-aam/#role-map-rowgroup`](https://w3c.github.io/core-aam/#role-map-rowgroup)
      * [`https://w3c.github.io/core-aam/#role-map-cell`](https://w3c.github.io/core-aam/#role-map-cell)
@@ -2987,6 +3002,7 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/#ariaMultilineTrue`](https://w3c.github.io/core-aam/#ariaMultilineTrue)
      * [`https://w3c.github.io/core-aam/#role-map-columnheader`](https://w3c.github.io/core-aam/#role-map-columnheader)
      * [`https://w3c.github.io/core-aam/#role-map-rowheader`](https://w3c.github.io/core-aam/#role-map-rowheader)
+     * [`https://w3c.github.io/core-aam/#role-map-time`](https://w3c.github.io/core-aam/#role-map-time)
      * [`https://w3c.github.io/core-aam/#role-map-row`](https://w3c.github.io/core-aam/#role-map-row)
      * [`https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth`](https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth)
      * [`https://w3c.github.io/core-aam/#ariaFlowto`](https://w3c.github.io/core-aam/#ariaFlowto)
@@ -12003,7 +12019,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set`](https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://w3c.github.io/webrtc-svc/#scalabilitymodes*`](https://w3c.github.io/webrtc-svc/#scalabilitymodes*)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15576,7 +15591,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
-- Crawled version: 06 October 2021
+- Crawled version: 08 November 2021
 - Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
 - Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Shortname: appmanifest
@@ -20531,7 +20546,6 @@ Normative references to this spec from:
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
-- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
@@ -20782,41 +20796,18 @@ Informative references to this spec from:
 
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
-- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
-### MediaStreamTrack Content Hints {data-spec=true data-missingDfns=true data-ok=true}
+### MediaStreamTrack Content Hints {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/mst-content-hint/](https://www.w3.org/TR/mst-content-hint/)
-- Crawled URL: [https://w3c.github.io/mst-content-hint/](https://w3c.github.io/mst-content-hint/)
-- Crawled version: 22 July 2021
+- Crawled URL: [[object Object]]([object Object])
 - Editor's Draft: [https://w3c.github.io/mst-content-hint/](https://w3c.github.io/mst-content-hint/)
 - Latest published version: [https://www.w3.org/TR/mst-content-hint/](https://www.w3.org/TR/mst-content-hint/)
 - Shortname: mst-content-hint
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### Scalable Video Coding (SVC) Extension for WebRTC {data-spec=true data-error=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
-- Crawled URL: [[object Object]]([object Object])
-- Editor's Draft: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
-- Latest published version: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
-- Shortname: webrtc-svc
 
 #### Potential issue(s) {.anomalies}
 
@@ -20843,15 +20834,38 @@ The following network or parsing error occurred:
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 431)
+    at async Promise.all (index 356)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Scalable Video Coding (SVC) Extension for WebRTC {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
+- Crawled URL: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
+- Crawled version: 03 November 2021
+- Editor's Draft: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
+- Latest published version: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
+- Shortname: webrtc-svc
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21067,7 +21081,7 @@ Normative references to this spec from:
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
-- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
@@ -23371,7 +23385,6 @@ Normative references to this spec from:
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
-- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Page Visibility Level 2](https://w3c.github.io/page-visibility/)
@@ -23389,6 +23402,7 @@ Normative references to this spec from:
 - [Resize Observer](https://drafts.csswg.org/resize-observer/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [Save Data API](https://wicg.github.io/savedata/)
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)

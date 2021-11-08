@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 07, 2021
+% November 08, 2021
 
 446 specifications were crawled in this report.
 
@@ -38,7 +38,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
     at async Promise.all (index 430)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-- [Scalable Video Coding (SVC) Extension for WebRTC]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
+- [MediaStreamTrack Content Hints]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
     at isReady (__puppeteer_evaluation_script__:12:27)
     at isReady (__puppeteer_evaluation_script__:19:27)
     at async isReady (__puppeteer_evaluation_script__:19:21)
@@ -60,12 +60,13 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 431)
+    at async Promise.all (index 356)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
 
 => 2 specifications found
@@ -1503,6 +1504,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/) but does not list it in its references
     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/) but does not list it in its references
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/) but does not list it in its references
     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) links to:
     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but does not list it in its references
@@ -1725,7 +1727,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 710 missing references for links found in 187 specifications
+=> 711 missing references for links found in 187 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -5718,6 +5720,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
+     * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
      * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
      * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
      * [`https://w3c.github.io/core-aam/#role-map-article`](https://w3c.github.io/core-aam/#role-map-article)
@@ -5725,13 +5728,18 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/core-aam/#role-map-button`](https://w3c.github.io/core-aam/#role-map-button)
      * [`https://w3c.github.io/core-aam/#role-map-slider`](https://w3c.github.io/core-aam/#role-map-slider)
      * [`https://w3c.github.io/core-aam/#role-map-toolbar`](https://w3c.github.io/core-aam/#role-map-toolbar)
+     * [`https://w3c.github.io/core-aam/#role-map-blockquote`](https://w3c.github.io/core-aam/#role-map-blockquote)
      * [`https://w3c.github.io/core-aam/#role-map-button-pressed`](https://w3c.github.io/core-aam/#role-map-button-pressed)
      * [`https://w3c.github.io/core-aam/#role-map-button-haspopup`](https://w3c.github.io/core-aam/#role-map-button-haspopup)
+     * [`https://w3c.github.io/core-aam/#role-map-caption`](https://w3c.github.io/core-aam/#role-map-caption)
+     * [`https://w3c.github.io/core-aam/#role-map-code`](https://w3c.github.io/core-aam/#role-map-code)
      * [`https://w3c.github.io/core-aam/#role-map-listbox`](https://w3c.github.io/core-aam/#role-map-listbox)
      * [`https://w3c.github.io/core-aam/#ariaMultiselectableFalse`](https://w3c.github.io/core-aam/#ariaMultiselectableFalse)
      * [`https://w3c.github.io/core-aam/#role-map-definition`](https://w3c.github.io/core-aam/#role-map-definition)
+     * [`https://w3c.github.io/core-aam/#role-map-deletion`](https://w3c.github.io/core-aam/#role-map-deletion)
      * [`https://w3c.github.io/core-aam/#role-map-term`](https://w3c.github.io/core-aam/#role-map-term)
      * [`https://w3c.github.io/core-aam/#role-map-dialog`](https://w3c.github.io/core-aam/#role-map-dialog)
+     * [`https://w3c.github.io/core-aam/#role-map-emphasis`](https://w3c.github.io/core-aam/#role-map-emphasis)
      * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
      * [`https://w3c.github.io/core-aam/#role-map-figure`](https://w3c.github.io/core-aam/#role-map-figure)
      * [`https://w3c.github.io/core-aam/#role-map-contentinfo`](https://w3c.github.io/core-aam/#role-map-contentinfo)
@@ -5740,6 +5748,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/core-aam/#ariaLevel`](https://w3c.github.io/core-aam/#ariaLevel)
      * [`https://w3c.github.io/core-aam/#role-map-banner`](https://w3c.github.io/core-aam/#role-map-banner)
      * [`https://w3c.github.io/core-aam/#role-map-separator`](https://w3c.github.io/core-aam/#role-map-separator)
+     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
      * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
      * [`https://w3c.github.io/core-aam/#role-map-presentation`](https://w3c.github.io/core-aam/#role-map-presentation)
      * [`https://w3c.github.io/core-aam/#role-map-checkbox`](https://w3c.github.io/core-aam/#role-map-checkbox)
@@ -5751,19 +5760,25 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/core-aam/#role-map-searchbox`](https://w3c.github.io/core-aam/#role-map-searchbox)
      * [`https://w3c.github.io/core-aam/#role-map-combobox`](https://w3c.github.io/core-aam/#role-map-combobox)
      * [`https://w3c.github.io/core-aam/#ariaControls`](https://w3c.github.io/core-aam/#ariaControls)
+     * [`https://w3c.github.io/core-aam/#role-map-insertion`](https://w3c.github.io/core-aam/#role-map-insertion)
      * [`https://w3c.github.io/core-aam/#role-map-listitem`](https://w3c.github.io/core-aam/#role-map-listitem)
      * [`https://w3c.github.io/core-aam/#role-map-main`](https://w3c.github.io/core-aam/#role-map-main)
      * [`https://w3c.github.io/core-aam/#role-map-list`](https://w3c.github.io/core-aam/#role-map-list)
      * [`https://w3c.github.io/core-aam/#role-map-menu`](https://w3c.github.io/core-aam/#role-map-menu)
+     * [`https://w3c.github.io/core-aam/#role-map-meter`](https://w3c.github.io/core-aam/#role-map-meter)
      * [`https://w3c.github.io/core-aam/#role-map-navigation`](https://w3c.github.io/core-aam/#role-map-navigation)
      * [`https://w3c.github.io/core-aam/#role-map-option`](https://w3c.github.io/core-aam/#role-map-option)
      * [`https://w3c.github.io/core-aam/#ariaSelectedTrue`](https://w3c.github.io/core-aam/#ariaSelectedTrue)
      * [`https://w3c.github.io/core-aam/#role-map-status`](https://w3c.github.io/core-aam/#role-map-status)
+     * [`https://w3c.github.io/core-aam/#role-map-paragraph`](https://w3c.github.io/core-aam/#role-map-paragraph)
      * [`https://w3c.github.io/core-aam/#role-map-progressbar`](https://w3c.github.io/core-aam/#role-map-progressbar)
      * [`https://w3c.github.io/core-aam/#ariaValueMax`](https://w3c.github.io/core-aam/#ariaValueMax)
      * [`https://w3c.github.io/core-aam/#ariaValueMin`](https://w3c.github.io/core-aam/#ariaValueMin)
      * [`https://w3c.github.io/core-aam/#ariaValueNow`](https://w3c.github.io/core-aam/#ariaValueNow)
      * [`https://w3c.github.io/core-aam/#role-map-region`](https://w3c.github.io/core-aam/#role-map-region)
+     * [`https://w3c.github.io/core-aam/#role-map-strong`](https://w3c.github.io/core-aam/#role-map-strong)
+     * [`https://w3c.github.io/core-aam/#role-map-subscript`](https://w3c.github.io/core-aam/#role-map-subscript)
+     * [`https://w3c.github.io/core-aam/#role-map-superscript`](https://w3c.github.io/core-aam/#role-map-superscript)
      * [`https://w3c.github.io/core-aam/#role-map-table`](https://w3c.github.io/core-aam/#role-map-table)
      * [`https://w3c.github.io/core-aam/#role-map-rowgroup`](https://w3c.github.io/core-aam/#role-map-rowgroup)
      * [`https://w3c.github.io/core-aam/#role-map-cell`](https://w3c.github.io/core-aam/#role-map-cell)
@@ -5773,6 +5788,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/core-aam/#ariaMultilineTrue`](https://w3c.github.io/core-aam/#ariaMultilineTrue)
      * [`https://w3c.github.io/core-aam/#role-map-columnheader`](https://w3c.github.io/core-aam/#role-map-columnheader)
      * [`https://w3c.github.io/core-aam/#role-map-rowheader`](https://w3c.github.io/core-aam/#role-map-rowheader)
+     * [`https://w3c.github.io/core-aam/#role-map-time`](https://w3c.github.io/core-aam/#role-map-time)
      * [`https://w3c.github.io/core-aam/#role-map-row`](https://w3c.github.io/core-aam/#role-map-row)
      * [`https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth`](https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth)
      * [`https://w3c.github.io/core-aam/#ariaFlowto`](https://w3c.github.io/core-aam/#ariaFlowto)
@@ -8619,7 +8635,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set`](https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://w3c.github.io/webrtc-svc/#scalabilitymodes*`](https://w3c.github.io/webrtc-svc/#scalabilitymodes*)
 - [WebDriver](https://w3c.github.io/webdriver/):
      * [`https://html.spec.whatwg.org/#focus`](https://html.spec.whatwg.org/#focus)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
@@ -9186,7 +9201,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4827 problematic external links found in 292 specifications
+=> 4840 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

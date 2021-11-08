@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-07T18:42:02.457Z",
+  "date": "2021-11-08T00:53:14.367Z",
   "stats": {
     "crawled": 446,
     "errors": 2,
@@ -574,6 +574,11 @@
               "url": "https://www.w3.org/TR/core-aam-1.2/",
               "title": "Core Accessibility API Mappings 1.2",
               "crawled": "https://w3c.github.io/core-aam/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-aam-1.0/",
+              "title": "HTML Accessibility API Mappings 1.0",
+              "crawled": "https://w3c.github.io/html-aam/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -25671,6 +25676,7 @@
           "https://www.w3.org/TR/core-aam-1.1/",
           "https://w3c.github.io/graphics-aam/",
           "https://w3c.github.io/accname/",
+          "https://www.w3.org/TR/wai-aria-1.1/",
           "https://dom.spec.whatwg.org/"
         ],
         "inconsistentRef": [
@@ -25718,6 +25724,7 @@
             "https://www.w3.org/TR/wai-aria-1.1/#aria-describedby"
           ],
           "brokenLinks": [
+            "https://w3c.github.io/core-aam/#role-map-generic",
             "https://w3c.github.io/core-aam/#ariaRoleDescription",
             "https://w3c.github.io/core-aam/#role-map-link",
             "https://w3c.github.io/core-aam/#role-map-article",
@@ -25725,13 +25732,18 @@
             "https://w3c.github.io/core-aam/#role-map-button",
             "https://w3c.github.io/core-aam/#role-map-slider",
             "https://w3c.github.io/core-aam/#role-map-toolbar",
+            "https://w3c.github.io/core-aam/#role-map-blockquote",
             "https://w3c.github.io/core-aam/#role-map-button-pressed",
             "https://w3c.github.io/core-aam/#role-map-button-haspopup",
+            "https://w3c.github.io/core-aam/#role-map-caption",
+            "https://w3c.github.io/core-aam/#role-map-code",
             "https://w3c.github.io/core-aam/#role-map-listbox",
             "https://w3c.github.io/core-aam/#ariaMultiselectableFalse",
             "https://w3c.github.io/core-aam/#role-map-definition",
+            "https://w3c.github.io/core-aam/#role-map-deletion",
             "https://w3c.github.io/core-aam/#role-map-term",
             "https://w3c.github.io/core-aam/#role-map-dialog",
+            "https://w3c.github.io/core-aam/#role-map-emphasis",
             "https://w3c.github.io/core-aam/#role-map-group",
             "https://w3c.github.io/core-aam/#role-map-figure",
             "https://w3c.github.io/core-aam/#role-map-contentinfo",
@@ -25740,6 +25752,7 @@
             "https://w3c.github.io/core-aam/#ariaLevel",
             "https://w3c.github.io/core-aam/#role-map-banner",
             "https://w3c.github.io/core-aam/#role-map-separator",
+            "https://w3c.github.io/core-aam/#role-map-document",
             "https://w3c.github.io/core-aam/#role-map-img",
             "https://w3c.github.io/core-aam/#role-map-presentation",
             "https://w3c.github.io/core-aam/#role-map-checkbox",
@@ -25751,19 +25764,25 @@
             "https://w3c.github.io/core-aam/#role-map-searchbox",
             "https://w3c.github.io/core-aam/#role-map-combobox",
             "https://w3c.github.io/core-aam/#ariaControls",
+            "https://w3c.github.io/core-aam/#role-map-insertion",
             "https://w3c.github.io/core-aam/#role-map-listitem",
             "https://w3c.github.io/core-aam/#role-map-main",
             "https://w3c.github.io/core-aam/#role-map-list",
             "https://w3c.github.io/core-aam/#role-map-menu",
+            "https://w3c.github.io/core-aam/#role-map-meter",
             "https://w3c.github.io/core-aam/#role-map-navigation",
             "https://w3c.github.io/core-aam/#role-map-option",
             "https://w3c.github.io/core-aam/#ariaSelectedTrue",
             "https://w3c.github.io/core-aam/#role-map-status",
+            "https://w3c.github.io/core-aam/#role-map-paragraph",
             "https://w3c.github.io/core-aam/#role-map-progressbar",
             "https://w3c.github.io/core-aam/#ariaValueMax",
             "https://w3c.github.io/core-aam/#ariaValueMin",
             "https://w3c.github.io/core-aam/#ariaValueNow",
             "https://w3c.github.io/core-aam/#role-map-region",
+            "https://w3c.github.io/core-aam/#role-map-strong",
+            "https://w3c.github.io/core-aam/#role-map-subscript",
+            "https://w3c.github.io/core-aam/#role-map-superscript",
             "https://w3c.github.io/core-aam/#role-map-table",
             "https://w3c.github.io/core-aam/#role-map-rowgroup",
             "https://w3c.github.io/core-aam/#role-map-cell",
@@ -25773,6 +25792,7 @@
             "https://w3c.github.io/core-aam/#ariaMultilineTrue",
             "https://w3c.github.io/core-aam/#role-map-columnheader",
             "https://w3c.github.io/core-aam/#role-map-rowheader",
+            "https://w3c.github.io/core-aam/#role-map-time",
             "https://w3c.github.io/core-aam/#role-map-row",
             "https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth",
             "https://w3c.github.io/core-aam/#ariaFlowto",
@@ -38589,11 +38609,6 @@
               "crawled": "https://w3c.github.io/mediacapture-record/"
             },
             {
-              "url": "https://www.w3.org/TR/mst-content-hint/",
-              "title": "MediaStreamTrack Content Hints",
-              "crawled": "https://w3c.github.io/mst-content-hint/"
-            },
-            {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
@@ -39884,11 +39899,6 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
-              "url": "https://www.w3.org/TR/mst-content-hint/",
-              "title": "MediaStreamTrack Content Hints",
-              "crawled": "https://w3c.github.io/mst-content-hint/"
-            },
-            {
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
@@ -39918,7 +39928,6 @@
     {
       "title": "MediaStreamTrack Content Hints",
       "shortname": "mst-content-hint",
-      "date": "22 July 2021",
       "url": "https://www.w3.org/TR/mst-content-hint/",
       "release": {
         "url": "https://www.w3.org/TR/mst-content-hint/",
@@ -39930,7 +39939,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/mst-content-hint/",
+      "crawled": {
+        "url": "https://w3c.github.io/mst-content-hint/",
+        "repository": "https://github.com/w3c/mst-content-hint",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -39939,10 +39953,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 356)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -39957,7 +39971,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -45330,7 +45344,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45390,7 +45404,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45479,7 +45493,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45553,7 +45567,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45611,7 +45625,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45649,7 +45663,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45705,7 +45719,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45761,7 +45775,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "7 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -47437,6 +47451,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
+      "date": "03 November 2021",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -47448,12 +47463,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/webrtc-svc/",
-        "repository": "https://github.com/w3c/webrtc-svc",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/webrtc-svc/",
       "organization": "W3C",
       "groups": [
         {
@@ -47462,10 +47472,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 431)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -47492,7 +47502,15 @@
             }
           ]
         },
-        "ok": false
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": true
       }
     },
     {
@@ -52959,7 +52977,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "06 October 2021",
+      "date": "08 November 2021",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
@@ -54082,11 +54100,6 @@
               "crawled": "https://w3c.github.io/media-playback-quality/"
             },
             {
-              "url": "https://www.w3.org/TR/mst-content-hint/",
-              "title": "MediaStreamTrack Content Hints",
-              "crawled": "https://w3c.github.io/mst-content-hint/"
-            },
-            {
               "url": "https://wicg.github.io/netinfo/",
               "title": "Network Information API",
               "crawled": "https://wicg.github.io/netinfo/"
@@ -54170,6 +54183,11 @@
               "url": "https://wicg.github.io/savedata/",
               "title": "Save Data API",
               "crawled": "https://wicg.github.io/savedata/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -55437,8 +55455,7 @@
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
             "https://html.spec.whatwg.org/#htmlmediaelement",
-            "https://html.spec.whatwg.org/#dom-media-src",
-            "https://w3c.github.io/webrtc-svc/#scalabilitymodes*"
+            "https://html.spec.whatwg.org/#dom-media-src"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -61900,9 +61917,9 @@
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
             },
             {
-              "url": "https://www.w3.org/TR/mst-content-hint/",
-              "title": "MediaStreamTrack Content Hints",
-              "crawled": "https://w3c.github.io/mst-content-hint/"
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
             },
             {
               "url": "https://www.w3.org/TR/webaudio/",
