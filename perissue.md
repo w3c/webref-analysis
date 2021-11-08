@@ -31,7 +31,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at async isReady (__puppeteer_evaluation_script__:19:21)
     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
@@ -39,7 +38,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
     at async Promise.all (index 430)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-- [Scalable Video Coding (SVC) Extension for WebRTC]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
+- [Payment Method Identifiers]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
     at isReady (__puppeteer_evaluation_script__:12:27)
     at isReady (__puppeteer_evaluation_script__:19:27)
     at async isReady (__puppeteer_evaluation_script__:19:21)
@@ -67,10 +66,40 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 431)
+    at async Promise.all (index 366)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
+- [Web Share Target API]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
+    at async Promise.all (index 70)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
 
-=> 2 specifications found
+=> 3 specifications found
 
 
 ## Specifications without normative dependencies
@@ -255,11 +284,10 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebGPU](https://gpuweb.github.io/gpuweb/)
 - `Uint8Array` used in [Encoding Standard](https://encoding.spec.whatwg.org/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - `Uint8ClampedArray` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `WebAppManifest` used in [Web Share Target API](https://w3c.github.io/web-share-target/)
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 21 WebIDL names found
+=> 20 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
@@ -7094,13 +7122,15 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#queue-a-microtask`](https://html.spec.whatwg.org/#queue-a-microtask)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://www.w3.org/TR/appmanifest/#fetching-image-resources`](https://www.w3.org/TR/appmanifest/#fetching-image-resources)
-- [Payment Method Identifiers](https://w3c.github.io/payment-method-id/):
-     * [`https://html.spec.whatwg.org/#case-sensitive`](https://html.spec.whatwg.org/#case-sensitive)
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-pmi`](https://www.w3.org/TR/payment-method-id/#dfn-pmi)
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier`](https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier)
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier`](https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/):
      * [`https://w3c.github.io/payment-request/#dfn-payment-apps`](https://w3c.github.io/payment-request/#dfn-payment-apps)
      * [`https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers)
      * [`https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers)
      * [`https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers)
+     * [`https://w3c.github.io/payment-method-id/#dfn-validate-a-url-based-payment-method-identifier`](https://w3c.github.io/payment-method-id/#dfn-validate-a-url-based-payment-method-identifier)
      * [`https://www.w3.org/TR/appmanifest/#dfn-obtaining-the-manifest`](https://www.w3.org/TR/appmanifest/#dfn-obtaining-the-manifest)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
@@ -7110,6 +7140,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://fetch.spec.whatwg.org/#concept-get-reader`](https://fetch.spec.whatwg.org/#concept-get-reader)
      * [`https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream`](https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream)
 - [Payment Request API](https://w3c.github.io/payment-request/):
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-pmi`](https://www.w3.org/TR/payment-method-id/#dfn-pmi)
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-validate-a-payment-method-identifier`](https://www.w3.org/TR/payment-method-id/#dfn-validate-a-payment-method-identifier)
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier`](https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier)
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier`](https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -7750,6 +7784,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://www.w3.org/TR/geolocation-API/#watch-position`](https://www.w3.org/TR/geolocation-API/#watch-position)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation):
+     * [`https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier`](https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier)
+     * [`https://w3c.github.io/payment-method-id/#registry`](https://w3c.github.io/payment-method-id/#registry)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#concept-environment-top-level-origin`](https://html.spec.whatwg.org/#concept-environment-top-level-origin)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
@@ -8514,8 +8550,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
+     * [`https://html.spec.whatwg.org/#update-the-visibility-state`](https://html.spec.whatwg.org/#update-the-visibility-state)
      * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#dom-document-visibilitystate`](https://html.spec.whatwg.org/#dom-document-visibilitystate)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -8560,19 +8598,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-base-href`](https://html.spec.whatwg.org/#dom-base-href)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
-- [Web Share Target API](https://w3c.github.io/web-share-target/):
-     * [`https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler`](https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler)
-     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
-     * [`https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm`](https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm)
-     * [`https://html.spec.whatwg.org/#multipart/form-data-boundary-string`](https://html.spec.whatwg.org/#multipart/form-data-boundary-string)
-     * [`https://html.spec.whatwg.org/#creating-a-new-browsing-context`](https://html.spec.whatwg.org/#creating-a-new-browsing-context)
-     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
-     * [`https://www.w3.org/TR/appmanifest/#dom-webappmanifest`](https://www.w3.org/TR/appmanifest/#dom-webappmanifest)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-extension-point`](https://www.w3.org/TR/appmanifest/#dfn-extension-point)
-     * [`https://www.w3.org/TR/appmanifest/#dom-webappmanifest-scope`](https://www.w3.org/TR/appmanifest/#dom-webappmanifest-scope)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-issue-a-developer-warning`](https://www.w3.org/TR/appmanifest/#dfn-issue-a-developer-warning)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-install`](https://www.w3.org/TR/appmanifest/#dfn-install)
 - [Web Speech API](https://wicg.github.io/speech-api/):
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
@@ -8636,7 +8661,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set`](https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://w3c.github.io/webrtc-svc/#scalabilitymodes*`](https://w3c.github.io/webrtc-svc/#scalabilitymodes*)
 - [WebDriver](https://w3c.github.io/webdriver/):
      * [`https://html.spec.whatwg.org/#focus`](https://html.spec.whatwg.org/#focus)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
@@ -9203,7 +9227,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4841 problematic external links found in 292 specifications
+=> 4839 problematic external links found in 290 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

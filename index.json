@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-08T06:43:16.824Z",
+  "date": "2021-11-08T12:49:20.914Z",
   "stats": {
     "crawled": 446,
-    "errors": 2,
+    "errors": 3,
     "studied": 446
   },
   "results": [
@@ -1604,7 +1604,7 @@
     {
       "title": "Battery Status API",
       "shortname": "battery-status",
-      "date": "05 November 2021",
+      "date": "08 November 2021",
       "url": "https://www.w3.org/TR/battery-status/",
       "release": {
         "url": "https://www.w3.org/TR/battery-status/",
@@ -21840,7 +21840,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "6 November 2021",
+      "date": "8 November 2021",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -22266,11 +22266,6 @@
               "url": "https://www.w3.org/TR/user-timing-3/",
               "title": "User Timing Level 3",
               "crawled": "https://w3c.github.io/user-timing/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ]
         },
@@ -22583,11 +22578,6 @@
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -23413,11 +23403,6 @@
               "crawled": "https://wicg.github.io/origin-policy/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-method-id/",
-              "title": "Payment Method Identifiers",
-              "crawled": "https://w3c.github.io/payment-method-id/"
-            },
-            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -23526,11 +23511,6 @@
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
               "crawled": "https://w3c.github.io/webauthn/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -33376,11 +33356,6 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-method-id/",
-              "title": "Payment Method Identifiers",
-              "crawled": "https://w3c.github.io/payment-method-id/"
-            },
-            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -33749,11 +33724,6 @@
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://wicg.github.io/speech-api/",
@@ -35430,7 +35400,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36699,11 +36669,6 @@
               "crawled": "https://wicg.github.io/serial/"
             },
             {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
-            },
-            {
               "url": "https://www.w3.org/TR/wasm-js-api-1/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/spec/js-api/"
@@ -37805,7 +37770,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "27 October 2021",
+      "date": "8 November 2021",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -38104,7 +38069,7 @@
     {
       "title": "Magnetometer",
       "shortname": "magnetometer",
-      "date": "2 September 2021",
+      "date": "8 November 2021",
       "url": "https://www.w3.org/TR/magnetometer/",
       "release": {
         "url": "https://www.w3.org/TR/magnetometer/",
@@ -38526,7 +38491,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "25 October 2021",
+      "date": "08 November 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -41573,11 +41538,6 @@
               "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
             },
             {
-              "url": "https://w3c.github.io/web-nfc/",
-              "title": "Web NFC",
-              "crawled": "https://w3c.github.io/web-nfc/"
-            },
-            {
               "url": "https://www.w3.org/TR/webcodecs/",
               "title": "WebCodecs",
               "crawled": "https://w3c.github.io/webcodecs/"
@@ -41834,7 +41794,10 @@
             "https://html.spec.whatwg.org/#structureddeserialize",
             "https://html.spec.whatwg.org/#queue-a-microtask",
             "https://html.spec.whatwg.org/#concept-relevant-global",
-            "https://www.w3.org/TR/appmanifest/#fetching-image-resources"
+            "https://www.w3.org/TR/appmanifest/#fetching-image-resources",
+            "https://www.w3.org/TR/payment-method-id/#dfn-pmi",
+            "https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier",
+            "https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41846,7 +41809,6 @@
     {
       "title": "Payment Method Identifiers",
       "shortname": "payment-method-id",
-      "date": "28 September 2021",
       "url": "https://www.w3.org/TR/payment-method-id/",
       "release": {
         "url": "https://www.w3.org/TR/payment-method-id/",
@@ -41858,7 +41820,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/payment-method-id/",
+      "crawled": {
+        "url": "https://w3c.github.io/payment-method-id/",
+        "repository": "https://github.com/w3c/payment-method-id",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -41867,7 +41834,8 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 366)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -41904,16 +41872,6 @@
             }
           ],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#case-sensitive"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -41971,13 +41929,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/payment-method-id/",
-              "title": "Payment Method Identifiers",
-              "crawled": "https://w3c.github.io/payment-method-id/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -41992,6 +41944,7 @@
             "https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers",
             "https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers",
             "https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers",
+            "https://w3c.github.io/payment-method-id/#dfn-validate-a-url-based-payment-method-identifier",
             "https://www.w3.org/TR/appmanifest/#dfn-obtaining-the-manifest",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
@@ -42113,18 +42066,16 @@
               "crawled": "https://w3c.github.io/secure-payment-confirmation"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/payment-method-id/",
-              "title": "Payment Method Identifiers",
-              "crawled": "https://w3c.github.io/payment-method-id/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
+            "https://www.w3.org/TR/payment-method-id/#dfn-pmi",
+            "https://www.w3.org/TR/payment-method-id/#dfn-validate-a-payment-method-identifier",
+            "https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier",
+            "https://www.w3.org/TR/payment-method-id/#dfn-url-based-payment-method-identifier",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
             "https://html.spec.whatwg.org/#window",
@@ -47457,6 +47408,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
+      "date": "08 November 2021",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -47468,12 +47420,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/webrtc-svc/",
-        "repository": "https://github.com/w3c/webrtc-svc",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/webrtc-svc/",
       "organization": "W3C",
       "groups": [
         {
@@ -47482,10 +47429,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 431)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -47512,7 +47459,15 @@
             }
           ]
         },
-        "ok": false
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": true
       }
     },
     {
@@ -47979,11 +47934,6 @@
               "url": "https://wicg.github.io/background-sync/spec/",
               "title": "Web Background Synchronization",
               "crawled": "https://wicg.github.io/background-sync/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ],
           "informative": [
@@ -48179,6 +48129,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://www.w3.org/TR/payment-method-id/#dfn-standardized-payment-method-identifier",
+            "https://w3c.github.io/payment-method-id/#registry",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
             "https://html.spec.whatwg.org/#relevant-settings-object",
@@ -48920,11 +48872,6 @@
               "url": "https://wicg.github.io/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://wicg.github.io/web-locks/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ]
         },
@@ -49967,7 +49914,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "5 November 2021",
+      "date": "8 November 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -51511,11 +51458,6 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-method-id/",
-              "title": "Payment Method Identifiers",
-              "crawled": "https://w3c.github.io/payment-method-id/"
-            },
-            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -51629,11 +51571,6 @@
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -53044,11 +52981,6 @@
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ],
           "informative": [
@@ -54077,6 +54009,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://www.w3.org/TR/magnetometer/",
+              "title": "Magnetometer",
+              "crawled": "https://w3c.github.io/magnetometer/"
+            },
+            {
               "url": "https://w3c.github.io/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -54190,6 +54127,11 @@
               "url": "https://wicg.github.io/savedata/",
               "title": "Save Data API",
               "crawled": "https://wicg.github.io/savedata/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -54335,11 +54277,6 @@
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -54695,7 +54632,7 @@
     {
       "title": "Web NFC",
       "shortname": "web-nfc",
-      "date": "12 October 2021",
+      "date": "08 November 2021",
       "url": "https://w3c.github.io/web-nfc/",
       "nightly": {
         "url": "https://w3c.github.io/web-nfc/",
@@ -54761,8 +54698,10 @@
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#global-object",
+            "https://html.spec.whatwg.org/#update-the-visibility-state",
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#dom-document-visibilitystate",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
             "https://html.spec.whatwg.org/#in-parallel",
@@ -54961,13 +54900,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "xrefs": {
@@ -54999,7 +54932,6 @@
     {
       "title": "Web Share Target API",
       "shortname": "web-share-target",
-      "date": "04 February 2021",
       "url": "https://w3c.github.io/web-share-target/",
       "nightly": {
         "url": "https://w3c.github.io/web-share-target/",
@@ -55007,7 +54939,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/web-share-target/",
+      "crawled": {
+        "url": "https://w3c.github.io/web-share-target/",
+        "repository": "https://github.com/w3c/web-share-target",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -55016,14 +54953,12 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 70)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "WebAppManifest"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -55035,27 +54970,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler",
-            "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
-            "https://html.spec.whatwg.org/#multipart/form-data-boundary-string",
-            "https://html.spec.whatwg.org/#creating-a-new-browsing-context",
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#navigate",
-            "https://www.w3.org/TR/appmanifest/#dom-webappmanifest",
-            "https://www.w3.org/TR/appmanifest/#dfn-extension-point",
-            "https://www.w3.org/TR/appmanifest/#dom-webappmanifest-scope",
-            "https://www.w3.org/TR/appmanifest/#dfn-issue-a-developer-warning",
-            "https://www.w3.org/TR/appmanifest/#dfn-install"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -55457,8 +55371,7 @@
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
             "https://html.spec.whatwg.org/#htmlmediaelement",
-            "https://html.spec.whatwg.org/#dom-media-src",
-            "https://w3c.github.io/webrtc-svc/#scalabilitymodes*"
+            "https://html.spec.whatwg.org/#dom-media-src"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -61392,7 +61305,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "5 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61507,7 +61420,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "5 November 2021",
+      "date": "8 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -61726,7 +61639,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "04 November 2021",
+      "date": "08 November 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -61923,6 +61836,11 @@
               "url": "https://www.w3.org/TR/mst-content-hint/",
               "title": "MediaStreamTrack Content Hints",
               "crawled": "https://w3c.github.io/mst-content-hint/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
             },
             {
               "url": "https://www.w3.org/TR/webaudio/",
