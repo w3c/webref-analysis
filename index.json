@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-09T06:46:40.191Z",
+  "date": "2021-11-09T12:49:44.878Z",
   "stats": {
     "crawled": 446,
-    "errors": 3,
+    "errors": 2,
     "studied": 446
   },
   "results": [
@@ -1752,6 +1752,8 @@
           "brokenLinks": [
             "https://www.w3.org/TR/page-visibility-2/#dfn-visibilitychange",
             "https://www.w3.org/TR/page-visibility-2/#dfn-unload",
+            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate",
+            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-hidden",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#entry-settings-object",
             "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
@@ -2799,6 +2801,7 @@
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#api-base-url",
+            "https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate",
             "https://dom.spec.whatwg.org/#context-object"
           ],
           "evolvingLinks": [],
@@ -3349,7 +3352,8 @@
             "https://html.spec.whatwg.org/#list-of-active-timers",
             "https://html.spec.whatwg.org/#dom-setinterval",
             "https://html.spec.whatwg.org/#concept-task",
-            "https://html.spec.whatwg.org/#report-the-exception"
+            "https://html.spec.whatwg.org/#report-the-exception",
+            "https://www.w3.org/TR/page-visibility-2/#dfn-hidden"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20419,7 +20423,8 @@
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#dom-navigator"
+            "https://html.spec.whatwg.org/#dom-navigator",
+            "https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20533,7 +20538,8 @@
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#nested-browsing-context"
+            "https://html.spec.whatwg.org/#nested-browsing-context",
+            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-visible"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -21203,11 +21209,6 @@
               "url": "https://wicg.github.io/page-lifecycle/",
               "title": "Page Lifecycle",
               "crawled": "https://wicg.github.io/page-lifecycle/"
-            },
-            {
-              "url": "https://www.w3.org/TR/page-visibility-2/",
-              "title": "Page Visibility Level 2",
-              "crawled": "https://w3c.github.io/page-visibility/"
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
@@ -23165,7 +23166,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "3 November 2021",
+      "date": "9 November 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -23660,8 +23661,7 @@
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#windoworworkerglobalscope",
-            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
+            "https://html.spec.whatwg.org/#windoworworkerglobalscope"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -24796,6 +24796,8 @@
             "https://html.spec.whatwg.org/#task-queue",
             "https://html.spec.whatwg.org/#spin-the-event-loop",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
+            "https://www.w3.org/TR/page-visibility-2/#dfn-determine-the-visibility-state",
+            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate",
             "https://www.w3.org/TR/permissions/#enumdef-permissionname",
             "https://www.w3.org/TR/permissions/#permission-state",
             "https://w3c.github.io/permissions/#enumdef-permissionname",
@@ -24897,7 +24899,9 @@
             "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#list-of-active-timers",
-            "https://html.spec.whatwg.org/#task-source"
+            "https://html.spec.whatwg.org/#task-source",
+            "https://www.w3.org/TR/page-visibility-2/#dfn-hidden",
+            "https://www.w3.org/TR/page-visibility-2/#dfn-visible"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -33276,6 +33280,11 @@
               "crawled": "https://w3c.github.io/mediacapture-depth/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
+              "title": "Media Capture from DOM Elements",
+              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
               "url": "https://wicg.github.io/media-feeds/",
               "title": "Media Feeds",
               "crawled": "https://wicg.github.io/media-feeds/"
@@ -33359,11 +33368,6 @@
               "url": "https://wicg.github.io/page-lifecycle/",
               "title": "Page Lifecycle",
               "crawled": "https://wicg.github.io/page-lifecycle/"
-            },
-            {
-              "url": "https://www.w3.org/TR/page-visibility-2/",
-              "title": "Page Visibility Level 2",
-              "crawled": "https://w3c.github.io/page-visibility/"
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
@@ -35430,7 +35434,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35610,6 +35614,8 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
+            "https://www.w3.org/TR/page-visibility-2/#dom-document-hidden",
+            "https://www.w3.org/TR/page-visibility-2/#dom-document-onvisibilitychange",
             "https://html.spec.whatwg.org/#handler-onmousemove",
             "https://html.spec.whatwg.org/#handler-onkeypress",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -37794,6 +37800,7 @@
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-origin",
+            "https://w3c.github.io/page-visibility/#dom-document-onvisibilitychange",
             "https://www.w3.org/TR/css-values-4/#pixel-unit"
           ],
           "evolvingLinks": [],
@@ -38595,6 +38602,11 @@
               "crawled": "https://w3c.github.io/mediacapture-depth/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
+              "title": "Media Capture from DOM Elements",
+              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
               "url": "https://www.w3.org/TR/image-capture/",
               "title": "MediaStream Image Capture",
               "crawled": "https://w3c.github.io/mediacapture-image/"
@@ -38650,6 +38662,11 @@
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
+              "title": "Media Capture from DOM Elements",
+              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
             },
             {
               "url": "https://www.w3.org/TR/fingerprinting-guidance/",
@@ -38905,6 +38922,7 @@
     {
       "title": "Media Capture from DOM Elements",
       "shortname": "mediacapture-fromelement",
+      "date": "05 July 2021",
       "url": "https://www.w3.org/TR/mediacapture-fromelement/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-fromelement/",
@@ -38916,12 +38934,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/mediacapture-fromelement/",
-        "repository": "https://github.com/w3c/mediacapture-fromelement",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/mediacapture-fromelement/",
       "organization": "W3C",
       "groups": [
         {
@@ -38930,10 +38943,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 348)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -38943,7 +38956,15 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/mediacapture-main/",
+            "ref": {
+              "name": "mediacapture-streams",
+              "url": "https://www.w3.org/TR/mediacapture-streams/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": [
@@ -38953,6 +38974,33 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             }
           ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#video",
+            "https://html.spec.whatwg.org/#audio",
+            "https://html.spec.whatwg.org/#canvas",
+            "https://html.spec.whatwg.org/#htmlmediaelement",
+            "https://html.spec.whatwg.org/#htmlcanvaselement",
+            "https://html.spec.whatwg.org/#videotrack",
+            "https://html.spec.whatwg.org/#audiotrack",
+            "https://html.spec.whatwg.org/#dom-videotracklist-selectedindex",
+            "https://html.spec.whatwg.org/#dom-audiotrack-enabled",
+            "https://html.spec.whatwg.org/#dom-media-have_nothing",
+            "https://html.spec.whatwg.org/#ended-playback",
+            "https://html.spec.whatwg.org/#dom-media-src",
+            "https://html.spec.whatwg.org/#dom-media-srcobject",
+            "https://html.spec.whatwg.org/#dom-media-playbackrate",
+            "https://html.spec.whatwg.org/#concept-canvas-origin-clean",
+            "https://html.spec.whatwg.org/#window"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html5/"
+          ],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -39779,7 +39827,8 @@
             "https://html.spec.whatwg.org/#dom-imagebitmap-width",
             "https://html.spec.whatwg.org/#dom-imagebitmap-height",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://w3c.github.io/permissions/#request-permission-to-use"
+            "https://w3c.github.io/permissions/#request-permission-to-use",
+            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41420,7 +41469,6 @@
     {
       "title": "Page Visibility Level 2",
       "shortname": "page-visibility-2",
-      "date": "17 June 2021",
       "url": "https://www.w3.org/TR/page-visibility-2/",
       "release": {
         "url": "https://www.w3.org/TR/page-visibility-2/",
@@ -41432,7 +41480,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/page-visibility/",
+      "crawled": {
+        "url": "https://w3c.github.io/page-visibility/",
+        "repository": "https://github.com/w3c/page-visibility",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -41441,10 +41494,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 362)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -41560,32 +41613,6 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             }
           ]
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
-            "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
-            "https://html.spec.whatwg.org/#task-source",
-            "https://html.spec.whatwg.org/#concept-task",
-            "https://html.spec.whatwg.org/#user-interaction-task-source",
-            "https://html.spec.whatwg.org/#session-history-entry",
-            "https://html.spec.whatwg.org/#event-pageshow",
-            "https://html.spec.whatwg.org/#queue-a-task",
-            "https://html.spec.whatwg.org/#event-unload",
-            "https://html.spec.whatwg.org/#unloading-document-visibility-change-steps",
-            "https://html.spec.whatwg.org/#event-focus",
-            "https://html.spec.whatwg.org/#event-blur",
-            "https://html.spec.whatwg.org/#window"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -42873,7 +42900,8 @@
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#media-element-event-task-source",
-            "https://html.spec.whatwg.org/#browsing-context"
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45074,6 +45102,7 @@
             "https://html.spec.whatwg.org/#cors-settings-attributes",
             "https://html.spec.whatwg.org/#origin-2",
             "https://html.spec.whatwg.org/#delay-the-load-event",
+            "https://w3c.github.io/page-visibility/#visibilitystate-attribute",
             "https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable"
           ],
           "evolvingLinks": [],
@@ -47413,6 +47442,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
+      "date": "08 November 2021",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -47424,12 +47454,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/webrtc-svc/",
-        "repository": "https://github.com/w3c/webrtc-svc",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/webrtc-svc/",
       "organization": "W3C",
       "groups": [
         {
@@ -47438,10 +47463,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 431)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -47468,13 +47493,21 @@
             }
           ]
         },
-        "ok": false
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": true
       }
     },
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "05 November 2021",
+      "date": "09 November 2021",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -47620,7 +47653,10 @@
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#top-level-browsing-context"
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://www.w3.org/TR/page-visibility/#dfn-determine-the-visibility-state",
+            "https://www.w3.org/TR/page-visibility/#dfn-external-now-hidden-algorithm",
+            "https://www.w3.org/TR/page-visibility/#dfn-visibility-states"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -48683,7 +48719,9 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "VisibilityState"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -49013,6 +49051,7 @@
             "https://w3c.github.io/push-api/#dfn-push",
             "https://w3c.github.io/push-api/#dfn-fire-the-push-event",
             "https://www.w3.org/TR/page-visibility/#VisibilityState",
+            "https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate",
             "https://wicg.github.io/BackgroundSync/spec/#sync"
           ],
           "evolvingLinks": [],
@@ -50198,7 +50237,8 @@
             "https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts",
             "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#concept-task"
+            "https://html.spec.whatwg.org/#concept-task",
+            "https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -52229,7 +52269,8 @@
             "https://html.spec.whatwg.org/#spin-the-event-loop",
             "https://html.spec.whatwg.org/#the-navigator-object",
             "https://html.spec.whatwg.org/#navigator",
-            "https://w3c.github.io/page-visibility/#dfn-steps-to-determine-the-visibility-state"
+            "https://w3c.github.io/page-visibility/#dfn-steps-to-determine-the-visibility-state",
+            "https://w3c.github.io/page-visibility/#dfn-visibility-states"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -53125,6 +53166,11 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
+              "title": "Media Capture from DOM Elements",
+              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
               "url": "https://www.w3.org/TR/webmidi/",
               "title": "Web MIDI API",
               "crawled": "https://webaudio.github.io/web-midi-api/"
@@ -53200,8 +53246,7 @@
             "https://html.spec.whatwg.org/#clean-up-after-running-script",
             "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
-            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference",
-            "https://www.w3.org/TR/mediacapture-fromelement/#dom-htmlmediaelement-capturestream"
+            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -53335,6 +53380,7 @@
             "https://url.spec.whatwg.org/#host-same-site",
             "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://heycam.github.io/webidl#dfn-get-buffer-source-reference",
+            "https://www.w3.org/TR/page-visibility/#visibility-states",
             "https://w3c.github.io/webdriver/#dfn-error"
           ],
           "evolvingLinks": [],
@@ -53551,7 +53597,8 @@
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#navigator",
-            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
+            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54052,6 +54099,11 @@
               "crawled": "https://w3c.github.io/mediacapture-automation/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
+              "title": "Media Capture from DOM Elements",
+              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
               "url": "https://w3c.github.io/media-playback-quality/",
               "title": "Media Playback Quality",
               "crawled": "https://w3c.github.io/media-playback-quality/"
@@ -54070,11 +54122,6 @@
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/page-visibility-2/",
-              "title": "Page Visibility Level 2",
-              "crawled": "https://w3c.github.io/page-visibility/"
             },
             {
               "url": "https://www.w3.org/TR/payment-handler/",
@@ -54145,6 +54192,11 @@
               "url": "https://wicg.github.io/savedata/",
               "title": "Save Data API",
               "crawled": "https://wicg.github.io/savedata/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -55411,7 +55463,8 @@
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
             "https://html.spec.whatwg.org/#htmlmediaelement",
             "https://html.spec.whatwg.org/#dom-media-src",
-            "https://w3c.github.io/webrtc-svc/#scalabilitymodes*"
+            "https://www.w3.org/TR/page-visibility-2/#dom-document-hidden",
+            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -55678,7 +55731,9 @@
             "https://html.spec.whatwg.org/#event-pagehide",
             "https://html.spec.whatwg.org/#event-pageshow",
             "https://www.w3.org/TR/accname-1.1/#dfn-accessible-name",
+            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden",
             "https://www.w3.org/TR/page-visibility/#visibility-states-and-the-visibilitystate-enum",
+            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate-visible",
             "https://drafts.csswg.org/css-box/#visibility-prop"
           ],
           "evolvingLinks": [],
@@ -61869,9 +61924,19 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
+              "title": "Media Capture from DOM Elements",
+              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
               "url": "https://www.w3.org/TR/mst-content-hint/",
               "title": "MediaStreamTrack Content Hints",
               "crawled": "https://w3c.github.io/mst-content-hint/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
             },
             {
               "url": "https://www.w3.org/TR/webaudio/",
@@ -62910,7 +62975,8 @@
             "https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#dom-navigator-useragent",
-            "https://html.spec.whatwg.org/#dom-navigator-appversion"
+            "https://html.spec.whatwg.org/#dom-navigator-appversion",
+            "https://www.w3.org/TR/page-visibility-2/#visibilitystate-attribute"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
