@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-09T12:49:44.878Z",
+  "date": "2021-11-09T14:22:33.077Z",
   "stats": {
-    "crawled": 446,
-    "errors": 2,
-    "studied": 446
+    "crawled": 449,
+    "errors": 0,
+    "studied": 449
   },
   "results": [
     {
@@ -1750,10 +1750,6 @@
             "https://fetch.spec.whatwg.org/#keep-alive-flag"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/page-visibility-2/#dfn-visibilitychange",
-            "https://www.w3.org/TR/page-visibility-2/#dfn-unload",
-            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate",
-            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-hidden",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#entry-settings-object",
             "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
@@ -2801,7 +2797,6 @@
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#api-base-url",
-            "https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate",
             "https://dom.spec.whatwg.org/#context-object"
           ],
           "evolvingLinks": [],
@@ -3352,8 +3347,7 @@
             "https://html.spec.whatwg.org/#list-of-active-timers",
             "https://html.spec.whatwg.org/#dom-setinterval",
             "https://html.spec.whatwg.org/#concept-task",
-            "https://html.spec.whatwg.org/#report-the-exception",
-            "https://www.w3.org/TR/page-visibility-2/#dfn-hidden"
+            "https://html.spec.whatwg.org/#report-the-exception"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20423,8 +20417,7 @@
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#dom-navigator",
-            "https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm"
+            "https://html.spec.whatwg.org/#dom-navigator"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20483,17 +20476,10 @@
         "missingLinkRef": [
           "https://compat.spec.whatwg.org/",
           "https://www.w3.org/TR/css-transforms-2/",
-          "https://www.w3.org/TR/motion-sensors/"
+          "https://www.w3.org/TR/motion-sensors/",
+          "https://www.w3.org/TR/page-visibility-2/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/page-visibility-2/",
-            "ref": {
-              "name": "PAGE-VISIBILITY",
-              "url": "https://www.w3.org/TR/page-visibility/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -20538,8 +20524,7 @@
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#nested-browsing-context",
-            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-visible"
+            "https://html.spec.whatwg.org/#nested-browsing-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -21569,6 +21554,11 @@
               "url": "https://immersive-web.github.io/lighting-estimation/",
               "title": "WebXR Lighting Estimation API Level 1",
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -24678,15 +24668,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/page-visibility-2/"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/page-visibility-2/",
-            "ref": {
-              "name": "PAGE-VISIBILITY",
-              "url": "https://www.w3.org/TR/page-visibility/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/permissions/",
             "ref": {
@@ -24796,8 +24781,6 @@
             "https://html.spec.whatwg.org/#task-queue",
             "https://html.spec.whatwg.org/#spin-the-event-loop",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
-            "https://www.w3.org/TR/page-visibility-2/#dfn-determine-the-visibility-state",
-            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate",
             "https://www.w3.org/TR/permissions/#enumdef-permissionname",
             "https://www.w3.org/TR/permissions/#permission-state",
             "https://w3c.github.io/permissions/#enumdef-permissionname",
@@ -24899,9 +24882,7 @@
             "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#list-of-active-timers",
-            "https://html.spec.whatwg.org/#task-source",
-            "https://www.w3.org/TR/page-visibility-2/#dfn-hidden",
-            "https://www.w3.org/TR/page-visibility-2/#dfn-visible"
+            "https://html.spec.whatwg.org/#task-source"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -25131,6 +25112,11 @@
               "url": "https://immersive-web.github.io/lighting-estimation/",
               "title": "WebXR Lighting Estimation API Level 1",
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             }
           ],
           "informative": [
@@ -25488,6 +25474,11 @@
               "url": "https://wicg.github.io/video-rvfc/",
               "title": "HTMLVideoElement.requestVideoFrameCallback()",
               "crawled": "https://wicg.github.io/video-rvfc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
               "url": "https://wicg.github.io/js-self-profiling/",
@@ -33870,6 +33861,11 @@
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
             },
             {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
+            },
+            {
               "url": "https://xhr.spec.whatwg.org/",
               "title": "XMLHttpRequest Standard",
               "crawled": "https://xhr.spec.whatwg.org/"
@@ -34545,6 +34541,54 @@
         {
           "name": "Hypertext Transfer Protocol Bis Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "HTTP Digest Access Authentication",
+      "shortname": "rfc7616",
+      "date": "1 September 2021",
+      "url": "https://www.rfc-editor.org/rfc/rfc7616",
+      "nightly": {
+        "url": "https://httpwg.org/specs/rfc7616.html",
+        "repository": "https://github.com/httpwg/httpwg.github.io",
+        "sourcePath": "specs/rfc7616.xml",
+        "filename": "rfc7616.html"
+      },
+      "crawled": "https://httpwg.org/specs/rfc7616.html",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "Hypertext Transfer Protocol Authentication Working Group",
+          "url": "https://datatracker.ietf.org/wg/httpauth/"
         }
       ],
       "report": {
@@ -35409,6 +35453,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
+      "date": "15 July 2021",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -35420,12 +35465,7 @@
         "sourcePath": "webrtc-stats.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/webrtc-stats/",
-        "repository": "https://github.com/w3c/webrtc-stats",
-        "sourcePath": "webrtc-stats.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/webrtc-stats/",
       "organization": "W3C",
       "groups": [
         {
@@ -35434,10 +35474,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -35446,7 +35486,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/webrtc-extensions/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -35463,6 +35505,14 @@
               "crawled": "https://wicg.github.io/video-rvfc/"
             }
           ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -35515,7 +35565,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -35614,8 +35670,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/page-visibility-2/#dom-document-hidden",
-            "https://www.w3.org/TR/page-visibility-2/#dom-document-onvisibilitychange",
             "https://html.spec.whatwg.org/#handler-onmousemove",
             "https://html.spec.whatwg.org/#handler-onkeypress",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -36381,6 +36435,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
@@ -36779,6 +36838,11 @@
               "url": "https://immersive-web.github.io/lighting-estimation/",
               "title": "WebXR Lighting Estimation API Level 1",
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -37800,7 +37864,6 @@
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-origin",
-            "https://w3c.github.io/page-visibility/#dom-document-onvisibilitychange",
             "https://www.w3.org/TR/css-values-4/#pixel-unit"
           ],
           "evolvingLinks": [],
@@ -38585,6 +38648,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-identity/",
@@ -39827,8 +39895,7 @@
             "https://html.spec.whatwg.org/#dom-imagebitmap-width",
             "https://html.spec.whatwg.org/#dom-imagebitmap-height",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://w3c.github.io/permissions/#request-permission-to-use",
-            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate"
+            "https://w3c.github.io/permissions/#request-permission-to-use"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -40928,7 +40995,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "27 October 2021",
+      "date": "9 November 2021",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -41396,17 +41463,10 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/IntersectionObserver/"
+          "https://w3c.github.io/IntersectionObserver/",
+          "https://www.w3.org/TR/page-visibility-2/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/page-visibility-2/",
-            "ref": {
-              "name": "PAGE-VISIBILITY",
-              "url": "https://www.w3.org/TR/page-visibility/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -41456,163 +41516,11 @@
             "https://html.spec.whatwg.org/#media-element",
             "https://html.spec.whatwg.org/#dom-media-paused",
             "https://html.spec.whatwg.org/#internal-pause-steps",
-            "https://html.spec.whatwg.org/#internal-play-steps",
-            "https://www.w3.org/TR/page-visibility-2/#visibility-states-and-the-visibilitystate-enum"
+            "https://html.spec.whatwg.org/#internal-play-steps"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Page Visibility Level 2",
-      "shortname": "page-visibility-2",
-      "url": "https://www.w3.org/TR/page-visibility-2/",
-      "release": {
-        "url": "https://www.w3.org/TR/page-visibility-2/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/page-visibility/",
-        "repository": "https://github.com/w3c/page-visibility",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": {
-        "url": "https://w3c.github.io/page-visibility/",
-        "repository": "https://github.com/w3c/page-visibility",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Performance Working Group",
-          "url": "https://www.w3.org/webperf/"
-        }
-      ],
-      "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 362)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/beacon/",
-              "title": "Beacon",
-              "crawled": "https://w3c.github.io/beacon/"
-            },
-            {
-              "url": "https://wicg.github.io/content-index/spec/",
-              "title": "Content Index",
-              "crawled": "https://wicg.github.io/content-index/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/device-posture/",
-              "title": "Device Posture API",
-              "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
-              "crawled": "https://w3c.github.io/deviceorientation/"
-            },
-            {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            },
-            {
-              "url": "https://www.w3.org/TR/geolocation-API/",
-              "title": "Geolocation API",
-              "crawled": "https://w3c.github.io/geolocation-api/"
-            },
-            {
-              "url": "https://wicg.github.io/idle-detection/",
-              "title": "Idle Detection API",
-              "crawled": "https://wicg.github.io/idle-detection/"
-            },
-            {
-              "url": "https://www.w3.org/TR/picture-in-picture/",
-              "title": "Picture-in-Picture",
-              "crawled": "https://w3c.github.io/picture-in-picture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-hints/",
-              "title": "Resource Hints",
-              "crawled": "https://w3c.github.io/resource-hints/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-wake-lock/",
-              "title": "Screen Wake Lock API",
-              "crawled": "https://w3c.github.io/screen-wake-lock/"
-            },
-            {
-              "url": "https://www.w3.org/TR/service-workers-1/",
-              "title": "Service Workers Nightly",
-              "crawled": "https://w3c.github.io/ServiceWorker/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
-            },
-            {
-              "url": "https://www.w3.org/TR/vibration/",
-              "title": "Vibration API (Second Edition)",
-              "crawled": "https://w3c.github.io/vibration/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webauthn-3/",
-              "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
-              "crawled": "https://w3c.github.io/webauthn/"
-            },
-            {
-              "url": "https://webbluetoothcg.github.io/web-bluetooth/",
-              "title": "Web Bluetooth",
-              "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webdriver2/",
-              "title": "WebDriver",
-              "crawled": "https://w3c.github.io/webdriver/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/requestidlecallback/",
-              "title": "Cooperative Scheduling of Background Tasks",
-              "crawled": "https://w3c.github.io/requestidlecallback/"
-            },
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://wicg.github.io/page-lifecycle/",
-              "title": "Page Lifecycle",
-              "crawled": "https://wicg.github.io/page-lifecycle/"
-            }
-          ]
         },
         "ok": false
       }
@@ -42900,8 +42808,7 @@
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#media-element-event-task-source",
-            "https://html.spec.whatwg.org/#browsing-context",
-            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate"
+            "https://html.spec.whatwg.org/#browsing-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45046,6 +44953,7 @@
         "missingLinkRef": [
           "https://url.spec.whatwg.org/",
           "https://fetch.spec.whatwg.org/",
+          "https://w3c.github.io/page-visibility/",
           "https://w3c.github.io/webappsec/specs/CSP2/",
           "https://w3c.github.io/webappsec/specs/content-security-policy/"
         ],
@@ -45055,13 +44963,6 @@
             "ref": {
               "name": "HTML",
               "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/page-visibility/",
-            "ref": {
-              "name": "PAGE-VISIBILITY",
-              "url": "https://www.w3.org/TR/page-visibility/"
             }
           },
           {
@@ -45102,7 +45003,6 @@
             "https://html.spec.whatwg.org/#cors-settings-attributes",
             "https://html.spec.whatwg.org/#origin-2",
             "https://html.spec.whatwg.org/#delay-the-load-event",
-            "https://w3c.github.io/page-visibility/#visibilitystate-attribute",
             "https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable"
           ],
           "evolvingLinks": [],
@@ -45388,6 +45288,44 @@
               "crawled": "https://w3c.github.io/secure-payment-confirmation"
             }
           ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
+      "shortname": "rfc4120",
+      "date": "9 November 2021",
+      "url": "https://www.rfc-editor.org/rfc/rfc4120",
+      "nightly": {
+        "url": "https://www.rfc-editor.org/rfc/rfc4120",
+        "filename": "rfc4120.html"
+      },
+      "crawled": "https://www.rfc-editor.org/rfc/rfc4120",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "Kerberos WG Working Group",
+          "url": "https://datatracker.ietf.org/wg/krb/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -47620,7 +47558,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/page-visibility-2/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -47653,10 +47593,7 @@
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://www.w3.org/TR/page-visibility/#dfn-determine-the-visibility-state",
-            "https://www.w3.org/TR/page-visibility/#dfn-external-now-hidden-algorithm",
-            "https://www.w3.org/TR/page-visibility/#dfn-visibility-states"
+            "https://html.spec.whatwg.org/#top-level-browsing-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -49050,8 +48987,6 @@
             "https://w3c.github.io/push-api/#h-the-push-event",
             "https://w3c.github.io/push-api/#dfn-push",
             "https://w3c.github.io/push-api/#dfn-fire-the-push-event",
-            "https://www.w3.org/TR/page-visibility/#VisibilityState",
-            "https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate",
             "https://wicg.github.io/BackgroundSync/spec/#sync"
           ],
           "evolvingLinks": [],
@@ -50094,6 +50029,54 @@
       }
     },
     {
+      "title": "The 'Basic' HTTP Authentication Scheme",
+      "shortname": "rfc7617",
+      "date": "1 September 2021",
+      "url": "https://www.rfc-editor.org/rfc/rfc7617",
+      "nightly": {
+        "url": "https://httpwg.org/specs/rfc7617.html",
+        "repository": "https://github.com/httpwg/httpwg.github.io",
+        "sourcePath": "specs/rfc7617.xml",
+        "filename": "rfc7617.html"
+      },
+      "crawled": "https://httpwg.org/specs/rfc7617.html",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "Hypertext Transfer Protocol Authentication Working Group",
+          "url": "https://datatracker.ietf.org/wg/httpauth/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
       "shortname": "rfc7538",
       "date": "1 September 2021",
@@ -50237,8 +50220,7 @@
             "https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts",
             "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#concept-task",
-            "https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm"
+            "https://html.spec.whatwg.org/#concept-task"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -52241,16 +52223,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/page-visibility/",
-            "ref": {
-              "name": "PAGE-VISIBILITY-2",
-              "url": "https://www.w3.org/TR/page-visibility-2/"
-            }
-          }
+        "missingLinkRef": [
+          "https://w3c.github.io/page-visibility/"
         ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -52268,9 +52244,7 @@
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#spin-the-event-loop",
             "https://html.spec.whatwg.org/#the-navigator-object",
-            "https://html.spec.whatwg.org/#navigator",
-            "https://w3c.github.io/page-visibility/#dfn-steps-to-determine-the-visibility-state",
-            "https://w3c.github.io/page-visibility/#dfn-visibility-states"
+            "https://html.spec.whatwg.org/#navigator"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -53074,6 +53048,11 @@
               "url": "https://www.w3.org/TR/manifest-app-info/",
               "title": "Web App Manifest - Application Information",
               "crawled": "https://w3c.github.io/manifest-app-info/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             }
           ]
         },
@@ -53380,7 +53359,6 @@
             "https://url.spec.whatwg.org/#host-same-site",
             "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://heycam.github.io/webidl#dfn-get-buffer-source-reference",
-            "https://www.w3.org/TR/page-visibility/#visibility-states",
             "https://w3c.github.io/webdriver/#dfn-error"
           ],
           "evolvingLinks": [],
@@ -53525,7 +53503,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/page-visibility-2/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/fingerprinting-guidance/",
@@ -53539,13 +53519,6 @@
             "ref": {
               "name": "PERMISSIONS",
               "url": "https://www.w3.org/TR/permissions/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/page-visibility-2/",
-            "ref": {
-              "name": "PAGE-VISIBILITY",
-              "url": "https://www.w3.org/TR/page-visibility/"
             }
           }
         ],
@@ -53597,8 +53570,7 @@
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#navigator",
-            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
-            "https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate"
+            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54034,6 +54006,11 @@
               "crawled": "https://w3c.github.io/webrtc-ice/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
@@ -54412,6 +54389,11 @@
               "url": "https://immersive-web.github.io/lighting-estimation/",
               "title": "WebXR Lighting Estimation API Level 1",
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -55374,20 +55356,15 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/page-visibility/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/webrtc-svc/",
             "ref": {
               "name": "WebRTC-SVC",
               "url": "https://www.w3.org/TR/webrtc-svc/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/page-visibility/",
-            "ref": {
-              "name": "PAGE-VISIBILITY-2",
-              "url": "https://www.w3.org/TR/page-visibility-2/"
             }
           },
           {
@@ -55462,9 +55439,7 @@
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
             "https://html.spec.whatwg.org/#htmlmediaelement",
-            "https://html.spec.whatwg.org/#dom-media-src",
-            "https://www.w3.org/TR/page-visibility-2/#dom-document-hidden",
-            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden"
+            "https://html.spec.whatwg.org/#dom-media-src"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -55731,9 +55706,6 @@
             "https://html.spec.whatwg.org/#event-pagehide",
             "https://html.spec.whatwg.org/#event-pageshow",
             "https://www.w3.org/TR/accname-1.1/#dfn-accessible-name",
-            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden",
-            "https://www.w3.org/TR/page-visibility/#visibility-states-and-the-visibilitystate-enum",
-            "https://www.w3.org/TR/page-visibility/#dom-visibilitystate-visible",
             "https://drafts.csswg.org/css-box/#visibility-prop"
           ],
           "evolvingLinks": [],
@@ -61523,8 +61495,8 @@
       },
       "nightly": {
         "url": "https://gpuweb.github.io/gpuweb/wgsl/",
+        "sourcePath": "wgsl/index.bs",
         "repository": "https://github.com/gpuweb/gpuweb",
-        "sourcePath": "spec/index.bs",
         "filename": "index.html"
       },
       "crawled": "https://gpuweb.github.io/gpuweb/wgsl/",
@@ -61762,8 +61734,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "ArrayBuffer",
-          "RTCStatsType"
+          "ArrayBuffer"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -61909,6 +61880,11 @@
               "crawled": "https://w3c.github.io/webrtc-ice/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
@@ -61998,119 +61974,7 @@
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#binarytype",
-            "https://html.spec.whatwg.org/#dom-websocket-binarytype",
-            "https://www.w3.org/TR/webrtc-stats/#dfn-stats-object",
-            "https://www.w3.org/TR/webrtc-stats/#dfn-monitored-object",
-            "https://www.w3.org/TR/webrtc-stats/#lifetime-considerations-for-monitored-objects",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-ssrc",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-packetssent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-codec",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-payloadtype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-mimetype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-clockrate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-channels",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-sdpfmtpline",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-inbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-kind",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-transportid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-codecid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetslost",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-framesdropped",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-remoteid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesdecoded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-nackcount",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalaudioenergy",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalsamplesduration",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-outbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-remoteid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framesencoded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-nackcount",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-inbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-localid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-roundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-outbound-rtp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-localid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-remotetimestamp",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-media-source",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-trackidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-kind",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalaudioenergy",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalsamplesduration",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-width",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-height",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-framespersecond",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-peer-connection",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsopened",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsclosed",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-data-channel",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-label",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-protocol",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-datachannelidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-state",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-transport",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-selectedcandidatepairid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-localcertificateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-remotecertificateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-candidate-pair",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-transportid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-state",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-local-candidate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-address",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-port",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-protocol",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-candidatetype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-url",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-candidate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-certificate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprint",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprintalgorithm",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-base64certificate",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-issuercertificateid"
+            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -62232,7 +62096,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -62975,8 +62845,7 @@
             "https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#dom-navigator-useragent",
-            "https://html.spec.whatwg.org/#dom-navigator-appversion",
-            "https://www.w3.org/TR/page-visibility-2/#visibilitystate-attribute"
+            "https://html.spec.whatwg.org/#dom-navigator-appversion"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -63499,6 +63368,61 @@
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://www.w3.org/TR/webxrlayers-1/#session"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Window Controls Overlay",
+      "shortname": "window-controls-overlay",
+      "date": "08 November 2021",
+      "url": "https://wicg.github.io/window-controls-overlay/",
+      "nightly": {
+        "url": "https://wicg.github.io/window-controls-overlay/",
+        "repository": "https://github.com/WICG/window-controls-overlay",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/window-controls-overlay/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [
+          "WindowControlsOverlayGeometryChangeEventInit"
+        ],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#the-object-element",
+            "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],

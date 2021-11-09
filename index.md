@@ -710,6 +710,50 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+## Hypertext Transfer Protocol Authentication Working Group {#hypertext_transfer_protocol_authentication_working_group}
+
+### HTTP Digest Access Authentication {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
+- Crawled URL: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
+- Crawled version: 1 September 2021
+- Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
+- Shortname: rfc7616
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### The 'Basic' HTTP Authentication Scheme {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
+- Crawled URL: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
+- Crawled version: 1 September 2021
+- Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
+- Shortname: rfc7617
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ## Hypertext Transfer Protocol Bis APP Working Group {#hypertext_transfer_protocol_bis_app_working_group}
 
 ### Hypertext Transfer Protocol (HTTP/1.1): Authentication {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
@@ -1059,6 +1103,29 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+
+## Kerberos WG Working Group {#kerberos_wg_working_group}
+
+### RFC 4120: The Kerberos Network Authentication Service (V5) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
+- Crawled version: 9 November 2021
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
+- Shortname: rfc4120
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ## Network Working Group {#network_working_group}
@@ -3805,9 +3872,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#event-pagehide`](https://html.spec.whatwg.org/#event-pagehide)
      * [`https://html.spec.whatwg.org/#event-pageshow`](https://html.spec.whatwg.org/#event-pageshow)
      * [`https://www.w3.org/TR/accname-1.1/#dfn-accessible-name`](https://www.w3.org/TR/accname-1.1/#dfn-accessible-name)
-     * [`https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden`](https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden)
-     * [`https://www.w3.org/TR/page-visibility/#visibility-states-and-the-visibilitystate-enum`](https://www.w3.org/TR/page-visibility/#visibility-states-and-the-visibilitystate-enum)
-     * [`https://www.w3.org/TR/page-visibility/#dom-visibilitystate-visible`](https://www.w3.org/TR/page-visibility/#dom-visibilitystate-visible)
      * [`https://drafts.csswg.org/css-box/#visibility-prop`](https://drafts.csswg.org/css-box/#visibility-prop)
 
 #### Known dependencies on this specification {.dependencies}
@@ -9765,6 +9829,7 @@ Normative references to this spec from:
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
 Informative references to this spec from:
 
@@ -10442,7 +10507,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts`](https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#dom-navigator`](https://html.spec.whatwg.org/#dom-navigator)
-     * [`https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm`](https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10453,7 +10517,7 @@ Informative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
-### DeviceOrientation Event Specification {data-spec=true data-anomaly=true data-redefinedIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### DeviceOrientation Event Specification {data-spec=true data-anomaly=true data-redefinedIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10472,8 +10536,7 @@ Informative references to this spec from:
      * [`https://compat.spec.whatwg.org/`](https://compat.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css-transforms-2/`](https://www.w3.org/TR/css-transforms-2/)
      * [`https://www.w3.org/TR/motion-sensors/`](https://www.w3.org/TR/motion-sensors/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/), related reference "PAGE-VISIBILITY" uses URL [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - External links to private terms:
      * [`https://compat.spec.whatwg.org/#event-orientationchange`](https://compat.spec.whatwg.org/#event-orientationchange)
 - Broken external links:
@@ -10490,7 +10553,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-visible`](https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-visible)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10505,7 +10567,7 @@ Informative references to this spec from:
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
-### Generic Sensor API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Generic Sensor API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10518,8 +10580,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/), related reference "PAGE-VISIBILITY" uses URL [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
      * [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/), related reference "PERMISSIONS" uses URL [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/)
      * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - External links to private terms:
@@ -10557,8 +10620,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#task-queue`](https://html.spec.whatwg.org/#task-queue)
      * [`https://html.spec.whatwg.org/#spin-the-event-loop`](https://html.spec.whatwg.org/#spin-the-event-loop)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
-     * [`https://www.w3.org/TR/page-visibility-2/#dfn-determine-the-visibility-state`](https://www.w3.org/TR/page-visibility-2/#dfn-determine-the-visibility-state)
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate`](https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate)
      * [`https://www.w3.org/TR/permissions/#enumdef-permissionname`](https://www.w3.org/TR/permissions/#enumdef-permissionname)
      * [`https://www.w3.org/TR/permissions/#permission-state`](https://www.w3.org/TR/permissions/#permission-state)
      * [`https://w3c.github.io/permissions/#enumdef-permissionname`](https://w3c.github.io/permissions/#enumdef-permissionname)
@@ -10840,7 +10901,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-### Screen Wake Lock API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Screen Wake Lock API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10853,6 +10914,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
@@ -10872,9 +10935,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://www.w3.org/TR/page-visibility/#dfn-determine-the-visibility-state`](https://www.w3.org/TR/page-visibility/#dfn-determine-the-visibility-state)
-     * [`https://www.w3.org/TR/page-visibility/#dfn-external-now-hidden-algorithm`](https://www.w3.org/TR/page-visibility/#dfn-external-now-hidden-algorithm)
-     * [`https://www.w3.org/TR/page-visibility/#dfn-visibility-states`](https://www.w3.org/TR/page-visibility/#dfn-visibility-states)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10885,7 +10945,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Vibration API (Second Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Vibration API (Second Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10898,15 +10958,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/), related reference "PAGE-VISIBILITY-2" uses URL [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+- Missing references for links: 
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#spin-the-event-loop`](https://html.spec.whatwg.org/#spin-the-event-loop)
      * [`https://html.spec.whatwg.org/#the-navigator-object`](https://html.spec.whatwg.org/#the-navigator-object)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
-     * [`https://w3c.github.io/page-visibility/#dfn-steps-to-determine-the-visibility-state`](https://w3c.github.io/page-visibility/#dfn-steps-to-determine-the-visibility-state)
-     * [`https://w3c.github.io/page-visibility/#dfn-visibility-states`](https://w3c.github.io/page-visibility/#dfn-visibility-states)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11052,8 +11110,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#list-of-active-timers`](https://html.spec.whatwg.org/#list-of-active-timers)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
-     * [`https://www.w3.org/TR/page-visibility-2/#dfn-hidden`](https://www.w3.org/TR/page-visibility-2/#dfn-hidden)
-     * [`https://www.w3.org/TR/page-visibility-2/#dfn-visible`](https://www.w3.org/TR/page-visibility-2/#dfn-visible)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11292,7 +11348,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#dom-navigator-useragent`](https://html.spec.whatwg.org/#dom-navigator-useragent)
      * [`https://html.spec.whatwg.org/#dom-navigator-appversion`](https://html.spec.whatwg.org/#dom-navigator-appversion)
-     * [`https://www.w3.org/TR/page-visibility-2/#visibilitystate-attribute`](https://www.w3.org/TR/page-visibility-2/#visibilitystate-attribute)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11967,7 +12022,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
      * [`https://html.spec.whatwg.org/#media-element-event-task-source`](https://html.spec.whatwg.org/#media-element-event-task-source)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
-     * [`https://www.w3.org/TR/page-visibility/#dom-visibilitystate`](https://www.w3.org/TR/page-visibility/#dom-visibilitystate)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11976,7 +12030,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebCodecs {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebCodecs {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11989,9 +12043,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/), related reference "WebRTC-SVC" uses URL [`https://www.w3.org/TR/webrtc-svc/`](https://www.w3.org/TR/webrtc-svc/)
-     * [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/), related reference "PAGE-VISIBILITY-2" uses URL [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
      * [`https://w3c.github.io/media-capabilities/`](https://w3c.github.io/media-capabilities/), related reference "MEDIA-CAPABILITIES" uses URL [`https://www.w3.org/TR/media-capabilities/`](https://www.w3.org/TR/media-capabilities/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
@@ -12034,8 +12089,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set`](https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-document-hidden`](https://www.w3.org/TR/page-visibility-2/#dom-document-hidden)
-     * [`https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden`](https://www.w3.org/TR/page-visibility/#dom-visibilitystate-hidden)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13061,7 +13114,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Crawled URL: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
-- Crawled version: 27 October 2021
+- Crawled version: 9 November 2021
 - Editor's Draft: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
 - Latest published version: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Shortname: openscreenprotocol
@@ -13395,8 +13448,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/push-api/#h-the-push-event`](https://w3c.github.io/push-api/#h-the-push-event)
      * [`https://w3c.github.io/push-api/#dfn-push`](https://w3c.github.io/push-api/#dfn-push)
      * [`https://w3c.github.io/push-api/#dfn-fire-the-push-event`](https://w3c.github.io/push-api/#dfn-fire-the-push-event)
-     * [`https://www.w3.org/TR/page-visibility/#VisibilityState`](https://www.w3.org/TR/page-visibility/#VisibilityState)
-     * [`https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate`](https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate)
      * [`https://wicg.github.io/BackgroundSync/spec/#sync`](https://wicg.github.io/BackgroundSync/spec/#sync)
 
 #### Known dependencies on this specification {.dependencies}
@@ -15460,7 +15511,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
-     * [`https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm`](https://www.w3.org/TR/page-visibility/#dfn-now-visible-algorithm)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15651,6 +15701,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
 
 ### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -15761,7 +15812,6 @@ No informative reference to this spec from other specs.
      * [`https://url.spec.whatwg.org/#host-same-site`](https://url.spec.whatwg.org/#host-same-site)
      * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
      * [`https://heycam.github.io/webidl#dfn-get-buffer-source-reference`](https://heycam.github.io/webidl#dfn-get-buffer-source-reference)
-     * [`https://www.w3.org/TR/page-visibility/#visibility-states`](https://www.w3.org/TR/page-visibility/#visibility-states)
      * [`https://w3c.github.io/webdriver/#dfn-error`](https://w3c.github.io/webdriver/#dfn-error)
 
 #### Known dependencies on this specification {.dependencies}
@@ -15779,7 +15829,7 @@ Informative references to this spec from:
 
 ## Web Bluetooth Community Group {#web_bluetooth_community_group}
 
-### Web Bluetooth {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Web Bluetooth {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15794,10 +15844,11 @@ Informative references to this spec from:
 - Unknown WebIDL names used: `DataView`
 - Missing references for WebIDL names: 
      * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
-     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/), related reference "PAGE-VISIBILITY" uses URL [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -15823,7 +15874,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate`](https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16369,10 +16419,6 @@ No informative reference to this spec from other specs.
 - External links that neither target definitions nor headings:
      * [`https://fetch.spec.whatwg.org/#keep-alive-flag`](https://fetch.spec.whatwg.org/#keep-alive-flag)
 - Broken external links:
-     * [`https://www.w3.org/TR/page-visibility-2/#dfn-visibilitychange`](https://www.w3.org/TR/page-visibility-2/#dfn-visibilitychange)
-     * [`https://www.w3.org/TR/page-visibility-2/#dfn-unload`](https://www.w3.org/TR/page-visibility-2/#dfn-unload)
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate`](https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate)
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-hidden`](https://www.w3.org/TR/page-visibility-2/#dom-visibilitystate-hidden)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#entry-settings-object`](https://html.spec.whatwg.org/#entry-settings-object)
      * [`https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm`](https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm)
@@ -16415,7 +16461,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-setinterval`](https://html.spec.whatwg.org/#dom-setinterval)
      * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
-     * [`https://www.w3.org/TR/page-visibility-2/#dfn-hidden`](https://www.w3.org/TR/page-visibility-2/#dfn-hidden)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16499,6 +16544,7 @@ Normative references to this spec from:
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -16708,81 +16754,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Reporting API 1](https://w3c.github.io/reporting/)
-
-
-### Page Visibility Level 2 {data-spec=true data-error=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/page-visibility-2/](https://www.w3.org/TR/page-visibility-2/)
-- Crawled URL: [[object Object]]([object Object])
-- Editor's Draft: [https://w3c.github.io/page-visibility/](https://w3c.github.io/page-visibility/)
-- Latest published version: [https://www.w3.org/TR/page-visibility-2/](https://www.w3.org/TR/page-visibility-2/)
-- Shortname: page-visibility-2
-
-#### Potential issue(s) {.anomalies}
-
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 362)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Beacon](https://w3c.github.io/beacon/)
-- [Content Index](https://wicg.github.io/content-index/spec/)
-- [Device Posture API](https://w3c.github.io/device-posture/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
-- [Generic Sensor API](https://w3c.github.io/sensors/)
-- [Geolocation API](https://w3c.github.io/geolocation-api/)
-- [Idle Detection API](https://wicg.github.io/idle-detection/)
-- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
-- [Resource Hints](https://w3c.github.io/resource-hints/)
-- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
-- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
-- [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
-- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
-- [WebDriver](https://w3c.github.io/webdriver/)
-
-Informative references to this spec from:
-
-- [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
 
 
 ### Paint Timing 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -17023,11 +16994,11 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/)
      * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
      * [`https://w3c.github.io/webappsec/specs/CSP2/`](https://w3c.github.io/webappsec/specs/CSP2/)
      * [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/), related reference "PAGE-VISIBILITY" uses URL [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
      * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/), related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#resolve-a-url`](https://html.spec.whatwg.org/#resolve-a-url)
@@ -17036,7 +17007,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#cors-settings-attributes`](https://html.spec.whatwg.org/#cors-settings-attributes)
      * [`https://html.spec.whatwg.org/#origin-2`](https://html.spec.whatwg.org/#origin-2)
      * [`https://html.spec.whatwg.org/#delay-the-load-event`](https://html.spec.whatwg.org/#delay-the-load-event)
-     * [`https://w3c.github.io/page-visibility/#visibilitystate-attribute`](https://w3c.github.io/page-visibility/#visibilitystate-attribute)
      * [`https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable`](https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
@@ -17843,7 +17813,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
-     * [`https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate`](https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate)
      * [`https://dom.spec.whatwg.org/#context-object`](https://dom.spec.whatwg.org/#context-object)
 
 #### Known dependencies on this specification {.dependencies}
@@ -18514,8 +18483,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - Broken external links:
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-document-hidden`](https://www.w3.org/TR/page-visibility-2/#dom-document-hidden)
-     * [`https://www.w3.org/TR/page-visibility-2/#dom-document-onvisibilitychange`](https://www.w3.org/TR/page-visibility-2/#dom-document-onvisibilitychange)
      * [`https://html.spec.whatwg.org/#handler-onmousemove`](https://html.spec.whatwg.org/#handler-onmousemove)
      * [`https://html.spec.whatwg.org/#handler-onkeypress`](https://html.spec.whatwg.org/#handler-onkeypress)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -18860,7 +18827,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
-     * [`https://w3c.github.io/page-visibility/#dom-document-onvisibilitychange`](https://w3c.github.io/page-visibility/#dom-document-onvisibilitychange)
      * [`https://www.w3.org/TR/css-values-4/#pixel-unit`](https://www.w3.org/TR/css-values-4/#pixel-unit)
 
 #### Known dependencies on this specification {.dependencies}
@@ -19191,7 +19157,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Page Lifecycle {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Page Lifecycle {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19205,8 +19171,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/), related reference "PAGE-VISIBILITY" uses URL [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - Broken external links:
      * [`https://dom.spec.whatwg.org/#context-object`](https://dom.spec.whatwg.org/#context-object)
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
@@ -19250,7 +19215,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-media-paused`](https://html.spec.whatwg.org/#dom-media-paused)
      * [`https://html.spec.whatwg.org/#internal-pause-steps`](https://html.spec.whatwg.org/#internal-pause-steps)
      * [`https://html.spec.whatwg.org/#internal-play-steps`](https://html.spec.whatwg.org/#internal-play-steps)
-     * [`https://www.w3.org/TR/page-visibility-2/#visibility-states-and-the-visibilitystate-enum`](https://www.w3.org/TR/page-visibility-2/#visibility-states-and-the-visibilitystate-enum)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20243,6 +20207,31 @@ Informative references to this spec from:
 - [Web Serial API](https://wicg.github.io/serial/)
 
 
+### Window Controls Overlay {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
+- Crawled URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
+- Crawled version: 08 November 2021
+- Editor's Draft: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
+- Shortname: window-controls-overlay
+
+#### Potential issue(s) {.anomalies}
+
+- Unknown WebIDL names used: `WindowControlsOverlayGeometryChangeEventInit`
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ## Web Platform Working Group {#web_platform_working_group}
 
 ### DOM Parsing and Serialization {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -20415,51 +20404,21 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Identifiers for WebRTC's Statistics API {data-spec=true data-error=true}
+### Identifiers for WebRTC's Statistics API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
-- Crawled URL: [[object Object]]([object Object])
+- Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
+- Crawled version: 15 July 2021
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 430)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20513,7 +20472,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 
 Informative references to this spec from:
 
@@ -20594,6 +20555,7 @@ Normative references to this spec from:
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
@@ -20797,7 +20759,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-imagebitmap-height`](https://html.spec.whatwg.org/#dom-imagebitmap-height)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://w3c.github.io/permissions/#request-permission-to-use`](https://w3c.github.io/permissions/#request-permission-to-use)
-     * [`https://www.w3.org/TR/page-visibility/#dom-visibilitystate`](https://www.w3.org/TR/page-visibility/#dom-visibilitystate)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20953,7 +20914,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `RTCStatsType`
+- Unknown WebIDL names used: `ArrayBuffer`
 - Possibly no definition for IDL properties: 
      * `setStreams(...streams)` with type `method` for [`RTCRtpSender`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender), but found [`setStreams()`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams) with type `method` for `RTCRtpSender`
      * `addTrack(track, ...streams)` with type `method` for [`RTCPeerConnection`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection), but found [`addTrack()`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack) with type `method` for `RTCPeerConnection`
@@ -20985,124 +20946,13 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#binarytype`](https://html.spec.whatwg.org/#binarytype)
      * [`https://html.spec.whatwg.org/#dom-websocket-binarytype`](https://html.spec.whatwg.org/#dom-websocket-binarytype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dfn-stats-object`](https://www.w3.org/TR/webrtc-stats/#dfn-stats-object)
-     * [`https://www.w3.org/TR/webrtc-stats/#dfn-monitored-object`](https://www.w3.org/TR/webrtc-stats/#dfn-monitored-object)
-     * [`https://www.w3.org/TR/webrtc-stats/#lifetime-considerations-for-monitored-objects`](https://www.w3.org/TR/webrtc-stats/#lifetime-considerations-for-monitored-objects)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-ssrc`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-ssrc)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-packetssent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats-packetssent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-codec`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-codec)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-payloadtype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-payloadtype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-mimetype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-mimetype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-clockrate`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-clockrate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-channels`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-channels)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-sdpfmtpline`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-sdpfmtpline)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-inbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-inbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-kind`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-kind)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-transportid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-transportid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-codecid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcrtpstreamstats-codecid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetslost`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetslost)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-framesdropped`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-framesdropped)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-remoteid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-remoteid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesdecoded`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesdecoded)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-nackcount`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-nackcount)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-framesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalaudioenergy`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalaudioenergy)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalsamplesduration`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-totalsamplesduration)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-outbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-outbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcsentrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-remoteid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-remoteid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framesencoded`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framesencoded)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-nackcount`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-nackcount)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-framessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-inbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-inbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-localid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-localid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-roundtriptime`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteinboundrtpstreamstats-roundtriptime)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-outbound-rtp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-outbound-rtp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-localid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-localid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-remotetimestamp`](https://www.w3.org/TR/webrtc-stats/#dom-rtcremoteoutboundrtpstreamstats-remotetimestamp)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-media-source`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-media-source)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-trackidentifier`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-trackidentifier)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-kind`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats-kind)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalaudioenergy`](https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalaudioenergy)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalsamplesduration`](https://www.w3.org/TR/webrtc-stats/#dom-rtcaudiosourcestats-totalsamplesduration)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-width`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-width)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-height`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-height)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-framespersecond`](https://www.w3.org/TR/webrtc-stats/#dom-rtcvideosourcestats-framespersecond)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-peer-connection`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-peer-connection)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsopened`](https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsopened)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsclosed`](https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats-datachannelsclosed)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-data-channel`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-data-channel)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-label`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-label)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-protocol`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-protocol)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-datachannelidentifier`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-datachannelidentifier)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-state`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-state)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-messagesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcdatachannelstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-transport`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-transport)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-selectedcandidatepairid`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-selectedcandidatepairid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-localcertificateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-localcertificateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-remotecertificateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtctransportstats-remotecertificateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-candidate-pair`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-candidate-pair)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-transportid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-transportid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-state`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-state)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-local-candidate`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-local-candidate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-address`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-address)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-port`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-port)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-protocol`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-protocol)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-candidatetype`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-candidatetype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-url`](https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatestats-url)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-candidate`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-remote-candidate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-certificate`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-certificate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprint`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprint)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprintalgorithm`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-fingerprintalgorithm)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-base64certificate`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-base64certificate)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-issuercertificateid`](https://www.w3.org/TR/webrtc-stats/#dom-rtccertificatestats-issuercertificateid)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
@@ -21171,7 +21021,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 
 No informative reference to this spec from other specs.
 
@@ -21650,6 +21502,7 @@ Normative references to this spec from:
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
 Informative references to this spec from:
@@ -22697,6 +22550,7 @@ Normative references to this spec from:
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
 Informative references to this spec from:
@@ -22824,6 +22678,7 @@ Normative references to this spec from:
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Import Maps](https://wicg.github.io/import-maps/)
@@ -22904,6 +22759,7 @@ Normative references to this spec from:
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
 Informative references to this spec from:
@@ -23398,6 +23254,7 @@ Normative references to this spec from:
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
@@ -23474,6 +23331,7 @@ Normative references to this spec from:
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
