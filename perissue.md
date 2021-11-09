@@ -322,7 +322,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `AuthenticationExtensionsClientInputs` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
     * `CollectedClientData` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- [Web Neural Network API](https://webmachinelearning.github.io/webnn/) uses `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/) uses:
     * `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
     * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -388,7 +387,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 66 missing references for IDL definitions found in 34 specifications
+=> 65 missing references for IDL definitions found in 33 specifications
 
 
 ## No definition for CSS properties
