@@ -1153,6 +1153,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation)
 
@@ -10712,51 +10713,24 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### HTML Media Capture {data-spec=true data-error=true}
+### HTML Media Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
-- Crawled URL: [[object Object]]([object Object])
+- Crawled URL: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
+- Crawled version: 01 February 2018
 - Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
 - Latest published version: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
 - Shortname: html-media-capture
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 340)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
+- External links to outdated specs:
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12063,7 +12037,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 20 October 2021
+- Crawled version: 10 November 2021
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -12114,6 +12088,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set`](https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set)
+     * [`https://html.spec.whatwg.org/#dom-document-hidden`](https://html.spec.whatwg.org/#dom-document-hidden)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
 
@@ -14338,7 +14313,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/referrer-policy/](https://www.w3.org/TR/referrer-policy/)
 - Crawled URL: [https://w3c.github.io/webappsec-referrer-policy/](https://w3c.github.io/webappsec-referrer-policy/)
-- Crawled version: 22 January 2021
+- Crawled version: 10 November 2021
 - Editor's Draft: [https://w3c.github.io/webappsec-referrer-policy/](https://w3c.github.io/webappsec-referrer-policy/)
 - Latest published version: [https://www.w3.org/TR/referrer-policy/](https://www.w3.org/TR/referrer-policy/)
 - Shortname: referrer-policy
@@ -14371,25 +14346,20 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#referrer-policy-attribute`](https://html.spec.whatwg.org/#referrer-policy-attribute)
-     * [`https://html.spec.whatwg.org/#an-iframe-srcdoc-document`](https://html.spec.whatwg.org/#an-iframe-srcdoc-document)
-     * [`https://html.spec.whatwg.org/#bc-container-document`](https://html.spec.whatwg.org/#bc-container-document)
-     * [`https://html.spec.whatwg.org/#concept-settings-object-referrer-policy`](https://html.spec.whatwg.org/#concept-settings-object-referrer-policy)
-     * [`https://html.spec.whatwg.org/#javascript-protocol`](https://html.spec.whatwg.org/#javascript-protocol)
-     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
-     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#initialise-the-document-object`](https://html.spec.whatwg.org/#initialise-the-document-object)
-     * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
-     * [`https://html.spec.whatwg.org/#creating-a-new-browsing-context`](https://html.spec.whatwg.org/#creating-a-new-browsing-context)
-     * [`https://html.spec.whatwg.org/#about:blank`](https://html.spec.whatwg.org/#about:blank)
+     * [`https://html.spec.whatwg.org/#policy-container`](https://html.spec.whatwg.org/#policy-container)
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#run-a-worker`](https://html.spec.whatwg.org/#run-a-worker)
+     * [`https://html.spec.whatwg.org/#concept-document-policy-container`](https://html.spec.whatwg.org/#concept-document-policy-container)
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
+     * [`https://html.spec.whatwg.org/#concept-workerglobalscope-policy-container`](https://html.spec.whatwg.org/#concept-workerglobalscope-policy-container)
+     * [`https://html.spec.whatwg.org/#policy-container-referrer-policy`](https://html.spec.whatwg.org/#policy-container-referrer-policy)
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
      * [`https://html.spec.whatwg.org/#presentational-hints`](https://html.spec.whatwg.org/#presentational-hints)
      * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#concept-origin-opaque`](https://html.spec.whatwg.org/#concept-origin-opaque)
+     * [`https://html.spec.whatwg.org/#an-iframe-srcdoc-document`](https://html.spec.whatwg.org/#an-iframe-srcdoc-document)
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#concept-environment-creation-url`](https://html.spec.whatwg.org/#concept-environment-creation-url)
@@ -15099,6 +15069,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File System Access](https://wicg.github.io/file-system-access/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
@@ -18113,7 +18084,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Crawled URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
-- Crawled version: 19 May 2021
+- Crawled version: 10 November 2021
 - Editor's Draft: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Shortname: element-timing
 
@@ -18129,12 +18100,12 @@ No informative reference to this spec from other specs.
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#resolve-a-url`](https://html.spec.whatwg.org/#resolve-a-url)
+     * [`https://html.spec.whatwg.org/#image-request`](https://html.spec.whatwg.org/#image-request)
+     * [`https://html.spec.whatwg.org/#img-req-url`](https://html.spec.whatwg.org/#img-req-url)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
      * [`https://html.spec.whatwg.org/#htmlimageelement`](https://html.spec.whatwg.org/#htmlimageelement)
      * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
-     * [`https://html.spec.whatwg.org/#image-request`](https://html.spec.whatwg.org/#image-request)
      * [`https://html.spec.whatwg.org/#list-of-available-images`](https://html.spec.whatwg.org/#list-of-available-images)
      * [`https://html.spec.whatwg.org/#img-all`](https://html.spec.whatwg.org/#img-all)
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
@@ -20436,7 +20407,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Crawled version: 15 July 2021
+- Crawled version: 10 November 2021
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
@@ -20579,6 +20550,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
@@ -22431,6 +22403,7 @@ Normative references to this spec from:
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
@@ -23266,6 +23239,7 @@ Normative references to this spec from:
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Event Timing API](https://wicg.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
@@ -23276,6 +23250,7 @@ Normative references to this spec from:
 - [Geolocation API](https://w3c.github.io/geolocation-api/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
