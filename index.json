@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-11T12:47:34.238Z",
+  "date": "2021-11-11T18:42:58.330Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -2131,7 +2131,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "18 October 2021",
+      "date": "11 November 2021",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2164,6 +2164,7 @@
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [],
@@ -61382,7 +61383,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "10 November 2021",
+      "date": "11 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61497,7 +61498,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "10 November 2021",
+      "date": "11 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
