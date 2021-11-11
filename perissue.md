@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 10, 2021
+% November 11, 2021
 
 449 specifications were crawled in this report.
 
@@ -189,11 +189,10 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `Uint8ClampedArray` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `VisibilityState` used in [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - `WebAppManifest` used in [Web Share Target API](https://w3c.github.io/web-share-target/)
-- `WindowControlsOverlayGeometryChangeEventInit` used in [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 22 WebIDL names found
+=> 21 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
@@ -8410,7 +8409,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-origin-opaque`](https://html.spec.whatwg.org/#concept-origin-opaque)
      * [`https://html.spec.whatwg.org/#concept-environment-id`](https://html.spec.whatwg.org/#concept-environment-id)
      * [`https://html.spec.whatwg.org/#responsible-event-loop`](https://html.spec.whatwg.org/#responsible-event-loop)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/):
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
@@ -8994,6 +8992,7 @@ Links in the body of a specification should be to the same document as that poin
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/):
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#dom-window`](https://html.spec.whatwg.org/#dom-window)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
