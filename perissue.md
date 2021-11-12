@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 11, 2021
+% November 12, 2021
 
 449 specifications were crawled in this report.
 
@@ -1949,7 +1949,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Private Network Access](https://wicg.github.io/private-network-access/) links to:
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/) links to [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/) but related reference "CSSOM" uses URL [`https://drafts.csswg.org/cssom/`](https://drafts.csswg.org/cssom/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/) links to [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
 - [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 - [Reporting API 1](https://w3c.github.io/reporting/) links to:
@@ -2245,6 +2245,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css2/#canvas`](https://drafts.csswg.org/css2/#canvas)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/):
      * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -2742,10 +2743,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/sensors/#get-value-from-latest-reading`](https://w3c.github.io/sensors/#get-value-from-latest-reading)
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/):
-     * [`https://drafts.csswg.org/css2/conform.html#illegal`](https://drafts.csswg.org/css2/conform.html#illegal)
-     * [`https://drafts.csswg.org/css2/conform.html#replaced-element`](https://drafts.csswg.org/css2/conform.html#replaced-element)
      * [`https://drafts.csswg.org/css2/box.html#border-edge`](https://drafts.csswg.org/css2/box.html#border-edge)
      * [`https://drafts.csswg.org/css2/box.html#content-edge`](https://drafts.csswg.org/css2/box.html#content-edge)
+     * [`https://drafts.csswg.org/css2/conform.html#replaced-element`](https://drafts.csswg.org/css2/conform.html#replaced-element)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/):
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location)
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-node`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-node)
@@ -3129,7 +3129,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 837 problematic external links found in 193 specifications
+=> 836 problematic external links found in 194 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -4862,7 +4862,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/):
-     * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
      * [`https://html.spec.whatwg.org/#the-mark-element`](https://html.spec.whatwg.org/#the-mark-element)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/):
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
@@ -6125,6 +6124,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml`](https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml)
      * [`https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager`](https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager)
      * [`https://drafts.csswg.org/css-syntax/#conform-classes`](https://drafts.csswg.org/css-syntax/#conform-classes)
+     * [`https://drafts.csswg.org/css-color/#valdef-color-profile-rendering-intent-relative-colorimetric`](https://drafts.csswg.org/css-color/#valdef-color-profile-rendering-intent-relative-colorimetric)
      * [`https://drafts.csswg.org/css-align/#propdef-propdef-justify-content`](https://drafts.csswg.org/css-align/#propdef-propdef-justify-content)
      * [`https://drafts.csswg.org/css-align/#propdef-propdef-justify-items`](https://drafts.csswg.org/css-align/#propdef-propdef-justify-items)
      * [`https://drafts.csswg.org/css-grid/#propdef-grid-column-gap`](https://drafts.csswg.org/css-grid/#propdef-grid-column-gap)
@@ -7346,8 +7346,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-td-element`](https://html.spec.whatwg.org/#the-td-element)
      * [`https://html.spec.whatwg.org/#the-th-element`](https://html.spec.whatwg.org/#the-th-element)
      * [`https://html.spec.whatwg.org/#the-table-element`](https://html.spec.whatwg.org/#the-table-element)
-     * [`https://drafts.csswg.org/css-color-3/#valuea-def-color`](https://drafts.csswg.org/css-color-3/#valuea-def-color)
-     * [`https://www.w3.org/TR/cssom-1/#css`](https://www.w3.org/TR/cssom-1/#css)
      * [`https://drafts.csswg.org/css2/visuren.html#block-container-element`](https://drafts.csswg.org/css2/visuren.html#block-container-element)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/):
      * [`https://html.spec.whatwg.org/#link-type-noreferrer`](https://html.spec.whatwg.org/#link-type-noreferrer)
@@ -9017,7 +9015,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4718 problematic external links found in 292 specifications
+=> 4716 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

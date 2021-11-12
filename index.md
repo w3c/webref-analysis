@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 11, 2021
+% November 12, 2021
 
 # Ecma International {#ecma_international}
 
@@ -603,7 +603,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -632,7 +632,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -692,7 +692,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1113,7 +1113,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1136,7 +1136,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1166,7 +1166,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1206,7 +1206,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1239,7 +1239,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1268,7 +1268,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 11 November 2021
+- Crawled version: 12 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -5233,6 +5233,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
@@ -5391,7 +5392,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
-- Crawled version: 3 November 2021
+- Crawled version: 11 November 2021
 - Editor's Draft: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5409,9 +5410,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
 - Broken external links:
-     * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
      * [`https://html.spec.whatwg.org/#the-mark-element`](https://html.spec.whatwg.org/#the-mark-element)
 
 #### Known dependencies on this specification {.dependencies}
@@ -5439,7 +5438,6 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
-- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
@@ -5471,20 +5469,21 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Color Module Level 5 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Color Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 1 November 2021
+- Crawled version: 11 November 2021
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- External links to private terms:
+     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5551,7 +5550,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 Informative references to this spec from:
@@ -6860,7 +6858,6 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 Informative references to this spec from:
@@ -7101,7 +7098,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 Informative references to this spec from:
@@ -7348,6 +7344,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
@@ -7381,7 +7378,6 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
@@ -7395,6 +7391,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
@@ -8510,6 +8507,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
@@ -8545,7 +8543,6 @@ Normative references to this spec from:
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -9282,7 +9279,6 @@ Normative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
@@ -17437,7 +17433,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 9 November 2021
+- Crawled version: 11 November 2021
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -21620,7 +21616,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
@@ -22286,6 +22282,7 @@ Informative references to this spec from:
      * [`https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml`](https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml)
      * [`https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager`](https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager)
      * [`https://drafts.csswg.org/css-syntax/#conform-classes`](https://drafts.csswg.org/css-syntax/#conform-classes)
+     * [`https://drafts.csswg.org/css-color/#valdef-color-profile-rendering-intent-relative-colorimetric`](https://drafts.csswg.org/css-color/#valdef-color-profile-rendering-intent-relative-colorimetric)
      * [`https://drafts.csswg.org/css-align/#propdef-propdef-justify-content`](https://drafts.csswg.org/css-align/#propdef-propdef-justify-content)
      * [`https://drafts.csswg.org/css-align/#propdef-propdef-justify-items`](https://drafts.csswg.org/css-align/#propdef-propdef-justify-items)
      * [`https://drafts.csswg.org/css-grid/#propdef-grid-column-gap`](https://drafts.csswg.org/css-grid/#propdef-grid-column-gap)
@@ -22881,19 +22878,18 @@ Informative references to this spec from:
 
 - Initial URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
 - Crawled URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
-- Crawled version: 23 March 2021
+- Crawled version: 11 November 2021
 - Editor's Draft: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
 - Shortname: quirks
 
 #### Potential issue(s) {.anomalies}
 
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/), related reference "CSSOM" uses URL [`https://drafts.csswg.org/cssom/`](https://drafts.csswg.org/cssom/)
+     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
 - External links to private terms:
-     * [`https://drafts.csswg.org/css2/conform.html#illegal`](https://drafts.csswg.org/css2/conform.html#illegal)
-     * [`https://drafts.csswg.org/css2/conform.html#replaced-element`](https://drafts.csswg.org/css2/conform.html#replaced-element)
      * [`https://drafts.csswg.org/css2/box.html#border-edge`](https://drafts.csswg.org/css2/box.html#border-edge)
      * [`https://drafts.csswg.org/css2/box.html#content-edge`](https://drafts.csswg.org/css2/box.html#content-edge)
+     * [`https://drafts.csswg.org/css2/conform.html#replaced-element`](https://drafts.csswg.org/css2/conform.html#replaced-element)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-initial-insertion-mode`](https://html.spec.whatwg.org/#the-initial-insertion-mode)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
@@ -22904,8 +22900,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-td-element`](https://html.spec.whatwg.org/#the-td-element)
      * [`https://html.spec.whatwg.org/#the-th-element`](https://html.spec.whatwg.org/#the-th-element)
      * [`https://html.spec.whatwg.org/#the-table-element`](https://html.spec.whatwg.org/#the-table-element)
-     * [`https://drafts.csswg.org/css-color-3/#valuea-def-color`](https://drafts.csswg.org/css-color-3/#valuea-def-color)
-     * [`https://www.w3.org/TR/cssom-1/#css`](https://www.w3.org/TR/cssom-1/#css)
      * [`https://drafts.csswg.org/css2/visuren.html#block-container-element`](https://drafts.csswg.org/css2/visuren.html#block-container-element)
 
 #### Known dependencies on this specification {.dependencies}
@@ -22917,6 +22911,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 
 

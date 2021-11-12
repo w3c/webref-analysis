@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-11T18:42:58.330Z",
+  "date": "2021-11-12T00:51:31.243Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -1248,7 +1248,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "9 November 2021",
+      "date": "11 November 2021",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -7086,6 +7086,11 @@
               "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-5/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -7624,7 +7629,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "3 November 2021",
+      "date": "11 November 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7781,11 +7786,6 @@
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-scoping-1/",
-              "title": "CSS Scoping Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scoping/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars/"
@@ -7921,12 +7921,10 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
+            "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://html.spec.whatwg.org/#the-mark-element"
           ],
           "evolvingLinks": [],
@@ -7939,7 +7937,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "1 November 2021",
+      "date": "11 November 2021",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8044,7 +8042,17 @@
             }
           ]
         },
-        "ok": true
+        "xrefs": {
+          "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
+          ],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
       }
     },
     {
@@ -8176,11 +8184,6 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
-            },
-            {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -11883,11 +11886,6 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -12519,11 +12517,6 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -13121,6 +13114,11 @@
               "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-5/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -13286,11 +13284,6 @@
               "crawled": "https://w3c.github.io/input-events/"
             },
             {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
-            },
-            {
               "url": "https://www.w3.org/TR/referrer-policy/",
               "title": "Referrer Policy",
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
@@ -13341,6 +13334,11 @@
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
               "url": "https://webidl.spec.whatwg.org/",
@@ -16323,6 +16321,11 @@
               "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-5/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -16496,11 +16499,6 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
-            },
-            {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
               "url": "https://drafts.csswg.org/scroll-animations-1/",
@@ -18804,11 +18802,6 @@
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
-            },
-            {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -23283,9 +23276,9 @@
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
+              "url": "https://www.w3.org/TR/css-color-5/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -34440,6 +34433,7 @@
             "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml",
             "https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager",
             "https://drafts.csswg.org/css-syntax/#conform-classes",
+            "https://drafts.csswg.org/css-color/#valdef-color-profile-rendering-intent-relative-colorimetric",
             "https://drafts.csswg.org/css-align/#propdef-propdef-justify-content",
             "https://drafts.csswg.org/css-align/#propdef-propdef-justify-items",
             "https://drafts.csswg.org/css-grid/#propdef-grid-column-gap",
@@ -44092,7 +44086,7 @@
     {
       "title": "Quirks Mode Standard",
       "shortname": "quirks",
-      "date": "23 March 2021",
+      "date": "11 November 2021",
       "url": "https://quirks.spec.whatwg.org/",
       "nightly": {
         "url": "https://quirks.spec.whatwg.org/",
@@ -44123,10 +44117,10 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/cssom-1/",
+            "link": "https://www.w3.org/TR/css-values-4/",
             "ref": {
-              "name": "CSSOM",
-              "url": "https://drafts.csswg.org/cssom/"
+              "name": "CSS-VALUES-4",
+              "url": "https://drafts.csswg.org/css-values-4/"
             }
           }
         ],
@@ -44145,6 +44139,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors/"
@@ -44153,10 +44152,9 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/css2/conform.html#illegal",
-            "https://drafts.csswg.org/css2/conform.html#replaced-element",
             "https://drafts.csswg.org/css2/box.html#border-edge",
-            "https://drafts.csswg.org/css2/box.html#content-edge"
+            "https://drafts.csswg.org/css2/box.html#content-edge",
+            "https://drafts.csswg.org/css2/conform.html#replaced-element"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -44169,8 +44167,6 @@
             "https://html.spec.whatwg.org/#the-td-element",
             "https://html.spec.whatwg.org/#the-th-element",
             "https://html.spec.whatwg.org/#the-table-element",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
-            "https://www.w3.org/TR/cssom-1/#css",
             "https://drafts.csswg.org/css2/visuren.html#block-container-element"
           ],
           "evolvingLinks": [],
@@ -45236,7 +45232,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45301,7 +45297,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45339,7 +45335,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45428,7 +45424,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45502,7 +45498,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45560,7 +45556,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45598,7 +45594,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45654,7 +45650,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45710,7 +45706,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "11 November 2021",
+      "date": "12 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
