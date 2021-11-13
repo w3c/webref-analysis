@@ -238,7 +238,6 @@
   <li><code>AuthenticationExtensionsClientInputs</code> but does not reference <a href="https://w3c.github.io/webauthn/">Web Authentication: An API for accessing Public Key Credentials - Level 3</a></li>
   <li><code>CollectedClientData</code> but does not reference <a href="https://w3c.github.io/webauthn/">Web Authentication: An API for accessing Public Key Credentials - Level 3</a></li>
   </ul></li>
-  <li><a href="https://webbluetoothcg.github.io/web-bluetooth/">Web Bluetooth</a> uses <code>BufferSource</code> but does not reference <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><a href="https://www.khronos.org/registry/webgl/specs/latest/2.0/">WebGL 2.0 Specification</a> uses:
   <ul>
   <li><code>ArrayBufferView</code> but does not reference <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
@@ -332,7 +331,7 @@
   <li><code>WebGLTexture</code> but does not reference <a href="https://www.khronos.org/registry/webgl/specs/latest/1.0/">WebGL Specification</a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 65 missing references for IDL definitions found in 33 specifications</p>
+  <p>=&gt; 64 missing references for IDL definitions found in 32 specifications</p>
   </section>
   <section id="no-definition-for-css-properties" class="level2">
   <h2>No definition for CSS properties</h2>
@@ -2577,7 +2576,11 @@
   <li><a href="https://w3c.github.io/webappsec-permissions-policy/"><code>https://w3c.github.io/webappsec-permissions-policy/</code></a> but related reference “Permissions-Policy” uses URL <a href="https://www.w3.org/TR/permissions-policy-1/"><code>https://www.w3.org/TR/permissions-policy-1/</code></a></li>
   <li><a href="https://w3c.github.io/FileAPI/"><code>https://w3c.github.io/FileAPI/</code></a> but related reference “FileAPI” uses URL <a href="https://www.w3.org/TR/FileAPI/"><code>https://www.w3.org/TR/FileAPI/</code></a></li>
   </ul></li>
-  <li><a href="https://wicg.github.io/background-sync/spec/">Web Background Synchronization</a> links to <a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
+  <li><a href="https://wicg.github.io/background-sync/spec/">Web Background Synchronization</a> links to:
+  <ul>
+  <li><a href="https://w3c.github.io/permissions/"><code>https://w3c.github.io/permissions/</code></a> but related reference “PERMISSIONS” uses URL <a href="https://www.w3.org/TR/permissions/"><code>https://www.w3.org/TR/permissions/</code></a></li>
+  <li><a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
+  </ul></li>
   <li><a href="https://webbluetoothcg.github.io/web-bluetooth/">Web Bluetooth</a> links to:
   <ul>
   <li><a href="https://w3c.github.io/fingerprinting-guidance/"><code>https://w3c.github.io/fingerprinting-guidance/</code></a> but related reference “FINGERPRINTING-GUIDANCE” uses URL <a href="https://www.w3.org/TR/fingerprinting-guidance/"><code>https://www.w3.org/TR/fingerprinting-guidance/</code></a></li>
@@ -2627,7 +2630,7 @@
   <li><a href="https://immersive-web.github.io/webxr-gamepads-module/">WebXR Gamepads Module - Level 1</a> links to <a href="https://w3c.github.io/gamepad/"><code>https://w3c.github.io/gamepad/</code></a> but related reference “GAMEPAD” uses URL <a href="https://www.w3.org/TR/gamepad/"><code>https://www.w3.org/TR/gamepad/</code></a></li>
   <li><a href="https://immersive-web.github.io/webxr-hand-input/">WebXR Hand Input Module - Level 1</a> links to <a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
   </ul>
-  <p>=&gt; 340 inconsistent references for links found in 179 specifications</p>
+  <p>=&gt; 341 inconsistent references for links found in 179 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
@@ -5080,11 +5083,9 @@
   <ul>
   <li><a href="https://www.w3.org/TR/html/#the-div-element"><code>https://www.w3.org/TR/html/#the-div-element</code></a></li>
   <li><a href="https://www.w3.org/TR/html/#the-span-element"><code>https://www.w3.org/TR/html/#the-span-element</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#enumerated-attribute"><code>https://html.spec.whatwg.org/#enumerated-attribute</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#missing-value-default"><code>https://html.spec.whatwg.org/#missing-value-default</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#invalid-value-default"><code>https://html.spec.whatwg.org/#invalid-value-default</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes"><code>https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#canonical-keyword"><code>https://html.spec.whatwg.org/#canonical-keyword</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#enumerated-attribute"><code>https://html.spec.whatwg.org/#enumerated-attribute</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#translatable-attributes"><code>https://html.spec.whatwg.org/#translatable-attributes</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#reflect"><code>https://html.spec.whatwg.org/#reflect</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#keywords-and-enumerated-attributes"><code>https://html.spec.whatwg.org/#keywords-and-enumerated-attributes</code></a></li>
@@ -5815,7 +5816,6 @@
   <li><a href="https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin"><code>https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#worker"><code>https://html.spec.whatwg.org/#worker</code></a></li>
-  <li><a href="https://dom.spec.whatwg.org/#abortsignal-aborted-flag"><code>https://dom.spec.whatwg.org/#abortsignal-aborted-flag</code></a></li>
   </ul></li>
   <li><a href="https://wicg.github.io/credentiallessness/">Cross-Origin-Embedder-Policy: credentialless</a>:
   <ul>
@@ -9894,7 +9894,6 @@
   <li><a href="https://html.spec.whatwg.org/#concept-settings-object-global"><code>https://html.spec.whatwg.org/#concept-settings-object-global</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#event-handler-idl-attributes"><code>https://html.spec.whatwg.org/#event-handler-idl-attributes</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#navigator"><code>https://html.spec.whatwg.org/#navigator</code></a></li>
-  <li><a href="https://dom.spec.whatwg.org/#abortsignal-aborted-flag"><code>https://dom.spec.whatwg.org/#abortsignal-aborted-flag</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/webcrypto/">Web Cryptography API</a>:
   <ul>
@@ -9948,14 +9947,14 @@
   <li><a href="https://html.spec.whatwg.org/#enqueue-the-following-steps"><code>https://html.spec.whatwg.org/#enqueue-the-following-steps</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#browsing-context"><code>https://html.spec.whatwg.org/#browsing-context</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-origin"><code>https://html.spec.whatwg.org/#concept-origin</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#environment-settings-object"><code>https://html.spec.whatwg.org/#environment-settings-object</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-origin-opaque"><code>https://html.spec.whatwg.org/#concept-origin-opaque</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-localstorage"><code>https://html.spec.whatwg.org/#dom-localstorage</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#navigator"><code>https://html.spec.whatwg.org/#navigator</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#workernavigator"><code>https://html.spec.whatwg.org/#workernavigator</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#environment-settings-object"><code>https://html.spec.whatwg.org/#environment-settings-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#relevant-settings-object"><code>https://html.spec.whatwg.org/#relevant-settings-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#responsible-document"><code>https://html.spec.whatwg.org/#responsible-document</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#fully-active"><code>https://html.spec.whatwg.org/#fully-active</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-origin-opaque"><code>https://html.spec.whatwg.org/#concept-origin-opaque</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-environment-id"><code>https://html.spec.whatwg.org/#concept-environment-id</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#responsible-event-loop"><code>https://html.spec.whatwg.org/#responsible-event-loop</code></a></li>
   </ul></li>
@@ -10634,7 +10633,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 4716 problematic external links found in 292 specifications</p>
+  <p>=&gt; 4712 problematic external links found in 292 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>

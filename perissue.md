@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 12, 2021
+% November 13, 2021
 
 449 specifications were crawled in this report.
 
@@ -226,7 +226,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation) uses:
     * `AuthenticationExtensionsClientInputs` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
     * `CollectedClientData` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
-- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/) uses:
     * `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
     * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -292,7 +291,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 65 missing references for IDL definitions found in 33 specifications
+=> 64 missing references for IDL definitions found in 32 specifications
 
 
 ## No definition for CSS properties
@@ -2055,7 +2054,9 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
-- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/) links to:
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) links to:
     * [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -2091,7 +2092,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 340 inconsistent references for links found in 179 specifications
+=> 341 inconsistent references for links found in 179 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -4036,11 +4037,9 @@ Links in the body of a specification should be to the same document as that poin
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/):
      * [`https://www.w3.org/TR/html/#the-div-element`](https://www.w3.org/TR/html/#the-div-element)
      * [`https://www.w3.org/TR/html/#the-span-element`](https://www.w3.org/TR/html/#the-span-element)
-     * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#missing-value-default`](https://html.spec.whatwg.org/#missing-value-default)
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
-     * [`https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes`](https://html.spec.whatwg.org/#reflecting-content-attributes-in-idl-attributes)
-     * [`https://html.spec.whatwg.org/#canonical-keyword`](https://html.spec.whatwg.org/#canonical-keyword)
+     * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#translatable-attributes`](https://html.spec.whatwg.org/#translatable-attributes)
      * [`https://html.spec.whatwg.org/#reflect`](https://html.spec.whatwg.org/#reflect)
      * [`https://html.spec.whatwg.org/#keywords-and-enumerated-attributes`](https://html.spec.whatwg.org/#keywords-and-enumerated-attributes)
@@ -4721,7 +4720,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#worker`](https://html.spec.whatwg.org/#worker)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [Cross-Origin-Embedder-Policy: credentialless](https://wicg.github.io/credentiallessness/):
      * [`https://html.spec.whatwg.org/#embedder-policy-value`](https://html.spec.whatwg.org/#embedder-policy-value)
      * [`https://html.spec.whatwg.org/#coep`](https://html.spec.whatwg.org/#coep)
@@ -8350,7 +8348,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/):
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -8398,14 +8395,14 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#enqueue-the-following-steps`](https://html.spec.whatwg.org/#enqueue-the-following-steps)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-origin-opaque`](https://html.spec.whatwg.org/#concept-origin-opaque)
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
-     * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
-     * [`https://html.spec.whatwg.org/#concept-origin-opaque`](https://html.spec.whatwg.org/#concept-origin-opaque)
      * [`https://html.spec.whatwg.org/#concept-environment-id`](https://html.spec.whatwg.org/#concept-environment-id)
      * [`https://html.spec.whatwg.org/#responsible-event-loop`](https://html.spec.whatwg.org/#responsible-event-loop)
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/):
@@ -9015,7 +9012,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4716 problematic external links found in 292 specifications
+=> 4712 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
