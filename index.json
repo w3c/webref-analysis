@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-15T12:48:05.522Z",
+  "date": "2021-11-15T18:40:56.913Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -1350,7 +1350,7 @@
     {
       "title": "Audio Output Devices API",
       "shortname": "audio-output",
-      "date": "06 July 2021",
+      "date": "15 November 2021",
       "url": "https://www.w3.org/TR/audio-output/",
       "release": {
         "url": "https://www.w3.org/TR/audio-output/",
@@ -2472,7 +2472,7 @@
     {
       "title": "Compression Streams",
       "shortname": "compression",
-      "date": "31 March 2021",
+      "date": "15 November 2021",
       "url": "https://wicg.github.io/compression/",
       "nightly": {
         "url": "https://wicg.github.io/compression/",
@@ -38605,7 +38605,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "08 November 2021",
+      "date": "15 November 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -38998,7 +38998,7 @@
     {
       "title": "Media Capture from DOM Elements",
       "shortname": "mediacapture-fromelement",
-      "date": "11 November 2021",
+      "date": "15 November 2021",
       "url": "https://www.w3.org/TR/mediacapture-fromelement/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-fromelement/",
@@ -40903,7 +40903,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "21 October 2021",
+      "date": "15 November 2021",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -42318,6 +42318,11 @@
               "url": "https://www.w3.org/TR/image-capture/",
               "title": "MediaStream Image Capture",
               "crawled": "https://w3c.github.io/mediacapture-image/"
+            },
+            {
+              "url": "https://notifications.spec.whatwg.org/",
+              "title": "Notifications API Standard",
+              "crawled": "https://notifications.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/presentation-api/",
@@ -48000,7 +48005,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "13 November 2021",
+      "date": "15 November 2021",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -48122,6 +48127,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#concept-origin",
+            "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#transient-activation",
@@ -51568,6 +51574,11 @@
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
             },
             {
+              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
+              "title": "Secure Payment Confirmation",
+              "crawled": "https://w3c.github.io/secure-payment-confirmation"
+            },
+            {
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors/"
@@ -52022,7 +52033,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "2 November 2021",
+      "date": "15 November 2021",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
@@ -53786,6 +53797,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/compression/",
+              "title": "Compression Streams",
+              "crawled": "https://wicg.github.io/compression/"
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
@@ -61728,7 +61744,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "08 November 2021",
+      "date": "15 November 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
