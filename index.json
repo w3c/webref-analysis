@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-15T00:51:05.113Z",
+  "date": "2021-11-15T06:43:16.403Z",
   "stats": {
     "crawled": 449,
-    "errors": 0,
+    "errors": 1,
     "studied": 449
   },
   "results": [
@@ -673,17 +673,18 @@
               "crawled": "https://w3c.github.io/sensors/"
             },
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://immersive-web.github.io/lighting-estimation/",
               "title": "WebXR Lighting Estimation API Level 1",
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -23836,11 +23837,6 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -26175,7 +26171,6 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
-      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26187,7 +26182,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/html-media-capture/",
+      "crawled": {
+        "url": "https://w3c.github.io/html-media-capture/",
+        "repository": "https://github.com/w3c/html-media-capture",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -26196,10 +26196,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26213,19 +26213,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [
-            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
-          ],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [
-            "https://www.w3.org/TR/html51/",
-            "https://www.w3.org/TR/custom-elements/"
-          ],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -33137,11 +33124,6 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -38647,11 +38629,6 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -42188,7 +42165,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "10 November 2021",
+      "date": "15 November 2021",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -47572,9 +47549,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/page-visibility-2/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -53437,17 +53412,17 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://wicg.github.io/periodic-background-sync/",
               "title": "Web Periodic Background Synchronization",
               "crawled": "https://wicg.github.io/periodic-background-sync/"
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
             {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
@@ -53533,14 +53508,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
-            }
-          ],
-          "informative": [
+            },
             {
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
@@ -53998,11 +53972,6 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
@@ -54760,7 +54729,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#browsing-context",
