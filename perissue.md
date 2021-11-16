@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 15, 2021
+% November 16, 2021
 
 449 specifications were crawled in this report.
 
@@ -478,7 +478,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `constructor(scriptURL, options)` with type `constructor` for [`SharedWorker`](https://html.spec.whatwg.org/multipage/workers.html#sharedworker), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
     * `hardwareConcurrency` with type `attribute` for [`NavigatorConcurrentHardware`](https://html.spec.whatwg.org/multipage/workers.html#navigatorconcurrenthardware)
     * `constructor(type, eventInitDict)` with type `constructor` for [`StorageEvent`](https://html.spec.whatwg.org/multipage/webstorage.html#storageevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `key` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`key(index)`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-key) with type `method` for `Storage`
+    * `key` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`key`](https://html.spec.whatwg.org/multipage/infrastructure.html#map-key) with type `dfn`
     * `oldValue` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`oldValue`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-oldvalue) with type `attribute` for `StorageEvent`
     * `newValue` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`newValue`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-newvalue) with type `attribute` for `StorageEvent`
     * `url` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`url`](https://html.spec.whatwg.org/multipage/infrastructure.html#basic-url-parser-url) with type `dfn`
@@ -7136,6 +7136,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
      * [`https://html.spec.whatwg.org/#ancestor-browsing-context`](https://html.spec.whatwg.org/#ancestor-browsing-context)
+     * [`https://html.spec.whatwg.org/#transient-activation-gated-api`](https://html.spec.whatwg.org/#transient-activation-gated-api)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#tracking-user-activation`](https://html.spec.whatwg.org/#tracking-user-activation)
+     * [`https://html.spec.whatwg.org/#activation-consuming-api`](https://html.spec.whatwg.org/#activation-consuming-api)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#becomes-disconnected`](https://html.spec.whatwg.org/#becomes-disconnected)
@@ -9011,7 +9016,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4712 problematic external links found in 292 specifications
+=> 4717 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

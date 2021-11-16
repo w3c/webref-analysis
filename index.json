@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-15T18:40:56.913Z",
+  "date": "2021-11-16T00:53:59.899Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -21891,7 +21891,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "10 November 2021",
+      "date": "16 November 2021",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -26312,7 +26312,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "9 November 2021",
+      "date": "15 November 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -32152,23 +32152,21 @@
                 "informative": false
               },
               "found": {
-                "id": "dom-storage-key",
-                "href": "https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-key",
+                "id": "map-key",
+                "href": "https://html.spec.whatwg.org/multipage/infrastructure.html#map-key",
                 "linkingText": [
-                  "key(index)"
+                  "key"
                 ],
                 "localLinkingText": [],
-                "type": "method",
-                "for": [
-                  "Storage"
-                ],
-                "access": "public",
+                "type": "dfn",
+                "for": [],
+                "access": "private",
                 "informative": false,
                 "heading": {
-                  "id": "the-storage-interface",
-                  "href": "https://html.spec.whatwg.org/multipage/webstorage.html#the-storage-interface",
-                  "title": "The Storage interface",
-                  "number": "12.2.1"
+                  "id": "dependencies",
+                  "href": "https://html.spec.whatwg.org/multipage/infrastructure.html#dependencies",
+                  "title": "Dependencies",
+                  "number": "2.1.9"
                 },
                 "definedIn": "prose"
               },
@@ -42942,7 +42940,7 @@
     {
       "title": "Pointer Lock 2.0",
       "shortname": "pointerlock-2",
-      "date": "06 July 2021",
+      "date": "15 November 2021",
       "url": "https://www.w3.org/TR/pointerlock-2/",
       "release": {
         "url": "https://www.w3.org/TR/pointerlock-2/",
@@ -43021,6 +43019,11 @@
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#ancestor-browsing-context",
+            "https://html.spec.whatwg.org/#transient-activation-gated-api",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#tracking-user-activation",
+            "https://html.spec.whatwg.org/#activation-consuming-api",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#becomes-disconnected"
@@ -45250,7 +45253,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45315,7 +45318,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45353,7 +45356,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45442,7 +45445,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45516,7 +45519,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45574,7 +45577,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45612,7 +45615,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45668,7 +45671,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45724,7 +45727,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "15 November 2021",
+      "date": "16 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -49917,7 +49920,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "10 November 2021",
+      "date": "16 November 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
