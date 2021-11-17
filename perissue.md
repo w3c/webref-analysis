@@ -7607,6 +7607,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
+     * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html):
      * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
@@ -8024,6 +8025,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#reflect`](https://html.spec.whatwg.org/#reflect)
      * [`https://html.spec.whatwg.org/#concept-realm-global`](https://html.spec.whatwg.org/#concept-realm-global)
+     * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://html.spec.whatwg.org/#htmltemplateelement`](https://html.spec.whatwg.org/#htmltemplateelement)
+     * [`https://html.spec.whatwg.org/#html-fragment-serialisation-algorithm`](https://html.spec.whatwg.org/#html-fragment-serialisation-algorithm)
      * [`https://html.spec.whatwg.org/#htmlscriptelement`](https://html.spec.whatwg.org/#htmlscriptelement)
      * [`https://html.spec.whatwg.org/#attr-script-src`](https://html.spec.whatwg.org/#attr-script-src)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -8099,6 +8104,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
      * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
      * [`https://html.spec.whatwg.org/#attr-embed-src`](https://html.spec.whatwg.org/#attr-embed-src)
+     * [`https://w3c.github.io/DOM-Parsing/#html-fragment-parsing-algorithm`](https://w3c.github.io/DOM-Parsing/#html-fragment-parsing-algorithm)
      * [`https://w3c.github.io/DOM-Parsing/#supportedtype`](https://w3c.github.io/DOM-Parsing/#supportedtype)
 - [UI Events](https://w3c.github.io/uievents/):
      * [`https://www.w3.org/TR/uievents-key/#key-AltGr`](https://www.w3.org/TR/uievents-key/#key-AltGr)
@@ -9016,7 +9022,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4717 problematic external links found in 292 specifications
+=> 4723 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

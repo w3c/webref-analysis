@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-17T12:47:02.751Z",
+  "date": "2021-11-17T18:40:02.118Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -3369,7 +3369,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "25 August 2021",
+      "date": "17 November 2021",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -47624,6 +47624,7 @@
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#active-document",
+            "https://html.spec.whatwg.org/#visibility-state",
             "https://html.spec.whatwg.org/#top-level-browsing-context"
           ],
           "evolvingLinks": [],
@@ -50629,7 +50630,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "8 October 2021",
+      "date": "17 November 2021",
       "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
       "nightly": {
         "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
@@ -50710,6 +50711,10 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#reflect",
             "https://html.spec.whatwg.org/#concept-realm-global",
+            "https://html.spec.whatwg.org/#current-global-object",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#htmltemplateelement",
+            "https://html.spec.whatwg.org/#html-fragment-serialisation-algorithm",
             "https://html.spec.whatwg.org/#htmlscriptelement",
             "https://html.spec.whatwg.org/#attr-script-src",
             "https://html.spec.whatwg.org/#window",
@@ -50785,6 +50790,7 @@
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#attr-embed-src",
+            "https://w3c.github.io/DOM-Parsing/#html-fragment-parsing-algorithm",
             "https://w3c.github.io/DOM-Parsing/#supportedtype"
           ],
           "evolvingLinks": [],
