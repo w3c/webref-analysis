@@ -20383,7 +20383,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webrtc-ice/](https://w3c.github.io/webrtc-ice/)
 - Crawled URL: [https://w3c.github.io/webrtc-ice/](https://w3c.github.io/webrtc-ice/)
-- Crawled version: 18 March 2021
+- Crawled version: 17 November 2021
 - Editor's Draft: [https://w3c.github.io/webrtc-ice/](https://w3c.github.io/webrtc-ice/)
 - Shortname: webrtc-ice
 
@@ -20582,7 +20582,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/mediacapture-automation/](https://w3c.github.io/mediacapture-automation/)
 - Crawled URL: [https://w3c.github.io/mediacapture-automation/](https://w3c.github.io/mediacapture-automation/)
-- Crawled version: 15 February 2021
+- Crawled version: 17 November 2021
 - Editor's Draft: [https://w3c.github.io/mediacapture-automation/](https://w3c.github.io/mediacapture-automation/)
 - Shortname: mediacapture-automation
 
@@ -20819,7 +20819,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mst-content-hint/](https://www.w3.org/TR/mst-content-hint/)
 - Crawled URL: [https://w3c.github.io/mst-content-hint/](https://w3c.github.io/mst-content-hint/)
-- Crawled version: 22 July 2021
+- Crawled version: 17 November 2021
 - Editor's Draft: [https://w3c.github.io/mst-content-hint/](https://w3c.github.io/mst-content-hint/)
 - Latest published version: [https://www.w3.org/TR/mst-content-hint/](https://www.w3.org/TR/mst-content-hint/)
 - Shortname: mst-content-hint
@@ -21763,7 +21763,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 15 November 2021
+- Crawled version: 17 November 2021
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
