@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-17T00:50:52.632Z",
+  "date": "2021-11-17T06:43:46.835Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -42950,7 +42950,7 @@
     {
       "title": "Pointer Lock 2.0",
       "shortname": "pointerlock-2",
-      "date": "16 November 2021",
+      "date": "17 November 2021",
       "url": "https://www.w3.org/TR/pointerlock-2/",
       "release": {
         "url": "https://www.w3.org/TR/pointerlock-2/",
@@ -55372,7 +55372,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "12 November 2021",
+      "date": "17 November 2021",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",

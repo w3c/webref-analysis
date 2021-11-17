@@ -12033,7 +12033,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 12 November 2021
+- Crawled version: 17 November 2021
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -15367,7 +15367,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
 - Crawled URL: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
-- Crawled version: 16 November 2021
+- Crawled version: 17 November 2021
 - Editor's Draft: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
 - Latest published version: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
 - Shortname: pointerlock-2
