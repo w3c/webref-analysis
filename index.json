@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-18T00:50:29.463Z",
+  "date": "2021-11-18T06:41:56.847Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -41960,7 +41960,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request",
-      "date": "03 November 2021",
+      "date": "18 November 2021",
       "url": "https://www.w3.org/TR/payment-request/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request/",
