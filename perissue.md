@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 17, 2021
+% November 18, 2021
 
 449 specifications were crawled in this report.
 
@@ -4132,7 +4132,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#stop-document-loading`](https://html.spec.whatwg.org/#stop-document-loading)
      * [`https://html.spec.whatwg.org/#a-browsing-context-is-discarded`](https://html.spec.whatwg.org/#a-browsing-context-is-discarded)
      * [`https://html.spec.whatwg.org/#concept-navigate-mature`](https://html.spec.whatwg.org/#concept-navigate-mature)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [ARIA in HTML](https://w3c.github.io/html-aria/):
      * [`https://html.spec.whatwg.org/#semantics-2`](https://html.spec.whatwg.org/#semantics-2)
      * [`https://html.spec.whatwg.org/#html-elements`](https://html.spec.whatwg.org/#html-elements)
@@ -9022,7 +9021,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4723 problematic external links found in 292 specifications
+=> 4722 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
