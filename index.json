@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-18T12:47:47.400Z",
+  "date": "2021-11-18T18:41:44.737Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -757,7 +757,7 @@
     {
       "title": "App History API",
       "shortname": "app-history",
-      "date": "17 November 2021",
+      "date": "18 November 2021",
       "url": "https://wicg.github.io/app-history/",
       "nightly": {
         "url": "https://wicg.github.io/app-history/",
@@ -804,6 +804,11 @@
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#session-history",
+            "https://html.spec.whatwg.org/#browsing-session",
+            "https://html.spec.whatwg.org/#browsing-context-group",
+            "https://html.spec.whatwg.org/#cross-origin-opener-policy-2",
+            "https://html.spec.whatwg.org/#she-url",
+            "https://html.spec.whatwg.org/#she-document",
             "https://html.spec.whatwg.org/#current-entry",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
@@ -842,9 +847,7 @@
             "https://html.spec.whatwg.org/#dom-document-2",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
             "https://html.spec.whatwg.org/#structureddeserialize",
-            "https://html.spec.whatwg.org/#she-url",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
-            "https://html.spec.whatwg.org/#she-document",
             "https://html.spec.whatwg.org/#errorevent",
             "https://html.spec.whatwg.org/#dom-errorevent-error",
             "https://html.spec.whatwg.org/#dom-errorevent-message",
@@ -858,7 +861,9 @@
             "https://html.spec.whatwg.org/#dom-window-stop",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#active-window",
+            "https://html.spec.whatwg.org/#policy-container-referrer-policy",
             "https://html.spec.whatwg.org/#dom-history-state",
+            "https://html.spec.whatwg.org/#she-policy-container",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#plan-to-navigate",
             "https://html.spec.whatwg.org/#navigation-navigationtype",
@@ -1246,7 +1251,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "16 November 2021",
+      "date": "18 November 2021",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -2813,7 +2818,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "18 October 2021",
+      "date": "18 November 2021",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -23172,7 +23177,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "9 November 2021",
+      "date": "18 November 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -23634,12 +23639,12 @@
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#policy-container",
             "https://html.spec.whatwg.org/#navigate",
+            "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#concept-settings-object-policy-container",
             "https://html.spec.whatwg.org/#policy-container-embedder-policy",
             "https://html.spec.whatwg.org/#embedder-policy-value-2",
             "https://html.spec.whatwg.org/#coep-credentialless",
-            "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#concept-origin-host",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#site",
@@ -26321,7 +26326,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 November 2021",
+      "date": "18 November 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -44255,6 +44260,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/app-history/",
+              "title": "App History API",
+              "crawled": "https://wicg.github.io/app-history/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -61427,7 +61437,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "17 November 2021",
+      "date": "18 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61542,7 +61552,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "17 November 2021",
+      "date": "18 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
