@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 18, 2021
+% November 19, 2021
 
 449 specifications were crawled in this report.
 
@@ -59,7 +59,7 @@
 - [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
 - [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
 - [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
-- [WebGL OES_draw_buffers_indexed Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
+- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
 - [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
 - [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
 - [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
@@ -127,7 +127,7 @@ WebIDL continues to evolve. Strudy may incorrectly report as invalid perfectly v
 - [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
 - [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
 - [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
-- [WebGL OES_draw_buffers_indexed Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
+- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
 - [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
 - [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
 - [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
@@ -241,7 +241,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/) uses:
     * `WebGLQuery` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
     * `GLenum` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
-- [WebGL OES_draw_buffers_indexed Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/) uses:
+- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/) uses:
     * `GLenum` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLuint` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLboolean` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -591,7 +591,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/):
     * `KHR_parallel_shader_compile` with type `interface`
     * `COMPLETION_STATUS_KHR` with type `const`
-- [WebGL OES_draw_buffers_indexed Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/):
+- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/):
     * `OES_draw_buffers_indexed` with type `interface`
     * `enableiOES(target, index)` with type `method`
     * `disableiOES(target, index)` with type `method`
@@ -3126,10 +3126,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/webxr/#xrframe-active`](https://www.w3.org/TR/webxr/#xrframe-active)
      * [`https://immersive-web.github.io/webxr/#feature-descriptor`](https://immersive-web.github.io/webxr/#feature-descriptor)
      * [`https://www.w3.org/TR/webxrlayers-1/#xrwebglbinding-context`](https://www.w3.org/TR/webxrlayers-1/#xrwebglbinding-context)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/):
+     * [`https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 836 problematic external links found in 194 specifications
+=> 837 problematic external links found in 195 specifications
 
 
 ## External links that neither target definitions nor headings
