@@ -6554,6 +6554,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://www.w3.org/TR/permissions/#dom-devicepermissiondescriptor-deviceid`](https://www.w3.org/TR/permissions/#dom-devicepermissiondescriptor-deviceid)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/):
      * [`https://www.w3.org/TR/mediacapture-streams/#request-permission-to-use`](https://www.w3.org/TR/mediacapture-streams/#request-permission-to-use)
      * [`https://www.w3.org/TR/permissions/#set-permission-command`](https://www.w3.org/TR/permissions/#set-permission-command)
@@ -6726,6 +6727,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-imagebitmap-height`](https://html.spec.whatwg.org/#dom-imagebitmap-height)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://w3c.github.io/permissions/#request-permission-to-use`](https://w3c.github.io/permissions/#request-permission-to-use)
+     * [`https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom`](https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom)
+     * [`https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid`](https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/):
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -9028,7 +9031,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4727 problematic external links found in 292 specifications
+=> 4730 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

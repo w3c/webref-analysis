@@ -558,7 +558,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 18 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -10981,7 +10981,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 18 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11050,7 +11050,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 18 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14137,7 +14137,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 15 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -15843,7 +15843,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 12 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -20383,11 +20383,11 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
 
 - [Permissions](https://w3c.github.io/permissions/)
-
-No informative reference to this spec from other specs.
 
 
 ### IceTransport Extensions for WebRTC {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -20556,6 +20556,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://www.w3.org/TR/permissions/#dom-devicepermissiondescriptor-deviceid`](https://www.w3.org/TR/permissions/#dom-devicepermissiondescriptor-deviceid)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20768,6 +20769,8 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-imagebitmap-height`](https://html.spec.whatwg.org/#dom-imagebitmap-height)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://w3c.github.io/permissions/#request-permission-to-use`](https://w3c.github.io/permissions/#request-permission-to-use)
+     * [`https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom`](https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom)
+     * [`https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid`](https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -22878,11 +22881,11 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [Permissions](https://w3c.github.io/permissions/)
 - [Push API](https://w3c.github.io/push-api/)
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
 

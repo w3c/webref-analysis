@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-19T00:51:41.902Z",
+  "date": "2021-11-19T06:44:37.803Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -1390,14 +1390,14 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
             }
-          ],
-          "informative": []
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -38828,7 +38828,8 @@
             "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#dom-localstorage",
             "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#concept-document-permissions-policy"
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
+            "https://www.w3.org/TR/permissions/#dom-devicepermissiondescriptor-deviceid"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -39915,7 +39916,9 @@
             "https://html.spec.whatwg.org/#dom-imagebitmap-width",
             "https://html.spec.whatwg.org/#dom-imagebitmap-height",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://w3c.github.io/permissions/#request-permission-to-use"
+            "https://w3c.github.io/permissions/#request-permission-to-use",
+            "https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom",
+            "https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -40949,17 +40952,17 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
             {
               "url": "https://wicg.github.io/permissions-request/",
               "title": "Requesting Permissions",
@@ -42201,7 +42204,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "15 November 2021",
+      "date": "19 November 2021",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -49940,7 +49943,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "18 November 2021",
+      "date": "19 November 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53520,7 +53523,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "12 November 2021",
+      "date": "19 November 2021",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",
@@ -61437,7 +61440,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "18 November 2021",
+      "date": "19 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61552,7 +61555,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "18 November 2021",
+      "date": "19 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
