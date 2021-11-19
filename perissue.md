@@ -7918,7 +7918,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
      * [`https://html.spec.whatwg.org/#websocket`](https://html.spec.whatwg.org/#websocket)
      * [`https://html.spec.whatwg.org/#dom-websocket-bufferedamount`](https://html.spec.whatwg.org/#dom-websocket-bufferedamount)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/):
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
@@ -9030,7 +9029,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4729 problematic external links found in 292 specifications
+=> 4728 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

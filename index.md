@@ -5391,7 +5391,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
-- Crawled version: 16 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -16352,7 +16352,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Crawled URL: [https://w3c.github.io/secure-payment-confirmation](https://w3c.github.io/secure-payment-confirmation)
-- Crawled version: 15 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://w3c.github.io/secure-payment-confirmation](https://w3c.github.io/secure-payment-confirmation)
 - Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Shortname: secure-payment-confirmation
@@ -17447,7 +17447,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 18 November 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -22991,7 +22991,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 28 October 2021
+- Crawled version: 19 November 2021
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 
@@ -23025,7 +23025,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
      * [`https://html.spec.whatwg.org/#websocket`](https://html.spec.whatwg.org/#websocket)
      * [`https://html.spec.whatwg.org/#dom-websocket-bufferedamount`](https://html.spec.whatwg.org/#dom-websocket-bufferedamount)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 
 #### Known dependencies on this specification {.dependencies}
 
