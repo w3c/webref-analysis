@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-21T18:42:03.339Z",
+  "date": "2021-11-22T00:53:54.735Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -897,7 +897,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "16 November 2021",
+      "date": "21 November 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -41006,7 +41006,8 @@
             "https://html.spec.whatwg.org/#report-the-exception",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://html.spec.whatwg.org/#structureddeserialize"
+            "https://html.spec.whatwg.org/#structureddeserialize",
+            "https://w3c.github.io/permissions/#dfn-allowed-in-non-secure-contexts"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -42204,7 +42205,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "19 November 2021",
+      "date": "21 November 2021",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -42428,9 +42429,8 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#concept-global-object-realm",
-            "https://html.spec.whatwg.org/#secure-context",
-            "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#realms-settings-objects-global-objects",
@@ -45275,7 +45275,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45340,7 +45340,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45378,7 +45378,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45467,7 +45467,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45541,7 +45541,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45599,7 +45599,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45637,7 +45637,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45693,7 +45693,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45749,7 +45749,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "21 November 2021",
+      "date": "22 November 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -53618,7 +53618,8 @@
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
-            "https://html.spec.whatwg.org/#navigator"
+            "https://html.spec.whatwg.org/#navigator",
+            "https://w3c.github.io/permissions/#dfn-allowed-in-non-secure-contexts"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],

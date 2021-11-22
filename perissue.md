@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 21, 2021
+% November 22, 2021
 
 449 specifications were crawled in this report.
 
@@ -6842,6 +6842,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
+     * [`https://w3c.github.io/permissions/#dfn-allowed-in-non-secure-contexts`](https://w3c.github.io/permissions/#dfn-allowed-in-non-secure-contexts)
 - [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/):
      * [`https://html.spec.whatwg.org/#media-element`](https://html.spec.whatwg.org/#media-element)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
@@ -7069,9 +7070,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Permissions](https://w3c.github.io/permissions/):
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#concept-global-object-realm`](https://html.spec.whatwg.org/#concept-global-object-realm)
-     * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
-     * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
      * [`https://html.spec.whatwg.org/#realms-settings-objects-global-objects`](https://html.spec.whatwg.org/#realms-settings-objects-global-objects)
@@ -8367,6 +8367,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://w3c.github.io/permissions/#dfn-allowed-in-non-secure-contexts`](https://w3c.github.io/permissions/#dfn-allowed-in-non-secure-contexts)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/):
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -9029,7 +9030,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4728 problematic external links found in 292 specifications
+=> 4729 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
