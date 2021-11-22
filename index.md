@@ -495,7 +495,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
 - Crawled URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
-- Crawled version: 5 November 2021
+- Crawled version: 22 November 2021
 - Editor's Draft: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
 - Shortname: tc39-resizablearraybuffer
 
@@ -3698,7 +3698,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Crawled URL: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
-- Crawled version: 13 October 2021
+- Crawled version: 22 November 2021
 - Editor's Draft: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
 - Latest published version: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Shortname: webdriver2
@@ -5512,7 +5512,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
-- Crawled version: 15 November 2021
+- Crawled version: 22 November 2021
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Shortname: css-conditional-3
@@ -20220,7 +20220,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Crawled URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
-- Crawled version: 18 November 2021
+- Crawled version: 22 November 2021
 - Editor's Draft: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Shortname: window-controls-overlay
 
@@ -20555,7 +20555,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
-     * [`https://www.w3.org/TR/permissions/#dom-devicepermissiondescriptor-deviceid`](https://www.w3.org/TR/permissions/#dom-devicepermissiondescriptor-deviceid)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21046,7 +21045,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 18 November 2021
+- Crawled version: 22 November 2021
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21071,7 +21070,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 18 November 2021
+- Crawled version: 22 November 2021
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Shortname: wasm-js-api-1
@@ -21115,7 +21114,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 18 November 2021
+- Crawled version: 22 November 2021
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Shortname: wasm-web-api-1
