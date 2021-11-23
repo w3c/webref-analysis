@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-23T06:44:20.681Z",
+  "date": "2021-11-23T12:48:07.036Z",
   "stats": {
     "crawled": 449,
-    "errors": 1,
+    "errors": 0,
     "studied": 449
   },
   "results": [
@@ -23850,6 +23850,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -26184,6 +26189,7 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
+      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26195,12 +26201,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/html-media-capture/",
-        "repository": "https://github.com/w3c/html-media-capture",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/html-media-capture/",
       "organization": "W3C",
       "groups": [
         {
@@ -26209,10 +26210,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26226,6 +26227,19 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [
+            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
+          ],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html51/",
+            "https://www.w3.org/TR/custom-elements/"
+          ],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -33135,6 +33149,11 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -38640,6 +38659,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -40892,7 +40916,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "15 November 2021",
+      "date": "23 November 2021",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -40962,7 +40986,6 @@
             "https://html.spec.whatwg.org/#structuredserializeforstorage",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#api-base-url",
-            "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#update-the-image-data",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#same-origin",
@@ -40972,7 +40995,6 @@
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#queue-a-global-task",
@@ -40980,8 +41002,7 @@
             "https://html.spec.whatwg.org/#report-the-exception",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://html.spec.whatwg.org/#structureddeserialize",
-            "https://w3c.github.io/permissions/#dfn-allowed-in-non-secure-contexts"
+            "https://html.spec.whatwg.org/#structureddeserialize"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -53473,7 +53494,8 @@
             "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/#dfn-extend-lifetime-promises",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#eventhandler"
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://notifications.spec.whatwg.org/#permission-model"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54006,6 +54028,11 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
@@ -55143,7 +55170,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "22 November 2021",
+      "date": "23 November 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55199,7 +55226,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "22 November 2021",
+      "date": "23 November 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55292,7 +55319,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "22 November 2021",
+      "date": "23 November 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -61413,7 +61440,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "19 November 2021",
+      "date": "23 November 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61528,7 +61555,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "19 November 2021",
+      "date": "23 November 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
