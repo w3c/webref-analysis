@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 22, 2021
+% November 23, 2021
 
 449 specifications were crawled in this report.
 
@@ -3946,8 +3946,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/uievents-key/#key-SymbolLock`](https://www.w3.org/TR/uievents-key/#key-SymbolLock)
      * [`https://www.w3.org/TR/uievents-key/#key-Alt`](https://www.w3.org/TR/uievents-key/#key-Alt)
      * [`https://www.w3.org/TR/uievents-key/#key-AltGraph`](https://www.w3.org/TR/uievents-key/#key-AltGraph)
-- [URLPattern API](https://wicg.github.io/urlpattern/):
-     * [`https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag`](https://url.spec.whatwg.org/#url-cannot-be-a-base-url-flag)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
      * [`https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp`](https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
@@ -4003,7 +4001,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 810 problematic external links found in 56 specifications
+=> 809 problematic external links found in 55 specifications
 
 
 ## Broken external links
@@ -7310,7 +7308,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-loop-processing-model`](https://html.spec.whatwg.org/#event-loop-processing-model)
      * [`https://html.spec.whatwg.org/#relevant-agent`](https://html.spec.whatwg.org/#relevant-agent)
      * [`https://html.spec.whatwg.org/#concept-agent-event-loop`](https://html.spec.whatwg.org/#concept-agent-event-loop)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [Priority Hints](https://wicg.github.io/priority-hints/):
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
@@ -9028,7 +9025,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4727 problematic external links found in 292 specifications
+=> 4726 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
