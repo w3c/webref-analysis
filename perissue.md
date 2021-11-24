@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 23, 2021
+% November 24, 2021
 
 449 specifications were crawled in this report.
 
@@ -5610,6 +5610,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
+     * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#list-of-active-timers`](https://html.spec.whatwg.org/#list-of-active-timers)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
@@ -7064,6 +7065,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#concept-global-object-realm`](https://html.spec.whatwg.org/#concept-global-object-realm)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
+     * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
@@ -8411,6 +8415,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#concept-origin-opaque`](https://html.spec.whatwg.org/#concept-origin-opaque)
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
+     * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
@@ -9023,7 +9028,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4724 problematic external links found in 292 specifications
+=> 4729 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

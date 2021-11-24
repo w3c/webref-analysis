@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 23, 2021
+% November 24, 2021
 
 # Ecma International {#ecma_international}
 
@@ -558,7 +558,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 19 November 2021
+- Crawled version: 23 November 2021
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -604,7 +604,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -633,7 +633,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -693,7 +693,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1114,7 +1114,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1137,7 +1137,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1167,7 +1167,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1207,7 +1207,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1240,7 +1240,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1269,7 +1269,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 23 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -11084,7 +11084,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/geolocation-API/](https://www.w3.org/TR/geolocation-API/)
 - Crawled URL: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
-- Crawled version: 03 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
 - Latest published version: [https://www.w3.org/TR/geolocation-API/](https://www.w3.org/TR/geolocation-API/)
 - Shortname: geolocation-API
@@ -11105,6 +11105,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
+     * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#list-of-active-timers`](https://html.spec.whatwg.org/#list-of-active-timers)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
@@ -14137,7 +14138,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 21 November 2021
+- Crawled version: 24 November 2021
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -14152,6 +14153,9 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#concept-global-object-realm`](https://html.spec.whatwg.org/#concept-global-object-realm)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
+     * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
@@ -17446,7 +17450,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 19 November 2021
+- Crawled version: 23 November 2021
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -19933,7 +19937,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/web-locks/](https://wicg.github.io/web-locks/)
 - Crawled URL: [https://wicg.github.io/web-locks/](https://wicg.github.io/web-locks/)
-- Crawled version: 12 November 2021
+- Crawled version: 23 November 2021
 - Editor's Draft: [https://wicg.github.io/web-locks/](https://wicg.github.io/web-locks/)
 - Shortname: web-locks
 
@@ -19956,6 +19960,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#concept-origin-opaque`](https://html.spec.whatwg.org/#concept-origin-opaque)
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
+     * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
@@ -20583,6 +20588,7 @@ Informative references to this spec from:
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Permissions](https://w3c.github.io/permissions/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
 
@@ -22968,13 +22974,13 @@ Normative references to this spec from:
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
-- [Permissions](https://w3c.github.io/permissions/)
 
 Informative references to this spec from:
 
 - [Attribution Reporting](https://wicg.github.io/conversion-measurement-api/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
+- [Permissions](https://w3c.github.io/permissions/)
 - [Web Locks API](https://wicg.github.io/web-locks/)
 
 
