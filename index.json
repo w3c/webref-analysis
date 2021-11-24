@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-24T00:51:40.259Z",
+  "date": "2021-11-24T06:43:40.017Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -24901,8 +24901,12 @@
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#visibility-state",
+            "https://html.spec.whatwg.org/#page-visibility-change-steps",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#list-of-active-timers",
+            "https://html.spec.whatwg.org/#environment-settings-object's-realm",
+            "https://html.spec.whatwg.org/#navigate",
+            "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#task-source"
           ],
           "evolvingLinks": [],
@@ -37896,7 +37900,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "16 November 2021",
+      "date": "24 November 2021",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -49945,7 +49949,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "23 November 2021",
+      "date": "24 November 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
