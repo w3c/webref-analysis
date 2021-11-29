@@ -7,6 +7,10 @@
 
 ## Specifications without normative dependencies
 
+- [500 Internal Server Error](https://drafts.csswg.org/css-conditional-4/)
+- [500 Internal Server Error](https://drafts.csswg.org/css-contain-2/)
+- [500 Internal Server Error](https://drafts.csswg.org/css-content-3/)
+- [500 Internal Server Error](https://drafts.csswg.org/css-counter-styles/)
 - [Accessible `Object.hasOwnProperty`](https://tc39.es/proposal-accessible-object-hasownproperty/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
@@ -86,7 +90,7 @@
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 78 specifications found
+=> 82 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -173,7 +177,7 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `ArrayBuffer` used in [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [HTML Standard](https://html.spec.whatwg.org/multipage/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
 - `BigInt64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `BigUint64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - `CSSPercentishArray` used in [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - `DOMTimeStamp` used in [Cookie Store API](https://wicg.github.io/cookie-store/)
 - `DataView` used in [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web NFC](https://w3c.github.io/web-nfc/), [WebHID API](https://wicg.github.io/webhid/), [WebUSB API](https://wicg.github.io/webusb/)
@@ -1032,12 +1036,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/) links to:
     * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
-- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/) links to [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but does not list it in its references
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
@@ -1128,11 +1126,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
@@ -1669,7 +1662,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 720 missing references for links found in 192 specifications
+=> 711 missing references for links found in 189 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1747,9 +1740,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/) links to:
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/) but related reference "INTERSECTION-OBSERVER" uses URL [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -1771,7 +1761,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
     * [`https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/`](https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/) but related reference "DPUB-LATINREQ" uses URL [`https://www.w3.org/TR/dpub-latinreq/`](https://www.w3.org/TR/dpub-latinreq/)
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -2091,7 +2080,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 341 inconsistent references for links found in 179 specifications
+=> 338 inconsistent references for links found in 177 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2247,13 +2236,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/):
      * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/css-break-3/#monolithic`](https://drafts.csswg.org/css-break-3/#monolithic)
-     * [`https://drafts.csswg.org/css2/#stacking-context`](https://drafts.csswg.org/css2/#stacking-context)
-     * [`https://w3c.github.io/IntersectionObserver/#intersectionobserver-intersection-root`](https://w3c.github.io/IntersectionObserver/#intersectionobserver-intersection-root)
-- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/):
-     * [`https://drafts.csswg.org/css-text-3/#grapheme-cluster`](https://drafts.csswg.org/css-text-3/#grapheme-cluster)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/):
      * [`https://drafts.csswg.org/css-pseudo-4/#highlight-overlay`](https://drafts.csswg.org/css-pseudo-4/#highlight-overlay)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/):
@@ -2286,8 +2268,6 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -3131,7 +3111,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 837 problematic external links found in 195 specifications
+=> 831 problematic external links found in 192 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3370,8 +3350,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-ui-3/#box-sizing`](https://www.w3.org/TR/css-ui-3/#box-sizing)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/):
      * [`https://www.w3.org/TR/css-flexbox-1/#algo-main-item`](https://www.w3.org/TR/css-flexbox-1/#algo-main-item)
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/):
-     * [`https://drafts.csswg.org/css-ui-3/#propdef-text-overflow`](https://drafts.csswg.org/css-ui-3/#propdef-text-overflow)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
      * [`https://www.w3.org/TR/css3-break/#btw-blocks`](https://www.w3.org/TR/css3-break/#btw-blocks)
      * [`https://www.w3.org/TR/css3-break/#end-block`](https://www.w3.org/TR/css3-break/#end-block)
@@ -4001,7 +3979,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 809 problematic external links found in 55 specifications
+=> 808 problematic external links found in 54 specifications
 
 
 ## Broken external links
@@ -4782,6 +4760,8 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/):
      * [`https://www.w3.org/TR/css-transitions-1/#animatable-types`](https://www.w3.org/TR/css-transitions-1/#animatable-types)
      * [`https://www.w3.org/TR/css-color-4/#currentcolor`](https://www.w3.org/TR/css-color-4/#currentcolor)
+     * [`https://www.w3.org/TR/css-contain-1/#containment`](https://www.w3.org/TR/css-contain-1/#containment)
+     * [`https://www.w3.org/TR/css-contain-1/#contain-property`](https://www.w3.org/TR/css-contain-1/#contain-property)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://www.w3.org/TR/selectors-3/#sel-first-line`](https://www.w3.org/TR/selectors-3/#sel-first-line)
      * [`https://www.w3.org/TR/selectors-3/#first-letter0`](https://www.w3.org/TR/selectors-3/#first-letter0)
@@ -4824,6 +4804,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-marquee-element`](https://html.spec.whatwg.org/#the-marquee-element)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/):
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://drafts.csswg.org/css-contain-2/#size-containment`](https://drafts.csswg.org/css-contain-2/#size-containment)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/):
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
      * [`https://html.spec.whatwg.org/#quirks-mode`](https://html.spec.whatwg.org/#quirks-mode)
@@ -4838,6 +4819,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
+     * [`https://drafts.csswg.org/css-conditional-4/#funcdef-supports`](https://drafts.csswg.org/css-conditional-4/#funcdef-supports)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/):
      * [`https://html.spec.whatwg.org/#cors-same-origin`](https://html.spec.whatwg.org/#cors-same-origin)
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
@@ -4846,6 +4828,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
+     * [`https://drafts.csswg.org/css-conditional-4/#funcdef-supports`](https://drafts.csswg.org/css-conditional-4/#funcdef-supports)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/):
      * [`https://www.w3.org/TR/css-cascade-5/#layering`](https://www.w3.org/TR/css-cascade-5/#layering)
      * [`https://drafts.csswg.org/css-cascade-5/#cascade-layers`](https://drafts.csswg.org/css-cascade-5/#cascade-layers)
@@ -4853,6 +4836,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-cascade-5/#valdef-all-revert-layer`](https://drafts.csswg.org/css-cascade-5/#valdef-all-revert-layer)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
+     * [`https://drafts.csswg.org/css-conditional-4/#funcdef-supports`](https://drafts.csswg.org/css-conditional-4/#funcdef-supports)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/):
      * [`https://html.spec.whatwg.org/#meta-color-scheme`](https://html.spec.whatwg.org/#meta-color-scheme)
      * [`https://html.spec.whatwg.org/#meta`](https://html.spec.whatwg.org/#meta)
@@ -4865,19 +4849,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-mark-element`](https://html.spec.whatwg.org/#the-mark-element)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/):
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/):
-     * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
-     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
-     * [`https://html.spec.whatwg.org/#focus`](https://html.spec.whatwg.org/#focus)
-     * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
-     * [`https://html.spec.whatwg.org/#dom-window-focus`](https://html.spec.whatwg.org/#dom-window-focus)
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#dom-innertext`](https://html.spec.whatwg.org/#dom-innertext)
-- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/):
-     * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
+     * [`https://drafts.csswg.org/css-conditional-4/#funcdef-supports`](https://drafts.csswg.org/css-conditional-4/#funcdef-supports)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/):
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://drafts.csswg.org/css-contain-2/#style-containment`](https://drafts.csswg.org/css-contain-2/#style-containment)
 - [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt/):
      * [`https://www.w3.org/TR/css3-syntax/#property-defs`](https://www.w3.org/TR/css3-syntax/#property-defs)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/):
@@ -4906,6 +4882,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
+     * [`https://drafts.csswg.org/css-contain-2/#propdef-contain`](https://drafts.csswg.org/css-contain-2/#propdef-contain)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/):
@@ -4916,14 +4893,21 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
      * [`https://html.spec.whatwg.org/#font`](https://html.spec.whatwg.org/#font)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/):
+     * [`https://drafts.csswg.org/css-content-3/#typedef-content-content-list`](https://drafts.csswg.org/css-content-3/#typedef-content-content-list)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-bookmark-level`](https://drafts.csswg.org/css-content-3/#propdef-bookmark-level)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-bookmark-label`](https://drafts.csswg.org/css-content-3/#propdef-bookmark-label)
      * [`https://www.w3.org/TR/css3-selectors/#first-letter`](https://www.w3.org/TR/css3-selectors/#first-letter)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#counter-style`](https://drafts.csswg.org/css-counter-styles-3/#counter-style)
      * [`https://drafts.csswg.org/css-color/#cmyk-colors`](https://drafts.csswg.org/css-color/#cmyk-colors)
      * [`https://drafts.csswg.org/css-overflow-3/#paginated-overflow`](https://drafts.csswg.org/css-overflow-3/#paginated-overflow)
-- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/):
-     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/):
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/):
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
+     * [`https://drafts.csswg.org/css-contain-2/#layout-containment`](https://drafts.csswg.org/css-contain-2/#layout-containment)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
      * [`https://html.spec.whatwg.org/#concept-imagebitmap-good`](https://html.spec.whatwg.org/#concept-imagebitmap-good)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#attr-img-src`](https://html.spec.whatwg.org/#attr-img-src)
@@ -4936,6 +4920,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/):
      * [`https://html.spec.whatwg.org/#textmetrics`](https://html.spec.whatwg.org/#textmetrics)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#hebrew`](https://drafts.csswg.org/css-counter-styles-3/#hebrew)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/):
      * [`https://html.spec.whatwg.org/#worklet`](https://html.spec.whatwg.org/#worklet)
      * [`https://html.spec.whatwg.org/#worklet-global-scope-type`](https://html.spec.whatwg.org/#worklet-global-scope-type)
@@ -4952,11 +4937,22 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/):
      * [`https://drafts.csswg.org/css-inline/#central`](https://drafts.csswg.org/css-inline/#central)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/):
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
+     * [`https://drafts.csswg.org/css-content-3/#valdef-content-none`](https://drafts.csswg.org/css-content-3/#valdef-content-none)
+     * [`https://drafts.csswg.org/css-content-3/#valdef-content-normal`](https://drafts.csswg.org/css-content-3/#valdef-content-normal)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#typedef-counter-style`](https://drafts.csswg.org/css-counter-styles-3/#typedef-counter-style)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#generate-a-counter`](https://drafts.csswg.org/css-counter-styles-3/#generate-a-counter)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#descdef-counter-style-prefix`](https://drafts.csswg.org/css-counter-styles-3/#descdef-counter-style-prefix)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#descdef-counter-style-suffix`](https://drafts.csswg.org/css-counter-styles-3/#descdef-counter-style-suffix)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#decimal`](https://drafts.csswg.org/css-counter-styles-3/#decimal)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#counter-style`](https://drafts.csswg.org/css-counter-styles-3/#counter-style)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#disc`](https://drafts.csswg.org/css-counter-styles-3/#disc)
      * [`https://html.spec.whatwg.org/#the-li-element`](https://html.spec.whatwg.org/#the-li-element)
      * [`https://html.spec.whatwg.org/#the-ul-element`](https://html.spec.whatwg.org/#the-ul-element)
      * [`https://html.spec.whatwg.org/#the-ol-element`](https://html.spec.whatwg.org/#the-ol-element)
      * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
      * [`https://html.spec.whatwg.org/#lists`](https://html.spec.whatwg.org/#lists)
+     * [`https://www.w3.org/TR/css-counter-styles-3/#simple-symbolic`](https://www.w3.org/TR/css-counter-styles-3/#simple-symbolic)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/):
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/):
@@ -4986,15 +4982,25 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#csscounterstylerule`](https://drafts.csswg.org/css-counter-styles-3/#csscounterstylerule)
      * [`https://drafts.csswg.org/css-color-3/#alphavalue-def`](https://drafts.csswg.org/css-color-3/#alphavalue-def)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/):
+     * [`https://drafts.csswg.org/css-contain-2/#propdef-contain`](https://drafts.csswg.org/css-contain-2/#propdef-contain)
+     * [`https://drafts.csswg.org/css-contain-2/#containment`](https://drafts.csswg.org/css-contain-2/#containment)
      * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
      * [`https://html.spec.whatwg.org/#html-vs-xhtml`](https://html.spec.whatwg.org/#html-vs-xhtml)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
+     * [`https://www.w3.org/TR/css-contain-1/#contain-property`](https://www.w3.org/TR/css-contain-1/#contain-property)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/):
+     * [`https://drafts.csswg.org/css-contain-2/#layout-containment`](https://drafts.csswg.org/css-contain-2/#layout-containment)
      * [`https://drafts.csswg.org/selectors-3/#subject`](https://drafts.csswg.org/selectors-3/#subject)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
      * [`https://www.w3.org/TR/css3-transitions/#animatable-types`](https://www.w3.org/TR/css3-transitions/#animatable-types)
      * [`https://html.spec.whatwg.org/#dom-dir`](https://html.spec.whatwg.org/#dom-dir)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/):
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
+     * [`https://drafts.csswg.org/css-content-3/#valdef-content-none`](https://drafts.csswg.org/css-content-3/#valdef-content-none)
+     * [`https://drafts.csswg.org/css-content-3/#valdef-content-normal`](https://drafts.csswg.org/css-content-3/#valdef-content-normal)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/):
      * [`https://html.spec.whatwg.org/#worklet`](https://html.spec.whatwg.org/#worklet)
      * [`https://html.spec.whatwg.org/#worklet-global-scope-type`](https://html.spec.whatwg.org/#worklet-global-scope-type)
@@ -5027,6 +5033,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#worklets-idempotent`](https://html.spec.whatwg.org/#worklets-idempotent)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/):
      * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/):
+     * [`https://drafts.csswg.org/css-contain-2/#propdef-contain`](https://drafts.csswg.org/css-contain-2/#propdef-contain)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/):
      * [`https://www.w3.org/TR/css-syntax-3/#consume-a-name`](https://www.w3.org/TR/css-syntax-3/#consume-a-name)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
@@ -5034,8 +5042,16 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/):
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
+     * [`https://drafts.csswg.org/css-content-3/#valdef-content-none`](https://drafts.csswg.org/css-content-3/#valdef-content-none)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
+     * [`https://drafts.csswg.org/css-contain-2/#layout-containment`](https://drafts.csswg.org/css-contain-2/#layout-containment)
+     * [`https://drafts.csswg.org/css-contain-2/#style-containment`](https://drafts.csswg.org/css-contain-2/#style-containment)
+     * [`https://drafts.csswg.org/css-contain-2/#property-scoped`](https://drafts.csswg.org/css-contain-2/#property-scoped)
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
+     * [`https://drafts.csswg.org/css-content-3/#valdef-content-normal`](https://drafts.csswg.org/css-content-3/#valdef-content-normal)
+     * [`https://drafts.csswg.org/css-content-3/#valdef-content-none`](https://drafts.csswg.org/css-content-3/#valdef-content-none)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/):
      * [`https://html.spec.whatwg.org/#rtc`](https://html.spec.whatwg.org/#rtc)
      * [`https://html.spec.whatwg.org/#the-rp-element`](https://html.spec.whatwg.org/#the-rp-element)
@@ -5045,6 +5061,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#at-ruledef-counter-style`](https://drafts.csswg.org/css-counter-styles-3/#at-ruledef-counter-style)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/):
      * [`https://html.spec.whatwg.org/#dom-anchor`](https://html.spec.whatwg.org/#dom-anchor)
      * [`https://html.spec.whatwg.org/#focused-area-of-the-document`](https://html.spec.whatwg.org/#focused-area-of-the-document)
@@ -5090,11 +5107,25 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css2/box.html#x14`](https://drafts.csswg.org/css2/box.html#x14)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/):
      * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#decimal`](https://drafts.csswg.org/css-counter-styles-3/#decimal)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#decimal-leading-zero`](https://drafts.csswg.org/css-counter-styles-3/#decimal-leading-zero)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#lower-roman`](https://drafts.csswg.org/css-counter-styles-3/#lower-roman)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#upper-roman`](https://drafts.csswg.org/css-counter-styles-3/#upper-roman)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#georgian`](https://drafts.csswg.org/css-counter-styles-3/#georgian)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#armenian`](https://drafts.csswg.org/css-counter-styles-3/#armenian)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#lower-latin`](https://drafts.csswg.org/css-counter-styles-3/#lower-latin)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#lower-alpha`](https://drafts.csswg.org/css-counter-styles-3/#lower-alpha)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#upper-latin`](https://drafts.csswg.org/css-counter-styles-3/#upper-latin)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#upper-alpha`](https://drafts.csswg.org/css-counter-styles-3/#upper-alpha)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#lower-greek`](https://drafts.csswg.org/css-counter-styles-3/#lower-greek)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/):
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
      * [`https://html.spec.whatwg.org/#link-type-stylesheet`](https://html.spec.whatwg.org/#link-type-stylesheet)
      * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#at-ruledef-counter-style`](https://drafts.csswg.org/css-counter-styles-3/#at-ruledef-counter-style)
+     * [`https://drafts.csswg.org/css-counter-styles-3/#counter-style`](https://drafts.csswg.org/css-counter-styles-3/#counter-style)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/):
      * [`https://drafts.csswg.org/css-transforms/#grouping-property-values`](https://drafts.csswg.org/css-transforms/#grouping-property-values)
      * [`https://html.spec.whatwg.org/#tables-2`](https://html.spec.whatwg.org/#tables-2)
@@ -5115,6 +5146,10 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/):
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/):
+     * [`https://drafts.csswg.org/css-contain-2/#propdef-contain`](https://drafts.csswg.org/css-contain-2/#propdef-contain)
+     * [`https://drafts.csswg.org/css-contain-2/#valdef-contain-paint`](https://drafts.csswg.org/css-contain-2/#valdef-contain-paint)
+     * [`https://drafts.csswg.org/css-contain-2/#paint-containment`](https://drafts.csswg.org/css-contain-2/#paint-containment)
+     * [`https://drafts.csswg.org/css-contain-2/#propdef-content-visibility`](https://drafts.csswg.org/css-contain-2/#propdef-content-visibility)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions/):
      * [`https://drafts.csswg.org/css-color-3/#opacity`](https://drafts.csswg.org/css-color-3/#opacity)
@@ -5140,14 +5175,22 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
      * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-bookmark-label`](https://drafts.csswg.org/css-content-3/#propdef-bookmark-label)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-bookmark-level`](https://drafts.csswg.org/css-content-3/#propdef-bookmark-level)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-bookmark-state`](https://drafts.csswg.org/css-content-3/#propdef-bookmark-state)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-content`](https://drafts.csswg.org/css-content-3/#propdef-content)
+     * [`https://drafts.csswg.org/css-content-3/#propdef-quotes`](https://drafts.csswg.org/css-content-3/#propdef-quotes)
+     * [`https://drafts.csswg.org/css-contain-2/#propdef-contain`](https://drafts.csswg.org/css-contain-2/#propdef-contain)
      * [`https://drafts.csswg.org/css-fonts-3/#absolute-size-value`](https://drafts.csswg.org/css-fonts-3/#absolute-size-value)
      * [`https://drafts.csswg.org/css-fonts-3/#relative-size-value`](https://drafts.csswg.org/css-fonts-3/#relative-size-value)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/):
+     * [`https://drafts.csswg.org/css-counter-styles-3/#disc`](https://drafts.csswg.org/css-counter-styles-3/#disc)
      * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
      * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/):
+     * [`https://drafts.csswg.org/css-counter-styles-3/#disc`](https://drafts.csswg.org/css-counter-styles-3/#disc)
      * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
      * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
@@ -5159,6 +5202,8 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/):
      * [`https://html.spec.whatwg.org/#bidi-rendering`](https://html.spec.whatwg.org/#bidi-rendering)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
+     * [`https://drafts.csswg.org/css-contain-2/#containment`](https://drafts.csswg.org/css-contain-2/#containment)
+     * [`https://www.w3.org/TR/css-contain-1/#contain-property`](https://www.w3.org/TR/css-contain-1/#contain-property)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/):
      * [`https://html.spec.whatwg.org/#html-elements`](https://html.spec.whatwg.org/#html-elements)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
@@ -6136,6 +6181,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-grid/#propdef-grid-row-gap`](https://drafts.csswg.org/css-grid/#propdef-grid-row-gap)
      * [`https://drafts.csswg.org/css-multicol/#propdef-column-gap`](https://drafts.csswg.org/css-multicol/#propdef-column-gap)
      * [`https://drafts.csswg.org/css-values/#vw`](https://drafts.csswg.org/css-values/#vw)
+     * [`https://drafts.csswg.org/css-contain/#skips-its-contents`](https://drafts.csswg.org/css-contain/#skips-its-contents)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-cue-text`](https://w3c.github.io/webvtt/#webvtt-file-using-cue-text)
      * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status)
      * [`https://www.w3.org/TR/css3-color/#css2-system`](https://www.w3.org/TR/css3-color/#css2-system)
@@ -6290,6 +6336,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-box/#containing-block`](https://drafts.csswg.org/css-box/#containing-block)
      * [`https://www.w3.org/TR/hr-time/#domhighrestimestamp`](https://www.w3.org/TR/hr-time/#domhighrestimestamp)
      * [`https://www.w3.org/TR/hr-time/#time-origin`](https://www.w3.org/TR/hr-time/#time-origin)
+     * [`https://drafts.csswg.org/css-contain-2/#content-visibility`](https://drafts.csswg.org/css-contain-2/#content-visibility)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/):
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#classic-script`](https://html.spec.whatwg.org/#classic-script)
@@ -6760,6 +6807,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-form-element`](https://html.spec.whatwg.org/#the-form-element)
      * [`https://html.spec.whatwg.org/#attr-fs-action`](https://html.spec.whatwg.org/#attr-fs-action)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/):
+     * [`https://drafts.csswg.org/css-contain-2/#propdef-contain`](https://drafts.csswg.org/css-contain-2/#propdef-contain)
      * [`https://drafts.csswg.org/css-position-3/#normal-flow`](https://drafts.csswg.org/css-position-3/#normal-flow)
      * [`https://drafts.csswg.org/css-position/#normal-flow`](https://drafts.csswg.org/css-position/#normal-flow)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/):
@@ -7586,6 +7634,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/web-animations/#animation-interpolation`](https://drafts.csswg.org/web-animations/#animation-interpolation)
      * [`https://drafts.csswg.org/web-animations/#discrete-animation-type-section`](https://drafts.csswg.org/web-animations/#discrete-animation-type-section)
      * [`https://drafts.csswg.org/web-animations/#real-number-animation-type`](https://drafts.csswg.org/web-animations/#real-number-animation-type)
+     * [`https://www.w3.org/TR/css-content-3/#propdef-content`](https://www.w3.org/TR/css-content-3/#propdef-content)
      * [`https://www.w3.org/TR/css-color-3/#colorunits`](https://www.w3.org/TR/css-color-3/#colorunits)
      * [`https://www.w3.org/TR/css-color-3/#svg-color`](https://www.w3.org/TR/css-color-3/#svg-color)
      * [`https://www.w3.org/TR/css-selectors-3/#the-user-action-pseudo-classes-hover-act`](https://www.w3.org/TR/css-selectors-3/#the-user-action-pseudo-classes-hover-act)
@@ -9028,7 +9077,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4729 problematic external links found in 292 specifications
+=> 4800 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
