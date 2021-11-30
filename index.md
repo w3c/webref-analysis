@@ -17346,6 +17346,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- External links that neither target definitions nor headings:
+     * [`https://xhr.spec.whatwg.org/#concept-formdata-entry`](https://xhr.spec.whatwg.org/#concept-formdata-entry)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -21545,6 +21547,8 @@ Informative references to this spec from:
 - Unknown WebIDL names used: `ArrayBuffer`
 - External links to private terms:
      * [`https://w3c.github.io/FileAPI/#readOperation`](https://w3c.github.io/FileAPI/#readOperation)
+- External links that neither target definitions nor headings:
+     * [`https://xhr.spec.whatwg.org/#concept-formdata-entry`](https://xhr.spec.whatwg.org/#concept-formdata-entry)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#parallel-queue`](https://html.spec.whatwg.org/#parallel-queue)
@@ -23362,7 +23366,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 26 October 2021
+- Crawled version: 30 November 2021
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 
@@ -23392,6 +23396,11 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#xml-scripting-support-disabled`](https://html.spec.whatwg.org/#xml-scripting-support-disabled)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#htmlformelement`](https://html.spec.whatwg.org/#htmlformelement)
+     * [`https://html.spec.whatwg.org/#entry-list`](https://html.spec.whatwg.org/#entry-list)
+     * [`https://html.spec.whatwg.org/#form-entry`](https://html.spec.whatwg.org/#form-entry)
+     * [`https://html.spec.whatwg.org/#form-entry-name`](https://html.spec.whatwg.org/#form-entry-name)
+     * [`https://html.spec.whatwg.org/#form-entry-value`](https://html.spec.whatwg.org/#form-entry-value)
+     * [`https://html.spec.whatwg.org/#create-an-entry`](https://html.spec.whatwg.org/#create-an-entry)
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 - External links that use a dated URL:

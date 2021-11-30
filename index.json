@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-11-30T06:39:53.488Z",
+  "date": "2021-11-30T12:45:25.257Z",
   "stats": {
     "crawled": 449,
     "errors": 1,
@@ -794,7 +794,9 @@
         },
         "xrefs": {
           "notExported": [],
-          "notDfn": [],
+          "notDfn": [
+            "https://xhr.spec.whatwg.org/#concept-formdata-entry"
+          ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -23609,7 +23611,9 @@
           "notExported": [
             "https://w3c.github.io/FileAPI/#readOperation"
           ],
-          "notDfn": [],
+          "notDfn": [
+            "https://xhr.spec.whatwg.org/#concept-formdata-entry"
+          ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#parallel-queue",
@@ -63527,7 +63531,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "26 October 2021",
+      "date": "30 November 2021",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
@@ -63646,6 +63650,11 @@
             "https://html.spec.whatwg.org/#xml-scripting-support-disabled",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#htmlformelement",
+            "https://html.spec.whatwg.org/#entry-list",
+            "https://html.spec.whatwg.org/#form-entry",
+            "https://html.spec.whatwg.org/#form-entry-name",
+            "https://html.spec.whatwg.org/#form-entry-value",
+            "https://html.spec.whatwg.org/#create-an-entry",
             "https://html.spec.whatwg.org/#constructing-the-form-data-set",
             "https://html.spec.whatwg.org/#the-progress-element"
           ],

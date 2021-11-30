@@ -3159,6 +3159,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/aria/#spinbutton`](https://w3c.github.io/aria/#spinbutton)
      * [`https://w3c.github.io/aria/#slider`](https://w3c.github.io/aria/#slider)
      * [`https://w3c.github.io/aria/#checkbox`](https://w3c.github.io/aria/#checkbox)
+- [App History API](https://wicg.github.io/app-history/):
+     * [`https://xhr.spec.whatwg.org/#concept-formdata-entry`](https://xhr.spec.whatwg.org/#concept-formdata-entry)
 - [ARIA in HTML](https://w3c.github.io/html-aria/):
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-hidden`](https://www.w3.org/TR/wai-aria-1.1/#aria-hidden)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-checked`](https://www.w3.org/TR/wai-aria-1.1/#aria-checked)
@@ -3419,6 +3421,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 - [Event Timing API](https://wicg.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
+- [Fetch Standard](https://fetch.spec.whatwg.org/):
+     * [`https://xhr.spec.whatwg.org/#concept-formdata-entry`](https://xhr.spec.whatwg.org/#concept-formdata-entry)
 - [File System Access](https://wicg.github.io/file-system-access/):
      * [`https://storage.spec.whatwg.org/#site-storage`](https://storage.spec.whatwg.org/#site-storage)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/):
@@ -4012,7 +4016,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 809 problematic external links found in 55 specifications
+=> 811 problematic external links found in 57 specifications
 
 
 ## Broken external links
@@ -9016,10 +9020,15 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#xml-scripting-support-disabled`](https://html.spec.whatwg.org/#xml-scripting-support-disabled)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#htmlformelement`](https://html.spec.whatwg.org/#htmlformelement)
+     * [`https://html.spec.whatwg.org/#entry-list`](https://html.spec.whatwg.org/#entry-list)
+     * [`https://html.spec.whatwg.org/#form-entry`](https://html.spec.whatwg.org/#form-entry)
+     * [`https://html.spec.whatwg.org/#form-entry-name`](https://html.spec.whatwg.org/#form-entry-name)
+     * [`https://html.spec.whatwg.org/#form-entry-value`](https://html.spec.whatwg.org/#form-entry-value)
+     * [`https://html.spec.whatwg.org/#create-an-entry`](https://html.spec.whatwg.org/#create-an-entry)
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4710 problematic external links found in 291 specifications
+=> 4715 problematic external links found in 291 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
