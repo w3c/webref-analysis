@@ -6115,6 +6115,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#parsing`](https://html.spec.whatwg.org/#parsing)
      * [`https://html.spec.whatwg.org/#html-parser`](https://html.spec.whatwg.org/#html-parser)
      * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
+     * [`https://html.spec.whatwg.org/#svg-0`](https://html.spec.whatwg.org/#svg-0)
+     * [`https://html.spec.whatwg.org/#mathml`](https://html.spec.whatwg.org/#mathml)
+     * [`https://html.spec.whatwg.org/#attributes-2`](https://html.spec.whatwg.org/#attributes-2)
+     * [`https://html.spec.whatwg.org/#start-tags`](https://html.spec.whatwg.org/#start-tags)
      * [`https://html.spec.whatwg.org/#parsing-main-inforeign`](https://html.spec.whatwg.org/#parsing-main-inforeign)
      * [`https://html.spec.whatwg.org/#htmltemplateelement`](https://html.spec.whatwg.org/#htmltemplateelement)
      * [`https://html.spec.whatwg.org/#htmlhyperlinkelementutils`](https://html.spec.whatwg.org/#htmlhyperlinkelementutils)
@@ -8714,7 +8718,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
      * [`https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set`](https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set)
      * [`https://html.spec.whatwg.org/#windowproxy`](https://html.spec.whatwg.org/#windowproxy)
-     * [`https://html.spec.whatwg.org/#concept-navigation-id`](https://html.spec.whatwg.org/#concept-navigation-id)
+     * [`https://html.spec.whatwg.org/#navigation-id`](https://html.spec.whatwg.org/#navigation-id)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#parent-browsing-context`](https://html.spec.whatwg.org/#parent-browsing-context)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
@@ -8722,6 +8726,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#source-browsing-context`](https://html.spec.whatwg.org/#source-browsing-context)
      * [`https://html.spec.whatwg.org/#history-handling-behavior`](https://html.spec.whatwg.org/#history-handling-behavior)
+     * [`https://html.spec.whatwg.org/#window-open-steps`](https://html.spec.whatwg.org/#window-open-steps)
+     * [`https://html.spec.whatwg.org/#focusing-steps`](https://html.spec.whatwg.org/#focusing-steps)
      * [`https://html.spec.whatwg.org/#concept-script-base-url`](https://html.spec.whatwg.org/#concept-script-base-url)
      * [`https://html.spec.whatwg.org/#creating-a-new-browsing-context`](https://html.spec.whatwg.org/#creating-a-new-browsing-context)
      * [`https://html.spec.whatwg.org/#realm-execution-context`](https://html.spec.whatwg.org/#realm-execution-context)
@@ -9028,7 +9034,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4715 problematic external links found in 291 specifications
+=> 4721 problematic external links found in 291 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
