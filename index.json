@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-01T00:54:18.988Z",
+  "date": "2021-12-01T06:47:03.292Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -25406,7 +25406,7 @@
     {
       "title": "High Resolution Time",
       "shortname": "hr-time-3",
-      "date": "12 October 2021",
+      "date": "01 December 2021",
       "url": "https://www.w3.org/TR/hr-time-3/",
       "release": {
         "url": "https://www.w3.org/TR/hr-time-3/",
@@ -25643,17 +25643,15 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#worker",
             "https://html.spec.whatwg.org/#sharedworker",
-            "https://html.spec.whatwg.org/#concept-realm-global",
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#creating-a-new-browsing-context",
-            "https://html.spec.whatwg.org/#prompt-to-unload-a-document",
-            "https://html.spec.whatwg.org/#navigate",
-            "https://html.spec.whatwg.org/#concept-document-window",
-            "https://html.spec.whatwg.org/#workerglobalscope",
-            "https://html.spec.whatwg.org/#official-moment-of-creation",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability",
             "https://html.spec.whatwg.org/#global-object",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-settings-object-time-origin",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#navigate",
+            "https://html.spec.whatwg.org/#run-a-worker",
+            "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability",
+            "https://html.spec.whatwg.org/#concept-realm-global",
+            "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#windoworworkerglobalscope"
           ],
@@ -48880,6 +48878,11 @@
               "url": "https://www.w3.org/TR/beacon/",
               "title": "Beacon",
               "crawled": "https://w3c.github.io/beacon/"
+            },
+            {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
