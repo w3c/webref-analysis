@@ -2,510 +2,13 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-01T18:45:40.263Z",
+  "date": "2021-12-02T00:53:07.499Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
     "studied": 449
   },
   "results": [
-    {
-      "title": "500 Internal Server Error",
-      "shortname": "cssom-1",
-      "date": "1 December 2021",
-      "url": "https://www.w3.org/TR/cssom-1/",
-      "release": {
-        "url": "https://www.w3.org/TR/cssom-1/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://drafts.csswg.org/cssom/",
-        "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "cssom-1/Overview.bs",
-        "filename": "Overview.html"
-      },
-      "crawled": "https://drafts.csswg.org/cssom/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Cascading Style Sheets (CSS) Working Group",
-          "url": "https://www.w3.org/Style/CSS/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/CSP3/",
-              "title": "Content Security Policy Level 3",
-              "crawled": "https://w3c.github.io/webappsec-csp/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animations-1/",
-              "title": "CSS Animations Level 1",
-              "crawled": "https://drafts.csswg.org/css-animations/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-sizing-3/",
-              "title": "CSS Box Sizing Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-sizing-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-adjust-1/",
-              "title": "CSS Color Adjustment Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-5/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-3/",
-              "title": "CSS Conditional Rules Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-counter-styles-3/",
-              "title": "CSS Counter Styles Level 3",
-              "crawled": "https://drafts.csswg.org/css-counter-styles/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-highlight-api-1/",
-              "title": "CSS Custom Highlight API Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-variables-1/",
-              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-variables/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
-              "title": "CSS Device Adaptation Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-device-adapt/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-display-3/",
-              "title": "CSS Display Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-display/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-flexbox-1/",
-              "title": "CSS Flexible Box Layout Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-flexbox-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-font-loading-3/",
-              "title": "CSS Font Loading Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-font-loading/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-grid-2/",
-              "title": "CSS Grid Layout Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-grid-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-4/",
-              "title": "CSS Images Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-images-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-layout-api-1/",
-              "title": "CSS Layout API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-logical-1/",
-              "title": "CSS Logical Properties and Values Level 1",
-              "crawled": "https://drafts.csswg.org/css-logical-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-paint-api-1/",
-              "title": "CSS Painting API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
-            },
-            {
-              "url": "https://wicg.github.io/css-parser-api/",
-              "title": "CSS Parser API",
-              "crawled": "https://wicg.github.io/css-parser-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-pseudo-4/",
-              "title": "CSS Pseudo-Elements Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-regions-1/",
-              "title": "CSS Regions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-regions/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-shapes-2/",
-              "title": "CSS Shapes Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-shapes-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-syntax-3/",
-              "title": "CSS Syntax Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-syntax/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-text-3/",
-              "title": "CSS Text Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-text-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-transforms-1/",
-              "title": "CSS Transforms Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-transforms/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-transforms-2/",
-              "title": "CSS Transforms Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-transforms-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
-              "crawled": "https://drafts.csswg.org/css-transitions/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
-              "title": "CSS Transitions Level 2",
-              "crawled": "https://drafts.csswg.org/css-transitions-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-typed-om-1/",
-              "title": "CSS Typed OM Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/input-events-2/",
-              "title": "Input Events Level 2",
-              "crawled": "https://w3c.github.io/input-events/"
-            },
-            {
-              "url": "https://www.w3.org/TR/referrer-policy/",
-              "title": "Referrer Policy",
-              "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
-            },
-            {
-              "url": "https://www.w3.org/TR/SVG2/",
-              "title": "Scalable Vector Graphics (SVG) 2",
-              "crawled": "https://svgwg.org/svg2-draft/"
-            },
-            {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webdriver2/",
-              "title": "WebDriver",
-              "crawled": "https://w3c.github.io/webdriver/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webvtt1/",
-              "title": "WebVTT: The Web Video Text Tracks Format",
-              "crawled": "https://w3c.github.io/webvtt/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/ambient-light/",
-              "title": "Ambient Light Sensor",
-              "crawled": "https://w3c.github.io/ambient-light/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-easing-1/",
-              "title": "CSS Easing Functions Level 1",
-              "crawled": "https://drafts.csswg.org/css-easing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
-            },
-            {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
-            },
-            {
-              "url": "https://webidl.spec.whatwg.org/",
-              "title": "Web IDL Standard",
-              "crawled": "https://webidl.spec.whatwg.org/"
-            }
-          ]
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "500 Internal Server Error",
-      "shortname": "cssom-view-1",
-      "date": "1 December 2021",
-      "url": "https://www.w3.org/TR/cssom-view-1/",
-      "release": {
-        "url": "https://www.w3.org/TR/cssom-view-1/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://drafts.csswg.org/cssom-view/",
-        "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "cssom-view-1/Overview.bs",
-        "filename": "Overview.html"
-      },
-      "crawled": "https://drafts.csswg.org/cssom-view/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Cascading Style Sheets (CSS) Working Group",
-          "url": "https://www.w3.org/Style/CSS/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-contain-2/",
-              "title": "CSS Containment Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-paint-api-1/",
-              "title": "CSS Painting API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-scroll-anchoring-1/",
-              "title": "CSS Scroll Anchoring Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scroll-anchoring/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-scroll-snap-1/",
-              "title": "CSS Scroll Snap Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nav-1/",
-              "title": "CSS Spatial Navigation Level 1",
-              "crawled": "https://drafts.csswg.org/css-nav-1/"
-            },
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/intersection-observer/",
-              "title": "Intersection Observer",
-              "crawled": "https://w3c.github.io/IntersectionObserver/"
-            },
-            {
-              "url": "https://wicg.github.io/largest-contentful-paint/",
-              "title": "Largest Contentful Paint",
-              "crawled": "https://wicg.github.io/largest-contentful-paint/"
-            },
-            {
-              "url": "https://wicg.github.io/layout-instability/",
-              "title": "Layout Instability API",
-              "crawled": "https://wicg.github.io/layout-instability/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediaqueries-4/",
-              "title": "Media Queries Level 4",
-              "crawled": "https://drafts.csswg.org/mediaqueries-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediaqueries-5/",
-              "title": "Media Queries Level 5",
-              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/pointerevents3/",
-              "title": "Pointer Events",
-              "crawled": "https://w3c.github.io/pointerevents/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resize-observer-1/",
-              "title": "Resize Observer",
-              "crawled": "https://drafts.csswg.org/resize-observer/"
-            },
-            {
-              "url": "https://wicg.github.io/responsive-image-client-hints/",
-              "title": "Responsive Image Client Hints",
-              "crawled": "https://wicg.github.io/responsive-image-client-hints/"
-            },
-            {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            },
-            {
-              "url": "https://wicg.github.io/scroll-to-text-fragment/",
-              "title": "Text Fragments",
-              "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
-            },
-            {
-              "url": "https://wicg.github.io/visual-viewport/",
-              "title": "Visual Viewport API",
-              "crawled": "https://wicg.github.io/visual-viewport/"
-            },
-            {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webdriver2/",
-              "title": "WebDriver",
-              "crawled": "https://w3c.github.io/webdriver/"
-            },
-            {
-              "url": "https://wicg.github.io/window-controls-overlay/",
-              "title": "Window Controls Overlay",
-              "crawled": "https://wicg.github.io/window-controls-overlay/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-regions-1/",
-              "title": "CSS Regions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-regions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-transforms-1/",
-              "title": "CSS Transforms Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-transforms/"
-            },
-            {
-              "url": "https://dom.spec.whatwg.org/",
-              "title": "DOM Standard",
-              "crawled": "https://dom.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/geometry-1/",
-              "title": "Geometry Interfaces Module Level 1",
-              "crawled": "https://drafts.fxtf.org/geometry/"
-            },
-            {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
-            }
-          ]
-        },
-        "ok": false
-      }
-    },
     {
       "title": "A Well-Known URL for Changing Passwords",
       "shortname": "change-password-url",
@@ -2685,6 +2188,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -2698,7 +2206,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://drafts.csswg.org/css-transitions/#animtype-color",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -2826,8 +2333,7 @@
             "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-body-element",
-            "https://html.spec.whatwg.org/#2dcontext",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#2dcontext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -3561,11 +3067,7 @@
             "https://fetch.spec.whatwg.org/#concept-request-target-browsing-context",
             "https://webassembly.github.io/spec/js-api/#dom-host-ensure-can-compile-wasm-bytes",
             "https://webassembly.github.io/spec/web-api/#exceptiondef-compileerror",
-            "https://w3c.github.io/reporting/#group",
-            "https://www.w3.org/TR/cssom-1/#insert-a-css-rule",
-            "https://www.w3.org/TR/cssom-1/#parse-a-css-rule",
-            "https://www.w3.org/TR/cssom-1/#parse-a-css-declaration-block",
-            "https://www.w3.org/TR/cssom-1/#parse-a-group-of-selectors"
+            "https://w3c.github.io/reporting/#group"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -4668,6 +4170,11 @@
               "crawled": "https://drafts.csswg.org/css-nesting/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -4942,7 +4449,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-style-attribute"
           ],
           "evolvingLinks": [],
@@ -5087,7 +4593,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-style-attribute"
           ],
           "evolvingLinks": [],
@@ -5131,9 +4636,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "CSS"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -5193,7 +4696,6 @@
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#run-the-animation-frame-callbacks",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css",
             "https://w3c.github.io/html/infrastructure.html#structureddeserialize",
             "https://w3c.github.io/html/infrastructure.html#structuredserialize",
             "https://w3c.github.io/web-animations/level-2/#group-effect",
@@ -5236,10 +4738,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSSOMString",
-          "CSSRule",
-          "CSSRuleList",
-          "CSSStyleDeclaration"
+          "CSSOMString"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -5313,6 +4812,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -5404,20 +4908,11 @@
             "https://drafts.csswg.org/css-easing-1/#input-progress-value",
             "https://drafts.csswg.org/css-easing-1/#step-easing-function",
             "https://drafts.csswg.org/css-easing-1/#step-position",
-            "https://drafts.csswg.org/css-easing-1/#output-progress-value"
+            "https://drafts.csswg.org/css-easing-1/#output-progress-value",
+            "https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#dom-cssstyledeclaration-csstext",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-declarations",
-            "https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-parent-css-rule",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-owner-node",
-            "https://drafts.csswg.org/cssom-1/#cssrulelist",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#html-elements",
@@ -5531,10 +5026,7 @@
             "https://drafts.csswg.org/web-animations-1/#sampling",
             "https://drafts.csswg.org/web-animations-1/#pending-play-state",
             "https://drafts.csswg.org/web-animations-1/#active-phase",
-            "https://drafts.csswg.org/cssom-1/#resolved-value",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/css-values-4/#css-identifier",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://drafts.csswg.org/css-values-4/#css-identifier"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -5724,6 +5216,11 @@
               "crawled": "https://drafts.csswg.org/css-multicol/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -5817,6 +5314,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://wicg.github.io/element-timing/",
@@ -5915,7 +5417,6 @@
           "brokenLinks": [
             "https://www.w3.org/TR/css-transitions-1/#animatable-types",
             "https://www.w3.org/TR/css-color-4/#currentcolor",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-body-element",
             "https://www.w3.org/TR/selectors-3/#sel-first-line",
             "https://www.w3.org/TR/selectors-3/#first-letter0",
@@ -6000,7 +5501,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://www.w3.org/TR/css3-transitions/#animtype-color"
           ],
           "evolvingLinks": [],
@@ -6097,6 +5597,11 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
@@ -6137,6 +5642,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             }
           ]
         },
@@ -6147,7 +5657,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#video",
             "https://html.spec.whatwg.org/#the-picture-element",
@@ -6323,6 +5832,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -6370,8 +5884,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom-1/#serializing-css-values",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://drafts.csswg.org/selectors-3/#first-formatted-line0"
           ],
           "evolvingLinks": [],
@@ -6469,6 +5981,11 @@
               "crawled": "https://drafts.csswg.org/css-shapes/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -6502,9 +6019,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -6637,6 +6152,11 @@
               "url": "https://www.w3.org/TR/css-logical-1/",
               "title": "CSS Logical Properties and Values Level 1",
               "crawled": "https://drafts.csswg.org/css-logical-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -6777,9 +6297,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -6940,6 +6458,11 @@
               "crawled": "https://drafts.csswg.org/css-multicol-2/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -7061,9 +6584,6 @@
             "https://www.w3.org/TR/css-ui-3/#box-sizing"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#resolved-value",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
             "https://html.spec.whatwg.org/#the-button-element",
             "https://html.spec.whatwg.org/#concept-textarea-raw-value",
             "https://html.spec.whatwg.org/#the-textarea-element",
@@ -7184,7 +6704,6 @@
             "https://www.w3.org/TR/css-flexbox-1/#algo-main-item"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-iframe-element"
           ],
           "evolvingLinks": [],
@@ -7264,6 +6783,11 @@
               "crawled": "https://drafts.csswg.org/css-logical-1/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax/"
@@ -7305,9 +6829,7 @@
             "https://html.spec.whatwg.org/#quirks-mode",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints",
-            "https://html.spec.whatwg.org/#the-s-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle"
+            "https://html.spec.whatwg.org/#the-s-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -7424,24 +6946,20 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
-            "https://drafts.csswg.org/cssom-1/#dom-cssimportrule-stylesheet",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
             "https://html.spec.whatwg.org/#cors-same-origin",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints",
             "https://html.spec.whatwg.org/#the-s-element",
-            "https://html.spec.whatwg.org/#the-slot-element",
-            "https://www.w3.org/TR/cssom-1/#serializing-css-values",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#the-slot-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -7696,6 +7214,11 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -7875,24 +7398,20 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
-            "https://drafts.csswg.org/cssom-1/#dom-cssimportrule-stylesheet",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
             "https://html.spec.whatwg.org/#cors-same-origin",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints",
             "https://html.spec.whatwg.org/#the-s-element",
-            "https://html.spec.whatwg.org/#the-slot-element",
-            "https://www.w3.org/TR/cssom-1/#serializing-css-values",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#the-slot-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8006,7 +7525,6 @@
             "https://drafts.csswg.org/css-cascade-5/#cascade-layers",
             "https://drafts.csswg.org/css-cascade-5/#at-ruledef-layer",
             "https://drafts.csswg.org/css-cascade-5/#valdef-all-revert-layer",
-            "https://drafts.csswg.org/cssom/#documentorshadowroot-final-css-style-sheets",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#content-type"
           ],
@@ -8101,15 +7619,13 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#meta-color-scheme",
             "https://html.spec.whatwg.org/#meta",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-em-element",
             "https://html.spec.whatwg.org/#the-button-element",
-            "https://html.spec.whatwg.org/#the-body-element",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle"
+            "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8263,6 +7779,11 @@
               "crawled": "https://drafts.csswg.org/css-nesting/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
@@ -8412,9 +7933,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#resolved-value",
-            "https://drafts.csswg.org/cssom-1/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-mark-element"
           ],
           "evolvingLinks": [],
@@ -8533,11 +8051,11 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
+          "notExported": [
             "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
           ],
+          "notDfn": [],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -8575,11 +8093,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSS",
-          "CSSGroupingRule",
-          "CSSOMString",
-          "CSSRule",
-          "MediaList"
+          "CSSOMString"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -8645,6 +8159,11 @@
               "crawled": "https://drafts.csswg.org/css-nesting/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
@@ -8707,13 +8226,7 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-link-element",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#cssgroupingrule",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#dom-medialist-mediatext",
-            "https://drafts.csswg.org/cssom-1/#medialist",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css"
+            "https://html.spec.whatwg.org/#the-link-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8930,16 +8443,13 @@
             "https://drafts.csswg.org/css-ui-3/#propdef-text-overflow"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-html-element",
             "https://html.spec.whatwg.org/#the-body-element",
             "https://html.spec.whatwg.org/#focus",
             "https://html.spec.whatwg.org/#update-the-rendering",
             "https://html.spec.whatwg.org/#dom-window-focus",
             "https://html.spec.whatwg.org/#the-iframe-element",
-            "https://html.spec.whatwg.org/#dom-innertext",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-getboundingclientrect",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-scrollintoview"
+            "https://html.spec.whatwg.org/#dom-innertext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8978,8 +8488,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSSOMString",
-          "CSSRule"
+          "CSSOMString"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -9005,6 +8514,11 @@
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -9040,9 +8554,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-details-element",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#cssomstring"
+            "https://html.spec.whatwg.org/#the-details-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9054,7 +8566,7 @@
     {
       "title": "CSS Custom Highlight API Module Level 1",
       "shortname": "css-highlight-api-1",
-      "date": "8 September 2021",
+      "date": "1 December 2021",
       "url": "https://www.w3.org/TR/css-highlight-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-highlight-api-1/",
@@ -9080,9 +8592,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "CSS"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -9101,7 +8611,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#concept-document-window"
           ],
@@ -9201,6 +8710,11 @@
               "crawled": "https://drafts.csswg.org/css-lists-3/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
@@ -9256,15 +8770,11 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-cascade/#applies-to"
+            "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-declarations",
-            "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag",
-            "https://drafts.csswg.org/cssom-1/#dom-cssstyledeclaration-getpropertyvalue"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -9301,10 +8811,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "CSSRule",
-          "CSSStyleDeclaration"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -9320,6 +8827,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -9328,6 +8840,11 @@
               "url": "https://www.w3.org/TR/css-round-display-1/",
               "title": "CSS Round Display Level 1",
               "crawled": "https://drafts.csswg.org/css-round-display/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -9352,9 +8869,7 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/css3-syntax/#property-defs",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration"
+            "https://www.w3.org/TR/css3-syntax/#property-defs"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9568,6 +9083,11 @@
               "crawled": "https://drafts.csswg.org/css-multicol/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -9688,6 +9208,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -9787,8 +9312,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-summary-element",
             "https://html.spec.whatwg.org/#the-legend-element",
             "https://html.spec.whatwg.org/#the-fieldset-element",
@@ -9813,8 +9336,7 @@
             "https://html.spec.whatwg.org/#rendered-legend",
             "https://html.spec.whatwg.org/#the-button-element",
             "https://html.spec.whatwg.org/#the-details-element",
-            "https://html.spec.whatwg.org/#the-body-element",
-            "https://www.w3.org/TR/cssom-1/#serializing-css-values"
+            "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -10048,9 +9570,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -10180,9 +9700,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -10374,9 +9892,7 @@
             "https://www.w3.org/TR/css3-break/#end-block"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://html.spec.whatwg.org/#attr-tabindex",
-            "https://drafts.csswg.org/cssom-1/#resolved-value"
+            "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -10461,8 +9977,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#documentorshadowroot-document-or-shadow-root-css-style-sheets",
             "https://drafts.csswg.org/css-fonts-3/#descdef-src",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#workerglobalscope",
@@ -10507,9 +10021,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSSOMString",
-          "CSSRule",
-          "CSSStyleDeclaration"
+          "CSSOMString"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -10630,6 +10142,11 @@
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -10763,19 +10280,13 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
             "https://drafts.csswg.org/css-inline-3/#ascent-metric",
             "https://drafts.csswg.org/css-inline-3/#descent-metric",
             "https://drafts.csswg.org/css-inline-3/#line-gap-metric"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-declarations",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
             "https://html.spec.whatwg.org/#font"
           ],
           "evolvingLinks": [],
@@ -10847,9 +10358,7 @@
             "https://drafts.csswg.org/css-inline-3/#line-gap-metric"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -11090,9 +10599,7 @@
           "notDfn": [
             "https://www.w3.org/TR/css3-page/#left-right-first"
           ],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -11274,6 +10781,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -11304,9 +10816,7 @@
           "notDfn": [
             "https://www.w3.org/TR/css-page-3/#left-right-first"
           ],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -11412,7 +10922,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://www.w3.org/TR/css3-selectors/#first-letter",
             "https://drafts.csswg.org/css-color/#cmyk-colors",
             "https://drafts.csswg.org/css-overflow-3/#paginated-overflow"
@@ -11486,9 +10995,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -11613,7 +11120,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-img-element"
           ],
           "evolvingLinks": [],
@@ -11785,11 +11291,7 @@
             "https://www.w3.org/TR/css3-break/#end-block"
           ],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#attr-tabindex",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://www.w3.org/TR/cssom/#resolved-values",
-            "https://drafts.csswg.org/cssom-1/#resolved-value-special-case-property",
-            "https://drafts.csswg.org/cssom-1/#resolved-value"
+            "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -11855,9 +11357,7 @@
           "notDfn": [
             "https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order"
           ],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -12037,6 +11537,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -12073,8 +11578,7 @@
             "https://html.spec.whatwg.org/#concept-imagebitmap-good",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#attr-img-src",
-            "https://html.spec.whatwg.org/#the-img-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#the-img-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -12115,9 +11619,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "CSS"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -12221,14 +11723,11 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#cssstylesheet",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css",
             "https://html.spec.whatwg.org/#the-picture-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#canvas",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#video",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#video"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -12432,7 +11931,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#textmetrics"
           ],
           "evolvingLinks": [],
@@ -12471,9 +11969,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "CSS"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -12515,9 +12011,7 @@
             "https://html.spec.whatwg.org/#worklets-idempotent",
             "https://html.spec.whatwg.org/#concept-global-object-realm",
             "https://html.spec.whatwg.org/#structureddeserialize",
-            "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css",
-            "https://drafts.csswg.org/cssom-1/#supported-css-property"
+            "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -12609,7 +12103,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://drafts.csswg.org/css-inline/#central"
           ],
           "evolvingLinks": [],
@@ -12717,6 +12210,11 @@
               "crawled": "https://drafts.csswg.org/css-inline-3/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -12766,7 +12264,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-li-element",
             "https://html.spec.whatwg.org/#the-ul-element",
             "https://html.spec.whatwg.org/#the-ol-element",
@@ -12848,6 +12345,11 @@
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position/"
@@ -12886,9 +12388,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -13057,7 +12557,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage"
           ],
           "evolvingLinks": [],
@@ -13137,9 +12636,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -13303,9 +12800,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -13369,9 +12864,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -13420,6 +12913,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
             {
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
@@ -13492,11 +12990,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSSOMString",
-          "CSSRule",
-          "CSSRuleList",
-          "CSSStyleDeclaration",
-          "CSSStyleRule"
+          "CSSOMString"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -13509,7 +13003,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            }
+          ],
           "informative": [
             {
               "url": "https://drafts.csswg.org/css-cascade-6/",
@@ -13524,29 +13024,373 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-child-css-rules",
+            "https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order"
+          ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-div-element",
-            "https://drafts.csswg.org/cssom-1/#cssstylerule",
-            "https://drafts.csswg.org/cssom-1/#cssrulelist",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-child-css-rules",
-            "https://drafts.csswg.org/cssom-1/#insert-a-css-rule",
-            "https://drafts.csswg.org/cssom-1/#remove-a-css-rule",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#dom-cssstyledeclaration-csstext",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration",
-            "https://drafts.csswg.org/cssom-1/#serialize-a-group-of-selectors",
-            "https://drafts.csswg.org/cssom-1/#dom-cssstylerule-selectortext",
-            "https://drafts.csswg.org/cssom-1/#parse-a-group-of-selectors",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-computed-flag",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-declarations",
-            "https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-parent-css-rule",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-owner-node",
-            "https://drafts.csswg.org/cssom-1/#serialize-a-css-declaration-block",
-            "https://drafts.csswg.org/cssom-1/#serialize-a-css-rule"
+            "https://html.spec.whatwg.org/#the-div-element"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "CSS Object Model (CSSOM)",
+      "shortname": "cssom-1",
+      "date": "24 August 2021",
+      "url": "https://www.w3.org/TR/cssom-1/",
+      "release": {
+        "url": "https://www.w3.org/TR/cssom-1/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://drafts.csswg.org/cssom/",
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "cssom-1/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/cssom/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [
+          "CSSOMString"
+        ],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/CSP3/",
+              "title": "Content Security Policy Level 3",
+              "crawled": "https://w3c.github.io/webappsec-csp/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
+              "title": "CSS Animation Worklet API",
+              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-sizing-3/",
+              "title": "CSS Box Sizing Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-sizing-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-adjust-1/",
+              "title": "CSS Color Adjustment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-5/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-3/",
+              "title": "CSS Conditional Rules Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-counter-styles-3/",
+              "title": "CSS Counter Styles Level 3",
+              "crawled": "https://drafts.csswg.org/css-counter-styles/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-highlight-api-1/",
+              "title": "CSS Custom Highlight API Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-variables-1/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "title": "CSS Device Adaptation Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-device-adapt/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-flexbox-1/",
+              "title": "CSS Flexible Box Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-flexbox-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-font-loading-3/",
+              "title": "CSS Font Loading Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-font-loading/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-grid-2/",
+              "title": "CSS Grid Layout Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-grid-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-layout-api-1/",
+              "title": "CSS Layout API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-logical-1/",
+              "title": "CSS Logical Properties and Values Level 1",
+              "crawled": "https://drafts.csswg.org/css-logical-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-paint-api-1/",
+              "title": "CSS Painting API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
+            },
+            {
+              "url": "https://wicg.github.io/css-parser-api/",
+              "title": "CSS Parser API",
+              "crawled": "https://wicg.github.io/css-parser-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-position-3/",
+              "title": "CSS Positioned Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-position/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-pseudo-4/",
+              "title": "CSS Pseudo-Elements Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-regions-1/",
+              "title": "CSS Regions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-regions/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-shapes-2/",
+              "title": "CSS Shapes Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-shapes-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-syntax-3/",
+              "title": "CSS Syntax Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-3/",
+              "title": "CSS Text Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transforms-1/",
+              "title": "CSS Transforms Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-transforms/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transforms-2/",
+              "title": "CSS Transforms Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-transforms-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transitions-1/",
+              "title": "CSS Transitions",
+              "crawled": "https://drafts.csswg.org/css-transitions/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "title": "CSS Transitions Level 2",
+              "crawled": "https://drafts.csswg.org/css-transitions-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
+            },
+            {
+              "url": "https://www.w3.org/TR/referrer-policy/",
+              "title": "Referrer Policy",
+              "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
+            },
+            {
+              "url": "https://www.w3.org/TR/SVG2/",
+              "title": "Scalable Vector Graphics (SVG) 2",
+              "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webdriver2/",
+              "title": "WebDriver",
+              "crawled": "https://w3c.github.io/webdriver/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webvtt1/",
+              "title": "WebVTT: The Web Video Text Tracks Format",
+              "crawled": "https://w3c.github.io/webvtt/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/ambient-light/",
+              "title": "Ambient Light Sensor",
+              "crawled": "https://w3c.github.io/ambient-light/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-easing-1/",
+              "title": "CSS Easing Functions Level 1",
+              "crawled": "https://drafts.csswg.org/css-easing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "CSS Images Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
+            },
+            {
+              "url": "https://webidl.spec.whatwg.org/",
+              "title": "Web IDL Standard",
+              "crawled": "https://webidl.spec.whatwg.org/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [
+            "https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0"
+          ],
+          "brokenLinks": [
+            "https://drafts.csswg.org/selectors-3/#sel-before",
+            "https://drafts.csswg.org/selectors-3/#sel-after",
+            "https://html.spec.whatwg.org/#concept-script-base-url",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#current-global-object",
+            "https://html.spec.whatwg.org/#the-style-element:concept-css-style-sheet-title",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#tree-order",
+            "https://html.spec.whatwg.org/#ascii-case-insensitive",
+            "https://html.spec.whatwg.org/#concept-origin",
+            "https://html.spec.whatwg.org/#cors-same-origin",
+            "https://html.spec.whatwg.org/#content-type",
+            "https://html.spec.whatwg.org/#the-style-element",
+            "https://html.spec.whatwg.org/#document-base-url",
+            "https://html.spec.whatwg.org/#xml-parser",
+            "https://html.spec.whatwg.org/#a-style-sheet-that-is-blocking-scripts",
+            "https://html.spec.whatwg.org/#event-loop",
+            "https://html.spec.whatwg.org/#cereactions",
+            "https://html.spec.whatwg.org/#html-elements",
+            "https://html.spec.whatwg.org/#htmlelement",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#browsing-context-container",
+            "https://html.spec.whatwg.org/#being-rendered",
+            "https://drafts.csswg.org/css-color-3/#alphavalue-def"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -13676,6 +13520,11 @@
               "crawled": "https://drafts.csswg.org/css-multicol/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
@@ -13756,6 +13605,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -13809,17 +13663,15 @@
             "https://drafts.csswg.org/css-transforms-2/#3d-rendering-context",
             "https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area",
             "https://drafts.csswg.org/css-backgrounds-3/#outer-box-shadow",
-            "https://www.w3.org/TR/css-cascade/#applies-to"
+            "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://drafts.csswg.org/cssom-view-1/#concept-instant-scroll",
+            "https://drafts.csswg.org/cssom-view-1/#concept-smooth-scroll"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-html-element",
             "https://html.spec.whatwg.org/#html-vs-xhtml",
-            "https://html.spec.whatwg.org/#the-body-element",
-            "https://drafts.csswg.org/cssom-view-1/#scrolling-box",
-            "https://drafts.csswg.org/cssom-view-1/#concept-instant-scroll",
-            "https://drafts.csswg.org/cssom-view-1/#concept-smooth-scroll"
+            "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -13927,7 +13779,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://drafts.csswg.org/selectors-3/#subject",
             "https://www.w3.org/TR/css3-transitions/#animatable-types",
             "https://html.spec.whatwg.org/#dom-dir"
@@ -13998,14 +13849,11 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/uievents/#default-action",
+            "https://drafts.csswg.org/cssom-view/#viewport",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view/#viewport",
-            "https://drafts.csswg.org/cssom-view/#dom-document-scrollingelement",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -14102,9 +13950,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -14210,6 +14056,11 @@
               "crawled": "https://drafts.csswg.org/css-gcpm/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position/"
@@ -14296,9 +14147,7 @@
           "notDfn": [
             "https://www.w3.org/TR/css3-break/#btw-blocks"
           ],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -14337,9 +14186,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "CSS"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -14398,10 +14245,7 @@
             "https://html.spec.whatwg.org/#concept-worklet-global-scopes",
             "https://html.spec.whatwg.org/#create-a-worklet-global-scope",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#worklets-idempotent",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css",
-            "https://drafts.csswg.org/cssom-1/#supported-css-property",
-            "https://drafts.csswg.org/cssom-view-1/#dom-window-devicepixelratio"
+            "https://html.spec.whatwg.org/#worklets-idempotent"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -14435,9 +14279,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "CSS"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -14454,8 +14296,7 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#attr-img-sizes",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css"
+            "https://html.spec.whatwg.org/#attr-img-sizes"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -14581,6 +14422,11 @@
               "crawled": "https://drafts.csswg.org/css-multicol/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
@@ -14636,6 +14482,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -14689,10 +14540,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#resolved-value"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -14734,9 +14582,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSS",
-          "CSSOMString",
-          "CSSRule"
+          "CSSOMString"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -14775,12 +14621,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#serialize-a-css-value",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#serialize-an-identifier",
-            "https://drafts.csswg.org/cssom-1/#serialize-a-string",
             "https://www.w3.org/TR/css-syntax-3/#consume-a-name",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#concept-document-window"
@@ -14952,6 +14792,11 @@
               "crawled": "https://drafts.csswg.org/css-text-3/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors/"
@@ -14980,9 +14825,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/css-color-3/#color0",
-            "https://drafts.csswg.org/selectors-3/#x",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration"
+            "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -15129,11 +14972,7 @@
             "https://drafts.csswg.org/css3-multicol/#multi-column-element"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://html.spec.whatwg.org/#attr-tabindex",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-view/#extensions-to-the-htmlelement-interface",
-            "https://drafts.csswg.org/cssom-view/#extensions-to-the-document-interface"
+            "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -15224,9 +15063,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -15305,9 +15142,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -15439,7 +15274,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#rtc",
             "https://html.spec.whatwg.org/#the-rp-element",
             "https://html.spec.whatwg.org/#the-ruby-element"
@@ -15518,6 +15352,16 @@
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -15620,9 +15464,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view-1/#scrolling-box",
-            "https://drafts.csswg.org/cssom-view-1/#eventdef-document-scroll",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-getboundingclientrect",
             "https://html.spec.whatwg.org/#dom-anchor",
             "https://html.spec.whatwg.org/#focused-area-of-the-document",
             "https://html.spec.whatwg.org/#editing-host",
@@ -15630,8 +15471,7 @@
             "https://html.spec.whatwg.org/#the-textarea-element",
             "https://html.spec.whatwg.org/#the-input-element",
             "https://html.spec.whatwg.org/#fip-active-match",
-            "https://html.spec.whatwg.org/#processing-model-8",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#processing-model-8"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -15726,10 +15566,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view-1/#dom-window-scrollto",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-scrollintoview",
-            "https://drafts.csswg.org/cssom-view-1/#dom-window-scrollby",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-body-element",
             "https://html.spec.whatwg.org/#the-section-element"
           ],
@@ -15812,7 +15648,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
@@ -15862,6 +15697,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
@@ -16022,8 +15862,7 @@
             "https://www.w3.org/TR/css3-transitions/#animatable-types",
             "https://www.w3.org/TR/css3-transitions/#animtype-simple-list",
             "https://www.w3.org/TR/css3-transitions/#animtype-lpcalc",
-            "https://www.w3.org/TR/css-box-3/#the-css-box-model",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://www.w3.org/TR/css-box-3/#the-css-box-model"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -16112,15 +15951,12 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-shapes-1/#reference-box",
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
             "https://www.w3.org/TR/css3-exclusions/#wrapping-context",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#cssstylerule",
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -16194,7 +16030,8 @@
           "notExported": [
             "https://w3c.github.io/uievents/#keydown",
             "https://w3c.github.io/uievents/#event-target",
-            "https://www.w3.org/TR/css-cascade/#applies-to"
+            "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://drafts.csswg.org/cssom-view-1/#scroll-an-element"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -16218,9 +16055,7 @@
             "https://html.spec.whatwg.org/#nodes-are-removed",
             "https://html.spec.whatwg.org/#attr-tabindex",
             "https://html.spec.whatwg.org/#sequential-focus-navigation-order",
-            "https://drafts.csswg.org/css2/box.html#x14",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-view-1/#scroll-an-element"
+            "https://drafts.csswg.org/css2/box.html#x14"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -16321,8 +16156,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-span-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#the-span-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -16580,6 +16414,11 @@
               "crawled": "https://drafts.csswg.org/css-nesting/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -16709,15 +16548,15 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#link-type-stylesheet",
-            "https://html.spec.whatwg.org/#attr-img-sizes",
-            "https://drafts.csswg.org/cssom/#requirements-on-user-agents-implementing-the-xml-stylesheet-processing-instruction",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location"
+            "https://html.spec.whatwg.org/#attr-img-sizes"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -16830,9 +16669,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://drafts.csswg.org/css-transforms/#grouping-property-values",
-            "https://drafts.csswg.org/cssom-view/#extensions-to-the-htmlelement-interface",
             "https://html.spec.whatwg.org/#tables-2"
           ],
           "evolvingLinks": [],
@@ -16965,7 +16802,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-ins-element",
             "https://html.spec.whatwg.org/#the-del-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://www.w3.org/TR/css-color-3/#color0"
           ],
           "evolvingLinks": [],
@@ -17131,7 +16967,6 @@
             "https://www.w3.org/TR/css-ruby-1/#autohide"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
@@ -17305,6 +17140,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -17393,10 +17233,7 @@
             "https://html.spec.whatwg.org/#language",
             "https://html.spec.whatwg.org/#newlines",
             "https://html.spec.whatwg.org/#preprocessing-the-input-stream",
-            "https://html.spec.whatwg.org/#the-wbr-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#resolved-value",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle"
+            "https://html.spec.whatwg.org/#the-wbr-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17516,8 +17353,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-wbr-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#the-wbr-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17681,6 +17517,11 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -17755,11 +17596,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom-view/#dom-element-getclientrects",
-            "https://www.w3.org/TR/cssom-view/#dom-element-getboundingclientrect",
-            "https://html.spec.whatwg.org/#the-div-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#resolved-value-special-case-property"
+            "https://html.spec.whatwg.org/#the-div-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17875,10 +17712,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
-            "https://drafts.csswg.org/cssom-1/#resolved-value",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
-            "https://drafts.csswg.org/cssom-1/#resolved-value-special-case-property-like-height",
             "https://html.spec.whatwg.org/#the-a-element"
           ],
           "evolvingLinks": [],
@@ -18070,7 +17903,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/css-color-3/#opacity",
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#concept-event-dispatch",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
@@ -18080,8 +17912,7 @@
             "https://html.spec.whatwg.org/#document",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#globaleventhandlers",
-            "https://html.spec.whatwg.org/#eventhandler",
-            "https://drafts.csswg.org/cssom-1/#cssomstring"
+            "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18161,9 +17992,7 @@
             "https://drafts.csswg.org/web-animations/#current-time",
             "https://drafts.csswg.org/web-animations/#pending-play-state",
             "https://drafts.csswg.org/web-animations/#target-effect-end",
-            "https://html.spec.whatwg.org/#being-rendered",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle"
+            "https://html.spec.whatwg.org/#being-rendered"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18206,10 +18035,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSS",
-          "CSSPercentishArray",
-          "CSSStyleRule",
-          "ElementCSSInlineStyle"
+          "CSSPercentishArray"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -18279,6 +18105,7 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
             "https://drafts.csswg.org/css-values-4/#relative-length",
             "https://www.w3.org/TR/geometry-1/#dommatrixreadonly-stringification-behavior"
           ],
@@ -18286,22 +18113,12 @@
             "https://drafts.fxtf.org/compositing-2/#propdef-mix"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-1/#css-declaration-block",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-declarations",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
-            "https://drafts.csswg.org/cssom-1/#resolved-value",
-            "https://drafts.csswg.org/cssom-1/#cssstylerule",
-            "https://drafts.csswg.org/cssom-1/#elementcssinlinestyle",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css",
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://drafts.csswg.org/css-fonts-3/#absolute-size-value",
-            "https://drafts.csswg.org/css-fonts-3/#relative-size-value",
-            "https://www.w3.org/TR/cssom-1/#serializing-css-values"
+            "https://drafts.csswg.org/css-fonts-3/#relative-size-value"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18965,6 +18782,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -19042,8 +18864,6 @@
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
-            "https://www.w3.org/TR/cssom-1/#serializing-css-values",
-            "https://www.w3.org/TR/cssom-1/#resolved-values",
             "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
@@ -19393,6 +19213,11 @@
               "crawled": "https://drafts.csswg.org/css-namespaces/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -19563,6 +19388,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://wicg.github.io/custom-state-pseudo-class/",
               "title": "Custom State Pseudo Class",
               "crawled": "https://wicg.github.io/custom-state-pseudo-class/"
@@ -19654,6 +19484,9 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-syntax-3/#consume-a-url-token",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-stylesheet-base-url",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
             "https://drafts.csswg.org/selectors-4/#typedef-wq-name"
           ],
           "notDfn": [],
@@ -19665,12 +19498,6 @@
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
-            "https://www.w3.org/TR/cssom-1/#serializing-css-values",
-            "https://www.w3.org/TR/cssom-1/#resolved-values",
-            "https://drafts.csswg.org/cssom-1/#cssstylesheet",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-stylesheet-base-url",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
             "https://www.w3.org/TR/css-values-3/#acknowledgements"
           ],
           "evolvingLinks": [],
@@ -19761,9 +19588,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -20031,6 +19856,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -20096,14 +19926,232 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#bidi-rendering",
-            "https://html.spec.whatwg.org/#the-body-element",
-            "https://www.w3.org/TR/cssom/#serializing-css-values"
+            "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
             "https://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/"
           ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "CSSOM View Module",
+      "shortname": "cssom-view-1",
+      "date": "2 August 2021",
+      "url": "https://www.w3.org/TR/cssom-view-1/",
+      "release": {
+        "url": "https://www.w3.org/TR/cssom-view-1/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://drafts.csswg.org/cssom-view/",
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "cssom-view-1/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/cssom-view/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [
+          "CSSOMString"
+        ],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-paint-api-1/",
+              "title": "CSS Painting API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scroll-anchoring-1/",
+              "title": "CSS Scroll Anchoring Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scroll-anchoring/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scroll-snap-1/",
+              "title": "CSS Scroll Snap Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nav-1/",
+              "title": "CSS Spatial Navigation Level 1",
+              "crawled": "https://drafts.csswg.org/css-nav-1/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/intersection-observer/",
+              "title": "Intersection Observer",
+              "crawled": "https://w3c.github.io/IntersectionObserver/"
+            },
+            {
+              "url": "https://wicg.github.io/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://wicg.github.io/largest-contentful-paint/"
+            },
+            {
+              "url": "https://wicg.github.io/layout-instability/",
+              "title": "Layout Instability API",
+              "crawled": "https://wicg.github.io/layout-instability/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediaqueries-4/",
+              "title": "Media Queries Level 4",
+              "crawled": "https://drafts.csswg.org/mediaqueries-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediaqueries-5/",
+              "title": "Media Queries Level 5",
+              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pointerevents3/",
+              "title": "Pointer Events",
+              "crawled": "https://w3c.github.io/pointerevents/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resize-observer-1/",
+              "title": "Resize Observer",
+              "crawled": "https://drafts.csswg.org/resize-observer/"
+            },
+            {
+              "url": "https://wicg.github.io/responsive-image-client-hints/",
+              "title": "Responsive Image Client Hints",
+              "crawled": "https://wicg.github.io/responsive-image-client-hints/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            },
+            {
+              "url": "https://wicg.github.io/scroll-to-text-fragment/",
+              "title": "Text Fragments",
+              "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "The Screen Orientation API",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
+              "url": "https://wicg.github.io/visual-viewport/",
+              "title": "Visual Viewport API",
+              "crawled": "https://wicg.github.io/visual-viewport/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webdriver2/",
+              "title": "WebDriver",
+              "crawled": "https://w3c.github.io/webdriver/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-regions-1/",
+              "title": "CSS Regions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-regions/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transforms-1/",
+              "title": "CSS Transforms Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-transforms/"
+            },
+            {
+              "url": "https://dom.spec.whatwg.org/",
+              "title": "DOM Standard",
+              "crawled": "https://dom.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/geometry-1/",
+              "title": "Geometry Interfaces Module Level 1",
+              "crawled": "https://drafts.fxtf.org/geometry/"
+            },
+            {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [
+            "https://dom.spec.whatwg.org/#event-listener-type",
+            "https://dom.spec.whatwg.org/#event-listener-callback",
+            "https://dom.spec.whatwg.org/#eventtarget-event-listener-list",
+            "https://dom.spec.whatwg.org/#event-listener-capture"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#html-elements",
+            "https://html.spec.whatwg.org/#the-body-element",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#windowproxy",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#window-bc",
+            "https://html.spec.whatwg.org/#auxiliary-browsing-context",
+            "https://html.spec.whatwg.org/#dom-open",
+            "https://html.spec.whatwg.org/#rules-for-parsing-integers",
+            "https://html.spec.whatwg.org/#event-loop",
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#event-handlers",
+            "https://html.spec.whatwg.org/#event-handler-event-type",
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
+            "https://html.spec.whatwg.org/#live",
+            "https://html.spec.whatwg.org/#active-document",
+            "https://html.spec.whatwg.org/#dom-document-defaultview",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#htmlelement",
+            "https://html.spec.whatwg.org/#htmlimageelement"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -20860,6 +20908,11 @@
               "crawled": "https://drafts.csswg.org/css-lists-3/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
@@ -20918,6 +20971,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://www.w3.org/TR/device-posture/",
@@ -21671,9 +21729,7 @@
             "https://html.spec.whatwg.org/#htmlunknownelement",
             "https://html.spec.whatwg.org/#valid-custom-element-name",
             "https://html.spec.whatwg.org/#concept-custom-element-definition-disable-shadow",
-            "https://w3c.github.io/DOM-Parsing/#dfn-createcontextualfragment-fragment",
-            "https://drafts.csswg.org/cssom-view-1/#dom-range-getclientrects",
-            "https://drafts.csswg.org/cssom-view-1/#dom-range-getboundingclientrect"
+            "https://w3c.github.io/DOM-Parsing/#dfn-createcontextualfragment-fragment"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -22439,6 +22495,11 @@
               "crawled": "https://wicg.github.io/cookie-store/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax/"
@@ -22869,7 +22930,7 @@
     {
       "title": "Extend TimeZoneName Option Proposal",
       "shortname": "tc39-intl-extend-timezonename",
-      "date": "3 July 2021",
+      "date": "2 December 2021",
       "url": "https://tc39.es/proposal-intl-extend-timezonename/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-extend-timezonename/",
@@ -23256,6 +23317,11 @@
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://drafts.csswg.org/css-shapes-2/",
@@ -24160,7 +24226,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#attr-img-crossorigin",
             "https://html.spec.whatwg.org/#the-img-element",
@@ -24242,7 +24307,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://html.spec.whatwg.org/#browsing-context"
           ],
           "evolvingLinks": [],
@@ -24988,6 +25052,11 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -25106,8 +25175,7 @@
             "https://html.spec.whatwg.org/#deserialization-steps",
             "https://html.spec.whatwg.org/#sub-serialization",
             "https://html.spec.whatwg.org/#sub-deserialization",
-            "https://html.spec.whatwg.org/#worker",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-getboundingclientrect"
+            "https://html.spec.whatwg.org/#worker"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -32836,6 +32904,11 @@
               "crawled": "https://drafts.csswg.org/css-lists-3/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -32924,6 +32997,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://wicg.github.io/custom-state-pseudo-class/",
@@ -34018,6 +34096,17 @@
             "https://drafts.csswg.org/css2/#line-box",
             "https://drafts.csswg.org/css2/#out-of-flow",
             "https://drafts.csswg.org/css2/#in-flow",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-type",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-location",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-parent-css-style-sheet",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-owner-node",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-owner-css-rule",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-media",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-title",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-alternate-flag",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-disabled-flag",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-css-rules",
+            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-origin-clean-flag",
             "https://url.spec.whatwg.org/#concept-host-serializer",
             "https://url.spec.whatwg.org/#serialize-an-integer",
             "https://w3c.github.io/FileAPI/#snapshot-state",
@@ -34036,6 +34125,11 @@
             "https://drafts.csswg.org/css-tables/#table-row",
             "https://drafts.csswg.org/css-tables/#table-caption",
             "https://drafts.csswg.org/css-tables/#table",
+            "https://drafts.csswg.org/cssom-view/#run-the-resize-steps",
+            "https://drafts.csswg.org/cssom-view/#run-the-scroll-steps",
+            "https://drafts.csswg.org/cssom-view/#evaluate-media-queries-and-report-changes",
+            "https://drafts.csswg.org/cssom-view/#scroll-an-element-into-view",
+            "https://drafts.csswg.org/cssom-view/#scroll-to-the-beginning-of-the-document",
             "https://drafts.csswg.org/css-style-attr/#style-attribute",
             "https://drafts.csswg.org/css-font-loading/#font-source",
             "https://drafts.fxtf.org/geometry/#matrix-m11-element",
@@ -34364,35 +34458,6 @@
             "https://dom.spec.whatwg.org/#dom-shadowroot-slot-assignment",
             "https://dom.spec.whatwg.org/#concept-event-target",
             "https://fetch.spec.whatwg.org/#synchronous-flag",
-            "https://drafts.csswg.org/cssom/#css-style-sheet",
-            "https://drafts.csswg.org/cssom/#the-linkstyle-interface",
-            "https://drafts.csswg.org/cssom/#the-cssstyledeclaration-interface",
-            "https://drafts.csswg.org/cssom/#dom-elementcssinlinestyle-style",
-            "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-csstext",
-            "https://drafts.csswg.org/cssom/#the-stylesheet-interface",
-            "https://drafts.csswg.org/cssom/#the-cssstylesheet-interface",
-            "https://drafts.csswg.org/cssom/#create-a-css-style-sheet",
-            "https://drafts.csswg.org/cssom/#remove-a-css-style-sheet",
-            "https://drafts.csswg.org/cssom/#associated-css-style-sheet",
-            "https://drafts.csswg.org/cssom/#create-a-constructed-cssstylesheet",
-            "https://drafts.csswg.org/cssom/#synchronously-replace-the-rules-of-a-cssstylesheet",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-type",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-location",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-parent-css-style-sheet",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-owner-node",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-owner-css-rule",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-media",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-title",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-alternate-flag",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-disabled-flag",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-css-rules",
-            "https://drafts.csswg.org/cssom/#concept-css-style-sheet-origin-clean-flag",
-            "https://drafts.csswg.org/cssom/#css-style-sheet-set",
-            "https://drafts.csswg.org/cssom/#css-style-sheet-set-name",
-            "https://drafts.csswg.org/cssom/#preferred-css-style-sheet-set-name",
-            "https://drafts.csswg.org/cssom/#change-the-preferred-css-style-sheet-set-name",
-            "https://drafts.csswg.org/cssom/#serialize-a-css-value",
-            "https://drafts.csswg.org/cssom/#fetching-css-style-sheets",
             "https://w3c.github.io/FileAPI/#DefinitionOfScheme",
             "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml",
             "https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager",
@@ -34403,15 +34468,6 @@
             "https://drafts.csswg.org/css-grid/#propdef-grid-column-gap",
             "https://drafts.csswg.org/css-grid/#propdef-grid-row-gap",
             "https://drafts.csswg.org/css-multicol/#propdef-column-gap",
-            "https://drafts.csswg.org/cssom-view/#the-screen-interface",
-            "https://drafts.csswg.org/cssom-view/#run-the-resize-steps",
-            "https://drafts.csswg.org/cssom-view/#run-the-scroll-steps",
-            "https://drafts.csswg.org/cssom-view/#evaluate-media-queries-and-report-changes",
-            "https://drafts.csswg.org/cssom-view/#scroll-an-element-into-view",
-            "https://drafts.csswg.org/cssom-view/#scroll-to-the-beginning-of-the-document",
-            "https://drafts.csswg.org/cssom-view/#eventdef-window-resize",
-            "https://drafts.csswg.org/cssom-view/#eventdef-document-scroll",
-            "https://drafts.csswg.org/cssom-view/#set-up-browsing-context-features",
             "https://drafts.csswg.org/css-values/#vw",
             "https://w3c.github.io/webvtt/#webvtt-file-using-cue-text",
             "https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status",
@@ -35903,7 +35959,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "25 November 2021",
+      "date": "26 November 2021",
       "url": "https://w3c.github.io/IFT/Overview.html",
       "nightly": {
         "url": "https://w3c.github.io/IFT/Overview.html",
@@ -36233,6 +36289,11 @@
               "crawled": "https://drafts.csswg.org/css-lists-3/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
@@ -36286,6 +36347,11 @@
               "url": "https://www.w3.org/TR/css-will-change-1/",
               "title": "CSS Will Change Module Level 1",
               "crawled": "https://drafts.csswg.org/css-will-change/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://wicg.github.io/custom-state-pseudo-class/",
@@ -37031,8 +37097,7 @@
             "https://html.spec.whatwg.org/#concept-dnd-ro",
             "https://html.spec.whatwg.org/#drag-data-store-item-list",
             "https://html.spec.whatwg.org/#the-drag-data-item-type-string",
-            "https://html.spec.whatwg.org/#the-drag-data-item-kind",
-            "https://www.w3.org/TR/cssom-1/#serialize-a-css-component-value"
+            "https://html.spec.whatwg.org/#the-drag-data-item-kind"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -37115,6 +37180,7 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/cssom-view-1/#pinch-zoom",
             "https://drafts.csswg.org/css-values-3/#absolute-length"
           ],
           "notDfn": [],
@@ -37142,8 +37208,6 @@
             "https://html.spec.whatwg.org/#find-in-page",
             "https://html.spec.whatwg.org/#the-tabindex-attribute",
             "https://drafts.csswg.org/css-box/#containing-block",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-getboundingclientrect",
-            "https://drafts.csswg.org/cssom-view-1/#pinch-zoom",
             "https://www.w3.org/TR/hr-time/#domhighrestimestamp",
             "https://www.w3.org/TR/hr-time/#time-origin"
           ],
@@ -37286,7 +37350,7 @@
     {
       "title": "Intl.DisplayNames v2 Proposal",
       "shortname": "tc39-intl-displaynames-v2",
-      "date": "3 July 2021",
+      "date": "2 December 2021",
       "url": "https://tc39.es/intl-displaynames-v2/",
       "nightly": {
         "url": "https://tc39.es/intl-displaynames-v2/",
@@ -37703,7 +37767,8 @@
           "notExported": [
             "https://wicg.github.io/element-timing/#get-an-element",
             "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry",
-            "https://wicg.github.io/event-timing#has-dispatched-input-event"
+            "https://wicg.github.io/event-timing#has-dispatched-input-event",
+            "https://drafts.csswg.org/cssom-view/#viewport"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -37718,9 +37783,7 @@
             "https://html.spec.whatwg.org/#dom-img-naturalheight",
             "https://html.spec.whatwg.org/#dom-img-width",
             "https://html.spec.whatwg.org/#dom-img-height",
-            "https://html.spec.whatwg.org/#concept-relevant-realm",
-            "https://drafts.csswg.org/cssom-view/#viewport",
-            "https://drafts.csswg.org/cssom-view-1/#eventdef-document-scroll"
+            "https://html.spec.whatwg.org/#concept-relevant-realm"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -37809,6 +37872,7 @@
         },
         "xrefs": {
           "notExported": [
+            "https://www.w3.org/TR/cssom-view-1/#viewport",
             "https://www.w3.org/TR/uievents/#keydown",
             "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry",
             "https://wicg.github.io/element-timing/#get-an-element",
@@ -37829,7 +37893,6 @@
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-origin",
-            "https://www.w3.org/TR/cssom-view-1/#viewport",
             "https://www.w3.org/TR/css-values-4/#pixel-unit"
           ],
           "evolvingLinks": [],
@@ -39238,6 +39301,11 @@
               "crawled": "https://drafts.csswg.org/css-device-adapt/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -39303,14 +39371,12 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/css-values-3/#relative-length"
+            "https://drafts.csswg.org/css-values-3/#relative-length",
+            "https://drafts.csswg.org/cssom-view-1/#page-zoom",
+            "https://drafts.csswg.org/cssom-view-1/#pinch-zoom"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view-1/#page-zoom",
-            "https://drafts.csswg.org/cssom-view-1/#pinch-zoom",
-            "https://drafts.csswg.org/cssom-view-1/#web-exposed-screen-area"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -39428,6 +39494,11 @@
               "crawled": "https://drafts.csswg.org/css-multicol/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -39509,13 +39580,12 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-values-4/#relative-length",
+            "https://drafts.csswg.org/cssom-view-1/#page-zoom",
+            "https://drafts.csswg.org/cssom-view-1/#pinch-zoom",
             "https://drafts.csswg.org/css-color-4/#css-system-colors"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view-1/#page-zoom",
-            "https://drafts.csswg.org/cssom-view-1/#pinch-zoom",
-            "https://drafts.csswg.org/cssom-view-1/#web-exposed-screen-area",
             "https://html.spec.whatwg.org/#joint-session-history"
           ],
           "evolvingLinks": [],
@@ -40493,7 +40563,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom/#serializing-css-values",
             "https://drafts.csswg.org/css-position-3/#normal-flow",
             "https://drafts.csswg.org/css-position/#normal-flow"
           ],
@@ -41385,9 +41454,7 @@
         "xrefs": {
           "notExported": [],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/cssom-view/#scrolling-events"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [
             "https://www.w3.org/TR/html5/"
@@ -41570,6 +41637,7 @@
         },
         "xrefs": {
           "notExported": [
+            "https://www.w3.org/TR/cssom-view/#scrolling-area",
             "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry"
           ],
           "notDfn": [],
@@ -41595,8 +41663,6 @@
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://www.w3.org/TR/css-color-3/#opacity",
-            "https://www.w3.org/TR/cssom-view/#dom-element-getboundingclientrect",
-            "https://www.w3.org/TR/cssom-view/#scrolling-area",
             "https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestampdomhighrestimestamp"
           ],
           "evolvingLinks": [],
@@ -44253,7 +44319,10 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-node"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#link-type-noreferrer",
@@ -44292,12 +44361,7 @@
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#browsing-context-container",
             "https://html.spec.whatwg.org/#concept-environment-creation-url",
-            "https://html.spec.whatwg.org/#concept-url-fragment",
-            "https://drafts.csswg.org/cssom-1/#css-style-sheet",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-node",
-            "https://drafts.csswg.org/cssom-1/#css-declaration-block",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-owner-node"
+            "https://html.spec.whatwg.org/#concept-url-fragment"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -44892,11 +44956,9 @@
           "notDfn": [],
           "brokenLinks": [
             "https://www.w3.org/TR/css3-positioning/#viewport",
-            "https://drafts.csswg.org/cssom-view-1/#eventdef-window-resize",
             "https://html.spec.whatwg.org/#being-rendered",
             "https://html.spec.whatwg.org/#errorevent",
-            "https://html.spec.whatwg.org/#processing-model-8",
-            "https://www.w3.org/TR/cssom-view-1/#dom-window-devicepixelratio"
+            "https://html.spec.whatwg.org/#processing-model-8"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45213,11 +45275,7 @@
             "https://html.spec.whatwg.org/#density-corrected-intrinsic-width-and-height",
             "https://html.spec.whatwg.org/#source-set",
             "https://html.spec.whatwg.org/#source-size-2",
-            "https://html.spec.whatwg.org/#window",
-            "https://drafts.csswg.org/cssom-view-1/#dom-window-devicepixelratio",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-clientwidth",
-            "https://drafts.csswg.org/cssom-view-1/#dom-window-innerwidth",
-            "https://drafts.csswg.org/cssom-view-1/#dom-window-innerheight"
+            "https://html.spec.whatwg.org/#window"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45229,7 +45287,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45294,7 +45352,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45332,7 +45390,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45421,7 +45479,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45495,7 +45553,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45553,7 +45611,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45591,7 +45649,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45647,7 +45705,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45703,7 +45761,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -46461,6 +46519,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -46521,6 +46584,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 4",
               "crawled": "https://drafts.csswg.org/css-cascade/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-style-attr/",
@@ -46977,6 +47045,11 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -47010,6 +47083,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://wicg.github.io/element-timing/",
@@ -47137,6 +47215,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 4",
               "crawled": "https://drafts.csswg.org/css-cascade/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-style-attr/",
@@ -47314,15 +47397,13 @@
             "https://www.w3.org/TR/web-animations-1/#dom-keyframeeffectreadonly-target",
             "https://w3c.github.io/svg-aam/#details-id-69",
             "https://www.w3.org/TR/css3-mediaqueries/#syntax",
-            "https://www.w3.org/TR/cssom-1/#the-linkstyle-interface",
             "https://www.w3.org/TR/css-position-3/#vp",
             "https://drafts.csswg.org/web-animations/#animation-interpolation",
             "https://drafts.csswg.org/web-animations/#discrete-animation-type-section",
             "https://drafts.csswg.org/web-animations/#real-number-animation-type",
             "https://www.w3.org/TR/css-color-3/#colorunits",
             "https://www.w3.org/TR/css-color-3/#svg-color",
-            "https://www.w3.org/TR/css-selectors-3/#the-user-action-pseudo-classes-hover-act",
-            "https://www.w3.org/TR/cssom/#common-serializing-idioms"
+            "https://www.w3.org/TR/css-selectors-3/#the-user-action-pseudo-classes-hover-act"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -47712,8 +47793,7 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [
-          "CSSOMString",
-          "CSSRule"
+          "CSSOMString"
         ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -47730,22 +47810,16 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://drafts.csswg.org/cssom-view-1/#css-layout-box",
+            "https://drafts.csswg.org/cssom-view-1/#overflow-directions"
+          ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view-1/#dom-document-scrollingelement",
-            "https://drafts.csswg.org/cssom-view-1/#css-layout-box",
-            "https://drafts.csswg.org/cssom-view-1/#scrolling-box",
-            "https://drafts.csswg.org/cssom-view-1/#overflow-directions",
             "https://html.spec.whatwg.org/#concept-document-windowconcept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
-            "https://drafts.csswg.org/cssom-1/#cssrule",
-            "https://drafts.csswg.org/cssom-1/#cssomstring",
-            "https://drafts.csswg.org/cssom-1/#serialize-an-identifier",
-            "https://drafts.csswg.org/cssom-1/#serialize-a-css-component-value",
-            "https://drafts.csswg.org/cssom-1/#serialize-a-selector"
+            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -48346,6 +48420,11 @@
               "url": "https://www.w3.org/TR/css-nesting-1/",
               "title": "CSS Nesting Module",
               "crawled": "https://drafts.csswg.org/css-nesting/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -49174,7 +49253,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "29 November 2021",
+      "date": "1 December 2021",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -49876,7 +49955,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "30 November 2021",
+      "date": "1 December 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -49955,6 +50034,7 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/cssom-view-1/#scroll-an-element-into-view",
             "https://w3c.github.io/selection-api/#dfn-selection"
           ],
           "notDfn": [],
@@ -49996,11 +50076,7 @@
             "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#algo-get-policy-value",
             "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#configuration-point",
             "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#configuration-point-type",
-            "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#configuration-point-default-value",
-            "https://drafts.csswg.org/cssom-view-1/#scroll-an-element-into-view",
-            "https://drafts.csswg.org/cssom-view-1/#dictdef-scrollintoviewoptions",
-            "https://drafts.csswg.org/cssom-view-1/#dom-element-getboundingclientrect",
-            "https://drafts.csswg.org/cssom-view-1/#dom-range-getboundingclientrect"
+            "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#configuration-point-default-value"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -50146,9 +50222,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "Screen"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -50191,7 +50265,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/cssom-view-1/#screen",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#responsible-document",
@@ -50811,6 +50884,11 @@
               "crawled": "https://drafts.csswg.org/css-nav-1/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://dom.spec.whatwg.org/",
               "title": "DOM Standard",
               "crawled": "https://dom.spec.whatwg.org/"
@@ -51357,6 +51435,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -52343,7 +52426,10 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://www.w3.org/TR/cssom-view-1/#page-zoom",
+            "https://www.w3.org/TR/cssom-view-1/#pinch-zoom"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#window",
@@ -52352,12 +52438,7 @@
             "https://html.spec.whatwg.org/#document",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://www.w3.org/TR/css-overflow-4/#classic-scrollbars",
-            "https://www.w3.org/TR/cssom-view-1/#page-zoom",
-            "https://www.w3.org/TR/cssom-view-1/#pinch-zoom",
-            "https://www.w3.org/TR/cssom-view-1/#dom-window-devicepixelratio",
-            "https://www.w3.org/TR/cssom-view-1/#resizing-viewports",
-            "https://www.w3.org/TR/cssom-view-1/#scrolling-events"
+            "https://www.w3.org/TR/css-overflow-4/#classic-scrollbars"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -52750,15 +52831,7 @@
             "https://html.spec.whatwg.org/#session-history-entry",
             "https://w3c.github.io/hr-time/#time-origin",
             "https://w3c.github.io/hr-time/#domhighrestimestamp",
-            "https://heycam.github.io/webidl/#dfn-present",
-            "https://drafts.csswg.org/cssom/#css-property-to-idl-attribute",
-            "https://drafts.csswg.org/cssom/#serialize-a-css-value",
-            "https://drafts.csswg.org/cssom/#idl-attribute-to-css-property",
-            "https://drafts.csswg.org/cssom-1/#css-declaration-block",
-            "https://drafts.csswg.org/cssom-1/#cssstyledeclaration-owner-node",
-            "https://drafts.csswg.org/cssom-1/#set-a-css-declaration",
-            "https://drafts.csswg.org/cssom-1/#update-style-attribute-for",
-            "https://drafts.csswg.org/cssom-1/#cssomstring"
+            "https://heycam.github.io/webidl/#dfn-present"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -53850,6 +53923,11 @@
               "crawled": "https://drafts.csswg.org/css-nesting/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
@@ -53893,6 +53971,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://www.w3.org/TR/device-posture/",
@@ -54469,8 +54552,7 @@
             "https://html.spec.whatwg.org/#serializable",
             "https://html.spec.whatwg.org/#serializable-objects",
             "https://html.spec.whatwg.org/#serialization-steps",
-            "https://html.spec.whatwg.org/#deserialization-steps",
-            "https://drafts.csswg.org/cssom-1/#namespacedef-css"
+            "https://html.spec.whatwg.org/#deserialization-steps"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -55725,29 +55807,8 @@
             "https://html.spec.whatwg.org/#event-load",
             "https://html.spec.whatwg.org/#event-pagehide",
             "https://html.spec.whatwg.org/#event-pageshow",
-            "https://www.w3.org/TR/cssom-view-1/#dom-element-getclientrects",
-            "https://www.w3.org/TR/cssom-view-1/#dom-element-getboundingclientrect",
             "https://www.w3.org/TR/accname-1.1/#dfn-accessible-name",
-            "https://drafts.csswg.org/css-box/#visibility-prop",
-            "https://drafts.csswg.org/cssom/#resolved-value",
-            "https://drafts.csswg.org/cssom-view/#dom-document-elementfrompoint",
-            "https://drafts.csswg.org/cssom-view/#dom-document-elementsfrompoint",
-            "https://drafts.csswg.org/cssom-view/#dom-window-innerheight",
-            "https://drafts.csswg.org/cssom-view/#dom-window-innerwidth",
-            "https://drafts.csswg.org/cssom-view/#dom-window-moveto",
-            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetleft",
-            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetparent",
-            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsettop",
-            "https://drafts.csswg.org/cssom-view/#dom-window-outerheight",
-            "https://drafts.csswg.org/cssom-view/#dom-window-outerwidth",
-            "https://drafts.csswg.org/cssom-view/#dom-window-screenx",
-            "https://drafts.csswg.org/cssom-view/#dom-window-screeny",
-            "https://drafts.csswg.org/cssom-view/#dom-window-scrollx",
-            "https://drafts.csswg.org/cssom-view/#dom-window-scrolly",
-            "https://drafts.csswg.org/cssom-view/#dom-element-scrollintoview",
-            "https://drafts.csswg.org/cssom-view/#dictdef-scrollintoviewoptions",
-            "https://drafts.csswg.org/cssom-view/#dom-scrollintoviewoptions-block",
-            "https://drafts.csswg.org/cssom-view/#dom-scrollintoviewoptions-inline"
+            "https://drafts.csswg.org/css-box/#visibility-prop"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -61750,7 +61811,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "29 November 2021",
+      "date": "02 December 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -62372,7 +62433,17 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-parent-css-style-sheet",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-node",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-css-rule",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-media",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-title",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-alternate-flag",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-css-rules"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#text-track-kind",
@@ -62421,18 +62492,6 @@
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#entry-settings-object",
             "https://html.spec.whatwg.org/#honor-user-preferences-for-automatic-text-track-selection",
-            "https://drafts.csswg.org/cssom-1/#css-style-sheet",
-            "https://drafts.csswg.org/cssom-1/#create-a-css-style-sheet",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-parent-css-style-sheet",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-node",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-owner-css-rule",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-media",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-title",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-alternate-flag",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-css-rules",
-            "https://drafts.csswg.org/cssom-1/#dom-window-getcomputedstyle",
             "https://drafts.csswg.org/css-values-4/#vw",
             "https://drafts.csswg.org/css-values-4/#vh",
             "https://drafts.csswg.org/selectors-3/#sel-before",
@@ -63223,7 +63282,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "3 November 2021",
+      "date": "1 December 2021",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
@@ -63431,7 +63490,7 @@
     {
       "title": "Window Controls Overlay",
       "shortname": "window-controls-overlay",
-      "date": "22 November 2021",
+      "date": "01 December 2021",
       "url": "https://wicg.github.io/window-controls-overlay/",
       "nightly": {
         "url": "https://wicg.github.io/window-controls-overlay/",
@@ -63467,14 +63526,14 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#dom-window",
-            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps",
-            "https://www.w3.org/TR/cssom-view-1/#eventdef-window-resize"
+            "https://html.spec.whatwg.org/#dom-window"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
