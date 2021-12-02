@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-02T06:45:46.726Z",
+  "date": "2021-12-02T12:47:33.361Z",
   "stats": {
     "crawled": 449,
-    "errors": 0,
+    "errors": 1,
     "studied": 449
   },
   "results": [
@@ -15579,7 +15579,7 @@
     {
       "title": "CSS Scrollbars Styling Module Level 1",
       "shortname": "css-scrollbars-1",
-      "date": "3 November 2021",
+      "date": "1 December 2021",
       "url": "https://www.w3.org/TR/css-scrollbars-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scrollbars-1/",
@@ -23178,7 +23178,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "29 November 2021",
+      "date": "2 December 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -23616,9 +23616,7 @@
           "notExported": [
             "https://w3c.github.io/FileAPI/#readOperation"
           ],
-          "notDfn": [
-            "https://xhr.spec.whatwg.org/#concept-formdata-entry"
-          ],
+          "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#parallel-queue",
@@ -23672,6 +23670,7 @@
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
             "https://html.spec.whatwg.org/#multipart/form-data-boundary-string",
+            "https://html.spec.whatwg.org/#form-entry",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#current-settings-object",
@@ -23852,11 +23851,6 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -26200,7 +26194,6 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
-      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26212,7 +26205,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/html-media-capture/",
+      "crawled": {
+        "url": "https://w3c.github.io/html-media-capture/",
+        "repository": "https://github.com/w3c/html-media-capture",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -26221,10 +26219,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26238,19 +26236,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [
-            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
-          ],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [
-            "https://www.w3.org/TR/html51/",
-            "https://www.w3.org/TR/custom-elements/"
-          ],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -33164,11 +33149,6 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -37315,7 +37295,7 @@
     {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
-      "date": "7 October 2021",
+      "date": "2 December 2021",
       "url": "https://tc39.es/proposal-intl-locale-info/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-locale-info/",
@@ -38672,11 +38652,6 @@
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -40689,8 +40664,8 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry"
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
+            "https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -45114,7 +45089,7 @@
             "link": "https://w3c.github.io/performance-timeline/",
             "ref": {
               "name": "PERFORMANCE-TIMELINE-2",
-              "url": "https://www.w3.org/TR/performance-timeline-2/"
+              "url": "https://www.w3.org/TR/performance-timeline/"
             }
           }
         ],
@@ -45169,8 +45144,8 @@
             "https://www.w3.org/TR/navigation-timing-2/#dom-PerformanceNavigationTiming-startTime",
             "https://fetch.spec.whatwg.org/#record-connection-timing-info",
             "https://fetch.spec.whatwg.org/#concept-tao-check",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry"
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
+            "https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -45211,7 +45186,7 @@
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#concept-global-object-realm",
-            "https://www.w3.org/TR/performance-timeline-2/#dom-performance",
+            "https://www.w3.org/TR/performance-timeline/#dom-performance",
             "https://webidl.spec.whatwg.org/#default-tojson-operation",
             "https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time"
           ],
@@ -50440,10 +50415,10 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-registered-performance-observer",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-options-list",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-observer",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-observer-buffer"
+            "https://www.w3.org/TR/performance-timeline/#dfn-registered-performance-observer",
+            "https://www.w3.org/TR/performance-timeline/#dfn-options-list",
+            "https://www.w3.org/TR/performance-timeline/#dfn-observer",
+            "https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer"
           ],
           "notDfn": [],
           "brokenLinks": [],
@@ -51969,9 +51944,9 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline"
+            "https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry",
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline"
           ],
           "notDfn": [
             "https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp"
@@ -52041,9 +52016,9 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer",
-            "https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline"
+            "https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry",
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline"
           ],
           "notDfn": [
             "https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp"
@@ -54057,11 +54032,6 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",

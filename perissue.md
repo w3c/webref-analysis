@@ -5,6 +5,44 @@
 449 specifications were crawled in this report.
 
 
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [HTML Media Capture]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
+    at async Promise.all (index 340)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
+
+=> 1 specification found
+
+
 ## Specifications without normative dependencies
 
 - [Accessible `Object.hasOwnProperty`](https://tc39.es/proposal-accessible-object-hasownproperty/)
@@ -1957,7 +1995,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Resource Hints](https://w3c.github.io/resource-hints/) links to:
     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/) links to [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline-2/`](https://www.w3.org/TR/performance-timeline-2/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/) links to [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/) links to [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/) links to:
     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "XML-NS" uses URL [`http://www.w3.org/TR/2009/REC-xml-names-20091208/`](http://www.w3.org/TR/2009/REC-xml-names-20091208/)
@@ -2669,8 +2707,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/):
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/):
      * [`https://w3c.github.io/vibration/#dfn-validate-and-normalize`](https://w3c.github.io/vibration/#dfn-validate-and-normalize)
      * [`https://w3c.github.io/vibration/#dfn-perform-vibration`](https://w3c.github.io/vibration/#dfn-perform-vibration)
@@ -2765,8 +2803,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/navigation-timing-2/#dom-PerformanceNavigationTiming-startTime`](https://www.w3.org/TR/navigation-timing-2/#dom-PerformanceNavigationTiming-startTime)
      * [`https://fetch.spec.whatwg.org/#record-connection-timing-info`](https://fetch.spec.whatwg.org/#record-connection-timing-info)
      * [`https://fetch.spec.whatwg.org/#concept-tao-check`](https://fetch.spec.whatwg.org/#concept-tao-check)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/):
      * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/):
@@ -2824,10 +2862,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webdriver/webdriver-spec.html#dfn-unknown-error`](https://w3c.github.io/webdriver/webdriver-spec.html#dfn-unknown-error)
      * [`https://w3c.github.io/webdriver/webdriver-spec.html#dfn-success`](https://w3c.github.io/webdriver/webdriver-spec.html#dfn-success)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/):
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-registered-performance-observer`](https://www.w3.org/TR/performance-timeline-2/#dfn-registered-performance-observer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-options-list`](https://www.w3.org/TR/performance-timeline-2/#dfn-options-list)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-observer`](https://www.w3.org/TR/performance-timeline-2/#dfn-observer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-observer-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-observer-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-registered-performance-observer`](https://www.w3.org/TR/performance-timeline/#dfn-registered-performance-observer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-options-list`](https://www.w3.org/TR/performance-timeline/#dfn-options-list)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-observer`](https://www.w3.org/TR/performance-timeline/#dfn-observer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/):
      * [`https://w3c.github.io/webappsec-csp/#global-object-csp-list`](https://w3c.github.io/webappsec-csp/#global-object-csp-list)
      * [`https://dom.spec.whatwg.org/#handle-attribute-changes`](https://dom.spec.whatwg.org/#handle-attribute-changes)
@@ -2837,13 +2875,13 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/uievents/#dead-key`](https://www.w3.org/TR/uievents/#dead-key)
      * [`https://www.w3.org/TR/uievents/#compositionupdate`](https://www.w3.org/TR/uievents/#compositionupdate)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/):
      * [`https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting)
      * [`https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting)
@@ -3410,8 +3448,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 - [Event Timing API](https://wicg.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
-- [Fetch Standard](https://fetch.spec.whatwg.org/):
-     * [`https://xhr.spec.whatwg.org/#concept-formdata-entry`](https://xhr.spec.whatwg.org/#concept-formdata-entry)
 - [File System Access](https://wicg.github.io/file-system-access/):
      * [`https://storage.spec.whatwg.org/#site-storage`](https://storage.spec.whatwg.org/#site-storage)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/):
@@ -3429,8 +3465,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-label`](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
-     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://drafts.csswg.org/css2/#block-boxes%E2%91%A0`](https://drafts.csswg.org/css2/#block-boxes%E2%91%A0)
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
@@ -4005,7 +4039,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 811 problematic external links found in 57 specifications
+=> 809 problematic external links found in 55 specifications
 
 
 ## Broken external links
@@ -5439,6 +5473,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm`](https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm)
      * [`https://html.spec.whatwg.org/#multipart/form-data-boundary-string`](https://html.spec.whatwg.org/#multipart/form-data-boundary-string)
+     * [`https://html.spec.whatwg.org/#form-entry`](https://html.spec.whatwg.org/#form-entry)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
@@ -7514,7 +7549,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#concept-global-object-realm`](https://html.spec.whatwg.org/#concept-global-object-realm)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dom-performance`](https://www.w3.org/TR/performance-timeline-2/#dom-performance)
+     * [`https://www.w3.org/TR/performance-timeline/#dom-performance`](https://www.w3.org/TR/performance-timeline/#dom-performance)
      * [`https://webidl.spec.whatwg.org/#default-tojson-operation`](https://webidl.spec.whatwg.org/#default-tojson-operation)
      * [`https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time`](https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/):
@@ -9040,7 +9075,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4737 problematic external links found in 292 specifications
+=> 4738 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9089,9 +9124,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
-     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
-     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
      * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
      * [`https://www.w3.org/TR/webmessaging/`](https://www.w3.org/TR/webmessaging/)
@@ -9157,7 +9189,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 48 specifications
+=> 55 problematic external links found in 47 specifications
 
 
 ## External links that use a dated URL

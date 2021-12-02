@@ -281,7 +281,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Crawled URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
-- Crawled version: 7 October 2021
+- Crawled version: 2 December 2021
 - Editor's Draft: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Shortname: tc39-intl-locale-info
 
@@ -8188,7 +8188,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
 - Crawled URL: [https://drafts.csswg.org/css-scrollbars/](https://drafts.csswg.org/css-scrollbars/)
-- Crawled version: 3 November 2021
+- Crawled version: 1 December 2021
 - Editor's Draft: [https://drafts.csswg.org/css-scrollbars/](https://drafts.csswg.org/css-scrollbars/)
 - Latest published version: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
 - Shortname: css-scrollbars-1
@@ -10714,24 +10714,51 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### HTML Media Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### HTML Media Capture {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
-- Crawled URL: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
-- Crawled version: 01 February 2018
+- Crawled URL: [[object Object]]([object Object])
 - Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
 - Latest published version: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
 - Shortname: html-media-capture
 
 #### Potential issue(s) {.anomalies}
 
-- External links that neither target definitions nor headings:
-     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
-     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
+The following network or parsing error occurred:
+`Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:12:27)
+    at isReady (__puppeteer_evaluation_script__:19:27)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at async isReady (__puppeteer_evaluation_script__:19:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
+    at async Promise.all (index 340)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15084,7 +15111,6 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File System Access](https://wicg.github.io/file-system-access/)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
@@ -16670,8 +16696,8 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/)
 - External links to private terms:
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
@@ -17048,13 +17074,13 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline-2/`](https://www.w3.org/TR/performance-timeline-2/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
 - External links to private terms:
      * [`https://www.w3.org/TR/navigation-timing-2/#dom-PerformanceNavigationTiming-startTime`](https://www.w3.org/TR/navigation-timing-2/#dom-PerformanceNavigationTiming-startTime)
      * [`https://fetch.spec.whatwg.org/#record-connection-timing-info`](https://fetch.spec.whatwg.org/#record-connection-timing-info)
      * [`https://fetch.spec.whatwg.org/#concept-tao-check`](https://fetch.spec.whatwg.org/#concept-tao-check)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
@@ -17093,7 +17119,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#concept-global-object-realm`](https://html.spec.whatwg.org/#concept-global-object-realm)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dom-performance`](https://www.w3.org/TR/performance-timeline-2/#dom-performance)
+     * [`https://www.w3.org/TR/performance-timeline/#dom-performance`](https://www.w3.org/TR/performance-timeline/#dom-performance)
      * [`https://webidl.spec.whatwg.org/#default-tojson-operation`](https://webidl.spec.whatwg.org/#default-tojson-operation)
      * [`https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time`](https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time)
 
@@ -17163,10 +17189,10 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - External links to private terms:
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-registered-performance-observer`](https://www.w3.org/TR/performance-timeline-2/#dfn-registered-performance-observer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-options-list`](https://www.w3.org/TR/performance-timeline-2/#dfn-options-list)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-observer`](https://www.w3.org/TR/performance-timeline-2/#dfn-observer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-observer-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-observer-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-registered-performance-observer`](https://www.w3.org/TR/performance-timeline/#dfn-registered-performance-observer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-options-list`](https://www.w3.org/TR/performance-timeline/#dfn-options-list)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-observer`](https://www.w3.org/TR/performance-timeline/#dfn-observer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17189,9 +17215,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - External links to private terms:
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline)
 - External links that neither target definitions nor headings:
      * [`https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp`](https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp)
 - Broken external links:
@@ -17235,9 +17261,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - External links to private terms:
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline-2/#dfn-queue-a-performanceentry)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-entry-buffer)
-     * [`https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline-2/#dfn-performance-timeline)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
+     * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline)
 - External links that neither target definitions nor headings:
      * [`https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp`](https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp)
 - Broken external links:
@@ -20576,7 +20602,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
@@ -21561,7 +21586,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 29 November 2021
+- Crawled version: 2 December 2021
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -21570,8 +21595,6 @@ Informative references to this spec from:
 - Unknown WebIDL names used: `ArrayBuffer`
 - External links to private terms:
      * [`https://w3c.github.io/FileAPI/#readOperation`](https://w3c.github.io/FileAPI/#readOperation)
-- External links that neither target definitions nor headings:
-     * [`https://xhr.spec.whatwg.org/#concept-formdata-entry`](https://xhr.spec.whatwg.org/#concept-formdata-entry)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#parallel-queue`](https://html.spec.whatwg.org/#parallel-queue)
@@ -21625,6 +21648,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm`](https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm)
      * [`https://html.spec.whatwg.org/#multipart/form-data-boundary-string`](https://html.spec.whatwg.org/#multipart/form-data-boundary-string)
+     * [`https://html.spec.whatwg.org/#form-entry`](https://html.spec.whatwg.org/#form-entry)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
@@ -22436,7 +22460,6 @@ Normative references to this spec from:
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
@@ -23276,7 +23299,6 @@ Normative references to this spec from:
 - [Geolocation API](https://w3c.github.io/geolocation-api/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
