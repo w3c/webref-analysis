@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-02T12:47:33.361Z",
+  "date": "2021-12-03T00:50:49.788Z",
   "stats": {
     "crawled": 449,
-    "errors": 1,
+    "errors": 0,
     "studied": 449
   },
   "results": [
@@ -899,7 +899,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "21 November 2021",
+      "date": "03 December 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -1064,8 +1064,8 @@
             "https://html.spec.whatwg.org/#the-datalist-element",
             "https://html.spec.whatwg.org/#the-dd-element",
             "https://html.spec.whatwg.org/#the-del-element",
-            "https://html.spec.whatwg.org/#the-dfn-element",
             "https://html.spec.whatwg.org/#the-details-element",
+            "https://html.spec.whatwg.org/#the-dfn-element",
             "https://html.spec.whatwg.org/#the-dialog-element",
             "https://html.spec.whatwg.org/#the-div-element",
             "https://html.spec.whatwg.org/#the-dl-element",
@@ -1118,8 +1118,8 @@
             "https://html.spec.whatwg.org/#the-li-element",
             "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#the-map-element",
-            "https://html.spec.whatwg.org/#mathml",
             "https://html.spec.whatwg.org/#the-mark-element",
+            "https://html.spec.whatwg.org/#mathml",
             "https://html.spec.whatwg.org/#menus",
             "https://html.spec.whatwg.org/#meta",
             "https://html.spec.whatwg.org/#the-meter-element",
@@ -2141,7 +2141,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "11 November 2021",
+      "date": "2 December 2021",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2525,7 +2525,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "22 September 2021",
+      "date": "02 December 2021",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -6607,7 +6607,7 @@
     {
       "title": "CSS Box Sizing Module Level 4",
       "shortname": "css-sizing-4",
-      "date": "22 July 2021",
+      "date": "2 December 2021",
       "url": "https://www.w3.org/TR/css-sizing-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -23853,6 +23853,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -26194,6 +26199,7 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
+      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26205,12 +26211,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/html-media-capture/",
-        "repository": "https://github.com/w3c/html-media-capture",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/html-media-capture/",
       "organization": "W3C",
       "groups": [
         {
@@ -26219,10 +26220,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26236,6 +26237,19 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [
+            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
+          ],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html51/",
+            "https://www.w3.org/TR/custom-elements/"
+          ],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -33149,6 +33163,11 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -37255,7 +37274,7 @@
     {
       "title": "Intl Enumeration API Specification",
       "shortname": "tc39-intl-enumeration",
-      "date": "7 October 2021",
+      "date": "2 December 2021",
       "url": "https://tc39.es/proposal-intl-enumeration/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-enumeration/",
@@ -38611,7 +38630,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "22 November 2021",
+      "date": "02 December 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -38652,6 +38671,11 @@
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -45268,7 +45292,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45333,7 +45357,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45371,7 +45395,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45460,7 +45484,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45534,7 +45558,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45592,7 +45616,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45630,7 +45654,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45686,7 +45710,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45742,7 +45766,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "2 December 2021",
+      "date": "3 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -47483,7 +47507,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "16 November 2021",
+      "date": "02 December 2021",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -47548,6 +47572,7 @@
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#gains-focus",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#allowed-to-use"
           ],
@@ -53719,7 +53744,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "2 November 2021",
+      "date": "2 December 2021",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -54032,6 +54057,11 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
@@ -54547,7 +54577,7 @@
     {
       "title": "Web Locks API",
       "shortname": "web-locks",
-      "date": "1 December 2021",
+      "date": "2 December 2021",
       "url": "https://wicg.github.io/web-locks/",
       "nightly": {
         "url": "https://wicg.github.io/web-locks/",
@@ -55185,7 +55215,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "23 November 2021",
+      "date": "2 December 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55241,7 +55271,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "23 November 2021",
+      "date": "2 December 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55334,7 +55364,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "23 November 2021",
+      "date": "2 December 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
