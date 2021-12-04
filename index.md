@@ -10374,7 +10374,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
 - Crawled URL: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
-- Crawled version: 3 December 2021
+- Crawled version: 4 December 2021
 - Editor's Draft: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
 - Latest published version: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
 - Shortname: accelerometer
@@ -10581,7 +10581,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 3 December 2021
+- Crawled version: 4 December 2021
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -10689,7 +10689,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Crawled URL: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
-- Crawled version: 3 December 2021
+- Crawled version: 4 December 2021
 - Editor's Draft: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
 - Latest published version: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Shortname: gyroscope
@@ -10750,7 +10750,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
 - Crawled URL: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
-- Crawled version: 8 November 2021
+- Crawled version: 4 December 2021
 - Editor's Draft: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
 - Latest published version: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
 - Shortname: magnetometer

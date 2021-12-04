@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-04T12:48:00.508Z",
+  "date": "2021-12-04T18:44:30.919Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -244,7 +244,7 @@
     {
       "title": "Accelerometer",
       "shortname": "accelerometer",
-      "date": "3 December 2021",
+      "date": "4 December 2021",
       "url": "https://www.w3.org/TR/accelerometer/",
       "release": {
         "url": "https://www.w3.org/TR/accelerometer/",
@@ -24681,7 +24681,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "3 December 2021",
+      "date": "4 December 2021",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -25347,7 +25347,7 @@
     {
       "title": "Gyroscope",
       "shortname": "gyroscope",
-      "date": "3 December 2021",
+      "date": "4 December 2021",
       "url": "https://www.w3.org/TR/gyroscope/",
       "release": {
         "url": "https://www.w3.org/TR/gyroscope/",
@@ -38230,7 +38230,7 @@
     {
       "title": "Magnetometer",
       "shortname": "magnetometer",
-      "date": "8 November 2021",
+      "date": "4 December 2021",
       "url": "https://www.w3.org/TR/magnetometer/",
       "release": {
         "url": "https://www.w3.org/TR/magnetometer/",
