@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-05T12:46:05.437Z",
+  "date": "2021-12-05T18:42:17.147Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -42893,7 +42893,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "20 October 2021",
+      "date": "05 December 2021",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
