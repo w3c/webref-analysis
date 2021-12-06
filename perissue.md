@@ -7,6 +7,10 @@
 
 ## Specifications without normative dependencies
 
+- [500 Internal Server Error](https://drafts.csswg.org/resize-observer/)
+- [500 Internal Server Error](https://drafts.csswg.org/selectors/)
+- [500 Internal Server Error](https://drafts.csswg.org/selectors-nonelement/)
+- [500 Internal Server Error](https://drafts.csswg.org/web-animations-1/)
 - [Accessible `Object.hasOwnProperty`](https://tc39.es/proposal-accessible-object-hasownproperty/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
@@ -86,7 +90,7 @@
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 78 specifications found
+=> 82 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -170,18 +174,26 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 
 ## List of WebIDL names not defined in the specifications crawled
 
+- `Animation` used in [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/), [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- `AnimationEffect` used in [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/), [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- `AnimationTimeline` used in [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - `ArrayBuffer` used in [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [HTML Standard](https://html.spec.whatwg.org/multipage/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
 - `BigInt64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `BigUint64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - `CSSPercentishArray` used in [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- `ComputedEffectTiming` used in [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/), [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - `DOMTimeStamp` used in [Cookie Store API](https://wicg.github.io/cookie-store/)
 - `DataView` used in [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web NFC](https://w3c.github.io/web-nfc/), [WebHID API](https://wicg.github.io/webhid/), [WebUSB API](https://wicg.github.io/webusb/)
+- `EffectTiming` used in [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/), [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - `Float32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/), [WebXR Device API](https://immersive-web.github.io/webxr/), [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/), [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 - `Float64Array` used in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `Int16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `Int32Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - `Int8Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- `KeyframeEffect` used in [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- `KeyframeEffectOptions` used in [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- `OptionalEffectTiming` used in [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - `PostMessageOptions` used in [Portals](https://wicg.github.io/portals/)
 - `Uint16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebGPU](https://gpuweb.github.io/gpuweb/)
@@ -192,7 +204,7 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 21 WebIDL names found
+=> 29 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
@@ -1485,7 +1497,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Network Information API](https://wicg.github.io/netinfo/) links to:
     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/) but does not list it in its references
     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/) links to [`https://www.w3.org/TR/its20/`](https://www.w3.org/TR/its20/) but does not list it in its references
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/) links to:
     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/) but does not list it in its references
     * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
@@ -1504,11 +1515,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Permissions](https://w3c.github.io/permissions/) links to [`https://w3c.github.io/permissions-automation/`](https://w3c.github.io/permissions-automation/) but does not list it in its references
 - [Preload](https://w3c.github.io/preload/) links to [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/) but does not list it in its references
 - [Reporting API 1](https://w3c.github.io/reporting/) links to [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
-- [Resize Observer](https://drafts.csswg.org/resize-observer/) links to:
-    * [`https://www.w3.org/TR/css3-positioning/`](https://www.w3.org/TR/css3-positioning/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
-    * [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
 - [Resource Hints](https://w3c.github.io/resource-hints/) links to:
     * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/) but does not list it in its references
     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
@@ -1579,11 +1585,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/) links to [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation) links to [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/) but does not list it in its references
-- [Selectors Level 4](https://drafts.csswg.org/selectors/) links to:
-    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
-    * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/) but does not list it in its references
-    * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/) but does not list it in its references
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
     * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/) but does not list it in its references
     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
@@ -1671,7 +1672,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 722 missing references for links found in 192 specifications
+=> 713 missing references for links found in 189 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2015,7 +2016,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/)
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-- [Selectors Level 4](https://drafts.csswg.org/selectors/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
@@ -2048,9 +2048,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIX" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/) links to [`https://www.w3.org/TR/mediaqueries-5/`](https://www.w3.org/TR/mediaqueries-5/) but related reference "MEDIA-QUERIES-LEVEL-5" uses URL [`https://drafts.csswg.org/mediaqueries-5/`](https://drafts.csswg.org/mediaqueries-5/)
-- [Web Animations](https://drafts.csswg.org/web-animations-1/) links to:
-    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
-    * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/) but related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to:
     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
@@ -2097,7 +2094,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 344 inconsistent references for links found in 181 specifications
+=> 341 inconsistent references for links found in 179 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2165,26 +2162,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
-     * [`https://drafts.csswg.org/web-animations#animation-effect`](https://drafts.csswg.org/web-animations#animation-effect)
-     * [`https://drafts.csswg.org/web-animations#local-time`](https://drafts.csswg.org/web-animations#local-time)
-     * [`https://drafts.csswg.org/web-animations#start-delay`](https://drafts.csswg.org/web-animations#start-delay)
-     * [`https://drafts.csswg.org/web-animations#end-delay`](https://drafts.csswg.org/web-animations#end-delay)
-     * [`https://drafts.csswg.org/web-animations#fill-mode`](https://drafts.csswg.org/web-animations#fill-mode)
-     * [`https://drafts.csswg.org/web-animations#iteration-start`](https://drafts.csswg.org/web-animations#iteration-start)
-     * [`https://drafts.csswg.org/web-animations#iteration-count`](https://drafts.csswg.org/web-animations#iteration-count)
-     * [`https://drafts.csswg.org/web-animations#iteration-duration`](https://drafts.csswg.org/web-animations#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations#playback-direction`](https://drafts.csswg.org/web-animations#playback-direction)
-     * [`https://drafts.csswg.org/web-animations#play-state`](https://drafts.csswg.org/web-animations#play-state)
-     * [`https://drafts.csswg.org/web-animations#playback-rate`](https://drafts.csswg.org/web-animations#playback-rate)
-     * [`https://drafts.csswg.org/web-animations#effect-value`](https://drafts.csswg.org/web-animations#effect-value)
-     * [`https://drafts.csswg.org/web-animations#target-property`](https://drafts.csswg.org/web-animations#target-property)
-     * [`https://drafts.csswg.org/web-animations#ready`](https://drafts.csswg.org/web-animations#ready)
-     * [`https://drafts.csswg.org/web-animations#replace-state`](https://drafts.csswg.org/web-animations#replace-state)
-     * [`https://drafts.csswg.org/web-animations#set-the-start-time`](https://drafts.csswg.org/web-animations#set-the-start-time)
-     * [`https://drafts.csswg.org/web-animations#update-the-timing-properties-of-an-animation-effect`](https://drafts.csswg.org/web-animations#update-the-timing-properties-of-an-animation-effect)
-     * [`https://drafts.csswg.org/web-animations#effect-stack`](https://drafts.csswg.org/web-animations#effect-stack)
-     * [`https://drafts.csswg.org/web-animations#animation-class`](https://drafts.csswg.org/web-animations#animation-class)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/css-easing-1/#input-progress-value`](https://drafts.csswg.org/css-easing-1/#input-progress-value)
@@ -2193,26 +2170,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-easing-1/#output-progress-value`](https://drafts.csswg.org/css-easing-1/#output-progress-value)
      * [`https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order`](https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/):
-     * [`https://drafts.csswg.org/web-animations-1/#play-state`](https://drafts.csswg.org/web-animations-1/#play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#paused-play-state`](https://drafts.csswg.org/web-animations-1/#paused-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-class`](https://drafts.csswg.org/web-animations-1/#animation-class)
-     * [`https://drafts.csswg.org/web-animations-1/#idle-play-state`](https://drafts.csswg.org/web-animations-1/#idle-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#keyframe`](https://drafts.csswg.org/web-animations-1/#keyframe)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
-     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
-     * [`https://drafts.csswg.org/web-animations-1/#play-an-animation`](https://drafts.csswg.org/web-animations-1/#play-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#start-delay`](https://drafts.csswg.org/web-animations-1/#start-delay)
-     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
-     * [`https://drafts.csswg.org/web-animations-1/#composite-operation`](https://drafts.csswg.org/web-animations-1/#composite-operation)
-     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
-     * [`https://drafts.csswg.org/web-animations-1/#active-duration`](https://drafts.csswg.org/web-animations-1/#active-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -2373,8 +2330,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts/):
-     * [`https://drafts.csswg.org/selectors-4/#structural-pseudo-classes`](https://drafts.csswg.org/selectors-4/#structural-pseudo-classes)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/):
@@ -2418,19 +2373,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/css-easing-1/#input-progress-value`](https://drafts.csswg.org/css-easing-1/#input-progress-value)
      * [`https://drafts.csswg.org/css-easing-1/#output-progress-value`](https://drafts.csswg.org/css-easing-1/#output-progress-value)
-- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/):
-     * [`https://drafts.csswg.org/web-animations/#iteration-duration`](https://drafts.csswg.org/web-animations/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations/#animation-effect`](https://drafts.csswg.org/web-animations/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations/#start-delay`](https://drafts.csswg.org/web-animations/#start-delay)
-     * [`https://drafts.csswg.org/web-animations/#cancel-an-animation`](https://drafts.csswg.org/web-animations/#cancel-an-animation)
-     * [`https://drafts.csswg.org/web-animations/#animation-class`](https://drafts.csswg.org/web-animations/#animation-class)
-     * [`https://drafts.csswg.org/web-animations/#idle-play-state`](https://drafts.csswg.org/web-animations/#idle-play-state)
-     * [`https://drafts.csswg.org/web-animations/#unresolved`](https://drafts.csswg.org/web-animations/#unresolved)
-     * [`https://drafts.csswg.org/web-animations/#active-duration`](https://drafts.csswg.org/web-animations/#active-duration)
-     * [`https://drafts.csswg.org/web-animations/#current-iteration`](https://drafts.csswg.org/web-animations/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations/#iteration-start`](https://drafts.csswg.org/web-animations/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations/#active-time`](https://drafts.csswg.org/web-animations/#active-time)
-     * [`https://drafts.csswg.org/web-animations/#fill-mode`](https://drafts.csswg.org/web-animations/#fill-mode)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/):
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag)
      * [`https://drafts.csswg.org/css-values-4/#relative-length`](https://drafts.csswg.org/css-values-4/#relative-length)
@@ -2442,7 +2384,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-stylesheet-base-url`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-stylesheet-base-url)
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location)
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag)
-     * [`https://drafts.csswg.org/selectors-4/#typedef-wq-name`](https://drafts.csswg.org/selectors-4/#typedef-wq-name)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/):
@@ -2471,7 +2412,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://storage.spec.whatwg.org/#storage-endpoint-quota`](https://storage.spec.whatwg.org/#storage-endpoint-quota)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/web-animations-1/#composite-operation-replace`](https://drafts.csswg.org/web-animations-1/#composite-operation-replace)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/):
@@ -2856,42 +2796,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
      * [`https://www.w3.org/TR/cssom-view-1/#pinch-zoom`](https://www.w3.org/TR/cssom-view-1/#pinch-zoom)
-- [Web Animations](https://drafts.csswg.org/web-animations-1/):
-     * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation)
-     * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate)
-     * [`https://drafts.csswg.org/css-easing-1/#input-progress-value`](https://drafts.csswg.org/css-easing-1/#input-progress-value)
-     * [`https://drafts.csswg.org/css-easing-1/#before-flag`](https://drafts.csswg.org/css-easing-1/#before-flag)
-     * [`https://drafts.csswg.org/css-animations-2/#owning-element`](https://drafts.csswg.org/css-animations-2/#owning-element)
-     * [`https://drafts.csswg.org/css-transitions-2/#owning-element`](https://drafts.csswg.org/css-transitions-2/#owning-element)
-     * [`https://drafts.csswg.org/css-style-attr/#style-attribute`](https://drafts.csswg.org/css-style-attr/#style-attribute)
-- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/):
-     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#end-delay`](https://drafts.csswg.org/web-animations-1/#end-delay)
-     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
-     * [`https://drafts.csswg.org/web-animations-1/#finished-play-state`](https://drafts.csswg.org/web-animations-1/#finished-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-progress`](https://drafts.csswg.org/web-animations-1/#iteration-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#keyframe-effect`](https://drafts.csswg.org/web-animations-1/#keyframe-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#time-value`](https://drafts.csswg.org/web-animations-1/#time-value)
-     * [`https://drafts.csswg.org/web-animations-1/#ready`](https://drafts.csswg.org/web-animations-1/#ready)
-     * [`https://drafts.csswg.org/web-animations-1/#current-finished-promise`](https://drafts.csswg.org/web-animations-1/#current-finished-promise)
-     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#cancel-an-animation`](https://drafts.csswg.org/web-animations-1/#cancel-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#active-interval`](https://drafts.csswg.org/web-animations-1/#active-interval)
-     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
-     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations-1/#overall-progress`](https://drafts.csswg.org/web-animations-1/#overall-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#simple-iteration-progress`](https://drafts.csswg.org/web-animations-1/#simple-iteration-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#directed-progress`](https://drafts.csswg.org/web-animations-1/#directed-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
-     * [`https://drafts.csswg.org/web-animations-1/#effect-value`](https://drafts.csswg.org/web-animations-1/#effect-value)
-     * [`https://drafts.csswg.org/web-animations-1/#target-property`](https://drafts.csswg.org/web-animations-1/#target-property)
-     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations-1/#in-effect`](https://drafts.csswg.org/web-animations-1/#in-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
-     * [`https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect`](https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/):
      * [`https://heycam.github.io/webidl/#web-idl-arguments-list`](https://heycam.github.io/webidl/#web-idl-arguments-list)
      * [`https://heycam.github.io/webidl/#web-idl-arguments-list-converting`](https://heycam.github.io/webidl/#web-idl-arguments-list-converting)
@@ -3137,7 +3041,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 837 problematic external links found in 195 specifications
+=> 749 problematic external links found in 190 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3994,10 +3898,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/aria/#group`](https://w3c.github.io/aria/#group)
      * [`https://w3c.github.io/aria/#list`](https://w3c.github.io/aria/#list)
      * [`https://w3c.github.io/aria/#aria-activedescendant`](https://w3c.github.io/aria/#aria-activedescendant)
-- [Web Animations](https://drafts.csswg.org/web-animations-1/):
-     * [`https://heycam.github.io/webidl/#DOMString-to-es`](https://heycam.github.io/webidl/#DOMString-to-es)
-     * [`https://heycam.github.io/webidl/#es-to-dictionary`](https://heycam.github.io/webidl/#es-to-dictionary)
-     * [`https://heycam.github.io/webidl/#es-to-DOMString`](https://heycam.github.io/webidl/#es-to-DOMString)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/):
      * [`https://heycam.github.io/webidl/#es-to-sequence`](https://heycam.github.io/webidl/#es-to-sequence)
      * [`https://heycam.github.io/webidl/#dictionary-to-es`](https://heycam.github.io/webidl/#dictionary-to-es)
@@ -4009,7 +3909,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 810 problematic external links found in 56 specifications
+=> 807 problematic external links found in 55 specifications
 
 
 ## Broken external links
@@ -4042,6 +3942,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/core-aam/#ariaLabelledBy`](https://w3c.github.io/core-aam/#ariaLabelledBy)
      * [`https://w3c.github.io/core-aam/#ariaDescribedBy`](https://w3c.github.io/core-aam/#ariaDescribedBy)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/):
+     * [`https://www.w3.org/TR/css3-selectors/#attribute-selectors`](https://www.w3.org/TR/css3-selectors/#attribute-selectors)
      * [`https://www.w3.org/TR/html/#the-div-element`](https://www.w3.org/TR/html/#the-div-element)
      * [`https://www.w3.org/TR/html/#the-span-element`](https://www.w3.org/TR/html/#the-span-element)
      * [`https://html.spec.whatwg.org/#missing-value-default`](https://html.spec.whatwg.org/#missing-value-default)
@@ -4504,6 +4405,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-dialog-open`](https://html.spec.whatwg.org/#attr-dialog-open)
      * [`https://html.spec.whatwg.org/#close-the-dialog`](https://html.spec.whatwg.org/#close-the-dialog)
 - [Compatibility Standard](https://compat.spec.whatwg.org/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://drafts.csswg.org/css-transitions/#animtype-color`](https://drafts.csswg.org/css-transitions/#animtype-color)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -4518,11 +4420,15 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#2dcontext`](https://html.spec.whatwg.org/#2dcontext)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/):
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
 - [Compute Pressure API](https://wicg.github.io/compute-pressure/):
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
 - [Contact Picker API](https://wicg.github.io/contact-api/spec/):
      * [`https://html.spec.whatwg.org/#htmlbuttonelement`](https://html.spec.whatwg.org/#htmlbuttonelement)
      * [`https://html.spec.whatwg.org/#htmlimageelement`](https://html.spec.whatwg.org/#htmlimageelement)
@@ -4743,19 +4649,49 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
+     * [`https://drafts.csswg.org/web-animations#animation-effect`](https://drafts.csswg.org/web-animations#animation-effect)
+     * [`https://drafts.csswg.org/web-animations#concept-animation`](https://drafts.csswg.org/web-animations#concept-animation)
+     * [`https://drafts.csswg.org/web-animations#local-time`](https://drafts.csswg.org/web-animations#local-time)
+     * [`https://drafts.csswg.org/web-animations#start-delay`](https://drafts.csswg.org/web-animations#start-delay)
+     * [`https://drafts.csswg.org/web-animations#end-delay`](https://drafts.csswg.org/web-animations#end-delay)
+     * [`https://drafts.csswg.org/web-animations#fill-mode`](https://drafts.csswg.org/web-animations#fill-mode)
+     * [`https://drafts.csswg.org/web-animations#iteration-start`](https://drafts.csswg.org/web-animations#iteration-start)
+     * [`https://drafts.csswg.org/web-animations#iteration-count`](https://drafts.csswg.org/web-animations#iteration-count)
+     * [`https://drafts.csswg.org/web-animations#iteration-duration`](https://drafts.csswg.org/web-animations#iteration-duration)
+     * [`https://drafts.csswg.org/web-animations#playback-direction`](https://drafts.csswg.org/web-animations#playback-direction)
      * [`https://drafts.csswg.org/web-animations#timing-function`](https://drafts.csswg.org/web-animations#timing-function)
+     * [`https://drafts.csswg.org/web-animations#timeline`](https://drafts.csswg.org/web-animations#timeline)
      * [`https://drafts.csswg.org/web-animations#current-time`](https://drafts.csswg.org/web-animations#current-time)
      * [`https://drafts.csswg.org/web-animations#inherited-time`](https://drafts.csswg.org/web-animations#inherited-time)
+     * [`https://drafts.csswg.org/web-animations#play-state`](https://drafts.csswg.org/web-animations#play-state)
      * [`https://drafts.csswg.org/web-animations#set-the-timeline-of-an-animation`](https://drafts.csswg.org/web-animations#set-the-timeline-of-an-animation)
+     * [`https://drafts.csswg.org/web-animations#the-documents-default-timeline`](https://drafts.csswg.org/web-animations#the-documents-default-timeline)
      * [`https://drafts.csswg.org/web-animations#set-the-target-effect-of-an-animation`](https://drafts.csswg.org/web-animations#set-the-target-effect-of-an-animation)
+     * [`https://drafts.csswg.org/web-animations#playback-rate`](https://drafts.csswg.org/web-animations#playback-rate)
+     * [`https://drafts.csswg.org/web-animations#effect-value`](https://drafts.csswg.org/web-animations#effect-value)
+     * [`https://drafts.csswg.org/web-animations#target-property`](https://drafts.csswg.org/web-animations#target-property)
+     * [`https://drafts.csswg.org/web-animations#ready`](https://drafts.csswg.org/web-animations#ready)
      * [`https://drafts.csswg.org/web-animations#idle`](https://drafts.csswg.org/web-animations#idle)
      * [`https://drafts.csswg.org/web-animations#finished`](https://drafts.csswg.org/web-animations#finished)
      * [`https://drafts.csswg.org/web-animations#running`](https://drafts.csswg.org/web-animations#running)
      * [`https://drafts.csswg.org/web-animations#paused`](https://drafts.csswg.org/web-animations#paused)
+     * [`https://drafts.csswg.org/web-animations#replace-state`](https://drafts.csswg.org/web-animations#replace-state)
      * [`https://drafts.csswg.org/web-animations#active`](https://drafts.csswg.org/web-animations#active)
      * [`https://drafts.csswg.org/web-animations#persisted`](https://drafts.csswg.org/web-animations#persisted)
      * [`https://drafts.csswg.org/web-animations#removed`](https://drafts.csswg.org/web-animations#removed)
      * [`https://drafts.csswg.org/web-animations#set-the-current-time`](https://drafts.csswg.org/web-animations#set-the-current-time)
+     * [`https://drafts.csswg.org/web-animations#set-the-start-time`](https://drafts.csswg.org/web-animations#set-the-start-time)
+     * [`https://drafts.csswg.org/web-animations#update-the-timing-properties-of-an-animation-effect`](https://drafts.csswg.org/web-animations#update-the-timing-properties-of-an-animation-effect)
+     * [`https://drafts.csswg.org/web-animations#effect-stack`](https://drafts.csswg.org/web-animations#effect-stack)
+     * [`https://drafts.csswg.org/web-animations#animation-class`](https://drafts.csswg.org/web-animations#animation-class)
+     * [`https://drafts.csswg.org/web-animations-1/#animation`](https://drafts.csswg.org/web-animations-1/#animation)
+     * [`https://drafts.csswg.org/web-animations-1/#dictdef-effecttiming`](https://drafts.csswg.org/web-animations-1/#dictdef-effecttiming)
+     * [`https://drafts.csswg.org/web-animations-1/#dictdef-computedeffecttiming`](https://drafts.csswg.org/web-animations-1/#dictdef-computedeffecttiming)
+     * [`https://drafts.csswg.org/web-animations-1/#animationeffect`](https://drafts.csswg.org/web-animations-1/#animationeffect)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animationeffect-updatetiming`](https://drafts.csswg.org/web-animations-1/#dom-animationeffect-updatetiming)
+     * [`https://drafts.csswg.org/web-animations-1/#animationtimeline`](https://drafts.csswg.org/web-animations-1/#animationtimeline)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-finish`](https://drafts.csswg.org/web-animations-1/#dom-animation-finish)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animationeffect-getcomputedtiming`](https://drafts.csswg.org/web-animations-1/#dom-animationeffect-getcomputedtiming)
      * [`https://html.spec.whatwg.org/#worklet`](https://html.spec.whatwg.org/#worklet)
      * [`https://html.spec.whatwg.org/#worklet-global-scope-type`](https://html.spec.whatwg.org/#worklet-global-scope-type)
      * [`https://html.spec.whatwg.org/#workletglobalscope`](https://html.spec.whatwg.org/#workletglobalscope)
@@ -4768,6 +4704,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/web-animations/level-2/#group-effect`](https://w3c.github.io/web-animations/level-2/#group-effect)
      * [`https://w3c.github.io/web-animations/level-2/#child-effect`](https://w3c.github.io/web-animations/level-2/#child-effect)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#html-elements`](https://html.spec.whatwg.org/#html-elements)
@@ -4777,26 +4714,73 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#globaleventhandlers`](https://html.spec.whatwg.org/#globaleventhandlers)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/):
+     * [`https://drafts.csswg.org/web-animations-1/#dom-keyframeeffect-setkeyframes`](https://drafts.csswg.org/web-animations-1/#dom-keyframeeffect-setkeyframes)
+     * [`https://drafts.csswg.org/web-animations-1/#keyframeeffect`](https://drafts.csswg.org/web-animations-1/#keyframeeffect)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animationeffect-updatetiming`](https://drafts.csswg.org/web-animations-1/#dom-animationeffect-updatetiming)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animationeffect-updatetiming-timing-timing`](https://drafts.csswg.org/web-animations-1/#dom-animationeffect-updatetiming-timing-timing)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-play`](https://drafts.csswg.org/web-animations-1/#dom-animation-play)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-pause`](https://drafts.csswg.org/web-animations-1/#dom-animation-pause)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-reverse`](https://drafts.csswg.org/web-animations-1/#dom-animation-reverse)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-starttime`](https://drafts.csswg.org/web-animations-1/#dom-animation-starttime)
+     * [`https://drafts.csswg.org/web-animations-1/#play-state`](https://drafts.csswg.org/web-animations-1/#play-state)
+     * [`https://drafts.csswg.org/web-animations-1/#paused-play-state`](https://drafts.csswg.org/web-animations-1/#paused-play-state)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-effect`](https://drafts.csswg.org/web-animations-1/#dom-animation-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#animationeffect`](https://drafts.csswg.org/web-animations-1/#animationeffect)
+     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
      * [`https://drafts.csswg.org/web-animations-1/#target-effect`](https://drafts.csswg.org/web-animations-1/#target-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#animation`](https://drafts.csswg.org/web-animations-1/#animation)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-class`](https://drafts.csswg.org/web-animations-1/#animation-class)
+     * [`https://drafts.csswg.org/web-animations-1/#global-animation-list`](https://drafts.csswg.org/web-animations-1/#global-animation-list)
+     * [`https://drafts.csswg.org/web-animations-1/#idle-play-state`](https://drafts.csswg.org/web-animations-1/#idle-play-state)
+     * [`https://drafts.csswg.org/web-animations-1/#keyframe`](https://drafts.csswg.org/web-animations-1/#keyframe)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
+     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
+     * [`https://drafts.csswg.org/web-animations-1/#play-an-animation`](https://drafts.csswg.org/web-animations-1/#play-an-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#start-delay`](https://drafts.csswg.org/web-animations-1/#start-delay)
+     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
+     * [`https://drafts.csswg.org/web-animations-1/#composite-operation`](https://drafts.csswg.org/web-animations-1/#composite-operation)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline`](https://drafts.csswg.org/web-animations-1/#timeline)
+     * [`https://drafts.csswg.org/web-animations-1/#documenttimeline`](https://drafts.csswg.org/web-animations-1/#documenttimeline)
+     * [`https://drafts.csswg.org/web-animations-1/#default-document-timeline`](https://drafts.csswg.org/web-animations-1/#default-document-timeline)
      * [`https://drafts.csswg.org/web-animations-1/#before-phase`](https://drafts.csswg.org/web-animations-1/#before-phase)
      * [`https://drafts.csswg.org/web-animations-1/#idle-phase`](https://drafts.csswg.org/web-animations-1/#idle-phase)
      * [`https://drafts.csswg.org/web-animations-1/#current-time`](https://drafts.csswg.org/web-animations-1/#current-time)
+     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
      * [`https://drafts.csswg.org/web-animations-1/#after-phase`](https://drafts.csswg.org/web-animations-1/#after-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#active-duration`](https://drafts.csswg.org/web-animations-1/#active-duration)
+     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
      * [`https://drafts.csswg.org/web-animations-1/#target-effect-end`](https://drafts.csswg.org/web-animations-1/#target-effect-end)
      * [`https://drafts.csswg.org/web-animations-1/#sampling`](https://drafts.csswg.org/web-animations-1/#sampling)
      * [`https://drafts.csswg.org/web-animations-1/#pending-play-state`](https://drafts.csswg.org/web-animations-1/#pending-play-state)
      * [`https://drafts.csswg.org/web-animations-1/#active-phase`](https://drafts.csswg.org/web-animations-1/#active-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animatable-getanimations`](https://drafts.csswg.org/web-animations-1/#dom-animatable-getanimations)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-playstate`](https://drafts.csswg.org/web-animations-1/#dom-animation-playstate)
      * [`https://drafts.csswg.org/css-values-4/#css-identifier`](https://drafts.csswg.org/css-values-4/#css-identifier)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://www.w3.org/TR/web-animations-1/#animation-effect-phases-and-states`](https://www.w3.org/TR/web-animations-1/#animation-effect-phases-and-states)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/):
      * [`https://www.w3.org/TR/css-transitions-1/#animatable-types`](https://www.w3.org/TR/css-transitions-1/#animatable-types)
      * [`https://www.w3.org/TR/css-color-4/#currentcolor`](https://www.w3.org/TR/css-color-4/#currentcolor)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://www.w3.org/TR/selectors-3/#sel-first-line`](https://www.w3.org/TR/selectors-3/#sel-first-line)
      * [`https://www.w3.org/TR/selectors-3/#first-letter0`](https://www.w3.org/TR/selectors-3/#first-letter0)
      * [`https://www.w3.org/TR/css-color-3/#color0`](https://www.w3.org/TR/css-color-3/#color0)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://www.w3.org/TR/css3-transitions/#animtype-color`](https://www.w3.org/TR/css3-transitions/#animtype-color)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/):
+     * [`https://drafts.csswg.org/selectors-4/#focus-visible-pseudo`](https://drafts.csswg.org/selectors-4/#focus-visible-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#focus-pseudo`](https://drafts.csswg.org/selectors-4/#focus-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#checked-pseudo`](https://drafts.csswg.org/selectors-4/#checked-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#enabled-pseudo`](https://drafts.csswg.org/selectors-4/#enabled-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#disabled-pseudo`](https://drafts.csswg.org/selectors-4/#disabled-pseudo)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
@@ -4816,8 +4800,14 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-input-type-password-keyword`](https://html.spec.whatwg.org/#attr-input-type-password-keyword)
      * [`https://w3c.github.io/contentEditable/#dfn-editing-host`](https://w3c.github.io/contentEditable/#dfn-editing-host)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://drafts.csswg.org/selectors-3/#first-formatted-line0`](https://drafts.csswg.org/selectors-3/#first-formatted-line0)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#concept-textarea-raw-value`](https://html.spec.whatwg.org/#concept-textarea-raw-value)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
@@ -4831,13 +4821,18 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-meter-element`](https://html.spec.whatwg.org/#the-meter-element)
      * [`https://html.spec.whatwg.org/#the-marquee-element`](https://html.spec.whatwg.org/#the-marquee-element)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://drafts.csswg.org/resize-observer-1/#resizeobserver`](https://drafts.csswg.org/resize-observer-1/#resizeobserver)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/):
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
      * [`https://html.spec.whatwg.org/#quirks-mode`](https://html.spec.whatwg.org/#quirks-mode)
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://www.w3.org/TR/selectors/#specificity`](https://www.w3.org/TR/selectors/#specificity)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/):
      * [`https://html.spec.whatwg.org/#cors-same-origin`](https://html.spec.whatwg.org/#cors-same-origin)
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
@@ -4846,6 +4841,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://www.w3.org/TR/selectors-4/#scoping`](https://www.w3.org/TR/selectors-4/#scoping)
+     * [`https://www.w3.org/TR/selectors/#specificity`](https://www.w3.org/TR/selectors/#specificity)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade/):
      * [`https://html.spec.whatwg.org/#cors-same-origin`](https://html.spec.whatwg.org/#cors-same-origin)
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
@@ -4854,14 +4853,31 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://www.w3.org/TR/selectors-4/#scoping`](https://www.w3.org/TR/selectors-4/#scoping)
+     * [`https://www.w3.org/TR/selectors/#specificity`](https://www.w3.org/TR/selectors/#specificity)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/):
      * [`https://www.w3.org/TR/css-cascade-5/#layering`](https://www.w3.org/TR/css-cascade-5/#layering)
      * [`https://drafts.csswg.org/css-cascade-5/#cascade-layers`](https://drafts.csswg.org/css-cascade-5/#cascade-layers)
      * [`https://drafts.csswg.org/css-cascade-5/#at-ruledef-layer`](https://drafts.csswg.org/css-cascade-5/#at-ruledef-layer)
      * [`https://drafts.csswg.org/css-cascade-5/#valdef-all-revert-layer`](https://drafts.csswg.org/css-cascade-5/#valdef-all-revert-layer)
+     * [`https://www.w3.org/TR/selectors/#specificity`](https://www.w3.org/TR/selectors/#specificity)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-forgiving-selector-list`](https://drafts.csswg.org/selectors-4/#typedef-forgiving-selector-list)
+     * [`https://drafts.csswg.org/selectors-4/#scoping-element`](https://drafts.csswg.org/selectors-4/#scoping-element)
+     * [`https://drafts.csswg.org/selectors-4/#scoping-root`](https://drafts.csswg.org/selectors-4/#scoping-root)
+     * [`https://drafts.csswg.org/selectors-4/#scoped-selector`](https://drafts.csswg.org/selectors-4/#scoped-selector)
+     * [`https://drafts.csswg.org/selectors-4/#scope-element`](https://drafts.csswg.org/selectors-4/#scope-element)
+     * [`https://drafts.csswg.org/selectors-4/#scope-pseudo`](https://drafts.csswg.org/selectors-4/#scope-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#selector-subject`](https://drafts.csswg.org/selectors-4/#selector-subject)
+     * [`https://drafts.csswg.org/selectors-4/#complex`](https://drafts.csswg.org/selectors-4/#complex)
+     * [`https://drafts.csswg.org/selectors-4/#matches-pseudo`](https://drafts.csswg.org/selectors-4/#matches-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#descendant-combinator`](https://drafts.csswg.org/selectors-4/#descendant-combinator)
+     * [`https://drafts.csswg.org/selectors-4/#selector`](https://drafts.csswg.org/selectors-4/#selector)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#meta-color-scheme`](https://html.spec.whatwg.org/#meta-color-scheme)
      * [`https://html.spec.whatwg.org/#meta`](https://html.spec.whatwg.org/#meta)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
@@ -4870,10 +4886,15 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-mark-element`](https://html.spec.whatwg.org/#the-mark-element)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/):
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
+- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/):
+     * [`https://drafts.csswg.org/selectors-4/#typedef-complex-selector`](https://drafts.csswg.org/selectors-4/#typedef-complex-selector)
+     * [`https://drafts.csswg.org/selectors-4/#unknown--webkit--pseudo-elements`](https://drafts.csswg.org/selectors-4/#unknown--webkit--pseudo-elements)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#focus`](https://html.spec.whatwg.org/#focus)
@@ -4881,14 +4902,25 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-window-focus`](https://html.spec.whatwg.org/#dom-window-focus)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#dom-innertext`](https://html.spec.whatwg.org/#dom-innertext)
+     * [`https://drafts.csswg.org/resize-observer-1/#resizeobserver`](https://drafts.csswg.org/resize-observer-1/#resizeobserver)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/):
      * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/):
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://drafts.csswg.org/selectors-4/#specificity`](https://drafts.csswg.org/selectors-4/#specificity)
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/web-animations-1/#not-animatable`](https://drafts.csswg.org/web-animations-1/#not-animatable)
+     * [`https://drafts.csswg.org/selectors-4/#lang-pseudo`](https://drafts.csswg.org/selectors-4/#lang-pseudo)
 - [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt/):
      * [`https://www.w3.org/TR/css3-syntax/#property-defs`](https://www.w3.org/TR/css3-syntax/#property-defs)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/):
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://drafts.csswg.org/selectors-4/#document-language`](https://drafts.csswg.org/selectors-4/#document-language)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-summary-element`](https://html.spec.whatwg.org/#the-summary-element)
      * [`https://html.spec.whatwg.org/#the-legend-element`](https://html.spec.whatwg.org/#the-legend-element)
      * [`https://html.spec.whatwg.org/#the-fieldset-element`](https://html.spec.whatwg.org/#the-fieldset-element)
@@ -4914,7 +4946,15 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
+- [CSS Extensions](https://drafts.csswg.org/css-extensions-1/):
+     * [`https://drafts.csswg.org/selectors-4/#typedef-selector-list`](https://drafts.csswg.org/selectors-4/#typedef-selector-list)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-class`](https://drafts.csswg.org/selectors-4/#pseudo-class)
+     * [`https://drafts.csswg.org/selectors-4/#matches-pseudo`](https://drafts.csswg.org/selectors-4/#matches-pseudo)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://www.w3.org/TR/web-animations-1/#repeatable-list`](https://www.w3.org/TR/web-animations-1/#repeatable-list)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/):
      * [`https://drafts.csswg.org/css-fonts-3/#descdef-src`](https://drafts.csswg.org/css-fonts-3/#descdef-src)
@@ -4922,27 +4962,47 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
      * [`https://html.spec.whatwg.org/#offscreencanvas`](https://html.spec.whatwg.org/#offscreencanvas)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#font`](https://html.spec.whatwg.org/#font)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/):
      * [`https://www.w3.org/TR/css3-selectors/#first-letter`](https://www.w3.org/TR/css3-selectors/#first-letter)
      * [`https://drafts.csswg.org/css-color/#cmyk-colors`](https://drafts.csswg.org/css-color/#cmyk-colors)
      * [`https://drafts.csswg.org/css-overflow-3/#paginated-overflow`](https://drafts.csswg.org/css-overflow-3/#paginated-overflow)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
+     * [`https://drafts.csswg.org/selectors-4/#target-pseudo`](https://drafts.csswg.org/selectors-4/#target-pseudo)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/):
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/web-animations-1/#by-computed-value`](https://drafts.csswg.org/web-animations-1/#by-computed-value)
+     * [`https://drafts.csswg.org/web-animations-1/#discrete`](https://drafts.csswg.org/web-animations-1/#discrete)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
      * [`https://html.spec.whatwg.org/#concept-imagebitmap-good`](https://html.spec.whatwg.org/#concept-imagebitmap-good)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#attr-img-src`](https://html.spec.whatwg.org/#attr-img-src)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
+     * [`https://drafts.csswg.org/selectors-4/#target-pseudo`](https://drafts.csswg.org/selectors-4/#target-pseudo)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/):
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
      * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
      * [`https://html.spec.whatwg.org/#canvas`](https://html.spec.whatwg.org/#canvas)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-id-selector`](https://drafts.csswg.org/selectors-4/#typedef-id-selector)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#textmetrics`](https://html.spec.whatwg.org/#textmetrics)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/):
      * [`https://html.spec.whatwg.org/#worklet`](https://html.spec.whatwg.org/#worklet)
@@ -4958,20 +5018,51 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
      * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://drafts.csswg.org/css-inline/#central`](https://drafts.csswg.org/css-inline/#central)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/):
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
+     * [`https://drafts.csswg.org/selectors-4/#compound`](https://drafts.csswg.org/selectors-4/#compound)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://drafts.csswg.org/selectors-4/#selector`](https://drafts.csswg.org/selectors-4/#selector)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-li-element`](https://html.spec.whatwg.org/#the-li-element)
      * [`https://html.spec.whatwg.org/#the-ul-element`](https://html.spec.whatwg.org/#the-ul-element)
      * [`https://html.spec.whatwg.org/#the-ol-element`](https://html.spec.whatwg.org/#the-ol-element)
      * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
      * [`https://html.spec.whatwg.org/#lists`](https://html.spec.whatwg.org/#lists)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-type`](https://drafts.csswg.org/web-animations-1/#animation-type)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/):
+     * [`https://drafts.csswg.org/selectors-4/#type-selector`](https://drafts.csswg.org/selectors-4/#type-selector)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/):
+     * [`https://drafts.csswg.org/selectors-4/#simple`](https://drafts.csswg.org/selectors-4/#simple)
+     * [`https://drafts.csswg.org/selectors-4/#compound`](https://drafts.csswg.org/selectors-4/#compound)
+     * [`https://drafts.csswg.org/selectors-4/#complex`](https://drafts.csswg.org/selectors-4/#complex)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-selector-list`](https://drafts.csswg.org/selectors-4/#typedef-selector-list)
+     * [`https://drafts.csswg.org/selectors-4/#where-pseudo`](https://drafts.csswg.org/selectors-4/#where-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#matches-pseudo`](https://drafts.csswg.org/selectors-4/#matches-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#specificity`](https://drafts.csswg.org/selectors-4/#specificity)
+     * [`https://drafts.csswg.org/selectors-4/#type-selector`](https://drafts.csswg.org/selectors-4/#type-selector)
+     * [`https://drafts.csswg.org/selectors-4/#selector-list`](https://drafts.csswg.org/selectors-4/#selector-list)
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/):
      * [`https://drafts.csswg.org/selectors-3/#sel-before`](https://drafts.csswg.org/selectors-3/#sel-before)
      * [`https://drafts.csswg.org/selectors-3/#sel-after`](https://drafts.csswg.org/selectors-3/#sel-after)
+     * [`https://drafts.csswg.org/selectors-4/#simple`](https://drafts.csswg.org/selectors-4/#simple)
+     * [`https://drafts.csswg.org/selectors-4/#compound`](https://drafts.csswg.org/selectors-4/#compound)
+     * [`https://drafts.csswg.org/selectors-4/#universal-selector`](https://drafts.csswg.org/selectors-4/#universal-selector)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-pseudo-element-selector`](https://drafts.csswg.org/selectors-4/#typedef-pseudo-element-selector)
      * [`https://html.spec.whatwg.org/#concept-script-base-url`](https://html.spec.whatwg.org/#concept-script-base-url)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
@@ -4996,13 +5087,23 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
      * [`https://drafts.csswg.org/css-color-3/#alphavalue-def`](https://drafts.csswg.org/css-color-3/#alphavalue-def)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
      * [`https://html.spec.whatwg.org/#html-vs-xhtml`](https://html.spec.whatwg.org/#html-vs-xhtml)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://drafts.csswg.org/selectors-3/#subject`](https://drafts.csswg.org/selectors-3/#subject)
      * [`https://www.w3.org/TR/css3-transitions/#animatable-types`](https://www.w3.org/TR/css3-transitions/#animatable-types)
      * [`https://html.spec.whatwg.org/#dom-dir`](https://html.spec.whatwg.org/#dom-dir)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/):
+     * [`https://www.w3.org/TR/selectors/#pseudo-classes`](https://www.w3.org/TR/selectors/#pseudo-classes)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-compound-selector`](https://drafts.csswg.org/selectors-4/#typedef-compound-selector)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/):
      * [`https://html.spec.whatwg.org/#worklet`](https://html.spec.whatwg.org/#worklet)
      * [`https://html.spec.whatwg.org/#worklet-global-scope-type`](https://html.spec.whatwg.org/#worklet-global-scope-type)
@@ -5035,16 +5136,32 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#worklets-idempotent`](https://html.spec.whatwg.org/#worklets-idempotent)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/):
      * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/):
+     * [`https://drafts.csswg.org/web-animations-1/#by-computed-value`](https://drafts.csswg.org/web-animations-1/#by-computed-value)
      * [`https://www.w3.org/TR/css-syntax-3/#consume-a-name`](https://www.w3.org/TR/css-syntax-3/#consume-a-name)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/):
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
+     * [`https://drafts.csswg.org/selectors-4/#selector`](https://drafts.csswg.org/selectors-4/#selector)
+     * [`https://drafts.csswg.org/selectors-4/#target-pseudo`](https://drafts.csswg.org/selectors-4/#target-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#placeholder-shown-pseudo`](https://drafts.csswg.org/selectors-4/#placeholder-shown-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-pseudo-element-selector`](https://drafts.csswg.org/selectors-4/#typedef-pseudo-element-selector)
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
+     * [`https://www.w3.org/TR/selectors/#pseudo-elements`](https://www.w3.org/TR/selectors/#pseudo-elements)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#rtc`](https://html.spec.whatwg.org/#rtc)
      * [`https://html.spec.whatwg.org/#the-rp-element`](https://html.spec.whatwg.org/#the-rp-element)
      * [`https://html.spec.whatwg.org/#the-ruby-element`](https://html.spec.whatwg.org/#the-ruby-element)
@@ -5052,6 +5169,19 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
+     * [`https://drafts.csswg.org/selectors-4/#type-selector`](https://drafts.csswg.org/selectors-4/#type-selector)
+     * [`https://drafts.csswg.org/selectors-4/#complex`](https://drafts.csswg.org/selectors-4/#complex)
+     * [`https://drafts.csswg.org/selectors-4/#compound`](https://drafts.csswg.org/selectors-4/#compound)
+     * [`https://drafts.csswg.org/selectors-4/#descendant-combinator`](https://drafts.csswg.org/selectors-4/#descendant-combinator)
+     * [`https://drafts.csswg.org/selectors-4/#match-a-selector-against-a-tree`](https://drafts.csswg.org/selectors-4/#match-a-selector-against-a-tree)
+     * [`https://drafts.csswg.org/selectors-4/#featureless`](https://drafts.csswg.org/selectors-4/#featureless)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-compound-selector`](https://drafts.csswg.org/selectors-4/#typedef-compound-selector)
+     * [`https://drafts.csswg.org/selectors-4/#specificity`](https://drafts.csswg.org/selectors-4/#specificity)
+     * [`https://drafts.csswg.org/selectors-4/#matches-pseudo`](https://drafts.csswg.org/selectors-4/#matches-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#negation-pseudo`](https://drafts.csswg.org/selectors-4/#negation-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#match-a-selector-against-an-element`](https://drafts.csswg.org/selectors-4/#match-a-selector-against-an-element)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-compound-selector-list`](https://drafts.csswg.org/selectors-4/#typedef-compound-selector-list)
+     * [`https://www.w3.org/TR/selectors-4/#data-model`](https://www.w3.org/TR/selectors-4/#data-model)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/):
      * [`https://html.spec.whatwg.org/#dom-anchor`](https://html.spec.whatwg.org/#dom-anchor)
@@ -5062,18 +5192,28 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
      * [`https://html.spec.whatwg.org/#fip-active-match`](https://html.spec.whatwg.org/#fip-active-match)
      * [`https://html.spec.whatwg.org/#processing-model-8`](https://html.spec.whatwg.org/#processing-model-8)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#the-section-element`](https://html.spec.whatwg.org/#the-section-element)
+     * [`https://drafts.csswg.org/selectors-4/#target-pseudo`](https://drafts.csswg.org/selectors-4/#target-pseudo)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
 - [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts/):
      * [`https://www.w3.org/TR/selectors-4/#live-profile`](https://www.w3.org/TR/selectors-4/#live-profile)
+     * [`https://drafts.csswg.org/selectors-4/#hover-pseudo`](https://drafts.csswg.org/selectors-4/#hover-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
+     * [`https://drafts.csswg.org/selectors-4/#structural-pseudo-classes`](https://drafts.csswg.org/selectors-4/#structural-pseudo-classes)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
      * [`https://www.w3.org/TR/css3-transitions/#animatable-types`](https://www.w3.org/TR/css3-transitions/#animatable-types)
      * [`https://www.w3.org/TR/css3-transitions/#animtype-simple-list`](https://www.w3.org/TR/css3-transitions/#animtype-simple-list)
      * [`https://www.w3.org/TR/css3-transitions/#animtype-lpcalc`](https://www.w3.org/TR/css3-transitions/#animtype-lpcalc)
      * [`https://www.w3.org/TR/css-box-3/#the-css-box-model`](https://www.w3.org/TR/css-box-3/#the-css-box-model)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
      * [`https://html.spec.whatwg.org/#dom-focus`](https://html.spec.whatwg.org/#dom-focus)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -5103,29 +5243,49 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
      * [`https://html.spec.whatwg.org/#link-type-stylesheet`](https://html.spec.whatwg.org/#link-type-stylesheet)
      * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
+     * [`https://www.w3.org/TR/selectors/#id-selectors`](https://www.w3.org/TR/selectors/#id-selectors)
+     * [`https://drafts.csswg.org/selectors-4/#nth-child-pseudo`](https://drafts.csswg.org/selectors-4/#nth-child-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#selectordef-adjacent`](https://drafts.csswg.org/selectors-4/#selectordef-adjacent)
+     * [`https://drafts.csswg.org/selectors-4/#selector-list`](https://drafts.csswg.org/selectors-4/#selector-list)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-selector-list`](https://drafts.csswg.org/selectors-4/#typedef-selector-list)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://drafts.csswg.org/css-transforms/#grouping-property-values`](https://drafts.csswg.org/css-transforms/#grouping-property-values)
      * [`https://html.spec.whatwg.org/#tables-2`](https://html.spec.whatwg.org/#tables-2)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/):
      * [`https://html.spec.whatwg.org/#the-ins-element`](https://html.spec.whatwg.org/#the-ins-element)
      * [`https://html.spec.whatwg.org/#the-del-element`](https://html.spec.whatwg.org/#the-del-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://www.w3.org/TR/css-color-3/#color0`](https://www.w3.org/TR/css-color-3/#color0)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/):
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/):
      * [`https://www.w3.org/TR/css-fonts-3/#feature-precedence`](https://www.w3.org/TR/css-fonts-3/#feature-precedence)
+     * [`https://drafts.csswg.org/selectors-4/#document-language`](https://drafts.csswg.org/selectors-4/#document-language)
      * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
      * [`https://html.spec.whatwg.org/#newlines`](https://html.spec.whatwg.org/#newlines)
      * [`https://html.spec.whatwg.org/#preprocessing-the-input-stream`](https://html.spec.whatwg.org/#preprocessing-the-input-stream)
      * [`https://html.spec.whatwg.org/#the-wbr-element`](https://html.spec.whatwg.org/#the-wbr-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/):
      * [`https://html.spec.whatwg.org/#the-wbr-element`](https://html.spec.whatwg.org/#the-wbr-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/selectors-4/#selector`](https://drafts.csswg.org/selectors-4/#selector)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/):
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions/):
      * [`https://drafts.csswg.org/css-color-3/#opacity`](https://drafts.csswg.org/css-color-3/#opacity)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-type`](https://drafts.csswg.org/web-animations-1/#animation-type)
+     * [`https://drafts.csswg.org/web-animations-1/#not-animatable`](https://drafts.csswg.org/web-animations-1/#not-animatable)
+     * [`https://drafts.csswg.org/web-animations-1/#discrete`](https://drafts.csswg.org/web-animations-1/#discrete)
+     * [`https://drafts.csswg.org/web-animations-1/#combining-shadow-lists`](https://drafts.csswg.org/web-animations-1/#combining-shadow-lists)
      * [`https://html.spec.whatwg.org/#concept-event-dispatch`](https://html.spec.whatwg.org/#concept-event-dispatch)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
@@ -5137,11 +5297,31 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#globaleventhandlers`](https://html.spec.whatwg.org/#globaleventhandlers)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/):
+     * [`https://drafts.csswg.org/web-animations/#iteration-duration`](https://drafts.csswg.org/web-animations/#iteration-duration)
+     * [`https://drafts.csswg.org/web-animations/#animation-effect`](https://drafts.csswg.org/web-animations/#animation-effect)
+     * [`https://drafts.csswg.org/web-animations/#start-delay`](https://drafts.csswg.org/web-animations/#start-delay)
+     * [`https://drafts.csswg.org/web-animations/#cancel-an-animation`](https://drafts.csswg.org/web-animations/#cancel-an-animation)
+     * [`https://drafts.csswg.org/web-animations/#animation`](https://drafts.csswg.org/web-animations/#animation)
+     * [`https://drafts.csswg.org/web-animations/#animation-class`](https://drafts.csswg.org/web-animations/#animation-class)
+     * [`https://drafts.csswg.org/web-animations/#global-animation-list`](https://drafts.csswg.org/web-animations/#global-animation-list)
+     * [`https://drafts.csswg.org/web-animations/#idle-play-state`](https://drafts.csswg.org/web-animations/#idle-play-state)
      * [`https://drafts.csswg.org/web-animations/#sampling`](https://drafts.csswg.org/web-animations/#sampling)
      * [`https://drafts.csswg.org/web-animations/#target-effect`](https://drafts.csswg.org/web-animations/#target-effect)
+     * [`https://drafts.csswg.org/web-animations/#unresolved`](https://drafts.csswg.org/web-animations/#unresolved)
      * [`https://drafts.csswg.org/web-animations/#current-time`](https://drafts.csswg.org/web-animations/#current-time)
      * [`https://drafts.csswg.org/web-animations/#pending-play-state`](https://drafts.csswg.org/web-animations/#pending-play-state)
+     * [`https://drafts.csswg.org/web-animations/#active-duration`](https://drafts.csswg.org/web-animations/#active-duration)
      * [`https://drafts.csswg.org/web-animations/#target-effect-end`](https://drafts.csswg.org/web-animations/#target-effect-end)
+     * [`https://drafts.csswg.org/web-animations/#current-iteration`](https://drafts.csswg.org/web-animations/#current-iteration)
+     * [`https://drafts.csswg.org/web-animations/#iteration-start`](https://drafts.csswg.org/web-animations/#iteration-start)
+     * [`https://drafts.csswg.org/web-animations/#active-time`](https://drafts.csswg.org/web-animations/#active-time)
+     * [`https://drafts.csswg.org/web-animations/#fill-mode`](https://drafts.csswg.org/web-animations/#fill-mode)
+     * [`https://www.w3.org/TR/web-animations-1/#time-transformations`](https://www.w3.org/TR/web-animations-1/#time-transformations)
+     * [`https://www.w3.org/TR/web-animations-1/#applying-the-composited-result`](https://www.w3.org/TR/web-animations-1/#applying-the-composited-result)
+     * [`https://www.w3.org/TR/web-animations-1/#animation-effect-phases-and-states`](https://www.w3.org/TR/web-animations-1/#animation-effect-phases-and-states)
+     * [`https://drafts.csswg.org/web-animations-1/#transformed-progress`](https://drafts.csswg.org/web-animations-1/#transformed-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-cancel`](https://drafts.csswg.org/web-animations-1/#dom-animation-cancel)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animatable-getanimations`](https://drafts.csswg.org/web-animations-1/#dom-animatable-getanimations)
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/):
      * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
@@ -5154,8 +5334,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
      * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
+     * [`https://drafts.csswg.org/selectors-4/#selectordef-adjacent`](https://drafts.csswg.org/selectors-4/#selectordef-adjacent)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
+     * [`https://www.w3.org/TR/selectors/#attribute-selectors`](https://www.w3.org/TR/selectors/#attribute-selectors)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/):
+     * [`https://drafts.csswg.org/web-animations-1/#not-animatable`](https://drafts.csswg.org/web-animations-1/#not-animatable)
+     * [`https://drafts.csswg.org/web-animations-1/#discrete`](https://drafts.csswg.org/web-animations-1/#discrete)
      * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
      * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
@@ -5164,9 +5348,15 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://www.w3.org/TR/css-values-3/#acknowledgements`](https://www.w3.org/TR/css-values-3/#acknowledgements)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-wq-name`](https://drafts.csswg.org/selectors-4/#typedef-wq-name)
+     * [`https://drafts.csswg.org/selectors-4/#attribute-selector`](https://drafts.csswg.org/selectors-4/#attribute-selector)
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/):
      * [`https://html.spec.whatwg.org/#bidi-rendering`](https://html.spec.whatwg.org/#bidi-rendering)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/):
      * [`https://html.spec.whatwg.org/#html-elements`](https://html.spec.whatwg.org/#html-elements)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
@@ -5190,6 +5380,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
      * [`https://html.spec.whatwg.org/#htmlimageelement`](https://html.spec.whatwg.org/#htmlimageelement)
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/):
+     * [`https://drafts.csswg.org/selectors-4/#invalid-pseudo`](https://drafts.csswg.org/selectors-4/#invalid-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-class`](https://drafts.csswg.org/selectors-4/#pseudo-class)
      * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
      * [`https://html.spec.whatwg.org/#elementinternals`](https://html.spec.whatwg.org/#elementinternals)
      * [`https://html.spec.whatwg.org/#autonomous-custom-element`](https://html.spec.whatwg.org/#autonomous-custom-element)
@@ -5249,6 +5441,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/dom/#nomodificationallowederror`](https://www.w3.org/TR/dom/#nomodificationallowederror)
      * [`https://www.w3.org/TR/dom/#syntaxerror`](https://www.w3.org/TR/dom/#syntaxerror)
 - [DOM Standard](https://dom.spec.whatwg.org/):
+     * [`https://drafts.csswg.org/selectors-4/#parse-a-selector`](https://drafts.csswg.org/selectors-4/#parse-a-selector)
+     * [`https://drafts.csswg.org/selectors-4/#match-a-selector-against-a-tree`](https://drafts.csswg.org/selectors-4/#match-a-selector-against-a-tree)
+     * [`https://drafts.csswg.org/selectors-4/#scoping-root`](https://drafts.csswg.org/selectors-4/#scoping-root)
+     * [`https://drafts.csswg.org/selectors-4/#defined-pseudo`](https://drafts.csswg.org/selectors-4/#defined-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#match-a-selector-against-an-element`](https://drafts.csswg.org/selectors-4/#match-a-selector-against-an-element)
+     * [`https://drafts.csswg.org/selectors-4/#scope-element`](https://drafts.csswg.org/selectors-4/#scope-element)
      * [`https://html.spec.whatwg.org/#dom-click`](https://html.spec.whatwg.org/#dom-click)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
@@ -5526,6 +5724,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-messageerror`](https://html.spec.whatwg.org/#event-messageerror)
      * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#attr-img-crossorigin`](https://html.spec.whatwg.org/#attr-img-crossorigin)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
@@ -5535,7 +5734,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list`](https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list)
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
      * [`https://www.w3.org/TR/css-color-4/#linear-light-sRGB`](https://www.w3.org/TR/css-color-4/#linear-light-sRGB)
+     * [`https://drafts.csswg.org/web-animations-1/#composite-operation-replace`](https://drafts.csswg.org/web-animations-1/#composite-operation-replace)
+     * [`https://drafts.csswg.org/selectors-4/#visited-pseudo`](https://drafts.csswg.org/selectors-4/#visited-pseudo)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
@@ -6141,6 +6343,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-grid/#propdef-grid-column-gap`](https://drafts.csswg.org/css-grid/#propdef-grid-column-gap)
      * [`https://drafts.csswg.org/css-grid/#propdef-grid-row-gap`](https://drafts.csswg.org/css-grid/#propdef-grid-row-gap)
      * [`https://drafts.csswg.org/css-multicol/#propdef-column-gap`](https://drafts.csswg.org/css-multicol/#propdef-column-gap)
+     * [`https://drafts.csswg.org/web-animations/#update-animations-and-send-events`](https://drafts.csswg.org/web-animations/#update-animations-and-send-events)
+     * [`https://drafts.csswg.org/selectors/#type-selector`](https://drafts.csswg.org/selectors/#type-selector)
+     * [`https://drafts.csswg.org/selectors/#attribute-selector`](https://drafts.csswg.org/selectors/#attribute-selector)
+     * [`https://drafts.csswg.org/selectors/#pseudo-class`](https://drafts.csswg.org/selectors/#pseudo-class)
+     * [`https://drafts.csswg.org/selectors/#the-focus-visible-pseudo`](https://drafts.csswg.org/selectors/#the-focus-visible-pseudo)
      * [`https://drafts.csswg.org/css-values/#vw`](https://drafts.csswg.org/css-values/#vw)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-cue-text`](https://w3c.github.io/webvtt/#webvtt-file-using-cue-text)
      * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status)
@@ -6465,6 +6672,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-canvas-element`](https://html.spec.whatwg.org/#the-canvas-element)
      * [`https://html.spec.whatwg.org/#security-with-canvas-elements`](https://html.spec.whatwg.org/#security-with-canvas-elements)
      * [`https://html.spec.whatwg.org/#element`](https://html.spec.whatwg.org/#element)
+     * [`https://www.w3.org/TR/selectors-3/#title`](https://www.w3.org/TR/selectors-3/#title)
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/):
      * [`https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability)
      * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
@@ -6767,6 +6975,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-form-element`](https://html.spec.whatwg.org/#the-form-element)
      * [`https://html.spec.whatwg.org/#attr-fs-action`](https://html.spec.whatwg.org/#attr-fs-action)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/):
+     * [`https://www.w3.org/TR/web-animations/#animation-type`](https://www.w3.org/TR/web-animations/#animation-type)
      * [`https://drafts.csswg.org/css-position-3/#normal-flow`](https://drafts.csswg.org/css-position-3/#normal-flow)
      * [`https://drafts.csswg.org/css-position/#normal-flow`](https://drafts.csswg.org/css-position/#normal-flow)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/):
@@ -6998,6 +7207,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://www.w3.org/TR/css-color-3/#opacity`](https://www.w3.org/TR/css-color-3/#opacity)
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
      * [`https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestampdomhighrestimestamp`](https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestampdomhighrestimestamp)
 - [Payment Handler API](https://w3c.github.io/payment-handler/):
      * [`https://www.w3.org/TR/service-workers-1/#service-worker-global-scope`](https://www.w3.org/TR/service-workers-1/#service-worker-global-scope)
@@ -7134,6 +7344,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
      * [`https://html.spec.whatwg.org/#media-element-event-task-source`](https://html.spec.whatwg.org/#media-element-event-task-source)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-class`](https://drafts.csswg.org/selectors-4/#pseudo-class)
 - [Pointer Events](https://w3c.github.io/pointerevents/):
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -7365,6 +7576,17 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-th-element`](https://html.spec.whatwg.org/#the-th-element)
      * [`https://html.spec.whatwg.org/#the-table-element`](https://html.spec.whatwg.org/#the-table-element)
      * [`https://drafts.csswg.org/css2/visuren.html#block-container-element`](https://drafts.csswg.org/css2/visuren.html#block-container-element)
+     * [`https://drafts.csswg.org/selectors-4/#compound`](https://drafts.csswg.org/selectors-4/#compound)
+     * [`https://drafts.csswg.org/selectors-4/#any-link-pseudo`](https://drafts.csswg.org/selectors-4/#any-link-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#active-pseudo`](https://drafts.csswg.org/selectors-4/#active-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#hover-pseudo`](https://drafts.csswg.org/selectors-4/#hover-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-class`](https://drafts.csswg.org/selectors-4/#pseudo-class)
+     * [`https://drafts.csswg.org/selectors-4/#type-selector`](https://drafts.csswg.org/selectors-4/#type-selector)
+     * [`https://drafts.csswg.org/selectors-4/#attribute-selector`](https://drafts.csswg.org/selectors-4/#attribute-selector)
+     * [`https://drafts.csswg.org/selectors-4/#id-selector`](https://drafts.csswg.org/selectors-4/#id-selector)
+     * [`https://drafts.csswg.org/selectors-4/#class-selector`](https://drafts.csswg.org/selectors-4/#class-selector)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-element`](https://drafts.csswg.org/selectors-4/#pseudo-element)
+     * [`https://drafts.csswg.org/selectors-4/#functional-pseudo-class`](https://drafts.csswg.org/selectors-4/#functional-pseudo-class)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/):
      * [`https://html.spec.whatwg.org/#link-type-noreferrer`](https://html.spec.whatwg.org/#link-type-noreferrer)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
@@ -7464,11 +7686,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/permissions/#boolean-permission-query-algorithm`](https://w3c.github.io/permissions/#boolean-permission-query-algorithm)
      * [`https://w3c.github.io/permissions/#request-permission-to-use`](https://w3c.github.io/permissions/#request-permission-to-use)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
-- [Resize Observer](https://drafts.csswg.org/resize-observer/):
-     * [`https://www.w3.org/TR/css3-positioning/#viewport`](https://www.w3.org/TR/css3-positioning/#viewport)
-     * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
-     * [`https://html.spec.whatwg.org/#errorevent`](https://html.spec.whatwg.org/#errorevent)
-     * [`https://html.spec.whatwg.org/#processing-model-8`](https://html.spec.whatwg.org/#processing-model-8)
 - [Resource Hints](https://w3c.github.io/resource-hints/):
      * [`https://html.spec.whatwg.org/#resolve-a-url`](https://html.spec.whatwg.org/#resolve-a-url)
      * [`https://html.spec.whatwg.org/#url`](https://html.spec.whatwg.org/#url)
@@ -7585,8 +7802,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#animation-frames`](https://html.spec.whatwg.org/#animation-frames)
      * [`https://www.w3.org/TR/geometry-1/#dom-dompoint`](https://www.w3.org/TR/geometry-1/#dom-dompoint)
      * [`https://www.w3.org/TR/geometry-1/#dom-dompointreadonly`](https://www.w3.org/TR/geometry-1/#dom-dompointreadonly)
+     * [`https://drafts.csswg.org/selectors/#complex`](https://drafts.csswg.org/selectors/#complex)
+     * [`https://www.w3.org/TR/web-animations-1/#the-animation-interface`](https://www.w3.org/TR/web-animations-1/#the-animation-interface)
+     * [`https://www.w3.org/TR/web-animations-1/#dom-animation-effect`](https://www.w3.org/TR/web-animations-1/#dom-animation-effect)
      * [`https://www.w3.org/TR/web-animations-1/#keyframeeffectreadonly`](https://www.w3.org/TR/web-animations-1/#keyframeeffectreadonly)
      * [`https://www.w3.org/TR/web-animations-1/#dom-keyframeeffectreadonly-target`](https://www.w3.org/TR/web-animations-1/#dom-keyframeeffectreadonly-target)
+     * [`https://www.w3.org/TR/web-animations-1/#animation-type`](https://www.w3.org/TR/web-animations-1/#animation-type)
      * [`https://w3c.github.io/svg-aam/#details-id-69`](https://w3c.github.io/svg-aam/#details-id-69)
      * [`https://www.w3.org/TR/css3-mediaqueries/#syntax`](https://www.w3.org/TR/css3-mediaqueries/#syntax)
      * [`https://www.w3.org/TR/css-position-3/#vp`](https://www.w3.org/TR/css-position-3/#vp)
@@ -7660,10 +7881,21 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-plugin-secure`](https://html.spec.whatwg.org/#concept-plugin-secure)
      * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/):
+     * [`https://drafts.csswg.org/web-animations-1/#concept-animation`](https://drafts.csswg.org/web-animations-1/#concept-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline`](https://drafts.csswg.org/web-animations-1/#timeline)
+     * [`https://drafts.csswg.org/web-animations-1/#animationtimeline`](https://drafts.csswg.org/web-animations-1/#animationtimeline)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-duration`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-duration)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-current-time`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-current-time)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-inactive-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-inactive-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-before-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-before-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-after-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-after-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-active-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-active-phase)
      * [`https://html.spec.whatwg.org/#concept-document-windowconcept-document-window`](https://html.spec.whatwg.org/#concept-document-windowconcept-document-window)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
+     * [`https://drafts.csswg.org/selectors-4/#typedef-id-selector`](https://drafts.csswg.org/selectors-4/#typedef-id-selector)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/):
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
@@ -7705,51 +7937,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-- [Selectors Level 4](https://drafts.csswg.org/selectors/):
-     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
-     * [`https://html.spec.whatwg.org/#selectors`](https://html.spec.whatwg.org/#selectors)
-     * [`https://html.spec.whatwg.org/#the-ol-element`](https://html.spec.whatwg.org/#the-ol-element)
-     * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
-     * [`https://html.spec.whatwg.org/#the-h1-element`](https://html.spec.whatwg.org/#the-h1-element)
-     * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
-     * [`https://html.spec.whatwg.org/#element-definition`](https://html.spec.whatwg.org/#element-definition)
-     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
-     * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
-     * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
-     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
-     * [`https://html.spec.whatwg.org/#the-directionality`](https://html.spec.whatwg.org/#the-directionality)
-     * [`https://html.spec.whatwg.org/#meta`](https://html.spec.whatwg.org/#meta)
-     * [`https://html.spec.whatwg.org/#the-q-element`](https://html.spec.whatwg.org/#the-q-element)
-     * [`https://html.spec.whatwg.org/#the-area-element`](https://html.spec.whatwg.org/#the-area-element)
-     * [`https://html.spec.whatwg.org/#selector-hover`](https://html.spec.whatwg.org/#selector-hover)
-     * [`https://html.spec.whatwg.org/#the-label-element`](https://html.spec.whatwg.org/#the-label-element)
-     * [`https://html.spec.whatwg.org/#selector-active`](https://html.spec.whatwg.org/#selector-active)
-     * [`https://html.spec.whatwg.org/#focusable-area`](https://html.spec.whatwg.org/#focusable-area)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
-     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
-     * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#seeking`](https://html.spec.whatwg.org/#seeking)
-     * [`https://html.spec.whatwg.org/#media-data`](https://html.spec.whatwg.org/#media-data)
-     * [`https://html.spec.whatwg.org/#stall-timeout`](https://html.spec.whatwg.org/#stall-timeout)
-     * [`https://html.spec.whatwg.org/#effective-media-volume`](https://html.spec.whatwg.org/#effective-media-volume)
-     * [`https://html.spec.whatwg.org/#selector-enabled`](https://html.spec.whatwg.org/#selector-enabled)
-     * [`https://html.spec.whatwg.org/#selector-read-only`](https://html.spec.whatwg.org/#selector-read-only)
-     * [`https://html.spec.whatwg.org/#attr-input-placeholder`](https://html.spec.whatwg.org/#attr-input-placeholder)
-     * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
-     * [`https://html.spec.whatwg.org/#the-select-element`](https://html.spec.whatwg.org/#the-select-element)
-     * [`https://html.spec.whatwg.org/#selector-default`](https://html.spec.whatwg.org/#selector-default)
-     * [`https://html.spec.whatwg.org/#selector-checked`](https://html.spec.whatwg.org/#selector-checked)
-     * [`https://html.spec.whatwg.org/#selector-indeterminate`](https://html.spec.whatwg.org/#selector-indeterminate)
-     * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#a-form-control%E2%80%99s-value`](https://html.spec.whatwg.org/#a-form-control%E2%80%99s-value)
-     * [`https://html.spec.whatwg.org/#attr-input-value`](https://html.spec.whatwg.org/#attr-input-value)
-     * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
-     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-     * [`https://html.spec.whatwg.org/#the-em-element`](https://html.spec.whatwg.org/#the-em-element)
-     * [`https://html.spec.whatwg.org/#the-li-element`](https://html.spec.whatwg.org/#the-li-element)
-     * [`https://html.spec.whatwg.org/#the-pre-element`](https://html.spec.whatwg.org/#the-pre-element)
-     * [`https://www.w3.org/TR/css-scoping-1/#selectordef-shadow`](https://www.w3.org/TR/css-scoping-1/#selectordef-shadow)
-     * [`https://www.w3.org/TR/css-scoping-1/#selectordef-content`](https://www.w3.org/TR/css-scoping-1/#selectordef-content)
 - [Server Timing](https://w3c.github.io/server-timing/):
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
@@ -8220,37 +8407,71 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://www.w3.org/TR/css-overflow-4/#classic-scrollbars`](https://www.w3.org/TR/css-overflow-4/#classic-scrollbars)
-- [Web Animations](https://drafts.csswg.org/web-animations-1/):
-     * [`https://html.spec.whatwg.org/#animation-frames`](https://html.spec.whatwg.org/#animation-frames)
-     * [`https://html.spec.whatwg.org/#document`](https://html.spec.whatwg.org/#document)
-     * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
-     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
-     * [`https://html.spec.whatwg.org/#dom-document-open`](https://html.spec.whatwg.org/#dom-document-open)
-     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
-     * [`https://html.spec.whatwg.org/#media-element`](https://html.spec.whatwg.org/#media-element)
-     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
-     * [`https://html.spec.whatwg.org/#dom-manipulation-task-source`](https://html.spec.whatwg.org/#dom-manipulation-task-source)
-     * [`https://html.spec.whatwg.org/#queue-a-microtask`](https://html.spec.whatwg.org/#queue-a-microtask)
-     * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
-     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
-     * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
-     * [`https://html.spec.whatwg.org/#event-loop-processing-model`](https://html.spec.whatwg.org/#event-loop-processing-model)
-     * [`https://html.spec.whatwg.org/#run-the-animation-frame-callbacks`](https://html.spec.whatwg.org/#run-the-animation-frame-callbacks)
-     * [`https://html.spec.whatwg.org/#an-entry-with-persisted-user-state`](https://html.spec.whatwg.org/#an-entry-with-persisted-user-state)
-     * [`https://html.spec.whatwg.org/#session-history-entry`](https://html.spec.whatwg.org/#session-history-entry)
-     * [`https://w3c.github.io/hr-time/#time-origin`](https://w3c.github.io/hr-time/#time-origin)
-     * [`https://w3c.github.io/hr-time/#domhighrestimestamp`](https://w3c.github.io/hr-time/#domhighrestimestamp)
-     * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/):
+     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-hold-time`](https://drafts.csswg.org/web-animations-1/#animation-hold-time)
+     * [`https://drafts.csswg.org/web-animations-1/#animation`](https://drafts.csswg.org/web-animations-1/#animation)
      * [`https://drafts.csswg.org/web-animations-1/#current-time`](https://drafts.csswg.org/web-animations-1/#current-time)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#end-delay`](https://drafts.csswg.org/web-animations-1/#end-delay)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline`](https://drafts.csswg.org/web-animations-1/#timeline)
+     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
+     * [`https://drafts.csswg.org/web-animations-1/#finished-play-state`](https://drafts.csswg.org/web-animations-1/#finished-play-state)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-progress`](https://drafts.csswg.org/web-animations-1/#iteration-progress)
      * [`https://drafts.csswg.org/web-animations-1/#target-effect`](https://drafts.csswg.org/web-animations-1/#target-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#keyframe-effect`](https://drafts.csswg.org/web-animations-1/#keyframe-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#inactive-timeline`](https://drafts.csswg.org/web-animations-1/#inactive-timeline)
+     * [`https://drafts.csswg.org/web-animations-1/#time-value`](https://drafts.csswg.org/web-animations-1/#time-value)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-active-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-active-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#ready`](https://drafts.csswg.org/web-animations-1/#ready)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-associated-effect`](https://drafts.csswg.org/web-animations-1/#animation-associated-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#current-finished-promise`](https://drafts.csswg.org/web-animations-1/#current-finished-promise)
+     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#cancel-an-animation`](https://drafts.csswg.org/web-animations-1/#cancel-an-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#active-interval`](https://drafts.csswg.org/web-animations-1/#active-interval)
+     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
      * [`https://drafts.csswg.org/web-animations-1/#active-phase`](https://drafts.csswg.org/web-animations-1/#active-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-before-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-before-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#timeline-timeline-after-phase`](https://drafts.csswg.org/web-animations-1/#timeline-timeline-after-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
      * [`https://drafts.csswg.org/web-animations-1/#animation-playback-rate`](https://drafts.csswg.org/web-animations-1/#animation-playback-rate)
+     * [`https://drafts.csswg.org/web-animations-1/#transformed-progress`](https://drafts.csswg.org/web-animations-1/#transformed-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
+     * [`https://drafts.csswg.org/web-animations-1/#overall-progress`](https://drafts.csswg.org/web-animations-1/#overall-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#simple-iteration-progress`](https://drafts.csswg.org/web-animations-1/#simple-iteration-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#directed-progress`](https://drafts.csswg.org/web-animations-1/#directed-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
      * [`https://drafts.csswg.org/web-animations-1/#before-flag`](https://drafts.csswg.org/web-animations-1/#before-flag)
+     * [`https://drafts.csswg.org/web-animations-1/#not-animatable`](https://drafts.csswg.org/web-animations-1/#not-animatable)
+     * [`https://drafts.csswg.org/web-animations-1/#effect-value`](https://drafts.csswg.org/web-animations-1/#effect-value)
+     * [`https://drafts.csswg.org/web-animations-1/#target-property`](https://drafts.csswg.org/web-animations-1/#target-property)
+     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
+     * [`https://drafts.csswg.org/web-animations-1/#update-animations-and-send-events`](https://drafts.csswg.org/web-animations-1/#update-animations-and-send-events)
+     * [`https://drafts.csswg.org/web-animations-1/#in-effect`](https://drafts.csswg.org/web-animations-1/#in-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
+     * [`https://drafts.csswg.org/web-animations-1/#animationtimeline`](https://drafts.csswg.org/web-animations-1/#animationtimeline)
+     * [`https://drafts.csswg.org/web-animations-1/#animationeffect`](https://drafts.csswg.org/web-animations-1/#animationeffect)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-animation-animation`](https://drafts.csswg.org/web-animations-1/#dom-animation-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#dictdef-effecttiming`](https://drafts.csswg.org/web-animations-1/#dictdef-effecttiming)
+     * [`https://drafts.csswg.org/web-animations-1/#dictdef-optionaleffecttiming`](https://drafts.csswg.org/web-animations-1/#dictdef-optionaleffecttiming)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-delay`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-delay)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-enddelay`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-enddelay)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-fill`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-fill)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-iterationstart`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-iterationstart)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-iterations`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-iterations)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-direction`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-direction)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-effecttiming-easing`](https://drafts.csswg.org/web-animations-1/#dom-effecttiming-easing)
+     * [`https://drafts.csswg.org/web-animations-1/#dictdef-computedeffecttiming`](https://drafts.csswg.org/web-animations-1/#dictdef-computedeffecttiming)
+     * [`https://drafts.csswg.org/web-animations-1/#keyframeeffect`](https://drafts.csswg.org/web-animations-1/#keyframeeffect)
+     * [`https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect`](https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#dictdef-keyframeeffectoptions`](https://drafts.csswg.org/web-animations-1/#dictdef-keyframeeffectoptions)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-keyframeeffect-composite`](https://drafts.csswg.org/web-animations-1/#dom-keyframeeffect-composite)
+     * [`https://drafts.csswg.org/web-animations-1/#dom-keyframeeffect-keyframeeffect-source-source`](https://drafts.csswg.org/web-animations-1/#dom-keyframeeffect-keyframeeffect-source-source)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
+     * [`https://www.w3.org/TR/web-animations-1/#effect-composition`](https://www.w3.org/TR/web-animations-1/#effect-composition)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/):
      * [`https://www.w3.org/TR/accname-1.2/#dfn-accessible-description`](https://www.w3.org/TR/accname-1.2/#dfn-accessible-description)
      * [`https://www.w3.org/TR/accname-1.2/#dfn-accessible-name`](https://www.w3.org/TR/accname-1.2/#dfn-accessible-name)
@@ -8945,6 +9166,13 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#honor-user-preferences-for-automatic-text-track-selection`](https://html.spec.whatwg.org/#honor-user-preferences-for-automatic-text-track-selection)
      * [`https://drafts.csswg.org/css-values-4/#vw`](https://drafts.csswg.org/css-values-4/#vw)
      * [`https://drafts.csswg.org/css-values-4/#vh`](https://drafts.csswg.org/css-values-4/#vh)
+     * [`https://drafts.csswg.org/selectors-4/#originating-element`](https://drafts.csswg.org/selectors-4/#originating-element)
+     * [`https://drafts.csswg.org/selectors-4/#past-pseudo`](https://drafts.csswg.org/selectors-4/#past-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#future-pseudo`](https://drafts.csswg.org/selectors-4/#future-pseudo)
+     * [`https://drafts.csswg.org/selectors-4/#id-selector`](https://drafts.csswg.org/selectors-4/#id-selector)
+     * [`https://drafts.csswg.org/selectors-4/#type-selector`](https://drafts.csswg.org/selectors-4/#type-selector)
+     * [`https://drafts.csswg.org/selectors-4/#class-selector`](https://drafts.csswg.org/selectors-4/#class-selector)
+     * [`https://drafts.csswg.org/selectors-4/#attribute-selector`](https://drafts.csswg.org/selectors-4/#attribute-selector)
      * [`https://drafts.csswg.org/selectors-3/#sel-before`](https://drafts.csswg.org/selectors-3/#sel-before)
      * [`https://drafts.csswg.org/selectors-3/#sel-after`](https://drafts.csswg.org/selectors-3/#sel-after)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/):
@@ -8988,6 +9216,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#htmliframeelement`](https://html.spec.whatwg.org/#htmliframeelement)
+     * [`https://drafts.csswg.org/selectors-4/#pseudo-class`](https://drafts.csswg.org/selectors-4/#pseudo-class)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/):
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
@@ -9042,7 +9271,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4735 problematic external links found in 292 specifications
+=> 5044 problematic external links found in 312 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9120,8 +9349,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2dcontext/`](https://www.w3.org/TR/2dcontext/)
 - [Selection API](https://w3c.github.io/selection-api/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [Selectors Level 4](https://drafts.csswg.org/selectors/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/):
@@ -9159,7 +9386,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 48 specifications
+=> 56 problematic external links found in 47 specifications
 
 
 ## External links that use a dated URL
@@ -9387,10 +9614,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2015/WD-svg-strokes-20150407/`](https://www.w3.org/TR/2015/WD-svg-strokes-20150407/)
 - [Selection API](https://w3c.github.io/selection-api/):
      * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/)
-- [Selectors Level 4](https://drafts.csswg.org/selectors/):
-     * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
-     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
-     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/):
      * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
      * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/)
@@ -9424,7 +9647,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 196 problematic external links found in 63 specifications
+=> 193 problematic external links found in 62 specifications
 
 
 
