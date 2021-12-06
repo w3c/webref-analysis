@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-06T06:42:39.880Z",
+  "date": "2021-12-06T07:55:07.070Z",
   "stats": {
     "crawled": 449,
     "errors": 0,
@@ -38652,7 +38652,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "02 December 2021",
+      "date": "06 December 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
