@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-06T18:41:53.187Z",
+  "date": "2021-12-07T00:51:43.576Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -3666,7 +3666,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "16 November 2021",
+      "date": "6 December 2021",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",
@@ -7419,7 +7419,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "23 September 2021",
+      "date": "6 December 2021",
       "url": "https://drafts.csswg.org/css-cascade-6/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-cascade-6/",
@@ -7965,11 +7965,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://drafts.csswg.org/css-cascade-6/",
-              "title": "CSS Cascading and Inheritance Level 6",
-              "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            },
             {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
@@ -45351,7 +45346,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/performance-timeline-2/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/performance-timeline/",
@@ -45536,7 +45533,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45601,7 +45598,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45639,7 +45636,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45728,7 +45725,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45802,7 +45799,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45860,7 +45857,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45898,7 +45895,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45954,7 +45951,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46010,7 +46007,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -48394,6 +48391,9 @@
           "notExported": [
             "https://w3c.github.io/webauthn/#relying-party",
             "https://w3c.github.io/webauthn/#webauthn-extensions",
+            "https://w3c.github.io/webauthn/#public-key-credential",
+            "https://w3c.github.io/webauthn/#credential-id",
+            "https://w3c.github.io/webauthn/#discoverable-credential",
             "https://w3c.github.io/webauthn/#authentication-ceremony",
             "https://w3c.github.io/webauthn/#client-extension",
             "https://w3c.github.io/webauthn/#registration-extension",
@@ -61667,7 +61667,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "5 December 2021",
+      "date": "6 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61782,7 +61782,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "5 December 2021",
+      "date": "6 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
