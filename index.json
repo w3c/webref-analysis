@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-07T12:49:02.157Z",
+  "date": "2021-12-07T18:45:25.130Z",
   "stats": {
     "crawled": 450,
-    "errors": 1,
+    "errors": 0,
     "studied": 450
   },
   "results": [
@@ -244,7 +244,7 @@
     {
       "title": "Accelerometer",
       "shortname": "accelerometer",
-      "date": "4 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.w3.org/TR/accelerometer/",
       "release": {
         "url": "https://www.w3.org/TR/accelerometer/",
@@ -289,13 +289,6 @@
               "name": "SCREEN-ORIENTATION",
               "url": "https://w3c.github.io/screen-orientation/"
             }
-          },
-          {
-            "link": "https://www.w3.org/TR/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://w3c.github.io/permissions/"
-            }
           }
         ],
         "referencedBy": {
@@ -319,14 +312,15 @@
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
-            },
+            }
+          ],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
             }
-          ],
-          "informative": []
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -637,7 +631,7 @@
     {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
-      "date": "3 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.w3.org/TR/ambient-light/",
       "release": {
         "url": "https://www.w3.org/TR/ambient-light/",
@@ -671,15 +665,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://w3c.github.io/permissions/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -914,7 +900,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "06 December 2021",
+      "date": "07 December 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -1503,17 +1489,18 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://wicg.github.io/periodic-background-sync/",
               "title": "Web Periodic Background Synchronization",
               "crawled": "https://wicg.github.io/periodic-background-sync/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -7621,7 +7608,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -22026,7 +22013,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "20 November 2021",
+      "date": "7 December 2021",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23989,6 +23976,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -24879,11 +24871,6 @@
               "crawled": "https://w3c.github.io/orientation-sensor/"
             },
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://www.w3.org/TR/proximity/",
               "title": "Proximity Sensor",
               "crawled": "https://w3c.github.io/proximity/"
@@ -25450,7 +25437,7 @@
     {
       "title": "Gyroscope",
       "shortname": "gyroscope",
-      "date": "4 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.w3.org/TR/gyroscope/",
       "release": {
         "url": "https://www.w3.org/TR/gyroscope/",
@@ -25486,15 +25473,7 @@
         "missingLinkRef": [
           "https://w3c.github.io/motion-sensors/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://w3c.github.io/permissions/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -25506,14 +25485,15 @@
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
-            },
+            }
+          ],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
             }
-          ],
-          "informative": []
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -26319,6 +26299,7 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
+      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26330,12 +26311,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/html-media-capture/",
-        "repository": "https://github.com/w3c/html-media-capture",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/html-media-capture/",
       "organization": "W3C",
       "groups": [
         {
@@ -26344,10 +26320,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 339)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26361,6 +26337,19 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [
+            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
+          ],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html51/",
+            "https://www.w3.org/TR/custom-elements/"
+          ],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -33274,6 +33263,11 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -38383,7 +38377,7 @@
     {
       "title": "Magnetometer",
       "shortname": "magnetometer",
-      "date": "4 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.w3.org/TR/magnetometer/",
       "release": {
         "url": "https://www.w3.org/TR/magnetometer/",
@@ -38460,14 +38454,15 @@
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
-            },
+            }
+          ],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
             }
-          ],
-          "informative": []
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -38932,6 +38927,11 @@
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -54205,6 +54205,11 @@
               "crawled": "https://w3c.github.io/hr-time/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -61639,7 +61644,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61754,7 +61759,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 December 2021",
+      "date": "7 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -63034,11 +63039,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://immersive-web.github.io/anchors/",
               "title": "WebXR Anchors Module",
               "crawled": "https://immersive-web.github.io/anchors/"
@@ -63084,7 +63084,13 @@
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [

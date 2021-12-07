@@ -2,12 +2,36 @@
 % Strudy
 % December 07, 2021
 
+## Accelerometer
+
+- Initial URL: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
+- Crawled URL: [undefined](undefined)
+- Editor's Draft: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/permissions/
+
+
+## Ambient Light Sensor
+
+- Initial URL: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
+- Crawled URL: [undefined](undefined)
+- Editor's Draft: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/permissions/
+
+
+## Gyroscope
+
+- Initial URL: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
+- Crawled URL: [undefined](undefined)
+- Editor's Draft: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/permissions/
+
+
 ## HTML Media Capture
 
 - Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
-- Spec could not be rendered: *INS* Error: Evaluation failed: Error: Respec generation took too long
+- Spec could not be rendered: *DEL* Error: Evaluation failed: Error: Respec generation took too long
     at isReady (__puppeteer_evaluation_script__:12:27)
     at isReady (__puppeteer_evaluation_script__:19:27)
     at async isReady (__puppeteer_evaluation_script__:19:21)
