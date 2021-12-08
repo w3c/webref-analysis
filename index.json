@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-08T00:54:00.847Z",
+  "date": "2021-12-08T06:43:53.571Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -900,7 +900,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "07 December 2021",
+      "date": "08 December 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -38857,7 +38857,13 @@
               "crawled": "https://w3c.github.io/webcodecs/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -42234,7 +42240,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request",
-      "date": "18 November 2021",
+      "date": "08 December 2021",
       "url": "https://www.w3.org/TR/payment-request/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request/",
@@ -42323,7 +42329,8 @@
             "https://html.spec.whatwg.org/#user-interaction-task-source",
             "https://html.spec.whatwg.org/#the-details-element",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
-            "https://html.spec.whatwg.org/#secure-context"
+            "https://html.spec.whatwg.org/#secure-context",
+            "https://html.spec.whatwg.org/#concept-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -47659,7 +47666,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "06 December 2021",
+      "date": "08 December 2021",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -61644,7 +61651,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "7 December 2021",
+      "date": "8 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61759,7 +61766,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "7 December 2021",
+      "date": "8 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
