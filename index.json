@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-08T12:47:20.560Z",
+  "date": "2021-12-08T18:42:29.639Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -244,7 +244,7 @@
     {
       "title": "Accelerometer",
       "shortname": "accelerometer",
-      "date": "7 December 2021",
+      "date": "8 December 2021",
       "url": "https://www.w3.org/TR/accelerometer/",
       "release": {
         "url": "https://www.w3.org/TR/accelerometer/",
@@ -631,7 +631,7 @@
     {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
-      "date": "7 December 2021",
+      "date": "8 December 2021",
       "url": "https://www.w3.org/TR/ambient-light/",
       "release": {
         "url": "https://www.w3.org/TR/ambient-light/",
@@ -689,7 +689,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://w3c.github.io/sensors/#high-level",
             "https://w3c.github.io/sensors/#sensor-reading",
             "https://w3c.github.io/sensors/#limit-max-frequency",
             "https://w3c.github.io/sensors/#reduce-accuracy",
@@ -7608,7 +7607,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "7 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7646,7 +7645,8 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://infra.spec.whatwg.org/",
-          "https://www.w3.org/TR/css-pseudo/"
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css3-conditional/"
         ],
         "inconsistentRef": [
           {
@@ -8206,7 +8206,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "23 October 2021",
+      "date": "8 December 2021",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -9965,7 +9965,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "3 December 2021",
+      "date": "8 December 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10273,7 +10273,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "3 December 2021",
+      "date": "8 December 2021",
       "url": "https://www.w3.org/TR/css-fonts-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -13425,11 +13425,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/ambient-light/",
-              "title": "Ambient Light Sensor",
-              "crawled": "https://w3c.github.io/ambient-light/"
-            },
             {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
@@ -16842,6 +16837,11 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
@@ -16863,11 +16863,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
@@ -16973,11 +16968,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -20193,6 +20183,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/ambient-light/",
+              "title": "Ambient Light Sensor",
+              "crawled": "https://w3c.github.io/ambient-light/"
+            },
             {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
@@ -55995,7 +55990,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "3 December 2021",
+      "date": "8 December 2021",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
