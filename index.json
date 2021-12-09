@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-09T12:47:08.580Z",
+  "date": "2021-12-09T18:43:51.684Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -487,7 +487,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "06 December 2021",
+      "date": "09 December 2021",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -3378,7 +3378,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "03 December 2021",
+      "date": "09 December 2021",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -38839,7 +38839,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "06 December 2021",
+      "date": "09 December 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -43040,7 +43040,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "07 December 2021",
+      "date": "09 December 2021",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
