@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-10T12:48:14.054Z",
+  "date": "2021-12-10T18:45:39.404Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -2526,7 +2526,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "06 December 2021",
+      "date": "10 December 2021",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -9918,7 +9918,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "8 December 2021",
+      "date": "10 December 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -24734,7 +24734,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "4 December 2021",
+      "date": "10 December 2021",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -24767,17 +24767,8 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/page-visibility-2/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://w3c.github.io/permissions/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/hr-time-2/",
             "ref": {
@@ -24864,8 +24855,9 @@
             "https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#gains-focus",
+            "https://html.spec.whatwg.org/#visibility-state",
             "https://html.spec.whatwg.org/#responsible-document",
-            "https://html.spec.whatwg.org/#origin-2",
+            "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#concept-task",
@@ -24875,7 +24867,6 @@
             "https://html.spec.whatwg.org/#task-queue",
             "https://html.spec.whatwg.org/#spin-the-event-loop",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
-            "https://www.w3.org/TR/permissions/#permission-state",
             "https://w3c.github.io/webdriver/#handling-errors"
           ],
           "evolvingLinks": [],
@@ -50135,7 +50126,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "9 December 2021",
+      "date": "10 December 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -52147,7 +52138,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "15 November 2021",
+      "date": "10 December 2021",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
