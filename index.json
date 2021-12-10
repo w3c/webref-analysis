@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-10T06:43:06.477Z",
+  "date": "2021-12-10T12:48:14.054Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -20774,7 +20774,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "6 December 2021",
+      "date": "10 December 2021",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -54897,7 +54897,7 @@
     {
       "title": "Web NFC",
       "shortname": "web-nfc",
-      "date": "09 December 2021",
+      "date": "10 December 2021",
       "url": "https://w3c.github.io/web-nfc/",
       "nightly": {
         "url": "https://w3c.github.io/web-nfc/",
@@ -54970,8 +54970,7 @@
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#secure-context",
-            "https://www.w3.org/TR/permissions/#dictdef-permissiondescriptor"
+            "https://html.spec.whatwg.org/#secure-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
