@@ -1,14 +1,13 @@
-% Diff between report from "December 10, 2021" and reference report from "December 10, 2021"
+% Diff between report from "December 11, 2021" and reference report from "December 10, 2021"
 % Strudy
-% December 10, 2021
+% December 11, 2021
 
-## Generic Sensor API
+## Web Authentication: An API for accessing Public Key Credentials - Level
 
-- Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
+- Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Missing references for links: *DEL* https://www.w3.org/TR/page-visibility-2/
-- Inconsistent references for links: *DEL* https://www.w3.org/TR/permissions/
+- Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
+- Spec title: *INS* Web Authentication: An API for accessing Public Key Credentials - Level / *DEL* Web Authentication: An API for accessing Public Key Credentials - Level 3
 
 
 
