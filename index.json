@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-13T12:48:40.871Z",
+  "date": "2021-12-13T18:44:28.659Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -899,7 +899,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "08 December 2021",
+      "date": "13 December 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -1253,7 +1253,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "6 December 2021",
+      "date": "13 December 2021",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -1756,6 +1756,7 @@
             "https://fetch.spec.whatwg.org/#keep-alive-flag"
           ],
           "brokenLinks": [
+            "https://fetch.spec.whatwg.org/#fetch-processresponsedone",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#entry-settings-object",
             "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
@@ -9918,7 +9919,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "10 December 2021",
+      "date": "13 December 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10030,6 +10031,13 @@
           },
           {
             "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
+            "ref": {
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
             "ref": {
               "name": "CSS-FONTS-3",
               "url": "https://www.w3.org/TR/css-fonts-3/"
@@ -10217,7 +10225,8 @@
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
-            "https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/"
+            "https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/",
+            "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/"
           ]
         },
         "ok": false
@@ -24734,7 +24743,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "10 December 2021",
+      "date": "13 December 2021",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -45267,9 +45276,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/performance-timeline-2/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/performance-timeline/",
@@ -53814,7 +53821,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "2 December 2021",
+      "date": "13 December 2021",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -55315,7 +55322,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "2 December 2021",
+      "date": "13 December 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55371,7 +55378,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "2 December 2021",
+      "date": "13 December 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55464,7 +55471,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "2 December 2021",
+      "date": "13 December 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -63726,7 +63733,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "1 December 2021",
+      "date": "13 December 2021",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
