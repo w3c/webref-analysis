@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-13T06:42:51.434Z",
+  "date": "2021-12-13T12:48:40.871Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -2526,7 +2526,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "10 December 2021",
+      "date": "13 December 2021",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -23249,7 +23249,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "2 December 2021",
+      "date": "13 December 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -50126,7 +50126,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "10 December 2021",
+      "date": "13 December 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
