@@ -578,7 +578,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 13 December 2021
+- Crawled version: 14 December 2021
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -3911,7 +3911,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 8 December 2021
+- Crawled version: 14 December 2021
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -5678,7 +5678,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-highlight-api-1/](https://www.w3.org/TR/css-highlight-api-1/)
 - Crawled URL: [https://drafts.csswg.org/css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
-- Crawled version: 1 December 2021
+- Crawled version: 13 December 2021
 - Editor's Draft: [https://drafts.csswg.org/css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
 - Latest published version: [https://www.w3.org/TR/css-highlight-api-1/](https://www.w3.org/TR/css-highlight-api-1/)
 - Shortname: css-highlight-api-1
@@ -10430,7 +10430,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Crawled URL: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
-- Crawled version: 8 December 2021
+- Crawled version: 14 December 2021
 - Editor's Draft: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
 - Latest published version: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Shortname: ambient-light
@@ -10592,7 +10592,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 13 December 2021
+- Crawled version: 14 December 2021
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -14315,6 +14315,7 @@ Normative references to this spec from:
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web Serial API](https://wicg.github.io/serial/)
+- [Web Share API](https://w3c.github.io/web-share/)
 - [WebHID API](https://wicg.github.io/webhid/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 - [WebUSB API](https://wicg.github.io/webusb/)
@@ -14325,7 +14326,6 @@ Informative references to this spec from:
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
-- [Web Share API](https://w3c.github.io/web-share/)
 
 
 ### Referrer Policy {data-spec=true data-anomaly=true data-noRefToWebIDL=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -15111,13 +15111,10 @@ Normative references to this spec from:
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Share API](https://w3c.github.io/web-share/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
-
-Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
-
-- [Web Share API](https://w3c.github.io/web-share/)
 
 No informative reference to this spec from other specs.
 
@@ -15783,7 +15780,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Web Share API {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true}
+### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15796,11 +15793,23 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for WebIDL names: 
-     * `Navigator` defined in [HTML Standard](https://html.spec.whatwg.org/multipage/)
-     * `File` defined in [File API](https://w3c.github.io/FileAPI/)
 - Missing references for links: 
      * [`https://www.w3.org/TR/web-intents/`](https://www.w3.org/TR/web-intents/)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+     * [`https://html.spec.whatwg.org/#dom-base-href`](https://html.spec.whatwg.org/#dom-base-href)
+     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
+     * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17742,7 +17751,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 13 December 2021
+- Crawled version: 14 December 2021
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -20980,8 +20989,27 @@ Informative references to this spec from:
 - External links to private terms:
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
 - Broken external links:
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
+     * [`https://html.spec.whatwg.org/#networking-task-source`](https://html.spec.whatwg.org/#networking-task-source)
+     * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
+     * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#serializable-objects`](https://html.spec.whatwg.org/#serializable-objects)
+     * [`https://html.spec.whatwg.org/#serialization-steps`](https://html.spec.whatwg.org/#serialization-steps)
+     * [`https://html.spec.whatwg.org/#deserialization-steps`](https://html.spec.whatwg.org/#deserialization-steps)
      * [`https://html.spec.whatwg.org/#websocket`](https://html.spec.whatwg.org/#websocket)
+     * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
+     * [`https://html.spec.whatwg.org/#dom-messageport-postmessage-options`](https://html.spec.whatwg.org/#dom-messageport-postmessage-options)
+     * [`https://html.spec.whatwg.org/#messageevent`](https://html.spec.whatwg.org/#messageevent)
+     * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
+     * [`https://html.spec.whatwg.org/#binarytype`](https://html.spec.whatwg.org/#binarytype)
+     * [`https://html.spec.whatwg.org/#dom-websocket-binarytype`](https://html.spec.whatwg.org/#dom-websocket-binarytype)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21561,6 +21589,7 @@ Informative references to this spec from:
 - [Origin Policy](https://wicg.github.io/origin-policy/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Web Share API](https://w3c.github.io/web-share/)
 
 
 ## Fetch Workstream {#fetch_workstream}
@@ -21804,7 +21833,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 8 December 2021
+- Crawled version: 14 December 2021
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -22567,6 +22596,7 @@ Normative references to this spec from:
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
 - [Web Serial API](https://wicg.github.io/serial/)
+- [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [Web Speech API](https://wicg.github.io/speech-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
@@ -22592,10 +22622,6 @@ Normative references to this spec from:
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
-
-Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
-
-- [Web Share API](https://w3c.github.io/web-share/)
 
 Informative references to this spec from:
 
@@ -23165,6 +23191,7 @@ Normative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-14T06:42:45.439Z",
+  "date": "2021-12-14T12:48:43.581Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -631,7 +631,7 @@
     {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
-      "date": "8 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/ambient-light/",
       "release": {
         "url": "https://www.w3.org/TR/ambient-light/",
@@ -2526,7 +2526,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "13 December 2021",
+      "date": "14 December 2021",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -8490,7 +8490,7 @@
     {
       "title": "CSS Custom Highlight API Module Level 1",
       "shortname": "css-highlight-api-1",
-      "date": "1 December 2021",
+      "date": "13 December 2021",
       "url": "https://www.w3.org/TR/css-highlight-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-highlight-api-1/",
@@ -21721,6 +21721,11 @@
               "url": "https://www.w3.org/TR/screen-capture/",
               "title": "Screen Capture",
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             }
           ]
         },
@@ -24002,6 +24007,11 @@
               "crawled": "https://w3c.github.io/webauthn/"
             },
             {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -24732,7 +24742,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "13 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -26376,7 +26386,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "8 December 2021",
+      "date": "14 December 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -33808,6 +33818,11 @@
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             },
             {
               "url": "https://w3c.github.io/web-share-target/",
@@ -42852,6 +42867,11 @@
               "crawled": "https://wicg.github.io/serial/"
             },
             {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
+            },
+            {
               "url": "https://wicg.github.io/webhid/",
               "title": "WebHID API",
               "crawled": "https://wicg.github.io/webhid/"
@@ -42887,11 +42907,6 @@
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-share/",
-              "title": "Web Share API",
-              "crawled": "https://w3c.github.io/web-share/"
             }
           ]
         },
@@ -50117,7 +50132,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "13 December 2021",
+      "date": "14 December 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -51827,6 +51842,11 @@
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             },
             {
               "url": "https://w3c.github.io/web-share-target/",
@@ -55130,28 +55150,7 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "Navigator",
-            "refs": [
-              {
-                "url": "https://html.spec.whatwg.org/multipage/",
-                "title": "HTML Standard",
-                "crawled": "https://html.spec.whatwg.org/multipage/"
-              }
-            ]
-          },
-          {
-            "name": "File",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/FileAPI/",
-                "title": "File API",
-                "crawled": "https://w3c.github.io/FileAPI/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -55169,6 +55168,29 @@
             }
           ],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#navigator",
+            "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#consume-user-activation",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#api-base-url",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#dom-base-href",
+            "https://html.spec.whatwg.org/#the-a-element",
+            "https://html.spec.whatwg.org/#secure-context"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -55915,7 +55937,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "8 December 2021",
+      "date": "14 December 2021",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -62153,8 +62175,27 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#queue-a-task",
+            "https://html.spec.whatwg.org/#networking-task-source",
+            "https://html.spec.whatwg.org/#event-handlers",
+            "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#serializable-objects",
-            "https://html.spec.whatwg.org/#websocket"
+            "https://html.spec.whatwg.org/#serialization-steps",
+            "https://html.spec.whatwg.org/#deserialization-steps",
+            "https://html.spec.whatwg.org/#websocket",
+            "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-settings-object-origin",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#serializable",
+            "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
+            "https://html.spec.whatwg.org/#messageevent",
+            "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
+            "https://html.spec.whatwg.org/#binarytype",
+            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],

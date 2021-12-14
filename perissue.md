@@ -235,9 +235,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) uses:
     * `AuthenticationExtensionsClientInputs` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
     * `CollectedClientData` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
-- [Web Share API](https://w3c.github.io/web-share/) uses:
-    * `Navigator` but does not reference [HTML Standard](https://html.spec.whatwg.org/multipage/)
-    * `File` but does not reference [File API](https://w3c.github.io/FileAPI/)
 - [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/) uses:
     * `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
     * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -303,7 +300,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 73 missing references for IDL definitions found in 39 specifications
+=> 71 missing references for IDL definitions found in 38 specifications
 
 
 ## No definition for CSS properties
@@ -8491,6 +8488,21 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
+- [Web Share API](https://w3c.github.io/web-share/):
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+     * [`https://html.spec.whatwg.org/#dom-base-href`](https://html.spec.whatwg.org/#dom-base-href)
+     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
+     * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
 - [Web Share Target API](https://w3c.github.io/web-share-target/):
      * [`https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler`](https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
@@ -8832,8 +8844,27 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
      * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/):
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
+     * [`https://html.spec.whatwg.org/#networking-task-source`](https://html.spec.whatwg.org/#networking-task-source)
+     * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
+     * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#serializable-objects`](https://html.spec.whatwg.org/#serializable-objects)
+     * [`https://html.spec.whatwg.org/#serialization-steps`](https://html.spec.whatwg.org/#serialization-steps)
+     * [`https://html.spec.whatwg.org/#deserialization-steps`](https://html.spec.whatwg.org/#deserialization-steps)
      * [`https://html.spec.whatwg.org/#websocket`](https://html.spec.whatwg.org/#websocket)
+     * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
+     * [`https://html.spec.whatwg.org/#dom-messageport-postmessage-options`](https://html.spec.whatwg.org/#dom-messageport-postmessage-options)
+     * [`https://html.spec.whatwg.org/#messageevent`](https://html.spec.whatwg.org/#messageevent)
+     * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
+     * [`https://html.spec.whatwg.org/#binarytype`](https://html.spec.whatwg.org/#binarytype)
+     * [`https://html.spec.whatwg.org/#dom-websocket-binarytype`](https://html.spec.whatwg.org/#dom-websocket-binarytype)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/):
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -9014,7 +9045,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4709 problematic external links found in 291 specifications
+=> 4742 problematic external links found in 292 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
