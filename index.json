@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-14T00:52:34.428Z",
+  "date": "2021-12-14T06:42:45.439Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -1700,7 +1700,7 @@
     {
       "title": "Beacon",
       "shortname": "beacon",
-      "date": "03 October 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/beacon/",
       "release": {
         "url": "https://www.w3.org/TR/beacon/",
@@ -1756,7 +1756,6 @@
             "https://fetch.spec.whatwg.org/#keep-alive-flag"
           ],
           "brokenLinks": [
-            "https://fetch.spec.whatwg.org/#fetch-processresponsedone",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#entry-settings-object",
             "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
@@ -21722,11 +21721,6 @@
               "url": "https://www.w3.org/TR/screen-capture/",
               "title": "Screen Capture",
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-share/",
-              "title": "Web Share API",
-              "crawled": "https://w3c.github.io/web-share/"
             }
           ]
         },
@@ -24006,11 +24000,6 @@
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
               "crawled": "https://w3c.github.io/webauthn/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-share/",
-              "title": "Web Share API",
-              "crawled": "https://w3c.github.io/web-share/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -33821,11 +33810,6 @@
               "crawled": "https://wicg.github.io/serial/"
             },
             {
-              "url": "https://www.w3.org/TR/web-share/",
-              "title": "Web Share API",
-              "crawled": "https://w3c.github.io/web-share/"
-            },
-            {
               "url": "https://w3c.github.io/web-share-target/",
               "title": "Web Share Target API",
               "crawled": "https://w3c.github.io/web-share-target/"
@@ -42868,11 +42852,6 @@
               "crawled": "https://wicg.github.io/serial/"
             },
             {
-              "url": "https://www.w3.org/TR/web-share/",
-              "title": "Web Share API",
-              "crawled": "https://w3c.github.io/web-share/"
-            },
-            {
               "url": "https://wicg.github.io/webhid/",
               "title": "WebHID API",
               "crawled": "https://wicg.github.io/webhid/"
@@ -42908,6 +42887,11 @@
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             }
           ]
         },
@@ -51845,11 +51829,6 @@
               "crawled": "https://w3c.github.io/web-nfc/"
             },
             {
-              "url": "https://www.w3.org/TR/web-share/",
-              "title": "Web Share API",
-              "crawled": "https://w3c.github.io/web-share/"
-            },
-            {
               "url": "https://w3c.github.io/web-share-target/",
               "title": "Web Share Target API",
               "crawled": "https://w3c.github.io/web-share-target/"
@@ -55151,7 +55130,28 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "Navigator",
+            "refs": [
+              {
+                "url": "https://html.spec.whatwg.org/multipage/",
+                "title": "HTML Standard",
+                "crawled": "https://html.spec.whatwg.org/multipage/"
+              }
+            ]
+          },
+          {
+            "name": "File",
+            "refs": [
+              {
+                "url": "https://www.w3.org/TR/FileAPI/",
+                "title": "File API",
+                "crawled": "https://w3c.github.io/FileAPI/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -55169,29 +55169,6 @@
             }
           ],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#transient-activation",
-            "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
-            "https://html.spec.whatwg.org/#fully-active",
-            "https://html.spec.whatwg.org/#allowed-to-use",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
-            "https://html.spec.whatwg.org/#consume-user-activation",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#api-base-url",
-            "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#dom-base-href",
-            "https://html.spec.whatwg.org/#the-a-element",
-            "https://html.spec.whatwg.org/#secure-context"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -61594,7 +61571,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "10 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61709,7 +61686,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "10 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -62176,27 +62153,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#queue-a-task",
-            "https://html.spec.whatwg.org/#networking-task-source",
-            "https://html.spec.whatwg.org/#event-handlers",
-            "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#serializable-objects",
-            "https://html.spec.whatwg.org/#serialization-steps",
-            "https://html.spec.whatwg.org/#deserialization-steps",
-            "https://html.spec.whatwg.org/#websocket",
-            "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#concept-settings-object-origin",
-            "https://html.spec.whatwg.org/#same-origin",
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#serializable",
-            "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
-            "https://html.spec.whatwg.org/#messageevent",
-            "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
-            "https://html.spec.whatwg.org/#binarytype",
-            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
+            "https://html.spec.whatwg.org/#websocket"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],

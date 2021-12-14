@@ -13152,7 +13152,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webgpu/">https://www.w3.org/TR/webgpu/</a></li>
   <li>Crawled URL: <a href="https://gpuweb.github.io/gpuweb/">https://gpuweb.github.io/gpuweb/</a></li>
-  <li>Crawled version: 10 December 2021</li>
+  <li>Crawled version: 14 December 2021</li>
   <li>Editor’s Draft: <a href="https://gpuweb.github.io/gpuweb/">https://gpuweb.github.io/gpuweb/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webgpu/">https://www.w3.org/TR/webgpu/</a></li>
   <li>Shortname: webgpu</li>
@@ -13231,7 +13231,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/WGSL/">https://www.w3.org/TR/WGSL/</a></li>
   <li>Crawled URL: <a href="https://gpuweb.github.io/gpuweb/wgsl/">https://gpuweb.github.io/gpuweb/wgsl/</a></li>
-  <li>Crawled version: 10 December 2021</li>
+  <li>Crawled version: 14 December 2021</li>
   <li>Editor’s Draft: <a href="https://gpuweb.github.io/gpuweb/wgsl/">https://gpuweb.github.io/gpuweb/wgsl/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/WGSL/">https://www.w3.org/TR/WGSL/</a></li>
   <li>Shortname: WGSL</li>
@@ -16950,7 +16950,6 @@
   <li><a href="https://webaudio.github.io/web-midi-api/">Web MIDI API</a></li>
   <li><a href="https://webmachinelearning.github.io/webnn/">Web Neural Network API</a></li>
   <li><a href="https://wicg.github.io/serial/">Web Serial API</a></li>
-  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   <li><a href="https://wicg.github.io/webhid/">WebHID API</a></li>
   <li><a href="https://wicg.github.io/web-otp/">WebOTP API</a></li>
   <li><a href="https://wicg.github.io/webusb/">WebUSB API</a></li>
@@ -16961,6 +16960,7 @@
   <li><a href="https://wicg.github.io/document-policy/">Document Policy</a></li>
   <li><a href="https://wicg.github.io/js-self-profiling/">JS Self-Profiling API</a></li>
   <li><a href="https://wicg.github.io/responsive-image-client-hints/">Responsive Image Client Hints</a></li>
+  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   </ul>
   </section>
   </section>
@@ -17843,10 +17843,13 @@
   <li><a href="https://w3c.github.io/webappsec-trusted-types/dist/spec/">Trusted Types</a></li>
   <li><a href="https://url.spec.whatwg.org/">URL Standard</a></li>
   <li><a href="https://w3c.github.io/webauthn/">Web Authentication: An API for accessing Public Key Credentials - Level</a></li>
-  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   <li><a href="https://w3c.github.io/webdriver/">WebDriver</a></li>
   <li><a href="https://w3c.github.io/webrtc-pc/">WebRTC 1.0: Real-Time Communication Between Browsers</a></li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a></li>
+  </ul>
+  <p>Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:</p>
+  <ul>
+  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   </ul>
   <p>No informative reference to this spec from other specs.</p>
   </section>
@@ -18650,7 +18653,7 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="web-share-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
+  <section id="web-share-api" class="level3" data-spec="true" data-anomaly="true" data-missingWebIdlRef="true" data-missingDfns="true" data-missingLinkRef="true">
   <h3>Web Share API</h3>
   <section id="spec-info-311" class="level4 info">
   <h4>Spec info</h4>
@@ -18666,26 +18669,14 @@
   <section id="potential-issues-311" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
+  <li>Missing references for WebIDL names:
+  <ul>
+  <li><code>Navigator</code> defined in <a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a></li>
+  <li><code>File</code> defined in <a href="https://w3c.github.io/FileAPI/">File API</a></li>
+  </ul></li>
   <li>Missing references for links:
   <ul>
   <li><a href="https://www.w3.org/TR/web-intents/"><code>https://www.w3.org/TR/web-intents/</code></a></li>
-  </ul></li>
-  <li>Broken external links:
-  <ul>
-  <li><a href="https://html.spec.whatwg.org/#transient-activation"><code>https://html.spec.whatwg.org/#transient-activation</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#navigator"><code>https://html.spec.whatwg.org/#navigator</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#current-settings-object"><code>https://html.spec.whatwg.org/#current-settings-object</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#responsible-document"><code>https://html.spec.whatwg.org/#responsible-document</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#fully-active"><code>https://html.spec.whatwg.org/#fully-active</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#allowed-to-use"><code>https://html.spec.whatwg.org/#allowed-to-use</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#consume-user-activation"><code>https://html.spec.whatwg.org/#consume-user-activation</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#relevant-settings-object"><code>https://html.spec.whatwg.org/#relevant-settings-object</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#api-base-url"><code>https://html.spec.whatwg.org/#api-base-url</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#in-parallel"><code>https://html.spec.whatwg.org/#in-parallel</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-base-href"><code>https://html.spec.whatwg.org/#dom-base-href</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#the-a-element"><code>https://html.spec.whatwg.org/#the-a-element</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#secure-context"><code>https://html.spec.whatwg.org/#secure-context</code></a></li>
   </ul></li>
   </ul>
   </section>
@@ -19495,7 +19486,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/beacon/">https://www.w3.org/TR/beacon/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/beacon/">https://w3c.github.io/beacon/</a></li>
-  <li>Crawled version: 03 October 2021</li>
+  <li>Crawled version: 14 December 2021</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/beacon/">https://w3c.github.io/beacon/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/beacon/">https://www.w3.org/TR/beacon/</a></li>
   <li>Shortname: beacon</li>
@@ -19510,7 +19501,6 @@
   </ul></li>
   <li>Broken external links:
   <ul>
-  <li><a href="https://fetch.spec.whatwg.org/#fetch-processresponsedone"><code>https://fetch.spec.whatwg.org/#fetch-processresponsedone</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#api-base-url"><code>https://html.spec.whatwg.org/#api-base-url</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#entry-settings-object"><code>https://html.spec.whatwg.org/#entry-settings-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm"><code>https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm</code></a></li>
@@ -24907,27 +24897,8 @@
   </ul></li>
   <li>Broken external links:
   <ul>
-  <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#queue-a-task"><code>https://html.spec.whatwg.org/#queue-a-task</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#networking-task-source"><code>https://html.spec.whatwg.org/#networking-task-source</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-handlers"><code>https://html.spec.whatwg.org/#event-handlers</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-handler-event-type"><code>https://html.spec.whatwg.org/#event-handler-event-type</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#serializable-objects"><code>https://html.spec.whatwg.org/#serializable-objects</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#serialization-steps"><code>https://html.spec.whatwg.org/#serialization-steps</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#deserialization-steps"><code>https://html.spec.whatwg.org/#deserialization-steps</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#websocket"><code>https://html.spec.whatwg.org/#websocket</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#unloading-document-cleanup-steps"><code>https://html.spec.whatwg.org/#unloading-document-cleanup-steps</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#relevant-settings-object"><code>https://html.spec.whatwg.org/#relevant-settings-object</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-settings-object-origin"><code>https://html.spec.whatwg.org/#concept-settings-object-origin</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#same-origin"><code>https://html.spec.whatwg.org/#same-origin</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#serializable"><code>https://html.spec.whatwg.org/#serializable</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-messageport-postmessage-options"><code>https://html.spec.whatwg.org/#dom-messageport-postmessage-options</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#messageevent"><code>https://html.spec.whatwg.org/#messageevent</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin"><code>https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#binarytype"><code>https://html.spec.whatwg.org/#binarytype</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-websocket-binarytype"><code>https://html.spec.whatwg.org/#dom-websocket-binarytype</code></a></li>
   </ul></li>
   </ul>
   </section>
@@ -25587,7 +25558,6 @@
   <li><a href="https://wicg.github.io/origin-policy/">Origin Policy</a></li>
   <li><a href="https://www.w3.org/TR/SVG11/">Scalable Vector Graphics (SVG) 1.1 (Second Edition)</a></li>
   <li><a href="https://w3c.github.io/mediacapture-screen-share/">Screen Capture</a></li>
-  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   </ul>
   </section>
   </section>
@@ -26642,7 +26612,6 @@
   <li><a href="https://w3c.github.io/web-nfc/">Web NFC</a></li>
   <li><a href="https://wicg.github.io/periodic-background-sync/">Web Periodic Background Synchronization</a></li>
   <li><a href="https://wicg.github.io/serial/">Web Serial API</a></li>
-  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   <li><a href="https://w3c.github.io/web-share-target/">Web Share Target API</a></li>
   <li><a href="https://wicg.github.io/speech-api/">Web Speech API</a></li>
   <li><a href="https://webassembly.github.io/spec/js-api/">WebAssembly JavaScript Interface</a></li>
@@ -26668,6 +26637,10 @@
   <li><a href="https://immersive-web.github.io/lighting-estimation/">WebXR Lighting Estimation API Level 1</a></li>
   <li><a href="https://wicg.github.io/window-controls-overlay/">Window Controls Overlay</a></li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a></li>
+  </ul>
+  <p>Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:</p>
+  <ul>
+  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
@@ -27298,7 +27271,6 @@
   <li><a href="https://w3c.github.io/manifest/">Web Application Manifest</a></li>
   <li><a href="https://w3c.github.io/webauthn/">Web Authentication: An API for accessing Public Key Credentials - Level</a></li>
   <li><a href="https://w3c.github.io/web-nfc/">Web NFC</a></li>
-  <li><a href="https://w3c.github.io/web-share/">Web Share API</a></li>
   <li><a href="https://w3c.github.io/web-share-target/">Web Share Target API</a></li>
   <li><a href="https://w3c.github.io/webdriver/">WebDriver</a></li>
   <li><a href="https://w3c.github.io/webdriver-bidi/">WebDriver BiDi</a></li>
