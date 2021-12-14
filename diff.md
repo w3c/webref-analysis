@@ -2,12 +2,12 @@
 % Strudy
 % December 14, 2021
 
-## Web Share API
+## Unicorn! · GitHub
 
-- Initial URL: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
+- Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
-- Missing references for WebIDL names: *DEL* Navigator, File
+- Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
+- Spec title: *INS* Unicorn! · GitHub / *DEL* ECMAScript® 2022 Language Specification
 
 
 
