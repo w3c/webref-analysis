@@ -3911,7 +3911,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 14 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -5380,7 +5380,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
-- Crawled version: 14 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5394,7 +5394,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
@@ -5464,7 +5463,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 7 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -8653,7 +8652,6 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -8661,6 +8659,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
@@ -8706,6 +8705,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
@@ -9309,7 +9309,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 14 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -9704,7 +9704,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-number`](https://www.w3.org/TR/css-transitions-1/#animtype-number)
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list`](https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list)
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
-     * [`https://www.w3.org/TR/css-color-4/#linear-light-sRGB`](https://www.w3.org/TR/css-color-4/#linear-light-sRGB)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/)
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
@@ -11034,7 +11033,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 14 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11103,7 +11102,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 14 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -16915,6 +16914,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Event Timing API](https://wicg.github.io/event-timing/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
@@ -16923,7 +16923,6 @@ Normative references to this spec from:
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
 
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
 - [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Long Tasks API 1](https://w3c.github.io/longtasks/)
@@ -18172,29 +18171,26 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Event Timing API {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Event Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/event-timing/](https://wicg.github.io/event-timing/)
 - Crawled URL: [https://wicg.github.io/event-timing/](https://wicg.github.io/event-timing/)
-- Crawled version: 28 October 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://wicg.github.io/event-timing/](https://wicg.github.io/event-timing/)
 - Shortname: event-timing
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for WebIDL names: 
-     * `PerformanceEntry` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-     * `PerformanceObserverInit` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - Missing references for links: 
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/)
      * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
      * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
      * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/), related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
      * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
      * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/), related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
 - External links to private terms:
      * [`https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry`](https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry)
@@ -23041,7 +23037,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 1 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 
@@ -23073,8 +23069,8 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#port-message-queue`](https://html.spec.whatwg.org/#port-message-queue)
      * [`https://html.spec.whatwg.org/#structuredserialize`](https://html.spec.whatwg.org/#structuredserialize)
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
-     * [`https://html.spec.whatwg.org/#websocket`](https://html.spec.whatwg.org/#websocket)
-     * [`https://html.spec.whatwg.org/#dom-websocket-bufferedamount`](https://html.spec.whatwg.org/#dom-websocket-bufferedamount)
+- External links to outdated specs:
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 

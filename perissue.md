@@ -216,9 +216,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Element Timing API](https://wicg.github.io/element-timing/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- [Event Timing API](https://wicg.github.io/event-timing/) uses:
-    * `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-    * `PerformanceObserverInit` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [File API](https://w3c.github.io/FileAPI/) uses:
     * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
     * `MediaSource` but does not reference [Media Source Extensions™](https://w3c.github.io/media-source/)
@@ -300,7 +297,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 71 missing references for IDL definitions found in 38 specifications
+=> 69 missing references for IDL definitions found in 37 specifications
 
 
 ## No definition for CSS properties
@@ -1036,7 +1033,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/) but does not list it in its references
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/) links to:
     * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
@@ -1417,9 +1413,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html) but does not list it in its references
 - [ECMAScript® 2022 Language Specification](https://tc39.es/ecma262/multipage/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
 - [Element Timing API](https://wicg.github.io/element-timing/) links to [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but does not list it in its references
-- [Event Timing API](https://wicg.github.io/event-timing/) links to:
-    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but does not list it in its references
-    * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Event Timing API](https://wicg.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [File API](https://w3c.github.io/FileAPI/) links to [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/) but does not list it in its references
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1683,7 +1677,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 718 missing references for links found in 194 specifications
+=> 716 missing references for links found in 194 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1866,6 +1860,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/) but related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
+    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/) but related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
 - [Federated Learning of Cohorts](https://wicg.github.io/floc/) links to [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
@@ -2096,7 +2091,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 335 inconsistent references for links found in 178 specifications
+=> 336 inconsistent references for links found in 178 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -5538,7 +5533,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-number`](https://www.w3.org/TR/css-transitions-1/#animtype-number)
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list`](https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list)
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
-     * [`https://www.w3.org/TR/css-color-4/#linear-light-sRGB`](https://www.w3.org/TR/css-color-4/#linear-light-sRGB)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/):
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/):
@@ -7945,8 +7939,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#port-message-queue`](https://html.spec.whatwg.org/#port-message-queue)
      * [`https://html.spec.whatwg.org/#structuredserialize`](https://html.spec.whatwg.org/#structuredserialize)
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
-     * [`https://html.spec.whatwg.org/#websocket`](https://html.spec.whatwg.org/#websocket)
-     * [`https://html.spec.whatwg.org/#dom-websocket-bufferedamount`](https://html.spec.whatwg.org/#dom-websocket-bufferedamount)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/):
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
@@ -9052,7 +9044,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4745 problematic external links found in 293 specifications
+=> 4742 problematic external links found in 293 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9132,6 +9124,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- [Streams Standard](https://streams.spec.whatwg.org/):
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/):
@@ -9169,7 +9163,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 48 specifications
+=> 58 problematic external links found in 49 specifications
 
 
 ## External links that use a dated URL

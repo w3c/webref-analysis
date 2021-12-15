@@ -224,11 +224,6 @@
   <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a> uses <code>PerformanceEntry</code> but does not reference <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
   <li><a href="https://encoding.spec.whatwg.org/">Encoding Standard</a> uses <code>BufferSource</code> but does not reference <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><a href="https://w3c.github.io/encrypted-media/">Encrypted Media Extensions</a> uses <code>BufferSource</code> but does not reference <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
-  <li><a href="https://wicg.github.io/event-timing/">Event Timing API</a> uses:
-  <ul>
-  <li><code>PerformanceEntry</code> but does not reference <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
-  <li><code>PerformanceObserverInit</code> but does not reference <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
-  </ul></li>
   <li><a href="https://w3c.github.io/FileAPI/">File API</a> uses:
   <ul>
   <li><code>BufferSource</code> but does not reference <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
@@ -342,7 +337,7 @@
   <li><code>WebGLTexture</code> but does not reference <a href="https://www.khronos.org/registry/webgl/specs/latest/1.0/">WebGL Specification</a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 71 missing references for IDL definitions found in 38 specifications</p>
+  <p>=&gt; 69 missing references for IDL definitions found in 37 specifications</p>
   </section>
   <section id="no-definition-for-css-properties" class="level2">
   <h2>No definition for CSS properties</h2>
@@ -1241,7 +1236,6 @@
   <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a> but does not list it in its references</li>
   <li><a href="https://infra.spec.whatwg.org/"><code>https://infra.spec.whatwg.org/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a> but does not list it in its references</li>
-  <li><a href="https://www.w3.org/TR/css3-conditional/"><code>https://www.w3.org/TR/css3-conditional/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-conditional-3/">CSS Conditional Rules Module Level 3</a> links to:
   <ul>
@@ -1741,11 +1735,7 @@
   <li><a href="https://dom.spec.whatwg.org/">DOM Standard</a> links to <a href="https://w3c.github.io/deviceorientation/spec-source-orientation.html"><code>https://w3c.github.io/deviceorientation/spec-source-orientation.html</code></a> but does not list it in its references</li>
   <li><a href="https://tc39.es/ecma262/multipage/">ECMAScript® 2022 Language Specification</a> links to <a href="https://html.spec.whatwg.org/"><code>https://html.spec.whatwg.org/</code></a> but does not list it in its references</li>
   <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a> links to <a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but does not list it in its references</li>
-  <li><a href="https://wicg.github.io/event-timing/">Event Timing API</a> links to:
-  <ul>
-  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but does not list it in its references</li>
-  <li><a href="https://w3c.github.io/timing-entrytypes-registry/"><code>https://w3c.github.io/timing-entrytypes-registry/</code></a> but does not list it in its references</li>
-  </ul></li>
+  <li><a href="https://wicg.github.io/event-timing/">Event Timing API</a> links to <a href="https://w3c.github.io/timing-entrytypes-registry/"><code>https://w3c.github.io/timing-entrytypes-registry/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/FileAPI/">File API</a> links to <a href="https://w3c.github.io/media-source/"><code>https://w3c.github.io/media-source/</code></a> but does not list it in its references</li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a> links to:
   <ul>
@@ -2089,7 +2079,7 @@
   <li><a href="https://immersive-web.github.io/lighting-estimation/">WebXR Lighting Estimation API Level 1</a> links to <a href="https://www.w3.org/TR/webxrlayers-1/"><code>https://www.w3.org/TR/webxrlayers-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 718 missing references for links found in 194 specifications</p>
+  <p>=&gt; 716 missing references for links found in 194 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -2323,6 +2313,7 @@
   <li><a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a> but related reference “UIEVENTS” uses URL <a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a></li>
   <li><a href="https://w3c.github.io/pointerevents/"><code>https://w3c.github.io/pointerevents/</code></a> but related reference “POINTEREVENTS3” uses URL <a href="https://www.w3.org/TR/pointerevents3/"><code>https://www.w3.org/TR/pointerevents3/</code></a></li>
   <li><a href="https://w3c.github.io/touch-events/"><code>https://w3c.github.io/touch-events/</code></a> but related reference “TOUCH-EVENTS” uses URL <a href="https://www.w3.org/TR/touch-events/"><code>https://www.w3.org/TR/touch-events/</code></a></li>
+  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but related reference “PERFORMANCE-TIMELINE-2” uses URL <a href="https://www.w3.org/TR/performance-timeline/"><code>https://www.w3.org/TR/performance-timeline/</code></a></li>
   <li><a href="https://w3c.github.io/paint-timing/"><code>https://w3c.github.io/paint-timing/</code></a> but related reference “PAINT-TIMING” uses URL <a href="https://www.w3.org/TR/paint-timing/"><code>https://www.w3.org/TR/paint-timing/</code></a></li>
   </ul></li>
   <li><a href="https://wicg.github.io/floc/">Federated Learning of Cohorts</a> links to <a href="https://w3c.github.io/webappsec-permissions-policy/"><code>https://w3c.github.io/webappsec-permissions-policy/</code></a> but related reference “PERMISSIONS-POLICY” uses URL <a href="https://www.w3.org/TR/permissions-policy-1/"><code>https://www.w3.org/TR/permissions-policy-1/</code></a></li>
@@ -2636,7 +2627,7 @@
   <li><a href="https://immersive-web.github.io/webxr-gamepads-module/">WebXR Gamepads Module - Level 1</a> links to <a href="https://w3c.github.io/gamepad/"><code>https://w3c.github.io/gamepad/</code></a> but related reference “GAMEPAD” uses URL <a href="https://www.w3.org/TR/gamepad/"><code>https://www.w3.org/TR/gamepad/</code></a></li>
   <li><a href="https://immersive-web.github.io/webxr-hand-input/">WebXR Hand Input Module - Level 1</a> links to <a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
   </ul>
-  <p>=&gt; 335 inconsistent references for links found in 178 specifications</p>
+  <p>=&gt; 336 inconsistent references for links found in 178 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
@@ -6822,7 +6813,6 @@
   <li><a href="https://www.w3.org/TR/css-transitions-1/#animtype-number"><code>https://www.w3.org/TR/css-transitions-1/#animtype-number</code></a></li>
   <li><a href="https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list"><code>https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list</code></a></li>
   <li><a href="https://drafts.csswg.org/css-color-3/#color0"><code>https://drafts.csswg.org/css-color-3/#color0</code></a></li>
-  <li><a href="https://www.w3.org/TR/css-color-4/#linear-light-sRGB"><code>https://www.w3.org/TR/css-color-4/#linear-light-sRGB</code></a></li>
   </ul></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-2/">Filter Effects Module Level 2</a>:
   <ul>
@@ -9443,8 +9433,6 @@
   <li><a href="https://html.spec.whatwg.org/#port-message-queue"><code>https://html.spec.whatwg.org/#port-message-queue</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#structuredserialize"><code>https://html.spec.whatwg.org/#structuredserialize</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#structureddeserialize"><code>https://html.spec.whatwg.org/#structureddeserialize</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#websocket"><code>https://html.spec.whatwg.org/#websocket</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-websocket-bufferedamount"><code>https://html.spec.whatwg.org/#dom-websocket-bufferedamount</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/webappsec-subresource-integrity/">Subresource Integrity</a>:
   <ul>
@@ -10677,7 +10665,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 4745 problematic external links found in 293 specifications</p>
+  <p>=&gt; 4742 problematic external links found in 293 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>
@@ -10819,6 +10807,10 @@
   <ul>
   <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a></li>
   </ul></li>
+  <li><a href="https://streams.spec.whatwg.org/">Streams Standard</a>:
+  <ul>
+  <li><a href="https://websockets.spec.whatwg.org/"><code>https://websockets.spec.whatwg.org/</code></a></li>
+  </ul></li>
   <li><a href="https://w3c.github.io/webappsec-subresource-integrity/">Subresource Integrity</a>:
   <ul>
   <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a></li>
@@ -10888,7 +10880,7 @@
   <li><a href="https://www.w3.org/TR/cors/"><code>https://www.w3.org/TR/cors/</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 57 problematic external links found in 48 specifications</p>
+  <p>=&gt; 58 problematic external links found in 49 specifications</p>
   </section>
   <section id="external-links-that-use-a-dated-url" class="level2">
   <h2>External links that use a dated URL</h2>

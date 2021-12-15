@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-15T12:47:52.999Z",
+  "date": "2021-12-15T18:43:28.577Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -7562,7 +7562,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7600,8 +7600,7 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://infra.spec.whatwg.org/",
-          "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css3-conditional/"
+          "https://www.w3.org/TR/css-pseudo/"
         ],
         "inconsistentRef": [
           {
@@ -7871,7 +7870,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "7 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -16774,11 +16773,6 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
@@ -16800,6 +16794,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
@@ -16905,6 +16904,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -18909,7 +18913,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -22841,7 +22845,7 @@
     {
       "title": "Event Timing API",
       "shortname": "event-timing",
-      "date": "28 October 2021",
+      "date": "15 December 2021",
       "url": "https://wicg.github.io/event-timing/",
       "nightly": {
         "url": "https://wicg.github.io/event-timing/",
@@ -22865,34 +22869,12 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "PerformanceEntry",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/performance-timeline/",
-                "title": "Performance Timeline Level 2",
-                "crawled": "https://w3c.github.io/performance-timeline/"
-              }
-            ]
-          },
-          {
-            "name": "PerformanceObserverInit",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/performance-timeline/",
-                "title": "Performance Timeline Level 2",
-                "crawled": "https://w3c.github.io/performance-timeline/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/performance-timeline/",
           "https://w3c.github.io/timing-entrytypes-registry/"
         ],
         "inconsistentRef": [
@@ -22922,6 +22904,13 @@
             "ref": {
               "name": "TOUCH-EVENTS",
               "url": "https://www.w3.org/TR/touch-events/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/performance-timeline/",
+            "ref": {
+              "name": "PERFORMANCE-TIMELINE-2",
+              "url": "https://www.w3.org/TR/performance-timeline/"
             }
           },
           {
@@ -24297,8 +24286,7 @@
             "https://www.w3.org/TR/css-transitions-1/#animtype-length",
             "https://www.w3.org/TR/css-transitions-1/#animtype-number",
             "https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list",
-            "https://drafts.csswg.org/css-color-3/#color0",
-            "https://www.w3.org/TR/css-color-4/#linear-light-sRGB"
+            "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -42399,6 +42387,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/event-timing/",
+              "title": "Event Timing API",
+              "crawled": "https://wicg.github.io/event-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -49501,7 +49494,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "1 December 2021",
+      "date": "15 December 2021",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -49630,12 +49623,12 @@
             "https://html.spec.whatwg.org/#event-messageerror",
             "https://html.spec.whatwg.org/#port-message-queue",
             "https://html.spec.whatwg.org/#structuredserialize",
-            "https://html.spec.whatwg.org/#structureddeserialize",
-            "https://html.spec.whatwg.org/#websocket",
-            "https://html.spec.whatwg.org/#dom-websocket-bufferedamount"
+            "https://html.spec.whatwg.org/#structureddeserialize"
           ],
           "evolvingLinks": [],
-          "outdatedSpecs": [],
+          "outdatedSpecs": [
+            "https://websockets.spec.whatwg.org/"
+          ],
           "datedUrls": []
         },
         "ok": false
@@ -56008,7 +56001,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -61664,7 +61657,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61779,7 +61772,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
