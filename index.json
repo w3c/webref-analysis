@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-14T18:51:48.459Z",
+  "date": "2021-12-15T00:51:49.196Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -2061,7 +2061,7 @@
     {
       "title": "Close Watcher API",
       "shortname": "close-watcher",
-      "date": "24 November 2021",
+      "date": "14 December 2021",
       "url": "https://wicg.github.io/close-watcher/",
       "nightly": {
         "url": "https://wicg.github.io/close-watcher/",
@@ -2130,7 +2130,9 @@
             "https://html.spec.whatwg.org/#dom-dialog-showmodal",
             "https://html.spec.whatwg.org/#blocked-by-a-modal-dialog",
             "https://html.spec.whatwg.org/#attr-dialog-open",
-            "https://html.spec.whatwg.org/#close-the-dialog"
+            "https://html.spec.whatwg.org/#close-the-dialog",
+            "https://html.spec.whatwg.org/#activation-consuming-api",
+            "https://html.spec.whatwg.org/#event-popstate"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8490,7 +8492,7 @@
     {
       "title": "CSS Custom Highlight API Module Level 1",
       "shortname": "css-highlight-api-1",
-      "date": "13 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/css-highlight-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-highlight-api-1/",
@@ -13100,7 +13102,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "15 November 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -18933,7 +18935,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "8 November 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -21967,6 +21969,401 @@
       }
     },
     {
+      "title": "ECMAScript® 2022 Language Specification",
+      "shortname": "ecmascript",
+      "date": "11 December 2021",
+      "url": "https://tc39.es/ecma262/multipage/",
+      "nightly": {
+        "url": "https://tc39.es/ecma262/multipage/",
+        "repository": "https://github.com/tc39/ecma262",
+        "sourcePath": "spec.html",
+        "pages": [
+          "https://tc39.es/ecma262/multipage/scope.html",
+          "https://tc39.es/ecma262/multipage/conformance.html",
+          "https://tc39.es/ecma262/multipage/normative-references.html",
+          "https://tc39.es/ecma262/multipage/overview.html",
+          "https://tc39.es/ecma262/multipage/notational-conventions.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-data-types-and-values.html",
+          "https://tc39.es/ecma262/multipage/abstract-operations.html",
+          "https://tc39.es/ecma262/multipage/syntax-directed-operations.html",
+          "https://tc39.es/ecma262/multipage/executable-code-and-execution-contexts.html",
+          "https://tc39.es/ecma262/multipage/ordinary-and-exotic-objects-behaviours.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-language-source-code.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-language-lexical-grammar.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-language-expressions.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html",
+          "https://tc39.es/ecma262/multipage/error-handling-and-language-extensions.html",
+          "https://tc39.es/ecma262/multipage/ecmascript-standard-built-in-objects.html",
+          "https://tc39.es/ecma262/multipage/global-object.html",
+          "https://tc39.es/ecma262/multipage/fundamental-objects.html",
+          "https://tc39.es/ecma262/multipage/numbers-and-dates.html",
+          "https://tc39.es/ecma262/multipage/text-processing.html",
+          "https://tc39.es/ecma262/multipage/indexed-collections.html",
+          "https://tc39.es/ecma262/multipage/keyed-collections.html",
+          "https://tc39.es/ecma262/multipage/structured-data.html",
+          "https://tc39.es/ecma262/multipage/managing-memory.html",
+          "https://tc39.es/ecma262/multipage/control-abstraction-objects.html",
+          "https://tc39.es/ecma262/multipage/reflection.html",
+          "https://tc39.es/ecma262/multipage/memory-model.html",
+          "https://tc39.es/ecma262/multipage/grammar-summary.html",
+          "https://tc39.es/ecma262/multipage/additional-ecmascript-features-for-web-browsers.html",
+          "https://tc39.es/ecma262/multipage/strict-mode-of-ecmascript.html",
+          "https://tc39.es/ecma262/multipage/host-layering-points.html",
+          "https://tc39.es/ecma262/multipage/corrections-and-clarifications-in-ecmascript-2015-with-possible-compatibility-impact.html",
+          "https://tc39.es/ecma262/multipage/additions-and-changes-that-introduce-incompatibilities-with-prior-editions.html",
+          "https://tc39.es/ecma262/multipage/colophon.html",
+          "https://tc39.es/ecma262/multipage/bibliography.html",
+          "https://tc39.es/ecma262/multipage/copyright-and-software-license.html"
+        ],
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/ecma262/multipage/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://html.spec.whatwg.org/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/battery-status/",
+              "title": "Battery Status API",
+              "crawled": "https://w3c.github.io/battery/"
+            },
+            {
+              "url": "https://www.w3.org/TR/clipboard-apis/",
+              "title": "Clipboard API and events",
+              "crawled": "https://w3c.github.io/clipboard-apis/"
+            },
+            {
+              "url": "https://dom.spec.whatwg.org/",
+              "title": "DOM Standard",
+              "crawled": "https://dom.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/is-input-pending/",
+              "title": "Early detection of input events",
+              "crawled": "https://wicg.github.io/is-input-pending/"
+            },
+            {
+              "url": "https://www.w3.org/TR/encrypted-media/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
+            },
+            {
+              "url": "https://www.w3.org/TR/FileAPI/",
+              "title": "File API",
+              "crawled": "https://w3c.github.io/FileAPI/"
+            },
+            {
+              "url": "https://wicg.github.io/file-system-access/",
+              "title": "File System Access",
+              "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://www.w3.org/TR/geometry-1/",
+              "title": "Geometry Interfaces Module Level 1",
+              "crawled": "https://drafts.fxtf.org/geometry/"
+            },
+            {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
+            },
+            {
+              "url": "https://wicg.github.io/idle-detection/",
+              "title": "Idle Detection API",
+              "crawled": "https://wicg.github.io/idle-detection/"
+            },
+            {
+              "url": "https://www.w3.org/TR/IndexedDB-3/",
+              "title": "Indexed Database API 3.0",
+              "crawled": "https://w3c.github.io/IndexedDB/"
+            },
+            {
+              "url": "https://infra.spec.whatwg.org/",
+              "title": "Infra Standard",
+              "crawled": "https://infra.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/js-self-profiling/",
+              "title": "JS Self-Profiling API",
+              "crawled": "https://wicg.github.io/js-self-profiling/"
+            },
+            {
+              "url": "https://wicg.github.io/keyboard-lock/",
+              "title": "Keyboard Lock",
+              "crawled": "https://wicg.github.io/keyboard-lock/"
+            },
+            {
+              "url": "https://www.w3.org/TR/longtasks-1/",
+              "title": "Long Tasks API 1",
+              "crawled": "https://w3c.github.io/longtasks/"
+            },
+            {
+              "url": "https://www.w3.org/TR/media-capabilities/",
+              "title": "Media Capabilities",
+              "crawled": "https://w3c.github.io/media-capabilities/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-streams/",
+              "title": "Media Capture and Streams",
+              "crawled": "https://w3c.github.io/mediacapture-main/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-automation/",
+              "title": "Media Capture Automation",
+              "crawled": "https://w3c.github.io/mediacapture-automation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/navigation-timing-2/",
+              "title": "Navigation Timing Level 2",
+              "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/network-error-logging-1/",
+              "title": "Network Error Logging",
+              "crawled": "https://w3c.github.io/network-error-logging/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-handler/",
+              "title": "Payment Handler API",
+              "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pointerevents3/",
+              "title": "Pointer Events",
+              "crawled": "https://w3c.github.io/pointerevents/"
+            },
+            {
+              "url": "https://www.w3.org/TR/presentation-api/",
+              "title": "Presentation API",
+              "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resource-timing-2/",
+              "title": "Resource Timing Level 2",
+              "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-capture/",
+              "title": "Screen Capture",
+              "crawled": "https://w3c.github.io/mediacapture-screen-share/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-wake-lock/",
+              "title": "Screen Wake Lock API",
+              "crawled": "https://w3c.github.io/screen-wake-lock/"
+            },
+            {
+              "url": "https://www.w3.org/TR/service-workers-1/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://storage.spec.whatwg.org/",
+              "title": "Storage Standard",
+              "crawled": "https://storage.spec.whatwg.org/"
+            },
+            {
+              "url": "https://streams.spec.whatwg.org/",
+              "title": "Streams Standard",
+              "crawled": "https://streams.spec.whatwg.org/"
+            },
+            {
+              "url": "https://privacycg.github.io/storage-access/",
+              "title": "The Storage Access API",
+              "crawled": "https://privacycg.github.io/storage-access/"
+            },
+            {
+              "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
+              "title": "Trusted Types",
+              "crawled": "https://w3c.github.io/webappsec-trusted-types/dist/spec/"
+            },
+            {
+              "url": "https://wicg.github.io/urlpattern/",
+              "title": "URLPattern API",
+              "crawled": "https://wicg.github.io/urlpattern/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webaudio/",
+              "title": "Web Audio API",
+              "crawled": "https://webaudio.github.io/web-audio-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webauthn-3/",
+              "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
+              "crawled": "https://w3c.github.io/webauthn/"
+            },
+            {
+              "url": "https://wicg.github.io/background-sync/spec/",
+              "title": "Web Background Synchronization",
+              "crawled": "https://wicg.github.io/background-sync/spec/"
+            },
+            {
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/",
+              "title": "Web Bluetooth",
+              "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
+            },
+            {
+              "url": "https://www.w3.org/TR/WebCryptoAPI/",
+              "title": "Web Cryptography API",
+              "crawled": "https://w3c.github.io/webcrypto/"
+            },
+            {
+              "url": "https://webidl.spec.whatwg.org/",
+              "title": "Web IDL Standard",
+              "crawled": "https://webidl.spec.whatwg.org/"
+            },
+            {
+              "url": "https://w3c.github.io/web-nfc/",
+              "title": "Web NFC",
+              "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wasm-js-api-1/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/spec/js-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webdriver2/",
+              "title": "WebDriver",
+              "crawled": "https://w3c.github.io/webdriver/"
+            },
+            {
+              "url": "https://w3c.github.io/webdriver-bidi/",
+              "title": "WebDriver BiDi",
+              "crawled": "https://w3c.github.io/webdriver-bidi/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
+            },
+            {
+              "url": "https://wicg.github.io/webusb/",
+              "title": "WebUSB API",
+              "crawled": "https://wicg.github.io/webusb/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webxr/",
+              "title": "WebXR Device API",
+              "crawled": "https://immersive-web.github.io/webxr/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webxr-hit-test-1/",
+              "title": "WebXR Hit Test Module",
+              "crawled": "https://immersive-web.github.io/hit-test/"
+            },
+            {
+              "url": "https://xhr.spec.whatwg.org/",
+              "title": "XMLHttpRequest Standard",
+              "crawled": "https://xhr.spec.whatwg.org/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://wicg.github.io/cookie-store/",
+              "title": "Cookie Store API",
+              "crawled": "https://wicg.github.io/cookie-store/"
+            },
+            {
+              "url": "https://wicg.github.io/document-policy/",
+              "title": "Document Policy",
+              "crawled": "https://wicg.github.io/document-policy/"
+            },
+            {
+              "url": "https://wicg.github.io/entries-api/",
+              "title": "File and Directory Entries API",
+              "crawled": "https://wicg.github.io/entries-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
+              "title": "Secure Payment Confirmation",
+              "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/tracking-dnt/",
+              "title": "Tracking Preference Expression (DNT)",
+              "crawled": "https://w3c.github.io/dnt/drafts/tracking-dnt.html"
+            },
+            {
+              "url": "https://url.spec.whatwg.org/",
+              "title": "URL Standard",
+              "crawled": "https://url.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/user-timing/",
+              "title": "User Timing Level 3",
+              "crawled": "https://w3c.github.io/user-timing/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#entry",
+            "https://html.spec.whatwg.org/#dom-document-all"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Element Timing API",
       "shortname": "element-timing",
       "date": "10 November 2021",
@@ -23555,6 +23952,11 @@
               "url": "https://www.w3.org/TR/IndexedDB-3/",
               "title": "Indexed Database API 3.0",
               "crawled": "https://w3c.github.io/IndexedDB/"
+            },
+            {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
             },
             {
               "url": "https://wicg.github.io/local-font-access/",
@@ -36769,7 +37171,7 @@
     {
       "title": "Input Events Level 2",
       "shortname": "input-events-2",
-      "date": "23 November 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/input-events-2/",
       "release": {
         "url": "https://www.w3.org/TR/input-events-2/",
@@ -36845,9 +37247,9 @@
             "https://html.spec.whatwg.org/#the-br-element",
             "https://html.spec.whatwg.org/#drag-data-store",
             "https://html.spec.whatwg.org/#concept-dnd-ro",
-            "https://html.spec.whatwg.org/#drag-data-store-item-list",
+            "https://html.spec.whatwg.org/#the-drag-data-item-kind",
             "https://html.spec.whatwg.org/#the-drag-data-item-type-string",
-            "https://html.spec.whatwg.org/#the-drag-data-item-kind"
+            "https://html.spec.whatwg.org/#drag-data-store-item-list"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -37060,7 +37462,7 @@
     {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
-      "date": "2 December 2021",
+      "date": "14 December 2021",
       "url": "https://tc39.es/proposal-intl-locale-info/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-locale-info/",
@@ -40064,6 +40466,11 @@
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
+            },
+            {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -45155,7 +45562,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45220,7 +45627,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45258,7 +45665,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45347,7 +45754,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45421,7 +45828,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45479,7 +45886,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45517,7 +45924,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45573,7 +45980,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45629,7 +46036,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -51088,401 +51495,6 @@
       }
     },
     {
-      "title": "Unicorn! · GitHub",
-      "shortname": "ecmascript",
-      "date": "14 December 2021",
-      "url": "https://tc39.es/ecma262/multipage/",
-      "nightly": {
-        "url": "https://tc39.es/ecma262/multipage/",
-        "repository": "https://github.com/tc39/ecma262",
-        "sourcePath": "spec.html",
-        "pages": [
-          "https://tc39.es/ecma262/multipage/scope.html",
-          "https://tc39.es/ecma262/multipage/conformance.html",
-          "https://tc39.es/ecma262/multipage/normative-references.html",
-          "https://tc39.es/ecma262/multipage/overview.html",
-          "https://tc39.es/ecma262/multipage/notational-conventions.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-data-types-and-values.html",
-          "https://tc39.es/ecma262/multipage/abstract-operations.html",
-          "https://tc39.es/ecma262/multipage/syntax-directed-operations.html",
-          "https://tc39.es/ecma262/multipage/executable-code-and-execution-contexts.html",
-          "https://tc39.es/ecma262/multipage/ordinary-and-exotic-objects-behaviours.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-language-source-code.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-language-lexical-grammar.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-language-expressions.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html",
-          "https://tc39.es/ecma262/multipage/error-handling-and-language-extensions.html",
-          "https://tc39.es/ecma262/multipage/ecmascript-standard-built-in-objects.html",
-          "https://tc39.es/ecma262/multipage/global-object.html",
-          "https://tc39.es/ecma262/multipage/fundamental-objects.html",
-          "https://tc39.es/ecma262/multipage/numbers-and-dates.html",
-          "https://tc39.es/ecma262/multipage/text-processing.html",
-          "https://tc39.es/ecma262/multipage/indexed-collections.html",
-          "https://tc39.es/ecma262/multipage/keyed-collections.html",
-          "https://tc39.es/ecma262/multipage/structured-data.html",
-          "https://tc39.es/ecma262/multipage/managing-memory.html",
-          "https://tc39.es/ecma262/multipage/control-abstraction-objects.html",
-          "https://tc39.es/ecma262/multipage/reflection.html",
-          "https://tc39.es/ecma262/multipage/memory-model.html",
-          "https://tc39.es/ecma262/multipage/grammar-summary.html",
-          "https://tc39.es/ecma262/multipage/additional-ecmascript-features-for-web-browsers.html",
-          "https://tc39.es/ecma262/multipage/strict-mode-of-ecmascript.html",
-          "https://tc39.es/ecma262/multipage/host-layering-points.html",
-          "https://tc39.es/ecma262/multipage/corrections-and-clarifications-in-ecmascript-2015-with-possible-compatibility-impact.html",
-          "https://tc39.es/ecma262/multipage/additions-and-changes-that-introduce-incompatibilities-with-prior-editions.html",
-          "https://tc39.es/ecma262/multipage/colophon.html",
-          "https://tc39.es/ecma262/multipage/bibliography.html",
-          "https://tc39.es/ecma262/multipage/copyright-and-software-license.html"
-        ],
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/ecma262/multipage/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "https://html.spec.whatwg.org/"
-        ],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/battery-status/",
-              "title": "Battery Status API",
-              "crawled": "https://w3c.github.io/battery/"
-            },
-            {
-              "url": "https://www.w3.org/TR/clipboard-apis/",
-              "title": "Clipboard API and events",
-              "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://dom.spec.whatwg.org/",
-              "title": "DOM Standard",
-              "crawled": "https://dom.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/is-input-pending/",
-              "title": "Early detection of input events",
-              "crawled": "https://wicg.github.io/is-input-pending/"
-            },
-            {
-              "url": "https://www.w3.org/TR/encrypted-media/",
-              "title": "Encrypted Media Extensions",
-              "crawled": "https://w3c.github.io/encrypted-media/"
-            },
-            {
-              "url": "https://www.w3.org/TR/FileAPI/",
-              "title": "File API",
-              "crawled": "https://w3c.github.io/FileAPI/"
-            },
-            {
-              "url": "https://wicg.github.io/file-system-access/",
-              "title": "File System Access",
-              "crawled": "https://wicg.github.io/file-system-access/"
-            },
-            {
-              "url": "https://www.w3.org/TR/geometry-1/",
-              "title": "Geometry Interfaces Module Level 1",
-              "crawled": "https://drafts.fxtf.org/geometry/"
-            },
-            {
-              "url": "https://www.w3.org/TR/hr-time-3/",
-              "title": "High Resolution Time",
-              "crawled": "https://w3c.github.io/hr-time/"
-            },
-            {
-              "url": "https://wicg.github.io/idle-detection/",
-              "title": "Idle Detection API",
-              "crawled": "https://wicg.github.io/idle-detection/"
-            },
-            {
-              "url": "https://www.w3.org/TR/IndexedDB-3/",
-              "title": "Indexed Database API 3.0",
-              "crawled": "https://w3c.github.io/IndexedDB/"
-            },
-            {
-              "url": "https://infra.spec.whatwg.org/",
-              "title": "Infra Standard",
-              "crawled": "https://infra.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/js-self-profiling/",
-              "title": "JS Self-Profiling API",
-              "crawled": "https://wicg.github.io/js-self-profiling/"
-            },
-            {
-              "url": "https://wicg.github.io/keyboard-lock/",
-              "title": "Keyboard Lock",
-              "crawled": "https://wicg.github.io/keyboard-lock/"
-            },
-            {
-              "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API 1",
-              "crawled": "https://w3c.github.io/longtasks/"
-            },
-            {
-              "url": "https://www.w3.org/TR/media-capabilities/",
-              "title": "Media Capabilities",
-              "crawled": "https://w3c.github.io/media-capabilities/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediacapture-streams/",
-              "title": "Media Capture and Streams",
-              "crawled": "https://w3c.github.io/mediacapture-main/"
-            },
-            {
-              "url": "https://w3c.github.io/mediacapture-automation/",
-              "title": "Media Capture Automation",
-              "crawled": "https://w3c.github.io/mediacapture-automation/"
-            },
-            {
-              "url": "https://www.w3.org/TR/navigation-timing-2/",
-              "title": "Navigation Timing Level 2",
-              "crawled": "https://w3c.github.io/navigation-timing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/network-error-logging-1/",
-              "title": "Network Error Logging",
-              "crawled": "https://w3c.github.io/network-error-logging/"
-            },
-            {
-              "url": "https://www.w3.org/TR/payment-handler/",
-              "title": "Payment Handler API",
-              "crawled": "https://w3c.github.io/payment-handler/"
-            },
-            {
-              "url": "https://www.w3.org/TR/payment-request/",
-              "title": "Payment Request API",
-              "crawled": "https://w3c.github.io/payment-request/"
-            },
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/pointerevents3/",
-              "title": "Pointer Events",
-              "crawled": "https://w3c.github.io/pointerevents/"
-            },
-            {
-              "url": "https://www.w3.org/TR/presentation-api/",
-              "title": "Presentation API",
-              "crawled": "https://w3c.github.io/presentation-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/push-api/",
-              "title": "Push API",
-              "crawled": "https://w3c.github.io/push-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-timing-2/",
-              "title": "Resource Timing Level 2",
-              "crawled": "https://w3c.github.io/resource-timing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-capture/",
-              "title": "Screen Capture",
-              "crawled": "https://w3c.github.io/mediacapture-screen-share/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-wake-lock/",
-              "title": "Screen Wake Lock API",
-              "crawled": "https://w3c.github.io/screen-wake-lock/"
-            },
-            {
-              "url": "https://www.w3.org/TR/service-workers-1/",
-              "title": "Service Workers Nightly",
-              "crawled": "https://w3c.github.io/ServiceWorker/"
-            },
-            {
-              "url": "https://storage.spec.whatwg.org/",
-              "title": "Storage Standard",
-              "crawled": "https://storage.spec.whatwg.org/"
-            },
-            {
-              "url": "https://streams.spec.whatwg.org/",
-              "title": "Streams Standard",
-              "crawled": "https://streams.spec.whatwg.org/"
-            },
-            {
-              "url": "https://privacycg.github.io/storage-access/",
-              "title": "The Storage Access API",
-              "crawled": "https://privacycg.github.io/storage-access/"
-            },
-            {
-              "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
-              "title": "Trusted Types",
-              "crawled": "https://w3c.github.io/webappsec-trusted-types/dist/spec/"
-            },
-            {
-              "url": "https://wicg.github.io/urlpattern/",
-              "title": "URLPattern API",
-              "crawled": "https://wicg.github.io/urlpattern/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webaudio/",
-              "title": "Web Audio API",
-              "crawled": "https://webaudio.github.io/web-audio-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webauthn-3/",
-              "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
-              "crawled": "https://w3c.github.io/webauthn/"
-            },
-            {
-              "url": "https://wicg.github.io/background-sync/spec/",
-              "title": "Web Background Synchronization",
-              "crawled": "https://wicg.github.io/background-sync/spec/"
-            },
-            {
-              "url": "https://webbluetoothcg.github.io/web-bluetooth/",
-              "title": "Web Bluetooth",
-              "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
-            },
-            {
-              "url": "https://www.w3.org/TR/WebCryptoAPI/",
-              "title": "Web Cryptography API",
-              "crawled": "https://w3c.github.io/webcrypto/"
-            },
-            {
-              "url": "https://webidl.spec.whatwg.org/",
-              "title": "Web IDL Standard",
-              "crawled": "https://webidl.spec.whatwg.org/"
-            },
-            {
-              "url": "https://w3c.github.io/web-nfc/",
-              "title": "Web NFC",
-              "crawled": "https://w3c.github.io/web-nfc/"
-            },
-            {
-              "url": "https://www.w3.org/TR/wasm-js-api-1/",
-              "title": "WebAssembly JavaScript Interface",
-              "crawled": "https://webassembly.github.io/spec/js-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webdriver2/",
-              "title": "WebDriver",
-              "crawled": "https://w3c.github.io/webdriver/"
-            },
-            {
-              "url": "https://w3c.github.io/webdriver-bidi/",
-              "title": "WebDriver BiDi",
-              "crawled": "https://w3c.github.io/webdriver-bidi/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webgpu/",
-              "title": "WebGPU",
-              "crawled": "https://gpuweb.github.io/gpuweb/"
-            },
-            {
-              "url": "https://wicg.github.io/webusb/",
-              "title": "WebUSB API",
-              "crawled": "https://wicg.github.io/webusb/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webxr/",
-              "title": "WebXR Device API",
-              "crawled": "https://immersive-web.github.io/webxr/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webxr-hit-test-1/",
-              "title": "WebXR Hit Test Module",
-              "crawled": "https://immersive-web.github.io/hit-test/"
-            },
-            {
-              "url": "https://xhr.spec.whatwg.org/",
-              "title": "XMLHttpRequest Standard",
-              "crawled": "https://xhr.spec.whatwg.org/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://wicg.github.io/cookie-store/",
-              "title": "Cookie Store API",
-              "crawled": "https://wicg.github.io/cookie-store/"
-            },
-            {
-              "url": "https://wicg.github.io/document-policy/",
-              "title": "Document Policy",
-              "crawled": "https://wicg.github.io/document-policy/"
-            },
-            {
-              "url": "https://wicg.github.io/entries-api/",
-              "title": "File and Directory Entries API",
-              "crawled": "https://wicg.github.io/entries-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
-              "title": "Secure Payment Confirmation",
-              "crawled": "https://w3c.github.io/secure-payment-confirmation/"
-            },
-            {
-              "url": "https://www.w3.org/TR/tracking-dnt/",
-              "title": "Tracking Preference Expression (DNT)",
-              "crawled": "https://w3c.github.io/dnt/drafts/tracking-dnt.html"
-            },
-            {
-              "url": "https://url.spec.whatwg.org/",
-              "title": "URL Standard",
-              "crawled": "https://url.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/user-timing/",
-              "title": "User Timing Level 3",
-              "crawled": "https://w3c.github.io/user-timing/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
-            }
-          ]
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#entry",
-            "https://html.spec.whatwg.org/#dom-document-all"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Upgrade Insecure Requests",
       "shortname": "upgrade-insecure-requests",
       "date": "4 June 2021",
@@ -53811,7 +53823,7 @@
     {
       "title": "Web Cryptography API",
       "shortname": "WebCryptoAPI",
-      "date": "11 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/WebCryptoAPI/",
       "release": {
         "url": "https://www.w3.org/TR/WebCryptoAPI/",
