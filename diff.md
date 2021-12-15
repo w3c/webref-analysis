@@ -1,13 +1,13 @@
-% Diff between report from "December 15, 2021" and reference report from "December 14, 2021"
+% Diff between report from "December 15, 2021" and reference report from "December 15, 2021"
 % Strudy
 % December 15, 2021
 
-## ECMAScript® 2022 Language Specification
+## CSS Conditional Rules Module Level 4
 
-- Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
+- Initial URL: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Spec title: *INS* ECMAScript® 2022 Language Specification / *DEL* Unicorn! · GitHub
+- Editor's Draft: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
+- Missing references for links: *INS* https://www.w3.org/TR/css-values-3/ / *DEL* https://www.w3.org/TR/mediaqueries-4/
 
 
 

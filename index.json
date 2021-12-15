@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-15T00:51:49.196Z",
+  "date": "2021-12-15T06:43:20.168Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -7987,7 +7987,7 @@
     {
       "title": "CSS Conditional Rules Module Level 3",
       "shortname": "css-conditional-3",
-      "date": "22 November 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/css-conditional-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -8161,7 +8161,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "8 December 2021",
+      "date": "14 December 2021",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -8194,33 +8194,22 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/mediaqueries-4/"
+          "https://www.w3.org/TR/css-values-3/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-cascade-6/",
-              "title": "CSS Cascading and Inheritance Level 6",
-              "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-3/",
-              "title": "CSS Conditional Rules Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            }
-          ],
+          "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://www.w3.org/TR/css-values-3/#acknowledgements"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -10180,11 +10169,6 @@
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-conditional-4/",
-              "title": "CSS Conditional Rules Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-conditional-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -10300,11 +10284,6 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-4/",
-              "title": "CSS Conditional Rules Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-conditional-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
@@ -16402,11 +16381,6 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-4/",
-              "title": "CSS Conditional Rules Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-conditional-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -37462,7 +37436,7 @@
     {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://tc39.es/proposal-intl-locale-info/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-locale-info/",
@@ -39761,11 +39735,6 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-4/",
-              "title": "CSS Conditional Rules Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-conditional-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
@@ -50234,7 +50203,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
