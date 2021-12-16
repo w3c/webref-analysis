@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 15, 2021
+% December 16, 2021
 
 450 specifications were crawled in this report.
 
@@ -2585,9 +2585,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://storage.spec.whatwg.org/#storage-bucket`](https://storage.spec.whatwg.org/#storage-bucket)
 - [Input Events Level 2](https://w3c.github.io/input-events/):
      * [`https://w3c.github.io/uievents/#beforeinput`](https://w3c.github.io/uievents/#beforeinput)
-     * [`https://www.w3.org/TR/uievents/#dispatch`](https://www.w3.org/TR/uievents/#dispatch)
      * [`https://www.w3.org/TR/uievents/#default-action`](https://www.w3.org/TR/uievents/#default-action)
-     * [`https://www.w3.org/TR/uievents/#user-agent`](https://www.w3.org/TR/uievents/#user-agent)
      * [`https://www.w3.org/TR/uievents/#keydown`](https://www.w3.org/TR/uievents/#keydown)
      * [`https://www.w3.org/TR/uievents/#keypress`](https://www.w3.org/TR/uievents/#keypress)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/):
@@ -3133,7 +3131,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 839 problematic external links found in 195 specifications
+=> 837 problematic external links found in 195 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -6260,9 +6258,9 @@ Links in the body of a specification should be to the same document as that poin
 - [Input Events Level 2](https://w3c.github.io/input-events/):
      * [`https://html.spec.whatwg.org/#editing-host`](https://html.spec.whatwg.org/#editing-host)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
      * [`https://html.spec.whatwg.org/#datatransfer`](https://html.spec.whatwg.org/#datatransfer)
      * [`https://html.spec.whatwg.org/#the-br-element`](https://html.spec.whatwg.org/#the-br-element)
+     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
      * [`https://html.spec.whatwg.org/#drag-data-store`](https://html.spec.whatwg.org/#drag-data-store)
      * [`https://html.spec.whatwg.org/#concept-dnd-ro`](https://html.spec.whatwg.org/#concept-dnd-ro)
      * [`https://html.spec.whatwg.org/#the-drag-data-item-kind`](https://html.spec.whatwg.org/#the-drag-data-item-kind)
@@ -7342,8 +7340,18 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-agent-event-loop`](https://html.spec.whatwg.org/#concept-agent-event-loop)
 - [Priority Hints](https://wicg.github.io/priority-hints/):
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
+     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
+     * [`https://html.spec.whatwg.org/#link`](https://html.spec.whatwg.org/#link)
+     * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
      * [`https://html.spec.whatwg.org/#missing-value-default`](https://html.spec.whatwg.org/#missing-value-default)
+     * [`https://html.spec.whatwg.org/#htmlimageelement`](https://html.spec.whatwg.org/#htmlimageelement)
+     * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
+     * [`https://html.spec.whatwg.org/#htmllinkelement`](https://html.spec.whatwg.org/#htmllinkelement)
+     * [`https://html.spec.whatwg.org/#htmlscriptelement`](https://html.spec.whatwg.org/#htmlscriptelement)
+     * [`https://html.spec.whatwg.org/#htmliframeelement`](https://html.spec.whatwg.org/#htmliframeelement)
+     * [`https://fetch.spec.whatwg.org/#destination`](https://fetch.spec.whatwg.org/#destination)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/):
      * [`https://html.spec.whatwg.org/#htmlanchorelement`](https://html.spec.whatwg.org/#htmlanchorelement)
      * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
@@ -9044,7 +9052,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4742 problematic external links found in 293 specifications
+=> 4752 problematic external links found in 293 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

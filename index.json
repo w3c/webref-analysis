@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-15T18:43:28.577Z",
+  "date": "2021-12-16T00:52:26.063Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -36603,6 +36603,11 @@
               "crawled": "https://w3c.github.io/IndexedDB/"
             },
             {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
+            },
+            {
               "url": "https://wicg.github.io/js-self-profiling/",
               "title": "JS Self-Profiling API",
               "crawled": "https://wicg.github.io/js-self-profiling/"
@@ -37000,11 +37005,6 @@
               "crawled": "https://drafts.csswg.org/css-text-3/"
             },
             {
-              "url": "https://www.w3.org/TR/input-events-2/",
-              "title": "Input Events Level 2",
-              "crawled": "https://w3c.github.io/input-events/"
-            },
-            {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
               "title": "Media Queries Level 4",
               "crawled": "https://drafts.csswg.org/mediaqueries-4/"
@@ -37133,7 +37133,7 @@
     {
       "title": "Input Events Level 2",
       "shortname": "input-events-2",
-      "date": "14 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/input-events-2/",
       "release": {
         "url": "https://www.w3.org/TR/input-events-2/",
@@ -37194,9 +37194,7 @@
         "xrefs": {
           "notExported": [
             "https://w3c.github.io/uievents/#beforeinput",
-            "https://www.w3.org/TR/uievents/#dispatch",
             "https://www.w3.org/TR/uievents/#default-action",
-            "https://www.w3.org/TR/uievents/#user-agent",
             "https://www.w3.org/TR/uievents/#keydown",
             "https://www.w3.org/TR/uievents/#keypress"
           ],
@@ -37204,9 +37202,9 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#editing-host",
             "https://html.spec.whatwg.org/#the-textarea-element",
-            "https://html.spec.whatwg.org/#the-input-element",
             "https://html.spec.whatwg.org/#datatransfer",
             "https://html.spec.whatwg.org/#the-br-element",
+            "https://html.spec.whatwg.org/#the-input-element",
             "https://html.spec.whatwg.org/#drag-data-store",
             "https://html.spec.whatwg.org/#concept-dnd-ro",
             "https://html.spec.whatwg.org/#the-drag-data-item-kind",
@@ -43793,7 +43791,7 @@
     {
       "title": "Priority Hints",
       "shortname": "priority-hints",
-      "date": "16 February 2020",
+      "date": "15 December 2021",
       "url": "https://wicg.github.io/priority-hints/",
       "nightly": {
         "url": "https://wicg.github.io/priority-hints/",
@@ -43813,6 +43811,7 @@
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -43832,8 +43831,18 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#enumerated-attribute",
+            "https://html.spec.whatwg.org/#the-img-element",
+            "https://html.spec.whatwg.org/#link",
+            "https://html.spec.whatwg.org/#script",
+            "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#invalid-value-default",
-            "https://html.spec.whatwg.org/#missing-value-default"
+            "https://html.spec.whatwg.org/#missing-value-default",
+            "https://html.spec.whatwg.org/#htmlimageelement",
+            "https://html.spec.whatwg.org/#cereactions",
+            "https://html.spec.whatwg.org/#htmllinkelement",
+            "https://html.spec.whatwg.org/#htmlscriptelement",
+            "https://html.spec.whatwg.org/#htmliframeelement",
+            "https://fetch.spec.whatwg.org/#destination"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45524,7 +45533,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -45589,7 +45598,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -45627,7 +45636,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -45716,7 +45725,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -45790,7 +45799,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45848,7 +45857,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -45886,7 +45895,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45942,7 +45951,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45998,7 +46007,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -53448,7 +53457,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "10 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -54382,6 +54391,11 @@
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
+              "url": "https://wicg.github.io/priority-hints/",
+              "title": "Priority Hints",
+              "crawled": "https://wicg.github.io/priority-hints/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",

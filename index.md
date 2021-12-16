@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 15, 2021
+% December 16, 2021
 
 # Ecma International {#ecma_international}
 
@@ -624,7 +624,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -653,7 +653,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -713,7 +713,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1134,7 +1134,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1157,7 +1157,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1187,7 +1187,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1227,7 +1227,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1260,7 +1260,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1289,7 +1289,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 15 December 2021
+- Crawled version: 16 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -15286,7 +15286,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/input-events-2/](https://www.w3.org/TR/input-events-2/)
 - Crawled URL: [https://w3c.github.io/input-events/](https://w3c.github.io/input-events/)
-- Crawled version: 14 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://w3c.github.io/input-events/](https://w3c.github.io/input-events/)
 - Latest published version: [https://www.w3.org/TR/input-events-2/](https://www.w3.org/TR/input-events-2/)
 - Shortname: input-events-2
@@ -15297,17 +15297,15 @@ Informative references to this spec from:
      * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - External links to private terms:
      * [`https://w3c.github.io/uievents/#beforeinput`](https://w3c.github.io/uievents/#beforeinput)
-     * [`https://www.w3.org/TR/uievents/#dispatch`](https://www.w3.org/TR/uievents/#dispatch)
      * [`https://www.w3.org/TR/uievents/#default-action`](https://www.w3.org/TR/uievents/#default-action)
-     * [`https://www.w3.org/TR/uievents/#user-agent`](https://www.w3.org/TR/uievents/#user-agent)
      * [`https://www.w3.org/TR/uievents/#keydown`](https://www.w3.org/TR/uievents/#keydown)
      * [`https://www.w3.org/TR/uievents/#keypress`](https://www.w3.org/TR/uievents/#keypress)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#editing-host`](https://html.spec.whatwg.org/#editing-host)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
      * [`https://html.spec.whatwg.org/#datatransfer`](https://html.spec.whatwg.org/#datatransfer)
      * [`https://html.spec.whatwg.org/#the-br-element`](https://html.spec.whatwg.org/#the-br-element)
+     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
      * [`https://html.spec.whatwg.org/#drag-data-store`](https://html.spec.whatwg.org/#drag-data-store)
      * [`https://html.spec.whatwg.org/#concept-dnd-ro`](https://html.spec.whatwg.org/#concept-dnd-ro)
      * [`https://html.spec.whatwg.org/#the-drag-data-item-kind`](https://html.spec.whatwg.org/#the-drag-data-item-kind)
@@ -15821,7 +15819,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 10 December 2021
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -19502,7 +19500,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Crawled URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
-- Crawled version: 16 February 2020
+- Crawled version: 15 December 2021
 - Editor's Draft: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Shortname: priority-hints
 
@@ -19510,8 +19508,18 @@ No informative reference to this spec from other specs.
 
 - Broken external links:
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
+     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
+     * [`https://html.spec.whatwg.org/#link`](https://html.spec.whatwg.org/#link)
+     * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
      * [`https://html.spec.whatwg.org/#missing-value-default`](https://html.spec.whatwg.org/#missing-value-default)
+     * [`https://html.spec.whatwg.org/#htmlimageelement`](https://html.spec.whatwg.org/#htmlimageelement)
+     * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
+     * [`https://html.spec.whatwg.org/#htmllinkelement`](https://html.spec.whatwg.org/#htmllinkelement)
+     * [`https://html.spec.whatwg.org/#htmlscriptelement`](https://html.spec.whatwg.org/#htmlscriptelement)
+     * [`https://html.spec.whatwg.org/#htmliframeelement`](https://html.spec.whatwg.org/#htmliframeelement)
+     * [`https://fetch.spec.whatwg.org/#destination`](https://fetch.spec.whatwg.org/#destination)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -22749,6 +22757,7 @@ Normative references to this spec from:
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Import Maps](https://wicg.github.io/import-maps/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
@@ -22831,7 +22840,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
-- [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 
@@ -23348,6 +23356,7 @@ Normative references to this spec from:
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Priority Hints](https://wicg.github.io/priority-hints/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
 - [Reporting API 1](https://w3c.github.io/reporting/)
