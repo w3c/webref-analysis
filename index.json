@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-16T06:43:17.809Z",
+  "date": "2021-12-16T12:47:15.081Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -56015,7 +56015,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -56078,6 +56078,7 @@
             "https://w3c.github.io/webdriver/#dfn-set-a-property",
             "https://w3c.github.io/webdriver/#dfn-try",
             "https://w3c.github.io/webdriver/#dfn-web-element-reference",
+            "https://w3c.github.io/webdriver/#dfn-readiness-state",
             "https://w3c.github.io/webdriver/#dfn-session-not-created",
             "https://w3c.github.io/webdriver/#dfn-no-such-frame",
             "https://w3c.github.io/webdriver/#dfn-unknown-error"
