@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-16T12:47:15.081Z",
+  "date": "2021-12-16T18:43:44.492Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -5730,7 +5730,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css3-writing-modes/",
-          "https://www.w3.org/TR/cssom-1/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
@@ -7407,7 +7406,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "6 December 2021",
+      "date": "16 December 2021",
       "url": "https://drafts.csswg.org/css-cascade-6/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-cascade-6/",
@@ -8614,6 +8613,11 @@
               "crawled": "https://drafts.csswg.org/css-extensions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
@@ -9386,7 +9390,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -9908,7 +9918,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "13 December 2021",
+      "date": "15 December 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -36069,7 +36079,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "13 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -38895,7 +38905,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -47683,7 +47693,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "08 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -49503,7 +49513,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -51745,6 +51755,11 @@
               "url": "https://wicg.github.io/import-maps/",
               "title": "Import Maps",
               "crawled": "https://wicg.github.io/import-maps/"
+            },
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -55619,7 +55634,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "29 November 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -55652,9 +55667,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/page-visibility/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/webrtc-svc/",
@@ -61672,7 +61685,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61787,7 +61800,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "15 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -62007,7 +62020,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "13 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
