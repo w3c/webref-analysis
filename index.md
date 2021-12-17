@@ -578,7 +578,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 16 December 2021
+- Crawled version: 17 December 2021
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -700,7 +700,6 @@ Informative references to this spec from:
 
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
-- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 
@@ -960,7 +959,6 @@ Informative references to this spec from:
 
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
-- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
@@ -1216,7 +1214,6 @@ Informative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
-- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [URL Standard](https://url.spec.whatwg.org/)
 
@@ -6188,7 +6185,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
-- Crawled version: 15 December 2021
+- Crawled version: 21 December 2021
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Shortname: css-fonts-4
@@ -6218,10 +6215,12 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/`](https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/), related reference "CSS-FONTS-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
-     * [`https://drafts.csswg.org/css-inline-3/#ascent-metric`](https://drafts.csswg.org/css-inline-3/#ascent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#descent-metric`](https://drafts.csswg.org/css-inline-3/#descent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#line-gap-metric`](https://drafts.csswg.org/css-inline-3/#line-gap-metric)
+     * [`https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet)
+     * [`https://www.w3.org/TR/css-inline-3/#ascent-metric`](https://www.w3.org/TR/css-inline-3/#ascent-metric)
+     * [`https://www.w3.org/TR/css-inline-3/#descent-metric`](https://www.w3.org/TR/css-inline-3/#descent-metric)
+     * [`https://www.w3.org/TR/css-inline-3/#line-gap-metric`](https://www.w3.org/TR/css-inline-3/#line-gap-metric)
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/css-syntax-3/#identifier`](https://www.w3.org/TR/css-syntax-3/#identifier)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#font`](https://html.spec.whatwg.org/#font)
 - External links that use a dated URL:
@@ -6274,7 +6273,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
-- Crawled version: 8 December 2021
+- Crawled version: 21 December 2021
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Shortname: css-fonts-5
@@ -6291,9 +6290,9 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/css-inline-3/#ascent-metric`](https://drafts.csswg.org/css-inline-3/#ascent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#descent-metric`](https://drafts.csswg.org/css-inline-3/#descent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#line-gap-metric`](https://drafts.csswg.org/css-inline-3/#line-gap-metric)
+     * [`https://www.w3.org/TR/css-inline-3/#ascent-metric`](https://www.w3.org/TR/css-inline-3/#ascent-metric)
+     * [`https://www.w3.org/TR/css-inline-3/#descent-metric`](https://www.w3.org/TR/css-inline-3/#descent-metric)
+     * [`https://www.w3.org/TR/css-inline-3/#line-gap-metric`](https://www.w3.org/TR/css-inline-3/#line-gap-metric)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/)
 
@@ -10503,7 +10502,6 @@ Informative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
-- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
 ### Device Posture API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -10657,7 +10655,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Generic Sensor API](https://w3c.github.io/sensors/)
-- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
 ### Geolocation API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -10958,9 +10955,7 @@ Normative references to this spec from:
 
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 
-Informative references to this spec from:
-
-- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+No informative reference to this spec from other specs.
 
 
 ### Screen Wake Lock API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -12289,7 +12284,7 @@ No informative reference to this spec from other specs.
 
 ## Privacy Interest Group {#privacy_interest_group}
 
-### Mitigating Browser Fingerprinting in Web Specifications {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-xrefs=true}
+### Mitigating Browser Fingerprinting in Web Specifications {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12303,6 +12298,11 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`https://www.w3.org/TR/dap-privacy-reqs/`](https://www.w3.org/TR/dap-privacy-reqs/)
+     * [`https://www.w3.org/TR/generic-sensor/`](https://www.w3.org/TR/generic-sensor/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#user-tracking`](https://html.spec.whatwg.org/#user-tracking)
 - External links to outdated specs:
@@ -13716,9 +13716,7 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+No informative reference to this spec from other specs.
 
 
 ## W3C Process Community Group  {#w3c_process_community_group_}

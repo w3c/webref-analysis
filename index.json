@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-17T12:46:52.119Z",
+  "date": "2021-12-17T18:43:24.680Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -1658,11 +1658,6 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-              "title": "Mitigating Browser Fingerprinting in Web Specifications",
-              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             }
           ]
         },
@@ -9921,7 +9916,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "15 December 2021",
+      "date": "21 December 2021",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10210,12 +10205,14 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
-            "https://drafts.csswg.org/css-inline-3/#ascent-metric",
-            "https://drafts.csswg.org/css-inline-3/#descent-metric",
-            "https://drafts.csswg.org/css-inline-3/#line-gap-metric"
+            "https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet",
+            "https://www.w3.org/TR/css-inline-3/#ascent-metric",
+            "https://www.w3.org/TR/css-inline-3/#descent-metric",
+            "https://www.w3.org/TR/css-inline-3/#line-gap-metric"
           ],
-          "notDfn": [],
+          "notDfn": [
+            "https://www.w3.org/TR/css-syntax-3/#identifier"
+          ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#font"
           ],
@@ -10232,7 +10229,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "8 December 2021",
+      "date": "21 December 2021",
       "url": "https://www.w3.org/TR/css-fonts-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -10404,9 +10401,9 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/css-inline-3/#ascent-metric",
-            "https://drafts.csswg.org/css-inline-3/#descent-metric",
-            "https://drafts.csswg.org/css-inline-3/#line-gap-metric"
+            "https://www.w3.org/TR/css-inline-3/#ascent-metric",
+            "https://www.w3.org/TR/css-inline-3/#descent-metric",
+            "https://www.w3.org/TR/css-inline-3/#line-gap-metric"
           ],
           "notDfn": [],
           "brokenLinks": [],
@@ -24828,11 +24825,6 @@
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-              "title": "Mitigating Browser Fingerprinting in Web Specifications",
-              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             }
           ]
         },
@@ -34917,11 +34909,6 @@
               "crawled": "https://infra.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-              "title": "Mitigating Browser Fingerprinting in Web Specifications",
-              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
-            },
-            {
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
@@ -35473,11 +35460,6 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-              "title": "Mitigating Browser Fingerprinting in Web Specifications",
-              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
               "url": "https://wicg.github.io/ua-client-hints/",
@@ -40577,8 +40559,19 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/dap-privacy-reqs/",
+          "https://www.w3.org/TR/generic-sensor/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/html52/",
+            "ref": {
+              "name": "HTML",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -44255,13 +44248,7 @@
               "crawled": "https://w3c.github.io/sensors/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-              "title": "Mitigating Browser Fingerprinting in Web Specifications",
-              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -45714,11 +45701,6 @@
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-              "title": "Mitigating Browser Fingerprinting in Web Specifications",
-              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
               "url": "https://www.w3.org/TR/payment-request/",
@@ -50229,7 +50211,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 December 2021",
+      "date": "17 December 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -50901,13 +50883,7 @@
         ],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-              "title": "Mitigating Browser Fingerprinting in Web Specifications",
-              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [],
