@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-17T00:52:33.958Z",
+  "date": "2021-12-17T06:45:08.751Z",
   "stats": {
     "crawled": 450,
-    "errors": 0,
+    "errors": 1,
     "studied": 450
   },
   "results": [
@@ -899,7 +899,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "13 December 2021",
+      "date": "17 December 2021",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -5696,7 +5696,7 @@
     {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
-      "date": "16 June 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/css-align-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-align-3/",
@@ -6316,7 +6316,7 @@
     {
       "title": "CSS Box Sizing Module Level 3",
       "shortname": "css-sizing-3",
-      "date": "7 September 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/css-sizing-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-3/",
@@ -16341,10 +16341,17 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/selectors/",
-          "https://www.w3.org/TR/css3-values/",
           "https://www.w3.org/TR/selectors-api/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css3-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://www.w3.org/TR/css-values-3/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -16600,8 +16607,7 @@
             "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#link-type-stylesheet",
-            "https://html.spec.whatwg.org/#attr-img-sizes",
-            "https://drafts.csswg.org/css-values-4/#funcdef-attr"
+            "https://html.spec.whatwg.org/#attr-img-sizes"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -18892,6 +18898,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-syntax-3/",
+              "title": "CSS Syntax Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-syntax/"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-timing-2/",
               "title": "Resource Timing Level 2",
               "crawled": "https://w3c.github.io/resource-timing/"
@@ -18907,15 +18918,7 @@
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
-            "https://drafts.csswg.org/selectors-3/#x",
-            "https://drafts.csswg.org/css-values-4/#valdef-attr-string",
-            "https://drafts.csswg.org/css-values-4/#valdef-attr-url",
-            "https://drafts.csswg.org/css-values-4/#valdef-attr-number",
-            "https://drafts.csswg.org/css-values-4/#valdef-attr-length",
-            "https://drafts.csswg.org/css-values-4/#valdef-attr-angle",
-            "https://drafts.csswg.org/css-values-4/#valdef-attr-time",
-            "https://drafts.csswg.org/css-values-4/#valdef-attr-frequency",
-            "https://drafts.csswg.org/css-values-4/#funcdef-toggle"
+            "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -19427,11 +19430,6 @@
               "url": "https://drafts.css-houdini.org/css-typed-om-2/",
               "title": "CSS Typed OM Level 2",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-will-change-1/",
@@ -21977,7 +21975,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "11 December 2021",
+      "date": "17 December 2021",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23928,11 +23926,6 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -26248,7 +26241,6 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
-      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26260,7 +26252,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/html-media-capture/",
+      "crawled": {
+        "url": "https://w3c.github.io/html-media-capture/",
+        "repository": "https://github.com/w3c/html-media-capture",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -26269,10 +26266,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 339)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26286,19 +26283,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [
-            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
-          ],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [
-            "https://www.w3.org/TR/html51/",
-            "https://www.w3.org/TR/custom-elements/"
-          ],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -33296,11 +33280,6 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -38967,11 +38946,6 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -39685,7 +39659,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "2 December 2021",
+      "date": "16 December 2021",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -48319,7 +48293,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "15 December 2021",
+      "date": "17 December 2021",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -54257,11 +54231,6 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
