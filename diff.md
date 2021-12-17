@@ -2,21 +2,12 @@
 % Strudy
 % December 17, 2021
 
-## CSS Syntax Module Level 3
-
-- Initial URL: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-syntax/](https://drafts.csswg.org/css-syntax/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css3-values/
-- Inconsistent references for links: *INS* https://www.w3.org/TR/css3-values/
-
-
 ## HTML Media Capture
 
 - Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
-- Spec could not be rendered: *INS* Error: Evaluation failed: Error: Respec generation took too long
+- Spec could not be rendered: *DEL* Error: Evaluation failed: Error: Respec generation took too long
     at isReady (__puppeteer_evaluation_script__:12:27)
     at isReady (__puppeteer_evaluation_script__:19:27)
     at async isReady (__puppeteer_evaluation_script__:19:21)
