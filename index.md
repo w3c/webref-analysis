@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 17, 2021
+% December 18, 2021
 
 # Ecma International {#ecma_international}
 
@@ -624,7 +624,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -653,7 +653,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -700,6 +700,7 @@ Informative references to this spec from:
 
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 
@@ -712,7 +713,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -959,6 +960,7 @@ Informative references to this spec from:
 
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
@@ -1132,7 +1134,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1155,7 +1157,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1185,7 +1187,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1214,6 +1216,7 @@ Informative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [URL Standard](https://url.spec.whatwg.org/)
 
@@ -1224,7 +1227,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1257,7 +1260,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1286,7 +1289,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 17 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -10502,6 +10505,7 @@ Informative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
 ### Device Posture API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -10655,6 +10659,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
 ### Geolocation API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -10955,7 +10960,9 @@ Normative references to this spec from:
 
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
 ### Screen Wake Lock API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -12284,7 +12291,7 @@ No informative reference to this spec from other specs.
 
 ## Privacy Interest Group {#privacy_interest_group}
 
-### Mitigating Browser Fingerprinting in Web Specifications {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Mitigating Browser Fingerprinting in Web Specifications {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12298,11 +12305,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
-- Missing references for links: 
-     * [`https://www.w3.org/TR/dap-privacy-reqs/`](https://www.w3.org/TR/dap-privacy-reqs/)
-     * [`https://www.w3.org/TR/generic-sensor/`](https://www.w3.org/TR/generic-sensor/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#user-tracking`](https://html.spec.whatwg.org/#user-tracking)
 - External links to outdated specs:
@@ -13716,7 +13718,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
 ## W3C Process Community Group  {#w3c_process_community_group_}
