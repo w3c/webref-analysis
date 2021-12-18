@@ -1738,7 +1738,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/sensors/#get-value-from-latest-reading`](https://w3c.github.io/sensors/#get-value-from-latest-reading)
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/):
-     * [`https://www.w3.org/TR/appmanifest/#dfn-display-mode`](https://www.w3.org/TR/appmanifest/#dfn-display-mode)
      * [`https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode`](https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode)
      * [`https://www.w3.org/TR/appmanifest/#dfn-ignore`](https://www.w3.org/TR/appmanifest/#dfn-ignore)
      * [`https://www.w3.org/TR/appmanifest/#dfn-manifest-url`](https://www.w3.org/TR/appmanifest/#dfn-manifest-url)
@@ -2166,7 +2165,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 529 problematic external links found in 98 specifications
+=> 528 problematic external links found in 98 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -6282,6 +6281,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-embed-src`](https://html.spec.whatwg.org/#attr-embed-src)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/):
      * [`https://www.w3.org/TR/appmanifest/#dfn-display-modes-values`](https://www.w3.org/TR/appmanifest/#dfn-display-modes-values)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-display-mode`](https://www.w3.org/TR/appmanifest/#dfn-display-mode)
      * [`https://www.w3.org/TR/appmanifest/#dfn-object`](https://www.w3.org/TR/appmanifest/#dfn-object)
      * [`https://www.w3.org/TR/appmanifest/#dfn-processing-extension-point-of-web-manifest`](https://www.w3.org/TR/appmanifest/#dfn-processing-extension-point-of-web-manifest)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -8402,11 +8402,15 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://www.w3.org/TR/accname-1.2/#dfn-accessible-name`](https://www.w3.org/TR/accname-1.2/#dfn-accessible-name)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode`](https://www.w3.org/TR/mediaqueries-5/#display-mode)
+     * [`https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme`](https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-browser`](https://www.w3.org/TR/mediaqueries-5/#display-mode-browser)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-minimal-ui`](https://www.w3.org/TR/mediaqueries-5/#display-mode-minimal-ui)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-standalone`](https://www.w3.org/TR/mediaqueries-5/#display-mode-standalone)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-fullscreen`](https://www.w3.org/TR/mediaqueries-5/#display-mode-fullscreen)
      * [`https://www.w3.org/TR/css-color-4/#alpha-channel`](https://www.w3.org/TR/css-color-4/#alpha-channel)
      * [`https://www.w3.org/TR/css-color-4/#sRGB-space`](https://www.w3.org/TR/css-color-4/#sRGB-space)
-     * [`https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme`](https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme)
      * [`https://www.w3.org/TR/css-syntax-3/#css-parse-something-according-to-a-css-grammar`](https://www.w3.org/TR/css-syntax-3/#css-parse-something-according-to-a-css-grammar)
-     * [`https://www.w3.org/TR/css-conditional-3/#at-ruledef-media`](https://www.w3.org/TR/css-conditional-3/#at-ruledef-media)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/):
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
@@ -9300,7 +9304,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 6087 problematic external links found in 232 specifications
+=> 6092 problematic external links found in 232 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

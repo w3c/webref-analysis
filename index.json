@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-18T06:42:39.749Z",
+  "date": "2021-12-18T12:46:32.447Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -9571,11 +9571,6 @@
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
-            },
-            {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
             }
           ]
         },
@@ -22231,11 +22226,6 @@
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
             }
           ],
           "informative": [
@@ -26876,11 +26866,6 @@
               "crawled": "https://wicg.github.io/visual-viewport/"
             },
             {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -26965,11 +26950,6 @@
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -29702,7 +29682,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/appmanifest/#dfn-display-mode",
             "https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode",
             "https://www.w3.org/TR/appmanifest/#dfn-ignore",
             "https://www.w3.org/TR/appmanifest/#dfn-manifest-url",
@@ -29711,6 +29690,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://www.w3.org/TR/appmanifest/#dfn-display-modes-values",
+            "https://www.w3.org/TR/appmanifest/#dfn-display-mode",
             "https://www.w3.org/TR/appmanifest/#dfn-object",
             "https://www.w3.org/TR/appmanifest/#dfn-processing-extension-point-of-web-manifest",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
@@ -43168,7 +43148,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "08 November 2021",
+      "date": "18 December 2021",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
@@ -43293,11 +43273,15 @@
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://www.w3.org/TR/accname-1.2/#dfn-accessible-name",
+            "https://www.w3.org/TR/mediaqueries-5/#display-mode",
+            "https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme",
+            "https://www.w3.org/TR/mediaqueries-5/#display-mode-browser",
+            "https://www.w3.org/TR/mediaqueries-5/#display-mode-minimal-ui",
+            "https://www.w3.org/TR/mediaqueries-5/#display-mode-standalone",
+            "https://www.w3.org/TR/mediaqueries-5/#display-mode-fullscreen",
             "https://www.w3.org/TR/css-color-4/#alpha-channel",
             "https://www.w3.org/TR/css-color-4/#sRGB-space",
-            "https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme",
-            "https://www.w3.org/TR/css-syntax-3/#css-parse-something-according-to-a-css-grammar",
-            "https://www.w3.org/TR/css-conditional-3/#at-ruledef-media"
+            "https://www.w3.org/TR/css-syntax-3/#css-parse-something-according-to-a-css-grammar"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45296,7 +45280,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "13 December 2021",
+      "date": "18 December 2021",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -45352,7 +45336,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "13 December 2021",
+      "date": "18 December 2021",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -45445,7 +45429,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "13 December 2021",
+      "date": "18 December 2021",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",

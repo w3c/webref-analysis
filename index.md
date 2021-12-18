@@ -5955,7 +5955,6 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
-- [Web Application Manifest](https://w3c.github.io/manifest/)
 
 Informative references to this spec from:
 
@@ -7876,7 +7875,6 @@ Normative references to this spec from:
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/)
-- [Web Application Manifest](https://w3c.github.io/manifest/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
@@ -7909,7 +7907,6 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [Web Application Manifest](https://w3c.github.io/manifest/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
@@ -14263,7 +14260,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
-- Crawled version: 08 November 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
 - Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Shortname: appmanifest
@@ -14282,11 +14279,15 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://www.w3.org/TR/accname-1.2/#dfn-accessible-name`](https://www.w3.org/TR/accname-1.2/#dfn-accessible-name)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode`](https://www.w3.org/TR/mediaqueries-5/#display-mode)
+     * [`https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme`](https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-browser`](https://www.w3.org/TR/mediaqueries-5/#display-mode-browser)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-minimal-ui`](https://www.w3.org/TR/mediaqueries-5/#display-mode-minimal-ui)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-standalone`](https://www.w3.org/TR/mediaqueries-5/#display-mode-standalone)
+     * [`https://www.w3.org/TR/mediaqueries-5/#display-mode-fullscreen`](https://www.w3.org/TR/mediaqueries-5/#display-mode-fullscreen)
      * [`https://www.w3.org/TR/css-color-4/#alpha-channel`](https://www.w3.org/TR/css-color-4/#alpha-channel)
      * [`https://www.w3.org/TR/css-color-4/#sRGB-space`](https://www.w3.org/TR/css-color-4/#sRGB-space)
-     * [`https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme`](https://www.w3.org/TR/mediaqueries-5/#descdef-media-prefers-color-scheme)
      * [`https://www.w3.org/TR/css-syntax-3/#css-parse-something-according-to-a-css-grammar`](https://www.w3.org/TR/css-syntax-3/#css-parse-something-according-to-a-css-grammar)
-     * [`https://www.w3.org/TR/css-conditional-3/#at-ruledef-media`](https://www.w3.org/TR/css-conditional-3/#at-ruledef-media)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17624,13 +17625,13 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - External links to private terms:
-     * [`https://www.w3.org/TR/appmanifest/#dfn-display-mode`](https://www.w3.org/TR/appmanifest/#dfn-display-mode)
      * [`https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode`](https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode)
      * [`https://www.w3.org/TR/appmanifest/#dfn-ignore`](https://www.w3.org/TR/appmanifest/#dfn-ignore)
      * [`https://www.w3.org/TR/appmanifest/#dfn-manifest-url`](https://www.w3.org/TR/appmanifest/#dfn-manifest-url)
      * [`https://www.w3.org/TR/appmanifest/#dfn-processed-manifest`](https://www.w3.org/TR/appmanifest/#dfn-processed-manifest)
 - Broken external links:
      * [`https://www.w3.org/TR/appmanifest/#dfn-display-modes-values`](https://www.w3.org/TR/appmanifest/#dfn-display-modes-values)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-display-mode`](https://www.w3.org/TR/appmanifest/#dfn-display-mode)
      * [`https://www.w3.org/TR/appmanifest/#dfn-object`](https://www.w3.org/TR/appmanifest/#dfn-object)
      * [`https://www.w3.org/TR/appmanifest/#dfn-processing-extension-point-of-web-manifest`](https://www.w3.org/TR/appmanifest/#dfn-processing-extension-point-of-web-manifest)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -19771,7 +19772,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 13 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -19796,7 +19797,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 13 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Shortname: wasm-js-api-1
@@ -19840,7 +19841,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 13 December 2021
+- Crawled version: 18 December 2021
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Shortname: wasm-web-api-1
@@ -20525,7 +20526,6 @@ Informative references to this spec from:
 
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
-- [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
 ## HTML Workstream {#html_workstream}
