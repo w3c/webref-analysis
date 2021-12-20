@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-20T06:42:57.627Z",
+  "date": "2021-12-20T12:49:11.870Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -2144,7 +2144,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "2 December 2021",
+      "date": "19 December 2021",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -7037,6 +7037,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
             {
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
@@ -20780,7 +20785,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "10 December 2021",
+      "date": "19 December 2021",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -22491,7 +22496,7 @@
     {
       "title": "Encoding Standard",
       "shortname": "encoding",
-      "date": "27 September 2021",
+      "date": "19 December 2021",
       "url": "https://www.w3.org/TR/encoding/",
       "release": {
         "url": "https://www.w3.org/TR/encoding/",
@@ -22521,18 +22526,7 @@
           "Uint8Array"
         ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "BufferSource",
-            "refs": [
-              {
-                "url": "https://webidl.spec.whatwg.org/",
-                "title": "Web IDL Standard",
-                "crawled": "https://webidl.spec.whatwg.org/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -23240,7 +23234,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "13 December 2021",
+      "date": "19 December 2021",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -23701,7 +23695,6 @@
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventsource",
-            "https://html.spec.whatwg.org/#websocket",
             "https://html.spec.whatwg.org/#window-bc",
             "https://html.spec.whatwg.org/#ancestor-browsing-context",
             "https://html.spec.whatwg.org/#concept-origin",
@@ -23744,7 +23737,9 @@
             "https://html.spec.whatwg.org/#windoworworkerglobalscope"
           ],
           "evolvingLinks": [],
-          "outdatedSpecs": [],
+          "outdatedSpecs": [
+            "https://websockets.spec.whatwg.org/"
+          ],
           "datedUrls": []
         },
         "ok": false
@@ -50211,7 +50206,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "17 December 2021",
+      "date": "20 December 2021",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54178,6 +54173,11 @@
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/encoding/",
+              "title": "Encoding Standard",
+              "crawled": "https://encoding.spec.whatwg.org/"
             },
             {
               "url": "https://wicg.github.io/event-timing/",

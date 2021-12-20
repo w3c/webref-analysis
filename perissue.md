@@ -214,7 +214,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [Element Timing API](https://wicg.github.io/element-timing/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-- [Encoding Standard](https://encoding.spec.whatwg.org/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/) uses:
     * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -297,7 +296,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 69 missing references for IDL definitions found in 37 specifications
+=> 68 missing references for IDL definitions found in 36 specifications
 
 
 ## No definition for CSS properties
@@ -5411,7 +5410,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventsource`](https://html.spec.whatwg.org/#eventsource)
-     * [`https://html.spec.whatwg.org/#websocket`](https://html.spec.whatwg.org/#websocket)
      * [`https://html.spec.whatwg.org/#window-bc`](https://html.spec.whatwg.org/#window-bc)
      * [`https://html.spec.whatwg.org/#ancestor-browsing-context`](https://html.spec.whatwg.org/#ancestor-browsing-context)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
@@ -9062,7 +9060,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4756 problematic external links found in 293 specifications
+=> 4755 problematic external links found in 293 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9105,6 +9103,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/):
      * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/):
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/):
      * [`https://www.w3.org/TR/workers/`](https://www.w3.org/TR/workers/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/):
@@ -9181,7 +9181,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 58 problematic external links found in 49 specifications
+=> 59 problematic external links found in 50 specifications
 
 
 ## External links that use a dated URL
