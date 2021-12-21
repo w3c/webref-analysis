@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-21T06:45:26.443Z",
+  "date": "2021-12-21T12:50:16.949Z",
   "stats": {
     "crawled": 450,
-    "errors": 0,
+    "errors": 1,
     "studied": 450
   },
   "results": [
@@ -2653,7 +2653,6 @@
     {
       "title": "Contact Picker API",
       "shortname": "contact-api",
-      "date": "12 August 2021",
       "url": "https://wicg.github.io/contact-api/spec/",
       "nightly": {
         "url": "https://wicg.github.io/contact-api/spec/",
@@ -2661,7 +2660,12 @@
         "sourcePath": "spec/index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://wicg.github.io/contact-api/spec/",
+      "crawled": {
+        "url": "https://wicg.github.io/contact-api/spec/",
+        "repository": "https://github.com/WICG/contact-api",
+        "sourcePath": "spec/index.bs",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -2670,10 +2674,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Loading script from reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/reffy.mjs failed Error: Loading script from reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/reffy.mjs failed\n    at DOMWorld.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:175:23)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:564:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 82)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -2683,41 +2687,10 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/FileAPI/",
-            "ref": {
-              "name": "FileAPI",
-              "url": "https://www.w3.org/TR/FileAPI/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#htmlbuttonelement",
-            "https://html.spec.whatwg.org/#htmlimageelement",
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#secure-context",
-            "https://html.spec.whatwg.org/#concept-relevant-realm",
-            "https://html.spec.whatwg.org/#task-source",
-            "https://html.spec.whatwg.org/#concept-agent-event-loop",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#responsible-event-loop",
-            "https://html.spec.whatwg.org/#queue-a-task",
-            "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#concept-request-origin"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -23895,11 +23868,6 @@
               "crawled": "https://w3c.github.io/clipboard-apis/"
             },
             {
-              "url": "https://wicg.github.io/contact-api/spec/",
-              "title": "Contact Picker API",
-              "crawled": "https://wicg.github.io/contact-api/spec/"
-            },
-            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -26368,7 +26336,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "14 December 2021",
+      "date": "21 December 2021",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -32876,11 +32844,6 @@
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
-              "url": "https://wicg.github.io/contact-api/spec/",
-              "title": "Contact Picker API",
-              "crawled": "https://wicg.github.io/contact-api/spec/"
-            },
-            {
               "url": "https://wicg.github.io/content-index/spec/",
               "title": "Content Index",
               "crawled": "https://wicg.github.io/content-index/spec/"
@@ -36320,11 +36283,6 @@
               "url": "https://console.spec.whatwg.org/",
               "title": "Console Standard",
               "crawled": "https://console.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/contact-api/spec/",
-              "title": "Contact Picker API",
-              "crawled": "https://wicg.github.io/contact-api/spec/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -40488,11 +40446,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://wicg.github.io/contact-api/spec/",
-              "title": "Contact Picker API",
-              "crawled": "https://wicg.github.io/contact-api/spec/"
-            },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
