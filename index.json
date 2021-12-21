@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-21T12:50:16.949Z",
+  "date": "2021-12-21T18:44:14.874Z",
   "stats": {
     "crawled": 450,
     "errors": 1,
@@ -9970,13 +9970,6 @@
             }
           },
           {
-            "link": "https://www.w3.org/TR/css-fonts-4/",
-            "ref": {
-              "name": "CSS-FONTS-3",
-              "url": "https://www.w3.org/TR/css-fonts-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
             "ref": {
               "name": "CSS-FONTS-3",
@@ -10183,14 +10176,12 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet",
-            "https://www.w3.org/TR/css-inline-3/#ascent-metric",
-            "https://www.w3.org/TR/css-inline-3/#descent-metric",
-            "https://www.w3.org/TR/css-inline-3/#line-gap-metric"
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet",
+            "https://drafts.csswg.org/css-inline-3/#ascent-metric",
+            "https://drafts.csswg.org/css-inline-3/#descent-metric",
+            "https://drafts.csswg.org/css-inline-3/#line-gap-metric"
           ],
-          "notDfn": [
-            "https://www.w3.org/TR/css-syntax-3/#identifier"
-          ],
+          "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#font"
           ],
@@ -10379,9 +10370,9 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://www.w3.org/TR/css-inline-3/#ascent-metric",
-            "https://www.w3.org/TR/css-inline-3/#descent-metric",
-            "https://www.w3.org/TR/css-inline-3/#line-gap-metric"
+            "https://drafts.csswg.org/css-inline-3/#ascent-metric",
+            "https://drafts.csswg.org/css-inline-3/#descent-metric",
+            "https://drafts.csswg.org/css-inline-3/#line-gap-metric"
           ],
           "notDfn": [],
           "brokenLinks": [],
@@ -61634,7 +61625,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "20 December 2021",
+      "date": "21 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -61749,7 +61740,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "20 December 2021",
+      "date": "21 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
