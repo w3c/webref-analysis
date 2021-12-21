@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-21T00:51:59.847Z",
+  "date": "2021-12-21T06:45:26.443Z",
   "stats": {
     "crawled": 450,
     "errors": 0,
@@ -45106,7 +45106,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "22 November 2021",
+      "date": "21 December 2021",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
@@ -53294,8 +53294,7 @@
             "https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens",
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#concept-origin",
-            "https://www.w3.org/TR/accname-1.2/#dfn-accessible-name",
-            "https://www.w3.org/TR/css-color-4/#sRGB"
+            "https://www.w3.org/TR/accname-1.2/#dfn-accessible-name"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
