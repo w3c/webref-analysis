@@ -990,6 +990,7 @@ Normative references to this spec from:
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Network Information API](https://wicg.github.io/netinfo/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -3718,6 +3719,7 @@ Normative references to this spec from:
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 Informative references to this spec from:
@@ -3726,23 +3728,26 @@ Informative references to this spec from:
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
-### Web MIDI API {data-spec=true data-error=true}
+### Web MIDI API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
-- Crawled URL: [[object Object]]([object Object])
+- Crawled URL: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
+- Crawled version: 26 October 2021
 - Editor's Draft: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
 - Latest published version: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Shortname: webmidi
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded
-    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Unknown WebIDL names used: `Uint8Array`
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11214,7 +11219,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 21 December 2021
+- Crawled version: 22 December 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11283,7 +11288,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 21 December 2021
+- Crawled version: 22 December 2021
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -12328,7 +12333,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 12 December 2021
+- Crawled version: 22 December 2021
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -13670,6 +13675,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Beacon](https://w3c.github.io/beacon/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
@@ -14098,6 +14104,7 @@ Normative references to this spec from:
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Portals](https://wicg.github.io/portals/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
@@ -14312,6 +14319,7 @@ Normative references to this spec from:
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 
 Informative references to this spec from:
@@ -14396,6 +14404,7 @@ Normative references to this spec from:
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
 - [WebUSB API](https://wicg.github.io/webusb/)
@@ -14481,6 +14490,7 @@ Normative references to this spec from:
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
@@ -14563,6 +14573,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Portals](https://wicg.github.io/portals/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 Informative references to this spec from:
@@ -15907,7 +15918,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
 - Crawled URL: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
-- Crawled version: 14 December 2021
+- Crawled version: 22 December 2021
 - Editor's Draft: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
 - Shortname: web-locks
 
@@ -16672,7 +16683,7 @@ No informative reference to this spec from other specs.
 
 ## Web Performance Working Group {#web_performance_working_group}
 
-### Beacon {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Beacon {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16685,8 +16696,6 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - External links that neither target definitions nor headings:
      * [`https://fetch.spec.whatwg.org/#keep-alive-flag`](https://fetch.spec.whatwg.org/#keep-alive-flag)
 - Broken external links:
@@ -16832,6 +16841,7 @@ Normative references to this spec from:
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebTransport](https://w3c.github.io/webtransport/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
@@ -16930,7 +16940,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
 - Broken external links:
-     * [`https://www.w3.org/TR/resource-hints/#prerender`](https://www.w3.org/TR/resource-hints/#prerender)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
@@ -17152,6 +17161,8 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/resource-hints/#dfn-prefetch`](https://www.w3.org/TR/resource-hints/#dfn-prefetch)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
      * [`https://html.spec.whatwg.org/#insert-an-element-into-a-document`](https://html.spec.whatwg.org/#insert-an-element-into-a-document)
@@ -17169,13 +17180,13 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#attr-link-as`](https://html.spec.whatwg.org/#attr-link-as)
      * [`https://html.spec.whatwg.org/#charset`](https://html.spec.whatwg.org/#charset)
      * [`https://mimesniff.spec.whatwg.org/#parsable-mime-type`](https://mimesniff.spec.whatwg.org/#parsable-mime-type)
-     * [`https://www.w3.org/TR/resource-hints/#dfn-prefetch`](https://www.w3.org/TR/resource-hints/#dfn-prefetch)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
 
 Informative references to this spec from:
 
@@ -17247,23 +17258,38 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Resource Hints {data-spec=true data-error=true}
+### Resource Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
-- Crawled URL: [[object Object]]([object Object])
+- Crawled URL: [https://w3c.github.io/resource-hints/](https://w3c.github.io/resource-hints/)
+- Crawled version: 05 October 2020
 - Editor's Draft: [https://w3c.github.io/resource-hints/](https://w3c.github.io/resource-hints/)
 - Latest published version: [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 - Shortname: resource-hints
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded
-    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/)
+     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+     * [`https://w3c.github.io/webappsec/specs/CSP2/`](https://w3c.github.io/webappsec/specs/CSP2/)
+     * [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/), related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#resolve-a-url`](https://html.spec.whatwg.org/#resolve-a-url)
+     * [`https://html.spec.whatwg.org/#url`](https://html.spec.whatwg.org/#url)
+     * [`https://html.spec.whatwg.org/#resulting-absolute-url`](https://html.spec.whatwg.org/#resulting-absolute-url)
+     * [`https://html.spec.whatwg.org/#cors-settings-attributes`](https://html.spec.whatwg.org/#cors-settings-attributes)
+     * [`https://html.spec.whatwg.org/#origin-2`](https://html.spec.whatwg.org/#origin-2)
+     * [`https://html.spec.whatwg.org/#delay-the-load-event`](https://html.spec.whatwg.org/#delay-the-load-event)
+     * [`https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable`](https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable)
+- External links to outdated specs:
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17841,14 +17867,12 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#initialise-the-document-object`](https://html.spec.whatwg.org/#initialise-the-document-object)
      * [`https://html.spec.whatwg.org/#set-up-a-worker-environment-settings-object`](https://html.spec.whatwg.org/#set-up-a-worker-environment-settings-object)
      * [`https://html.spec.whatwg.org/#standard-metadata-names`](https://html.spec.whatwg.org/#standard-metadata-names)
-     * [`https://wicg.github.io/netinfo/#rtt-request-header-field`](https://wicg.github.io/netinfo/#rtt-request-header-field)
-     * [`https://wicg.github.io/netinfo/#downlink-request-header-field`](https://wicg.github.io/netinfo/#downlink-request-header-field)
-     * [`https://wicg.github.io/netinfo/#ect-request-header-field`](https://wicg.github.io/netinfo/#ect-request-header-field)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [Network Information API](https://wicg.github.io/netinfo/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
@@ -19291,22 +19315,29 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Network Information API {data-spec=true data-error=true}
+### Network Information API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/netinfo/](https://wicg.github.io/netinfo/)
-- Crawled URL: [[object Object]]([object Object])
+- Crawled URL: [https://wicg.github.io/netinfo/](https://wicg.github.io/netinfo/)
+- Crawled version: 11 May 2020
 - Editor's Draft: [https://wicg.github.io/netinfo/](https://wicg.github.io/netinfo/)
 - Shortname: netinfo
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded
-    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/)
+     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#networking-task-source`](https://html.spec.whatwg.org/#networking-task-source)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21676,6 +21707,7 @@ Normative references to this spec from:
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
@@ -21730,6 +21762,7 @@ Normative references to this spec from:
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
 - [Web Serial API](https://wicg.github.io/serial/)
@@ -22703,6 +22736,7 @@ Normative references to this spec from:
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
 - [Origin Policy](https://wicg.github.io/origin-policy/)
@@ -22735,6 +22769,7 @@ Normative references to this spec from:
 - [Reporting API 1](https://w3c.github.io/reporting/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 - [Save Data API](https://wicg.github.io/savedata/)
@@ -22778,6 +22813,7 @@ Normative references to this spec from:
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
@@ -23532,6 +23568,7 @@ Normative references to this spec from:
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
+- [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
@@ -23579,6 +23616,7 @@ Normative references to this spec from:
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Serial API](https://wicg.github.io/serial/)

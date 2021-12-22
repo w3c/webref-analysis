@@ -21,16 +21,6 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>456 specifications were crawled in this report.</p>
-  <section id="specifications-that-could-not-be-rendered" class="level2">
-  <h2>Specifications that could not be rendered</h2>
-  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
-  <ul>
-  <li><a href="%5Bobject%20Object%5D">Network Information API</a>: <code>TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded   at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111</code></li>
-  <li><a href="%5Bobject%20Object%5D">Resource Hints</a>: <code>TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded   at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111</code></li>
-  <li><a href="%5Bobject%20Object%5D">Web MIDI API</a>: <code>TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded   at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111</code></li>
-  </ul>
-  <p>=&gt; 3 specifications found</p>
-  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -208,7 +198,7 @@
   <li><code>PostMessageOptions</code> used in <a href="https://wicg.github.io/portals/">Portals</a></li>
   <li><code>Uint16Array</code> used in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><code>Uint32Array</code> used in <a href="https://w3c.github.io/gamepad/extensions.html">Gamepad Extensions</a>, <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a>, <a href="https://www.khronos.org/registry/webgl/specs/latest/2.0/">WebGL 2.0 Specification</a>, <a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/">WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification</a>, <a href="https://gpuweb.github.io/gpuweb/">WebGPU</a></li>
-  <li><code>Uint8Array</code> used in <a href="https://encoding.spec.whatwg.org/">Encoding Standard</a>, <a href="https://webaudio.github.io/web-audio-api/">Web Audio API</a>, <a href="https://w3c.github.io/webcrypto/">Web Cryptography API</a>, <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
+  <li><code>Uint8Array</code> used in <a href="https://encoding.spec.whatwg.org/">Encoding Standard</a>, <a href="https://webaudio.github.io/web-audio-api/">Web Audio API</a>, <a href="https://w3c.github.io/webcrypto/">Web Cryptography API</a>, <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a>, <a href="https://webaudio.github.io/web-midi-api/">Web MIDI API</a></li>
   <li><code>Uint8ClampedArray</code> used in <a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a>, <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><code>VisibilityState</code> used in <a href="https://w3c.github.io/ServiceWorker/">Service Workers Nightly</a></li>
   <li><code>WebAppManifest</code> used in <a href="https://w3c.github.io/web-share-target/">Web Share Target API</a></li>
@@ -1008,7 +998,6 @@
   <li><a href="https://w3c.github.io/webdriver/"><code>https://w3c.github.io/webdriver/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://w3c.github.io/badging/">Badging API</a> links to <a href="https://webidl.spec.whatwg.org/"><code>https://webidl.spec.whatwg.org/</code></a> but does not list it in its references</li>
-  <li><a href="https://w3c.github.io/beacon/">Beacon</a> links to <a href="https://www.w3.org/TR/page-visibility-2/"><code>https://www.w3.org/TR/page-visibility-2/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/webappsec-clear-site-data/">Clear Site Data</a> links to <a href="https://w3c.github.io/IndexedDB/"><code>https://w3c.github.io/IndexedDB/</code></a> but does not list it in its references</li>
   <li><a href="https://wicg.github.io/client-hints-infrastructure/">Client Hints Infrastructure</a> links to:
   <ul>
@@ -1859,6 +1848,11 @@
   <li><a href="https://www.w3.org/TR/css3-images/"><code>https://www.w3.org/TR/css3-images/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://w3c.github.io/navigation-timing/">Navigation Timing Level 2</a> links to <a href="https://webidl.spec.whatwg.org/"><code>https://webidl.spec.whatwg.org/</code></a> but does not list it in its references</li>
+  <li><a href="https://wicg.github.io/netinfo/">Network Information API</a> links to:
+  <ul>
+  <li><a href="https://w3c.github.io/ServiceWorker/v1/"><code>https://w3c.github.io/ServiceWorker/v1/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/netinfo/"><code>https://www.w3.org/TR/netinfo/</code></a> but does not list it in its references</li>
+  </ul></li>
   <li><a href="https://drafts.csswg.org/selectors-nonelement/">Non-element Selectors Module Level 1</a> links to <a href="https://www.w3.org/TR/its20/"><code>https://www.w3.org/TR/its20/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/orientation-sensor/">Orientation Sensor</a> links to:
   <ul>
@@ -1893,6 +1887,14 @@
   <li><a href="https://www.w3.org/TR/css-display-3/"><code>https://www.w3.org/TR/css-display-3/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/intersection-observer/"><code>https://www.w3.org/TR/intersection-observer/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/css3-multicol/"><code>https://www.w3.org/TR/css3-multicol/</code></a> but does not list it in its references</li>
+  </ul></li>
+  <li><a href="https://w3c.github.io/resource-hints/">Resource Hints</a> links to:
+  <ul>
+  <li><a href="https://url.spec.whatwg.org/"><code>https://url.spec.whatwg.org/</code></a> but does not list it in its references</li>
+  <li><a href="https://fetch.spec.whatwg.org/"><code>https://fetch.spec.whatwg.org/</code></a> but does not list it in its references</li>
+  <li><a href="https://w3c.github.io/page-visibility/"><code>https://w3c.github.io/page-visibility/</code></a> but does not list it in its references</li>
+  <li><a href="https://w3c.github.io/webappsec/specs/CSP2/"><code>https://w3c.github.io/webappsec/specs/CSP2/</code></a> but does not list it in its references</li>
+  <li><a href="https://w3c.github.io/webappsec/specs/content-security-policy/"><code>https://w3c.github.io/webappsec/specs/content-security-policy/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://wicg.github.io/responsive-image-client-hints/">Responsive Image Client Hints</a> links to <a href="https://www.w3.org/TR/respimg-usecases/"><code>https://www.w3.org/TR/respimg-usecases/</code></a> but does not list it in its references</li>
   <li><a href="https://www.rfc-editor.org/rfc/rfc6454">RFC 6454: The Web Origin Concept</a> links to:
@@ -2089,7 +2091,7 @@
   <li><a href="https://immersive-web.github.io/lighting-estimation/">WebXR Lighting Estimation API Level 1</a> links to <a href="https://www.w3.org/TR/webxrlayers-1/"><code>https://www.w3.org/TR/webxrlayers-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 715 missing references for links found in 195 specifications</p>
+  <p>=&gt; 721 missing references for links found in 196 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -2459,6 +2461,11 @@
   <li><a href="https://w3c.github.io/FileAPI/"><code>https://w3c.github.io/FileAPI/</code></a> but related reference “FileAPI” uses URL <a href="https://www.w3.org/TR/FileAPI/"><code>https://www.w3.org/TR/FileAPI/</code></a></li>
   </ul></li>
   <li><a href="https://wicg.github.io/permissions-request/">Requesting Permissions</a> links to <a href="https://w3c.github.io/permissions/"><code>https://w3c.github.io/permissions/</code></a> but related reference “PERMISSIONS” uses URL <a href="https://www.w3.org/TR/permissions/"><code>https://www.w3.org/TR/permissions/</code></a></li>
+  <li><a href="https://w3c.github.io/resource-hints/">Resource Hints</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a> but related reference “HTML” uses URL <a href="https://html.spec.whatwg.org/multipage/"><code>https://html.spec.whatwg.org/multipage/</code></a></li>
+  <li><a href="https://w3c.github.io/webappsec-mixed-content/"><code>https://w3c.github.io/webappsec-mixed-content/</code></a> but related reference “MIXED-CONTENT” uses URL <a href="https://www.w3.org/TR/mixed-content/"><code>https://www.w3.org/TR/mixed-content/</code></a></li>
+  </ul></li>
   <li><a href="https://w3c.github.io/resource-timing/">Resource Timing Level 2</a> links to <a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but related reference “PERFORMANCE-TIMELINE-2” uses URL <a href="https://www.w3.org/TR/performance-timeline/"><code>https://www.w3.org/TR/performance-timeline/</code></a></li>
   <li><a href="https://wicg.github.io/responsive-image-client-hints/">Responsive Image Client Hints</a> links to <a href="https://w3c.github.io/webappsec-permissions-policy/"><code>https://w3c.github.io/webappsec-permissions-policy/</code></a> but related reference “PERMISSIONS-POLICY-1” uses URL <a href="https://www.w3.org/TR/permissions-policy-1/"><code>https://www.w3.org/TR/permissions-policy-1/</code></a></li>
   <li><a href="https://www.w3.org/TR/SVG11/">Scalable Vector Graphics (SVG) 1.1 (Second Edition)</a> links to:
@@ -2635,7 +2642,7 @@
   <li><a href="https://immersive-web.github.io/webxr-gamepads-module/">WebXR Gamepads Module - Level 1</a> links to <a href="https://w3c.github.io/gamepad/"><code>https://w3c.github.io/gamepad/</code></a> but related reference “GAMEPAD” uses URL <a href="https://www.w3.org/TR/gamepad/"><code>https://www.w3.org/TR/gamepad/</code></a></li>
   <li><a href="https://immersive-web.github.io/webxr-hand-input/">WebXR Hand Input Module - Level 1</a> links to <a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
   </ul>
-  <p>=&gt; 337 inconsistent references for links found in 179 specifications</p>
+  <p>=&gt; 339 inconsistent references for links found in 180 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
@@ -3548,6 +3555,10 @@
   <li><a href="https://w3c.github.io/remote-playback/#dfn-local-playback-device"><code>https://w3c.github.io/remote-playback/#dfn-local-playback-device</code></a></li>
   <li><a href="https://w3c.github.io/remote-playback/#dfn-local-playback-state"><code>https://w3c.github.io/remote-playback/#dfn-local-playback-state</code></a></li>
   </ul></li>
+  <li><a href="https://w3c.github.io/preload/">Preload</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/resource-hints/#dfn-prefetch"><code>https://www.w3.org/TR/resource-hints/#dfn-prefetch</code></a></li>
+  </ul></li>
   <li><a href="https://wicg.github.io/scheduling-apis/">Prioritized Task Scheduling</a>:
   <ul>
   <li><a href="https://dom.spec.whatwg.org/#abortcontroller-signal"><code>https://dom.spec.whatwg.org/#abortcontroller-signal</code></a></li>
@@ -4065,7 +4076,7 @@
   <li><a href="https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm"><code>https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 838 problematic external links found in 195 specifications</p>
+  <p>=&gt; 839 problematic external links found in 196 specifications</p>
   </section>
   <section id="external-links-that-neither-target-definitions-nor-headings" class="level2">
   <h2>External links that neither target definitions nor headings</h2>
@@ -5540,9 +5551,6 @@
   <li><a href="https://html.spec.whatwg.org/#initialise-the-document-object"><code>https://html.spec.whatwg.org/#initialise-the-document-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#set-up-a-worker-environment-settings-object"><code>https://html.spec.whatwg.org/#set-up-a-worker-environment-settings-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#standard-metadata-names"><code>https://html.spec.whatwg.org/#standard-metadata-names</code></a></li>
-  <li><a href="https://wicg.github.io/netinfo/#rtt-request-header-field"><code>https://wicg.github.io/netinfo/#rtt-request-header-field</code></a></li>
-  <li><a href="https://wicg.github.io/netinfo/#downlink-request-header-field"><code>https://wicg.github.io/netinfo/#downlink-request-header-field</code></a></li>
-  <li><a href="https://wicg.github.io/netinfo/#ect-request-header-field"><code>https://wicg.github.io/netinfo/#ect-request-header-field</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/clipboard-apis/">Clipboard API and events</a>:
   <ul>
@@ -8224,7 +8232,6 @@
   </ul></li>
   <li><a href="https://w3c.github.io/navigation-timing/">Navigation Timing Level 2</a>:
   <ul>
-  <li><a href="https://www.w3.org/TR/resource-hints/#prerender"><code>https://www.w3.org/TR/resource-hints/#prerender</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#navigate"><code>https://html.spec.whatwg.org/#navigate</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-document-window"><code>https://html.spec.whatwg.org/#concept-document-window</code></a></li>
@@ -8275,6 +8282,16 @@
   <li><a href="https://www.w3.org/TR/reporting-1/#endpoint-group"><code>https://www.w3.org/TR/reporting-1/#endpoint-group</code></a></li>
   <li><a href="https://www.w3.org/TR/reporting-1/#visible-to-reporting-observers"><code>https://www.w3.org/TR/reporting-1/#visible-to-reporting-observers</code></a></li>
   <li><a href="https://url.spec.whatwg.org/#concept-URL"><code>https://url.spec.whatwg.org/#concept-URL</code></a></li>
+  </ul></li>
+  <li><a href="https://wicg.github.io/netinfo/">Network Information API</a>:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#navigator"><code>https://html.spec.whatwg.org/#navigator</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#workernavigator"><code>https://html.spec.whatwg.org/#workernavigator</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#workerglobalscope"><code>https://html.spec.whatwg.org/#workerglobalscope</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#networking-task-source"><code>https://html.spec.whatwg.org/#networking-task-source</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#queue-a-task"><code>https://html.spec.whatwg.org/#queue-a-task</code></a></li>
   </ul></li>
   <li><a href="https://notifications.spec.whatwg.org/">Notifications API Standard</a>:
   <ul>
@@ -8746,7 +8763,6 @@
   <li><a href="https://html.spec.whatwg.org/#attr-link-as"><code>https://html.spec.whatwg.org/#attr-link-as</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#charset"><code>https://html.spec.whatwg.org/#charset</code></a></li>
   <li><a href="https://mimesniff.spec.whatwg.org/#parsable-mime-type"><code>https://mimesniff.spec.whatwg.org/#parsable-mime-type</code></a></li>
-  <li><a href="https://www.w3.org/TR/resource-hints/#dfn-prefetch"><code>https://www.w3.org/TR/resource-hints/#dfn-prefetch</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/presentation-api/">Presentation API</a>:
   <ul>
@@ -8996,6 +9012,16 @@
   <li><a href="https://html.spec.whatwg.org/#being-rendered"><code>https://html.spec.whatwg.org/#being-rendered</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#errorevent"><code>https://html.spec.whatwg.org/#errorevent</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#processing-model-8"><code>https://html.spec.whatwg.org/#processing-model-8</code></a></li>
+  </ul></li>
+  <li><a href="https://w3c.github.io/resource-hints/">Resource Hints</a>:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#resolve-a-url"><code>https://html.spec.whatwg.org/#resolve-a-url</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#url"><code>https://html.spec.whatwg.org/#url</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#resulting-absolute-url"><code>https://html.spec.whatwg.org/#resulting-absolute-url</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#cors-settings-attributes"><code>https://html.spec.whatwg.org/#cors-settings-attributes</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#origin-2"><code>https://html.spec.whatwg.org/#origin-2</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#delay-the-load-event"><code>https://html.spec.whatwg.org/#delay-the-load-event</code></a></li>
+  <li><a href="https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable"><code>https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/resource-timing/">Resource Timing Level 2</a>:
   <ul>
@@ -10023,6 +10049,14 @@
   <li><a href="https://html.spec.whatwg.org/#concept-environment-id"><code>https://html.spec.whatwg.org/#concept-environment-id</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#responsible-event-loop"><code>https://html.spec.whatwg.org/#responsible-event-loop</code></a></li>
   </ul></li>
+  <li><a href="https://webaudio.github.io/web-midi-api/">Web MIDI API</a>:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#audio"><code>https://html.spec.whatwg.org/#audio</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#allowed-to-use"><code>https://html.spec.whatwg.org/#allowed-to-use</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-handlers"><code>https://html.spec.whatwg.org/#event-handlers</code></a></li>
+  </ul></li>
   <li><a href="https://webmachinelearning.github.io/webnn/">Web Neural Network API</a>:
   <ul>
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
@@ -10694,7 +10728,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 4745 problematic external links found in 293 specifications</p>
+  <p>=&gt; 4759 problematic external links found in 296 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>
@@ -10819,6 +10853,10 @@
   <ul>
   <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a></li>
   </ul></li>
+  <li><a href="https://w3c.github.io/resource-hints/">Resource Hints</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a></li>
+  </ul></li>
   <li><a href="https://www.rfc-editor.org/rfc/rfc6454">RFC 6454: The Web Origin Concept</a>:
   <ul>
   <li><a href="https://www.w3.org/TR/cors/"><code>https://www.w3.org/TR/cors/</code></a></li>
@@ -10909,7 +10947,7 @@
   <li><a href="https://www.w3.org/TR/cors/"><code>https://www.w3.org/TR/cors/</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 58 problematic external links found in 49 specifications</p>
+  <p>=&gt; 59 problematic external links found in 50 specifications</p>
   </section>
   <section id="external-links-that-use-a-dated-url" class="level2">
   <h2>External links that use a dated URL</h2>

@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-22T12:52:40.260Z",
+  "date": "2021-12-22T18:45:22.840Z",
   "stats": {
     "crawled": 456,
-    "errors": 3,
+    "errors": 0,
     "studied": 456
   },
   "results": [
@@ -1773,9 +1773,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/page-visibility-2/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -1939,6 +1937,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/netinfo/",
+              "title": "Network Information API",
+              "crawled": "https://wicg.github.io/netinfo/"
+            },
+            {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
@@ -1977,10 +1980,7 @@
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#initialise-the-document-object",
             "https://html.spec.whatwg.org/#set-up-a-worker-environment-settings-object",
-            "https://html.spec.whatwg.org/#standard-metadata-names",
-            "https://wicg.github.io/netinfo/#rtt-request-header-field",
-            "https://wicg.github.io/netinfo/#downlink-request-header-field",
-            "https://wicg.github.io/netinfo/#ect-request-header-field"
+            "https://html.spec.whatwg.org/#standard-metadata-names"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -2960,6 +2960,11 @@
               "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resource-hints/",
+              "title": "Resource Hints",
+              "crawled": "https://w3c.github.io/resource-hints/"
             },
             {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
@@ -21726,6 +21731,11 @@
               "crawled": "https://w3c.github.io/navigation-timing/"
             },
             {
+              "url": "https://wicg.github.io/netinfo/",
+              "title": "Network Information API",
+              "crawled": "https://wicg.github.io/netinfo/"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -21994,6 +22004,11 @@
               "url": "https://w3c.github.io/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://w3c.github.io/web-locks/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://w3c.github.io/web-nfc/",
@@ -26167,6 +26182,11 @@
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
@@ -34008,6 +34028,11 @@
               "crawled": "https://w3c.github.io/network-error-logging/"
             },
             {
+              "url": "https://wicg.github.io/netinfo/",
+              "title": "Network Information API",
+              "crawled": "https://wicg.github.io/netinfo/"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -34166,6 +34191,11 @@
               "url": "https://www.w3.org/TR/resize-observer-1/",
               "title": "Resize Observer",
               "crawled": "https://drafts.csswg.org/resize-observer/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resource-hints/",
+              "title": "Resource Hints",
+              "crawled": "https://w3c.github.io/resource-hints/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing-2/",
@@ -34381,6 +34411,11 @@
               "url": "https://w3c.github.io/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://w3c.github.io/web-locks/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://www.w3.org/TR/webnn/",
@@ -35915,6 +35950,11 @@
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
+            },
+            {
+              "url": "https://wicg.github.io/netinfo/",
+              "title": "Network Information API",
+              "crawled": "https://wicg.github.io/netinfo/"
             },
             {
               "url": "https://www.w3.org/TR/presentation-api/",
@@ -41209,6 +41249,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/resource-hints/",
+              "title": "Resource Hints",
+              "crawled": "https://w3c.github.io/resource-hints/"
+            },
+            {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
@@ -41474,7 +41519,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/resource-hints/#prerender",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#concept-document-window",
@@ -41598,6 +41642,7 @@
     {
       "title": "Network Information API",
       "shortname": "netinfo",
+      "date": "11 May 2020",
       "url": "https://wicg.github.io/netinfo/",
       "nightly": {
         "url": "https://wicg.github.io/netinfo/",
@@ -41605,12 +41650,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://wicg.github.io/netinfo/",
-        "repository": "https://github.com/WICG/netinfo",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://wicg.github.io/netinfo/",
       "organization": "W3C",
       "groups": [
         {
@@ -41619,10 +41659,10 @@
         }
       ],
       "report": {
-        "error": "TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded\n    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -41631,7 +41671,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/v1/",
+          "https://www.w3.org/TR/netinfo/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -41642,6 +41685,22 @@
             }
           ],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#navigator",
+            "https://html.spec.whatwg.org/#workernavigator",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#workerglobalscope",
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#networking-task-source",
+            "https://html.spec.whatwg.org/#queue-a-task"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -43158,6 +43217,11 @@
               "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
             },
             {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
+            },
+            {
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
@@ -43426,6 +43490,11 @@
               "crawled": "https://w3c.github.io/webauthn/"
             },
             {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/webnn/",
               "title": "Web Neural Network API",
               "crawled": "https://webmachinelearning.github.io/webnn/"
@@ -43608,7 +43677,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "12 December 2021",
+      "date": "22 December 2021",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -44058,6 +44127,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resource-hints/",
+              "title": "Resource Hints",
+              "crawled": "https://w3c.github.io/resource-hints/"
             }
           ],
           "informative": [
@@ -44069,7 +44143,9 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://www.w3.org/TR/resource-hints/#dfn-prefetch"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-link-element",
@@ -44087,8 +44163,7 @@
             "https://html.spec.whatwg.org/#process-the-linked-resource",
             "https://html.spec.whatwg.org/#attr-link-as",
             "https://html.spec.whatwg.org/#charset",
-            "https://mimesniff.spec.whatwg.org/#parsable-mime-type",
-            "https://www.w3.org/TR/resource-hints/#dfn-prefetch"
+            "https://mimesniff.spec.whatwg.org/#parsable-mime-type"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45047,6 +45122,11 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://www.w3.org/TR/resource-hints/",
+              "title": "Resource Hints",
+              "crawled": "https://w3c.github.io/resource-hints/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -45712,6 +45792,7 @@
     {
       "title": "Resource Hints",
       "shortname": "resource-hints",
+      "date": "05 October 2020",
       "url": "https://www.w3.org/TR/resource-hints/",
       "release": {
         "url": "https://www.w3.org/TR/resource-hints/",
@@ -45723,12 +45804,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/resource-hints/",
-        "repository": "https://github.com/w3c/resource-hints",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/resource-hints/",
       "organization": "W3C",
       "groups": [
         {
@@ -45737,8 +45813,7 @@
         }
       ],
       "report": {
-        "error": "TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded\n    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -45749,8 +45824,29 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
+        "missingLinkRef": [
+          "https://url.spec.whatwg.org/",
+          "https://fetch.spec.whatwg.org/",
+          "https://w3c.github.io/page-visibility/",
+          "https://w3c.github.io/webappsec/specs/CSP2/",
+          "https://w3c.github.io/webappsec/specs/content-security-policy/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/html5/",
+            "ref": {
+              "name": "HTML",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/webappsec-mixed-content/",
+            "ref": {
+              "name": "MIXED-CONTENT",
+              "url": "https://www.w3.org/TR/mixed-content/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -45770,6 +45866,24 @@
             }
           ],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#resolve-a-url",
+            "https://html.spec.whatwg.org/#url",
+            "https://html.spec.whatwg.org/#resulting-absolute-url",
+            "https://html.spec.whatwg.org/#cors-settings-attributes",
+            "https://html.spec.whatwg.org/#origin-2",
+            "https://html.spec.whatwg.org/#delay-the-load-event",
+            "https://w3c.github.io/webappsec-mixed-content/#category-optionally-blockable"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html5/"
+          ],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -49604,6 +49718,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/beacon/",
+              "title": "Beacon",
+              "crawled": "https://w3c.github.io/beacon/"
+            },
             {
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
@@ -53853,6 +53972,11 @@
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
             },
             {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
+            },
+            {
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
@@ -54833,6 +54957,11 @@
               "crawled": "https://w3c.github.io/mst-content-hint/"
             },
             {
+              "url": "https://wicg.github.io/netinfo/",
+              "title": "Network Information API",
+              "crawled": "https://wicg.github.io/netinfo/"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -55068,6 +55197,11 @@
               "crawled": "https://w3c.github.io/web-locks/"
             },
             {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/webnn/",
               "title": "Web Neural Network API",
               "crawled": "https://webmachinelearning.github.io/webnn/"
@@ -55241,7 +55375,7 @@
     {
       "title": "Web Locks API",
       "shortname": "web-locks",
-      "date": "14 December 2021",
+      "date": "22 December 2021",
       "url": "https://w3c.github.io/web-locks/",
       "nightly": {
         "url": "https://w3c.github.io/web-locks/",
@@ -55321,6 +55455,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
+      "date": "26 October 2021",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
@@ -55332,12 +55467,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://webaudio.github.io/web-midi-api/",
-        "repository": "https://github.com/WebAudio/web-midi-api",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://webaudio.github.io/web-midi-api/",
       "organization": "W3C",
       "groups": [
         {
@@ -55346,12 +55476,14 @@
         }
       ],
       "report": {
-        "error": "TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded\n    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [],
+        "unknownIdlNames": [
+          "Uint8Array"
+        ],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -55369,6 +55501,20 @@
               "crawled": "https://w3c.github.io/permissions/"
             }
           ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#audio",
+            "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#event-handlers"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -62143,7 +62289,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "21 December 2021",
+      "date": "22 December 2021",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62258,7 +62404,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "21 December 2021",
+      "date": "22 December 2021",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
