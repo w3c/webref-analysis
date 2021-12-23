@@ -3027,6 +3027,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://immersive-web.github.io/hit-test/#hit-test`](https://immersive-web.github.io/hit-test/#hit-test)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/):
      * [`https://immersive-web.github.io/webxr/#exclusive-access`](https://immersive-web.github.io/webxr/#exclusive-access)
+     * [`https://immersive-web.github.io/webxr/#immersive-xr-device`](https://immersive-web.github.io/webxr/#immersive-xr-device)
      * [`https://immersive-web.github.io/webxr/#immersive-session`](https://immersive-web.github.io/webxr/#immersive-session)
      * [`https://immersive-web.github.io/webxr/#xr-compositor`](https://immersive-web.github.io/webxr/#xr-compositor)
      * [`https://immersive-web.github.io/webxr/#xr-device`](https://immersive-web.github.io/webxr/#xr-device)
@@ -3143,7 +3144,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 839 problematic external links found in 196 specifications
+=> 840 problematic external links found in 196 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -8990,8 +8991,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-values-4/#vh`](https://drafts.csswg.org/css-values-4/#vh)
      * [`https://drafts.csswg.org/selectors-3/#sel-before`](https://drafts.csswg.org/selectors-3/#sel-before)
      * [`https://drafts.csswg.org/selectors-3/#sel-after`](https://drafts.csswg.org/selectors-3/#sel-after)
-- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/):
-     * [`https://html.spec.whatwg.org/#event-select`](https://html.spec.whatwg.org/#event-select)
 - [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/):
      * [`https://www.w3.org/TR/webxr/#feature-policy`](https://www.w3.org/TR/webxr/#feature-policy)
      * [`https://www.w3.org/TR/webxr/#xr-device-list-of-enabled-features`](https://www.w3.org/TR/webxr/#xr-device-list-of-enabled-features)
@@ -9085,7 +9084,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4759 problematic external links found in 296 specifications
+=> 4758 problematic external links found in 295 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

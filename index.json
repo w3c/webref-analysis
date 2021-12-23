@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-23T06:43:18.998Z",
+  "date": "2021-12-23T12:48:37.823Z",
   "stats": {
     "crawled": 456,
     "errors": 0,
@@ -22388,7 +22388,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "15 December 2021",
+      "date": "23 December 2021",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -34526,11 +34526,6 @@
               "url": "https://www.w3.org/TR/webvtt1/",
               "title": "WebVTT: The Web Video Text Tracks Format",
               "crawled": "https://w3c.github.io/webvtt/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webxr-ar-module-1/",
-              "title": "WebXR Augmented Reality Module - Level 1",
-              "crawled": "https://immersive-web.github.io/webxr-ar-module/"
             },
             {
               "url": "https://www.w3.org/TR/webxr/",
@@ -55272,6 +55267,11 @@
               "crawled": "https://w3c.github.io/webtransport/"
             },
             {
+              "url": "https://www.w3.org/TR/webxr-ar-module-1/",
+              "title": "WebXR Augmented Reality Module - Level 1",
+              "crawled": "https://immersive-web.github.io/webxr-ar-module/"
+            },
+            {
               "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
               "title": "WebXR Depth Sensing Module",
               "crawled": "https://immersive-web.github.io/depth-sensing/"
@@ -63396,7 +63396,7 @@
     {
       "title": "WebXR Augmented Reality Module - Level 1",
       "shortname": "webxr-ar-module-1",
-      "date": "30 September 2021",
+      "date": "23 December 2021",
       "url": "https://www.w3.org/TR/webxr-ar-module-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-ar-module-1/",
@@ -63465,6 +63465,7 @@
         "xrefs": {
           "notExported": [
             "https://immersive-web.github.io/webxr/#exclusive-access",
+            "https://immersive-web.github.io/webxr/#immersive-xr-device",
             "https://immersive-web.github.io/webxr/#immersive-session",
             "https://immersive-web.github.io/webxr/#xr-compositor",
             "https://immersive-web.github.io/webxr/#xr-device",
@@ -63477,9 +63478,7 @@
             "https://immersive-web.github.io/webxr/#feature-descriptor"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#event-select"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []

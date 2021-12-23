@@ -96,7 +96,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 15 December 2021
+- Crawled version: 23 December 2021
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -11405,7 +11405,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxr-ar-module-1/](https://www.w3.org/TR/webxr-ar-module-1/)
 - Crawled URL: [https://immersive-web.github.io/webxr-ar-module/](https://immersive-web.github.io/webxr-ar-module/)
-- Crawled version: 30 September 2021
+- Crawled version: 23 December 2021
 - Editor's Draft: [https://immersive-web.github.io/webxr-ar-module/](https://immersive-web.github.io/webxr-ar-module/)
 - Latest published version: [https://www.w3.org/TR/webxr-ar-module-1/](https://www.w3.org/TR/webxr-ar-module-1/)
 - Shortname: webxr-ar-module-1
@@ -11414,6 +11414,7 @@ No informative reference to this spec from other specs.
 
 - External links to private terms:
      * [`https://immersive-web.github.io/webxr/#exclusive-access`](https://immersive-web.github.io/webxr/#exclusive-access)
+     * [`https://immersive-web.github.io/webxr/#immersive-xr-device`](https://immersive-web.github.io/webxr/#immersive-xr-device)
      * [`https://immersive-web.github.io/webxr/#immersive-session`](https://immersive-web.github.io/webxr/#immersive-session)
      * [`https://immersive-web.github.io/webxr/#xr-compositor`](https://immersive-web.github.io/webxr/#xr-compositor)
      * [`https://immersive-web.github.io/webxr/#xr-device`](https://immersive-web.github.io/webxr/#xr-device)
@@ -11424,8 +11425,6 @@ No informative reference to this spec from other specs.
      * [`https://immersive-web.github.io/webxr/#view-eye`](https://immersive-web.github.io/webxr/#view-eye)
      * [`https://immersive-web.github.io/webxr/#secondary-view-secondary-views`](https://immersive-web.github.io/webxr/#secondary-view-secondary-views)
      * [`https://immersive-web.github.io/webxr/#feature-descriptor`](https://immersive-web.github.io/webxr/#feature-descriptor)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#event-select`](https://html.spec.whatwg.org/#event-select)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -22836,7 +22835,6 @@ Normative references to this spec from:
 - [WebTransport](https://w3c.github.io/webtransport/)
 - [WebUSB API](https://wicg.github.io/webusb/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
-- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
@@ -23631,6 +23629,7 @@ Normative references to this spec from:
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 - [WebTransport](https://w3c.github.io/webtransport/)
+- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
 - [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
