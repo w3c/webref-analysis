@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-24T06:45:36.347Z",
+  "date": "2021-12-24T12:47:37.269Z",
   "stats": {
     "crawled": 456,
-    "errors": 2,
+    "errors": 0,
     "studied": 456
   },
   "results": [
@@ -796,7 +796,6 @@
             "https://html.spec.whatwg.org/#floating-point-numbers",
             "https://html.spec.whatwg.org/#space-separated-tokens",
             "https://html.spec.whatwg.org/#the-id-attribute",
-            "https://www.w3.org/TR/fingerprinting-guidance/#active-0",
             "https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties"
           ],
           "evolvingLinks": [],
@@ -1880,6 +1879,11 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
+            },
+            {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             }
           ]
         },
@@ -24397,6 +24401,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -24859,82 +24868,6 @@
       }
     },
     {
-      "title": "Fingerprinting Guidance for Web Specification Authors (Draft)",
-      "shortname": "fingerprinting-guidance",
-      "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-      "release": {
-        "url": "https://www.w3.org/TR/fingerprinting-guidance/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/fingerprinting-guidance/",
-        "repository": "https://github.com/w3c/fingerprinting-guidance",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": {
-        "url": "https://w3c.github.io/fingerprinting-guidance/",
-        "repository": "https://github.com/w3c/fingerprinting-guidance",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Privacy Interest Group",
-          "url": "https://www.w3.org/Privacy/"
-        }
-      ],
-      "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 333)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/input-events-2/",
-              "title": "Input Events Level 2",
-              "crawled": "https://w3c.github.io/input-events/"
-            },
-            {
-              "url": "https://wicg.github.io/responsive-image-client-hints/",
-              "title": "Responsive Image Client Hints",
-              "crawled": "https://wicg.github.io/responsive-image-client-hints/"
-            },
-            {
-              "url": "https://webbluetoothcg.github.io/web-bluetooth/",
-              "title": "Web Bluetooth",
-              "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/gamepad/",
-              "title": "Gamepad",
-              "crawled": "https://w3c.github.io/gamepad/"
-            },
-            {
-              "url": "https://wicg.github.io/ua-client-hints/",
-              "title": "User-Agent Client Hints",
-              "crawled": "https://wicg.github.io/ua-client-hints/"
-            }
-          ]
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Font Metrics API Level 1",
       "shortname": "font-metrics-api-1",
       "date": "12 May 2021",
@@ -25363,6 +25296,11 @@
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
+            },
+            {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             }
           ]
         },
@@ -26781,6 +26719,7 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
+      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26792,12 +26731,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/html-media-capture/",
-        "repository": "https://github.com/w3c/html-media-capture",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/html-media-capture/",
       "organization": "W3C",
       "groups": [
         {
@@ -26806,10 +26740,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)\n    at async Promise.all (index 345)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26823,6 +26757,19 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [
+            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
+          ],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html51/",
+            "https://www.w3.org/TR/custom-elements/"
+          ],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -33825,6 +33772,11 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -34692,6 +34644,11 @@
               "crawled": "https://mimesniff.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
+            },
+            {
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
@@ -35438,6 +35395,11 @@
               "crawled": "https://infra.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
+            },
+            {
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
@@ -35989,6 +35951,11 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
+            },
+            {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
               "url": "https://wicg.github.io/ua-client-hints/",
@@ -37752,8 +37719,7 @@
             "https://html.spec.whatwg.org/#concept-dnd-ro",
             "https://html.spec.whatwg.org/#the-drag-data-item-kind",
             "https://html.spec.whatwg.org/#the-drag-data-item-type-string",
-            "https://html.spec.whatwg.org/#drag-data-store-item-list",
-            "https://www.w3.org/TR/fingerprinting-guidance/#dfn-browser-fingerprinting"
+            "https://html.spec.whatwg.org/#drag-data-store-item-list"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -39485,6 +39451,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -39575,6 +39546,11 @@
               "url": "https://www.w3.org/TR/mediacapture-fromelement/",
               "title": "Media Capture from DOM Elements",
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
               "url": "https://www.w3.org/TR/permissions/",
@@ -40836,7 +40812,8 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/mediacapture-streams/#stream-inactive"
+            "https://www.w3.org/TR/mediacapture-streams/#stream-inactive",
+            "https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting"
           ],
           "notDfn": [
             "https://heycam.github.io/webidl/#es-DOMException-constructor-object"
@@ -40844,9 +40821,7 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#secure-context",
-            "https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting",
-            "https://www.w3.org/TR/fingerprinting-guidance/#dfn-fingerprinting-surface"
+            "https://html.spec.whatwg.org/#secure-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41053,6 +41028,89 @@
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Mitigating Browser Fingerprinting in Web Specifications",
+      "shortname": "fingerprinting-guidance",
+      "date": "28 September 2021",
+      "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+      "release": {
+        "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/fingerprinting-guidance/",
+        "repository": "https://github.com/w3c/fingerprinting-guidance",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/fingerprinting-guidance/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Privacy Interest Group",
+          "url": "https://www.w3.org/Privacy/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
+            },
+            {
+              "url": "https://wicg.github.io/responsive-image-client-hints/",
+              "title": "Responsive Image Client Hints",
+              "crawled": "https://wicg.github.io/responsive-image-client-hints/"
+            },
+            {
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/",
+              "title": "Web Bluetooth",
+              "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/gamepad/",
+              "title": "Gamepad",
+              "crawled": "https://w3c.github.io/gamepad/"
+            },
+            {
+              "url": "https://wicg.github.io/ua-client-hints/",
+              "title": "User-Agent Client Hints",
+              "crawled": "https://wicg.github.io/ua-client-hints/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#user-tracking"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html52/"
+          ],
           "datedUrls": []
         },
         "ok": false
@@ -44698,7 +44756,13 @@
               "crawled": "https://w3c.github.io/sensors/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -45974,7 +46038,9 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-picture-element",
@@ -45983,8 +46049,7 @@
             "https://html.spec.whatwg.org/#density-corrected-intrinsic-width-and-height",
             "https://html.spec.whatwg.org/#source-set",
             "https://html.spec.whatwg.org/#source-size-2",
-            "https://html.spec.whatwg.org/#window",
-            "https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting"
+            "https://html.spec.whatwg.org/#window"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -46155,6 +46220,11 @@
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
+            },
+            {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
               "url": "https://www.w3.org/TR/payment-request/",
@@ -51356,7 +51426,13 @@
         ],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/",
+              "title": "Mitigating Browser Fingerprinting in Web Specifications",
+              "crawled": "https://w3c.github.io/fingerprinting-guidance/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -52739,12 +52815,14 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
+          "notExported": [
             "https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting",
-            "https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases",
-            "https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting",
+            "https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting"
+          ],
+          "notDfn": [
+            "https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases"
+          ],
+          "brokenLinks": [
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#windoworworkerglobalscope",
@@ -54266,8 +54344,7 @@
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
-            "https://html.spec.whatwg.org/#navigator",
-            "https://w3c.github.io/fingerprinting-guidance/#dfn-fingerprinting-surface"
+            "https://html.spec.whatwg.org/#navigator"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54723,6 +54800,11 @@
               "crawled": "https://w3c.github.io/hr-time/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -55166,6 +55248,11 @@
               "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
               "title": "WebXR DOM Overlays Module",
               "crawled": "https://immersive-web.github.io/dom-overlays/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
+              "title": "WebXR Gamepads Module - Level 1",
+              "crawled": "https://immersive-web.github.io/webxr-gamepads-module/"
             },
             {
               "url": "https://www.w3.org/TR/webxr-hand-input-1/",
@@ -63450,7 +63537,7 @@
     {
       "title": "WebXR Device API",
       "shortname": "webxr",
-      "date": "26 October 2021",
+      "date": "24 December 2021",
       "url": "https://www.w3.org/TR/webxr/",
       "release": {
         "url": "https://www.w3.org/TR/webxr/",
@@ -63743,7 +63830,7 @@
     {
       "title": "WebXR Gamepads Module - Level 1",
       "shortname": "webxr-gamepads-module-1",
-      "date": "30 September 2021",
+      "date": "24 December 2021",
       "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
@@ -63777,15 +63864,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/gamepad/",
-            "ref": {
-              "name": "GAMEPAD",
-              "url": "https://www.w3.org/TR/gamepad/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -63805,7 +63884,8 @@
             "https://immersive-web.github.io/webxr/#list-of-active-xr-input-sources",
             "https://immersive-web.github.io/webxr/#primary-action",
             "https://immersive-web.github.io/webxr/#primary-squeeze-action",
-            "https://immersive-web.github.io/webxr/#sensitive-information"
+            "https://immersive-web.github.io/webxr/#sensitive-information",
+            "https://www.w3.org/TR/gamepad/#dfn-xr-standard"
           ],
           "notDfn": [],
           "brokenLinks": [],
@@ -63819,7 +63899,7 @@
     {
       "title": "WebXR Hand Input Module - Level 1",
       "shortname": "webxr-hand-input-1",
-      "date": "4 November 2021",
+      "date": "24 December 2021",
       "url": "https://www.w3.org/TR/webxr-hand-input-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-hand-input-1/",

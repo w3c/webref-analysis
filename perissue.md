@@ -5,74 +5,6 @@
 456 specifications were crawled in this report.
 
 
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Fingerprinting Guidance for Web Specification Authors (Draft)]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 333)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-- [HTML Media Capture]([object Object]): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:515:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:51:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:372:22)
-    at async Promise.all (index 345)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:380:21)`
-
-=> 2 specifications found
-
-
 ## Specifications without normative dependencies
 
 - [[No title found for https://drafts.csswg.org/css-animations/]](https://drafts.csswg.org/css-animations/)
@@ -92,6 +24,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [Intl.DurationFormat](https://tc39.es/proposal-intl-duration-format/)
 - [Intl.Segmenter Proposal](https://tc39.es/proposal-intl-segmenter/)
 - [JSON modules](https://tc39.es/proposal-json-modules/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Method: Basic Card](https://w3c.github.io/payment-method-basic-card/)
 - [Private Fields in `in`](https://tc39.es/proposal-private-fields-in-in/)
 - [Private Methods and Accessors Proposal](https://tc39.es/proposal-private-methods/)
@@ -156,7 +89,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 80 specifications found
+=> 81 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -2160,10 +2093,9 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/) but related reference "REQUESTIDLECALLBACK" uses URL [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
-- [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but related reference "GAMEPAD" uses URL [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 339 inconsistent references for links found in 179 specifications
+=> 338 inconsistent references for links found in 178 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2733,6 +2665,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/mediacapture-streams/#dfn-required-constraints`](https://www.w3.org/TR/mediacapture-streams/#dfn-required-constraints)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/):
      * [`https://www.w3.org/TR/mediacapture-streams/#stream-inactive`](https://www.w3.org/TR/mediacapture-streams/#stream-inactive)
+     * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/):
@@ -2834,6 +2767,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://fetch.spec.whatwg.org/#concept-tao-check`](https://fetch.spec.whatwg.org/#concept-tao-check)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/):
+     * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/):
      * [`https://drafts.fxtf.org/filter-effects/#operating-coordinate-space`](https://drafts.fxtf.org/filter-effects/#operating-coordinate-space)
      * [`https://w3c.github.io/selection-api/#dfn-direction`](https://w3c.github.io/selection-api/#dfn-direction)
@@ -2908,6 +2843,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline`](https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/):
+     * [`https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting)
+     * [`https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting)
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
      * [`https://www.w3.org/TR/cssom-view-1/#pinch-zoom`](https://www.w3.org/TR/cssom-view-1/#pinch-zoom)
@@ -3123,6 +3061,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://immersive-web.github.io/webxr/#primary-action`](https://immersive-web.github.io/webxr/#primary-action)
      * [`https://immersive-web.github.io/webxr/#primary-squeeze-action`](https://immersive-web.github.io/webxr/#primary-squeeze-action)
      * [`https://immersive-web.github.io/webxr/#sensitive-information`](https://immersive-web.github.io/webxr/#sensitive-information)
+     * [`https://www.w3.org/TR/gamepad/#dfn-xr-standard`](https://www.w3.org/TR/gamepad/#dfn-xr-standard)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/):
      * [`https://immersive-web.github.io/webxr/#xr-device`](https://immersive-web.github.io/webxr/#xr-device)
      * [`https://immersive-web.github.io/webxr/#feature-descriptor`](https://immersive-web.github.io/webxr/#feature-descriptor)
@@ -3194,7 +3133,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 830 problematic external links found in 193 specifications
+=> 835 problematic external links found in 195 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3499,6 +3438,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-label`](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://drafts.csswg.org/css2/#block-boxes%E2%91%A0`](https://drafts.csswg.org/css2/#block-boxes%E2%91%A0)
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
@@ -4022,6 +3963,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/uievents-key/#key-AltGraph`](https://www.w3.org/TR/uievents-key/#key-AltGraph)
 - [User Timing Level 3](https://w3c.github.io/user-timing/):
      * [`https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp`](https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/):
+     * [`https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases`](https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/):
      * [`https://w3c.github.io/aria/#none`](https://w3c.github.io/aria/#none)
      * [`https://w3c.github.io/aria/#presentation`](https://w3c.github.io/aria/#presentation)
@@ -4071,7 +4014,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 814 problematic external links found in 57 specifications
+=> 816 problematic external links found in 59 specifications
 
 
 ## Broken external links
@@ -4115,7 +4058,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#floating-point-numbers`](https://html.spec.whatwg.org/#floating-point-numbers)
      * [`https://html.spec.whatwg.org/#space-separated-tokens`](https://html.spec.whatwg.org/#space-separated-tokens)
      * [`https://html.spec.whatwg.org/#the-id-attribute`](https://html.spec.whatwg.org/#the-id-attribute)
-     * [`https://www.w3.org/TR/fingerprinting-guidance/#active-0`](https://www.w3.org/TR/fingerprinting-guidance/#active-0)
      * [`https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties`](https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties)
 - [App History API](https://wicg.github.io/app-history/):
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -6396,7 +6338,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-drag-data-item-kind`](https://html.spec.whatwg.org/#the-drag-data-item-kind)
      * [`https://html.spec.whatwg.org/#the-drag-data-item-type-string`](https://html.spec.whatwg.org/#the-drag-data-item-type-string)
      * [`https://html.spec.whatwg.org/#drag-data-store-item-list`](https://html.spec.whatwg.org/#drag-data-store-item-list)
-     * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-browser-fingerprinting`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-browser-fingerprinting)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/):
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#dom-document-2`](https://html.spec.whatwg.org/#dom-document-2)
@@ -6891,11 +6832,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
-     * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting)
-     * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-fingerprinting-surface`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-fingerprinting-surface)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#attr-script-type`](https://html.spec.whatwg.org/#attr-script-type)
      * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/):
+     * [`https://html.spec.whatwg.org/#user-tracking`](https://html.spec.whatwg.org/#user-tracking)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/):
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
@@ -7687,7 +7628,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#source-set`](https://html.spec.whatwg.org/#source-set)
      * [`https://html.spec.whatwg.org/#source-size-2`](https://html.spec.whatwg.org/#source-size-2)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-passive-fingerprinting)
 - [Save Data API](https://wicg.github.io/savedata/):
      * [`https://wicg.github.io/netinfo/#network-information`](https://wicg.github.io/netinfo/#network-information)
      * [`https://html.spec.whatwg.org/#networking-task-source`](https://html.spec.whatwg.org/#networking-task-source)
@@ -8331,9 +8271,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://www.w3.org/TR/navigation-timing/#performancetiming`](https://www.w3.org/TR/navigation-timing/#performancetiming)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/):
-     * [`https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting)
-     * [`https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases`](https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases)
-     * [`https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
@@ -8526,7 +8463,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
-     * [`https://w3c.github.io/fingerprinting-guidance/#dfn-fingerprinting-surface`](https://w3c.github.io/fingerprinting-guidance/#dfn-fingerprinting-surface)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/):
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -9194,7 +9130,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4823 problematic external links found in 294 specifications
+=> 4815 problematic external links found in 295 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9245,6 +9181,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
      * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
      * [`https://www.w3.org/TR/webmessaging/`](https://www.w3.org/TR/webmessaging/)
@@ -9254,6 +9193,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/):
+     * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/):
@@ -9310,7 +9251,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 56 problematic external links found in 48 specifications
+=> 59 problematic external links found in 50 specifications
 
 
 ## External links that use a dated URL
