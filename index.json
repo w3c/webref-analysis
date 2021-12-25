@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-25T12:46:50.086Z",
+  "date": "2021-12-25T18:42:05.765Z",
   "stats": {
     "crawled": 456,
     "errors": 0,
@@ -40060,7 +40060,7 @@
     {
       "title": "Media Queries Level 4",
       "shortname": "mediaqueries-4",
-      "date": "1 December 2021",
+      "date": "25 December 2021",
       "url": "https://www.w3.org/TR/mediaqueries-4/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-4/",
