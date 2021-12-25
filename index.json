@@ -2,194 +2,13 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-25T06:42:52.832Z",
+  "date": "2021-12-25T12:46:50.086Z",
   "stats": {
     "crawled": 456,
     "errors": 0,
     "studied": 456
   },
   "results": [
-    {
-      "title": "[No title found for https://drafts.csswg.org/css-animations/]",
-      "shortname": "css-animations-1",
-      "date": "24 December 2021",
-      "url": "https://www.w3.org/TR/css-animations-1/",
-      "release": {
-        "url": "https://www.w3.org/TR/css-animations-1/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://drafts.csswg.org/css-animations/",
-        "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "css-animations-1/Overview.bs",
-        "filename": "Overview.html"
-      },
-      "crawled": "https://drafts.csswg.org/css-animations/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Cascading Style Sheets (CSS) Working Group",
-          "url": "https://www.w3.org/Style/CSS/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://compat.spec.whatwg.org/",
-              "title": "Compatibility Standard",
-              "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-6/",
-              "title": "CSS Cascading and Inheritance Level 6",
-              "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-3/",
-              "title": "CSS Conditional Rules Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-2/",
-              "title": "CSS Containment Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-variables-1/",
-              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-variables/"
-            },
-            {
-              "url": "https://www.w3.org/TR/cssom-1/",
-              "title": "CSS Object Model (CSSOM)",
-              "crawled": "https://drafts.csswg.org/cssom/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-scoping-1/",
-              "title": "CSS Scoping Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scoping/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
-              "crawled": "https://drafts.csswg.org/css-transitions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-typed-om-1/",
-              "title": "CSS Typed OM Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-lists-3/",
-              "title": "CSS Lists and Counters Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-lists-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-syntax-3/",
-              "title": "CSS Syntax Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-syntax/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-text-decor-3/",
-              "title": "CSS Text Decoration Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-text-decor-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-text-decor-4/",
-              "title": "CSS Text Decoration Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/filter-effects-1/",
-              "title": "Filter Effects Module Level 1",
-              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/SVG2/",
-              "title": "Scalable Vector Graphics (SVG) 2",
-              "crawled": "https://svgwg.org/svg2-draft/"
-            },
-            {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
-            }
-          ]
-        },
-        "ok": false
-      }
-    },
     {
       "title": "A Well-Known URL for Changing Passwords",
       "shortname": "change-password-url",
@@ -2430,16 +2249,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-name",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-duration",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-direction",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-delay",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation",
             "https://drafts.csswg.org/css-transitions/#animtype-color",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -3530,7 +3339,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "24 December 2021",
+      "date": "25 December 2021",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4241,6 +4050,11 @@
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -5002,6 +4816,227 @@
       }
     },
     {
+      "title": "CSS Animations Level 1",
+      "shortname": "css-animations-1",
+      "date": "15 July 2021",
+      "url": "https://www.w3.org/TR/css-animations-1/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-animations-1/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-animations/",
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-animations-1/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-animations/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [
+          "CSSOMString"
+        ],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://www.w3.org/TR/css-values-3/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-6/",
+              "title": "CSS Cascading and Inheritance Level 6",
+              "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-3/",
+              "title": "CSS Conditional Rules Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-variables-1/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scoping-1/",
+              "title": "CSS Scoping Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scoping/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transitions-1/",
+              "title": "CSS Transitions",
+              "crawled": "https://drafts.csswg.org/css-transitions/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-lists-3/",
+              "title": "CSS Lists and Counters Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-syntax-3/",
+              "title": "CSS Syntax Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-3/",
+              "title": "CSS Text Decoration Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-decor-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-4/",
+              "title": "CSS Text Decoration Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/SVG2/",
+              "title": "Scalable Vector Graphics (SVG) 2",
+              "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://drafts.csswg.org/css-easing-1/#input-progress-value",
+            "https://drafts.csswg.org/css-easing-1/#step-easing-function",
+            "https://drafts.csswg.org/css-easing-1/#step-position",
+            "https://drafts.csswg.org/css-easing-1/#output-progress-value",
+            "https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#event-handlers",
+            "https://html.spec.whatwg.org/#event-handler-event-type",
+            "https://html.spec.whatwg.org/#html-elements",
+            "https://html.spec.whatwg.org/#event-handler-content-attributes",
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#globaleventhandlers",
+            "https://html.spec.whatwg.org/#eventhandler"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
       "date": "15 July 2021",
@@ -5098,30 +5133,6 @@
             "https://drafts.csswg.org/web-animations-1/#sampling",
             "https://drafts.csswg.org/web-animations-1/#pending-play-state",
             "https://drafts.csswg.org/web-animations-1/#active-phase",
-            "https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-duration",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-delay",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-name",
-            "https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-direction",
-            "https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-running",
-            "https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-paused",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation",
-            "https://drafts.csswg.org/css-animations-1/#typedef-single-animation-iteration-count",
-            "https://drafts.csswg.org/css-animations-1/#typedef-single-animation-direction",
-            "https://drafts.csswg.org/css-animations-1/#typedef-single-animation-fill-mode",
-            "https://drafts.csswg.org/css-animations-1/#typedef-single-animation-play-state",
-            "https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime",
-            "https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationstart",
-            "https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationend",
-            "https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration",
-            "https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationcancel",
-            "https://drafts.csswg.org/css-animations-1/#animationevent",
-            "https://www.w3.org/TR/css-animations-1/#animation-name",
             "https://drafts.csswg.org/css-values-4/#css-identifier"
           ],
           "evolvingLinks": [],
@@ -5464,6 +5475,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-sizing-3/",
               "title": "CSS Box Sizing Module Level 3",
               "crawled": "https://drafts.csswg.org/css-sizing-3/"
@@ -5786,7 +5802,7 @@
     {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
-      "date": "16 December 2021",
+      "date": "24 December 2021",
       "url": "https://www.w3.org/TR/css-align-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-align-3/",
@@ -6888,6 +6904,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display/"
@@ -7510,8 +7531,7 @@
             "https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints",
             "https://html.spec.whatwg.org/#audio",
             "https://html.spec.whatwg.org/#the-s-element",
-            "https://html.spec.whatwg.org/#the-slot-element",
-            "https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"
+            "https://html.spec.whatwg.org/#the-slot-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8030,8 +8050,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-mark-element",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation"
+            "https://html.spec.whatwg.org/#the-mark-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8607,8 +8626,7 @@
             "https://html.spec.whatwg.org/#update-the-rendering",
             "https://html.spec.whatwg.org/#dom-window-focus",
             "https://html.spec.whatwg.org/#the-iframe-element",
-            "https://html.spec.whatwg.org/#dom-innertext",
-            "https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration"
+            "https://html.spec.whatwg.org/#dom-innertext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8679,9 +8697,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://drafts.csswg.org/web-animations-1/#effect-value"
           ],
-          "notDfn": [
-            "https://www.w3.org/TR/css-syntax-3/#identifier"
-          ],
+          "notDfn": [],
           "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9015,12 +9031,8 @@
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag"
           ],
-          "notDfn": [
-            "https://www.w3.org/TR/css-syntax-3/#identifier"
-          ],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"
-          ],
+          "notDfn": [],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -9197,6 +9209,11 @@
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -9632,6 +9649,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
               "title": "CSS Animations Level 2",
@@ -11676,7 +11698,6 @@
           ],
           "notDfn": [
             "https://www.w3.org/TR/css-flexbox-1/#order-accessibility",
-            "https://www.w3.org/TR/css-syntax-3/#name-code-point",
             "https://www.w3.org/TR/css3-break/#btw-blocks",
             "https://www.w3.org/TR/css3-break/#end-block"
           ],
@@ -13482,6 +13503,11 @@
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
@@ -13770,11 +13796,6 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#browsing-context-container",
             "https://html.spec.whatwg.org/#being-rendered",
-            "https://drafts.csswg.org/css-animations-1/#csskeyframesrule",
-            "https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-name",
-            "https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-cssrules",
-            "https://drafts.csswg.org/css-animations-1/#csskeyframerule",
-            "https://drafts.csswg.org/css-animations-1/#dom-csskeyframerule-keytext",
             "https://drafts.csswg.org/css-color-3/#alphavalue-def"
           ],
           "evolvingLinks": [],
@@ -14899,6 +14920,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-sizing-4/",
               "title": "CSS Box Sizing Module Level 4",
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
@@ -15003,12 +15029,8 @@
           "notExported": [
             "https://drafts.csswg.org/css-syntax-3/#input-stream"
           ],
-          "notDfn": [
-            "https://www.w3.org/TR/css-syntax-3/#name-code-point",
-            "https://www.w3.org/TR/css-syntax-3/#check-if-three-code-points-would-start-an-identifier"
-          ],
+          "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/css-syntax-3/#consume-a-name",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#concept-document-window"
           ],
@@ -15775,9 +15797,7 @@
             "https://html.spec.whatwg.org/#custom-element",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#the-slot-element",
-            "https://drafts.csswg.org/selectors-3/#x",
-            "https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-name"
+            "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -16314,6 +16334,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
@@ -16700,6 +16725,11 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -16952,11 +16982,7 @@
             "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#link-type-stylesheet",
-            "https://html.spec.whatwg.org/#attr-img-sizes",
-            "https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes",
-            "https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name",
-            "https://drafts.csswg.org/css-animations-1/#typedef-keyframe-selector",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function"
+            "https://html.spec.whatwg.org/#attr-img-sizes"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -18253,6 +18279,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
@@ -18312,8 +18343,7 @@
             "https://html.spec.whatwg.org/#document",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#globaleventhandlers",
-            "https://html.spec.whatwg.org/#eventhandler",
-            "https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime"
+            "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18511,11 +18541,9 @@
             "https://www.w3.org/TR/geometry-1/#dommatrixreadonly-stringification-behavior"
           ],
           "notDfn": [
-            "https://www.w3.org/TR/css-syntax-3/#identifier",
             "https://drafts.fxtf.org/compositing-2/#propdef-mix"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation",
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
@@ -18830,6 +18858,11 @@
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -19266,9 +19299,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-name",
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
@@ -19369,6 +19399,11 @@
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
               "title": "CSS Animation Worklet API",
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
@@ -19915,10 +19950,6 @@
           "brokenLinks": [
             "https://www.w3.org/TR/css-values-3/#css-identifier",
             "https://www.w3.org/TR/css-values-3/#acknowledgements",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-name",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count",
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
@@ -20036,6 +20067,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
@@ -21318,6 +21354,11 @@
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
               "title": "CSS Animation Worklet API",
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
@@ -33415,6 +33456,11 @@
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
               "title": "CSS Animation Worklet API",
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -48603,9 +48649,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation",
-            "https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-findrule",
-            "https://drafts.csswg.org/css-animations-1/#csskeyframerule",
             "https://html.spec.whatwg.org/#concept-document-windowconcept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
@@ -49349,9 +49392,7 @@
         },
         "xrefs": {
           "notExported": [],
-          "notDfn": [
-            "https://www.w3.org/TR/css-syntax-3/#identifier"
-          ],
+          "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#selectors",
@@ -53541,10 +53582,7 @@
             "https://html.spec.whatwg.org/#session-history-entry",
             "https://w3c.github.io/hr-time/#time-origin",
             "https://w3c.github.io/hr-time/#domhighrestimestamp",
-            "https://heycam.github.io/webidl/#dfn-present",
-            "https://drafts.csswg.org/css-animations/#events",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode",
-            "https://drafts.csswg.org/css-animations-1/#propdef-animation-name"
+            "https://heycam.github.io/webidl/#dfn-present"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54593,6 +54631,11 @@
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
               "title": "CSS Animation Worklet API",
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
