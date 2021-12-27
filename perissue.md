@@ -5,16 +5,6 @@
 456 specifications were crawled in this report.
 
 
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Payment Request API]([object Object]): `TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded
-    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111`
-
-=> 1 specification found
-
-
 ## Specifications without normative dependencies
 
 - [Accessible `Object.hasOwnProperty`](https://tc39.es/proposal-accessible-object-hasownproperty/)
@@ -194,9 +184,6 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `Int16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `Int32Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - `Int8Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `PaymentCurrencyAmount` used in [Payment Handler API](https://w3c.github.io/payment-handler/), [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
-- `PaymentDetailsModifier` used in [Payment Handler API](https://w3c.github.io/payment-handler/)
-- `PaymentMethodData` used in [Payment Handler API](https://w3c.github.io/payment-handler/)
 - `PostMessageOptions` used in [Portals](https://wicg.github.io/portals/)
 - `Uint16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebGPU](https://gpuweb.github.io/gpuweb/)
@@ -207,7 +194,7 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 24 WebIDL names found
+=> 21 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
@@ -2731,7 +2718,11 @@ Links in the body of a specification should be to the same document as that poin
 - [Paint Timing 1](https://w3c.github.io/paint-timing/):
      * [`https://www.w3.org/TR/cssom-view/#scrolling-area`](https://www.w3.org/TR/cssom-view/#scrolling-area)
      * [`https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry`](https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry)
+- [Payment Handler API](https://w3c.github.io/payment-handler/):
+     * [`https://www.w3.org/TR/payment-request/#dfn-payment-method`](https://www.w3.org/TR/payment-request/#dfn-payment-method)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/):
+     * [`https://w3c.github.io/payment-request/#dfn-payment-method`](https://w3c.github.io/payment-request/#dfn-payment-method)
+     * [`https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest`](https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest)
      * [`https://www.w3.org/TR/appmanifest/#dfn-manifest-url`](https://www.w3.org/TR/appmanifest/#dfn-manifest-url)
      * [`https://www.w3.org/TR/appmanifest/#dfn-processed-manifest`](https://www.w3.org/TR/appmanifest/#dfn-processed-manifest)
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/):
@@ -2816,6 +2807,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webauthn/#client-extension`](https://w3c.github.io/webauthn/#client-extension)
      * [`https://w3c.github.io/webauthn/#registration-extension`](https://w3c.github.io/webauthn/#registration-extension)
      * [`https://w3c.github.io/webauthn/#authentication-extension`](https://w3c.github.io/webauthn/#authentication-extension)
+     * [`https://w3c.github.io/payment-request/#dfn-payment-method`](https://w3c.github.io/payment-request/#dfn-payment-method)
+     * [`https://w3c.github.io/payment-request/#dfn-payment-permission`](https://w3c.github.io/payment-request/#dfn-payment-permission)
+     * [`https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made`](https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made)
+     * [`https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request`](https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request)
      * [`https://w3c.github.io/webdriver/#dfn-extension-command`](https://w3c.github.io/webdriver/#dfn-extension-command)
      * [`https://w3c.github.io/webdriver/#dfn-remote-end-steps`](https://w3c.github.io/webdriver/#dfn-remote-end-steps)
      * [`https://w3c.github.io/webdriver/#dfn-errors`](https://w3c.github.io/webdriver/#dfn-errors)
@@ -3152,7 +3147,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 835 problematic external links found in 196 specifications
+=> 842 problematic external links found in 197 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -6167,7 +6162,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-values/#vw`](https://drafts.csswg.org/css-values/#vw)
      * [`https://drafts.csswg.org/css-values/#funcdef-attr`](https://drafts.csswg.org/css-values/#funcdef-attr)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-cue-text`](https://w3c.github.io/webvtt/#webvtt-file-using-cue-text)
-     * [`https://w3c.github.io/payment-request/#dom-paymentrequest`](https://w3c.github.io/payment-request/#dom-paymentrequest)
      * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status)
      * [`https://www.w3.org/TR/css3-color/#css2-system`](https://www.w3.org/TR/css3-color/#css2-system)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/):
@@ -7055,27 +7049,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag`](https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag)
      * [`https://www.w3.org/TR/payment-request/#canmakepayment()-method`](https://www.w3.org/TR/payment-request/#canmakepayment()-method)
      * [`https://www.w3.org/TR/payment-request/#show()-method`](https://www.w3.org/TR/payment-request/#show()-method)
-     * [`https://www.w3.org/TR/payment-request/#dfn-payment-method`](https://www.w3.org/TR/payment-request/#dfn-payment-method)
-     * [`https://www.w3.org/TR/payment-request/#paymentmethoddata-dictionary`](https://www.w3.org/TR/payment-request/#paymentmethoddata-dictionary)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentrequest`](https://www.w3.org/TR/payment-request/#dom-paymentrequest)
-     * [`https://www.w3.org/TR/payment-request/#paymentcurrencyamount-dictionary`](https://www.w3.org/TR/payment-request/#paymentcurrencyamount-dictionary)
-     * [`https://www.w3.org/TR/payment-request/#paymentdetailsmodifier-dictionary`](https://www.w3.org/TR/payment-request/#paymentdetailsmodifier-dictionary)
-     * [`https://www.w3.org/TR/payment-request/#dfn-details`](https://www.w3.org/TR/payment-request/#dfn-details)
-     * [`https://www.w3.org/TR/payment-request/#id-attribute`](https://www.w3.org/TR/payment-request/#id-attribute)
-     * [`https://www.w3.org/TR/payment-request/#paymentdetailsinit-dictionary`](https://www.w3.org/TR/payment-request/#paymentdetailsinit-dictionary)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentmethoddata-supportedmethods`](https://www.w3.org/TR/payment-request/#dom-paymentmethoddata-supportedmethods)
-     * [`https://www.w3.org/TR/payment-request/#show-method`](https://www.w3.org/TR/payment-request/#show-method)
-     * [`https://www.w3.org/TR/payment-request/#dfn-json-serialize`](https://www.w3.org/TR/payment-request/#dfn-json-serialize)
-     * [`https://www.w3.org/TR/payment-request/#payment-method-changed-algorithm`](https://www.w3.org/TR/payment-request/#payment-method-changed-algorithm)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentmethodchangeevent`](https://www.w3.org/TR/payment-request/#dom-paymentmethodchangeevent)
-     * [`https://www.w3.org/TR/payment-request/#updatewith-method`](https://www.w3.org/TR/payment-request/#updatewith-method)
-     * [`https://www.w3.org/TR/payment-request/#user-accepts-the-payment-request-algorithm`](https://www.w3.org/TR/payment-request/#user-accepts-the-payment-request-algorithm)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentresponse`](https://www.w3.org/TR/payment-request/#dom-paymentresponse)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentresponse-methodname`](https://www.w3.org/TR/payment-request/#dom-paymentresponse-methodname)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentresponse-details`](https://www.w3.org/TR/payment-request/#dom-paymentresponse-details)
-     * [`https://www.w3.org/TR/payment-request/#paymentdetailsbase-dictionary`](https://www.w3.org/TR/payment-request/#paymentdetailsbase-dictionary)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentrequestupdateevent`](https://www.w3.org/TR/payment-request/#dom-paymentrequestupdateevent)
-     * [`https://www.w3.org/TR/payment-request/#paymentrequest-updated-algorithm`](https://www.w3.org/TR/payment-request/#paymentrequest-updated-algorithm)
      * [`https://html.spec.whatwg.org/#user-interaction-task-source`](https://html.spec.whatwg.org/#user-interaction-task-source)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
@@ -7099,11 +7072,7 @@ Links in the body of a specification should be to the same document as that poin
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/):
      * [`https://html.spec.whatwg.org/#case-sensitive`](https://html.spec.whatwg.org/#case-sensitive)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/):
-     * [`https://w3c.github.io/payment-request/#dfn-payment-method`](https://w3c.github.io/payment-request/#dfn-payment-method)
      * [`https://w3c.github.io/payment-request/#dfn-payment-apps`](https://w3c.github.io/payment-request/#dfn-payment-apps)
-     * [`https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest`](https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest)
-     * [`https://w3c.github.io/payment-request/#dom-paymentrequest`](https://w3c.github.io/payment-request/#dom-paymentrequest)
-     * [`https://w3c.github.io/payment-request/#dfn-serializedmethoddata`](https://w3c.github.io/payment-request/#dfn-serializedmethoddata)
      * [`https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers)
      * [`https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers)
      * [`https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers)
@@ -7115,6 +7084,28 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://infra.spec.whatwg.org/#parse-json-into-infra-values`](https://infra.spec.whatwg.org/#parse-json-into-infra-values)
      * [`https://fetch.spec.whatwg.org/#concept-get-reader`](https://fetch.spec.whatwg.org/#concept-get-reader)
      * [`https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream`](https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream)
+- [Payment Request API](https://w3c.github.io/payment-request/):
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+     * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
+     * [`https://html.spec.whatwg.org/#user-interaction-task-source`](https://html.spec.whatwg.org/#user-interaction-task-source)
+     * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
+     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/):
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -7746,20 +7737,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/):
-     * [`https://w3c.github.io/payment-request/#dfn-payment-method`](https://w3c.github.io/payment-request/#dfn-payment-method)
-     * [`https://w3c.github.io/payment-request/#dfn-payment-permission`](https://w3c.github.io/payment-request/#dfn-payment-permission)
-     * [`https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made`](https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made)
-     * [`https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request`](https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request)
-     * [`https://w3c.github.io/payment-request/#dfn-details`](https://w3c.github.io/payment-request/#dfn-details)
-     * [`https://w3c.github.io/payment-request/#accessibility-considerations`](https://w3c.github.io/payment-request/#accessibility-considerations)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentrequest`](https://www.w3.org/TR/payment-request/#dom-paymentrequest)
-     * [`https://www.w3.org/TR/payment-request/#dfn-payment-handler`](https://www.w3.org/TR/payment-request/#dfn-payment-handler)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentrequest-constructor`](https://www.w3.org/TR/payment-request/#dom-paymentrequest-constructor)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentrequest-show`](https://www.w3.org/TR/payment-request/#dom-paymentrequest-show)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-currency`](https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-currency)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-value`](https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-value)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentdetailsinit-total`](https://www.w3.org/TR/payment-request/#dom-paymentdetailsinit-total)
-     * [`https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount`](https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#concept-environment-top-level-origin`](https://html.spec.whatwg.org/#concept-environment-top-level-origin)
@@ -9098,7 +9075,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4776 problematic external links found in 294 specifications
+=> 4757 problematic external links found in 295 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

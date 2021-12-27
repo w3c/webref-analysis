@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-27T12:51:44.033Z",
+  "date": "2021-12-27T18:42:41.601Z",
   "stats": {
     "crawled": 456,
-    "errors": 1,
+    "errors": 0,
     "studied": 456
   },
   "results": [
@@ -21752,6 +21752,11 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
@@ -22412,6 +22417,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -22603,6 +22613,11 @@
               "url": "https://www.w3.org/TR/payment-handler/",
               "title": "Payment Handler API",
               "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/permissions/",
@@ -24011,6 +24026,11 @@
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -34054,6 +34074,11 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://www.w3.org/TR/performance-timeline/",
               "title": "Performance Timeline Level 2",
               "crawled": "https://w3c.github.io/performance-timeline/"
@@ -35102,7 +35127,6 @@
             "https://drafts.csswg.org/css-values/#vw",
             "https://drafts.csswg.org/css-values/#funcdef-attr",
             "https://w3c.github.io/webvtt/#webvtt-file-using-cue-text",
-            "https://w3c.github.io/payment-request/#dom-paymentrequest",
             "https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status",
             "https://www.w3.org/TR/css3-color/#css2-system"
           ],
@@ -37239,6 +37263,11 @@
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/performance-timeline/",
@@ -42501,11 +42530,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "PaymentCurrencyAmount",
-          "PaymentDetailsModifier",
-          "PaymentMethodData"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -42515,7 +42540,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
@@ -42525,7 +42556,9 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://www.w3.org/TR/payment-request/#dfn-payment-method"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://www.w3.org/TR/service-workers-1/#service-worker-global-scope",
@@ -42535,27 +42568,6 @@
             "https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag",
             "https://www.w3.org/TR/payment-request/#canmakepayment()-method",
             "https://www.w3.org/TR/payment-request/#show()-method",
-            "https://www.w3.org/TR/payment-request/#dfn-payment-method",
-            "https://www.w3.org/TR/payment-request/#paymentmethoddata-dictionary",
-            "https://www.w3.org/TR/payment-request/#dom-paymentrequest",
-            "https://www.w3.org/TR/payment-request/#paymentcurrencyamount-dictionary",
-            "https://www.w3.org/TR/payment-request/#paymentdetailsmodifier-dictionary",
-            "https://www.w3.org/TR/payment-request/#dfn-details",
-            "https://www.w3.org/TR/payment-request/#id-attribute",
-            "https://www.w3.org/TR/payment-request/#paymentdetailsinit-dictionary",
-            "https://www.w3.org/TR/payment-request/#dom-paymentmethoddata-supportedmethods",
-            "https://www.w3.org/TR/payment-request/#show-method",
-            "https://www.w3.org/TR/payment-request/#dfn-json-serialize",
-            "https://www.w3.org/TR/payment-request/#payment-method-changed-algorithm",
-            "https://www.w3.org/TR/payment-request/#dom-paymentmethodchangeevent",
-            "https://www.w3.org/TR/payment-request/#updatewith-method",
-            "https://www.w3.org/TR/payment-request/#user-accepts-the-payment-request-algorithm",
-            "https://www.w3.org/TR/payment-request/#dom-paymentresponse",
-            "https://www.w3.org/TR/payment-request/#dom-paymentresponse-methodname",
-            "https://www.w3.org/TR/payment-request/#dom-paymentresponse-details",
-            "https://www.w3.org/TR/payment-request/#paymentdetailsbase-dictionary",
-            "https://www.w3.org/TR/payment-request/#dom-paymentrequestupdateevent",
-            "https://www.w3.org/TR/payment-request/#paymentrequest-updated-algorithm",
             "https://html.spec.whatwg.org/#user-interaction-task-source",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#workerglobalscope",
@@ -42632,6 +42644,11 @@
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -42717,16 +42734,14 @@
         },
         "xrefs": {
           "notExported": [
+            "https://w3c.github.io/payment-request/#dfn-payment-method",
+            "https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest",
             "https://www.w3.org/TR/appmanifest/#dfn-manifest-url",
             "https://www.w3.org/TR/appmanifest/#dfn-processed-manifest"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://w3c.github.io/payment-request/#dfn-payment-method",
             "https://w3c.github.io/payment-request/#dfn-payment-apps",
-            "https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest",
-            "https://w3c.github.io/payment-request/#dom-paymentrequest",
-            "https://w3c.github.io/payment-request/#dfn-serializedmethoddata",
             "https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers",
             "https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers",
             "https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers",
@@ -42793,6 +42808,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request",
+      "date": "09 December 2021",
       "url": "https://www.w3.org/TR/payment-request/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request/",
@@ -42804,12 +42820,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/payment-request/",
-        "repository": "https://github.com/w3c/payment-request",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/payment-request/",
       "organization": "W3C",
       "groups": [
         {
@@ -42818,10 +42829,10 @@
         }
       ],
       "report": {
-        "error": "TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded\n    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -42862,6 +42873,36 @@
               "crawled": "https://w3c.github.io/payment-method-id/"
             }
           ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#the-iframe-element",
+            "https://html.spec.whatwg.org/#attr-iframe-allow",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#consume-user-activation",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#language",
+            "https://html.spec.whatwg.org/#queue-a-task",
+            "https://html.spec.whatwg.org/#user-interaction-task-source",
+            "https://html.spec.whatwg.org/#the-details-element",
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
+            "https://html.spec.whatwg.org/#secure-context",
+            "https://html.spec.whatwg.org/#concept-origin"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -43391,6 +43432,11 @@
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/permissions/",
@@ -46228,6 +46274,11 @@
               "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://url.spec.whatwg.org/",
               "title": "URL Standard",
               "crawled": "https://url.spec.whatwg.org/"
@@ -48766,6 +48817,11 @@
               "crawled": "https://w3c.github.io/sensors/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://www.w3.org/TR/picture-in-picture/",
               "title": "Picture-in-Picture",
               "crawled": "https://w3c.github.io/picture-in-picture/"
@@ -48846,9 +48902,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "PaymentCurrencyAmount"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [
           {
@@ -48931,6 +48985,10 @@
             "https://w3c.github.io/webauthn/#client-extension",
             "https://w3c.github.io/webauthn/#registration-extension",
             "https://w3c.github.io/webauthn/#authentication-extension",
+            "https://w3c.github.io/payment-request/#dfn-payment-method",
+            "https://w3c.github.io/payment-request/#dfn-payment-permission",
+            "https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made",
+            "https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request",
             "https://w3c.github.io/webdriver/#dfn-extension-command",
             "https://w3c.github.io/webdriver/#dfn-remote-end-steps",
             "https://w3c.github.io/webdriver/#dfn-errors",
@@ -48942,20 +49000,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://w3c.github.io/payment-request/#dfn-payment-method",
-            "https://w3c.github.io/payment-request/#dfn-payment-permission",
-            "https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made",
-            "https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request",
-            "https://w3c.github.io/payment-request/#dfn-details",
-            "https://w3c.github.io/payment-request/#accessibility-considerations",
-            "https://www.w3.org/TR/payment-request/#dom-paymentrequest",
-            "https://www.w3.org/TR/payment-request/#dfn-payment-handler",
-            "https://www.w3.org/TR/payment-request/#dom-paymentrequest-constructor",
-            "https://www.w3.org/TR/payment-request/#dom-paymentrequest-show",
-            "https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-currency",
-            "https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-value",
-            "https://www.w3.org/TR/payment-request/#dom-paymentdetailsinit-total",
-            "https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
@@ -52359,6 +52403,11 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
               "title": "Permissions Policy",
               "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
@@ -54923,6 +54972,11 @@
               "url": "https://www.w3.org/TR/payment-handler/",
               "title": "Payment Handler API",
               "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/performance-timeline/",

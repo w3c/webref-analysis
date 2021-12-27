@@ -21,14 +21,6 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>456 specifications were crawled in this report.</p>
-  <section id="specifications-that-could-not-be-rendered" class="level2">
-  <h2>Specifications that could not be rendered</h2>
-  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
-  <ul>
-  <li><a href="%5Bobject%20Object%5D">Payment Request API</a>: <code>TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded   at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111</code></li>
-  </ul>
-  <p>=&gt; 1 specification found</p>
-  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -203,9 +195,6 @@
   <li><code>Int16Array</code> used in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><code>Int32Array</code> used in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a>, <a href="https://www.khronos.org/registry/webgl/specs/latest/1.0/">WebGL Specification</a>, <a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/">WebGL WEBGL_multi_draw Extension Specification</a>, <a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/">WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification</a></li>
   <li><code>Int8Array</code> used in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
-  <li><code>PaymentCurrencyAmount</code> used in <a href="https://w3c.github.io/payment-handler/">Payment Handler API</a>, <a href="https://w3c.github.io/secure-payment-confirmation/">Secure Payment Confirmation</a></li>
-  <li><code>PaymentDetailsModifier</code> used in <a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
-  <li><code>PaymentMethodData</code> used in <a href="https://w3c.github.io/payment-handler/">Payment Handler API</a></li>
   <li><code>PostMessageOptions</code> used in <a href="https://wicg.github.io/portals/">Portals</a></li>
   <li><code>Uint16Array</code> used in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><code>Uint32Array</code> used in <a href="https://w3c.github.io/gamepad/extensions.html">Gamepad Extensions</a>, <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a>, <a href="https://www.khronos.org/registry/webgl/specs/latest/2.0/">WebGL 2.0 Specification</a>, <a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/">WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification</a>, <a href="https://gpuweb.github.io/gpuweb/">WebGPU</a></li>
@@ -216,7 +205,7 @@
   <li><code>WindowProxy</code> used in <a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a>, <a href="https://wicg.github.io/portals/">Portals</a>, <a href="https://svgwg.org/specs/animations/">SVG Animations</a>, <a href="https://w3c.github.io/uievents/">UI Events</a></li>
   <li><code>bigint</code> used in <a href="https://w3c.github.io/webrtc-encoded-transform/">WebRTC Encoded Transform</a></li>
   </ul>
-  <p>=&gt; 24 WebIDL names found</p>
+  <p>=&gt; 21 WebIDL names found</p>
   <p>Some of them may be type errors in specs (e.g. “int” does not exist, “Array” cannot be used on its own, etc.) Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled <strong>and</strong> that do not have invalid IDL content.</p>
   </section>
   <section id="list-of-webidl-names-defined-in-more-than-one-spec" class="level2">
@@ -3544,8 +3533,14 @@
   <li><a href="https://www.w3.org/TR/cssom-view/#scrolling-area"><code>https://www.w3.org/TR/cssom-view/#scrolling-area</code></a></li>
   <li><a href="https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry"><code>https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry</code></a></li>
   </ul></li>
+  <li><a href="https://w3c.github.io/payment-handler/">Payment Handler API</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/payment-request/#dfn-payment-method"><code>https://www.w3.org/TR/payment-request/#dfn-payment-method</code></a></li>
+  </ul></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a>:
   <ul>
+  <li><a href="https://w3c.github.io/payment-request/#dfn-payment-method"><code>https://w3c.github.io/payment-request/#dfn-payment-method</code></a></li>
+  <li><a href="https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest"><code>https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest</code></a></li>
   <li><a href="https://www.w3.org/TR/appmanifest/#dfn-manifest-url"><code>https://www.w3.org/TR/appmanifest/#dfn-manifest-url</code></a></li>
   <li><a href="https://www.w3.org/TR/appmanifest/#dfn-processed-manifest"><code>https://www.w3.org/TR/appmanifest/#dfn-processed-manifest</code></a></li>
   </ul></li>
@@ -3662,6 +3657,10 @@
   <li><a href="https://w3c.github.io/webauthn/#client-extension"><code>https://w3c.github.io/webauthn/#client-extension</code></a></li>
   <li><a href="https://w3c.github.io/webauthn/#registration-extension"><code>https://w3c.github.io/webauthn/#registration-extension</code></a></li>
   <li><a href="https://w3c.github.io/webauthn/#authentication-extension"><code>https://w3c.github.io/webauthn/#authentication-extension</code></a></li>
+  <li><a href="https://w3c.github.io/payment-request/#dfn-payment-method"><code>https://w3c.github.io/payment-request/#dfn-payment-method</code></a></li>
+  <li><a href="https://w3c.github.io/payment-request/#dfn-payment-permission"><code>https://w3c.github.io/payment-request/#dfn-payment-permission</code></a></li>
+  <li><a href="https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made"><code>https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made</code></a></li>
+  <li><a href="https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request"><code>https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request</code></a></li>
   <li><a href="https://w3c.github.io/webdriver/#dfn-extension-command"><code>https://w3c.github.io/webdriver/#dfn-extension-command</code></a></li>
   <li><a href="https://w3c.github.io/webdriver/#dfn-remote-end-steps"><code>https://w3c.github.io/webdriver/#dfn-remote-end-steps</code></a></li>
   <li><a href="https://w3c.github.io/webdriver/#dfn-errors"><code>https://w3c.github.io/webdriver/#dfn-errors</code></a></li>
@@ -4083,7 +4082,7 @@
   <li><a href="https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm"><code>https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 835 problematic external links found in 196 specifications</p>
+  <p>=&gt; 842 problematic external links found in 197 specifications</p>
   </section>
   <section id="external-links-that-neither-target-definitions-nor-headings" class="level2">
   <h2>External links that neither target definitions nor headings</h2>
@@ -7485,7 +7484,6 @@
   <li><a href="https://drafts.csswg.org/css-values/#vw"><code>https://drafts.csswg.org/css-values/#vw</code></a></li>
   <li><a href="https://drafts.csswg.org/css-values/#funcdef-attr"><code>https://drafts.csswg.org/css-values/#funcdef-attr</code></a></li>
   <li><a href="https://w3c.github.io/webvtt/#webvtt-file-using-cue-text"><code>https://w3c.github.io/webvtt/#webvtt-file-using-cue-text</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dom-paymentrequest"><code>https://w3c.github.io/payment-request/#dom-paymentrequest</code></a></li>
   <li><a href="https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status"><code>https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status</code></a></li>
   <li><a href="https://www.w3.org/TR/css3-color/#css2-system"><code>https://www.w3.org/TR/css3-color/#css2-system</code></a></li>
   </ul></li>
@@ -8477,27 +8475,6 @@
   <li><a href="https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag"><code>https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag</code></a></li>
   <li><a href="https://www.w3.org/TR/payment-request/#canmakepayment()-method"><code>https://www.w3.org/TR/payment-request/#canmakepayment()-method</code></a></li>
   <li><a href="https://www.w3.org/TR/payment-request/#show()-method"><code>https://www.w3.org/TR/payment-request/#show()-method</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dfn-payment-method"><code>https://www.w3.org/TR/payment-request/#dfn-payment-method</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#paymentmethoddata-dictionary"><code>https://www.w3.org/TR/payment-request/#paymentmethoddata-dictionary</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentrequest"><code>https://www.w3.org/TR/payment-request/#dom-paymentrequest</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#paymentcurrencyamount-dictionary"><code>https://www.w3.org/TR/payment-request/#paymentcurrencyamount-dictionary</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#paymentdetailsmodifier-dictionary"><code>https://www.w3.org/TR/payment-request/#paymentdetailsmodifier-dictionary</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dfn-details"><code>https://www.w3.org/TR/payment-request/#dfn-details</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#id-attribute"><code>https://www.w3.org/TR/payment-request/#id-attribute</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#paymentdetailsinit-dictionary"><code>https://www.w3.org/TR/payment-request/#paymentdetailsinit-dictionary</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentmethoddata-supportedmethods"><code>https://www.w3.org/TR/payment-request/#dom-paymentmethoddata-supportedmethods</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#show-method"><code>https://www.w3.org/TR/payment-request/#show-method</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dfn-json-serialize"><code>https://www.w3.org/TR/payment-request/#dfn-json-serialize</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#payment-method-changed-algorithm"><code>https://www.w3.org/TR/payment-request/#payment-method-changed-algorithm</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentmethodchangeevent"><code>https://www.w3.org/TR/payment-request/#dom-paymentmethodchangeevent</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#updatewith-method"><code>https://www.w3.org/TR/payment-request/#updatewith-method</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#user-accepts-the-payment-request-algorithm"><code>https://www.w3.org/TR/payment-request/#user-accepts-the-payment-request-algorithm</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentresponse"><code>https://www.w3.org/TR/payment-request/#dom-paymentresponse</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentresponse-methodname"><code>https://www.w3.org/TR/payment-request/#dom-paymentresponse-methodname</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentresponse-details"><code>https://www.w3.org/TR/payment-request/#dom-paymentresponse-details</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#paymentdetailsbase-dictionary"><code>https://www.w3.org/TR/payment-request/#paymentdetailsbase-dictionary</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentrequestupdateevent"><code>https://www.w3.org/TR/payment-request/#dom-paymentrequestupdateevent</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#paymentrequest-updated-algorithm"><code>https://www.w3.org/TR/payment-request/#paymentrequest-updated-algorithm</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#user-interaction-task-source"><code>https://html.spec.whatwg.org/#user-interaction-task-source</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#workerglobalscope"><code>https://html.spec.whatwg.org/#workerglobalscope</code></a></li>
@@ -8525,11 +8502,7 @@
   </ul></li>
   <li><a href="https://w3c.github.io/payment-method-manifest/">Payment Method Manifest</a>:
   <ul>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-payment-method"><code>https://w3c.github.io/payment-request/#dfn-payment-method</code></a></li>
   <li><a href="https://w3c.github.io/payment-request/#dfn-payment-apps"><code>https://w3c.github.io/payment-request/#dfn-payment-apps</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest"><code>https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dom-paymentrequest"><code>https://w3c.github.io/payment-request/#dom-paymentrequest</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-serializedmethoddata"><code>https://w3c.github.io/payment-request/#dfn-serializedmethoddata</code></a></li>
   <li><a href="https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers"><code>https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers</code></a></li>
   <li><a href="https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers"><code>https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers</code></a></li>
   <li><a href="https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers"><code>https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers</code></a></li>
@@ -8541,6 +8514,30 @@
   <li><a href="https://infra.spec.whatwg.org/#parse-json-into-infra-values"><code>https://infra.spec.whatwg.org/#parse-json-into-infra-values</code></a></li>
   <li><a href="https://fetch.spec.whatwg.org/#concept-get-reader"><code>https://fetch.spec.whatwg.org/#concept-get-reader</code></a></li>
   <li><a href="https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream"><code>https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream</code></a></li>
+  </ul></li>
+  <li><a href="https://w3c.github.io/payment-request/">Payment Request API</a>:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-iframe-element"><code>https://html.spec.whatwg.org/#the-iframe-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#attr-iframe-allow"><code>https://html.spec.whatwg.org/#attr-iframe-allow</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#current-settings-object"><code>https://html.spec.whatwg.org/#current-settings-object</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#responsible-document"><code>https://html.spec.whatwg.org/#responsible-document</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#allowed-to-use"><code>https://html.spec.whatwg.org/#allowed-to-use</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#transient-activation"><code>https://html.spec.whatwg.org/#transient-activation</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#consume-user-activation"><code>https://html.spec.whatwg.org/#consume-user-activation</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-document-window"><code>https://html.spec.whatwg.org/#concept-document-window</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#fully-active"><code>https://html.spec.whatwg.org/#fully-active</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#in-parallel"><code>https://html.spec.whatwg.org/#in-parallel</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#language"><code>https://html.spec.whatwg.org/#language</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#queue-a-task"><code>https://html.spec.whatwg.org/#queue-a-task</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#user-interaction-task-source"><code>https://html.spec.whatwg.org/#user-interaction-task-source</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-details-element"><code>https://html.spec.whatwg.org/#the-details-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-document-permissions-policy"><code>https://html.spec.whatwg.org/#concept-document-permissions-policy</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#secure-context"><code>https://html.spec.whatwg.org/#secure-context</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-origin"><code>https://html.spec.whatwg.org/#concept-origin</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a>:
   <ul>
@@ -9238,20 +9235,6 @@
   </ul></li>
   <li><a href="https://w3c.github.io/secure-payment-confirmation/">Secure Payment Confirmation</a>:
   <ul>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-payment-method"><code>https://w3c.github.io/payment-request/#dfn-payment-method</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-payment-permission"><code>https://w3c.github.io/payment-request/#dfn-payment-permission</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made"><code>https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request"><code>https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#dfn-details"><code>https://w3c.github.io/payment-request/#dfn-details</code></a></li>
-  <li><a href="https://w3c.github.io/payment-request/#accessibility-considerations"><code>https://w3c.github.io/payment-request/#accessibility-considerations</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentrequest"><code>https://www.w3.org/TR/payment-request/#dom-paymentrequest</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dfn-payment-handler"><code>https://www.w3.org/TR/payment-request/#dfn-payment-handler</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentrequest-constructor"><code>https://www.w3.org/TR/payment-request/#dom-paymentrequest-constructor</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentrequest-show"><code>https://www.w3.org/TR/payment-request/#dom-paymentrequest-show</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-currency"><code>https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-currency</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-value"><code>https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount-value</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentdetailsinit-total"><code>https://www.w3.org/TR/payment-request/#dom-paymentdetailsinit-total</code></a></li>
-  <li><a href="https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount"><code>https://www.w3.org/TR/payment-request/#dom-paymentcurrencyamount</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-origin"><code>https://html.spec.whatwg.org/#concept-origin</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin"><code>https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-environment-top-level-origin"><code>https://html.spec.whatwg.org/#concept-environment-top-level-origin</code></a></li>
@@ -10727,7 +10710,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 4776 problematic external links found in 294 specifications</p>
+  <p>=&gt; 4757 problematic external links found in 295 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>
