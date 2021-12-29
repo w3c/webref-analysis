@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-29T12:46:52.472Z",
+  "date": "2021-12-29T18:42:23.628Z",
   "stats": {
     "crawled": 456,
     "errors": 0,
@@ -44366,7 +44366,7 @@
     {
       "title": "Priority Hints",
       "shortname": "priority-hints",
-      "date": "15 December 2021",
+      "date": "29 December 2021",
       "url": "https://wicg.github.io/priority-hints/",
       "nightly": {
         "url": "https://wicg.github.io/priority-hints/",
@@ -50836,7 +50836,7 @@
     {
       "title": "Text Fragments",
       "shortname": "scroll-to-text-fragment",
-      "date": "4 November 2021",
+      "date": "29 December 2021",
       "url": "https://wicg.github.io/scroll-to-text-fragment/",
       "nightly": {
         "url": "https://wicg.github.io/scroll-to-text-fragment/",
