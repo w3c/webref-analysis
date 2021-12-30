@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-30T06:44:16.024Z",
+  "date": "2021-12-30T12:47:28.254Z",
   "stats": {
     "crawled": 456,
     "errors": 0,
@@ -11412,7 +11412,7 @@
     {
       "title": "CSS Generated Content Module Level 3",
       "shortname": "css-content-3",
-      "date": "17 May 2021",
+      "date": "30 December 2021",
       "url": "https://www.w3.org/TR/css-content-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-content-3/",
@@ -15044,7 +15044,7 @@
     {
       "title": "CSS Pseudo-Elements Module Level 4",
       "shortname": "css-pseudo-4",
-      "date": "28 December 2021",
+      "date": "30 December 2021",
       "url": "https://www.w3.org/TR/css-pseudo-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-pseudo-4/",
