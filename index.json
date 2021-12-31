@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2021-12-31T00:53:05.613Z",
+  "date": "2021-12-31T06:42:47.275Z",
   "stats": {
     "crawled": 456,
     "errors": 0,
@@ -52936,7 +52936,7 @@
     {
       "title": "uuid",
       "shortname": "uuid",
-      "date": "15 October 2021",
+      "date": "31 December 2021",
       "url": "https://wicg.github.io/uuid/",
       "nightly": {
         "url": "https://wicg.github.io/uuid/",

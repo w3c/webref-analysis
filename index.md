@@ -20121,7 +20121,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/uuid/](https://wicg.github.io/uuid/)
 - Crawled URL: [https://wicg.github.io/uuid/](https://wicg.github.io/uuid/)
-- Crawled version: 15 October 2021
+- Crawled version: 31 December 2021
 - Editor's Draft: [https://wicg.github.io/uuid/](https://wicg.github.io/uuid/)
 - Shortname: uuid
 
