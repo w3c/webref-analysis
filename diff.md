@@ -1,5 +1,5 @@
-% Diff between report from "December 31, 2021" and reference report from "December 31, 2021"
+% Diff between report from "January 01, 2022" and reference report from "December 31, 2021"
 % Strudy
-% December 31, 2021
+% January 01, 2022
 
 
