@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-03T06:44:13.753Z",
+  "date": "2022-01-03T12:47:12.254Z",
   "stats": {
     "crawled": 456,
     "errors": 0,
@@ -26912,7 +26912,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "21 December 2021",
+      "date": "3 January 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36783,7 +36783,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "24 October 2021",
+      "date": "3 January 2022",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -39466,7 +39466,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "16 December 2021",
+      "date": "03 January 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -44582,7 +44582,7 @@
     {
       "title": "Private Network Access",
       "shortname": "private-network-access",
-      "date": "23 June 2021",
+      "date": "3 January 2022",
       "url": "https://wicg.github.io/private-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/private-network-access/",
