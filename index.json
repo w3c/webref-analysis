@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-06T12:49:43.374Z",
+  "date": "2022-01-06T18:47:08.369Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -39548,7 +39548,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "03 January 2022",
+      "date": "06 January 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -52778,7 +52778,7 @@
     {
       "title": "URLPattern API",
       "shortname": "urlpattern",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://wicg.github.io/urlpattern/",
       "nightly": {
         "url": "https://wicg.github.io/urlpattern/",
@@ -62837,7 +62837,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "03 January 2022",
+      "date": "06 January 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
