@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-05T18:43:44.232Z",
+  "date": "2022-01-06T00:54:36.456Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -3401,7 +3401,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -22457,7 +22457,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "30 December 2021",
+      "date": "6 January 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -22513,7 +22513,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "17 December 2021",
+      "date": "5 January 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -26979,7 +26979,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "4 January 2022",
+      "date": "5 January 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -46267,7 +46267,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46332,7 +46332,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46370,7 +46370,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46464,7 +46464,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46538,7 +46538,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46602,7 +46602,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46640,7 +46640,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46696,7 +46696,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46752,7 +46752,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "5 January 2022",
+      "date": "6 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -62604,7 +62604,8 @@
             "https://html.spec.whatwg.org/#dom-canvas-todataurl",
             "https://html.spec.whatwg.org/#dom-canvas-toblob",
             "https://html.spec.whatwg.org/#offscreencanvas-placeholder",
-            "https://html.spec.whatwg.org/#eventhandler"
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -63712,7 +63713,7 @@
     {
       "title": "WebXR Depth Sensing Module",
       "shortname": "webxr-depth-sensing-1",
-      "date": "29 November 2021",
+      "date": "5 January 2022",
       "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
@@ -63792,7 +63793,7 @@
     {
       "title": "WebXR Device API",
       "shortname": "webxr",
-      "date": "24 December 2021",
+      "date": "5 January 2022",
       "url": "https://www.w3.org/TR/webxr/",
       "release": {
         "url": "https://www.w3.org/TR/webxr/",
@@ -64085,7 +64086,7 @@
     {
       "title": "WebXR Gamepads Module - Level 1",
       "shortname": "webxr-gamepads-module-1",
-      "date": "4 January 2022",
+      "date": "5 January 2022",
       "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
@@ -64139,6 +64140,7 @@
             "https://immersive-web.github.io/webxr/#list-of-active-xr-input-sources",
             "https://immersive-web.github.io/webxr/#primary-action",
             "https://immersive-web.github.io/webxr/#primary-squeeze-action",
+            "https://immersive-web.github.io/webxr/#trusted-ui",
             "https://immersive-web.github.io/webxr/#sensitive-information",
             "https://www.w3.org/TR/gamepad/#dfn-selecting-an-unused-gamepad-index",
             "https://www.w3.org/TR/gamepad/#dfn-xr-standard"
@@ -64155,7 +64157,7 @@
     {
       "title": "WebXR Hand Input Module - Level 1",
       "shortname": "webxr-hand-input-1",
-      "date": "24 December 2021",
+      "date": "5 January 2022",
       "url": "https://www.w3.org/TR/webxr-hand-input-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-hand-input-1/",
@@ -64202,7 +64204,13 @@
         ],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
+              "title": "WebXR Gamepads Module - Level 1",
+              "crawled": "https://immersive-web.github.io/webxr-gamepads-module/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -64312,7 +64320,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "7 December 2021",
+      "date": "5 January 2022",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",

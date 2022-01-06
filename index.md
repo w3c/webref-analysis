@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 05, 2022
+% January 06, 2022
 
 # Ecma International {#ecma_international}
 
@@ -96,7 +96,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 30 December 2021
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -121,7 +121,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 17 December 2021
+- Crawled version: 5 January 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -645,7 +645,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -674,7 +674,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -735,7 +735,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -758,7 +758,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1179,7 +1179,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1202,7 +1202,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1232,7 +1232,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1273,7 +1273,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1306,7 +1306,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1337,7 +1337,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 5 January 2022
+- Crawled version: 6 January 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -11264,6 +11264,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-canvas-toblob`](https://html.spec.whatwg.org/#dom-canvas-toblob)
      * [`https://html.spec.whatwg.org/#offscreencanvas-placeholder`](https://html.spec.whatwg.org/#offscreencanvas-placeholder)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables`](https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11440,7 +11441,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webxr-depth-sensing-1/](https://www.w3.org/TR/webxr-depth-sensing-1/)
 - Crawled URL: [https://immersive-web.github.io/depth-sensing/](https://immersive-web.github.io/depth-sensing/)
-- Crawled version: 29 November 2021
+- Crawled version: 5 January 2022
 - Editor's Draft: [https://immersive-web.github.io/depth-sensing/](https://immersive-web.github.io/depth-sensing/)
 - Latest published version: [https://www.w3.org/TR/webxr-depth-sensing-1/](https://www.w3.org/TR/webxr-depth-sensing-1/)
 - Shortname: webxr-depth-sensing-1
@@ -11478,7 +11479,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
 - Crawled URL: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
-- Crawled version: 24 December 2021
+- Crawled version: 5 January 2022
 - Editor's Draft: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
 - Latest published version: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
 - Shortname: webxr
@@ -11600,7 +11601,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxr-gamepads-module-1/](https://www.w3.org/TR/webxr-gamepads-module-1/)
 - Crawled URL: [https://immersive-web.github.io/webxr-gamepads-module/](https://immersive-web.github.io/webxr-gamepads-module/)
-- Crawled version: 4 January 2022
+- Crawled version: 5 January 2022
 - Editor's Draft: [https://immersive-web.github.io/webxr-gamepads-module/](https://immersive-web.github.io/webxr-gamepads-module/)
 - Latest published version: [https://www.w3.org/TR/webxr-gamepads-module-1/](https://www.w3.org/TR/webxr-gamepads-module-1/)
 - Shortname: webxr-gamepads-module-1
@@ -11615,6 +11616,7 @@ No informative reference to this spec from other specs.
      * [`https://immersive-web.github.io/webxr/#list-of-active-xr-input-sources`](https://immersive-web.github.io/webxr/#list-of-active-xr-input-sources)
      * [`https://immersive-web.github.io/webxr/#primary-action`](https://immersive-web.github.io/webxr/#primary-action)
      * [`https://immersive-web.github.io/webxr/#primary-squeeze-action`](https://immersive-web.github.io/webxr/#primary-squeeze-action)
+     * [`https://immersive-web.github.io/webxr/#trusted-ui`](https://immersive-web.github.io/webxr/#trusted-ui)
      * [`https://immersive-web.github.io/webxr/#sensitive-information`](https://immersive-web.github.io/webxr/#sensitive-information)
      * [`https://www.w3.org/TR/gamepad/#dfn-selecting-an-unused-gamepad-index`](https://www.w3.org/TR/gamepad/#dfn-selecting-an-unused-gamepad-index)
      * [`https://www.w3.org/TR/gamepad/#dfn-xr-standard`](https://www.w3.org/TR/gamepad/#dfn-xr-standard)
@@ -11634,7 +11636,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxr-hand-input-1/](https://www.w3.org/TR/webxr-hand-input-1/)
 - Crawled URL: [https://immersive-web.github.io/webxr-hand-input/](https://immersive-web.github.io/webxr-hand-input/)
-- Crawled version: 24 December 2021
+- Crawled version: 5 January 2022
 - Editor's Draft: [https://immersive-web.github.io/webxr-hand-input/](https://immersive-web.github.io/webxr-hand-input/)
 - Latest published version: [https://www.w3.org/TR/webxr-hand-input-1/](https://www.w3.org/TR/webxr-hand-input-1/)
 - Shortname: webxr-hand-input-1
@@ -11666,7 +11668,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/)
 
 
 ### WebXR Hit Test Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
@@ -11723,7 +11727,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Crawled URL: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
-- Crawled version: 7 December 2021
+- Crawled version: 5 January 2022
 - Editor's Draft: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
 - Latest published version: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Shortname: webxrlayers-1
@@ -22109,7 +22113,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 4 January 2022
+- Crawled version: 5 January 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

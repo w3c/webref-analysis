@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 05, 2022
+% January 06, 2022
 
 458 specifications were crawled in this report.
 
@@ -3081,6 +3081,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://immersive-web.github.io/webxr/#list-of-active-xr-input-sources`](https://immersive-web.github.io/webxr/#list-of-active-xr-input-sources)
      * [`https://immersive-web.github.io/webxr/#primary-action`](https://immersive-web.github.io/webxr/#primary-action)
      * [`https://immersive-web.github.io/webxr/#primary-squeeze-action`](https://immersive-web.github.io/webxr/#primary-squeeze-action)
+     * [`https://immersive-web.github.io/webxr/#trusted-ui`](https://immersive-web.github.io/webxr/#trusted-ui)
      * [`https://immersive-web.github.io/webxr/#sensitive-information`](https://immersive-web.github.io/webxr/#sensitive-information)
      * [`https://www.w3.org/TR/gamepad/#dfn-selecting-an-unused-gamepad-index`](https://www.w3.org/TR/gamepad/#dfn-selecting-an-unused-gamepad-index)
      * [`https://www.w3.org/TR/gamepad/#dfn-xr-standard`](https://www.w3.org/TR/gamepad/#dfn-xr-standard)
@@ -3155,7 +3156,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 845 problematic external links found in 199 specifications
+=> 846 problematic external links found in 199 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -8866,6 +8867,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-canvas-toblob`](https://html.spec.whatwg.org/#dom-canvas-toblob)
      * [`https://html.spec.whatwg.org/#offscreencanvas-placeholder`](https://html.spec.whatwg.org/#offscreencanvas-placeholder)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables`](https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables)
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/):
      * [`https://gpuweb.github.io/gpuweb/#dom-gputextureusage-storage`](https://gpuweb.github.io/gpuweb/#dom-gputextureusage-storage)
      * [`https://gpuweb.github.io/gpuweb/#dom-gpurenderpipelinedescriptor-samplecount`](https://gpuweb.github.io/gpuweb/#dom-gpurenderpipelinedescriptor-samplecount)
@@ -9094,7 +9096,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4768 problematic external links found in 297 specifications
+=> 4769 problematic external links found in 297 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
