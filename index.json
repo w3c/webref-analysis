@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-06T18:47:08.369Z",
+  "date": "2022-01-07T01:01:20.859Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -1292,7 +1292,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "13 December 2021",
+      "date": "6 January 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -3807,7 +3807,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "6 December 2021",
+      "date": "6 January 2022",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",
@@ -3850,6 +3850,13 @@
             "ref": {
               "name": "MIXED-CONTENT",
               "url": "https://www.w3.org/TR/mixed-content/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/webappsec-permissions-policy/",
+            "ref": {
+              "name": "PERMISSIONS-POLICY-1",
+              "url": "https://www.w3.org/TR/permissions-policy-1/"
             }
           },
           {
@@ -3906,6 +3913,7 @@
             "https://html.spec.whatwg.org/#secure-context",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
+            "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#dom-manipulation-task-source",
             "https://html.spec.whatwg.org/#the-form-element",
@@ -43518,6 +43526,11 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
+              "url": "https://www.w3.org/TR/credential-management-1/",
+              "title": "Credential Management Level 1",
+              "crawled": "https://w3c.github.io/webappsec-credential-management/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
@@ -46267,7 +46280,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46332,7 +46345,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46370,7 +46383,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46464,7 +46477,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46538,7 +46551,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46602,7 +46615,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46640,7 +46653,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46696,7 +46709,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46752,7 +46765,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "6 January 2022",
+      "date": "7 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50263,7 +50276,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "16 December 2021",
+      "date": "6 January 2022",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -53818,7 +53831,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
