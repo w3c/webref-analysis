@@ -5669,7 +5669,12 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 
 No informative reference to this spec from other specs.
 
@@ -8628,7 +8633,7 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 
 
-### CSS Syntax Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Syntax Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -8643,9 +8648,8 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
      * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location)
 - Broken external links:
@@ -9452,7 +9456,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 
 
@@ -10549,9 +10552,14 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 
 
 ## Devices and Sensors Working Group {#devices_and_sensors_working_group}
@@ -14895,7 +14903,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 17 December 2021
+- Crawled version: 07 January 2022
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria
