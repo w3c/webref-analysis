@@ -1298,6 +1298,7 @@ Informative references to this spec from:
 
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Server Timing](https://w3c.github.io/server-timing/)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 
 
 ### RFC 7034: HTTP Header Field X-Frame-Options {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -1356,6 +1357,7 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Reporting API 1](https://w3c.github.io/reporting/)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 
 
 # Khronos Group {#khronos_group}
@@ -14699,7 +14701,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/SRI/](https://www.w3.org/TR/SRI/)
 - Crawled URL: [https://w3c.github.io/webappsec-subresource-integrity/](https://w3c.github.io/webappsec-subresource-integrity/)
-- Crawled version: 2 March 2021
+- Crawled version: 7 January 2022
 - Editor's Draft: [https://w3c.github.io/webappsec-subresource-integrity/](https://w3c.github.io/webappsec-subresource-integrity/)
 - Latest published version: [https://www.w3.org/TR/SRI/](https://www.w3.org/TR/SRI/)
 - Shortname: SRI
