@@ -231,9 +231,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) uses:
     * `AuthenticationExtensionsClientInputs` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
     * `CollectedClientData` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
-- [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/) uses:
-    * `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
-    * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/) uses:
     * `GLenum` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLint` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -295,7 +292,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 66 missing references for IDL definitions found in 34 specifications
+=> 64 missing references for IDL definitions found in 33 specifications
 
 
 ## No definition for CSS properties
