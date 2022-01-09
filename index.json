@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-09T12:47:54.623Z",
+  "date": "2022-01-09T18:42:32.702Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -900,7 +900,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "07 January 2022",
+      "date": "09 January 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -7827,7 +7827,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "21 December 2021",
+      "date": "9 January 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8140,7 +8140,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "1 January 2022",
+      "date": "9 January 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
