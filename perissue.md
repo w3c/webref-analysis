@@ -7621,8 +7621,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-global-object-realm`](https://html.spec.whatwg.org/#concept-global-object-realm)
      * [`https://www.w3.org/TR/performance-timeline/#dom-performance`](https://www.w3.org/TR/performance-timeline/#dom-performance)
      * [`https://webidl.spec.whatwg.org/#default-tojson-operation`](https://webidl.spec.whatwg.org/#default-tojson-operation)
-     * [`https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time`](https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time)
-     * [`https://www.w3.org/TR/css-values-3/#funcdef-url`](https://www.w3.org/TR/css-values-3/#funcdef-url)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/):
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
      * [`https://html.spec.whatwg.org/#attr-img-srcset`](https://html.spec.whatwg.org/#attr-img-srcset)
@@ -9337,7 +9335,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 6111 problematic external links found in 235 specifications
+=> 6109 problematic external links found in 235 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

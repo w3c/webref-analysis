@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-11T00:51:28.249Z",
+  "date": "2022-01-11T06:44:52.074Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -7192,7 +7192,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "8 January 2022",
+      "date": "11 January 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -30416,7 +30416,7 @@
     {
       "title": "Media Capabilities",
       "shortname": "media-capabilities",
-      "date": "4 June 2021",
+      "date": "11 January 2022",
       "url": "https://www.w3.org/TR/media-capabilities/",
       "release": {
         "url": "https://www.w3.org/TR/media-capabilities/",
@@ -33712,6 +33712,11 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
+              "url": "https://www.w3.org/TR/resource-timing-2/",
+              "title": "Resource Timing Level 2",
+              "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/server-timing/",
               "title": "Server Timing",
               "crawled": "https://w3c.github.io/server-timing/"
@@ -36595,7 +36600,7 @@
     {
       "title": "Resource Timing Level 2",
       "shortname": "resource-timing-2",
-      "date": "30 November 2021",
+      "date": "11 January 2022",
       "url": "https://www.w3.org/TR/resource-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing-2/",
@@ -36732,9 +36737,7 @@
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#concept-global-object-realm",
             "https://www.w3.org/TR/performance-timeline/#dom-performance",
-            "https://webidl.spec.whatwg.org/#default-tojson-operation",
-            "https://www.w3.org/TR/hr-time-3/#relative-high-resolution-coarse-time",
-            "https://www.w3.org/TR/css-values-3/#funcdef-url"
+            "https://webidl.spec.whatwg.org/#default-tojson-operation"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -44767,6 +44770,11 @@
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/media-capabilities/",
+              "title": "Media Capabilities",
+              "crawled": "https://w3c.github.io/media-capabilities/"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-streams/",
