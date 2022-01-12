@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-12T06:46:42.615Z",
+  "date": "2022-01-12T18:43:25.583Z",
   "stats": {
     "crawled": 458,
-    "errors": 1,
+    "errors": 0,
     "studied": 458
   },
   "results": [
@@ -900,7 +900,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "10 January 2022",
+      "date": "12 January 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -1198,7 +1198,6 @@
             "https://html.spec.whatwg.org/#sectioning-content-2",
             "https://html.spec.whatwg.org/#palpable-content-2",
             "https://html.spec.whatwg.org/#heading-content-2",
-            "https://html.spec.whatwg.org/#sectioning-root",
             "https://html.spec.whatwg.org/#embedded-content-category",
             "https://html.spec.whatwg.org/#transparent-content-models",
             "https://www.w3.org/TR/html-aam-1.0/#dfn-accessible-name",
@@ -2636,7 +2635,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "14 December 2021",
+      "date": "12 January 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -7832,7 +7831,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "11 January 2022",
+      "date": "12 January 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8145,7 +8144,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "11 January 2022",
+      "date": "12 January 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -20031,6 +20030,11 @@
               "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
             },
             {
+              "url": "https://www.w3.org/TR/resource-timing-2/",
+              "title": "Resource Timing Level 2",
+              "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
@@ -22476,7 +22480,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "6 January 2022",
+      "date": "12 January 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -22735,11 +22739,6 @@
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-timing-2/",
-              "title": "Resource Timing Level 2",
-              "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -24538,6 +24537,11 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -26853,6 +26857,7 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
+      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26864,12 +26869,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": {
-        "url": "https://w3c.github.io/html-media-capture/",
-        "repository": "https://github.com/w3c/html-media-capture",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
+      "crawled": "https://w3c.github.io/html-media-capture/",
       "organization": "W3C",
       "groups": [
         {
@@ -26878,10 +26878,10 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:52:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 347)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26895,6 +26895,19 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [
+            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
+          ],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [
+            "https://www.w3.org/TR/html51/",
+            "https://www.w3.org/TR/custom-elements/"
+          ],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -26984,7 +26997,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "11 January 2022",
+      "date": "12 January 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -33907,6 +33920,11 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -38709,7 +38727,8 @@
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-origin",
-            "https://www.w3.org/TR/css-values-4/#pixel-unit"
+            "https://www.w3.org/TR/css-values-4/#pixel-unit",
+            "https://w3c.github.io/resource-timing/#sec-privacy-security"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -39589,6 +39608,11 @@
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -46054,7 +46078,7 @@
     {
       "title": "Resource Timing Level 2",
       "shortname": "resource-timing-2",
-      "date": "11 January 2022",
+      "date": "12 January 2022",
       "url": "https://www.w3.org/TR/resource-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing-2/",
@@ -46153,8 +46177,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#same-origin",
-            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#script",
@@ -46190,6 +46212,7 @@
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#concept-global-object-realm",
+            "https://html.spec.whatwg.org/#same-origin",
             "https://www.w3.org/TR/performance-timeline/#dom-performance",
             "https://webidl.spec.whatwg.org/#default-tojson-operation"
           ],
@@ -47554,11 +47577,6 @@
               "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
-              "url": "https://www.w3.org/TR/resource-timing-2/",
-              "title": "Resource Timing Level 2",
-              "crawled": "https://w3c.github.io/resource-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/svg-integration/",
               "title": "SVG Integration",
               "crawled": "https://svgwg.org/specs/integration/"
@@ -47619,6 +47637,11 @@
               "url": "https://www.w3.org/TR/geometry-1/",
               "title": "Geometry Interfaces Module Level 1",
               "crawled": "https://drafts.fxtf.org/geometry/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resource-timing-2/",
+              "title": "Resource Timing Level 2",
+              "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-4/",
@@ -48153,11 +48176,6 @@
               "url": "https://www.w3.org/TR/resize-observer-1/",
               "title": "Resize Observer",
               "crawled": "https://drafts.csswg.org/resize-observer/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-timing-2/",
-              "title": "Resource Timing Level 2",
-              "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
@@ -49690,7 +49708,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/resource-timing-2/#dfn-current-document",
             "https://www.w3.org/TR/navigation-timing-2/#dfn-current-document"
           ],
           "notDfn": [],
@@ -49704,6 +49721,7 @@
             "https://html.spec.whatwg.org/#same-origin",
             "https://www.w3.org/TR/resource-timing-2/#performanceresourcetiming",
             "https://www.w3.org/TR/resource-timing-2/#step-create-object",
+            "https://www.w3.org/TR/resource-timing-2/#dfn-current-document",
             "https://www.w3.org/TR/navigation-timing-2/#step-create-object"
           ],
           "evolvingLinks": [],
@@ -55087,6 +55105,11 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-media-capture/",
+              "title": "HTML Media Capture",
+              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
@@ -62551,7 +62574,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "11 January 2022",
+      "date": "12 January 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62667,7 +62690,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "11 January 2022",
+      "date": "12 January 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -64755,11 +64778,6 @@
               "url": "https://www.w3.org/TR/mixed-content/",
               "title": "Mixed Content",
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-timing-2/",
-              "title": "Resource Timing Level 2",
-              "crawled": "https://w3c.github.io/resource-timing/"
             }
           ],
           "informative": [
@@ -64772,6 +64790,11 @@
               "url": "https://wicg.github.io/origin-policy/",
               "title": "Origin Policy",
               "crawled": "https://wicg.github.io/origin-policy/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resource-timing-2/",
+              "title": "Resource Timing Level 2",
+              "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
               "url": "https://www.w3.org/TR/webaudio/",
