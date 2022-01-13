@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-13T06:46:05.341Z",
+  "date": "2022-01-13T12:48:43.443Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -487,7 +487,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "11 January 2022",
+      "date": "13 January 2022",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -26997,7 +26997,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "12 January 2022",
+      "date": "13 January 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
