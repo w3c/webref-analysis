@@ -1,42 +1,13 @@
-% Diff between report from "January 12, 2022" and reference report from "January 12, 2022"
+% Diff between report from "January 13, 2022" and reference report from "January 12, 2022"
 % Strudy
-% January 12, 2022
+% January 13, 2022
 
-## HTML Media Capture
+## WebGL Specification
 
-- Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
+- Initial URL: [https://www.khronos.org/registry/webgl/specs/latest/1.0/](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
-- Spec could not be rendered: *DEL* Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:52:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 347)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
+- Editor's Draft: [https://www.khronos.org/registry/webgl/specs/latest/1.0/](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
+- Missing references for WebIDL names: *DEL* BufferSource, ArrayBufferView
 
 
 

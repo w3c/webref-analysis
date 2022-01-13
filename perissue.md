@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 12, 2022
+% January 13, 2022
 
 458 specifications were crawled in this report.
 
@@ -255,10 +255,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLint` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
     * `GLsizei` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
-- [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/) uses:
-    * `VideoFrame` but does not reference [WebCodecs](https://w3c.github.io/webcodecs/)
-    * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
-    * `ArrayBufferView` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/) uses `VideoFrame` but does not reference [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/) uses `WebGLShader` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/) uses `GLenum` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/) uses:
@@ -292,7 +289,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 64 missing references for IDL definitions found in 33 specifications
+=> 62 missing references for IDL definitions found in 33 specifications
 
 
 ## No definition for CSS properties
