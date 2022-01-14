@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-14T12:47:16.227Z",
+  "date": "2022-01-14T18:43:12.387Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -2635,7 +2635,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "12 January 2022",
+      "date": "14 January 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -26997,7 +26997,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "13 January 2022",
+      "date": "14 January 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -48540,7 +48540,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "02 December 2021",
+      "date": "14 January 2022",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -50305,7 +50305,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "13 January 2022",
+      "date": "14 January 2022",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
