@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-14T06:46:53.520Z",
+  "date": "2022-01-14T12:47:16.227Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -46078,7 +46078,7 @@
     {
       "title": "Resource Timing Level 2",
       "shortname": "resource-timing-2",
-      "date": "13 January 2022",
+      "date": "14 January 2022",
       "url": "https://www.w3.org/TR/resource-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing-2/",
