@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-15T00:51:52.024Z",
+  "date": "2022-01-15T06:47:08.698Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -3406,7 +3406,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "13 January 2022",
+      "date": "15 January 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -6601,6 +6601,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "title": "CSS Device Adaptation Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-device-adapt/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
               "title": "CSS Flexible Box Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
@@ -6901,6 +6906,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             }
           ]
         },
@@ -8439,7 +8449,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "26 December 2021",
+      "date": "14 January 2022",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -10349,7 +10359,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-fonts-3/#descdef-src",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#offscreencanvas"
@@ -10492,6 +10501,26 @@
               "crawled": "https://drafts.csswg.org/css-align/"
             },
             {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "title": "CSS Device Adaptation Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-device-adapt/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading/"
@@ -10517,9 +10546,24 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-size-adjust-1/",
+              "title": "CSS Mobile Text Size Adjustment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-page-3/",
+              "title": "CSS Paged Media Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-page-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -10545,6 +10589,11 @@
               "url": "https://www.w3.org/TR/css-text-3/",
               "title": "CSS Text Module Level 3",
               "crawled": "https://drafts.csswg.org/css-text-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-4/",
+              "title": "CSS Text Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -10604,24 +10653,19 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-conditional-5/",
               "title": "CSS Conditional Rules Module Level 5",
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-variables-1/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
@@ -10647,6 +10691,16 @@
               "url": "https://wicg.github.io/local-font-access/",
               "title": "Local Font Access API",
               "crawled": "https://wicg.github.io/local-font-access/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediaqueries-4/",
+              "title": "Media Queries Level 4",
+              "crawled": "https://drafts.csswg.org/mediaqueries-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediaqueries-5/",
+              "title": "Media Queries Level 5",
+              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
             }
           ]
         },
@@ -10726,16 +10780,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
@@ -10746,19 +10790,9 @@
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
-              "title": "CSS Device Adaptation Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-device-adapt/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-inline-3/",
-              "title": "CSS Inline Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-inline-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-masking-1/",
@@ -10766,49 +10800,14 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-size-adjust-1/",
-              "title": "CSS Mobile Text Size Adjustment Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-page-3/",
-              "title": "CSS Paged Media Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-page-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-scoping-1/",
               "title": "CSS Scoping Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scoping/"
             },
             {
-              "url": "https://www.w3.org/TR/css-text-decor-4/",
-              "title": "CSS Text Decoration Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-text-4/",
-              "title": "CSS Text Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-text-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -10818,19 +10817,14 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-variables-1/",
-              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-variables/"
-            },
-            {
-              "url": "https://www.w3.org/TR/cssom-1/",
-              "title": "CSS Object Model (CSSOM)",
-              "crawled": "https://drafts.csswg.org/cssom/"
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -10838,19 +10832,9 @@
               "crawled": "https://drafts.csswg.org/css-syntax/"
             },
             {
-              "url": "https://www.w3.org/TR/mediaqueries-4/",
-              "title": "Media Queries Level 4",
-              "crawled": "https://drafts.csswg.org/mediaqueries-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediaqueries-5/",
-              "title": "Media Queries Level 5",
-              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -55822,7 +55806,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "15 December 2021",
+      "date": "15 January 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
