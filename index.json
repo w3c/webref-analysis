@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-16T06:50:22.361Z",
+  "date": "2022-01-16T12:47:42.356Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -54647,7 +54647,7 @@
     {
       "title": "Web Cryptography API",
       "shortname": "WebCryptoAPI",
-      "date": "14 December 2021",
+      "date": "16 January 2022",
       "url": "https://www.w3.org/TR/WebCryptoAPI/",
       "release": {
         "url": "https://www.w3.org/TR/WebCryptoAPI/",
