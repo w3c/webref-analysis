@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-16T12:47:42.356Z",
+  "date": "2022-01-16T18:42:06.434Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -900,7 +900,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "15 January 2022",
+      "date": "16 January 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
