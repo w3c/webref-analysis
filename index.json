@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-17T06:45:55.579Z",
+  "date": "2022-01-17T12:47:18.776Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -22690,11 +22690,6 @@
               "crawled": "https://w3c.github.io/mediacapture-automation/"
             },
             {
-              "url": "https://www.w3.org/TR/navigation-timing-2/",
-              "title": "Navigation Timing Level 2",
-              "crawled": "https://w3c.github.io/navigation-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -26062,7 +26057,7 @@
     {
       "title": "High Resolution Time",
       "shortname": "hr-time-3",
-      "date": "01 December 2021",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/hr-time-3/",
       "release": {
         "url": "https://www.w3.org/TR/hr-time-3/",
@@ -26285,6 +26280,11 @@
               "url": "https://wicg.github.io/js-self-profiling/",
               "title": "JS Self-Profiling API",
               "crawled": "https://wicg.github.io/js-self-profiling/"
+            },
+            {
+              "url": "https://www.w3.org/TR/navigation-timing-2/",
+              "title": "Navigation Timing Level 2",
+              "crawled": "https://w3c.github.io/navigation-timing/"
             }
           ]
         },
@@ -39556,7 +39556,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "06 January 2022",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -41580,7 +41580,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "27 September 2021",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -41613,9 +41613,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://webidl.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -41681,9 +41679,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#concept-document-window",
-            "https://html.spec.whatwg.org/#the-document's-address",
             "https://html.spec.whatwg.org/#document-load-timing-info",
             "https://html.spec.whatwg.org/#document-unload-timing-info",
             "https://html.spec.whatwg.org/#unload-event-start-time",
@@ -41708,6 +41704,7 @@
             "https://html.spec.whatwg.org/#hh-entry-update",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-global-object-realm",
+            "https://html.spec.whatwg.org/#the-document's-address",
             "https://html.spec.whatwg.org/#load-timing-info",
             "https://html.spec.whatwg.org/#previous-document-unload-timing",
             "https://html.spec.whatwg.org/#same-origin",
@@ -41718,7 +41715,7 @@
             "https://html.spec.whatwg.org/#fetching-resources",
             "https://html.spec.whatwg.org/#relevant-application-cache",
             "https://html.spec.whatwg.org/#document",
-            "https://webidl.spec.whatwg.org/#default-tojson-operation"
+            "https://html.spec.whatwg.org/#navigate"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -46158,7 +46155,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/navigation-timing-2/#dom-PerformanceNavigationTiming-startTime",
             "https://fetch.spec.whatwg.org/#record-connection-timing-info",
             "https://fetch.spec.whatwg.org/#concept-tao-check",
             "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
@@ -46166,6 +46162,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://www.w3.org/TR/navigation-timing-2/#dom-PerformanceNavigationTiming-startTime",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#script",
@@ -54296,7 +54293,8 @@
             "https://html.spec.whatwg.org/#clean-up-after-running-script",
             "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
-            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference"
+            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference",
+            "https://w3c.github.io/hr-time/#sec-privacy-security"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -55219,6 +55217,11 @@
               "url": "https://w3c.github.io/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/navigation-timing-2/",
+              "title": "Navigation Timing Level 2",
+              "crawled": "https://w3c.github.io/navigation-timing/"
             },
             {
               "url": "https://wicg.github.io/netinfo/",
@@ -62873,7 +62876,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "06 January 2022",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
