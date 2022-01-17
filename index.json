@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-17T12:47:18.776Z",
+  "date": "2022-01-17T18:42:42.129Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -2458,7 +2458,7 @@
     {
       "title": "Compositing and Blending Level 2",
       "shortname": "compositing-2",
-      "date": "28 October 2015",
+      "date": "6 January 2022",
       "url": "https://drafts.fxtf.org/compositing-2/",
       "nightly": {
         "url": "https://drafts.fxtf.org/compositing-2/",
@@ -2488,18 +2488,17 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css3-background/",
+          "https://www.w3.org/TR/css3-color/",
+          "https://dom.spec.whatwg.org/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/2014/CR-compositing-1-20140220/",
           "https://www.w3.org/TR/2013/WD-compositing-1-20131010/",
           "https://www.w3.org/TR/2013/WD-compositing-1-20130625/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/2dcontext2/",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/2003/REC-SVG11-20030114/",
             "ref": {
@@ -2512,13 +2511,6 @@
             "ref": {
               "name": "SVG11",
               "url": "https://www.w3.org/TR/SVG11/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2dcontext/",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
             }
           }
         ],
@@ -2563,17 +2555,19 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://drafts.csswg.org/css2/#stacking-context",
+            "https://www.w3.org/TR/css-cascade/#applies-to"
+          ],
           "notDfn": [],
           "brokenLinks": [
+            "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#the-body-element"
+            "https://html.spec.whatwg.org/#the-body-element",
+            "https://html.spec.whatwg.org/#2dcontext"
           ],
           "evolvingLinks": [],
-          "outdatedSpecs": [
-            "https://www.w3.org/TR/2dcontext2/",
-            "https://www.w3.org/TR/2dcontext/"
-          ],
+          "outdatedSpecs": [],
           "datedUrls": [
             "https://www.w3.org/TR/2003/REC-SVG11-20030114/",
             "https://www.w3.org/TR/2011/REC-SVG11-20110816/",
@@ -2635,7 +2629,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "14 January 2022",
+      "date": "17 January 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -3457,7 +3451,7 @@
     {
       "title": "Cooperative Scheduling of Background Tasks",
       "shortname": "requestidlecallback",
-      "date": "22 November 2021",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/requestidlecallback/",
       "release": {
         "url": "https://www.w3.org/TR/requestidlecallback/",
@@ -3525,8 +3519,8 @@
             "https://html.spec.whatwg.org/#event-loop",
             "https://html.spec.whatwg.org/#event-loop-processing-model",
             "https://html.spec.whatwg.org/#visibility-state",
-            "https://html.spec.whatwg.org/#concept-task",
-            "https://html.spec.whatwg.org/#report-the-exception"
+            "https://html.spec.whatwg.org/#report-the-exception",
+            "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4115,6 +4109,11 @@
               "url": "https://www.w3.org/TR/compositing-1/",
               "title": "Compositing and Blending Level 1",
               "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
+              "url": "https://drafts.fxtf.org/compositing-2/",
+              "title": "Compositing and Blending Level 2",
+              "crawled": "https://drafts.fxtf.org/compositing-2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS21/",
@@ -5291,6 +5290,11 @@
               "url": "https://www.w3.org/TR/compositing-1/",
               "title": "Compositing and Blending Level 1",
               "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
+              "url": "https://drafts.fxtf.org/compositing-2/",
+              "title": "Compositing and Blending Level 2",
+              "crawled": "https://drafts.fxtf.org/compositing-2/"
             },
             {
               "url": "https://drafts.csswg.org/css-backgrounds-4/",
@@ -6995,6 +6999,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://drafts.fxtf.org/compositing-2/",
+              "title": "Compositing and Blending Level 2",
+              "crawled": "https://drafts.fxtf.org/compositing-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations/"
@@ -8154,7 +8163,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "12 January 2022",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -18946,11 +18955,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.fxtf.org/compositing-2/",
-              "title": "Compositing and Blending Level 2",
-              "crawled": "https://drafts.fxtf.org/compositing-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations/"
@@ -19475,6 +19479,11 @@
               "url": "https://www.w3.org/TR/compositing-1/",
               "title": "Compositing and Blending Level 1",
               "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
+              "url": "https://drafts.fxtf.org/compositing-2/",
+              "title": "Compositing and Blending Level 2",
+              "crawled": "https://drafts.fxtf.org/compositing-2/"
             },
             {
               "url": "https://www.w3.org/TR/csp-embedded-enforcement/",
@@ -25033,7 +25042,7 @@
     {
       "title": "Fullscreen API Standard",
       "shortname": "fullscreen",
-      "date": "19 July 2021",
+      "date": "17 January 2022",
       "url": "https://fullscreen.spec.whatwg.org/",
       "nightly": {
         "url": "https://fullscreen.spec.whatwg.org/",
@@ -25167,8 +25176,7 @@
             "https://html.spec.whatwg.org/#event-handler-content-attributes",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#attr-iframe-allowfullscreen",
-            "https://html.spec.whatwg.org/#attr-iframe-allow",
-            "https://infra.spec.whatwg.org/#pair"
+            "https://html.spec.whatwg.org/#attr-iframe-allow"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -26986,7 +26994,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "14 January 2022",
+      "date": "17 January 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36867,7 +36875,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "3 January 2022",
+      "date": "17 January 2022",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -41092,7 +41100,7 @@
     {
       "title": "MIME Sniffing Standard",
       "shortname": "mimesniff",
-      "date": "11 September 2021",
+      "date": "17 January 2022",
       "url": "https://mimesniff.spec.whatwg.org/",
       "nightly": {
         "url": "https://mimesniff.spec.whatwg.org/",
@@ -41920,7 +41928,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "23 November 2021",
+      "date": "17 January 2022",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -55059,6 +55067,11 @@
               "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
             },
             {
+              "url": "https://fullscreen.spec.whatwg.org/",
+              "title": "Fullscreen API Standard",
+              "crawled": "https://fullscreen.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/gamepad/",
               "title": "Gamepad",
               "crawled": "https://w3c.github.io/gamepad/"
@@ -62551,7 +62564,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 January 2022",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62667,7 +62680,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 January 2022",
+      "date": "17 January 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
