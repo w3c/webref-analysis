@@ -21,21 +21,10 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>458 specifications were crawled in this report.</p>
-  <section id="specifications-that-could-not-be-rendered" class="level2">
-  <h2>Specifications that could not be rendered</h2>
-  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
-  <ul>
-  <li><a href="%5Bobject%20Object%5D">HTML Media Capture</a>: <code>Error: Evaluation failed: Error: Respec generation took too long   at isReady (__puppeteer_evaluation_script__:12:27)   at isReady (__puppeteer_evaluation_script__:19:27)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long   at isReady (__puppeteer_evaluation_script__:12:27)   at isReady (__puppeteer_evaluation_script__:19:27)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at async isReady (__puppeteer_evaluation_script__:19:21)   at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)   at runMicrotasks (&lt;anonymous&gt;)   at processTicksAndRejections (internal/process/task_queues.js:95:5)   at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)   at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:9)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:52:24)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 347)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
-  </ul>
-  <p>=&gt; 1 specification found</p>
-  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
-  <li><a href="https://drafts.csswg.org/css-animations-2/">500 Internal Server Error</a></li>
-  <li><a href="https://drafts.csswg.org/css-backgrounds-4/">500 Internal Server Error</a></li>
-  <li><a href="https://drafts.csswg.org/css-env-1/">500 Internal Server Error</a></li>
-  <li><a href="https://drafts.csswg.org/css-extensions-1/">500 Internal Server Error</a></li>
+  <li><a href="https://drafts.csswg.org/css-animations/">[No title found for https://drafts.csswg.org/css-animations/]</a></li>
   <li><a href="https://tc39.es/proposal-accessible-object-hasownproperty/">Accessible <code>Object.hasOwnProperty</code></a></li>
   <li><a href="https://tc39.es/proposal-array-grouping/">Array Grouping</a></li>
   <li><a href="https://tc39.es/proposal-atomics-wait-async/">Atomics.waitAsync</a></li>
@@ -117,7 +106,7 @@
   <li><a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/">WebGL WEBGL_multi_draw Extension Specification</a></li>
   <li><a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/">WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification</a></li>
   </ul>
-  <p>=&gt; 84 specifications found</p>
+  <p>=&gt; 81 specifications found</p>
   <p>Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.</p>
   </section>
   <section id="list-of-specifications-with-invalid-webidl-content" class="level2">
@@ -198,7 +187,7 @@
   <li><code>ArrayBuffer</code> used in <a href="https://drafts.csswg.org/css-font-loading/">CSS Font Loading Module Level 3</a>, <a href="https://w3c.github.io/encrypted-media/">Encrypted Media Extensions</a>, <a href="https://fetch.spec.whatwg.org/">Fetch Standard</a>, <a href="https://w3c.github.io/FileAPI/">File API</a>, <a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a>, <a href="https://w3c.github.io/presentation-api/">Presentation API</a>, <a href="https://w3c.github.io/push-api/">Push API</a>, <a href="https://webaudio.github.io/web-audio-api/">Web Audio API</a>, <a href="https://w3c.github.io/webauthn/">Web Authentication: An API for accessing Public Key Credentials - Level</a>, <a href="https://w3c.github.io/webcrypto/">Web Cryptography API</a>, <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a>, <a href="https://webassembly.github.io/spec/js-api/">WebAssembly JavaScript Interface</a>, <a href="https://gpuweb.github.io/gpuweb/">WebGPU</a>, <a href="https://w3c.github.io/webrtc-pc/">WebRTC 1.0: Real-Time Communication Between Browsers</a>, <a href="https://w3c.github.io/webrtc-encoded-transform/">WebRTC Encoded Transform</a>, <a href="https://immersive-web.github.io/depth-sensing/">WebXR Depth Sensing Module</a></li>
   <li><code>BigInt64Array</code> used in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><code>BigUint64Array</code> used in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
-  <li><code>CSSOMString</code> used in <a href="https://drafts.csswg.org/css-animations/">CSS Animations Level 1</a>, <a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a>, <a href="https://drafts.csswg.org/css-conditional-3/">CSS Conditional Rules Module Level 3</a>, <a href="https://drafts.csswg.org/css-counter-styles/">CSS Counter Styles Level 3</a>, <a href="https://drafts.csswg.org/css-font-loading/">CSS Font Loading Module Level 3</a>, <a href="https://drafts.csswg.org/css-fonts-4/">CSS Fonts Module Level 4</a>, <a href="https://drafts.csswg.org/css-nesting/">CSS Nesting Module</a>, <a href="https://drafts.csswg.org/cssom/">CSS Object Model (CSSOM)</a>, <a href="https://drafts.css-houdini.org/css-properties-values-api-1/">CSS Properties and Values API Level 1</a>, <a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a>, <a href="https://drafts.csswg.org/css-regions/">CSS Regions Module Level 1</a>, <a href="https://drafts.csswg.org/css-transitions/">CSS Transitions</a>, <a href="https://drafts.csswg.org/css-transitions-2/">CSS Transitions Level 2</a>, <a href="https://drafts.csswg.org/cssom-view/">CSSOM View Module</a>, <a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a>, <a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
+  <li><code>CSSOMString</code> used in <a href="https://drafts.csswg.org/css-animations-2/">CSS Animations Level 2</a>, <a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a>, <a href="https://drafts.csswg.org/css-conditional-3/">CSS Conditional Rules Module Level 3</a>, <a href="https://drafts.csswg.org/css-counter-styles/">CSS Counter Styles Level 3</a>, <a href="https://drafts.csswg.org/css-font-loading/">CSS Font Loading Module Level 3</a>, <a href="https://drafts.csswg.org/css-fonts-4/">CSS Fonts Module Level 4</a>, <a href="https://drafts.csswg.org/css-nesting/">CSS Nesting Module</a>, <a href="https://drafts.csswg.org/cssom/">CSS Object Model (CSSOM)</a>, <a href="https://drafts.css-houdini.org/css-properties-values-api-1/">CSS Properties and Values API Level 1</a>, <a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a>, <a href="https://drafts.csswg.org/css-regions/">CSS Regions Module Level 1</a>, <a href="https://drafts.csswg.org/css-transitions/">CSS Transitions</a>, <a href="https://drafts.csswg.org/css-transitions-2/">CSS Transitions Level 2</a>, <a href="https://drafts.csswg.org/cssom-view/">CSSOM View Module</a>, <a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a>, <a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   <li><code>CSSPercentishArray</code> used in <a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><code>DOMTimeStamp</code> used in <a href="https://wicg.github.io/cookie-store/">Cookie Store API</a></li>
   <li><code>DataView</code> used in <a href="https://webbluetoothcg.github.io/web-bluetooth/">Web Bluetooth</a>, <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a>, <a href="https://w3c.github.io/web-nfc/">Web NFC</a>, <a href="https://wicg.github.io/webhid/">WebHID API</a>, <a href="https://wicg.github.io/webusb/">WebUSB API</a></li>
@@ -1075,8 +1064,9 @@
   <li><a href="https://w3c.github.io/html/infrastructure.html"><code>https://w3c.github.io/html/infrastructure.html</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/web-animations/level-2/"><code>https://w3c.github.io/web-animations/level-2/</code></a> but does not list it in its references</li>
   </ul></li>
-  <li><a href="https://drafts.csswg.org/css-animations/">CSS Animations Level 1</a> links to:
+  <li><a href="https://drafts.csswg.org/css-animations-2/">CSS Animations Level 2</a> links to:
   <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
@@ -1101,6 +1091,16 @@
   <li><a href="https://www.w3.org/TR/2012/WD-css3-background-20120214/"><code>https://www.w3.org/TR/2012/WD-css3-background-20120214/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/2011/CR-css3-background-20110215/"><code>https://www.w3.org/TR/2011/CR-css3-background-20110215/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/2009/CR-css3-background-20091217/"><code>https://www.w3.org/TR/2009/CR-css3-background-20091217/</code></a> but does not list it in its references</li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-4/">CSS Backgrounds and Borders Module Level 4</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css3-background/"><code>https://www.w3.org/TR/css3-background/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css3-transitions/"><code>https://www.w3.org/TR/css3-transitions/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-ui-4/">CSS Basic User Interface Module Level 4</a> links to:
   <ul>
@@ -2082,7 +2082,7 @@
   <li><a href="https://immersive-web.github.io/lighting-estimation/">WebXR Lighting Estimation API Level 1</a> links to <a href="https://www.w3.org/TR/webxrlayers-1/"><code>https://www.w3.org/TR/webxrlayers-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 717 missing references for links found in 194 specifications</p>
+  <p>=&gt; 725 missing references for links found in 195 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -2168,7 +2168,6 @@
   <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
   <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a> but related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
   </ul></li>
-  <li><a href="https://drafts.csswg.org/css-animations/">CSS Animations Level 1</a> links to <a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
   <li><a href="https://drafts.csswg.org/css-backgrounds/">CSS Backgrounds and Borders Module Level 3</a> links to <a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
   <li><a href="https://drafts.csswg.org/css-ui-4/">CSS Basic User Interface Module Level 4</a> links to <a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
   <li><a href="https://drafts.csswg.org/css-align/">CSS Box Alignment Module Level 3</a> links to <a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
@@ -2632,7 +2631,7 @@
   <li><a href="https://immersive-web.github.io/dom-overlays/">WebXR DOM Overlays Module</a> links to <a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a> but related reference “UIEVENTS” uses URL <a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a></li>
   <li><a href="https://immersive-web.github.io/webxr-hand-input/">WebXR Hand Input Module - Level 1</a> links to <a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
   </ul>
-  <p>=&gt; 338 inconsistent references for links found in 179 specifications</p>
+  <p>=&gt; 337 inconsistent references for links found in 178 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
@@ -2759,16 +2758,35 @@
   <li><a href="https://drafts.csswg.org/web-animations#effect-stack"><code>https://drafts.csswg.org/web-animations#effect-stack</code></a></li>
   <li><a href="https://drafts.csswg.org/web-animations#animation-class"><code>https://drafts.csswg.org/web-animations#animation-class</code></a></li>
   </ul></li>
-  <li><a href="https://drafts.csswg.org/css-animations/">CSS Animations Level 1</a>:
+  <li><a href="https://drafts.csswg.org/css-animations-2/">CSS Animations Level 2</a>:
   <ul>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#play-state"><code>https://drafts.csswg.org/web-animations-1/#play-state</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#paused-play-state"><code>https://drafts.csswg.org/web-animations-1/#paused-play-state</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#target-element"><code>https://drafts.csswg.org/web-animations-1/#target-element</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#animation-class"><code>https://drafts.csswg.org/web-animations-1/#animation-class</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#idle-play-state"><code>https://drafts.csswg.org/web-animations-1/#idle-play-state</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#keyframe"><code>https://drafts.csswg.org/web-animations-1/#keyframe</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#iteration-duration"><code>https://drafts.csswg.org/web-animations-1/#iteration-duration</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#animation-effect"><code>https://drafts.csswg.org/web-animations-1/#animation-effect</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#iteration-count"><code>https://drafts.csswg.org/web-animations-1/#iteration-count</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#playback-direction"><code>https://drafts.csswg.org/web-animations-1/#playback-direction</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#play-an-animation"><code>https://drafts.csswg.org/web-animations-1/#play-an-animation</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#pause-an-animation"><code>https://drafts.csswg.org/web-animations-1/#pause-an-animation</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#start-delay"><code>https://drafts.csswg.org/web-animations-1/#start-delay</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#fill-mode"><code>https://drafts.csswg.org/web-animations-1/#fill-mode</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#composite-operation"><code>https://drafts.csswg.org/web-animations-1/#composite-operation</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#unresolved"><code>https://drafts.csswg.org/web-animations-1/#unresolved</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#active-duration"><code>https://drafts.csswg.org/web-animations-1/#active-duration</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#current-iteration"><code>https://drafts.csswg.org/web-animations-1/#current-iteration</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#iteration-start"><code>https://drafts.csswg.org/web-animations-1/#iteration-start</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#active-time"><code>https://drafts.csswg.org/web-animations-1/#active-time</code></a></li>
   <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-easing-1/#input-progress-value"><code>https://drafts.csswg.org/css-easing-1/#input-progress-value</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-easing-1/#step-easing-function"><code>https://drafts.csswg.org/css-easing-1/#step-easing-function</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-easing-1/#step-position"><code>https://drafts.csswg.org/css-easing-1/#step-position</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-easing-1/#output-progress-value"><code>https://drafts.csswg.org/css-easing-1/#output-progress-value</code></a></li>
-  <li><a href="https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order"><code>https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-backgrounds/">CSS Backgrounds and Borders Module Level 3</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-4/">CSS Backgrounds and Borders Module Level 4</a>:
   <ul>
   <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
   </ul></li>
@@ -3717,6 +3735,7 @@
   <li><a href="https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate"><code>https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate</code></a></li>
   <li><a href="https://drafts.csswg.org/css-easing-1/#input-progress-value"><code>https://drafts.csswg.org/css-easing-1/#input-progress-value</code></a></li>
   <li><a href="https://drafts.csswg.org/css-easing-1/#before-flag"><code>https://drafts.csswg.org/css-easing-1/#before-flag</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-2/#owning-element"><code>https://drafts.csswg.org/css-animations-2/#owning-element</code></a></li>
   <li><a href="https://drafts.csswg.org/css-transitions-2/#owning-element"><code>https://drafts.csswg.org/css-transitions-2/#owning-element</code></a></li>
   <li><a href="https://drafts.csswg.org/css-style-attr/#style-attribute"><code>https://drafts.csswg.org/css-style-attr/#style-attribute</code></a></li>
   </ul></li>
@@ -4056,7 +4075,7 @@
   <li><a href="https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm"><code>https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 823 problematic external links found in 198 specifications</p>
+  <p>=&gt; 840 problematic external links found in 199 specifications</p>
   </section>
   <section id="external-links-that-neither-target-definitions-nor-headings" class="level2">
   <h2>External links that neither target definitions nor headings</h2>
@@ -4403,6 +4422,10 @@
   <li><a href="https://www.w3.org/TR/wai-aria-1.1/#aria-label"><code>https://www.w3.org/TR/wai-aria-1.1/#aria-label</code></a></li>
   <li><a href="https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby"><code>https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby</code></a></li>
   <li><a href="https://www.w3.org/TR/wai-aria-1.1/#aria-describedby"><code>https://www.w3.org/TR/wai-aria-1.1/#aria-describedby</code></a></li>
+  </ul></li>
+  <li><a href="https://w3c.github.io/html-media-capture/">HTML Media Capture</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"><code>https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode</code></a></li>
   </ul></li>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a>:
   <ul>
@@ -5028,7 +5051,7 @@
   <li><a href="https://heycam.github.io/webidl/#dfn-DOMException"><code>https://heycam.github.io/webidl/#dfn-DOMException</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 807 problematic external links found in 53 specifications</p>
+  <p>=&gt; 808 problematic external links found in 54 specifications</p>
   </section>
   <section id="broken-external-links" class="level2">
   <h2>Broken external links</h2>
@@ -5578,6 +5601,16 @@
   </ul></li>
   <li><a href="https://compat.spec.whatwg.org/">Compatibility Standard</a>:
   <ul>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"><code>https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-name"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-duration"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-duration</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-direction"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-direction</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-delay"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-delay</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation</code></a></li>
   <li><a href="https://drafts.csswg.org/css-transitions/#animtype-color"><code>https://drafts.csswg.org/css-transitions/#animtype-color</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
@@ -5885,16 +5918,42 @@
   <li><a href="https://w3c.github.io/web-animations/level-2/#group-effect"><code>https://w3c.github.io/web-animations/level-2/#group-effect</code></a></li>
   <li><a href="https://w3c.github.io/web-animations/level-2/#child-effect"><code>https://w3c.github.io/web-animations/level-2/#child-effect</code></a></li>
   </ul></li>
-  <li><a href="https://drafts.csswg.org/css-animations/">CSS Animations Level 1</a>:
+  <li><a href="https://drafts.csswg.org/css-animations-2/">CSS Animations Level 2</a>:
   <ul>
-  <li><a href="https://html.spec.whatwg.org/#event-handlers"><code>https://html.spec.whatwg.org/#event-handlers</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-handler-event-type"><code>https://html.spec.whatwg.org/#event-handler-event-type</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#html-elements"><code>https://html.spec.whatwg.org/#html-elements</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-handler-content-attributes"><code>https://html.spec.whatwg.org/#event-handler-content-attributes</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-handler-idl-attributes"><code>https://html.spec.whatwg.org/#event-handler-idl-attributes</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#globaleventhandlers"><code>https://html.spec.whatwg.org/#globaleventhandlers</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#target-effect"><code>https://drafts.csswg.org/web-animations-1/#target-effect</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#before-phase"><code>https://drafts.csswg.org/web-animations-1/#before-phase</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#idle-phase"><code>https://drafts.csswg.org/web-animations-1/#idle-phase</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#current-time"><code>https://drafts.csswg.org/web-animations-1/#current-time</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#after-phase"><code>https://drafts.csswg.org/web-animations-1/#after-phase</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#target-effect-end"><code>https://drafts.csswg.org/web-animations-1/#target-effect-end</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#sampling"><code>https://drafts.csswg.org/web-animations-1/#sampling</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#pending-play-state"><code>https://drafts.csswg.org/web-animations-1/#pending-play-state</code></a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/#active-phase"><code>https://drafts.csswg.org/web-animations-1/#active-phase</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"><code>https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-duration"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-duration</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-delay"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-delay</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-name"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name"><code>https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-direction"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-direction</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-running"><code>https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-running</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-paused"><code>https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-paused</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#typedef-single-animation-iteration-count"><code>https://drafts.csswg.org/css-animations-1/#typedef-single-animation-iteration-count</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#typedef-single-animation-direction"><code>https://drafts.csswg.org/css-animations-1/#typedef-single-animation-direction</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#typedef-single-animation-fill-mode"><code>https://drafts.csswg.org/css-animations-1/#typedef-single-animation-fill-mode</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#typedef-single-animation-play-state"><code>https://drafts.csswg.org/css-animations-1/#typedef-single-animation-play-state</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime"><code>https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationstart"><code>https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationstart</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationend"><code>https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationend</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration"><code>https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationcancel"><code>https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationcancel</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#animationevent"><code>https://drafts.csswg.org/css-animations-1/#animationevent</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-animations-1/#animation-name"><code>https://www.w3.org/TR/css-animations-1/#animation-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/#css-identifier"><code>https://drafts.csswg.org/css-values-4/#css-identifier</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-backgrounds/">CSS Backgrounds and Borders Module Level 3</a>:
   <ul>
@@ -5904,6 +5963,10 @@
   <li><a href="https://www.w3.org/TR/selectors-3/#sel-first-line"><code>https://www.w3.org/TR/selectors-3/#sel-first-line</code></a></li>
   <li><a href="https://www.w3.org/TR/selectors-3/#first-letter0"><code>https://www.w3.org/TR/selectors-3/#first-letter0</code></a></li>
   <li><a href="https://www.w3.org/TR/css-color-3/#color0"><code>https://www.w3.org/TR/css-color-3/#color0</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-4/">CSS Backgrounds and Borders Module Level 4</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css3-transitions/#animtype-color"><code>https://www.w3.org/TR/css3-transitions/#animtype-color</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-ui-4/">CSS Basic User Interface Module Level 4</a>:
   <ul>
@@ -5979,6 +6042,7 @@
   <li><a href="https://html.spec.whatwg.org/#audio"><code>https://html.spec.whatwg.org/#audio</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-s-element"><code>https://html.spec.whatwg.org/#the-s-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-slot-element"><code>https://html.spec.whatwg.org/#the-slot-element</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"><code>https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-cascade-6/">CSS Cascading and Inheritance Level 6</a>:
   <ul>
@@ -5998,6 +6062,7 @@
   <li><a href="https://drafts.csswg.org/css-color/">CSS Color Module Level 4</a>:
   <ul>
   <li><a href="https://html.spec.whatwg.org/#the-mark-element"><code>https://html.spec.whatwg.org/#the-mark-element</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-conditional-3/">CSS Conditional Rules Module Level 3</a>:
   <ul>
@@ -6016,6 +6081,7 @@
   <li><a href="https://html.spec.whatwg.org/#dom-window-focus"><code>https://html.spec.whatwg.org/#dom-window-focus</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-iframe-element"><code>https://html.spec.whatwg.org/#the-iframe-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-innertext"><code>https://html.spec.whatwg.org/#dom-innertext</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration"><code>https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-counter-styles/">CSS Counter Styles Level 3</a>:
   <ul>
@@ -6025,6 +6091,10 @@
   <ul>
   <li><a href="https://html.spec.whatwg.org/#current-global-object"><code>https://html.spec.whatwg.org/#current-global-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-document-window"><code>https://html.spec.whatwg.org/#concept-document-window</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css-variables/">CSS Custom Properties for Cascading Variables Module Level 1</a>:
+  <ul>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"><code>https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-device-adapt/">CSS Device Adaptation Module Level 1</a>:
   <ul>
@@ -6071,7 +6141,6 @@
   <li><a href="https://drafts.csswg.org/css-fonts-4/">CSS Fonts Module Level 4</a>:
   <ul>
   <li><a href="https://html.spec.whatwg.org/#font"><code>https://html.spec.whatwg.org/#font</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-env-1/#funcdef-env"><code>https://drafts.csswg.org/css-env-1/#funcdef-env</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-gcpm/">CSS Generated Content for Paged Media Module</a>:
   <ul>
@@ -6167,12 +6236,15 @@
   <li><a href="https://html.spec.whatwg.org/#browsing-context"><code>https://html.spec.whatwg.org/#browsing-context</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#browsing-context-container"><code>https://html.spec.whatwg.org/#browsing-context-container</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#being-rendered"><code>https://html.spec.whatwg.org/#being-rendered</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#csskeyframesrule"><code>https://drafts.csswg.org/css-animations-1/#csskeyframesrule</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-name"><code>https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-cssrules"><code>https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-cssrules</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#csskeyframerule"><code>https://drafts.csswg.org/css-animations-1/#csskeyframerule</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#dom-csskeyframerule-keytext"><code>https://drafts.csswg.org/css-animations-1/#dom-csskeyframerule-keytext</code></a></li>
   <li><a href="https://drafts.csswg.org/css-color-3/#alphavalue-def"><code>https://drafts.csswg.org/css-color-3/#alphavalue-def</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a>:
   <ul>
-  <li><a href="https://www.w3.org/TR/css-backgrounds/#box-shadow"><code>https://www.w3.org/TR/css-backgrounds/#box-shadow</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-backgrounds-4/#background-painting-area"><code>https://drafts.csswg.org/css-backgrounds-4/#background-painting-area</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-html-element"><code>https://html.spec.whatwg.org/#the-html-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#html-vs-xhtml"><code>https://html.spec.whatwg.org/#html-vs-xhtml</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-body-element"><code>https://html.spec.whatwg.org/#the-body-element</code></a></li>
@@ -6182,10 +6254,6 @@
   <li><a href="https://drafts.csswg.org/selectors-3/#subject"><code>https://drafts.csswg.org/selectors-3/#subject</code></a></li>
   <li><a href="https://www.w3.org/TR/css3-transitions/#animatable-types"><code>https://www.w3.org/TR/css3-transitions/#animatable-types</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-dir"><code>https://html.spec.whatwg.org/#dom-dir</code></a></li>
-  </ul></li>
-  <li><a href="https://drafts.csswg.org/css-page-3/">CSS Paged Media Module Level 3</a>:
-  <ul>
-  <li><a href="https://drafts.csswg.org/css-backgrounds-4/#background-painting-area"><code>https://drafts.csswg.org/css-backgrounds-4/#background-painting-area</code></a></li>
   </ul></li>
   <li><a href="https://drafts.css-houdini.org/css-paint-api-1/">CSS Painting API Level 1</a>:
   <ul>
@@ -6248,6 +6316,8 @@
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-slot-element"><code>https://html.spec.whatwg.org/#the-slot-element</code></a></li>
   <li><a href="https://drafts.csswg.org/selectors-3/#x"><code>https://drafts.csswg.org/selectors-3/#x</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"><code>https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-name"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-name</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-scroll-anchoring/">CSS Scroll Anchoring Module Level 1</a>:
   <ul>
@@ -6314,6 +6384,10 @@
   <li><a href="https://html.spec.whatwg.org/#the-p-element"><code>https://html.spec.whatwg.org/#the-p-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#link-type-stylesheet"><code>https://html.spec.whatwg.org/#link-type-stylesheet</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-img-sizes"><code>https://html.spec.whatwg.org/#attr-img-sizes</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes"><code>https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name"><code>https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#typedef-keyframe-selector"><code>https://drafts.csswg.org/css-animations-1/#typedef-keyframe-selector</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a>:
   <ul>
@@ -6363,6 +6437,7 @@
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#globaleventhandlers"><code>https://html.spec.whatwg.org/#globaleventhandlers</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime"><code>https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-transitions-2/">CSS Transitions Level 2</a>:
   <ul>
@@ -6375,16 +6450,19 @@
   </ul></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a>:
   <ul>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#htmlelement"><code>https://html.spec.whatwg.org/#htmlelement</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-style-element"><code>https://html.spec.whatwg.org/#the-style-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-style"><code>https://html.spec.whatwg.org/#attr-style</code></a></li>
   <li><a href="https://www.w3.org/TR/css-values-3/#typedef-number-percentage"><code>https://www.w3.org/TR/css-values-3/#typedef-number-percentage</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-animations-2/#propdef-animation-composition"><code>https://drafts.csswg.org/css-animations-2/#propdef-animation-composition</code></a></li>
   <li><a href="https://drafts.csswg.org/css-fonts-3/#absolute-size-value"><code>https://drafts.csswg.org/css-fonts-3/#absolute-size-value</code></a></li>
   <li><a href="https://drafts.csswg.org/css-fonts-3/#relative-size-value"><code>https://drafts.csswg.org/css-fonts-3/#relative-size-value</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a>:
   <ul>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-name"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-name</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dynamic-changes-to-base-urls"><code>https://html.spec.whatwg.org/#dynamic-changes-to-base-urls</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-base-element"><code>https://html.spec.whatwg.org/#the-base-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-history-pushstate"><code>https://html.spec.whatwg.org/#dom-history-pushstate</code></a></li>
@@ -6394,6 +6472,10 @@
   <ul>
   <li><a href="https://www.w3.org/TR/css-values-3/#css-identifier"><code>https://www.w3.org/TR/css-values-3/#css-identifier</code></a></li>
   <li><a href="https://www.w3.org/TR/css-values-3/#acknowledgements"><code>https://www.w3.org/TR/css-values-3/#acknowledgements</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-name"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dynamic-changes-to-base-urls"><code>https://html.spec.whatwg.org/#dynamic-changes-to-base-urls</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-base-element"><code>https://html.spec.whatwg.org/#the-base-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-history-pushstate"><code>https://html.spec.whatwg.org/#dom-history-pushstate</code></a></li>
@@ -8024,7 +8106,6 @@
   <ul>
   <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#joint-session-history"><code>https://html.spec.whatwg.org/#joint-session-history</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-extensions-1/#typedef-extension-name"><code>https://drafts.csswg.org/css-extensions-1/#typedef-extension-name</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/mediasession/">Media Session Standard</a>:
   <ul>
@@ -9192,8 +9273,9 @@
   </ul></li>
   <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a>:
   <ul>
-  <li><a href="https://drafts.csswg.org/css-animations-2/#propdef-animation-timeline"><code>https://drafts.csswg.org/css-animations-2/#propdef-animation-timeline</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-animations-2/#typedef-timeline-name"><code>https://drafts.csswg.org/css-animations-2/#typedef-timeline-name</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-findrule"><code>https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-findrule</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#csskeyframerule"><code>https://drafts.csswg.org/css-animations-1/#csskeyframerule</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-document-windowconcept-document-window"><code>https://html.spec.whatwg.org/#concept-document-windowconcept-document-window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#current-global-object"><code>https://html.spec.whatwg.org/#current-global-object</code></a></li>
@@ -9785,8 +9867,6 @@
   <li><a href="https://html.spec.whatwg.org/#enumerated-attribute"><code>https://html.spec.whatwg.org/#enumerated-attribute</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#reflect"><code>https://html.spec.whatwg.org/#reflect</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-env-1/#environment"><code>https://drafts.csswg.org/css-env-1/#environment</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-env-1/#env-function"><code>https://drafts.csswg.org/css-env-1/#env-function</code></a></li>
   </ul></li>
   <li><a href="https://wicg.github.io/visual-viewport/">Visual Viewport API</a>:
   <ul>
@@ -9822,8 +9902,9 @@
   <li><a href="https://w3c.github.io/hr-time/#time-origin"><code>https://w3c.github.io/hr-time/#time-origin</code></a></li>
   <li><a href="https://w3c.github.io/hr-time/#domhighrestimestamp"><code>https://w3c.github.io/hr-time/#domhighrestimestamp</code></a></li>
   <li><a href="https://heycam.github.io/webidl/#dfn-present"><code>https://heycam.github.io/webidl/#dfn-present</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-animations-2/#owning-element"><code>https://drafts.csswg.org/css-animations-2/#owning-element</code></a></li>
-  <li><a href="https://drafts.csswg.org/css-animations-2/#cssanimation"><code>https://drafts.csswg.org/css-animations-2/#cssanimation</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations/#events"><code>https://drafts.csswg.org/css-animations/#events</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-animations-1/#propdef-animation-name"><code>https://drafts.csswg.org/css-animations-1/#propdef-animation-name</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/web-animations-2/">Web Animations Level 2</a>:
   <ul>
@@ -10708,7 +10789,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 4780 problematic external links found in 298 specifications</p>
+  <p>=&gt; 4835 problematic external links found in 299 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>
@@ -10789,6 +10870,11 @@
   <li><a href="https://w3c.github.io/html-aam/">HTML Accessibility API Mappings 1.0</a>:
   <ul>
   <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a></li>
+  </ul></li>
+  <li><a href="https://w3c.github.io/html-media-capture/">HTML Media Capture</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/html51/"><code>https://www.w3.org/TR/html51/</code></a></li>
+  <li><a href="https://www.w3.org/TR/custom-elements/"><code>https://www.w3.org/TR/custom-elements/</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/webrtc-identity/">Identity for WebRTC 1.0</a>:
   <ul>
@@ -10917,7 +11003,7 @@
   <li><a href="https://www.w3.org/TR/cors/"><code>https://www.w3.org/TR/cors/</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 55 problematic external links found in 48 specifications</p>
+  <p>=&gt; 57 problematic external links found in 49 specifications</p>
   </section>
   <section id="external-links-that-use-a-dated-url" class="level2">
   <h2>External links that use a dated URL</h2>
