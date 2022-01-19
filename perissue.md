@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 18, 2022
+% January 19, 2022
 
 458 specifications were crawled in this report.
 
@@ -1906,7 +1906,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/network-error-logging/`](https://w3c.github.io/network-error-logging/) but related reference "NETWORK-ERROR-LOGGING-1" uses URL [`https://www.w3.org/TR/network-error-logging-1/`](https://www.w3.org/TR/network-error-logging-1/)
 - [Local Font Access API](https://wicg.github.io/local-font-access/) links to:
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
-    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - [Long Tasks API 1](https://w3c.github.io/longtasks/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
 - [Magnetometer](https://w3c.github.io/magnetometer/) links to:
@@ -6432,6 +6432,7 @@ Links in the body of a specification should be to the same document as that poin
 - [Local Font Access API](https://wicg.github.io/local-font-access/):
      * [`https://html.spec.whatwg.org/#navigatorlanguage`](https://html.spec.whatwg.org/#navigatorlanguage)
      * [`https://html.spec.whatwg.org/#dom-navigator-language`](https://html.spec.whatwg.org/#dom-navigator-language)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
@@ -9109,7 +9110,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4779 problematic external links found in 299 specifications
+=> 4780 problematic external links found in 299 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

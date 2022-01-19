@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-18T18:45:17.428Z",
+  "date": "2022-01-19T00:52:17.153Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -12113,7 +12113,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "1 December 2021",
+      "date": "18 January 2022",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -27002,7 +27002,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 January 2022",
+      "date": "18 January 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -38853,7 +38853,7 @@
     {
       "title": "Local Font Access API",
       "shortname": "local-font-access",
-      "date": "23 December 2021",
+      "date": "18 January 2022",
       "url": "https://wicg.github.io/local-font-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-font-access/",
@@ -38894,7 +38894,7 @@
           {
             "link": "https://w3c.github.io/webappsec-permissions-policy/",
             "ref": {
-              "name": "PERMISSIONS-POLICY-1",
+              "name": "PERMISSIONS-POLICY",
               "url": "https://www.w3.org/TR/permissions-policy-1/"
             }
           },
@@ -38916,6 +38916,7 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#navigatorlanguage",
             "https://html.spec.whatwg.org/#dom-navigator-language",
+            "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#concept-relevant-global",
@@ -46296,7 +46297,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46361,7 +46362,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46399,7 +46400,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46493,7 +46494,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46572,7 +46573,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46636,7 +46637,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46674,7 +46675,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46735,7 +46736,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46791,7 +46792,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50307,7 +50308,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "14 January 2022",
+      "date": "18 January 2022",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -52822,7 +52823,7 @@
     {
       "title": "URLPattern API",
       "shortname": "urlpattern",
-      "date": "11 January 2022",
+      "date": "18 January 2022",
       "url": "https://wicg.github.io/urlpattern/",
       "nightly": {
         "url": "https://wicg.github.io/urlpattern/",
@@ -64646,7 +64647,7 @@
     {
       "title": "WOFF File Format 2.0",
       "shortname": "WOFF2",
-      "date": "06 July 2021",
+      "date": "18 January 2022",
       "url": "https://www.w3.org/TR/WOFF2/",
       "release": {
         "url": "https://www.w3.org/TR/WOFF2/",
