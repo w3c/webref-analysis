@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-19T18:41:36.507Z",
+  "date": "2022-01-20T00:50:54.397Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -762,7 +762,7 @@
     {
       "title": "App History API",
       "shortname": "app-history",
-      "date": "7 January 2022",
+      "date": "19 January 2022",
       "url": "https://wicg.github.io/app-history/",
       "nightly": {
         "url": "https://wicg.github.io/app-history/",
@@ -1974,7 +1974,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "20 December 2021",
+      "date": "19 January 2022",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -3407,7 +3407,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "18 January 2022",
+      "date": "20 January 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3813,7 +3813,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "6 January 2022",
+      "date": "19 January 2022",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",
@@ -14149,6 +14149,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://www.w3.org/TR/pointerevents3/",
+              "title": "Pointer Events",
+              "crawled": "https://w3c.github.io/pointerevents/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -22490,7 +22495,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "13 January 2022",
+      "date": "19 January 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -22546,7 +22551,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "13 January 2022",
+      "date": "19 January 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -46300,7 +46305,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46365,7 +46370,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46403,7 +46408,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46497,7 +46502,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46576,7 +46581,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46640,7 +46645,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46678,7 +46683,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46739,7 +46744,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46795,7 +46800,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -49355,7 +49360,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "30 December 2021",
+      "date": "19 January 2022",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -51018,7 +51023,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "17 January 2022",
+      "date": "19 January 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -52826,7 +52831,7 @@
     {
       "title": "URLPattern API",
       "shortname": "urlpattern",
-      "date": "18 January 2022",
+      "date": "19 January 2022",
       "url": "https://wicg.github.io/urlpattern/",
       "nightly": {
         "url": "https://wicg.github.io/urlpattern/",
@@ -54764,7 +54769,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "13 December 2021",
+      "date": "19 January 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -56069,7 +56074,7 @@
     {
       "title": "Web Serial API",
       "shortname": "serial",
-      "date": "01 December 2021",
+      "date": "19 January 2022",
       "url": "https://wicg.github.io/serial/",
       "nightly": {
         "url": "https://wicg.github.io/serial/",
@@ -62639,6 +62644,9 @@
           "notExported": [
             "https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable",
             "https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed",
+            "https://gpuweb.github.io/gpuweb/wgsl/#store-type",
+            "https://gpuweb.github.io/gpuweb/wgsl/#sizeof",
+            "https://gpuweb.github.io/gpuweb/wgsl/#runtime-sized",
             "https://gpuweb.github.io/gpuweb/wgsl/#pipeline-output",
             "https://gpuweb.github.io/gpuweb/wgsl/#pipeline-input",
             "https://gpuweb.github.io/gpuweb/wgsl/#invalid-memory-reference",
@@ -62679,6 +62687,7 @@
             "https://html.spec.whatwg.org/#dom-canvas-toblob",
             "https://html.spec.whatwg.org/#offscreencanvas-placeholder",
             "https://html.spec.whatwg.org/#eventhandler",
+            "https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size",
             "https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables"
           ],
           "evolvingLinks": [],
@@ -62867,7 +62876,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/credential-management-1/",
+              "title": "Credential Management Level 1",
+              "crawled": "https://w3c.github.io/webappsec-credential-management/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {

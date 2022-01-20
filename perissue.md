@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 19, 2022
+% January 20, 2022
 
 458 specifications were crawled in this report.
 
@@ -2992,6 +2992,9 @@ Links in the body of a specification should be to the same document as that poin
 - [WebGPU](https://gpuweb.github.io/gpuweb/):
      * [`https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable`](https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed`](https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#store-type`](https://gpuweb.github.io/gpuweb/wgsl/#store-type)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#sizeof`](https://gpuweb.github.io/gpuweb/wgsl/#sizeof)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#runtime-sized`](https://gpuweb.github.io/gpuweb/wgsl/#runtime-sized)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#pipeline-output`](https://gpuweb.github.io/gpuweb/wgsl/#pipeline-output)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#pipeline-input`](https://gpuweb.github.io/gpuweb/wgsl/#pipeline-input)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#invalid-memory-reference`](https://gpuweb.github.io/gpuweb/wgsl/#invalid-memory-reference)
@@ -3154,7 +3157,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 846 problematic external links found in 200 specifications
+=> 849 problematic external links found in 200 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -8880,6 +8883,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-canvas-toblob`](https://html.spec.whatwg.org/#dom-canvas-toblob)
      * [`https://html.spec.whatwg.org/#offscreencanvas-placeholder`](https://html.spec.whatwg.org/#offscreencanvas-placeholder)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size`](https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables`](https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables)
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/):
      * [`https://gpuweb.github.io/gpuweb/#dom-gputextureusage-storage`](https://gpuweb.github.io/gpuweb/#dom-gputextureusage-storage)
@@ -9109,7 +9113,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4779 problematic external links found in 299 specifications
+=> 4780 problematic external links found in 299 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
