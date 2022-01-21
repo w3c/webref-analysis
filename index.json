@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-21T12:49:07.097Z",
+  "date": "2022-01-21T18:43:08.058Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -7866,7 +7866,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "19 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -26355,7 +26355,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -42059,7 +42059,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -51038,7 +51038,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "19 January 2022",
+      "date": "21 January 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",

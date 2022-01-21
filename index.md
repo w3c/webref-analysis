@@ -597,7 +597,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 19 January 2022
+- Crawled version: 21 January 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -3043,7 +3043,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 20 January 2022
+- Crawled version: 21 January 2022
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -5465,7 +5465,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
-- Crawled version: 19 January 2022
+- Crawled version: 21 January 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -13367,7 +13367,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Crawled URL: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
-- Crawled version: 20 January 2022
+- Crawled version: 21 January 2022
 - Editor's Draft: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
 - Latest published version: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Shortname: openscreenprotocol
