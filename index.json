@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-20T18:43:37.797Z",
+  "date": "2022-01-21T00:53:58.951Z",
   "stats": {
     "crawled": 458,
-    "errors": 0,
+    "errors": 2,
     "studied": 458
   },
   "results": [
@@ -762,7 +762,7 @@
     {
       "title": "App History API",
       "shortname": "app-history",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://wicg.github.io/app-history/",
       "nightly": {
         "url": "https://wicg.github.io/app-history/",
@@ -893,7 +893,8 @@
             "https://html.spec.whatwg.org/#creating-a-new-browsing-context",
             "https://html.spec.whatwg.org/#stop-document-loading",
             "https://html.spec.whatwg.org/#a-browsing-context-is-discarded",
-            "https://html.spec.whatwg.org/#concept-navigate-mature"
+            "https://html.spec.whatwg.org/#concept-navigate-mature",
+            "https://w3c.github.io/webappsec-fetch-metadata/#http-headerdef-sec-fetch-site"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -1477,7 +1478,7 @@
     {
       "title": "Autoplay Policy Detection",
       "shortname": "autoplay",
-      "date": "10 January 2022",
+      "date": "12 January 2022",
       "url": "https://w3c.github.io/autoplay/",
       "nightly": {
         "url": "https://w3c.github.io/autoplay/",
@@ -1530,6 +1531,8 @@
             "https://html.spec.whatwg.org/#dom-media-muted",
             "https://html.spec.whatwg.org/#media-resource",
             "https://html.spec.whatwg.org/#user-activation-data-model",
+            "https://html.spec.whatwg.org/#htmlvideoelement",
+            "https://html.spec.whatwg.org/#htmlaudioelement",
             "https://html.spec.whatwg.org/#dom-media-play",
             "https://html.spec.whatwg.org/#sticky-activation"
           ],
@@ -23786,7 +23789,6 @@
     {
       "title": "Fetch Metadata Request Headers",
       "shortname": "fetch-metadata",
-      "date": "20 July 2021",
       "url": "https://www.w3.org/TR/fetch-metadata/",
       "release": {
         "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -23798,7 +23800,12 @@
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/webappsec-fetch-metadata/",
+      "crawled": {
+        "url": "https://w3c.github.io/webappsec-fetch-metadata/",
+        "repository": "https://github.com/w3c/webappsec-fetch-metadata",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -23807,7 +23814,8 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded\n    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -23819,15 +23827,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-secure-contexts/",
-            "ref": {
-              "name": "SECURE-CONTEXTS",
-              "url": "https://www.w3.org/TR/secure-contexts/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -23853,21 +23853,6 @@
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
             }
           ]
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#the-picture-element",
-            "https://html.spec.whatwg.org/#same-origin",
-            "https://html.spec.whatwg.org/#same-site",
-            "https://html.spec.whatwg.org/#process-a-navigate-fetch",
-            "https://html.spec.whatwg.org/#navigating-across-documents"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -24039,11 +24024,6 @@
               "url": "https://wicg.github.io/document-policy/",
               "title": "Document Policy",
               "crawled": "https://wicg.github.io/document-policy/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fetch-metadata/",
-              "title": "Fetch Metadata Request Headers",
-              "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
             },
             {
               "url": "https://www.w3.org/TR/FileAPI/",
@@ -24380,7 +24360,8 @@
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#windoworworkerglobalscope"
+            "https://html.spec.whatwg.org/#windoworworkerglobalscope",
+            "https://w3c.github.io/webappsec-fetch-metadata/#abstract-opdef-append-the-fetch-metadata-headers-for-a-request"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -25939,7 +25920,6 @@
     {
       "title": "Graphics Accessibility API Mappings",
       "shortname": "graphics-aam-1.0",
-      "date": "21 July 2021",
       "url": "https://www.w3.org/TR/graphics-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/graphics-aam-1.0/",
@@ -25951,7 +25931,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/graphics-aam/",
+      "crawled": {
+        "url": "https://w3c.github.io/graphics-aam/",
+        "repository": "https://github.com/w3c/graphics-aam",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -25960,7 +25945,8 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "TimeoutError: Navigation timeout of 120000 ms exceeded TimeoutError: Navigation timeout of 120000 ms exceeded\n    at /home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/LifecycleWatcher.js:107:111",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -25971,21 +25957,8 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/core-aam/",
-          "https://w3c.github.io/aria/",
-          "https://www.w3.org/TR/accname-aam-1.1/",
-          "https://www.w3.org/TR/wai-aria-practices/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/graphics-aria/",
-            "ref": {
-              "name": "GRAPHICS-ARIA-1.0",
-              "url": "https://www.w3.org/TR/graphics-aria-1.0/"
-            }
-          }
-        ],
+        "missingLinkRef": [],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -25995,20 +25968,6 @@
             }
           ],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [
-            "https://w3c.github.io/graphics-aria/#graphics-document",
-            "https://w3c.github.io/graphics-aria/#graphics-object",
-            "https://w3c.github.io/graphics-aria/#graphics-symbol"
-          ],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [
-            "https://www.w3.org/TR/html52/"
-          ],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -26869,6 +26828,7 @@
             "https://html.spec.whatwg.org/#the-sub-and-sup-elements",
             "https://www.w3.org/TR/core-aam-1.1/#ariaSetsize",
             "https://www.w3.org/TR/core-aam-1.1/#ariaPosinset",
+            "https://w3c.github.io/graphics-aam/#mapping_role_table",
             "https://www.w3.org/TR/html/#element-attrdef-label-for"
           ],
           "evolvingLinks": [],
@@ -33861,11 +33821,6 @@
               "crawled": "https://wicg.github.io/floc/"
             },
             {
-              "url": "https://www.w3.org/TR/fetch-metadata/",
-              "title": "Fetch Metadata Request Headers",
-              "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
-            },
-            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -34791,11 +34746,6 @@
               "url": "https://www.w3.org/TR/FileAPI/",
               "title": "File API",
               "crawled": "https://w3c.github.io/FileAPI/"
-            },
-            {
-              "url": "https://www.w3.org/TR/graphics-aam-1.0/",
-              "title": "Graphics Accessibility API Mappings",
-              "crawled": "https://w3c.github.io/graphics-aam/"
             },
             {
               "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -36122,11 +36072,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/fetch-metadata/",
-              "title": "Fetch Metadata Request Headers",
-              "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
-            },
-            {
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
@@ -37190,11 +37135,6 @@
               "url": "https://wicg.github.io/floc/",
               "title": "Federated Learning of Cohorts",
               "crawled": "https://wicg.github.io/floc/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fetch-metadata/",
-              "title": "Fetch Metadata Request Headers",
-              "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -42057,7 +41997,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "9 November 2021",
+      "date": "20 January 2022",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -44243,7 +44183,8 @@
             "https://html.spec.whatwg.org/#navigation-params-reserved-environment",
             "https://html.spec.whatwg.org/#process-a-navigate-url-scheme",
             "https://html.spec.whatwg.org/#allowed-to-download",
-            "https://html.spec.whatwg.org/#concept-environment-target-browsing-context"
+            "https://html.spec.whatwg.org/#concept-environment-target-browsing-context",
+            "https://www.w3.org/TR/fetch-metadata/#abstract-opdef-set-mode"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -46318,7 +46259,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46383,7 +46324,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46421,7 +46362,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46515,7 +46456,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46594,7 +46535,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46658,7 +46599,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46696,7 +46637,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46757,7 +46698,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46813,7 +46754,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "20 January 2022",
+      "date": "21 January 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -48299,11 +48240,6 @@
               "crawled": "https://drafts.fxtf.org/geometry/"
             },
             {
-              "url": "https://www.w3.org/TR/graphics-aam-1.0/",
-              "title": "Graphics Accessibility API Mappings",
-              "crawled": "https://w3c.github.io/graphics-aam/"
-            },
-            {
               "url": "https://www.w3.org/TR/resource-timing-2/",
               "title": "Resource Timing Level 2",
               "crawled": "https://w3c.github.io/resource-timing/"
@@ -48958,11 +48894,6 @@
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "DeviceOrientation Event Specification",
               "crawled": "https://w3c.github.io/deviceorientation/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fetch-metadata/",
-              "title": "Fetch Metadata Request Headers",
-              "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -50137,7 +50068,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "19 January 2022",
+      "date": "20 January 2022",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
@@ -50647,13 +50578,7 @@
               "crawled": "https://w3c.github.io/graphics-aria/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/graphics-aam-1.0/",
-              "title": "Graphics Accessibility API Mappings",
-              "crawled": "https://w3c.github.io/graphics-aam/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [],
@@ -50698,6 +50623,7 @@
             "https://w3c.github.io/core-aam/#role-map-img",
             "https://w3c.github.io/core-aam/#mapping_additional_widget-value",
             "https://w3c.github.io/core-aam/#document-handling",
+            "https://w3c.github.io/graphics-aam/#mapping_role_table",
             "https://w3c.github.io/graphics-aam/#role-map-graphics-symbol",
             "https://w3c.github.io/graphics-aam/#role-map-graphics-document",
             "https://w3c.github.io/graphics-aam/#role-map-graphics-object"
@@ -51154,6 +51080,8 @@
             "https://html.spec.whatwg.org/#restore-persisted-state",
             "https://html.spec.whatwg.org/#child-browsing-context",
             "https://w3c.github.io/webappsec-fetch-metadata/#request-user-activation-flag",
+            "https://w3c.github.io/webappsec-fetch-metadata/#http-headerdef-sec-fetch-site",
+            "https://w3c.github.io/webappsec-fetch-metadata/#directly-user-initiated",
             "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#algo-get-policy-value",
             "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#configuration-point",
             "https://w3c.github.io/webappsec-permissions-policy/document-policy.html#configuration-point-type",
@@ -52543,11 +52471,6 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/fetch-metadata/",
-              "title": "Fetch Metadata Request Headers",
-              "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
-            },
-            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -53596,11 +53519,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/graphics-aam-1.0/",
-              "title": "Graphics Accessibility API Mappings",
-              "crawled": "https://w3c.github.io/graphics-aam/"
-            },
             {
               "url": "https://www.w3.org/TR/svg-aam-1.0/",
               "title": "SVG Accessibility API Mappings",
@@ -55595,6 +55513,11 @@
               "url": "https://www.w3.org/TR/webtransport/",
               "title": "WebTransport",
               "crawled": "https://w3c.github.io/webtransport/"
+            },
+            {
+              "url": "https://wicg.github.io/webusb/",
+              "title": "WebUSB API",
+              "crawled": "https://wicg.github.io/webusb/"
             },
             {
               "url": "https://www.w3.org/TR/webxr-ar-module-1/",
@@ -63421,7 +63344,7 @@
     {
       "title": "WebUSB API",
       "shortname": "webusb",
-      "date": "6 October 2021",
+      "date": "20 January 2022",
       "url": "https://wicg.github.io/webusb/",
       "nightly": {
         "url": "https://wicg.github.io/webusb/",
@@ -63447,18 +63370,7 @@
           "DataView"
         ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "BufferSource",
-            "refs": [
-              {
-                "url": "https://webidl.spec.whatwg.org/",
-                "title": "Web IDL Standard",
-                "crawled": "https://webidl.spec.whatwg.org/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
