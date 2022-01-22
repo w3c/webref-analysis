@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-22T00:52:59.489Z",
+  "date": "2022-01-22T06:46:59.656Z",
   "stats": {
     "crawled": 458,
-    "errors": 0,
+    "errors": 1,
     "studied": 458
   },
   "results": [
@@ -24563,11 +24563,6 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -26885,7 +26880,6 @@
     {
       "title": "HTML Media Capture",
       "shortname": "html-media-capture",
-      "date": "01 February 2018",
       "url": "https://www.w3.org/TR/html-media-capture/",
       "release": {
         "url": "https://www.w3.org/TR/html-media-capture/",
@@ -26897,7 +26891,12 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/html-media-capture/",
+      "crawled": {
+        "url": "https://w3c.github.io/html-media-capture/",
+        "repository": "https://github.com/w3c/html-media-capture",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
       "organization": "W3C",
       "groups": [
         {
@@ -26906,10 +26905,10 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:12:27)\n    at isReady (__puppeteer_evaluation_script__:19:27)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at async isReady (__puppeteer_evaluation_script__:19:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:52:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 347)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -26923,19 +26922,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [
-            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode"
-          ],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [
-            "https://www.w3.org/TR/html51/",
-            "https://www.w3.org/TR/custom-elements/"
-          ],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -33948,11 +33934,6 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
-            },
-            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -39638,11 +39619,6 @@
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -55137,11 +55113,6 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
-            },
-            {
-              "url": "https://www.w3.org/TR/html-media-capture/",
-              "title": "HTML Media Capture",
-              "crawled": "https://w3c.github.io/html-media-capture/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
