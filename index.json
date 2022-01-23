@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-23T12:45:58.486Z",
+  "date": "2022-01-23T18:42:05.554Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -905,7 +905,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "18 January 2022",
+      "date": "23 January 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -1041,12 +1041,12 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#semantics-2",
             "https://html.spec.whatwg.org/#html-elements",
+            "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#the-button-element",
             "https://html.spec.whatwg.org/#the-fieldset-element",
             "https://html.spec.whatwg.org/#the-main-element",
             "https://html.spec.whatwg.org/#the-ul-element",
             "https://html.spec.whatwg.org/#the-summary-element",
-            "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#attr-hyperlink-href",
             "https://html.spec.whatwg.org/#the-abbr-element",
             "https://html.spec.whatwg.org/#the-address-element",
