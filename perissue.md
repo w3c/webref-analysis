@@ -1627,6 +1627,11 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [SVG Strokes](https://svgwg.org/specs/strokes/) links to [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/) links to [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/) but does not list it in its references
 - [The Storage Access API](https://privacycg.github.io/storage-access/) links to [`https://w3c.github.io/webdriver/webdriver-spec.html`](https://w3c.github.io/webdriver/webdriver-spec.html) but does not list it in its references
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/) links to:
+    * [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/) but does not list it in its references
+    * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but does not list it in its references
+    * [`https://www.w3.org/TR/longtasks-1/`](https://www.w3.org/TR/longtasks-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/) but does not list it in its references
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/) links to [`https://www.w3.org/TR/touch-events-extensions/`](https://www.w3.org/TR/touch-events-extensions/) but does not list it in its references
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/) links to:
     * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/) but does not list it in its references
@@ -1683,7 +1688,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 729 missing references for links found in 196 specifications
+=> 733 missing references for links found in 197 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-23T00:51:25.006Z",
+  "date": "2022-01-23T06:45:48.824Z",
   "stats": {
     "crawled": 458,
     "errors": 0,
@@ -23092,11 +23092,6 @@
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             }
           ],
           "informative": []
@@ -23582,11 +23577,6 @@
               "url": "https://wicg.github.io/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://wicg.github.io/largest-contentful-paint/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             }
           ],
           "informative": []
@@ -26272,11 +26262,6 @@
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             },
             {
               "url": "https://www.w3.org/TR/user-timing/",
@@ -38616,11 +38601,6 @@
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             }
           ],
           "informative": []
@@ -38723,13 +38703,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "xrefs": {
@@ -39023,11 +38997,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             }
           ],
           "informative": []
@@ -42660,11 +42629,6 @@
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             }
           ],
           "informative": []
@@ -43173,11 +43137,6 @@
               "url": "https://www.w3.org/TR/resource-timing-2/",
               "title": "Resource Timing Level 2",
               "crawled": "https://w3c.github.io/resource-timing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             },
             {
               "url": "https://www.w3.org/TR/user-timing/",
@@ -51509,7 +51468,12 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/performance-timeline/",
+          "https://www.w3.org/TR/hr-time-2/",
+          "https://www.w3.org/TR/longtasks-1/",
+          "https://www.w3.org/TR/paint-timing/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
