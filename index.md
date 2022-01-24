@@ -90,13 +90,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### ECMAScript® 2022 Internationalization API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### ECMAScript® 2022 Internationalization API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 19 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -597,7 +597,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 21 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -1363,7 +1363,7 @@ Informative references to this spec from:
 
 ## WebGL Working Group {#webgl_working_group}
 
-### WebGL 2.0 Specification {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### WebGL 2.0 Specification {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -1375,6 +1375,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Uint32Array`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-offscreencanvas-interface`](https://html.spec.whatwg.org/#the-offscreencanvas-interface)
@@ -1392,7 +1393,6 @@ Normative references to this spec from:
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 
 Informative references to this spec from:
@@ -1401,7 +1401,7 @@ Informative references to this spec from:
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
-### WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1415,6 +1415,7 @@ Informative references to this spec from:
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLint` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -1435,7 +1436,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_blend_minmax Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_blend_minmax Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1449,6 +1450,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_blend_minmax` with type `interface`
      * `MIN_EXT` with type `const`
@@ -1461,7 +1463,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_clip_cull_distance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_clip_cull_distance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1475,6 +1477,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_clip_cull_distance` with type `interface`
      * `MAX_CLIP_DISTANCES_EXT` with type `const`
@@ -1496,7 +1499,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1510,6 +1513,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_color_buffer_float` with type `interface`
 
@@ -1520,7 +1524,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_color_buffer_half_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_color_buffer_half_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1534,6 +1538,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_color_buffer_half_float` with type `interface`
      * `RGBA16F_EXT` with type `const`
@@ -1548,7 +1553,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_disjoint_timer_query Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL EXT_disjoint_timer_query Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1562,6 +1567,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `WebGLObject` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -1592,7 +1598,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_disjoint_timer_query_webgl2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL EXT_disjoint_timer_query_webgl2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1606,6 +1612,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `WebGLQuery` defined in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -1624,7 +1631,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_float_blend Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_float_blend Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1638,6 +1645,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_float_blend` with type `interface`
 
@@ -1648,7 +1656,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_frag_depth Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_frag_depth Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1662,6 +1670,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_frag_depth` with type `interface`
 
@@ -1672,7 +1681,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1686,6 +1695,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_shader_texture_lod` with type `interface`
 
@@ -1696,7 +1706,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_sRGB Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_sRGB Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1710,6 +1720,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_sRGB` with type `interface`
      * `SRGB_EXT` with type `const`
@@ -1724,7 +1735,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_compression_bptc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_texture_compression_bptc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1738,6 +1749,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_texture_compression_bptc` with type `interface`
      * `COMPRESSED_RGBA_BPTC_UNORM_EXT` with type `const`
@@ -1752,7 +1764,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_compression_rgtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_texture_compression_rgtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1766,6 +1778,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_texture_compression_rgtc` with type `interface`
      * `COMPRESSED_RED_RGTC1_EXT` with type `const`
@@ -1780,7 +1793,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1794,6 +1807,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_texture_filter_anisotropic` with type `interface`
      * `TEXTURE_MAX_ANISOTROPY_EXT` with type `const`
@@ -1806,7 +1820,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_norm16 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL EXT_texture_norm16 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1820,6 +1834,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `EXT_texture_norm16` with type `interface`
      * `R16_EXT` with type `const`
@@ -1838,7 +1853,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL KHR_parallel_shader_compile Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL KHR_parallel_shader_compile Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1852,6 +1867,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `KHR_parallel_shader_compile` with type `interface`
      * `COMPLETION_STATUS_KHR` with type `const`
@@ -1863,7 +1879,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_draw_buffers_indexed Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL OES_draw_buffers_indexed Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1877,6 +1893,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLuint` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -1898,7 +1915,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_element_index_uint Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL OES_element_index_uint Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1912,6 +1929,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `OES_element_index_uint` with type `interface`
 
@@ -1922,7 +1940,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_fbo_render_mipmap Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL OES_fbo_render_mipmap Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1936,6 +1954,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `OES_fbo_render_mipmap` with type `interface`
 
@@ -1946,7 +1965,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_standard_derivatives Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL OES_standard_derivatives Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1960,6 +1979,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `OES_standard_derivatives` with type `interface`
      * `FRAGMENT_SHADER_DERIVATIVE_HINT_OES` with type `const`
@@ -1971,7 +1991,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL OES_texture_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -1985,6 +2005,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `OES_texture_float` with type `interface`
 
@@ -1995,7 +2016,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL OES_texture_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2009,6 +2030,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `OES_texture_float_linear` with type `interface`
 
@@ -2019,7 +2041,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_half_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL OES_texture_half_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2033,6 +2055,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `OES_texture_half_float` with type `interface`
      * `HALF_FLOAT_OES` with type `const`
@@ -2044,7 +2067,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2058,6 +2081,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `OES_texture_half_float_linear` with type `interface`
 
@@ -2068,7 +2092,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_vertex_array_object Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL OES_vertex_array_object Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2082,6 +2106,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `WebGLObject` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLboolean` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -2101,7 +2126,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OVR_multiview2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL OVR_multiview2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2115,6 +2140,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `WebGLTexture` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -2135,7 +2161,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL Specification {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
+### WebGL Specification {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -2147,7 +2173,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `Float32Array`, `Int32Array`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventInit`, `Float32Array`, `HTMLCanvasElement`, `HTMLImageElement`, `HTMLVideoElement`, `ImageBitmap`, `ImageData`, `Int32Array`, `OffscreenCanvas`
 - Missing references for WebIDL names: 
      * `VideoFrame` defined in [WebCodecs](https://w3c.github.io/webcodecs/)
 - Broken external links:
@@ -2195,7 +2222,7 @@ Informative references to this spec from:
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
-### WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2209,6 +2236,7 @@ Informative references to this spec from:
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_blend_equation_advanced_coherent` with type `interface`
      * `MULTIPLY` with type `const`
@@ -2234,7 +2262,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2248,6 +2276,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_color_buffer_float` with type `interface`
      * `RGBA32F_EXT` with type `const`
@@ -2261,7 +2290,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_astc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_compressed_texture_astc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2275,6 +2304,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_compressed_texture_astc` with type `interface`
      * `COMPRESSED_RGBA_ASTC_4x4_KHR` with type `const`
@@ -2314,7 +2344,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_etc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_compressed_texture_etc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2328,6 +2358,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_compressed_texture_etc` with type `interface`
      * `COMPRESSED_R11_EAC` with type `const`
@@ -2348,7 +2379,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_etc1 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_compressed_texture_etc1 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2362,6 +2393,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_compressed_texture_etc1` with type `interface`
      * `COMPRESSED_RGB_ETC1_WEBGL` with type `const`
@@ -2373,7 +2405,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_pvrtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_compressed_texture_pvrtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2387,6 +2419,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_compressed_texture_pvrtc` with type `interface`
      * `COMPRESSED_RGB_PVRTC_4BPPV1_IMG` with type `const`
@@ -2401,7 +2434,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2415,6 +2448,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_compressed_texture_s3tc` with type `interface`
      * `COMPRESSED_RGB_S3TC_DXT1_EXT` with type `const`
@@ -2429,7 +2463,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2443,6 +2477,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_compressed_texture_s3tc_srgb` with type `interface`
      * `COMPRESSED_SRGB_S3TC_DXT1_EXT` with type `const`
@@ -2457,7 +2492,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2471,6 +2506,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_debug_renderer_info` with type `interface`
      * `UNMASKED_VENDOR_WEBGL` with type `const`
@@ -2483,7 +2519,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2497,6 +2533,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `WebGLShader` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - No definition for IDL properties: 
@@ -2510,7 +2547,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_depth_texture Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_depth_texture Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2524,6 +2561,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_depth_texture` with type `interface`
      * `UNSIGNED_INT_24_8_WEBGL` with type `const`
@@ -2535,7 +2573,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2549,6 +2587,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 - No definition for IDL properties: 
@@ -2596,7 +2635,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2610,6 +2649,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLint` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -2628,7 +2668,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_lose_context Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
+### WebGL WEBGL_lose_context Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2642,6 +2682,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - No definition for IDL properties: 
      * `WEBGL_lose_context` with type `interface`
      * `loseContext()` with type `method`
@@ -2654,7 +2695,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_multi_draw Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL WEBGL_multi_draw Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2668,6 +2709,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Int32Array`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -2688,7 +2730,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true}
+### WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -2702,6 +2744,7 @@ No informative reference to this spec from other specs.
 
 - No normative references found
 - Spec uses WebIDL but does not reference it normatively
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Int32Array`, `Uint32Array`
 - Missing references for WebIDL names: 
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -3637,7 +3680,7 @@ No informative reference to this spec from other specs.
 
 ## Audio Working Group {#audio_working_group}
 
-### Web Audio API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Audio API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -3650,7 +3693,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `Float32Array`, `Uint8Array`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Float32Array`, `HTMLMediaElement`, `MessagePort`, `Uint8Array`, `Worklet`, `WorkletGlobalScope`
 - Missing references for links: 
      * [`https://www.w3.org/TR/mediacapture-fromelement/`](https://www.w3.org/TR/mediacapture-fromelement/)
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
@@ -3718,7 +3762,6 @@ Normative references to this spec from:
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
-- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
@@ -3728,7 +3771,7 @@ Informative references to this spec from:
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
-### Web MIDI API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Web MIDI API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -3741,7 +3784,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `Uint8Array`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Navigator`, `Uint8Array`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
@@ -4060,57 +4104,6 @@ No informative reference to this spec from other specs.
 
 ## Cascading Style Sheets (CSS) Working Group {#cascading_style_sheets_css_working_group}
 
-### [No title found for https://drafts.csswg.org/css-animations/] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
-- Crawled URL: [https://drafts.csswg.org/css-animations/](https://drafts.csswg.org/css-animations/)
-- Crawled version: 24 January 2022
-- Editor's Draft: [https://drafts.csswg.org/css-animations/](https://drafts.csswg.org/css-animations/)
-- Latest published version: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
-- Shortname: css-animations-1
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
-- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
-- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
-- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
-- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
-- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
-- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
-- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
-- [CSS Transitions](https://drafts.csswg.org/css-transitions/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
-- [Web Animations](https://drafts.csswg.org/web-animations-1/)
-
-Informative references to this spec from:
-
-- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
-- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
-- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
-- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
-
-
 ### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -4259,6 +4252,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
@@ -4408,7 +4402,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Animation Worklet API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Animation Worklet API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4421,6 +4415,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Worklet`, `WorkletGlobalScope`
 - Missing references for links: 
      * [`https://w3c.github.io/html/infrastructure.html`](https://w3c.github.io/html/infrastructure.html)
      * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/)
@@ -4477,18 +4473,94 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Animations Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Animations Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
+- Crawled URL: [https://drafts.csswg.org/css-animations/](https://drafts.csswg.org/css-animations/)
+- Crawled version: 15 July 2021
+- Editor's Draft: [https://drafts.csswg.org/css-animations/](https://drafts.csswg.org/css-animations/)
+- Latest published version: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
+- Shortname: css-animations-1
+
+#### Potential issue(s) {.anomalies}
+
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `Event`, `EventHandler`, `EventInit`, `GlobalEventHandlers`
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+     * [`https://drafts.csswg.org/css-easing-1/#input-progress-value`](https://drafts.csswg.org/css-easing-1/#input-progress-value)
+     * [`https://drafts.csswg.org/css-easing-1/#step-easing-function`](https://drafts.csswg.org/css-easing-1/#step-easing-function)
+     * [`https://drafts.csswg.org/css-easing-1/#step-position`](https://drafts.csswg.org/css-easing-1/#step-position)
+     * [`https://drafts.csswg.org/css-easing-1/#output-progress-value`](https://drafts.csswg.org/css-easing-1/#output-progress-value)
+     * [`https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order`](https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
+     * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
+     * [`https://html.spec.whatwg.org/#html-elements`](https://html.spec.whatwg.org/#html-elements)
+     * [`https://html.spec.whatwg.org/#event-handler-content-attributes`](https://html.spec.whatwg.org/#event-handler-content-attributes)
+     * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#globaleventhandlers`](https://html.spec.whatwg.org/#globaleventhandlers)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+
+
+### CSS Animations Level 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Crawled version: 15 July 2021
+- Crawled version: 21 January 2022
 - Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Shortname: css-animations-2
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
@@ -4528,30 +4600,6 @@ No informative reference to this spec from other specs.
      * [`https://drafts.csswg.org/web-animations-1/#sampling`](https://drafts.csswg.org/web-animations-1/#sampling)
      * [`https://drafts.csswg.org/web-animations-1/#pending-play-state`](https://drafts.csswg.org/web-animations-1/#pending-play-state)
      * [`https://drafts.csswg.org/web-animations-1/#active-phase`](https://drafts.csswg.org/web-animations-1/#active-phase)
-     * [`https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes`](https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function`](https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-duration`](https://drafts.csswg.org/css-animations-1/#propdef-animation-duration)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-delay`](https://drafts.csswg.org/css-animations-1/#propdef-animation-delay)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state`](https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-name`](https://drafts.csswg.org/css-animations-1/#propdef-animation-name)
-     * [`https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name`](https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count`](https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-direction`](https://drafts.csswg.org/css-animations-1/#propdef-animation-direction)
-     * [`https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-running`](https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-running)
-     * [`https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-paused`](https://drafts.csswg.org/css-animations-1/#valdef-animation-play-state-paused)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode`](https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
-     * [`https://drafts.csswg.org/css-animations-1/#typedef-single-animation-iteration-count`](https://drafts.csswg.org/css-animations-1/#typedef-single-animation-iteration-count)
-     * [`https://drafts.csswg.org/css-animations-1/#typedef-single-animation-direction`](https://drafts.csswg.org/css-animations-1/#typedef-single-animation-direction)
-     * [`https://drafts.csswg.org/css-animations-1/#typedef-single-animation-fill-mode`](https://drafts.csswg.org/css-animations-1/#typedef-single-animation-fill-mode)
-     * [`https://drafts.csswg.org/css-animations-1/#typedef-single-animation-play-state`](https://drafts.csswg.org/css-animations-1/#typedef-single-animation-play-state)
-     * [`https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime`](https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime)
-     * [`https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationstart`](https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationstart)
-     * [`https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationend`](https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationend)
-     * [`https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration`](https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration)
-     * [`https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationcancel`](https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationcancel)
-     * [`https://drafts.csswg.org/css-animations-1/#animationevent`](https://drafts.csswg.org/css-animations-1/#animationevent)
-     * [`https://www.w3.org/TR/css-animations-1/#animation-name`](https://www.w3.org/TR/css-animations-1/#animation-name)
      * [`https://drafts.csswg.org/css-values-4/#css-identifier`](https://drafts.csswg.org/css-values-4/#css-identifier)
 
 #### Known dependencies on this specification {.dependencies}
@@ -4680,6 +4728,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
@@ -5181,6 +5230,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
@@ -5254,7 +5304,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Cascading and Inheritance Level 5 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Cascading and Inheritance Level 5 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5267,6 +5317,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - Missing references for links: 
      * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/)
@@ -5290,7 +5341,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
      * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
-     * [`https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes`](https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5484,7 +5534,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-mark-element`](https://html.spec.whatwg.org/#the-mark-element)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5580,7 +5629,7 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 
 
-### CSS Conditional Rules Module Level 3 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Conditional Rules Module Level 3 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5593,6 +5642,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/)
@@ -5726,7 +5776,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-window-focus`](https://html.spec.whatwg.org/#dom-window-focus)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#dom-innertext`](https://html.spec.whatwg.org/#dom-innertext)
-     * [`https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration`](https://drafts.csswg.org/css-animations-1/#eventdef-animationevent-animationiteration)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5786,7 +5835,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Counter Styles Level 3 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### CSS Counter Styles Level 3 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5799,6 +5848,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - External links to private terms:
      * [`https://drafts.csswg.org/css-text-3/#grapheme-cluster`](https://drafts.csswg.org/css-text-3/#grapheme-cluster)
@@ -5822,7 +5872,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Custom Highlight API Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Custom Highlight API Module Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5835,6 +5885,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbstractRange`
 - External links to private terms:
      * [`https://drafts.csswg.org/css-pseudo-4/#highlight-overlay`](https://drafts.csswg.org/css-pseudo-4/#highlight-overlay)
 - Broken external links:
@@ -5872,8 +5924,6 @@ No informative reference to this spec from other specs.
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag`](https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag)
-- Broken external links:
-     * [`https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes`](https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5904,7 +5954,7 @@ Informative references to this spec from:
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 
 
-### CSS Device Adaptation Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Device Adaptation Module Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5917,6 +5967,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/)
      * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
@@ -6003,6 +6054,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/)
@@ -6098,6 +6150,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions/)
@@ -6299,7 +6352,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Font Loading Module Level 3 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### CSS Font Loading Module Level 3 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -6312,7 +6365,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `CSSOMString`, `Event`, `EventHandler`, `EventInit`, `EventTarget`
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - Broken external links:
@@ -6334,7 +6388,7 @@ Informative references to this spec from:
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 
 
-### CSS Fonts Module Level 4 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Fonts Module Level 4 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -6347,6 +6401,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - No definition for CSS properties: 
      * `<feature-value-block>`
@@ -7038,7 +7093,7 @@ Informative references to this spec from:
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
 
 
-### CSS Layout API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Layout API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7051,6 +7106,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Worklet`, `WorkletGlobalScope`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
      * [`https://www.w3.org/TR/css-align-3/`](https://www.w3.org/TR/css-align-3/)
@@ -7215,7 +7271,7 @@ Informative references to this spec from:
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 
 
-### CSS Masking Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Masking Module Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7228,6 +7284,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
@@ -7426,7 +7483,7 @@ Informative references to this spec from:
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 
 
-### CSS Nesting Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Nesting Module {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7439,6 +7496,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/)
@@ -7460,7 +7518,7 @@ Informative references to this spec from:
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 
 
-### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7473,7 +7531,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `DocumentOrShadowRoot`, `Element`, `ProcessingInstruction`, `Window`
 - External links that neither target definitions nor headings:
      * [`https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0`](https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0)
 - Broken external links:
@@ -7501,11 +7560,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
-     * [`https://drafts.csswg.org/css-animations-1/#csskeyframesrule`](https://drafts.csswg.org/css-animations-1/#csskeyframesrule)
-     * [`https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-name`](https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-name)
-     * [`https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-cssrules`](https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-cssrules)
-     * [`https://drafts.csswg.org/css-animations-1/#csskeyframerule`](https://drafts.csswg.org/css-animations-1/#csskeyframerule)
-     * [`https://drafts.csswg.org/css-animations-1/#dom-csskeyframerule-keytext`](https://drafts.csswg.org/css-animations-1/#dom-csskeyframerule-keytext)
      * [`https://drafts.csswg.org/css-color-3/#alphavalue-def`](https://drafts.csswg.org/css-color-3/#alphavalue-def)
 
 #### Known dependencies on this specification {.dependencies}
@@ -7514,6 +7568,7 @@ Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
@@ -7834,7 +7889,7 @@ Informative references to this spec from:
 - [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/)
 
 
-### CSS Painting API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Painting API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7847,6 +7902,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Worklet`, `WorkletGlobalScope`
 - External links to private terms:
      * [`https://webidl.spec.whatwg.org/#web-idl-arguments-list-converting`](https://webidl.spec.whatwg.org/#web-idl-arguments-list-converting)
 - Broken external links:
@@ -7951,13 +8007,14 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/)
 
 
-### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7970,6 +8027,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/)
@@ -7990,7 +8048,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Pseudo-Elements Module Level 4 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Pseudo-Elements Module Level 4 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -8003,7 +8061,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `Element`, `EventTarget`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/)
 - External links to private terms:
@@ -8054,7 +8113,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 
 
-### CSS Regions Module Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Regions Module Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -8067,7 +8126,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `Document`, `Element`, `EventTarget`, `Node`, `Range`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
@@ -8255,8 +8315,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
-     * [`https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes`](https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-name`](https://drafts.csswg.org/css-animations-1/#propdef-animation-name)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8393,7 +8451,7 @@ Informative references to this spec from:
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 
 
-### CSS Shadow Parts {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Shadow Parts {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -8406,6 +8464,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `DOMTokenList`, `Element`
 - External links to private terms:
      * [`https://drafts.csswg.org/selectors-4/#structural-pseudo-classes`](https://drafts.csswg.org/selectors-4/#structural-pseudo-classes)
 - Broken external links:
@@ -8506,6 +8565,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
@@ -8514,7 +8574,7 @@ Informative references to this spec from:
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 
 
-### CSS Spatial Navigation Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Spatial Navigation Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -8527,6 +8587,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`, `EventTarget`, `Node`, `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -8669,10 +8731,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
      * [`https://html.spec.whatwg.org/#link-type-stylesheet`](https://html.spec.whatwg.org/#link-type-stylesheet)
      * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
-     * [`https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes`](https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes)
-     * [`https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name`](https://drafts.csswg.org/css-animations-1/#typedef-keyframes-name)
-     * [`https://drafts.csswg.org/css-animations-1/#typedef-keyframe-selector`](https://drafts.csswg.org/css-animations-1/#typedef-keyframe-selector)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function`](https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
 
@@ -8682,6 +8740,7 @@ Normative references to this spec from:
 
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
@@ -9133,7 +9192,7 @@ Informative references to this spec from:
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/)
 
 
-### CSS Transitions {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Transitions {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9146,7 +9205,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `Event`, `EventHandler`, `EventInit`, `GlobalEventHandlers`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
@@ -9174,7 +9234,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#globaleventhandlers`](https://html.spec.whatwg.org/#globaleventhandlers)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
-     * [`https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime`](https://drafts.csswg.org/css-animations-1/#dom-animationevent-elapsedtime)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/)
      * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog)
@@ -9200,6 +9259,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
@@ -9210,7 +9270,7 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Transitions Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### CSS Transitions Level 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9222,6 +9282,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - External links to private terms:
      * [`https://drafts.csswg.org/web-animations/#iteration-duration`](https://drafts.csswg.org/web-animations/#iteration-duration)
@@ -9253,7 +9314,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9266,7 +9327,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSPercentishArray`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSPercentishArray`, `Element`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-properties-values-api-1/`](https://www.w3.org/TR/css-properties-values-api-1/)
 - External links to private terms:
@@ -9276,7 +9338,6 @@ No informative reference to this spec from other specs.
 - External links that neither target definitions nor headings:
      * [`https://drafts.fxtf.org/compositing-2/#propdef-mix`](https://drafts.fxtf.org/compositing-2/#propdef-mix)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
      * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
      * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
      * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
@@ -9372,9 +9433,6 @@ No informative reference to this spec from other specs.
 - External links to private terms:
      * [`https://drafts.csswg.org/css-syntax-3/#consume-a-url-token`](https://drafts.csswg.org/css-syntax-3/#consume-a-url-token)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function`](https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-name`](https://drafts.csswg.org/css-animations-1/#propdef-animation-name)
      * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
      * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
@@ -9388,6 +9446,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/)
@@ -9506,10 +9565,6 @@ Informative references to this spec from:
 - Broken external links:
      * [`https://www.w3.org/TR/css-values-3/#css-identifier`](https://www.w3.org/TR/css-values-3/#css-identifier)
      * [`https://www.w3.org/TR/css-values-3/#acknowledgements`](https://www.w3.org/TR/css-values-3/#acknowledgements)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function`](https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-name`](https://drafts.csswg.org/css-animations-1/#propdef-animation-name)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count`](https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count)
      * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
      * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
@@ -9527,6 +9582,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
@@ -9688,6 +9744,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
@@ -9793,7 +9850,7 @@ Informative references to this spec from:
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 
 
-### CSSOM View Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### CSSOM View Module {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9806,7 +9863,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `Document`, `Element`, `Event`, `EventHandler`, `EventInit`, `EventListener`, `EventTarget`, `HTMLElement`, `HTMLImageElement`, `Node`, `Range`, `Text`, `Window`
 - External links to private terms:
      * [`https://dom.spec.whatwg.org/#event-listener-type`](https://dom.spec.whatwg.org/#event-listener-type)
      * [`https://dom.spec.whatwg.org/#event-listener-callback`](https://dom.spec.whatwg.org/#event-listener-callback)
@@ -9871,7 +9929,7 @@ Informative references to this spec from:
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 
 
-### Filter Effects Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Filter Effects Module Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9884,6 +9942,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
@@ -9961,7 +10020,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Font Metrics API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Font Metrics API Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -9973,7 +10032,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Document`, `Element`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9982,7 +10042,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Geometry Interfaces Module Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Geometry Interfaces Module Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9995,6 +10055,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Float32Array`, `Float64Array`
 - External links to private terms:
      * [`https://drafts.csswg.org/css-values-4/#absolute-length`](https://drafts.csswg.org/css-values-4/#absolute-length)
@@ -10250,7 +10311,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Resize Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Resize Observer {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10263,6 +10324,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css3-positioning/`](https://www.w3.org/TR/css3-positioning/)
      * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
@@ -10284,7 +10347,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Scroll-linked Animations {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Scroll-linked Animations {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10296,16 +10359,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `Element`
 - Missing references for links: 
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 - External links to private terms:
      * [`https://drafts.csswg.org/cssom-view-1/#css-layout-box`](https://drafts.csswg.org/cssom-view-1/#css-layout-box)
      * [`https://drafts.csswg.org/cssom-view-1/#overflow-directions`](https://drafts.csswg.org/cssom-view-1/#overflow-directions)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
-     * [`https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-findrule`](https://drafts.csswg.org/css-animations-1/#dom-csskeyframesrule-findrule)
-     * [`https://drafts.csswg.org/css-animations-1/#csskeyframerule`](https://drafts.csswg.org/css-animations-1/#csskeyframerule)
      * [`https://html.spec.whatwg.org/#concept-document-windowconcept-document-window`](https://html.spec.whatwg.org/#concept-document-windowconcept-document-window)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
@@ -10439,7 +10500,7 @@ Informative references to this spec from:
 - [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/)
 
 
-### Web Animations {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Web Animations {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10452,7 +10513,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSOMString`, `Document`, `DocumentOrShadowRoot`, `Element`, `Event`, `EventHandler`, `EventInit`, `EventTarget`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
      * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
@@ -10491,9 +10553,6 @@ Informative references to this spec from:
      * [`https://w3c.github.io/hr-time/#time-origin`](https://w3c.github.io/hr-time/#time-origin)
      * [`https://w3c.github.io/hr-time/#domhighrestimestamp`](https://w3c.github.io/hr-time/#domhighrestimestamp)
      * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
-     * [`https://drafts.csswg.org/css-animations/#events`](https://drafts.csswg.org/css-animations/#events)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode`](https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-name`](https://drafts.csswg.org/css-animations-1/#propdef-animation-name)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10520,7 +10579,7 @@ Informative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 
 
-### Web Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Animations Level 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10532,6 +10591,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`, `Event`, `EventInit`
 - Missing references for links: 
      * [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/)
 - Inconsistent references for links: 
@@ -10592,7 +10653,7 @@ Informative references to this spec from:
 
 ## Devices and Sensors Working Group {#devices_and_sensors_working_group}
 
-### Accelerometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Accelerometer {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10605,6 +10666,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
      * [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html)
@@ -10634,7 +10696,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### Ambient Light Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Ambient Light Sensor {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10647,6 +10709,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - External links to private terms:
      * [`https://w3c.github.io/sensors/#sensor-reading`](https://w3c.github.io/sensors/#sensor-reading)
      * [`https://w3c.github.io/sensors/#limit-max-frequency`](https://w3c.github.io/sensors/#limit-max-frequency)
@@ -10668,7 +10731,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### Battery Status API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Battery Status API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10681,6 +10744,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
      * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
@@ -10713,7 +10778,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-### Device Posture API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Device Posture API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10726,6 +10791,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -10746,7 +10813,7 @@ Informative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
-### DeviceOrientation Event Specification {data-spec=true data-anomaly=true data-redefinedIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### DeviceOrientation Event Specification {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-redefinedIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10759,6 +10826,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `Window`
 - WebIDL names also defined elsewhere: 
     * `PermissionState` also defined in [Permissions](https://w3c.github.io/permissions/)
 - Missing references for links: 
@@ -10796,7 +10865,7 @@ Informative references to this spec from:
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
-### Generic Sensor API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Generic Sensor API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10809,6 +10878,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - External links to private terms:
@@ -10867,7 +10938,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-### Geolocation API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Geolocation API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10880,6 +10951,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
@@ -10913,7 +10986,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### Geolocation Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Geolocation Sensor {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10926,6 +10999,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `AbortSignal`
 - External links to private terms:
      * [`https://w3c.github.io/sensors/#sensor-type`](https://w3c.github.io/sensors/#sensor-type)
      * [`https://w3c.github.io/sensors/#latest-reading`](https://w3c.github.io/sensors/#latest-reading)
@@ -10946,7 +11021,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Gyroscope {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Gyroscope {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10959,6 +11034,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
 - External links to private terms:
@@ -10980,51 +11056,25 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### HTML Media Capture {data-spec=true data-error=true}
+### HTML Media Capture {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
-- Crawled URL: [[object Object]]([object Object])
+- Crawled URL: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
+- Crawled version: 01 February 2018
 - Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
 - Latest published version: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
 - Shortname: html-media-capture
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:12:27)
-    at isReady (__puppeteer_evaluation_script__:19:27)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at async isReady (__puppeteer_evaluation_script__:19:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:52:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 347)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Unknown WebIDL names used: `HTMLInputElement`
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
+- External links to outdated specs:
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11033,7 +11083,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Magnetometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Magnetometer {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11046,6 +11096,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
 - Inconsistent references for links: 
@@ -11117,7 +11168,7 @@ Informative references to this spec from:
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 
 
-### Orientation Sensor {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Orientation Sensor {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11130,6 +11181,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Float32Array`, `Float64Array`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/)
@@ -11163,7 +11215,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Proximity Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Proximity Sensor {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11176,6 +11228,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - External links to private terms:
      * [`https://w3c.github.io/sensors/#reduce-accuracy`](https://w3c.github.io/sensors/#reduce-accuracy)
      * [`https://w3c.github.io/sensors/#limit-max-frequency`](https://w3c.github.io/sensors/#limit-max-frequency)
@@ -11197,7 +11250,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-### Screen Wake Lock API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Screen Wake Lock API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11210,6 +11263,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
@@ -11240,7 +11295,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Vibration API (Second Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Vibration API (Second Edition) {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11253,6 +11308,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Navigator`
 - Missing references for links: 
      * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
 - Broken external links:
@@ -11272,7 +11328,7 @@ No informative reference to this spec from other specs.
 
 ## GPU for the Web Working Group {#gpu_for_the_web_working_group}
 
-### WebGPU {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebGPU {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11285,7 +11341,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `Uint32Array`
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `HTMLCanvasElement`, `HTMLVideoElement`, `ImageBitmap`, `OffscreenCanvas`, `Uint32Array`
 - Missing references for links: 
      * [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/)
 - External links to private terms:
@@ -11380,7 +11437,7 @@ No informative reference to this spec from other specs.
 
 ## HTML Media Extensions Working Group {#html_media_extensions_working_group}
 
-### Encrypted Media Extensions {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Encrypted Media Extensions {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11393,7 +11450,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `HTMLMediaElement`, `Navigator`
 - Missing references for WebIDL names: 
      * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Inconsistent references for links: 
@@ -11425,7 +11483,7 @@ Informative references to this spec from:
 
 ## Immersive Web Working Group {#immersive_web_working_group}
 
-### WebXR Anchors Module {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
+### WebXR Anchors Module {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11437,6 +11495,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `XRHitTestResult` defined in [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
 - External links to private terms:
@@ -11504,7 +11563,7 @@ Informative references to this spec from:
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
-### WebXR Depth Sensing Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
+### WebXR Depth Sensing Module {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11517,6 +11576,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `ArrayBuffer`
 - Missing references for WebIDL names: 
      * `WebGLTexture` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -11542,7 +11602,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Device API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### WebXR Device API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11555,7 +11615,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `Float32Array`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Float32Array`, `Navigator`
 - Missing references for WebIDL names: 
      * `WebGLRenderingContext` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `WebGLFramebuffer` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -11621,7 +11682,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### WebXR DOM Overlays Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebXR DOM Overlays Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11634,6 +11695,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Element`, `EventHandler`, `GlobalEventHandlers`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - External links to private terms:
@@ -11699,7 +11761,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebXR Hand Input Module - Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebXR Hand Input Module - Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11712,6 +11774,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Float32Array`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/), related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
@@ -11742,7 +11805,7 @@ Informative references to this spec from:
 - [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/)
 
 
-### WebXR Hit Test Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### WebXR Hit Test Module {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11755,6 +11818,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Float32Array`
 - External links to private terms:
      * [`https://www.w3.org/TR/webxr/#feature-descriptor`](https://www.w3.org/TR/webxr/#feature-descriptor)
@@ -11790,7 +11854,7 @@ Although they do not, the following specs should also normatively reference this
 No informative reference to this spec from other specs.
 
 
-### WebXR Layers API Level 1 {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
+### WebXR Layers API Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11803,6 +11867,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `HTMLVideoElement`
 - Missing references for WebIDL names: 
      * `WebGLTexture` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `GLenum` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -11856,7 +11922,7 @@ Although they do not, the following specs should also normatively reference this
 No informative reference to this spec from other specs.
 
 
-### WebXR Lighting Estimation API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebXR Lighting Estimation API Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11869,7 +11935,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `Float32Array`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `Float32Array`
 - Missing references for WebIDL names: 
      * `XRWebGLBinding` defined in [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
      * `WebGLTexture` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
@@ -11899,20 +11966,19 @@ No informative reference to this spec from other specs.
 
 ## Internationalization Working Group {#internationalization_working_group}
 
-### Encoding Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Encoding Standard {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/encoding/](https://www.w3.org/TR/encoding/)
 - Crawled URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
-- Crawled version: 19 December 2021
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Latest published version: [https://www.w3.org/TR/encoding/](https://www.w3.org/TR/encoding/)
 - Shortname: encoding
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `Uint8Array`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#event-loop`](https://html.spec.whatwg.org/#event-loop)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -11958,7 +12024,7 @@ Informative references to this spec from:
 
 ## Math Working Group {#math_working_group}
 
-### MathML Core {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### MathML Core {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -11971,6 +12037,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`
 - External links that neither target definitions nor headings:
      * [`https://www.w3.org/TR/css-writing-modes-3/#extent`](https://www.w3.org/TR/css-writing-modes-3/#extent)
      * [`https://www.w3.org/TR/css-backgrounds-3/#the-background-color`](https://www.w3.org/TR/css-backgrounds-3/#the-background-color)
@@ -12022,7 +12090,7 @@ Informative references to this spec from:
 
 ## Media Working Group {#media_working_group}
 
-### Autoplay Policy Detection {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Autoplay Policy Detection {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12034,6 +12102,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `HTMLMediaElement`, `Navigator`
 - Missing references for links: 
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 - External links to private terms:
@@ -12061,7 +12131,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Media Capabilities {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Media Capabilities {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12074,6 +12144,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Navigator`, `WorkerNavigator`
 - External links that neither target definitions nor headings:
      * [`https://www.w3.org/TR/encrypted-media/#key-system`](https://www.w3.org/TR/encrypted-media/#key-system)
 - Broken external links:
@@ -12093,13 +12165,14 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+- [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
 - [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 No informative reference to this spec from other specs.
 
 
-### Media Playback Quality {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Media Playback Quality {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12111,6 +12184,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `HTMLVideoElement`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
      * [`https://html.spec.whatwg.org/#media-element-load-algorithm`](https://html.spec.whatwg.org/#media-element-load-algorithm)
@@ -12126,7 +12201,7 @@ Informative references to this spec from:
 - [Media Source Extensions™](https://w3c.github.io/media-source/)
 
 
-### Media Session Standard {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Media Session Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12139,6 +12214,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#potentially-playing`](https://html.spec.whatwg.org/#potentially-playing)
@@ -12165,7 +12242,7 @@ Informative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 
 
-### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Media Source Extensions™ {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12178,6 +12255,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `AudioTrack`, `AudioTrackList`, `EventHandler`, `EventTarget`, `TextTrack`, `TextTrackList`, `TimeRanges`, `VideoTrack`, `VideoTrackList`
 - Missing references for WebIDL names: 
      * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Missing references for links: 
@@ -12284,7 +12363,7 @@ Although they do not, the following specs should also normatively reference this
 No informative reference to this spec from other specs.
 
 
-### Picture-in-Picture {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Picture-in-Picture {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12297,6 +12376,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Document`, `DocumentOrShadowRoot`, `Element`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `HTMLVideoElement`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
      * [`https://w3c.github.io/remote-playback/`](https://w3c.github.io/remote-playback/), related reference "Remote-Playback" uses URL [`https://www.w3.org/TR/remote-playback/`](https://www.w3.org/TR/remote-playback/)
@@ -12330,7 +12411,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebCodecs {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebCodecs {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12343,6 +12424,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `CanvasImageSource`, `ColorSpaceConversion`, `EventHandler`, `EventTarget`, `PremultiplyAlpha`, `ReadableStream`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/), related reference "WebRTC-SVC" uses URL [`https://www.w3.org/TR/webrtc-svc/`](https://www.w3.org/TR/webrtc-svc/)
      * [`https://w3c.github.io/media-capabilities/`](https://w3c.github.io/media-capabilities/), related reference "MEDIA-CAPABILITIES" uses URL [`https://www.w3.org/TR/media-capabilities/`](https://www.w3.org/TR/media-capabilities/)
@@ -12434,7 +12517,7 @@ No informative reference to this spec from other specs.
 
 ## Pointer Events Working Group {#pointer_events_working_group}
 
-### Pointer Events {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Pointer Events {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12447,6 +12530,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`, `EventHandler`, `GlobalEventHandlers`, `Navigator`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
 - Broken external links:
@@ -12477,7 +12562,7 @@ No informative reference to this spec from other specs.
 
 ## Privacy Community Group {#privacy_community_group}
 
-### Private Click Measurement {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Private Click Measurement {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12489,6 +12574,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `HTMLAnchorElement`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#htmlanchorelement`](https://html.spec.whatwg.org/#htmlanchorelement)
      * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
@@ -12502,7 +12588,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### The Storage Access API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### The Storage Access API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12514,6 +12600,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Document`
 - Missing references for links: 
      * [`https://w3c.github.io/webdriver/webdriver-spec.html`](https://w3c.github.io/webdriver/webdriver-spec.html)
 - Inconsistent references for links: 
@@ -12852,7 +12939,7 @@ Informative references to this spec from:
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 
 
-### Scalable Vector Graphics (SVG) 2 {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Scalable Vector Graphics (SVG) 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -12865,6 +12952,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DOMTokenList`, `Document`, `Element`, `NodeList`, `ShadowRoot`
 - Missing references for WebIDL names: 
      * `CSSPseudoElement` defined in [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - Missing references for links: 
@@ -13233,7 +13322,7 @@ Informative references to this spec from:
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
 
 
-### SVG Animations {data-spec=true data-anomaly=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### SVG Animations {data-spec=true data-anomaly=true data-noRefToWebIDL=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -13246,7 +13335,8 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Spec uses WebIDL but does not reference it normatively
-- Unknown WebIDL names used: `WindowProxy`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `Window`, `WindowProxy`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2012/WD-css-animations-1-20120403/`](https://www.w3.org/TR/2012/WD-css-animations-1-20120403/)
      * [`https://www.w3.org/TR/2012/WD-css-transitions-1-20120403/`](https://www.w3.org/TR/2012/WD-css-transitions-1-20120403/)
@@ -13413,7 +13503,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Crawled URL: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
-- Crawled version: 21 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
 - Latest published version: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Shortname: openscreenprotocol
@@ -13487,7 +13577,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Presentation API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Presentation API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -13500,7 +13590,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `BinaryType`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#dom-location-reload`](https://html.spec.whatwg.org/#dom-location-reload)
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
@@ -13547,7 +13638,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Remote Playback API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Remote Playback API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -13560,6 +13651,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `HTMLMediaElement`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
@@ -13600,7 +13693,7 @@ No informative reference to this spec from other specs.
 
 ## Service Workers Working Group {#service_workers_working_group}
 
-### Service Workers Nightly {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Service Workers Nightly {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -13613,7 +13706,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `VisibilityState`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`, `MessagePort`, `Navigator`, `StructuredSerializeOptions`, `VisibilityState`, `WindowOrWorkerGlobalScope`, `WorkerGlobalScope`, `WorkerNavigator`, `WorkerType`
 - Missing references for links: 
      * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/)
      * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/)
@@ -13794,7 +13888,7 @@ Informative references to this spec from:
 
 ## Technical Architecture Group {#technical_architecture_group}
 
-### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -13807,6 +13901,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `CSSOMString`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/)
@@ -13827,7 +13922,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -13840,7 +13935,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSPercentishArray`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `CSSPercentishArray`, `Element`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-properties-values-api-1/`](https://www.w3.org/TR/css-properties-values-api-1/)
 - External links to private terms:
@@ -13850,7 +13946,6 @@ No informative reference to this spec from other specs.
 - External links that neither target definitions nor headings:
      * [`https://drafts.fxtf.org/compositing-2/#propdef-mix`](https://drafts.fxtf.org/compositing-2/#propdef-mix)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
      * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
      * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
      * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
@@ -13879,7 +13974,7 @@ Informative references to this spec from:
 
 ## Timed Text Working Group {#timed_text_working_group}
 
-### WebVTT: The Web Video Text Tracks Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebVTT: The Web Video Text Tracks Format {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -13892,6 +13987,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DocumentFragment`, `TextTrackCue`
 - Missing references for links: 
      * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
 - External links to private terms:
@@ -14097,7 +14194,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Content Security Policy Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Content Security Policy Level 3 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14110,6 +14207,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventInit`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - External links to private terms:
@@ -14225,7 +14324,7 @@ Informative references to this spec from:
 - [Web Serial API](https://wicg.github.io/serial/)
 
 
-### Content Security Policy: Embedded Enforcement {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Content Security Policy: Embedded Enforcement {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14238,6 +14337,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `HTMLIFrameElement`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 - Broken external links:
@@ -14269,7 +14369,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Credential Management Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Credential Management Level 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14282,6 +14382,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortSignal`, `HTMLFormElement`, `Navigator`
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/)
      * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/)
@@ -14434,7 +14536,7 @@ Informative references to this spec from:
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 
-### Permissions {data-spec=true data-anomaly=true data-redefinedIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Permissions {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-redefinedIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14447,6 +14549,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `Navigator`, `WorkerNavigator`
 - WebIDL names also defined elsewhere: 
     * `PermissionState` also defined in [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - Missing references for links: 
@@ -14517,7 +14621,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Permissions Policy {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Permissions Policy {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14530,6 +14634,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Document`, `HTMLIFrameElement`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
      * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
@@ -14793,7 +14899,7 @@ Informative references to this spec from:
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 
 
-### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Trusted Types {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14805,6 +14911,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `WindowOrWorkerGlobalScope`
 - Missing references for links: 
      * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/)
      * [`https://xhr.spec.whatwg.org/`](https://xhr.spec.whatwg.org/)
@@ -15238,7 +15346,7 @@ Informative references to this spec from:
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 
 
-### Clipboard API and events {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Clipboard API and events {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15251,6 +15359,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DataTransfer`, `Event`, `EventInit`, `EventTarget`, `Navigator`
 - Missing references for links: 
      * [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/)
      * [`https://w3c.github.io/editing/contentEditable.html`](https://w3c.github.io/editing/contentEditable.html)
@@ -15318,7 +15428,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### File API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### File API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15331,7 +15441,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`
+- Unknown [Exposed] names used: `DedicatedWorker`, `SharedWorker`, `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `EventHandler`, `EventTarget`, `ReadableStream`, `URL`
 - Missing references for WebIDL names: 
      * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
      * `MediaSource` defined in [Media Source Extensions™](https://w3c.github.io/media-source/)
@@ -15382,6 +15493,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File System Access](https://wicg.github.io/file-system-access/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -15405,7 +15517,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Gamepad {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Gamepad {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15418,6 +15530,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `Navigator`, `WindowEventHandlers`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
@@ -15450,7 +15564,7 @@ Informative references to this spec from:
 - [WebHID API](https://wicg.github.io/webhid/)
 
 
-### Gamepad Extensions {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Gamepad Extensions {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15462,6 +15576,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `Float32Array`, `Uint32Array`
 - Missing references for WebIDL names: 
      * `Gamepad` defined in [Gamepad](https://w3c.github.io/gamepad/)
@@ -15514,7 +15629,7 @@ Informative references to this spec from:
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 
 
-### Indexed Database API 3.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Indexed Database API 3.0 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15527,6 +15642,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DOMStringList`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `WindowOrWorkerGlobalScope`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/)
      * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/)
@@ -15573,7 +15690,7 @@ Informative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 
 
-### Input Events Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Input Events Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15586,6 +15703,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `DataTransfer`, `StaticRange`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - External links to private terms:
@@ -15615,7 +15733,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### Intersection Observer {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Intersection Observer {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15628,6 +15746,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Document`, `Element`
 - Missing references for WebIDL names: 
      * `DOMHighResTimeStamp` defined in [High Resolution Time](https://w3c.github.io/hr-time/)
 - Missing references for links: 
@@ -15674,7 +15794,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Pointer Lock 2.0 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Pointer Lock 2.0 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15687,6 +15807,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Document`, `DocumentOrShadowRoot`, `Element`, `EventHandler`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "ui-events" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - Broken external links:
@@ -15718,7 +15839,7 @@ Informative references to this spec from:
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 
 
-### Push API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Push API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15731,7 +15852,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `EventHandler`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#network`](https://html.spec.whatwg.org/#network)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
@@ -15752,7 +15874,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### Selection API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Selection API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15765,6 +15887,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Document`, `EventHandler`, `GlobalEventHandlers`, `Node`, `Range`, `Window`
 - No definition for IDL properties: 
      * `stringification behavior` with type `dfn` for [`Selection`](https://w3c.github.io/selection-api/#dom-selection)
 - Missing references for links: 
@@ -15798,7 +15922,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### The Screen Orientation API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### The Screen Orientation API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15811,6 +15935,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -15839,7 +15965,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### UI Events {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### UI Events {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -15852,7 +15978,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `WindowProxy`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventInit`, `EventTarget`, `Node`, `Window`, `WindowProxy`
 - External links to private terms:
      * [`https://www.w3.org/TR/uievents-key/#key-attribute-value`](https://www.w3.org/TR/uievents-key/#key-attribute-value)
 - External links that neither target definitions nor headings:
@@ -16019,7 +16146,7 @@ Informative references to this spec from:
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
 
-### Web Locks API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Locks API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16031,6 +16158,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortSignal`
 - Missing references for links: 
      * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/)
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
@@ -16064,7 +16193,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Web Share API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16077,6 +16206,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Navigator`
 - Missing references for links: 
      * [`https://www.w3.org/TR/web-intents/`](https://www.w3.org/TR/web-intents/)
 - Broken external links:
@@ -16106,7 +16236,7 @@ No informative reference to this spec from other specs.
 
 ## Web Authentication Working Group {#web_authentication_working_group}
 
-### Web Authentication: An API for accessing Public Key Credentials - Level {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Authentication: An API for accessing Public Key Credentials - Level {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16119,6 +16249,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `ArrayBuffer`
 - Missing references for links: 
      * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
@@ -16188,7 +16319,7 @@ Informative references to this spec from:
 
 ## Web Bluetooth Community Group {#web_bluetooth_community_group}
 
-### Web Bluetooth {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Bluetooth {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16200,7 +16331,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `DataView`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortSignal`, `DataView`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Navigator`
 - Missing references for links: 
      * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - Inconsistent references for links: 
@@ -16244,7 +16376,7 @@ Informative references to this spec from:
 
 ## Web Cryptography Working Group {#web_cryptography_working_group}
 
-### Web Cryptography API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Web Cryptography API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16257,7 +16389,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `Uint8Array`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `Uint8Array`, `WindowOrWorkerGlobalScope`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -16287,7 +16420,7 @@ Informative references to this spec from:
 
 ## Web Editing Working Group {#web_editing_working_group}
 
-### EditContext API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### EditContext API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16300,6 +16433,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`, `Event`, `EventHandler`, `EventTarget`
 - Missing references for links: 
      * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
      * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
@@ -16315,7 +16450,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### VirtualKeyboard API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### VirtualKeyboard API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16328,6 +16463,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ElementContentEditable`, `EventHandler`, `EventTarget`, `Navigator`
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
 - Broken external links:
@@ -16356,7 +16493,7 @@ No informative reference to this spec from other specs.
 
 ## Web Events Working Group {#web_events_working_group}
 
-### Touch Events - Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Touch Events - Level 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16369,6 +16506,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `GlobalEventHandlers`
 - Missing references for links: 
      * [`https://www.w3.org/TR/touch-events-extensions/`](https://www.w3.org/TR/touch-events-extensions/)
 - Broken external links:
@@ -16445,7 +16584,7 @@ Informative references to this spec from:
 
 ## Web Machine Learning Working Group {#web_machine_learning_working_group}
 
-### Web Neural Network API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Web Neural Network API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16458,6 +16597,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - Broken external links:
@@ -16477,7 +16617,7 @@ No informative reference to this spec from other specs.
 
 ## Web NFC Community Group {#web_nfc_community_group}
 
-### Web NFC {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Web NFC {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16489,7 +16629,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `DataView`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortSignal`, `DataView`, `Event`, `EventHandler`, `EventInit`, `EventTarget`
 - External links to private terms:
      * [`https://url.spec.whatwg.org/#concept-domain-to-ascii`](https://url.spec.whatwg.org/#concept-domain-to-ascii)
      * [`https://dom.spec.whatwg.org/#abortsignal-abort-algorithms`](https://dom.spec.whatwg.org/#abortsignal-abort-algorithms)
@@ -16525,7 +16666,7 @@ Informative references to this spec from:
 
 ## Web Payments Working Group {#web_payments_working_group}
 
-### Payment Handler API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Payment Handler API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16538,6 +16679,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`
 - External links to private terms:
      * [`https://www.w3.org/TR/payment-request/#dfn-payment-method`](https://www.w3.org/TR/payment-request/#dfn-payment-method)
 - Broken external links:
@@ -16675,7 +16818,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Payment Request API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Payment Request API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16688,6 +16831,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
@@ -16789,7 +16934,7 @@ No informative reference to this spec from other specs.
 
 ## Web Performance Working Group {#web_performance_working_group}
 
-### Beacon {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Beacon {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16802,6 +16947,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Navigator`
 - External links that neither target definitions nor headings:
      * [`https://fetch.spec.whatwg.org/#keep-alive-flag`](https://fetch.spec.whatwg.org/#keep-alive-flag)
 - Broken external links:
@@ -16822,7 +16968,7 @@ Informative references to this spec from:
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 
 
-### Cooperative Scheduling of Background Tasks {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Cooperative Scheduling of Background Tasks {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16835,6 +16981,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#dom-settimeout`](https://html.spec.whatwg.org/#dom-settimeout)
@@ -16859,7 +17007,7 @@ Informative references to this spec from:
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 
 
-### Device Memory 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Device Memory 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16872,6 +17020,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
@@ -16883,7 +17032,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### High Resolution Time {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### High Resolution Time {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16896,6 +17045,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventTarget`, `WindowOrWorkerGlobalScope`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#worker`](https://html.spec.whatwg.org/#worker)
      * [`https://html.spec.whatwg.org/#sharedworker`](https://html.spec.whatwg.org/#sharedworker)
@@ -16962,7 +17113,7 @@ Informative references to this spec from:
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 
 
-### Long Tasks API 1 {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Long Tasks API 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -16975,6 +17126,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `PerformanceEntry` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - Missing references for links: 
@@ -17028,7 +17180,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Navigation Timing Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Navigation Timing Level 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17041,6 +17193,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - External links to private terms:
      * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
@@ -17137,7 +17290,7 @@ Informative references to this spec from:
 - [Reporting API 1](https://w3c.github.io/reporting/)
 
 
-### Paint Timing 1 {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Paint Timing 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17150,6 +17303,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for WebIDL names: 
      * `PerformanceEntry` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - Missing references for links: 
@@ -17197,7 +17351,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Performance Timeline Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Performance Timeline Level 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17210,6 +17364,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
 - External links to private terms:
@@ -17298,7 +17453,7 @@ Informative references to this spec from:
 - [Priority Hints](https://wicg.github.io/priority-hints/)
 
 
-### Reporting API 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Reporting API 1 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17311,6 +17466,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/)
 - Inconsistent references for links: 
@@ -17407,7 +17563,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Resource Timing Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Resource Timing Level 2 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17420,6 +17576,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
 - External links to private terms:
@@ -17485,7 +17643,7 @@ Informative references to this spec from:
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 
 
-### Server Timing {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Server Timing {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17498,6 +17656,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - External links to private terms:
      * [`https://www.w3.org/TR/navigation-timing-2/#dfn-current-document`](https://www.w3.org/TR/navigation-timing-2/#dfn-current-document)
 - Broken external links:
@@ -17546,7 +17705,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### User Timing Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### User Timing Level 3 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17559,6 +17718,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - External links to private terms:
      * [`https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry`](https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer)
@@ -17588,7 +17748,7 @@ No informative reference to this spec from other specs.
 
 ## Web Platform Incubator Community Group {#web_platform_incubator_community_group}
 
-### Accelerated Shape Detection in Images {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Accelerated Shape Detection in Images {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17600,6 +17760,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ImageBitmapSource`
 - Missing references for WebIDL names: 
      * `Point2D` defined in [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - Missing references for links: 
@@ -17634,7 +17796,7 @@ Informative references to this spec from:
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html)
 
 
-### Accelerated Text Detection in Images {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Accelerated Text Detection in Images {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17646,6 +17808,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ImageBitmapSource`
 - Missing references for WebIDL names: 
      * `Point2D` defined in [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - Missing references for links: 
@@ -17663,7 +17827,7 @@ Informative references to this spec from:
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
 
 
-### App History API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### App History API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17675,6 +17839,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortSignal`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -17777,7 +17943,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Attribution Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Attribution Reporting {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17789,6 +17955,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `HTMLAnchorElement`, `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
      * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
@@ -17839,7 +18007,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Background Fetch {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Background Fetch {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17851,6 +18019,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`
 - Missing references for links: 
      * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/)
      * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/)
@@ -17904,7 +18074,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### Badging API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Badging API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17916,6 +18086,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Navigator`
 - Missing references for links: 
      * [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/)
 - Broken external links:
@@ -17986,7 +18157,7 @@ Informative references to this spec from:
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
 
 
-### Close Watcher API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Close Watcher API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17998,6 +18169,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - External links to private terms:
@@ -18057,7 +18230,7 @@ Informative references to this spec from:
 - [Streams Standard](https://streams.spec.whatwg.org/)
 
 
-### Compute Pressure API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Compute Pressure API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18069,6 +18242,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
@@ -18084,7 +18258,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Contact Picker API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Contact Picker API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18096,6 +18270,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Navigator`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - Broken external links:
@@ -18121,7 +18297,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Content Index {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Content Index {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18133,6 +18309,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/), related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
      * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/), related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
@@ -18175,7 +18353,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Cookie Store API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Cookie Store API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18187,7 +18365,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `DOMTimeStamp`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DOMTimeStamp`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/), related reference "Service-Workers" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 - Broken external links:
@@ -18218,7 +18397,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Crash Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Crash Reporting {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -18230,6 +18409,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
@@ -18272,7 +18452,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Parser API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Parser API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18284,6 +18464,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ReadableStream`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
 
@@ -18294,7 +18476,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Custom State Pseudo Class {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Custom State Pseudo Class {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18306,6 +18488,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ElementInternals`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
      * [`https://html.spec.whatwg.org/#elementinternals`](https://html.spec.whatwg.org/#elementinternals)
@@ -18319,7 +18503,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### DataCue API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### DataCue API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18331,6 +18515,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `TextTrackCue`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#texttrackcue`](https://html.spec.whatwg.org/#texttrackcue)
 
@@ -18341,7 +18527,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Deprecation Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Deprecation Reporting {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18353,6 +18539,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
@@ -18401,7 +18588,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Early detection of input events {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Early detection of input events {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18413,6 +18600,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Navigator`
 - Broken external links:
      * [`https://webidl.spec.whatwg.org/#idl-Exposed`](https://webidl.spec.whatwg.org/#idl-Exposed)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -18433,7 +18622,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Element Timing API {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Element Timing API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18445,6 +18634,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`
 - Missing references for WebIDL names: 
      * `PerformanceEntry` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - Missing references for links: 
@@ -18490,7 +18681,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Event Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Event Timing API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18502,6 +18693,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Node`
 - Missing references for links: 
      * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
 - Inconsistent references for links: 
@@ -18546,7 +18739,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### EyeDropper API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### EyeDropper API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18558,6 +18751,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortSignal`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#valid-simple-colour`](https://html.spec.whatwg.org/#valid-simple-colour)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -18573,7 +18768,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Federated Learning of Cohorts {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Federated Learning of Cohorts {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18585,6 +18780,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Document`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - Broken external links:
@@ -18601,7 +18797,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### File and Directory Entries API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### File and Directory Entries API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18613,6 +18809,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DataTransferItem`, `HTMLInputElement`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - Broken external links:
@@ -18641,7 +18839,7 @@ Informative references to this spec from:
 - [File System Access](https://wicg.github.io/file-system-access/)
 
 
-### File System Access {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### File System Access {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18653,6 +18851,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DataTransferItem`, `Window`, `WritableStream`
 - Missing references for WebIDL names: 
      * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Inconsistent references for links: 
@@ -18703,7 +18903,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Get Installed Related Apps API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Get Installed Related Apps API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18715,6 +18915,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Navigator`
 - Broken external links:
      * [`https://www.w3.org/TR/appmanifest/#dom-fingerprint`](https://www.w3.org/TR/appmanifest/#dom-fingerprint)
      * [`https://www.w3.org/TR/appmanifest/#dom-externalapplicationresource`](https://www.w3.org/TR/appmanifest/#dom-externalapplicationresource)
@@ -18739,7 +18941,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTML Sanitizer API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### HTML Sanitizer API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18751,6 +18953,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Document`, `DocumentFragment`, `Element`
 - Missing references for links: 
      * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/)
      * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
@@ -18792,7 +18996,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18804,6 +19008,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `HTMLVideoElement`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
 - Broken external links:
@@ -18827,7 +19032,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Idle Detection API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Idle Detection API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18839,6 +19044,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `AbortSignal`, `EventHandler`, `EventTarget`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
@@ -18923,7 +19130,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Ink API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Ink API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18935,6 +19142,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`, `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#dom-context-2d-canvas`](https://html.spec.whatwg.org/#dom-context-2d-canvas)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
@@ -18946,7 +19155,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Input Device Capabilities {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Input Device Capabilities {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -18958,6 +19167,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
 
@@ -18968,7 +19178,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Intervention Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Intervention Reporting {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -18980,6 +19190,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
@@ -18990,7 +19201,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### JS Self-Profiling API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### JS Self-Profiling API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19002,6 +19213,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventTarget`
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec-permissions-policy/document-policy.html`](https://w3c.github.io/webappsec-permissions-policy/document-policy.html)
 - External links to private terms:
@@ -19028,7 +19241,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Keyboard Lock {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Keyboard Lock {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19040,6 +19253,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventTarget`, `Navigator`
 - External links to private terms:
      * [`https://www.w3.org/TR/uievents-code/#key-code-attribute-value`](https://www.w3.org/TR/uievents-code/#key-code-attribute-value)
 - Broken external links:
@@ -19063,7 +19278,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Keyboard Map {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Keyboard Map {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19075,6 +19290,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - External links to private terms:
@@ -19101,7 +19318,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Largest Contentful Paint {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Largest Contentful Paint {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19113,6 +19330,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Element`
 - Missing references for WebIDL names: 
      * `PerformanceEntry` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - Missing references for links: 
@@ -19148,7 +19367,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Layout Instability API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Layout Instability API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19160,6 +19379,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Node`
 - Missing references for links: 
      * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
      * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
@@ -19258,7 +19479,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Local Font Access API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Local Font Access API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19270,6 +19491,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
@@ -19296,7 +19518,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Manifest Incubations {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Manifest Incubations {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19308,6 +19530,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `Window`
 - External links to private terms:
      * [`https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode`](https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode)
      * [`https://www.w3.org/TR/appmanifest/#dfn-ignore`](https://www.w3.org/TR/appmanifest/#dfn-ignore)
@@ -19426,7 +19650,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Network Information API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Network Information API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19438,6 +19662,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`
 - Missing references for links: 
      * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/)
      * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/)
@@ -19459,7 +19685,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Origin Policy {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Origin Policy {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19471,6 +19697,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `WindowOrWorkerGlobalScope`
 - External links to private terms:
      * [`https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch`](https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch)
      * [`https://fetch.spec.whatwg.org/#concept-main-fetch`](https://fetch.spec.whatwg.org/#concept-main-fetch)
@@ -19571,7 +19798,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Page Lifecycle {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Page Lifecycle {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19583,6 +19810,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Document`, `EventHandler`
 - Missing references for links: 
      * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/)
      * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
@@ -19637,7 +19865,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Portals {data-spec=true data-anomaly=true data-unknownIdlNames=true data-redefinedIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Portals {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19649,9 +19877,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `PostMessageOptions`, `WindowProxy`
-- WebIDL names also defined elsewhere: 
-    * `MessageEventSource` also defined in [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`, `HTMLElement`, `MessagePort`, `PostMessageOptions`, `Window`, `WindowEventHandlers`, `WindowProxy`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/), related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
      * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
@@ -19765,7 +19992,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Prioritized Task Scheduling {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Prioritized Task Scheduling {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19777,6 +20004,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortController`, `AbortSignal`, `Event`, `EventHandler`, `EventInit`, `WindowOrWorkerGlobalScope`
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/), related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
 - External links to private terms:
@@ -19817,7 +20046,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Priority Hints {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Priority Hints {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -19829,6 +20058,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `HTMLIFrameElement`, `HTMLImageElement`, `HTMLLinkElement`, `HTMLScriptElement`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
@@ -20036,7 +20266,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Scripting Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Scripting Policy {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20048,6 +20278,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - Inconsistent references for links: 
@@ -20098,7 +20329,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Text Fragments {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Text Fragments {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20110,6 +20341,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Document`
 - Missing references for links: 
      * [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/)
 - External links to private terms:
@@ -20162,13 +20395,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### URLPattern API {data-spec=true data-missingDfns=true data-ok=true}
+### URLPattern API {data-spec=true data-unknownExposedNames=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
 - Crawled URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
-- Crawled version: 19 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
 - Shortname: urlpattern
 
@@ -20207,7 +20440,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### User-Agent Client Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### User-Agent Client Hints {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20219,6 +20452,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/)
 - External links to private terms:
@@ -20243,7 +20477,7 @@ Informative references to this spec from:
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
 
 
-### uuid {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### uuid {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20255,6 +20489,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
@@ -20268,7 +20503,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Visual Viewport API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Visual Viewport API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20280,6 +20515,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `Window`
 - External links to private terms:
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
      * [`https://www.w3.org/TR/cssom-view-1/#pinch-zoom`](https://www.w3.org/TR/cssom-view-1/#pinch-zoom)
@@ -20301,7 +20538,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Web Background Synchronization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Background Synchronization {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20313,6 +20550,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec/specs/powerfulfeatures/`](https://w3c.github.io/webappsec/specs/powerfulfeatures/)
      * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/)
@@ -20346,7 +20585,7 @@ Informative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 
 
-### Web Periodic Background Synchronization {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Web Periodic Background Synchronization {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20358,6 +20597,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/), related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -20383,7 +20624,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Web Serial API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Web Serial API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20395,6 +20636,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`, `Navigator`, `ReadableStream`, `WorkerNavigator`, `WritableStream`
 - External links to private terms:
      * [`https://streams.spec.whatwg.org/#desired-size-to-fill-a-streams-internal-queue`](https://streams.spec.whatwg.org/#desired-size-to-fill-a-streams-internal-queue)
      * [`https://streams.spec.whatwg.org/#internal-queues`](https://streams.spec.whatwg.org/#internal-queues)
@@ -20456,7 +20699,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Web Speech API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Web Speech API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20468,6 +20711,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
@@ -20482,7 +20727,7 @@ Informative references to this spec from:
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 
 
-### WebHID API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### WebHID API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20494,7 +20739,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `DataView`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DataView`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -20514,7 +20760,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebOTP API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebOTP API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20526,6 +20772,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/), related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
@@ -20555,7 +20802,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebUSB API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebUSB API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20567,7 +20814,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `DataView`
+- Unknown [Exposed] names used: `DedicatedWorker`, `SharedWorker`, `Window`
+- Unknown WebIDL names used: `DataView`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Navigator`, `WorkerNavigator`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
@@ -20590,7 +20838,7 @@ Informative references to this spec from:
 - [Web Serial API](https://wicg.github.io/serial/)
 
 
-### Window Controls Overlay {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Window Controls Overlay {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20602,6 +20850,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Navigator`
 - External links to private terms:
      * [`https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps)
 - Broken external links:
@@ -20618,7 +20868,7 @@ No informative reference to this spec from other specs.
 
 ## Web Platform Working Group {#web_platform_working_group}
 
-### DOM Parsing and Serialization {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### DOM Parsing and Serialization {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20631,6 +20881,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `DocumentFragment`, `Element`, `Node`, `Range`
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM4" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 - Broken external links:
@@ -20728,7 +20980,7 @@ No informative reference to this spec from other specs.
 
 ## Web Real-Time Communications Working Group {#web_real_time_communications_working_group}
 
-### Audio Output Devices API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Audio Output Devices API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20741,6 +20993,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `HTMLMediaElement`
 - External links to private terms:
      * [`https://www.w3.org/TR/webaudio/#allowed-to-start`](https://www.w3.org/TR/webaudio/#allowed-to-start)
 - External links that neither target definitions nor headings:
@@ -20765,7 +21018,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### IceTransport Extensions for WebRTC {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### IceTransport Extensions for WebRTC {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20777,6 +21030,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -20815,7 +21070,7 @@ Informative references to this spec from:
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 
 
-### Identity for WebRTC 1.0 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Identity for WebRTC 1.0 {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20828,7 +21083,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown [Exposed] names used: `RTCIdentityProviderGlobalScope`
+- Unknown [Exposed] names used: `RTCIdentityProviderGlobalScope`, `Window`
+- Unknown WebIDL names used: `EventHandler`, `WorkerGlobalScope`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webrtc-pc/`](https://w3c.github.io/webrtc-pc/), related reference "WEBRTC" uses URL [`https://www.w3.org/TR/webrtc/`](https://www.w3.org/TR/webrtc/)
 - External links to private terms:
@@ -20865,7 +21121,7 @@ Informative references to this spec from:
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
 
-### Media Capture and Streams {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Media Capture and Streams {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -20878,6 +21134,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`, `Navigator`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
@@ -20937,6 +21195,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
@@ -21054,7 +21313,7 @@ Informative references to this spec from:
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 
 
-### Media Capture from DOM Elements {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Media Capture from DOM Elements {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21067,6 +21326,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `HTMLCanvasElement`, `HTMLMediaElement`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - Broken external links:
@@ -21098,7 +21359,7 @@ Informative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 
 
-### MediaStream Image Capture {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### MediaStream Image Capture {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21111,6 +21372,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ImageBitmap`
 - Missing references for links: 
      * [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
 - Inconsistent references for links: 
@@ -21161,7 +21424,7 @@ Informative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 
 
-### MediaStream Recording {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### MediaStream Recording {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21174,6 +21437,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `Event`, `EventHandler`, `EventInit`, `EventTarget`
 - Missing references for links: 
      * [`https://www.w3.org/TR/webrtc-identity/`](https://www.w3.org/TR/webrtc-identity/)
      * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
@@ -21226,18 +21491,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### MediaStreamTrack Insertable Media Processing using Streams {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### MediaStreamTrack Insertable Media Processing using Streams {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/mediacapture-transform/](https://w3c.github.io/mediacapture-transform/)
 - Crawled URL: [https://w3c.github.io/mediacapture-transform/](https://w3c.github.io/mediacapture-transform/)
-- Crawled version: 7 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-transform/](https://w3c.github.io/mediacapture-transform/)
 - Shortname: mediacapture-transform
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`
+- Unknown WebIDL names used: `ReadableStream`, `WritableStream`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - External links to private terms:
@@ -21317,7 +21584,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### WebRTC 1.0: Real-Time Communication Between Browsers {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### WebRTC 1.0: Real-Time Communication Between Browsers {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21330,7 +21597,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `BinaryType`, `Event`, `EventHandler`, `EventInit`, `EventTarget`
 - Possibly no definition for IDL properties: 
      * `setStreams(...streams)` with type `method` for [`RTCRtpSender`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender), but found [`setStreams()`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams) with type `method` for `RTCRtpSender`
      * `addTrack(track, ...streams)` with type `method` for [`RTCPeerConnection`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection), but found [`addTrack()`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack) with type `method` for `RTCPeerConnection`
@@ -21387,7 +21655,7 @@ Informative references to this spec from:
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 
 
-### WebRTC Encoded Transform {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebRTC Encoded Transform {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21400,7 +21668,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `bigint`
+- Unknown [Exposed] names used: `DedicatedWorker`, `Window`
+- Unknown WebIDL names used: `ArrayBuffer`, `DedicatedWorkerGlobalScope`, `Event`, `EventHandler`, `EventInit`, `ReadableStream`, `Worker`, `WritableStream`, `bigint`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webcrypto/`](https://w3c.github.io/webcrypto/), related reference "WebCryptoAPI" uses URL [`https://www.w3.org/TR/WebCryptoAPI/`](https://www.w3.org/TR/WebCryptoAPI/)
 - Broken external links:
@@ -21471,7 +21740,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21484,6 +21753,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `ArrayBuffer`
 - Missing references for links: 
      * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
@@ -21515,7 +21785,7 @@ Informative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
-### WebAssembly Web API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### WebAssembly Web API {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21528,6 +21798,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Missing references for links: 
      * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
      * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
@@ -21556,7 +21827,7 @@ No informative reference to this spec from other specs.
 
 ## WebTransport Working Group {#webtransport_working_group}
 
-### WebTransport {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### WebTransport {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21569,6 +21840,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `ReadableStream`, `WritableStream`
 - Inconsistent references for links: 
      * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 - Broken external links:
@@ -21603,7 +21876,7 @@ Informative references to this spec from:
 
 ## Compatibility Workstream {#compatibility_workstream}
 
-### Compatibility Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Compatibility Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21615,6 +21888,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `EventHandler`, `HTMLBodyElement`, `Window`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -21625,16 +21899,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://w3c.github.io/screen-orientation/#dfn-update-the-orientation-information`](https://w3c.github.io/screen-orientation/#dfn-update-the-orientation-information)
 - Broken external links:
-     * [`https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes`](https://drafts.csswg.org/css-animations-1/#at-ruledef-keyframes)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-name`](https://drafts.csswg.org/css-animations-1/#propdef-animation-name)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-duration`](https://drafts.csswg.org/css-animations-1/#propdef-animation-duration)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function`](https://drafts.csswg.org/css-animations-1/#propdef-animation-timing-function)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count`](https://drafts.csswg.org/css-animations-1/#propdef-animation-iteration-count)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-direction`](https://drafts.csswg.org/css-animations-1/#propdef-animation-direction)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state`](https://drafts.csswg.org/css-animations-1/#propdef-animation-play-state)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-delay`](https://drafts.csswg.org/css-animations-1/#propdef-animation-delay)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode`](https://drafts.csswg.org/css-animations-1/#propdef-animation-fill-mode)
-     * [`https://drafts.csswg.org/css-animations-1/#propdef-animation`](https://drafts.csswg.org/css-animations-1/#propdef-animation)
      * [`https://drafts.csswg.org/css-transitions/#animtype-color`](https://drafts.csswg.org/css-transitions/#animtype-color)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -21661,7 +21925,7 @@ Informative references to this spec from:
 
 ## Console Workstream {#console_workstream}
 
-### Console Standard {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### Console Standard {data-spec=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -21696,7 +21960,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 19 December 2021
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
@@ -21788,6 +22052,7 @@ Normative references to this spec from:
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
@@ -21961,19 +22226,20 @@ Informative references to this spec from:
 
 ## Fetch Workstream {#fetch_workstream}
 
-### Fetch Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### Fetch Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 19 December 2021
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `AbortSignal`, `ArrayBuffer`, `ReadableStream`, `URLSearchParams`, `WindowOrWorkerGlobalScope`
 - External links to private terms:
      * [`https://w3c.github.io/FileAPI/#readOperation`](https://w3c.github.io/FileAPI/#readOperation)
 - Broken external links:
@@ -22128,7 +22394,7 @@ Informative references to this spec from:
 
 ## Fullscreen API Workstream {#fullscreen_api_workstream}
 
-### Fullscreen API Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Fullscreen API Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -22140,6 +22406,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown WebIDL names used: `Document`, `DocumentOrShadowRoot`, `Element`, `EventHandler`
 - Missing references for links: 
      * [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
      * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
@@ -22195,155 +22462,18 @@ Informative references to this spec from:
 
 ## HTML Workstream {#html_workstream}
 
-### HTML Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-redefinedIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### HTML Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 21 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `ArrayBuffer`, `Uint8ClampedArray`, `WindowProxy`
-- WebIDL names also defined elsewhere: 
-    * `MessageEventSource` also defined in [Portals](https://wicg.github.io/portals/)
-- Missing references for WebIDL names: 
-     * `WebGL2RenderingContext` defined in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- No definition for IDL properties: 
-     * `"loading"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate), but found [`loading`](https://html.spec.whatwg.org/multipage/embedded-content.html#attr-img-loading) with type `element-attr` for `img`
-     * `"interactive"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate)
-     * `"complete"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate), but found [`complete`](https://html.spec.whatwg.org/multipage/embedded-content.html#dom-img-complete) with type `attribute` for `HTMLImageElement`
-     * `"visible"` with type `enum-value` for [`DocumentVisibilityState`](https://html.spec.whatwg.org/multipage/dom.html#documentvisibilitystate), but found [`visible`](https://html.spec.whatwg.org/multipage/window-object.html#dom-barprop-visible) with type `attribute` for `BarProp`
-     * `"hidden"` with type `enum-value` for [`DocumentVisibilityState`](https://html.spec.whatwg.org/multipage/dom.html#documentvisibilitystate), but found [`hidden`](https://html.spec.whatwg.org/multipage/media.html#dom-texttrack-hidden) with type `dfn`
-     * `""` with type `enum-value` for [`CanPlayTypeResult`](https://html.spec.whatwg.org/multipage/media.html#canplaytyperesult)
-     * `"disabled"` with type `enum-value` for [`TextTrackMode`](https://html.spec.whatwg.org/multipage/media.html#texttrackmode), but found [`disabled`](https://html.spec.whatwg.org/multipage/semantics.html#attr-link-disabled) with type `element-attr` for `link`
-     * `"hidden"` with type `enum-value` for [`TextTrackMode`](https://html.spec.whatwg.org/multipage/media.html#texttrackmode), but found [`hidden`](https://html.spec.whatwg.org/multipage/media.html#dom-texttrack-hidden) with type `dfn`
-     * `"showing"` with type `enum-value` for [`TextTrackMode`](https://html.spec.whatwg.org/multipage/media.html#texttrackmode), but found [`showing`](https://html.spec.whatwg.org/multipage/media.html#dom-texttrack-showing) with type `dfn`
-     * `"subtitles"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`subtitles`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-subtitles) with type `attr-value` for `track/kind`
-     * `"captions"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`captions`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-captions) with type `attr-value` for `track/kind`
-     * `"descriptions"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`descriptions`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-descriptions) with type `attr-value` for `track/kind`
-     * `"chapters"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`chapters`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-chapters) with type `attr-value` for `track/kind`
-     * `"metadata"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`metadata`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-metadata) with type `attr-value` for `track/kind`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`TrackEvent`](https://html.spec.whatwg.org/multipage/media.html#trackevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `track` with type `dict-member` for [`TrackEventInit`](https://html.spec.whatwg.org/multipage/media.html#trackeventinit), but found [`track`](https://html.spec.whatwg.org/multipage/media.html#the-track-element) with type `element`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`SubmitEvent`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#submitevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `submitter` with type `dict-member` for [`SubmitEventInit`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#submiteventinit), but found [`submitter`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-submitevent-submitter) with type `attribute` for `SubmitEvent`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`FormDataEvent`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#formdataevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `formData` with type `dict-member` for [`FormDataEventInit`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#formdataeventinit), but found [`formData`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-formdataevent-formdata) with type `attribute` for `FormDataEvent`
-     * `flatten` with type `dict-member` for [`AssignedNodesOptions`](https://html.spec.whatwg.org/multipage/scripting.html#assignednodesoptions), but found [`flatten`](https://html.spec.whatwg.org/multipage/scripting.html#dom-assignednodesoptions-flatten) with type `dict-member` for `AssignedNodeOptions`
-     * `CanvasImageSource` with type `typedef`, but found [`CanvasImageSource`](https://html.spec.whatwg.org/multipage/canvas.html#canvasimagesource) with type `dfn`
-     * `CanvasFilterInput` with type `typedef`, but found [`CanvasFilterInput`](https://html.spec.whatwg.org/multipage/canvas.html#canvasfilterinput) with type `dfn`
-     * `constructor(filters)` with type `constructor` for [`CanvasFilter`](https://html.spec.whatwg.org/multipage/canvas.html#canvasfilter), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `"butt"` with type `enum-value` for [`CanvasLineCap`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinecap)
-     * `"round"` with type `enum-value` for [`CanvasLineCap`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinecap)
-     * `"square"` with type `enum-value` for [`CanvasLineCap`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinecap)
-     * `"round"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
-     * `"bevel"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
-     * `"miter"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
-     * `constructor(sw, sh, settings)` with type `constructor` for [`ImageData`](https://html.spec.whatwg.org/multipage/canvas.html#imagedata), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(data, sw, sh, settings)` with type `constructor` for [`ImageData`](https://html.spec.whatwg.org/multipage/canvas.html#imagedata), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(path)` with type `constructor` for [`Path2D`](https://html.spec.whatwg.org/multipage/canvas.html#path2d), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `type` with type `dict-member` for [`ImageEncodeOptions`](https://html.spec.whatwg.org/multipage/canvas.html#imageencodeoptions), but found [`type`](https://html.spec.whatwg.org/multipage/infrastructure.html#concept-response-type) with type `dfn`
-     * `quality` with type `dict-member` for [`ImageEncodeOptions`](https://html.spec.whatwg.org/multipage/canvas.html#imageencodeoptions), but found [`quality`](https://html.spec.whatwg.org/multipage/canvas.html#image-encode-options-quality) with type `dfn`
-     * `"2d"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`2d`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-2d) with type `dfn`
-     * `"bitmaprenderer"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`bitmaprenderer`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-bitmaprenderer) with type `dfn`
-     * `"webgl"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`webgl`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-webgl) with type `dfn`
-     * `"webgl2"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`webgl2`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-webgl2) with type `dfn`
-     * `"webgpu"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`webgpu`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-webgpu) with type `dfn`
-     * `constructor(width, height)` with type `constructor` for [`OffscreenCanvas`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencanvas), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `commit()` with type `method` for [`OffscreenCanvasRenderingContext2D`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencanvasrenderingcontext2d), but found [`commit()`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencontext-commit) with type `dfn`
-     * `canvas` with type `attribute` for [`OffscreenCanvasRenderingContext2D`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencanvasrenderingcontext2d), but found [`canvas`](https://html.spec.whatwg.org/multipage/canvas.html#canvas) with type `element`
-     * `extends` with type `dict-member` for [`ElementDefinitionOptions`](https://html.spec.whatwg.org/multipage/custom-elements.html#elementdefinitionoptions)
-     * `valueMissing` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`valueMissing`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-valuemissing) with type `attribute` for `ValidityState`
-     * `typeMismatch` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`typeMismatch`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-typemismatch) with type `attribute` for `ValidityState`
-     * `patternMismatch` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`patternMismatch`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-patternmismatch) with type `attribute` for `ValidityState`
-     * `tooLong` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`tooLong`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-toolong) with type `attribute` for `ValidityState`
-     * `tooShort` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`tooShort`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-tooshort) with type `attribute` for `ValidityState`
-     * `rangeUnderflow` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`rangeUnderflow`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-rangeunderflow) with type `attribute` for `ValidityState`
-     * `rangeOverflow` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`rangeOverflow`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-rangeoverflow) with type `attribute` for `ValidityState`
-     * `stepMismatch` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`stepMismatch`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-stepmismatch) with type `attribute` for `ValidityState`
-     * `badInput` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`badInput`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-badinput) with type `attribute` for `ValidityState`
-     * `customError` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`customError`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-customerror) with type `attribute` for `ValidityState`
-     * `constructor()` with type `constructor` for [`DataTransfer`](https://html.spec.whatwg.org/multipage/dnd.html#datatransfer), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`DragEvent`](https://html.spec.whatwg.org/multipage/dnd.html#dragevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `dataTransfer` with type `dict-member` for [`DragEventInit`](https://html.spec.whatwg.org/multipage/dnd.html#drageventinit), but found [`dataTransfer`](https://html.spec.whatwg.org/multipage/dnd.html#dom-dragevent-datatransfer) with type `attribute` for `DragEvent`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`PopStateEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#popstateevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `state` with type `dict-member` for [`PopStateEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#popstateeventinit), but found [`state`](https://html.spec.whatwg.org/multipage/images.html#img-req-state) with type `dfn` for `image request`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`HashChangeEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `oldURL` with type `dict-member` for [`HashChangeEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeeventinit), but found [`oldURL`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-hashchangeevent-oldurl) with type `attribute` for `HashChangeEvent`
-     * `newURL` with type `dict-member` for [`HashChangeEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeeventinit), but found [`newURL`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-hashchangeevent-newurl) with type `attribute` for `HashChangeEvent`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`PageTransitionEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#pagetransitionevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `persisted` with type `dict-member` for [`PageTransitionEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#pagetransitioneventinit), but found [`persisted`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-pagetransitionevent-persisted) with type `attribute` for `PageTransitionEvent`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`ErrorEvent`](https://html.spec.whatwg.org/multipage/webappapis.html#errorevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `message` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`message`](https://html.spec.whatwg.org/multipage/media.html#concept-mediaerror-message) with type `dfn`
-     * `filename` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`filename`](https://html.spec.whatwg.org/multipage/input.html#dom-input-value-filename) with type `dfn`
-     * `lineno` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`lineno`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-errorevent-lineno) with type `attribute` for `ErrorEvent`
-     * `colno` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`colno`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-errorevent-colno) with type `attribute` for `ErrorEvent`
-     * `error` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`error`](https://html.spec.whatwg.org/multipage/media.html#dom-media-error) with type `attribute` for `HTMLMediaElement`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`PromiseRejectionEvent`](https://html.spec.whatwg.org/multipage/webappapis.html#promiserejectionevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `promise` with type `dict-member` for [`PromiseRejectionEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#promiserejectioneventinit), but found [`promise`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-promise) with type `attribute` for `PromiseRejectionEvent`
-     * `reason` with type `dict-member` for [`PromiseRejectionEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#promiserejectioneventinit), but found [`reason`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-reason) with type `attribute` for `PromiseRejectionEvent`
-     * `constructor()` with type `constructor` for [`DOMParser`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparser), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `"text/html"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`text/html`](https://html.spec.whatwg.org/multipage/iana.html#text/html) with type `dfn`
-     * `"text/xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`text/xml`](https://html.spec.whatwg.org/multipage/indices.html#text/xml) with type `dfn`
-     * `"application/xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`application/xml`](https://html.spec.whatwg.org/multipage/indices.html#application/xml) with type `dfn`
-     * `"application/xhtml+xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`application/xhtml+xml`](https://html.spec.whatwg.org/multipage/iana.html#application/xhtml+xml) with type `dfn`
-     * `"image/svg+xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`image/svg+xml`](https://html.spec.whatwg.org/multipage/indices.html#image/svg+xml) with type `dfn`
-     * `NavigatorPlugins` with type `interface`, but found [`NavigatorPlugins`](https://html.spec.whatwg.org/multipage/system-state.html#navigatorplugins) with type `dfn`
-     * `PluginArray` with type `interface`, but found [`PluginArray`](https://html.spec.whatwg.org/multipage/system-state.html#pluginarray) with type `dfn`
-     * `MimeTypeArray` with type `interface`, but found [`MimeTypeArray`](https://html.spec.whatwg.org/multipage/system-state.html#mimetypearray) with type `dfn`
-     * `Plugin` with type `interface`, but found [`Plugin`](https://html.spec.whatwg.org/multipage/system-state.html#dom-plugin) with type `dfn`
-     * `MimeType` with type `interface`, but found [`MimeType`](https://html.spec.whatwg.org/multipage/system-state.html#mimetype) with type `dfn`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`MessageEvent`](https://html.spec.whatwg.org/multipage/comms.html#messageevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(url, eventSourceInitDict)` with type `constructor` for [`EventSource`](https://html.spec.whatwg.org/multipage/server-sent-events.html#eventsource), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(url, protocols)` with type `constructor` for [`WebSocket`](https://html.spec.whatwg.org/multipage/web-sockets.html#websocket), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`CloseEvent`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `wasClean` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`wasClean`](https://html.spec.whatwg.org/multipage/web-sockets.html#dom-closeevent-wasclean) with type `attribute` for `CloseEvent`
-     * `code` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`code`](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element) with type `element`
-     * `reason` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`reason`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-reason) with type `attribute` for `PromiseRejectionEvent`
-     * `constructor()` with type `constructor` for [`MessageChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#messagechannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(name)` with type `constructor` for [`BroadcastChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#broadcastchannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(scriptURL, options)` with type `constructor` for [`Worker`](https://html.spec.whatwg.org/multipage/workers.html#worker), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `type` with type `dict-member` for [`WorkerOptions`](https://html.spec.whatwg.org/multipage/workers.html#workeroptions), but found [`type`](https://html.spec.whatwg.org/multipage/infrastructure.html#concept-response-type) with type `dfn`
-     * `credentials` with type `dict-member` for [`WorkerOptions`](https://html.spec.whatwg.org/multipage/workers.html#workeroptions), but found [`credentials`](https://html.spec.whatwg.org/multipage/workers.html#concept-sharedworkerglobalscope-credentials) with type `dfn` for `SharedWorkerGlobalScope`
-     * `name` with type `dict-member` for [`WorkerOptions`](https://html.spec.whatwg.org/multipage/workers.html#workeroptions), but found [`name`](https://html.spec.whatwg.org/multipage/infrastructure.html#slot-name) with type `dfn`
-     * `"classic"` with type `enum-value` for [`WorkerType`](https://html.spec.whatwg.org/multipage/workers.html#workertype)
-     * `"module"` with type `enum-value` for [`WorkerType`](https://html.spec.whatwg.org/multipage/workers.html#workertype)
-     * `constructor(scriptURL, options)` with type `constructor` for [`SharedWorker`](https://html.spec.whatwg.org/multipage/workers.html#sharedworker), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `hardwareConcurrency` with type `attribute` for [`NavigatorConcurrentHardware`](https://html.spec.whatwg.org/multipage/workers.html#navigatorconcurrenthardware)
-     * `constructor(type, eventInitDict)` with type `constructor` for [`StorageEvent`](https://html.spec.whatwg.org/multipage/webstorage.html#storageevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `key` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`key`](https://html.spec.whatwg.org/multipage/infrastructure.html#map-key) with type `dfn`
-     * `oldValue` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`oldValue`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-oldvalue) with type `attribute` for `StorageEvent`
-     * `newValue` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`newValue`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-newvalue) with type `attribute` for `StorageEvent`
-     * `url` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`url`](https://html.spec.whatwg.org/multipage/infrastructure.html#basic-url-parser-url) with type `dfn`
-     * `storageArea` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`storageArea`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-storagearea) with type `attribute` for `StorageEvent`
-     * `write(...text)` with type `method`
-     * `writeln(...text)` with type `method`
-     * `execCommand(commandId, showUI, value)` with type `method`, but found [`execCommand()`](https://html.spec.whatwg.org/multipage/interaction.html#execCommand) with type `dfn`
-     * `queryCommandEnabled(commandId)` with type `method`, but found [`queryCommandEnabled()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandenabled) with type `dfn`
-     * `queryCommandIndeterm(commandId)` with type `method`, but found [`queryCommandIndeterm()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandindeterm) with type `dfn`
-     * `queryCommandState(commandId)` with type `method`, but found [`queryCommandState()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandstate) with type `dfn`
-     * `queryCommandSupported(commandId)` with type `method`, but found [`queryCommandSupported()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandsupported) with type `dfn`
-     * `queryCommandValue(commandId)` with type `method`, but found [`queryCommandValue()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandvalue) with type `dfn`
-- Possibly no definition for IDL properties: 
-     * `setRangeText(replacement)` with type `method` for [`HTMLInputElement`](https://html.spec.whatwg.org/multipage/input.html#htmlinputelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-     * `setRangeText(replacement, start, end, selectionMode)` with type `method` for [`HTMLInputElement`](https://html.spec.whatwg.org/multipage/input.html#htmlinputelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-     * `remove(index)` with type `method` for [`HTMLSelectElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmlselectelement), but found [`remove()`](https://html.spec.whatwg.org/multipage/form-elements.html#dom-select-remove) with type `method` for `HTMLSelectElement`
-     * `setRangeText(replacement)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-     * `setRangeText(replacement, start, end, selectionMode)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-     * `drawFocusIfNeeded(path, element)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`drawFocusIfNeeded(element)`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawfocusifneeded) with type `method` for `CanvasUserInterface`
-     * `scrollPathIntoView(path)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`scrollPathIntoView()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-scrollpathintoview) with type `method` for `CanvasUserInterface`
-     * `drawImage(image, dx, dy)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
-     * `drawImage(image, dx, dy, dw, dh)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
-     * `drawImage(image, sx, sy, sw, sh, dx, dy, dw, dh)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
-     * `putImageData(imagedata, dx, dy)` with type `method` for [`CanvasImageData`](https://html.spec.whatwg.org/multipage/canvas.html#canvasimagedata), but found [`putImageData()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-putimagedata) with type `method` for `CanvasImageData`
-     * `putImageData(imagedata, dx, dy, dirtyX, dirtyY, dirtyWidth, dirtyHeight)` with type `method` for [`CanvasImageData`](https://html.spec.whatwg.org/multipage/canvas.html#canvasimagedata), but found [`putImageData()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-putimagedata) with type `method` for `CanvasImageData`
-     * `add(data, type)` with type `method` for [`DataTransferItemList`](https://html.spec.whatwg.org/multipage/dnd.html#datatransferitemlist), but found [`add()`](https://html.spec.whatwg.org/multipage/dnd.html#dom-datatransferitemlist-add) with type `method` for `DataTransferItemList`
-     * `add(data)` with type `method` for [`DataTransferItemList`](https://html.spec.whatwg.org/multipage/dnd.html#datatransferitemlist), but found [`add()`](https://html.spec.whatwg.org/multipage/dnd.html#dom-datatransferitemlist-add) with type `method` for `DataTransferItemList`
-     * `createImageBitmap(image, sx, sy, sw, sh, options)` with type `method` for [`WindowOrWorkerGlobalScope`](https://html.spec.whatwg.org/multipage/webappapis.html#windoworworkerglobalscope), but found [`createImageBitmap(image, options)`](https://html.spec.whatwg.org/multipage/imagebitmap-and-animations.html#dom-createimagebitmap) with type `method` for `WindowOrWorkerGlobalScope`
 - Missing references for links: 
      * [`https://spec.whatwg.org/`](https://spec.whatwg.org/)
      * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
@@ -22777,6 +22907,7 @@ Normative references to this spec from:
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Cross-Origin-Embedder-Policy: credentialless](https://wicg.github.io/credentiallessness/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
@@ -22848,6 +22979,7 @@ Normative references to this spec from:
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
@@ -23265,7 +23397,7 @@ Informative references to this spec from:
 
 ## Notifications API Workstream {#notifications_api_workstream}
 
-### Notifications API Standard {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Notifications API Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -23277,6 +23409,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
+- Unknown WebIDL names used: `EventHandler`, `EventTarget`
 - External links to private terms:
      * [`https://w3c.github.io/vibration/#dfn-validate-and-normalize`](https://w3c.github.io/vibration/#dfn-validate-and-normalize)
      * [`https://w3c.github.io/vibration/#dfn-perform-vibration`](https://w3c.github.io/vibration/#dfn-perform-vibration)
@@ -23365,7 +23499,7 @@ Informative references to this spec from:
 
 ## Storage Workstream {#storage_workstream}
 
-### Storage Standard {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Storage Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -23377,6 +23511,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Broken external links:
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
@@ -23416,7 +23551,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 18 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 
@@ -23481,7 +23616,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 25 October 2021
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
@@ -23588,18 +23723,19 @@ Informative references to this spec from:
 
 ## Web IDL Workstream {#web_idl_workstream}
 
-### Web IDL Standard {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Web IDL Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 19 January 2022
+- Crawled version: 24 January 2022
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `Window`
 - Unknown WebIDL names used: `ArrayBuffer`, `BigInt64Array`, `BigUint64Array`, `DataView`, `Float32Array`, `Float64Array`, `Int16Array`, `Int32Array`, `Int8Array`, `Uint16Array`, `Uint32Array`, `Uint8Array`, `Uint8ClampedArray`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/)
@@ -23658,6 +23794,7 @@ Normative references to this spec from:
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
@@ -23700,6 +23837,7 @@ Normative references to this spec from:
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
@@ -23819,7 +23957,7 @@ Informative references to this spec from:
 
 ## XMLHttpRequest Workstream {#xmlhttprequest_workstream}
 
-### XMLHttpRequest Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### XMLHttpRequest Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -23831,6 +23969,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Unknown [Exposed] names used: `DedicatedWorker`, `SharedWorker`, `Window`
+- Unknown WebIDL names used: `Document`, `Event`, `EventHandler`, `EventInit`, `EventTarget`, `HTMLFormElement`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 - External links to private terms:
