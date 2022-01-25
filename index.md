@@ -18542,7 +18542,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/floc/](https://wicg.github.io/floc/)
 - Crawled URL: [https://wicg.github.io/floc/](https://wicg.github.io/floc/)
-- Crawled version: 22 July 2021
+- Crawled version: 25 January 2022
 - Editor's Draft: [https://wicg.github.io/floc/](https://wicg.github.io/floc/)
 - Shortname: floc
 
@@ -23651,6 +23651,7 @@ Normative references to this spec from:
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
 - [Event Timing API](https://wicg.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
+- [Federated Learning of Cohorts](https://wicg.github.io/floc/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
