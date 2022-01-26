@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 25, 2022
+% January 26, 2022
 
 458 specifications were crawled in this report.
 
@@ -9149,7 +9149,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/):
      * [`https://www.w3.org/TR/eventsource/`](https://www.w3.org/TR/eventsource/)
-     * [`https://www.w3.org/TR/websockets/`](https://www.w3.org/TR/websockets/)
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/):
