@@ -1,27 +1,16 @@
 % Reffy crawl
 % Strudy
-% January 26, 2022
+% January 27, 2022
 
 458 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
 
-- [[No title found for https://drafts.csswg.org/css-gcpm-4/]](https://drafts.csswg.org/css-gcpm-4/)
-- [[No title found for https://drafts.csswg.org/css-multicol-2/]](https://drafts.csswg.org/css-multicol-2/)
-- [[No title found for https://drafts.csswg.org/css-shapes-2/]](https://drafts.csswg.org/css-shapes-2/)
-- [[No title found for https://drafts.csswg.org/css-size-adjust-1/]](https://drafts.csswg.org/css-size-adjust-1/)
-- [[No title found for https://drafts.csswg.org/css-values-5/]](https://drafts.csswg.org/css-values-5/)
-- [500 Internal Server Error](https://drafts.csswg.org/css-env-1/)
-- [500 Internal Server Error](https://drafts.csswg.org/css-extensions-1/)
-- [500 Internal Server Error](https://drafts.csswg.org/css-grid-3/)
-- [500 Internal Server Error](https://drafts.csswg.org/scroll-animations-1/)
 - [Accessible `Object.hasOwnProperty`](https://tc39.es/proposal-accessible-object-hasownproperty/)
 - [Array Grouping](https://tc39.es/proposal-array-grouping/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
-- [CSS Working Group Editor Drafts](https://drafts.csswg.org/css-animations-2/)
-- [CSS Working Group Editor Drafts](https://drafts.csswg.org/css-backgrounds-4/)
 - [ECMAScript class static initialization blocks](https://tc39.es/proposal-class-static-block/)
 - [ECMAScript® 2022 Internationalization API Specification](https://tc39.es/ecma402/)
 - [ECMAScript® 2022 Language Specification](https://tc39.es/ecma262/multipage/)
@@ -30,7 +19,9 @@
 - [import assertions](https://tc39.es/proposal-import-assertions/)
 - [Index of css-align-3/](https://drafts.csswg.org/css-align/)
 - [Index of css-animations-1/](https://drafts.csswg.org/css-animations/)
+- [Index of css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - [Index of css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds/)
+- [Index of css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
 - [Index of css-box-3/](https://drafts.csswg.org/css-box-3/)
 - [Index of css-box-4/](https://drafts.csswg.org/css-box-4/)
 - [Index of css-break-3/](https://drafts.csswg.org/css-break/)
@@ -52,13 +43,17 @@
 - [Index of css-device-adapt-1/](https://drafts.csswg.org/css-device-adapt/)
 - [Index of css-display-3/](https://drafts.csswg.org/css-display/)
 - [Index of css-easing-1/](https://drafts.csswg.org/css-easing/)
+- [Index of css-env-1/](https://drafts.csswg.org/css-env-1/)
 - [Index of css-exclusions-1/](https://drafts.csswg.org/css-exclusions/)
+- [Index of css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
 - [Index of css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
 - [Index of css-font-loading-3/](https://drafts.csswg.org/css-font-loading/)
 - [Index of css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
 - [Index of css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
 - [Index of css-gcpm-3/](https://drafts.csswg.org/css-gcpm/)
+- [Index of css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
 - [Index of css-grid-2/](https://drafts.csswg.org/css-grid-2/)
+- [Index of css-grid-3/](https://drafts.csswg.org/css-grid-3/)
 - [Index of css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
 - [Index of css-images-3/](https://drafts.csswg.org/css-images-3/)
 - [Index of css-images-4/](https://drafts.csswg.org/css-images-4/)
@@ -67,6 +62,7 @@
 - [Index of css-lists-3/](https://drafts.csswg.org/css-lists-3/)
 - [Index of css-logical-1/](https://drafts.csswg.org/css-logical-1/)
 - [Index of css-multicol-1/](https://drafts.csswg.org/css-multicol/)
+- [Index of css-multicol-2/](https://drafts.csswg.org/css-multicol-2/)
 - [Index of css-namespaces-3/](https://drafts.csswg.org/css-namespaces/)
 - [Index of css-nav-1/](https://drafts.csswg.org/css-nav-1/)
 - [Index of css-nesting-1/](https://drafts.csswg.org/css-nesting/)
@@ -87,6 +83,8 @@
 - [Index of css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars/)
 - [Index of css-shadow-parts-1/](https://drafts.csswg.org/css-shadow-parts/)
 - [Index of css-shapes-1/](https://drafts.csswg.org/css-shapes/)
+- [Index of css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
+- [Index of css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
 - [Index of css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
 - [Index of css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
 - [Index of css-speech-1/](https://drafts.csswg.org/css-speech-1/)
@@ -103,6 +101,7 @@
 - [Index of css-ui-4/](https://drafts.csswg.org/css-ui-4/)
 - [Index of css-values-3/](https://drafts.csswg.org/css-values-3/)
 - [Index of css-values-4/](https://drafts.csswg.org/css-values-4/)
+- [Index of css-values-5/](https://drafts.csswg.org/css-values-5/)
 - [Index of css-variables-1/](https://drafts.csswg.org/css-variables/)
 - [Index of css-will-change-1/](https://drafts.csswg.org/css-will-change/)
 - [Index of css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
@@ -113,6 +112,7 @@
 - [Index of mediaqueries-4/](https://drafts.csswg.org/mediaqueries-4/)
 - [Index of mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
 - [Index of resize-observer-1/](https://drafts.csswg.org/resize-observer/)
+- [Index of scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - [Index of selectors-4/](https://drafts.csswg.org/selectors/)
 - [Index of selectors-nonelement-1/](https://drafts.csswg.org/selectors-nonelement/)
 - [Index of web-animations-1/](https://drafts.csswg.org/web-animations-1/)
@@ -7610,7 +7610,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
      * [`https://html.spec.whatwg.org/#link-type-stylesheet`](https://html.spec.whatwg.org/#link-type-stylesheet)
      * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
-     * [`https://html.spec.whatwg.org/#relevant-application-cache`](https://html.spec.whatwg.org/#relevant-application-cache)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
@@ -9364,7 +9363,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 6137 problematic external links found in 238 specifications
+=> 6136 problematic external links found in 238 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
