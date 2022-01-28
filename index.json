@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-28T06:47:24.780Z",
+  "date": "2022-01-28T12:46:29.304Z",
   "stats": {
     "crawled": 457,
     "errors": 0,
@@ -45400,7 +45400,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "25 January 2022",
+      "date": "28 January 2022",
       "url": "https://w3c.github.io/mediacapture-region/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-region/",
@@ -45422,9 +45422,7 @@
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
-        "unknownIdlNames": [
-          "MediaStreamTrackOrSubclassThereof"
-        ],
+        "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
@@ -52472,7 +52470,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "24 January 2022",
+      "date": "28 January 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -56380,7 +56378,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "18 January 2022",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -56436,7 +56434,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "18 January 2022",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -56529,7 +56527,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "18 January 2022",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
