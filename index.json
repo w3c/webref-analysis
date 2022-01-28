@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-28T12:46:29.304Z",
+  "date": "2022-01-28T18:44:10.044Z",
   "stats": {
     "crawled": 457,
     "errors": 0,
@@ -21806,7 +21806,7 @@
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API 1",
+              "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
             },
             {
@@ -22727,7 +22727,7 @@
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API 1",
+              "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
             },
             {
@@ -23026,7 +23026,7 @@
     {
       "title": "Element Timing API",
       "shortname": "element-timing",
-      "date": "10 November 2021",
+      "date": "28 January 2022",
       "url": "https://wicg.github.io/element-timing/",
       "nightly": {
         "url": "https://wicg.github.io/element-timing/",
@@ -23050,31 +23050,18 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "PerformanceEntry",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/performance-timeline/",
-                "title": "Performance Timeline Level 2",
-                "crawled": "https://w3c.github.io/performance-timeline/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/performance-timeline/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/hr-time/",
+            "link": "https://w3c.github.io/performance-timeline/",
             "ref": {
-              "name": "HR-TIME-3",
-              "url": "https://www.w3.org/TR/hr-time-3/"
+              "name": "PERFORMANCE-TIMELINE",
+              "url": "https://www.w3.org/TR/performance-timeline/"
             }
           },
           {
@@ -23131,7 +23118,6 @@
             "https://html.spec.whatwg.org/#cereactions",
             "https://html.spec.whatwg.org/#htmlimageelement",
             "https://html.spec.whatwg.org/#htmlvideoelement",
-            "https://html.spec.whatwg.org/#list-of-available-images",
             "https://html.spec.whatwg.org/#img-all",
             "https://html.spec.whatwg.org/#the-div-element",
             "https://html.spec.whatwg.org/#update-the-rendering",
@@ -26114,7 +26100,7 @@
     {
       "title": "High Resolution Time",
       "shortname": "hr-time-3",
-      "date": "17 January 2022",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/hr-time-3/",
       "release": {
         "url": "https://www.w3.org/TR/hr-time-3/",
@@ -26139,7 +26125,9 @@
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
-        "unknownExposedNames": [],
+        "unknownExposedNames": [
+          "*"
+        ],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -26233,7 +26221,7 @@
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API 1",
+              "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
             },
             {
@@ -26359,7 +26347,6 @@
             "https://html.spec.whatwg.org/#run-a-worker",
             "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability",
             "https://html.spec.whatwg.org/#concept-realm-global",
-            "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#windoworworkerglobalscope"
           ],
@@ -34069,7 +34056,7 @@
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API 1",
+              "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
             },
             {
@@ -38901,9 +38888,9 @@
       }
     },
     {
-      "title": "Long Tasks API 1",
+      "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "20 July 2021",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -38931,26 +38918,20 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "PerformanceEntry",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/performance-timeline/",
-                "title": "Performance Timeline Level 2",
-                "crawled": "https://w3c.github.io/performance-timeline/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/performance-timeline/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/performance-timeline/",
+            "ref": {
+              "name": "PERFORMANCE-TIMELINE",
+              "url": "https://www.w3.org/TR/performance-timeline/"
+            }
+          },
           {
             "link": "https://w3c.github.io/hr-time/",
             "ref": {
@@ -43109,6 +43090,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/element-timing/",
+              "title": "Element Timing API",
+              "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
               "url": "https://wicg.github.io/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://wicg.github.io/event-timing/"
@@ -43117,6 +43103,11 @@
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
+            },
+            {
+              "url": "https://www.w3.org/TR/longtasks-1/",
+              "title": "Long Tasks API",
+              "crawled": "https://w3c.github.io/longtasks/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -53059,7 +53050,7 @@
     {
       "title": "User Timing Level 3",
       "shortname": "user-timing",
-      "date": "13 September 2021",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/user-timing/",
       "release": {
         "url": "https://www.w3.org/TR/user-timing/",
@@ -53084,7 +53075,9 @@
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
-        "unknownExposedNames": [],
+        "unknownExposedNames": [
+          "*"
+        ],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
@@ -53114,8 +53107,6 @@
             "https://html.spec.whatwg.org/#structuredserialize",
             "https://html.spec.whatwg.org/#structureddeserialize",
             "https://html.spec.whatwg.org/#concept-current-everything",
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#concept-global-object-realm",
             "https://html.spec.whatwg.org/#global-object",
@@ -55220,6 +55211,11 @@
               "url": "https://wicg.github.io/local-font-access/",
               "title": "Local Font Access API",
               "crawled": "https://wicg.github.io/local-font-access/"
+            },
+            {
+              "url": "https://www.w3.org/TR/longtasks-1/",
+              "title": "Long Tasks API",
+              "crawled": "https://w3c.github.io/longtasks/"
             },
             {
               "url": "https://www.w3.org/TR/magnetometer/",
@@ -62618,7 +62614,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "27 January 2022",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62738,7 +62734,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "27 January 2022",
+      "date": "28 January 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

@@ -168,7 +168,7 @@
   <section id="list-of-exposed-names-not-defined-in-the-specifications-crawled" class="level2">
   <h2>List of [Exposed] names not defined in the specifications crawled</h2>
   <ul>
-  <li><code>*</code> used in <a href="https://wicg.github.io/compression/">Compression Streams</a>, <a href="https://dom.spec.whatwg.org/">DOM Standard</a>, <a href="https://encoding.spec.whatwg.org/">Encoding Standard</a>, <a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a>, <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a>, <a href="https://streams.spec.whatwg.org/">Streams Standard</a>, <a href="https://url.spec.whatwg.org/">URL Standard</a></li>
+  <li><code>*</code> used in <a href="https://wicg.github.io/compression/">Compression Streams</a>, <a href="https://dom.spec.whatwg.org/">DOM Standard</a>, <a href="https://encoding.spec.whatwg.org/">Encoding Standard</a>, <a href="https://w3c.github.io/hr-time/">High Resolution Time</a>, <a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a>, <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a>, <a href="https://streams.spec.whatwg.org/">Streams Standard</a>, <a href="https://url.spec.whatwg.org/">URL Standard</a>, <a href="https://w3c.github.io/user-timing/">User Timing Level 3</a></li>
   <li><code>RTCIdentityProviderGlobalScope</code> used in <a href="https://w3c.github.io/webrtc-identity/">Identity for WebRTC 1.0</a></li>
   </ul>
   <p>=&gt; 2 [Exposed] names found</p>
@@ -215,7 +215,6 @@
   <ul>
   <li><a href="https://wicg.github.io/shape-detection-api/">Accelerated Shape Detection in Images</a> uses <code>Point2D</code> but does not reference <a href="https://w3c.github.io/mediacapture-image/">MediaStream Image Capture</a></li>
   <li><a href="https://wicg.github.io/shape-detection-api/text.html">Accelerated Text Detection in Images</a> uses <code>Point2D</code> but does not reference <a href="https://w3c.github.io/mediacapture-image/">MediaStream Image Capture</a></li>
-  <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a> uses <code>PerformanceEntry</code> but does not reference <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
   <li><a href="https://w3c.github.io/encrypted-media/">Encrypted Media Extensions</a> uses <code>BufferSource</code> but does not reference <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><a href="https://w3c.github.io/FileAPI/">File API</a> uses:
   <ul>
@@ -227,7 +226,6 @@
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a> uses <code>WebGL2RenderingContext</code> but does not reference <a href="https://www.khronos.org/registry/webgl/specs/latest/2.0/">WebGL 2.0 Specification</a></li>
   <li><a href="https://w3c.github.io/IntersectionObserver/">Intersection Observer</a> uses <code>DOMHighResTimeStamp</code> but does not reference <a href="https://w3c.github.io/hr-time/">High Resolution Time</a></li>
   <li><a href="https://wicg.github.io/largest-contentful-paint/">Largest Contentful Paint</a> uses <code>PerformanceEntry</code> but does not reference <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
-  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API 1</a> uses <code>PerformanceEntry</code> but does not reference <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
   <li><a href="https://w3c.github.io/media-source/">Media Source Extensions™</a> uses <code>BufferSource</code> but does not reference <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   <li><a href="https://w3c.github.io/paint-timing/">Paint Timing 1</a> uses <code>PerformanceEntry</code> but does not reference <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a> uses <code>CSSPseudoElement</code> but does not reference <a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
@@ -317,7 +315,7 @@
   <li><code>WebGLTexture</code> but does not reference <a href="https://www.khronos.org/registry/webgl/specs/latest/1.0/">WebGL Specification</a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 61 missing references for IDL definitions found in 32 specifications</p>
+  <p>=&gt; 59 missing references for IDL definitions found in 30 specifications</p>
   </section>
   <section id="no-definition-for-css-properties" class="level2">
   <h2>No definition for CSS properties</h2>
@@ -1738,7 +1736,6 @@
   <li><a href="https://www.w3.org/TR/css-color-4/"><code>https://www.w3.org/TR/css-color-4/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/webappsec-secure-contexts/"><code>https://w3c.github.io/webappsec-secure-contexts/</code></a> but does not list it in its references</li>
   </ul></li>
-  <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a> links to <a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but does not list it in its references</li>
   <li><a href="https://wicg.github.io/event-timing/">Event Timing API</a> links to <a href="https://w3c.github.io/timing-entrytypes-registry/"><code>https://w3c.github.io/timing-entrytypes-registry/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/FileAPI/">File API</a> links to <a href="https://w3c.github.io/media-source/"><code>https://w3c.github.io/media-source/</code></a> but does not list it in its references</li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a> links to:
@@ -1814,7 +1811,6 @@
   <li><a href="https://www.w3.org/TR/pointerevents/"><code>https://www.w3.org/TR/pointerevents/</code></a> but does not list it in its references</li>
   <li><a href="https://infra.spec.whatwg.org/"><code>https://infra.spec.whatwg.org/</code></a> but does not list it in its references</li>
   </ul></li>
-  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API 1</a> links to <a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/magnetometer/">Magnetometer</a> links to <a href="https://w3c.github.io/motion-sensors/"><code>https://w3c.github.io/motion-sensors/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/mathml-aam/">MathML Accessiblity API Mappings 1.0</a> links to <a href="https://w3c.github.io/aria/"><code>https://w3c.github.io/aria/</code></a> but does not list it in its references</li>
   <li><a href="https://drafts.csswg.org/mediaqueries-4/">Media Queries Level 4</a> links to <a href="https://www.w3.org/TR/security-privacy-questionnaire/"><code>https://www.w3.org/TR/security-privacy-questionnaire/</code></a> but does not list it in its references</li>
@@ -2080,7 +2076,7 @@
   <li><a href="https://immersive-web.github.io/lighting-estimation/">WebXR Lighting Estimation API Level 1</a> links to <a href="https://www.w3.org/TR/webxrlayers-1/"><code>https://www.w3.org/TR/webxrlayers-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 729 missing references for links found in 196 specifications</p>
+  <p>=&gt; 727 missing references for links found in 194 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -2298,7 +2294,7 @@
   <li><a href="https://dom.spec.whatwg.org/">DOM Standard</a> links to <a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a> but related reference “UIEVENTS” uses URL <a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a></li>
   <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a> links to:
   <ul>
-  <li><a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a> but related reference “HR-TIME-3” uses URL <a href="https://www.w3.org/TR/hr-time-3/"><code>https://www.w3.org/TR/hr-time-3/</code></a></li>
+  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but related reference “PERFORMANCE-TIMELINE” uses URL <a href="https://www.w3.org/TR/performance-timeline/"><code>https://www.w3.org/TR/performance-timeline/</code></a></li>
   <li><a href="https://w3c.github.io/resource-timing/"><code>https://w3c.github.io/resource-timing/</code></a> but related reference “RESOURCE-TIMING-2” uses URL <a href="https://www.w3.org/TR/resource-timing-2/"><code>https://www.w3.org/TR/resource-timing-2/</code></a></li>
   <li><a href="https://w3c.github.io/IntersectionObserver/"><code>https://w3c.github.io/IntersectionObserver/</code></a> but related reference “INTERSECTION-OBSERVER” uses URL <a href="https://www.w3.org/TR/intersection-observer/"><code>https://www.w3.org/TR/intersection-observer/</code></a></li>
   </ul></li>
@@ -2370,7 +2366,11 @@
   <li><a href="https://w3c.github.io/webappsec-permissions-policy/"><code>https://w3c.github.io/webappsec-permissions-policy/</code></a> but related reference “PERMISSIONS-POLICY” uses URL <a href="https://www.w3.org/TR/permissions-policy-1/"><code>https://www.w3.org/TR/permissions-policy-1/</code></a></li>
   <li><a href="https://w3c.github.io/FileAPI/"><code>https://w3c.github.io/FileAPI/</code></a> but related reference “FileAPI” uses URL <a href="https://www.w3.org/TR/FileAPI/"><code>https://www.w3.org/TR/FileAPI/</code></a></li>
   </ul></li>
-  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API 1</a> links to <a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a> but related reference “HR-TIME-2” uses URL <a href="https://www.w3.org/TR/hr-time-2/"><code>https://www.w3.org/TR/hr-time-2/</code></a></li>
+  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API</a> links to:
+  <ul>
+  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but related reference “PERFORMANCE-TIMELINE” uses URL <a href="https://www.w3.org/TR/performance-timeline/"><code>https://www.w3.org/TR/performance-timeline/</code></a></li>
+  <li><a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a> but related reference “HR-TIME-2” uses URL <a href="https://www.w3.org/TR/hr-time-2/"><code>https://www.w3.org/TR/hr-time-2/</code></a></li>
+  </ul></li>
   <li><a href="https://w3c.github.io/magnetometer/">Magnetometer</a> links to:
   <ul>
   <li><a href="https://w3c.github.io/sensors/"><code>https://w3c.github.io/sensors/</code></a> but related reference “GENERIC-SENSOR” uses URL <a href="https://www.w3.org/TR/generic-sensor/"><code>https://www.w3.org/TR/generic-sensor/</code></a></li>
@@ -2630,7 +2630,7 @@
   <li><a href="https://immersive-web.github.io/dom-overlays/">WebXR DOM Overlays Module</a> links to <a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a> but related reference “UIEVENTS” uses URL <a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a></li>
   <li><a href="https://immersive-web.github.io/webxr-hand-input/">WebXR Hand Input Module - Level 1</a> links to <a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
   </ul>
-  <p>=&gt; 338 inconsistent references for links found in 179 specifications</p>
+  <p>=&gt; 339 inconsistent references for links found in 179 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
@@ -3409,7 +3409,7 @@
   <ul>
   <li><a href="https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch"><code>https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch</code></a></li>
   </ul></li>
-  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API 1</a>:
+  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API</a>:
   <ul>
   <li><a href="https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry"><code>https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry</code></a></li>
   </ul></li>
@@ -4752,7 +4752,7 @@
   <ul>
   <li><a href="https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp"><code>https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp</code></a></li>
   </ul></li>
-  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API 1</a>:
+  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API</a>:
   <ul>
   <li><a href="https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp"><code>https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp</code></a></li>
   </ul></li>
@@ -6651,7 +6651,6 @@
   <li><a href="https://html.spec.whatwg.org/#cereactions"><code>https://html.spec.whatwg.org/#cereactions</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#htmlimageelement"><code>https://html.spec.whatwg.org/#htmlimageelement</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#htmlvideoelement"><code>https://html.spec.whatwg.org/#htmlvideoelement</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#list-of-available-images"><code>https://html.spec.whatwg.org/#list-of-available-images</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#img-all"><code>https://html.spec.whatwg.org/#img-all</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-div-element"><code>https://html.spec.whatwg.org/#the-div-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#update-the-rendering"><code>https://html.spec.whatwg.org/#update-the-rendering</code></a></li>
@@ -7023,7 +7022,6 @@
   <li><a href="https://html.spec.whatwg.org/#run-a-worker"><code>https://html.spec.whatwg.org/#run-a-worker</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability"><code>https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-realm-global"><code>https://html.spec.whatwg.org/#concept-realm-global</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#workerglobalscope"><code>https://html.spec.whatwg.org/#workerglobalscope</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#windoworworkerglobalscope"><code>https://html.spec.whatwg.org/#windoworworkerglobalscope</code></a></li>
   </ul></li>
@@ -7807,7 +7805,7 @@
   <li><a href="https://html.spec.whatwg.org/#allowed-to-use"><code>https://html.spec.whatwg.org/#allowed-to-use</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#in-parallel"><code>https://html.spec.whatwg.org/#in-parallel</code></a></li>
   </ul></li>
-  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API 1</a>:
+  <li><a href="https://w3c.github.io/longtasks/">Long Tasks API</a>:
   <ul>
   <li><a href="https://html.spec.whatwg.org/#concept-task"><code>https://html.spec.whatwg.org/#concept-task</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#perform-a-microtask-checkpoint"><code>https://html.spec.whatwg.org/#perform-a-microtask-checkpoint</code></a></li>
@@ -9797,8 +9795,6 @@
   <li><a href="https://html.spec.whatwg.org/#structuredserialize"><code>https://html.spec.whatwg.org/#structuredserialize</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#structureddeserialize"><code>https://html.spec.whatwg.org/#structureddeserialize</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-current-everything"><code>https://html.spec.whatwg.org/#concept-current-everything</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#workerglobalscope"><code>https://html.spec.whatwg.org/#workerglobalscope</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#current-global-object"><code>https://html.spec.whatwg.org/#current-global-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-global-object-realm"><code>https://html.spec.whatwg.org/#concept-global-object-realm</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#global-object"><code>https://html.spec.whatwg.org/#global-object</code></a></li>
@@ -10757,7 +10753,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 4786 problematic external links found in 300 specifications</p>
+  <p>=&gt; 4782 problematic external links found in 300 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>
