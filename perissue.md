@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 28, 2022
+% January 29, 2022
 
 457 specifications were crawled in this report.
 
@@ -400,6 +400,8 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `"round"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
     * `"bevel"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
     * `"miter"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
+    * `letterSpacing` with type `attribute` for [`CanvasTextDrawingStyles`](https://html.spec.whatwg.org/multipage/canvas.html#canvastextdrawingstyles), but found [`letterSpacing`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-letterspacing) with type `dfn`
+    * `wordSpacing` with type `attribute` for [`CanvasTextDrawingStyles`](https://html.spec.whatwg.org/multipage/canvas.html#canvastextdrawingstyles), but found [`wordSpacing`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-wordspacing) with type `dfn`
     * `constructor(sw, sh, settings)` with type `constructor` for [`ImageData`](https://html.spec.whatwg.org/multipage/canvas.html#imagedata), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
     * `constructor(data, sw, sh, settings)` with type `constructor` for [`ImageData`](https://html.spec.whatwg.org/multipage/canvas.html#imagedata), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
     * `constructor(path)` with type `constructor` for [`Path2D`](https://html.spec.whatwg.org/multipage/canvas.html#path2d), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
@@ -777,7 +779,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawCount)` with type `method`
     * `multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawCount)` with type `method`
 
-=> 363 properties without definition found in 44 specifications
+=> 365 properties without definition found in 44 specifications
 
 
 ## Possibly no definition for CSS properties
