@@ -5647,23 +5647,19 @@ Links in the body of a specification should be to the same document as that poin
 - [Geolocation API](https://w3c.github.io/geolocation-api/):
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
-     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
-     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
-     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
-     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
-     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
-     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
-     * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
-     * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
-     * [`https://html.spec.whatwg.org/#page-visibility-change-steps`](https://html.spec.whatwg.org/#page-visibility-change-steps)
-     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#environment-settings-object's-realm`](https://html.spec.whatwg.org/#environment-settings-object's-realm)
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
+     * [`https://html.spec.whatwg.org/#page-visibility-change-steps`](https://html.spec.whatwg.org/#page-visibility-change-steps)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/):
      * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
@@ -9109,7 +9105,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4782 problematic external links found in 300 specifications
+=> 4778 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

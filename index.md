@@ -10811,7 +10811,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Crawled URL: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
-- Crawled version: 27 January 2022
+- Crawled version: 29 January 2022
 - Editor's Draft: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
 - Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Shortname: geolocation
@@ -10821,23 +10821,19 @@ Informative references to this spec from:
 - Broken external links:
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
-     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
-     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
-     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
-     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
-     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
-     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
-     * [`https://html.spec.whatwg.org/#non-secure-context`](https://html.spec.whatwg.org/#non-secure-context)
-     * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
-     * [`https://html.spec.whatwg.org/#page-visibility-change-steps`](https://html.spec.whatwg.org/#page-visibility-change-steps)
-     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#environment-settings-object's-realm`](https://html.spec.whatwg.org/#environment-settings-object's-realm)
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
+     * [`https://html.spec.whatwg.org/#page-visibility-change-steps`](https://html.spec.whatwg.org/#page-visibility-change-steps)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
 
 #### Known dependencies on this specification {.dependencies}
