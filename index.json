@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-30T06:45:23.486Z",
+  "date": "2022-01-30T12:45:39.218Z",
   "stats": {
     "crawled": 457,
     "errors": 0,
@@ -63331,7 +63331,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "27 January 2022",
+      "date": "30 January 2022",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
