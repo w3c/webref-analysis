@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-31T00:50:22.938Z",
+  "date": "2022-01-31T06:45:22.802Z",
   "stats": {
     "crawled": 457,
     "errors": 0,
@@ -15174,7 +15174,7 @@
     {
       "title": "CSS Pseudo-Elements Module Level 4",
       "shortname": "css-pseudo-4",
-      "date": "22 September 2021",
+      "date": "30 January 2022",
       "url": "https://www.w3.org/TR/css-pseudo-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-pseudo-4/",
