@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-01-31T06:45:22.802Z",
+  "date": "2022-01-31T12:46:13.808Z",
   "stats": {
     "crawled": 457,
     "errors": 0,
@@ -1976,7 +1976,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "26 January 2022",
+      "date": "31 January 2022",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -2641,7 +2641,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "21 January 2022",
+      "date": "31 January 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -23105,9 +23105,7 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [
-            "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry"
-          ],
+          "notExported": [],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-img-element",
@@ -23597,7 +23595,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry",
             "https://wicg.github.io/element-timing/#get-an-element",
             "https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry"
           ],
@@ -38655,7 +38652,6 @@
         "xrefs": {
           "notExported": [
             "https://wicg.github.io/element-timing/#get-an-element",
-            "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry",
             "https://wicg.github.io/event-timing#has-dispatched-input-event",
             "https://drafts.csswg.org/cssom-view/#viewport"
           ],
@@ -38763,7 +38759,6 @@
           "notExported": [
             "https://www.w3.org/TR/cssom-view-1/#viewport",
             "https://www.w3.org/TR/uievents/#keydown",
-            "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry",
             "https://wicg.github.io/element-timing/#get-an-element",
             "https://www.w3.org/TR/geometry-1/#rectangle"
           ],
@@ -39054,9 +39049,7 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [
-            "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry"
-          ],
+          "notExported": [],
           "notDfn": [
             "https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp"
           ],
@@ -39623,7 +39616,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "24 January 2022",
+      "date": "31 January 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -41745,8 +41738,7 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
-            "https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry"
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -42702,8 +42694,7 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/cssom-view/#scrolling-area",
-            "https://w3c.github.io/performance-timeline/#dfn-queue-a-performanceentry"
+            "https://www.w3.org/TR/cssom-view/#scrolling-area"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -43146,7 +43137,7 @@
     {
       "title": "Performance Timeline Level 2",
       "shortname": "performance-timeline",
-      "date": "27 January 2022",
+      "date": "31 January 2022",
       "url": "https://www.w3.org/TR/performance-timeline/",
       "release": {
         "url": "https://www.w3.org/TR/performance-timeline/",
@@ -46292,8 +46283,7 @@
           "notExported": [
             "https://fetch.spec.whatwg.org/#record-connection-timing-info",
             "https://fetch.spec.whatwg.org/#concept-tao-check",
-            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
-            "https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry"
+            "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -51139,7 +51129,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "26 January 2022",
+      "date": "31 January 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53191,7 +53181,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/performance-timeline/#dfn-queue-a-performanceentry",
             "https://www.w3.org/TR/performance-timeline/#dfn-performance-entry-buffer",
             "https://www.w3.org/TR/performance-timeline/#dfn-performance-timeline"
           ],
@@ -63047,7 +63036,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "24 January 2022",
+      "date": "31 January 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
