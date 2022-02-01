@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-01T08:14:42.625Z",
+  "date": "2022-02-01T12:45:55.084Z",
   "stats": {
     "crawled": 457,
     "errors": 0,
@@ -1727,7 +1727,7 @@
     {
       "title": "Battery Status API",
       "shortname": "battery-status",
-      "date": "08 November 2021",
+      "date": "01 February 2022",
       "url": "https://www.w3.org/TR/battery-status/",
       "release": {
         "url": "https://www.w3.org/TR/battery-status/",
@@ -1789,7 +1789,6 @@
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#concept-task",
             "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#secure-context",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-document-window",
@@ -39344,7 +39343,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "28 January 2022",
+      "date": "01 February 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
