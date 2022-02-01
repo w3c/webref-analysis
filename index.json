@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-01T00:51:48.172Z",
+  "date": "2022-02-01T06:46:08.256Z",
   "stats": {
     "crawled": 457,
     "errors": 0,
@@ -53200,7 +53200,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "19 January 2022",
+      "date": "1 February 2022",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
