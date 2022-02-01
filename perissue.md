@@ -2,7 +2,7 @@
 % Strudy
 % February 01, 2022
 
-457 specifications were crawled in this report.
+459 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -17,6 +17,7 @@
 - [Error Cause](https://tc39.es/proposal-error-cause/)
 - [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)
 - [import assertions](https://tc39.es/proposal-import-assertions/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Intl Enumeration API Specification](https://tc39.es/proposal-intl-enumeration/)
 - [Intl Locale Info Proposal](https://tc39.es/proposal-intl-locale-info/)
 - [Intl.DurationFormat](https://tc39.es/proposal-intl-duration-format/)
@@ -86,7 +87,7 @@
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 78 specifications found
+=> 79 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -1458,6 +1459,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Image Resource](https://w3c.github.io/image-resource/) links to [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
 - [import assertions](https://tc39.es/proposal-import-assertions/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html) links to [`https://w3c.github.io/IFT/`](https://w3c.github.io/IFT/) but does not list it in its references
+- [Incremental Font Transfer via Range Request](https://w3c.github.io/IFT/RangeRequest.html) links to [`https://w3c.github.io/IFT/`](https://w3c.github.io/IFT/) but does not list it in its references
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to:
     * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/) but does not list it in its references
     * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/) but does not list it in its references
@@ -1676,7 +1678,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 728 missing references for links found in 194 specifications
+=> 729 missing references for links found in 195 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1883,6 +1885,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - [Input Events Level 2](https://w3c.github.io/input-events/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/) links to [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/) but related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
 - [Intervention Reporting](https://wicg.github.io/intervention-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/) links to [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
@@ -2094,7 +2097,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 339 inconsistent references for links found in 179 specifications
+=> 340 inconsistent references for links found in 180 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -6630,7 +6633,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind)
      * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
      * [`https://html.spec.whatwg.org/#canvas-pixel-arraybuffer`](https://html.spec.whatwg.org/#canvas-pixel-arraybuffer)
-     * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
+     * [`https://webidl.spec.whatwg.org/#dfn-present`](https://webidl.spec.whatwg.org/#dfn-present)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/):
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
@@ -9334,6 +9337,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/):
      * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/)
      * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/):
+     * [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/):
      * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/)
      * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/)
@@ -9465,7 +9470,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 190 problematic external links found in 62 specifications
+=> 191 problematic external links found in 63 specifications
 
 
 

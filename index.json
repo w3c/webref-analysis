@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-01T12:45:55.084Z",
+  "date": "2022-02-01T14:02:48.820Z",
   "stats": {
-    "crawled": 457,
+    "crawled": 459,
     "errors": 0,
-    "studied": 457
+    "studied": 459
   },
   "results": [
     {
@@ -10835,6 +10835,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/RangeRequest/",
+              "title": "Incremental Font Transfer via Range Request",
+              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             }
           ],
           "informative": [
@@ -22559,7 +22564,13 @@
               "crawled": "https://w3c.github.io/manifest/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/i18n-glossary/",
+              "title": "Internationalization Glossary",
+              "crawled": "https://w3c.github.io/i18n-glossary/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -34921,6 +34932,11 @@
               "crawled": "https://infra.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/i18n-glossary/",
+              "title": "Internationalization Glossary",
+              "crawled": "https://w3c.github.io/i18n-glossary/"
+            },
+            {
               "url": "https://mimesniff.spec.whatwg.org/",
               "title": "MIME Sniffing Standard",
               "crawled": "https://mimesniff.spec.whatwg.org/"
@@ -35978,6 +35994,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/RangeRequest/",
+              "title": "Incremental Font Transfer via Range Request",
+              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
+            },
+            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
@@ -36081,6 +36102,11 @@
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/RangeRequest/",
+              "title": "Incremental Font Transfer via Range Request",
+              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             }
           ],
           "informative": [
@@ -36151,6 +36177,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/RangeRequest/",
+              "title": "Incremental Font Transfer via Range Request",
+              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -36869,6 +36900,52 @@
         "filename": "Overview.html"
       },
       "crawled": "https://w3c.github.io/IFT/Overview.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Fonts Working Group",
+          "url": "https://www.w3.org/Fonts/WG/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/IFT/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Incremental Font Transfer via Range Request",
+      "shortname": "RangeRequest",
+      "date": "18 January 2022",
+      "url": "https://www.w3.org/TR/RangeRequest/",
+      "release": {
+        "url": "https://www.w3.org/TR/RangeRequest/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/IFT/RangeRequest.html",
+        "sourcePath": "RangeRequest.html",
+        "repository": "https://github.com/w3c/IFT",
+        "filename": "RangeRequest.html"
+      },
+      "crawled": "https://w3c.github.io/IFT/RangeRequest.html",
       "organization": "W3C",
       "groups": [
         {
@@ -37807,6 +37884,11 @@
               "crawled": "https://drafts.csswg.org/css-text-3/"
             },
             {
+              "url": "https://www.w3.org/TR/i18n-glossary/",
+              "title": "Internationalization Glossary",
+              "crawled": "https://w3c.github.io/i18n-glossary/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
               "title": "Media Queries Level 4",
               "crawled": "https://drafts.csswg.org/mediaqueries-4/"
@@ -38016,6 +38098,68 @@
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Internationalization Glossary",
+      "shortname": "i18n-glossary",
+      "date": "28 January 2022",
+      "url": "https://www.w3.org/TR/i18n-glossary/",
+      "release": {
+        "url": "https://www.w3.org/TR/i18n-glossary/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/i18n-glossary/",
+        "repository": "https://github.com/w3c/i18n-glossary",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/i18n-glossary/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Internationalization Working Group",
+          "url": "https://www.w3.org/International/core/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2005/REC-charmod-20050215/",
+            "ref": {
+              "name": "CHARMOD",
+              "url": "https://www.w3.org/TR/charmod/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": [
+            "https://www.w3.org/TR/2005/REC-charmod-20050215/"
+          ]
         },
         "ok": false
       }
@@ -39929,7 +40073,7 @@
     {
       "title": "Media Capture Depth Stream Extensions",
       "shortname": "mediacapture-depth",
-      "date": "25 August 2020",
+      "date": "01 February 2022",
       "url": "https://www.w3.org/TR/mediacapture-depth/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-depth/",
@@ -40006,7 +40150,7 @@
             "https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind",
             "https://html.spec.whatwg.org/#the-video-element",
             "https://html.spec.whatwg.org/#canvas-pixel-arraybuffer",
-            "https://heycam.github.io/webidl/#dfn-present"
+            "https://webidl.spec.whatwg.org/#dfn-present"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -55325,6 +55469,11 @@
               "crawled": "https://w3c.github.io/mediacapture-automation/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-depth/",
+              "title": "Media Capture Depth Stream Extensions",
+              "crawled": "https://w3c.github.io/mediacapture-depth/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-fromelement/",
               "title": "Media Capture from DOM Elements",
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
@@ -64800,7 +64949,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/RangeRequest/",
+              "title": "Incremental Font Transfer via Range Request",
+              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/IFT/",

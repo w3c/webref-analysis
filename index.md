@@ -112,7 +112,9 @@ Normative references to this spec from:
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 
 
 ### ECMAScript® 2022 Language Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -882,6 +884,7 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Incremental Font Transfer via Range Request](https://w3c.github.io/IFT/RangeRequest.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -916,6 +919,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [Incremental Font Transfer via Range Request](https://w3c.github.io/IFT/RangeRequest.html)
 
 Informative references to this spec from:
 
@@ -943,6 +947,7 @@ Normative references to this spec from:
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Incremental Font Transfer via Range Request](https://w3c.github.io/IFT/RangeRequest.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
@@ -6425,6 +6430,7 @@ Normative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Incremental Font Transfer via Range Request](https://w3c.github.io/IFT/RangeRequest.html)
 
 Informative references to this spec from:
 
@@ -10985,7 +10991,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
 - Crawled URL: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
-- Crawled version: 25 August 2020
+- Crawled version: 01 February 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
 - Shortname: mediacapture-depth
@@ -11011,7 +11017,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind)
      * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
      * [`https://html.spec.whatwg.org/#canvas-pixel-arraybuffer`](https://html.spec.whatwg.org/#canvas-pixel-arraybuffer)
-     * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
+     * [`https://webidl.spec.whatwg.org/#dfn-present`](https://webidl.spec.whatwg.org/#dfn-present)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11860,6 +11866,32 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Streams Standard](https://streams.spec.whatwg.org/)
+
+
+### Internationalization Glossary {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
+- Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
+- Crawled version: 28 January 2022
+- Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
+- Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
+- Shortname: i18n-glossary
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/), related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ## Math Working Group {#math_working_group}
@@ -16320,6 +16352,29 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Incremental Font Transfer via Range Request {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/RangeRequest/](https://www.w3.org/TR/RangeRequest/)
+- Crawled URL: [https://w3c.github.io/IFT/RangeRequest.html](https://w3c.github.io/IFT/RangeRequest.html)
+- Crawled version: 18 January 2022
+- Editor's Draft: [https://w3c.github.io/IFT/RangeRequest.html](https://w3c.github.io/IFT/RangeRequest.html)
+- Latest published version: [https://www.w3.org/TR/RangeRequest/](https://www.w3.org/TR/RangeRequest/)
+- Shortname: RangeRequest
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/IFT/`](https://w3c.github.io/IFT/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### WOFF File Format 2.0 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -16338,7 +16393,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Incremental Font Transfer via Range Request](https://w3c.github.io/IFT/RangeRequest.html)
 
 Informative references to this spec from:
 
@@ -20871,7 +20928,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
 - Crawled URL: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
-- Crawled version: 25 August 2020
+- Crawled version: 01 February 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
 - Shortname: mediacapture-depth
@@ -20897,7 +20954,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind)
      * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
      * [`https://html.spec.whatwg.org/#canvas-pixel-arraybuffer`](https://html.spec.whatwg.org/#canvas-pixel-arraybuffer)
-     * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
+     * [`https://webidl.spec.whatwg.org/#dfn-present`](https://webidl.spec.whatwg.org/#dfn-present)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -22903,6 +22960,7 @@ Informative references to this spec from:
 - [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
@@ -23091,6 +23149,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 
@@ -23631,6 +23690,7 @@ Normative references to this spec from:
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
