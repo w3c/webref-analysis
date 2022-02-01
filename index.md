@@ -12379,7 +12379,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 19 January 2022
+- Crawled version: 01 February 2022
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -17727,7 +17727,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 28 January 2022
+- Crawled version: 1 February 2022
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -21546,7 +21546,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 19 December 2021
+- Crawled version: 1 February 2022
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 
@@ -21977,6 +21977,7 @@ Normative references to this spec from:
 - [Beacon](https://w3c.github.io/beacon/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
@@ -23003,6 +23004,7 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compute Pressure API](https://wicg.github.io/compute-pressure/)
 - [Console Standard](https://console.spec.whatwg.org/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-01T14:02:48.820Z",
+  "date": "2022-02-01T18:41:09.551Z",
   "stats": {
     "crawled": 459,
     "errors": 0,
@@ -1301,7 +1301,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "28 January 2022",
+      "date": "1 February 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -2260,7 +2260,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "19 December 2021",
+      "date": "1 February 2022",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -23954,6 +23954,11 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
               "url": "https://wicg.github.io/content-index/spec/",
               "title": "Content Index",
               "crawled": "https://wicg.github.io/content-index/spec/"
@@ -37167,6 +37172,11 @@
               "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure API",
               "crawled": "https://wicg.github.io/compute-pressure/"
@@ -44059,7 +44069,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "19 January 2022",
+      "date": "01 February 2022",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
