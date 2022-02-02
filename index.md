@@ -123,7 +123,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 20 January 2022
+- Crawled version: 2 February 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -1360,7 +1360,6 @@ Although they do not, the following specs should also normatively reference this
 
 Informative references to this spec from:
 
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
@@ -2154,7 +2153,6 @@ Although they do not, the following specs should also normatively reference this
 
 Informative references to this spec from:
 
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
@@ -9138,7 +9136,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
@@ -9149,7 +9146,6 @@ Normative references to this spec from:
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
-- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
 Informative references to this spec from:
@@ -9796,7 +9792,7 @@ Normative references to this spec from:
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
@@ -9977,7 +9973,7 @@ Normative references to this spec from:
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer/)
@@ -10918,7 +10914,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### HTML Media Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### HTML Media Capture {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10931,11 +10927,39 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- External links that neither target definitions nor headings:
-     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
-     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
+The following network or parsing error occurred:
+`Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:552:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:85:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:395:22)
+    at async Promise.all (index 346)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:403:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10983,49 +11007,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Permissions](https://w3c.github.io/permissions/)
-
-
-### Media Capture Depth Stream Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
-- Crawled URL: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
-- Crawled version: 01 February 2022
-- Editor's Draft: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
-- Latest published version: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
-- Shortname: mediacapture-depth
-
-#### Potential issue(s) {.anomalies}
-
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-constraints`](https://www.w3.org/TR/mediacapture-streams/#dfn-constraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-capabilities`](https://www.w3.org/TR/mediacapture-streams/#dfn-capabilities)
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-settings`](https://www.w3.org/TR/mediacapture-streams/#dfn-settings)
-- Broken external links:
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStream`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStream)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStreamTrack`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStreamTrack)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstraintSet`](https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstraintSet)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstrainDOMString`](https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstrainDOMString)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSettings`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSettings)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraints`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSupportedConstraints`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSupportedConstraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackCapabilities`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackCapabilities)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraintSet`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraintSet)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind)
-     * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
-     * [`https://html.spec.whatwg.org/#canvas-pixel-arraybuffer`](https://html.spec.whatwg.org/#canvas-pixel-arraybuffer)
-     * [`https://webidl.spec.whatwg.org/#dfn-present`](https://webidl.spec.whatwg.org/#dfn-present)
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 
 
 ### Orientation Sensor {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -11189,7 +11170,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 31 January 2022
+- Crawled version: 2 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11263,7 +11244,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 31 January 2022
+- Crawled version: 2 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11966,7 +11947,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
 - Crawled URL: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
-- Crawled version: 24 January 2022
+- Crawled version: 2 February 2022
 - Editor's Draft: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
 - Shortname: autoplay
 
@@ -11983,12 +11964,12 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#dom-document-2`](https://html.spec.whatwg.org/#dom-document-2)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
+     * [`https://html.spec.whatwg.org/#htmlaudioelement`](https://html.spec.whatwg.org/#htmlaudioelement)
      * [`https://html.spec.whatwg.org/#dom-media-volume`](https://html.spec.whatwg.org/#dom-media-volume)
      * [`https://html.spec.whatwg.org/#dom-media-muted`](https://html.spec.whatwg.org/#dom-media-muted)
      * [`https://html.spec.whatwg.org/#media-resource`](https://html.spec.whatwg.org/#media-resource)
      * [`https://html.spec.whatwg.org/#user-activation-data-model`](https://html.spec.whatwg.org/#user-activation-data-model)
-     * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
-     * [`https://html.spec.whatwg.org/#htmlaudioelement`](https://html.spec.whatwg.org/#htmlaudioelement)
      * [`https://html.spec.whatwg.org/#dom-media-play`](https://html.spec.whatwg.org/#dom-media-play)
      * [`https://html.spec.whatwg.org/#sticky-activation`](https://html.spec.whatwg.org/#sticky-activation)
 
@@ -12406,7 +12387,7 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [UI Events](https://w3c.github.io/uievents/)
@@ -15858,7 +15839,7 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -16319,7 +16300,7 @@ Normative references to this spec from:
 
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
@@ -16879,7 +16860,7 @@ Normative references to this spec from:
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -16889,7 +16870,7 @@ Normative references to this spec from:
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
@@ -16989,7 +16970,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Crawled URL: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
-- Crawled version: 17 January 2022
+- Crawled version: 02 February 2022
 - Editor's Draft: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
 - Latest published version: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Shortname: navigation-timing-2
@@ -17140,7 +17121,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
@@ -17181,7 +17162,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
@@ -17191,7 +17172,7 @@ Normative references to this spec from:
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
 
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 
 Informative references to this spec from:
@@ -17485,6 +17466,10 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/performance-timeline/#dfn-options-list`](https://www.w3.org/TR/performance-timeline/#dfn-options-list)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-observer`](https://www.w3.org/TR/performance-timeline/#dfn-observer)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer)
+- Broken external links:
+     * [`https://w3c.github.io/event-timing/#performanceeventtiming`](https://w3c.github.io/event-timing/#performanceeventtiming)
+     * [`https://w3c.github.io/event-timing/#should-add-performanceeventtiming`](https://w3c.github.io/event-timing/#should-add-performanceeventtiming)
+     * [`https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint`](https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17727,7 +17712,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 1 February 2022
+- Crawled version: 2 February 2022
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -18414,13 +18399,14 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://w3c.github.io/resource-timing/#dfn-timing-allow-check`](https://w3c.github.io/resource-timing/#dfn-timing-allow-check)
+     * [`https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry`](https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
-- [Event Timing API](https://wicg.github.io/event-timing/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
@@ -18432,7 +18418,7 @@ No informative reference to this spec from other specs.
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/event-timing/](https://wicg.github.io/event-timing/)
-- Crawled URL: [https://wicg.github.io/event-timing/](https://wicg.github.io/event-timing/)
+- Crawled URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
 - Crawled version: 15 December 2021
 - Editor's Draft: [https://wicg.github.io/event-timing/](https://wicg.github.io/event-timing/)
 - Shortname: event-timing
@@ -18476,8 +18462,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
-- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 
 No informative reference to this spec from other specs.
 
@@ -19042,7 +19027,7 @@ No informative reference to this spec from other specs.
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/largest-contentful-paint/](https://wicg.github.io/largest-contentful-paint/)
-- Crawled URL: [https://wicg.github.io/largest-contentful-paint/](https://wicg.github.io/largest-contentful-paint/)
+- Crawled URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
 - Crawled version: 19 October 2021
 - Editor's Draft: [https://wicg.github.io/largest-contentful-paint/](https://wicg.github.io/largest-contentful-paint/)
 - Shortname: largest-contentful-paint
@@ -19057,7 +19042,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
 - External links to private terms:
      * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
-     * [`https://wicg.github.io/event-timing#has-dispatched-input-event`](https://wicg.github.io/event-timing#has-dispatched-input-event)
      * [`https://drafts.csswg.org/cssom-view/#viewport`](https://drafts.csswg.org/cssom-view/#viewport)
 - Broken external links:
      * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
@@ -19072,13 +19056,13 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-img-width`](https://html.spec.whatwg.org/#dom-img-width)
      * [`https://html.spec.whatwg.org/#dom-img-height`](https://html.spec.whatwg.org/#dom-img-height)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
+     * [`https://wicg.github.io/event-timing#has-dispatched-input-event`](https://wicg.github.io/event-timing#has-dispatched-input-event)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
 
@@ -20505,7 +20489,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Crawled URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
-- Crawled version: 09 December 2021
+- Crawled version: 02 February 2022
 - Editor's Draft: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Shortname: window-controls-overlay
 
@@ -20851,7 +20835,6 @@ Normative references to this spec from:
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
@@ -20920,49 +20903,6 @@ Informative references to this spec from:
 No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
-
-
-### Media Capture Depth Stream Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
-- Crawled URL: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
-- Crawled version: 01 February 2022
-- Editor's Draft: [https://w3c.github.io/mediacapture-depth/](https://w3c.github.io/mediacapture-depth/)
-- Latest published version: [https://www.w3.org/TR/mediacapture-depth/](https://www.w3.org/TR/mediacapture-depth/)
-- Shortname: mediacapture-depth
-
-#### Potential issue(s) {.anomalies}
-
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-constraints`](https://www.w3.org/TR/mediacapture-streams/#dfn-constraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-capabilities`](https://www.w3.org/TR/mediacapture-streams/#dfn-capabilities)
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-settings`](https://www.w3.org/TR/mediacapture-streams/#dfn-settings)
-- Broken external links:
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStream`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStream)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStreamTrack`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStreamTrack)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstraintSet`](https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstraintSet)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstrainDOMString`](https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstrainDOMString)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSettings`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSettings)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraints`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSupportedConstraints`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSupportedConstraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackCapabilities`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackCapabilities)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraintSet`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraintSet)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind)
-     * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
-     * [`https://html.spec.whatwg.org/#canvas-pixel-arraybuffer`](https://html.spec.whatwg.org/#canvas-pixel-arraybuffer)
-     * [`https://webidl.spec.whatwg.org/#dfn-present`](https://webidl.spec.whatwg.org/#dfn-present)
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 
 
 ### Media Capture from DOM Elements {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -21752,7 +21692,7 @@ Normative references to this spec from:
 - [EditContext API](https://w3c.github.io/edit-context/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Learning of Cohorts](https://wicg.github.io/floc/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
@@ -21776,7 +21716,7 @@ Normative references to this spec from:
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
@@ -21985,6 +21925,7 @@ Normative references to this spec from:
 - [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Cross-Origin-Embedder-Policy: credentialless](https://wicg.github.io/credentiallessness/)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
@@ -22005,7 +21946,7 @@ Normative references to this spec from:
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Import Maps](https://wicg.github.io/import-maps/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Media Session Standard](https://w3c.github.io/mediasession/)
@@ -22036,6 +21977,7 @@ Normative references to this spec from:
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
@@ -22763,7 +22705,7 @@ Normative references to this spec from:
 - [EditContext API](https://w3c.github.io/edit-context/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Learning of Cohorts](https://wicg.github.io/floc/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
@@ -22799,7 +22741,7 @@ Normative references to this spec from:
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
@@ -22811,7 +22753,6 @@ Normative references to this spec from:
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
@@ -23044,7 +22985,7 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [Federated Learning of Cohorts](https://wicg.github.io/floc/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
@@ -23069,7 +23010,7 @@ Normative references to this spec from:
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
@@ -23657,7 +23598,7 @@ Normative references to this spec from:
 - [EditContext API](https://w3c.github.io/edit-context/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
-- [Event Timing API](https://wicg.github.io/event-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Learning of Cohorts](https://wicg.github.io/floc/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
@@ -23682,7 +23623,7 @@ Normative references to this spec from:
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
@@ -23693,7 +23634,6 @@ Normative references to this spec from:
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)

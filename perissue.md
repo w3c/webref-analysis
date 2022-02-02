@@ -2,7 +2,45 @@
 % Strudy
 % February 02, 2022
 
-459 specifications were crawled in this report.
+458 specifications were crawled in this report.
+
+
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/): `Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:552:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:85:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:395:22)
+    at async Promise.all (index 346)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:403:21)`
+
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -217,7 +255,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) uses `Gamepad` but does not reference [Gamepad](https://w3c.github.io/gamepad/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) uses `WebGL2RenderingContext` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) uses `DOMHighResTimeStamp` but does not reference [High Resolution Time](https://w3c.github.io/hr-time/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) uses `CSSPseudoElement` but does not reference [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
@@ -1417,7 +1455,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but does not list it in its references
     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
-- [Event Timing API](https://wicg.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Event Timing API](https://w3c.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [File API](https://w3c.github.io/FileAPI/) links to [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/) but does not list it in its references
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1467,7 +1505,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/) but does not list it in its references
     * [`https://www.w3.org/TR/css-masking-1/`](https://www.w3.org/TR/css-masking-1/) but does not list it in its references
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/) links to [`https://w3c.github.io/webappsec-permissions-policy/document-policy.html`](https://w3c.github.io/webappsec-permissions-policy/document-policy.html) but does not list it in its references
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/) links to [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but does not list it in its references
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/) links to [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but does not list it in its references
 - [Layout Instability API](https://wicg.github.io/layout-instability/) links to:
     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but does not list it in its references
@@ -1856,7 +1894,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
     * [`https://www.w3.org/TR/encoding/`](https://www.w3.org/TR/encoding/) but related reference "ENCODING" uses URL [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
-- [Event Timing API](https://wicg.github.io/event-timing/) links to:
+- [Event Timing API](https://w3c.github.io/event-timing/) links to:
     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
@@ -1888,7 +1926,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/) links to [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/) but related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
 - [Intervention Reporting](https://wicg.github.io/intervention-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/) links to [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/) links to:
     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
@@ -1913,7 +1951,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/accelerometer/`](https://w3c.github.io/accelerometer/) but related reference "ACCELEROMETER" uses URL [`https://www.w3.org/TR/accelerometer/`](https://www.w3.org/TR/accelerometer/)
 - [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/) links to [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/) links to:
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
@@ -2097,7 +2134,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 340 inconsistent references for links found in 180 specifications
+=> 339 inconsistent references for links found in 179 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2460,7 +2497,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://dom.spec.whatwg.org/#event-listener-capture`](https://dom.spec.whatwg.org/#event-listener-capture)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/):
      * [`https://compat.spec.whatwg.org/#event-orientationchange`](https://compat.spec.whatwg.org/#event-orientationchange)
-- [Event Timing API](https://wicg.github.io/event-timing/):
+- [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
      * [`https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry`](https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry)
 - [Fetch Standard](https://fetch.spec.whatwg.org/):
@@ -2615,9 +2652,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/uievents/#dead-key`](https://www.w3.org/TR/uievents/#dead-key)
      * [`https://www.w3.org/TR/uievents-key/#key-attribute-value`](https://www.w3.org/TR/uievents-key/#key-attribute-value)
      * [`https://www.w3.org/TR/uievents-code/#writing-system-keys`](https://www.w3.org/TR/uievents-code/#writing-system-keys)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/):
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/):
      * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
-     * [`https://wicg.github.io/event-timing#has-dispatched-input-event`](https://wicg.github.io/event-timing#has-dispatched-input-event)
      * [`https://drafts.csswg.org/cssom-view/#viewport`](https://drafts.csswg.org/cssom-view/#viewport)
 - [Layout Instability API](https://wicg.github.io/layout-instability/):
      * [`https://www.w3.org/TR/cssom-view-1/#viewport`](https://www.w3.org/TR/cssom-view-1/#viewport)
@@ -2654,10 +2690,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/webdriver2/#dfn-success`](https://www.w3.org/TR/webdriver2/#dfn-success)
      * [`https://www.w3.org/TR/webdriver2/#dfn-url-variables`](https://www.w3.org/TR/webdriver2/#dfn-url-variables)
      * [`https://www.w3.org/TR/webdriver2/#dfn-getting-properties`](https://www.w3.org/TR/webdriver2/#dfn-getting-properties)
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/):
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-constraints`](https://www.w3.org/TR/mediacapture-streams/#dfn-constraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-capabilities`](https://www.w3.org/TR/mediacapture-streams/#dfn-capabilities)
-     * [`https://www.w3.org/TR/mediacapture-streams/#dfn-settings`](https://www.w3.org/TR/mediacapture-streams/#dfn-settings)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/):
      * [`https://drafts.csswg.org/css-values-3/#relative-length`](https://drafts.csswg.org/css-values-3/#relative-length)
      * [`https://drafts.csswg.org/cssom-view-1/#page-zoom`](https://drafts.csswg.org/cssom-view-1/#page-zoom)
@@ -3139,7 +3171,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 837 problematic external links found in 197 specifications
+=> 833 problematic external links found in 196 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3417,7 +3449,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/touch-events/#idl-def-touchevent`](https://w3c.github.io/touch-events/#idl-def-touchevent)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/):
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
-- [Event Timing API](https://wicg.github.io/event-timing/):
+- [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
 - [File System Access](https://wicg.github.io/file-system-access/):
      * [`https://storage.spec.whatwg.org/#site-storage`](https://storage.spec.whatwg.org/#site-storage)
@@ -3436,8 +3468,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-label`](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
-     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://drafts.csswg.org/css2/#block-boxes%E2%91%A0`](https://drafts.csswg.org/css2/#block-boxes%E2%91%A0)
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
@@ -4010,7 +4040,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 811 problematic external links found in 54 specifications
+=> 810 problematic external links found in 53 specifications
 
 
 ## Broken external links
@@ -4374,12 +4404,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#dom-document-2`](https://html.spec.whatwg.org/#dom-document-2)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
+     * [`https://html.spec.whatwg.org/#htmlaudioelement`](https://html.spec.whatwg.org/#htmlaudioelement)
      * [`https://html.spec.whatwg.org/#dom-media-volume`](https://html.spec.whatwg.org/#dom-media-volume)
      * [`https://html.spec.whatwg.org/#dom-media-muted`](https://html.spec.whatwg.org/#dom-media-muted)
      * [`https://html.spec.whatwg.org/#media-resource`](https://html.spec.whatwg.org/#media-resource)
      * [`https://html.spec.whatwg.org/#user-activation-data-model`](https://html.spec.whatwg.org/#user-activation-data-model)
-     * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
-     * [`https://html.spec.whatwg.org/#htmlaudioelement`](https://html.spec.whatwg.org/#htmlaudioelement)
      * [`https://html.spec.whatwg.org/#dom-media-play`](https://html.spec.whatwg.org/#dom-media-play)
      * [`https://html.spec.whatwg.org/#sticky-activation`](https://html.spec.whatwg.org/#sticky-activation)
 - [Background Fetch](https://wicg.github.io/background-fetch/):
@@ -5375,6 +5405,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://w3c.github.io/resource-timing/#dfn-timing-allow-check`](https://w3c.github.io/resource-timing/#dfn-timing-allow-check)
+     * [`https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry`](https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry)
 - [Encoding Standard](https://encoding.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#event-loop`](https://html.spec.whatwg.org/#event-loop)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -5385,7 +5416,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://www.w3.org/TR/secure-contexts/#secure-context`](https://www.w3.org/TR/secure-contexts/#secure-context)
-- [Event Timing API](https://wicg.github.io/event-timing/):
+- [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#dfn-performance`](https://w3c.github.io/hr-time/#dfn-performance)
      * [`https://html.spec.whatwg.org/#event-contextmenu`](https://html.spec.whatwg.org/#event-contextmenu)
      * [`https://html.spec.whatwg.org/#event-dnd-dragstart`](https://html.spec.whatwg.org/#event-dnd-dragstart)
@@ -6354,7 +6385,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://www.w3.org/TR/uievents-code/#code-quote`](https://www.w3.org/TR/uievents-code/#code-quote)
-- [Largest Contentful Paint](https://wicg.github.io/largest-contentful-paint/):
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/):
      * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
@@ -6367,6 +6398,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-img-width`](https://html.spec.whatwg.org/#dom-img-width)
      * [`https://html.spec.whatwg.org/#dom-img-height`](https://html.spec.whatwg.org/#dom-img-height)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
+     * [`https://wicg.github.io/event-timing#has-dispatched-input-event`](https://wicg.github.io/event-timing#has-dispatched-input-event)
 - [Layout Instability API](https://wicg.github.io/layout-instability/):
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -6620,20 +6652,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/screen-capture/#dfn-getdisplaymedia`](https://www.w3.org/TR/screen-capture/#dfn-getdisplaymedia)
      * [`https://www.w3.org/TR/screen-capture/#prompt-the-user-to-choose`](https://www.w3.org/TR/screen-capture/#prompt-the-user-to-choose)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-- [Media Capture Depth Stream Extensions](https://w3c.github.io/mediacapture-depth/):
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStream`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStream)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStreamTrack`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaStreamTrack)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstraintSet`](https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstraintSet)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstrainDOMString`](https://www.w3.org/TR/mediacapture-streams/#idl-def-ConstrainDOMString)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSettings`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSettings)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraints`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSupportedConstraints`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackSupportedConstraints)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackCapabilities`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackCapabilities)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraintSet`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaTrackConstraintSet)
-     * [`https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind`](https://www.w3.org/TR/mediacapture-streams/#idl-def-MediaDeviceKind)
-     * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
-     * [`https://html.spec.whatwg.org/#canvas-pixel-arraybuffer`](https://html.spec.whatwg.org/#canvas-pixel-arraybuffer)
-     * [`https://webidl.spec.whatwg.org/#dfn-present`](https://webidl.spec.whatwg.org/#dfn-present)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/):
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
@@ -8095,6 +8113,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://w3c.github.io/webdriver/webdriver-spec.html#dfn-extension-commands`](https://w3c.github.io/webdriver/webdriver-spec.html#dfn-extension-commands)
      * [`https://w3c.github.io/webdriver/webdriver-spec.html#dfn-error`](https://w3c.github.io/webdriver/webdriver-spec.html#dfn-error)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/):
+     * [`https://w3c.github.io/event-timing/#performanceeventtiming`](https://w3c.github.io/event-timing/#performanceeventtiming)
+     * [`https://w3c.github.io/event-timing/#should-add-performanceeventtiming`](https://w3c.github.io/event-timing/#should-add-performanceeventtiming)
+     * [`https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint`](https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/):
      * [`https://dom.spec.whatwg.org/#event-retargeting-steps`](https://dom.spec.whatwg.org/#event-retargeting-steps)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -9092,7 +9114,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4776 problematic external links found in 300 specifications
+=> 4768 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9140,9 +9162,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
-     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
-     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
      * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
      * [`https://www.w3.org/TR/webmessaging/`](https://www.w3.org/TR/webmessaging/)
@@ -9210,7 +9229,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 49 specifications
+=> 55 problematic external links found in 48 specifications
 
 
 ## External links that use a dated URL
