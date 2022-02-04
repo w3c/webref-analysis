@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-04T00:54:05.965Z",
+  "date": "2022-02-04T06:40:07.590Z",
   "stats": {
     "crawled": 462,
     "errors": 0,
@@ -43218,7 +43218,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "02 February 2022",
+      "date": "04 February 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -50726,7 +50726,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "3 February 2022",
+      "date": "4 February 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",

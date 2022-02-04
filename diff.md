@@ -1,4 +1,4 @@
-% Diff between report from "February 04, 2022" and reference report from "February 03, 2022"
+% Diff between report from "February 04, 2022" and reference report from "February 04, 2022"
 % Strudy
 % February 04, 2022
 
