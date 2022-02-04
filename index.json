@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-04T06:40:07.590Z",
+  "date": "2022-02-04T12:44:19.218Z",
   "stats": {
     "crawled": 462,
     "errors": 0,
@@ -3705,7 +3705,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "20 January 2022",
+      "date": "04 February 2022",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
