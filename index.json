@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-04T12:44:19.218Z",
+  "date": "2022-02-04T18:38:22.989Z",
   "stats": {
     "crawled": 462,
     "errors": 0,
@@ -1461,7 +1461,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "3 February 2022",
+      "date": "4 February 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -24641,7 +24641,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "24 September 2021",
+      "date": "4 February 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -24665,18 +24665,7 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "BufferSource",
-            "refs": [
-              {
-                "url": "https://webidl.spec.whatwg.org/",
-                "title": "Web IDL Standard",
-                "crawled": "https://webidl.spec.whatwg.org/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -24740,8 +24729,7 @@
             "https://html.spec.whatwg.org/#concept-dnd-ro",
             "https://html.spec.whatwg.org/#the-drag-data-item-kind",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#event-messageerror",
-            "https://infra.spec.whatwg.org/#pair"
+            "https://html.spec.whatwg.org/#event-messageerror"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -43458,6 +43446,7 @@
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#workernavigator",
+            "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
@@ -44568,7 +44557,7 @@
     {
       "title": "Priority Hints",
       "shortname": "priority-hints",
-      "date": "12 January 2022",
+      "date": "4 February 2022",
       "url": "https://wicg.github.io/priority-hints/",
       "nightly": {
         "url": "https://wicg.github.io/priority-hints/",
@@ -54774,6 +54763,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/file-system-access/",
+              "title": "File System Access",
+              "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
