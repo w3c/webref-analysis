@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 06, 2022
+% February 07, 2022
 
 462 specifications were crawled in this report.
 
@@ -5659,6 +5659,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/core-aam/#role-map-insertion`](https://w3c.github.io/core-aam/#role-map-insertion)
      * [`https://w3c.github.io/core-aam/#role-map-listitem`](https://w3c.github.io/core-aam/#role-map-listitem)
      * [`https://w3c.github.io/core-aam/#role-map-main`](https://w3c.github.io/core-aam/#role-map-main)
+     * [`https://w3c.github.io/core-aam/#role-map-mark`](https://w3c.github.io/core-aam/#role-map-mark)
      * [`https://w3c.github.io/core-aam/#role-map-list`](https://w3c.github.io/core-aam/#role-map-list)
      * [`https://w3c.github.io/core-aam/#role-map-menu`](https://w3c.github.io/core-aam/#role-map-menu)
      * [`https://w3c.github.io/core-aam/#role-map-meter`](https://w3c.github.io/core-aam/#role-map-meter)
@@ -9004,7 +9005,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4767 problematic external links found in 299 specifications
+=> 4768 problematic external links found in 299 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
