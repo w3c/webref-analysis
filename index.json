@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-08T00:47:36.835Z",
+  "date": "2022-02-08T06:37:27.578Z",
   "stats": {
     "crawled": 462,
     "errors": 0,
@@ -50748,7 +50748,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "4 February 2022",
+      "date": "8 February 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
