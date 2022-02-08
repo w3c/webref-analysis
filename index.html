@@ -5054,7 +5054,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-2-1" class="level3" data-spec="true" data-error="true">
+  <section id="css-2-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS 2</h3>
   <section id="spec-info-113" class="level4 info">
   <h4>Spec info</h4>
@@ -5069,8 +5069,37 @@
   </section>
   <section id="potential-issues-113" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:484:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 324)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/"><code>https://html.spec.whatwg.org/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-style-attribute"><code>https://html.spec.whatwg.org/#the-style-attribute</code></a></li>
+  </ul></li>
+  <li>External links that use a dated URL:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a></li>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-113" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -13639,7 +13668,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webxr/">https://www.w3.org/TR/webxr/</a></li>
   <li>Crawled URL: <a href="https://immersive-web.github.io/webxr/">https://immersive-web.github.io/webxr/</a></li>
-  <li>Crawled version: 7 February 2022</li>
+  <li>Crawled version: 8 February 2022</li>
   <li>Editor’s Draft: <a href="https://immersive-web.github.io/webxr/">https://immersive-web.github.io/webxr/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webxr/">https://www.w3.org/TR/webxr/</a></li>
   <li>Shortname: webxr</li>
@@ -19387,7 +19416,6 @@
   <ul>
   <li>Initial URL: <a href="https://w3c.github.io/web-nfc/">https://w3c.github.io/web-nfc/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/web-nfc/">https://w3c.github.io/web-nfc/</a></li>
-  <li>Crawled version: 18 January 2022</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/web-nfc/">https://w3c.github.io/web-nfc/</a></li>
   <li>Shortname: web-nfc</li>
   </ul>
@@ -19865,9 +19893,77 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
+  <section id="event-timing-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
+  <h3>Event Timing API</h3>
+  <section id="spec-info-340" class="level4 info">
+  <h4>Spec info</h4>
+  <ul>
+  <li>Initial URL: <a href="https://w3c.github.io/event-timing/">https://w3c.github.io/event-timing/</a></li>
+  <li>Crawled URL: <a href="https://w3c.github.io/event-timing/">https://w3c.github.io/event-timing/</a></li>
+  <li>Crawled version: 15 December 2021</li>
+  <li>Editor’s Draft: <a href="https://w3c.github.io/event-timing/">https://w3c.github.io/event-timing/</a></li>
+  <li>Shortname: event-timing</li>
+  </ul>
+  </section>
+  <section id="potential-issues-340" class="level4 anomalies">
+  <h4>Potential issue(s)</h4>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://w3c.github.io/timing-entrytypes-registry/"><code>https://w3c.github.io/timing-entrytypes-registry/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a>, related reference “HR-TIME-2” uses URL <a href="https://www.w3.org/TR/hr-time-2/"><code>https://www.w3.org/TR/hr-time-2/</code></a></li>
+  <li><a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a>, related reference “UIEVENTS” uses URL <a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a></li>
+  <li><a href="https://w3c.github.io/pointerevents/"><code>https://w3c.github.io/pointerevents/</code></a>, related reference “POINTEREVENTS3” uses URL <a href="https://www.w3.org/TR/pointerevents3/"><code>https://www.w3.org/TR/pointerevents3/</code></a></li>
+  <li><a href="https://w3c.github.io/touch-events/"><code>https://w3c.github.io/touch-events/</code></a>, related reference “TOUCH-EVENTS” uses URL <a href="https://www.w3.org/TR/touch-events/"><code>https://www.w3.org/TR/touch-events/</code></a></li>
+  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a>, related reference “PERFORMANCE-TIMELINE-2” uses URL <a href="https://www.w3.org/TR/performance-timeline/"><code>https://www.w3.org/TR/performance-timeline/</code></a></li>
+  <li><a href="https://w3c.github.io/paint-timing/"><code>https://w3c.github.io/paint-timing/</code></a>, related reference “PAINT-TIMING” uses URL <a href="https://www.w3.org/TR/paint-timing/"><code>https://www.w3.org/TR/paint-timing/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://wicg.github.io/element-timing/#get-an-element"><code>https://wicg.github.io/element-timing/#get-an-element</code></a></li>
+  <li><a href="https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry"><code>https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry</code></a></li>
+  </ul></li>
+  <li>External links that neither target definitions nor headings:
+  <ul>
+  <li><a href="https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp"><code>https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://w3c.github.io/hr-time/#dfn-performance"><code>https://w3c.github.io/hr-time/#dfn-performance</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-contextmenu"><code>https://html.spec.whatwg.org/#event-contextmenu</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragstart"><code>https://html.spec.whatwg.org/#event-dnd-dragstart</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragend"><code>https://html.spec.whatwg.org/#event-dnd-dragend</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragenter"><code>https://html.spec.whatwg.org/#event-dnd-dragenter</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragleave"><code>https://html.spec.whatwg.org/#event-dnd-dragleave</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragover"><code>https://html.spec.whatwg.org/#event-dnd-dragover</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-drop"><code>https://html.spec.whatwg.org/#event-dnd-drop</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-drag"><code>https://html.spec.whatwg.org/#event-dnd-drag</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragexit"><code>https://html.spec.whatwg.org/#event-dnd-dragexit</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-document-window"><code>https://html.spec.whatwg.org/#concept-document-window</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#update-the-rendering"><code>https://html.spec.whatwg.org/#update-the-rendering</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#event-loop-processing-model"><code>https://html.spec.whatwg.org/#event-loop-processing-model</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#fully-active"><code>https://html.spec.whatwg.org/#fully-active</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-relevant-realm"><code>https://html.spec.whatwg.org/#concept-relevant-realm</code></a></li>
+  </ul></li>
+  </ul>
+  </section>
+  <section id="known-dependencies-on-this-specification-340" class="level4 dependencies">
+  <h4>Known dependencies on this specification</h4>
+  <p>Normative references to this spec from:</p>
+  <ul>
+  <li><a href="https://w3c.github.io/timing-entrytypes-registry/">Timing Entry Names Registry</a></li>
+  </ul>
+  <p>No informative reference to this spec from other specs.</p>
+  </section>
+  </section>
   <section id="high-resolution-time" class="level3" data-spec="true" data-anomaly="true" data-unknownExposedNames="true" data-missingDfns="true" data-xrefs="true">
   <h3>High Resolution Time</h3>
-  <section id="spec-info-340" class="level4 info">
+  <section id="spec-info-341" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/hr-time-3/">https://www.w3.org/TR/hr-time-3/</a></li>
@@ -19878,7 +19974,7 @@
   <li>Shortname: hr-time-3</li>
   </ul>
   </section>
-  <section id="potential-issues-340" class="level4 anomalies">
+  <section id="potential-issues-341" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Unknown [Exposed] names used: <code>*</code></li>
@@ -19899,7 +19995,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-340" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-341" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -19951,9 +20047,68 @@
   </ul>
   </section>
   </section>
+  <section id="largest-contentful-paint" class="level3" data-spec="true" data-anomaly="true" data-missingWebIdlRef="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
+  <h3>Largest Contentful Paint</h3>
+  <section id="spec-info-342" class="level4 info">
+  <h4>Spec info</h4>
+  <ul>
+  <li>Initial URL: <a href="https://w3c.github.io/largest-contentful-paint/">https://w3c.github.io/largest-contentful-paint/</a></li>
+  <li>Crawled URL: <a href="https://w3c.github.io/largest-contentful-paint/">https://w3c.github.io/largest-contentful-paint/</a></li>
+  <li>Crawled version: 19 October 2021</li>
+  <li>Editor’s Draft: <a href="https://w3c.github.io/largest-contentful-paint/">https://w3c.github.io/largest-contentful-paint/</a></li>
+  <li>Shortname: largest-contentful-paint</li>
+  </ul>
+  </section>
+  <section id="potential-issues-342" class="level4 anomalies">
+  <h4>Potential issue(s)</h4>
+  <ul>
+  <li>Missing references for WebIDL names:
+  <ul>
+  <li><code>PerformanceEntry</code> defined in <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
+  </ul></li>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a>, related reference “HR-TIME-3” uses URL <a href="https://www.w3.org/TR/hr-time-3/"><code>https://www.w3.org/TR/hr-time-3/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://wicg.github.io/element-timing/#get-an-element"><code>https://wicg.github.io/element-timing/#get-an-element</code></a></li>
+  <li><a href="https://wicg.github.io/event-timing#has-dispatched-input-event"><code>https://wicg.github.io/event-timing#has-dispatched-input-event</code></a></li>
+  <li><a href="https://drafts.csswg.org/cssom-view/#viewport"><code>https://drafts.csswg.org/cssom-view/#viewport</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://infra.spec.whatwg.org/#pair"><code>https://infra.spec.whatwg.org/#pair</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-document-bc"><code>https://html.spec.whatwg.org/#concept-document-bc</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#active-document"><code>https://html.spec.whatwg.org/#active-document</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-img-element"><code>https://html.spec.whatwg.org/#the-img-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#dom-img-naturalwidth"><code>https://html.spec.whatwg.org/#dom-img-naturalwidth</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#dom-img-naturalheight"><code>https://html.spec.whatwg.org/#dom-img-naturalheight</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#dom-img-width"><code>https://html.spec.whatwg.org/#dom-img-width</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#dom-img-height"><code>https://html.spec.whatwg.org/#dom-img-height</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-relevant-realm"><code>https://html.spec.whatwg.org/#concept-relevant-realm</code></a></li>
+  </ul></li>
+  </ul>
+  </section>
+  <section id="known-dependencies-on-this-specification-342" class="level4 dependencies">
+  <h4>Known dependencies on this specification</h4>
+  <p>Normative references to this spec from:</p>
+  <ul>
+  <li><a href="https://w3c.github.io/timing-entrytypes-registry/">Timing Entry Names Registry</a></li>
+  </ul>
+  <p>No informative reference to this spec from other specs.</p>
+  </section>
+  </section>
   <section id="long-tasks-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Long Tasks API</h3>
-  <section id="spec-info-341" class="level4 info">
+  <section id="spec-info-343" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/longtasks-1/">https://www.w3.org/TR/longtasks-1/</a></li>
@@ -19964,7 +20119,7 @@
   <li>Shortname: longtasks-1</li>
   </ul>
   </section>
-  <section id="potential-issues-341" class="level4 anomalies">
+  <section id="potential-issues-343" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -20012,7 +20167,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-341" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-343" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20024,7 +20179,7 @@
   </section>
   <section id="navigation-timing-level-2" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Navigation Timing Level 2</h3>
-  <section id="spec-info-342" class="level4 info">
+  <section id="spec-info-344" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/navigation-timing-2/">https://www.w3.org/TR/navigation-timing-2/</a></li>
@@ -20035,7 +20190,7 @@
   <li>Shortname: navigation-timing-2</li>
   </ul>
   </section>
-  <section id="potential-issues-342" class="level4 anomalies">
+  <section id="potential-issues-344" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -20081,7 +20236,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-342" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-344" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20103,7 +20258,7 @@
   </section>
   <section id="network-error-logging" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Network Error Logging</h3>
-  <section id="spec-info-343" class="level4 info">
+  <section id="spec-info-345" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/network-error-logging-1/">https://www.w3.org/TR/network-error-logging-1/</a></li>
@@ -20114,7 +20269,7 @@
   <li>Shortname: network-error-logging-1</li>
   </ul>
   </section>
-  <section id="potential-issues-343" class="level4 anomalies">
+  <section id="potential-issues-345" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -20130,7 +20285,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-343" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-345" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20144,7 +20299,7 @@
   </section>
   <section id="paint-timing-1" class="level3" data-spec="true" data-anomaly="true" data-missingWebIdlRef="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>Paint Timing 1</h3>
-  <section id="spec-info-344" class="level4 info">
+  <section id="spec-info-346" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/paint-timing/">https://www.w3.org/TR/paint-timing/</a></li>
@@ -20155,7 +20310,7 @@
   <li>Shortname: paint-timing</li>
   </ul>
   </section>
-  <section id="potential-issues-344" class="level4 anomalies">
+  <section id="potential-issues-346" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for WebIDL names:
@@ -20201,7 +20356,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-344" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-346" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20215,7 +20370,7 @@
   </section>
   <section id="performance-timeline-level-2" class="level3" data-spec="true" data-anomaly="true" data-unknownExposedNames="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>Performance Timeline Level 2</h3>
-  <section id="spec-info-345" class="level4 info">
+  <section id="spec-info-347" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/performance-timeline/">https://www.w3.org/TR/performance-timeline/</a></li>
@@ -20226,7 +20381,7 @@
   <li>Shortname: performance-timeline</li>
   </ul>
   </section>
-  <section id="potential-issues-345" class="level4 anomalies">
+  <section id="potential-issues-347" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Unknown [Exposed] names used: <code>*</code></li>
@@ -20253,7 +20408,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-345" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-347" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20281,7 +20436,7 @@
   </section>
   <section id="preload" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>Preload</h3>
-  <section id="spec-info-346" class="level4 info">
+  <section id="spec-info-348" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/preload/">https://www.w3.org/TR/preload/</a></li>
@@ -20292,7 +20447,7 @@
   <li>Shortname: preload</li>
   </ul>
   </section>
-  <section id="potential-issues-346" class="level4 anomalies">
+  <section id="potential-issues-348" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -20324,7 +20479,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-346" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-348" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20339,7 +20494,7 @@
   </section>
   <section id="reporting-api-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Reporting API 1</h3>
-  <section id="spec-info-347" class="level4 info">
+  <section id="spec-info-349" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/reporting-1/">https://www.w3.org/TR/reporting-1/</a></li>
@@ -20350,7 +20505,7 @@
   <li>Shortname: reporting-1</li>
   </ul>
   </section>
-  <section id="potential-issues-347" class="level4 anomalies">
+  <section id="potential-issues-349" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -20396,7 +20551,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-347" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-349" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20416,7 +20571,7 @@
   </section>
   <section id="resource-hints" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Resource Hints</h3>
-  <section id="spec-info-348" class="level4 info">
+  <section id="spec-info-350" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/resource-hints/">https://www.w3.org/TR/resource-hints/</a></li>
@@ -20427,7 +20582,7 @@
   <li>Shortname: resource-hints</li>
   </ul>
   </section>
-  <section id="potential-issues-348" class="level4 anomalies">
+  <section id="potential-issues-350" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -20459,7 +20614,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-348" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-350" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20472,7 +20627,7 @@
   </section>
   <section id="resource-timing-level-2" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Resource Timing Level 2</h3>
-  <section id="spec-info-349" class="level4 info">
+  <section id="spec-info-351" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/resource-timing-2/">https://www.w3.org/TR/resource-timing-2/</a></li>
@@ -20483,7 +20638,7 @@
   <li>Shortname: resource-timing-2</li>
   </ul>
   </section>
-  <section id="potential-issues-349" class="level4 anomalies">
+  <section id="potential-issues-351" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -20538,7 +20693,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-349" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-351" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -20558,7 +20713,7 @@
   </section>
   <section id="server-timing" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Server Timing</h3>
-  <section id="spec-info-350" class="level4 info">
+  <section id="spec-info-352" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/server-timing/">https://www.w3.org/TR/server-timing/</a></li>
@@ -20569,7 +20724,7 @@
   <li>Shortname: server-timing</li>
   </ul>
   </section>
-  <section id="potential-issues-350" class="level4 anomalies">
+  <section id="potential-issues-352" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>External links to private terms:
@@ -20592,7 +20747,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-350" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-352" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -20600,7 +20755,7 @@
   </section>
   <section id="timing-entry-names-registry" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Timing Entry Names Registry</h3>
-  <section id="spec-info-351" class="level4 info">
+  <section id="spec-info-353" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/timing-entrytypes-registry/">https://www.w3.org/TR/timing-entrytypes-registry/</a></li>
@@ -20611,7 +20766,7 @@
   <li>Shortname: timing-entrytypes-registry</li>
   </ul>
   </section>
-  <section id="potential-issues-351" class="level4 anomalies">
+  <section id="potential-issues-353" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>External links to private terms:
@@ -20623,7 +20778,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-351" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-353" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -20631,7 +20786,7 @@
   </section>
   <section id="user-timing-level-3" class="level3" data-spec="true" data-anomaly="true" data-unknownExposedNames="true" data-missingDfns="true" data-xrefs="true">
   <h3>User Timing Level 3</h3>
-  <section id="spec-info-352" class="level4 info">
+  <section id="spec-info-354" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/user-timing/">https://www.w3.org/TR/user-timing/</a></li>
@@ -20642,7 +20797,7 @@
   <li>Shortname: user-timing</li>
   </ul>
   </section>
-  <section id="potential-issues-352" class="level4 anomalies">
+  <section id="potential-issues-354" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Unknown [Exposed] names used: <code>*</code></li>
@@ -20669,7 +20824,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-352" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-354" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -20680,7 +20835,7 @@
   <h2>Web Platform Incubator Community Group</h2>
   <section id="accelerated-shape-detection-in-images" class="level3" data-spec="true" data-anomaly="true" data-missingWebIdlRef="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Accelerated Shape Detection in Images</h3>
-  <section id="spec-info-353" class="level4 info">
+  <section id="spec-info-355" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/shape-detection-api/">https://wicg.github.io/shape-detection-api/</a></li>
@@ -20690,7 +20845,7 @@
   <li>Shortname: shape-detection-api</li>
   </ul>
   </section>
-  <section id="potential-issues-353" class="level4 anomalies">
+  <section id="potential-issues-355" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for WebIDL names:
@@ -20730,7 +20885,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-353" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-355" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>Informative references to this spec from:</p>
@@ -20742,7 +20897,7 @@
   </section>
   <section id="accelerated-text-detection-in-images" class="level3" data-spec="true" data-anomaly="true" data-missingWebIdlRef="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>Accelerated Text Detection in Images</h3>
-  <section id="spec-info-354" class="level4 info">
+  <section id="spec-info-356" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/shape-detection-api/text.html">https://wicg.github.io/shape-detection-api/text.html</a></li>
@@ -20752,7 +20907,7 @@
   <li>Shortname: text-detection-api</li>
   </ul>
   </section>
-  <section id="potential-issues-354" class="level4 anomalies">
+  <section id="potential-issues-356" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for WebIDL names:
@@ -20770,7 +20925,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-354" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-356" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>Informative references to this spec from:</p>
@@ -20781,7 +20936,7 @@
   </section>
   <section id="app-history-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>App History API</h3>
-  <section id="spec-info-355" class="level4 info">
+  <section id="spec-info-357" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/app-history/">https://wicg.github.io/app-history/</a></li>
@@ -20791,7 +20946,7 @@
   <li>Shortname: app-history</li>
   </ul>
   </section>
-  <section id="potential-issues-355" class="level4 anomalies">
+  <section id="potential-issues-357" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -20893,7 +21048,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-355" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-357" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -20901,7 +21056,7 @@
   </section>
   <section id="attribution-reporting" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Attribution Reporting</h3>
-  <section id="spec-info-356" class="level4 info">
+  <section id="spec-info-358" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/conversion-measurement-api/">https://wicg.github.io/conversion-measurement-api/</a></li>
@@ -20911,7 +21066,7 @@
   <li>Shortname: conversion-measurement-api</li>
   </ul>
   </section>
-  <section id="potential-issues-356" class="level4 anomalies">
+  <section id="potential-issues-358" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -20964,7 +21119,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-356" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-358" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -20972,7 +21127,7 @@
   </section>
   <section id="background-fetch" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Background Fetch</h3>
-  <section id="spec-info-357" class="level4 info">
+  <section id="spec-info-359" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/background-fetch/">https://wicg.github.io/background-fetch/</a></li>
@@ -20982,7 +21137,7 @@
   <li>Shortname: background-fetch</li>
   </ul>
   </section>
-  <section id="potential-issues-357" class="level4 anomalies">
+  <section id="potential-issues-359" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -21036,7 +21191,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-357" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-359" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -21050,7 +21205,7 @@
   </section>
   <section id="badging-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>Badging API</h3>
-  <section id="spec-info-358" class="level4 info">
+  <section id="spec-info-360" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://w3c.github.io/badging/">https://w3c.github.io/badging/</a></li>
@@ -21060,7 +21215,7 @@
   <li>Shortname: badging</li>
   </ul>
   </section>
-  <section id="potential-issues-358" class="level4 anomalies">
+  <section id="potential-issues-360" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -21082,7 +21237,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-358" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-360" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21090,7 +21245,7 @@
   </section>
   <section id="client-hints-infrastructure" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>Client Hints Infrastructure</h3>
-  <section id="spec-info-359" class="level4 info">
+  <section id="spec-info-361" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/client-hints-infrastructure/">https://wicg.github.io/client-hints-infrastructure/</a></li>
@@ -21100,7 +21255,7 @@
   <li>Shortname: client-hints-infrastructure</li>
   </ul>
   </section>
-  <section id="potential-issues-359" class="level4 anomalies">
+  <section id="potential-issues-361" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -21132,7 +21287,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-359" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-361" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -21148,7 +21303,7 @@
   </section>
   <section id="close-watcher-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Close Watcher API</h3>
-  <section id="spec-info-360" class="level4 info">
+  <section id="spec-info-362" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/close-watcher/">https://wicg.github.io/close-watcher/</a></li>
@@ -21158,7 +21313,7 @@
   <li>Shortname: close-watcher</li>
   </ul>
   </section>
-  <section id="potential-issues-360" class="level4 anomalies">
+  <section id="potential-issues-362" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21197,7 +21352,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-360" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-362" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21205,7 +21360,7 @@
   </section>
   <section id="compression-streams" class="level3" data-spec="true" data-unknownExposedNames="true" data-missingDfns="true" data-ok="true">
   <h3>Compression Streams</h3>
-  <section id="spec-info-361" class="level4 info">
+  <section id="spec-info-363" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/compression/">https://wicg.github.io/compression/</a></li>
@@ -21215,11 +21370,11 @@
   <li>Shortname: compression</li>
   </ul>
   </section>
-  <section id="potential-issues-361" class="level4 anomalies">
+  <section id="potential-issues-363" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <p>This specification looks good!</p>
   </section>
-  <section id="known-dependencies-on-this-specification-361" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-363" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>Informative references to this spec from:</p>
@@ -21230,17 +21385,16 @@
   </section>
   <section id="compute-pressure-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Compute Pressure API</h3>
-  <section id="spec-info-362" class="level4 info">
+  <section id="spec-info-364" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/compute-pressure/">https://wicg.github.io/compute-pressure/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/compute-pressure/">https://wicg.github.io/compute-pressure/</a></li>
-  <li>Crawled version: 07 February 2022</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/compute-pressure/">https://wicg.github.io/compute-pressure/</a></li>
   <li>Shortname: compute-pressure</li>
   </ul>
   </section>
-  <section id="potential-issues-362" class="level4 anomalies">
+  <section id="potential-issues-364" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -21254,7 +21408,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-362" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-364" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21262,7 +21416,7 @@
   </section>
   <section id="contact-picker-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Contact Picker API</h3>
-  <section id="spec-info-363" class="level4 info">
+  <section id="spec-info-365" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://w3c.github.io/contact-api/spec/">https://w3c.github.io/contact-api/spec/</a></li>
@@ -21272,7 +21426,7 @@
   <li>Shortname: contact-api</li>
   </ul>
   </section>
-  <section id="potential-issues-363" class="level4 anomalies">
+  <section id="potential-issues-365" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21298,7 +21452,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-363" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-365" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21306,7 +21460,7 @@
   </section>
   <section id="content-index" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Content Index</h3>
-  <section id="spec-info-364" class="level4 info">
+  <section id="spec-info-366" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/content-index/spec/">https://wicg.github.io/content-index/spec/</a></li>
@@ -21316,7 +21470,7 @@
   <li>Shortname: content-index</li>
   </ul>
   </section>
-  <section id="potential-issues-364" class="level4 anomalies">
+  <section id="potential-issues-366" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21361,7 +21515,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-364" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-366" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21369,7 +21523,7 @@
   </section>
   <section id="cookie-store-api" class="level3" data-spec="true" data-anomaly="true" data-unknownIdlNames="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Cookie Store API</h3>
-  <section id="spec-info-365" class="level4 info">
+  <section id="spec-info-367" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/cookie-store/">https://wicg.github.io/cookie-store/</a></li>
@@ -21379,7 +21533,7 @@
   <li>Shortname: cookie-store</li>
   </ul>
   </section>
-  <section id="potential-issues-365" class="level4 anomalies">
+  <section id="potential-issues-367" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Unknown WebIDL names used: <code>DOMTimeStamp</code></li>
@@ -21411,7 +21565,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-365" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-367" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21419,7 +21573,7 @@
   </section>
   <section id="crash-reporting" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true">
   <h3>Crash Reporting</h3>
-  <section id="spec-info-366" class="level4 info">
+  <section id="spec-info-368" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/crash-reporting/">https://wicg.github.io/crash-reporting/</a></li>
@@ -21429,7 +21583,7 @@
   <li>Shortname: crash-reporting</li>
   </ul>
   </section>
-  <section id="potential-issues-366" class="level4 anomalies">
+  <section id="potential-issues-368" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21438,7 +21592,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-366" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-368" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21446,7 +21600,7 @@
   </section>
   <section id="cross-origin-embedder-policy-credentialless" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Cross-Origin-Embedder-Policy: credentialless</h3>
-  <section id="spec-info-367" class="level4 info">
+  <section id="spec-info-369" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/credentiallessness/">https://wicg.github.io/credentiallessness/</a></li>
@@ -21456,7 +21610,7 @@
   <li>Shortname: credentiallessness</li>
   </ul>
   </section>
-  <section id="potential-issues-367" class="level4 anomalies">
+  <section id="potential-issues-369" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>External links to private terms:
@@ -21477,7 +21631,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-367" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-369" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21485,7 +21639,7 @@
   </section>
   <section id="css-parser-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>CSS Parser API</h3>
-  <section id="spec-info-368" class="level4 info">
+  <section id="spec-info-370" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/css-parser-api/">https://wicg.github.io/css-parser-api/</a></li>
@@ -21495,7 +21649,7 @@
   <li>Shortname: css-parser-api</li>
   </ul>
   </section>
-  <section id="potential-issues-368" class="level4 anomalies">
+  <section id="potential-issues-370" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -21504,7 +21658,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-368" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-370" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21512,7 +21666,7 @@
   </section>
   <section id="custom-state-pseudo-class" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Custom State Pseudo Class</h3>
-  <section id="spec-info-369" class="level4 info">
+  <section id="spec-info-371" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/custom-state-pseudo-class/">https://wicg.github.io/custom-state-pseudo-class/</a></li>
@@ -21522,7 +21676,7 @@
   <li>Shortname: custom-state-pseudo-class</li>
   </ul>
   </section>
-  <section id="potential-issues-369" class="level4 anomalies">
+  <section id="potential-issues-371" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -21534,7 +21688,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-369" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-371" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21542,7 +21696,7 @@
   </section>
   <section id="datacue-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>DataCue API</h3>
-  <section id="spec-info-370" class="level4 info">
+  <section id="spec-info-372" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/datacue/">https://wicg.github.io/datacue/</a></li>
@@ -21552,7 +21706,7 @@
   <li>Shortname: datacue</li>
   </ul>
   </section>
-  <section id="potential-issues-370" class="level4 anomalies">
+  <section id="potential-issues-372" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -21561,7 +21715,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-370" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-372" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21569,7 +21723,7 @@
   </section>
   <section id="deprecation-reporting" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Deprecation Reporting</h3>
-  <section id="spec-info-371" class="level4 info">
+  <section id="spec-info-373" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/deprecation-reporting/">https://wicg.github.io/deprecation-reporting/</a></li>
@@ -21579,7 +21733,7 @@
   <li>Shortname: deprecation-reporting</li>
   </ul>
   </section>
-  <section id="potential-issues-371" class="level4 anomalies">
+  <section id="potential-issues-373" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21588,7 +21742,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-371" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-373" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21596,7 +21750,7 @@
   </section>
   <section id="document-policy" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Document Policy</h3>
-  <section id="spec-info-372" class="level4 info">
+  <section id="spec-info-374" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/document-policy/">https://wicg.github.io/document-policy/</a></li>
@@ -21606,7 +21760,7 @@
   <li>Shortname: document-policy</li>
   </ul>
   </section>
-  <section id="potential-issues-372" class="level4 anomalies">
+  <section id="potential-issues-374" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21633,7 +21787,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-372" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-374" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21641,7 +21795,7 @@
   </section>
   <section id="early-detection-of-input-events" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Early detection of input events</h3>
-  <section id="spec-info-373" class="level4 info">
+  <section id="spec-info-375" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/is-input-pending/">https://wicg.github.io/is-input-pending/</a></li>
@@ -21651,7 +21805,7 @@
   <li>Shortname: is-input-pending</li>
   </ul>
   </section>
-  <section id="potential-issues-373" class="level4 anomalies">
+  <section id="potential-issues-375" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -21672,7 +21826,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-373" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-375" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21680,7 +21834,7 @@
   </section>
   <section id="element-timing-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Element Timing API</h3>
-  <section id="spec-info-374" class="level4 info">
+  <section id="spec-info-376" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/element-timing/">https://wicg.github.io/element-timing/</a></li>
@@ -21690,7 +21844,7 @@
   <li>Shortname: element-timing</li>
   </ul>
   </section>
-  <section id="potential-issues-374" class="level4 anomalies">
+  <section id="potential-issues-376" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21724,7 +21878,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-374" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-376" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -21736,87 +21890,18 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="event-timing-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
-  <h3>Event Timing API</h3>
-  <section id="spec-info-375" class="level4 info">
-  <h4>Spec info</h4>
-  <ul>
-  <li>Initial URL: <a href="https://w3c.github.io/event-timing/">https://w3c.github.io/event-timing/</a></li>
-  <li>Crawled URL: <a href="https://w3c.github.io/event-timing/">https://w3c.github.io/event-timing/</a></li>
-  <li>Crawled version: 15 December 2021</li>
-  <li>Editor’s Draft: <a href="https://w3c.github.io/event-timing/">https://w3c.github.io/event-timing/</a></li>
-  <li>Shortname: event-timing</li>
-  </ul>
-  </section>
-  <section id="potential-issues-375" class="level4 anomalies">
-  <h4>Potential issue(s)</h4>
-  <ul>
-  <li>Missing references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/timing-entrytypes-registry/"><code>https://w3c.github.io/timing-entrytypes-registry/</code></a></li>
-  </ul></li>
-  <li>Inconsistent references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a>, related reference “HR-TIME-2” uses URL <a href="https://www.w3.org/TR/hr-time-2/"><code>https://www.w3.org/TR/hr-time-2/</code></a></li>
-  <li><a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a>, related reference “UIEVENTS” uses URL <a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a></li>
-  <li><a href="https://w3c.github.io/pointerevents/"><code>https://w3c.github.io/pointerevents/</code></a>, related reference “POINTEREVENTS3” uses URL <a href="https://www.w3.org/TR/pointerevents3/"><code>https://www.w3.org/TR/pointerevents3/</code></a></li>
-  <li><a href="https://w3c.github.io/touch-events/"><code>https://w3c.github.io/touch-events/</code></a>, related reference “TOUCH-EVENTS” uses URL <a href="https://www.w3.org/TR/touch-events/"><code>https://www.w3.org/TR/touch-events/</code></a></li>
-  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a>, related reference “PERFORMANCE-TIMELINE-2” uses URL <a href="https://www.w3.org/TR/performance-timeline/"><code>https://www.w3.org/TR/performance-timeline/</code></a></li>
-  <li><a href="https://w3c.github.io/paint-timing/"><code>https://w3c.github.io/paint-timing/</code></a>, related reference “PAINT-TIMING” uses URL <a href="https://www.w3.org/TR/paint-timing/"><code>https://www.w3.org/TR/paint-timing/</code></a></li>
-  </ul></li>
-  <li>External links to private terms:
-  <ul>
-  <li><a href="https://wicg.github.io/element-timing/#get-an-element"><code>https://wicg.github.io/element-timing/#get-an-element</code></a></li>
-  <li><a href="https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry"><code>https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry</code></a></li>
-  </ul></li>
-  <li>External links that neither target definitions nor headings:
-  <ul>
-  <li><a href="https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp"><code>https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp</code></a></li>
-  </ul></li>
-  <li>Broken external links:
-  <ul>
-  <li><a href="https://w3c.github.io/hr-time/#dfn-performance"><code>https://w3c.github.io/hr-time/#dfn-performance</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-contextmenu"><code>https://html.spec.whatwg.org/#event-contextmenu</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragstart"><code>https://html.spec.whatwg.org/#event-dnd-dragstart</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragend"><code>https://html.spec.whatwg.org/#event-dnd-dragend</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragenter"><code>https://html.spec.whatwg.org/#event-dnd-dragenter</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragleave"><code>https://html.spec.whatwg.org/#event-dnd-dragleave</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragover"><code>https://html.spec.whatwg.org/#event-dnd-dragover</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-drop"><code>https://html.spec.whatwg.org/#event-dnd-drop</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-drag"><code>https://html.spec.whatwg.org/#event-dnd-drag</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-dnd-dragexit"><code>https://html.spec.whatwg.org/#event-dnd-dragexit</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-document-window"><code>https://html.spec.whatwg.org/#concept-document-window</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#update-the-rendering"><code>https://html.spec.whatwg.org/#update-the-rendering</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-loop-processing-model"><code>https://html.spec.whatwg.org/#event-loop-processing-model</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#fully-active"><code>https://html.spec.whatwg.org/#fully-active</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-relevant-realm"><code>https://html.spec.whatwg.org/#concept-relevant-realm</code></a></li>
-  </ul></li>
-  </ul>
-  </section>
-  <section id="known-dependencies-on-this-specification-375" class="level4 dependencies">
-  <h4>Known dependencies on this specification</h4>
-  <p>Normative references to this spec from:</p>
-  <ul>
-  <li><a href="https://w3c.github.io/timing-entrytypes-registry/">Timing Entry Names Registry</a></li>
-  </ul>
-  <p>No informative reference to this spec from other specs.</p>
-  </section>
-  </section>
   <section id="eyedropper-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>EyeDropper API</h3>
-  <section id="spec-info-376" class="level4 info">
+  <section id="spec-info-377" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/eyedropper-api/">https://wicg.github.io/eyedropper-api/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/eyedropper-api/">https://wicg.github.io/eyedropper-api/</a></li>
-  <li>Crawled version: 27 October 2021</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/eyedropper-api/">https://wicg.github.io/eyedropper-api/</a></li>
   <li>Shortname: eyedropper-api</li>
   </ul>
   </section>
-  <section id="potential-issues-376" class="level4 anomalies">
+  <section id="potential-issues-377" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -21830,7 +21915,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-376" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-377" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21838,7 +21923,7 @@
   </section>
   <section id="federated-learning-of-cohorts" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Federated Learning of Cohorts</h3>
-  <section id="spec-info-377" class="level4 info">
+  <section id="spec-info-378" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/floc/">https://wicg.github.io/floc/</a></li>
@@ -21848,7 +21933,7 @@
   <li>Shortname: floc</li>
   </ul>
   </section>
-  <section id="potential-issues-377" class="level4 anomalies">
+  <section id="potential-issues-378" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21865,7 +21950,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-377" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-378" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21873,7 +21958,7 @@
   </section>
   <section id="file-and-directory-entries-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>File and Directory Entries API</h3>
-  <section id="spec-info-378" class="level4 info">
+  <section id="spec-info-379" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/entries-api/">https://wicg.github.io/entries-api/</a></li>
@@ -21883,7 +21968,7 @@
   <li>Shortname: entries-api</li>
   </ul>
   </section>
-  <section id="potential-issues-378" class="level4 anomalies">
+  <section id="potential-issues-379" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21910,7 +21995,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-378" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-379" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>Informative references to this spec from:</p>
@@ -21921,7 +22006,7 @@
   </section>
   <section id="file-system-access" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>File System Access</h3>
-  <section id="spec-info-379" class="level4 info">
+  <section id="spec-info-380" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/file-system-access/">https://wicg.github.io/file-system-access/</a></li>
@@ -21931,7 +22016,7 @@
   <li>Shortname: file-system-access</li>
   </ul>
   </section>
-  <section id="potential-issues-379" class="level4 anomalies">
+  <section id="potential-issues-380" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -21984,7 +22069,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-379" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-380" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -21992,7 +22077,7 @@
   </section>
   <section id="get-installed-related-apps-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Get Installed Related Apps API</h3>
-  <section id="spec-info-380" class="level4 info">
+  <section id="spec-info-381" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/get-installed-related-apps/spec/">https://wicg.github.io/get-installed-related-apps/spec/</a></li>
@@ -22002,7 +22087,7 @@
   <li>Shortname: get-installed-related-apps</li>
   </ul>
   </section>
-  <section id="potential-issues-380" class="level4 anomalies">
+  <section id="potential-issues-381" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -22025,7 +22110,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-380" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-381" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -22033,7 +22118,7 @@
   </section>
   <section id="html-sanitizer-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>HTML Sanitizer API</h3>
-  <section id="spec-info-381" class="level4 info">
+  <section id="spec-info-382" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/sanitizer-api/">https://wicg.github.io/sanitizer-api/</a></li>
@@ -22043,7 +22128,7 @@
   <li>Shortname: sanitizer-api</li>
   </ul>
   </section>
-  <section id="potential-issues-381" class="level4 anomalies">
+  <section id="potential-issues-382" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -22087,7 +22172,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-381" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-382" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -22095,7 +22180,7 @@
   </section>
   <section id="htmlvideoelement.requestvideoframecallback" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>HTMLVideoElement.requestVideoFrameCallback()</h3>
-  <section id="spec-info-382" class="level4 info">
+  <section id="spec-info-383" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/video-rvfc/">https://wicg.github.io/video-rvfc/</a></li>
@@ -22105,7 +22190,7 @@
   <li>Shortname: video-rvfc</li>
   </ul>
   </section>
-  <section id="potential-issues-382" class="level4 anomalies">
+  <section id="potential-issues-383" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -22129,7 +22214,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-382" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-383" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -22137,7 +22222,7 @@
   </section>
   <section id="idle-detection-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Idle Detection API</h3>
-  <section id="spec-info-383" class="level4 info">
+  <section id="spec-info-384" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/idle-detection/">https://wicg.github.io/idle-detection/</a></li>
@@ -22147,7 +22232,7 @@
   <li>Shortname: idle-detection</li>
   </ul>
   </section>
-  <section id="potential-issues-383" class="level4 anomalies">
+  <section id="potential-issues-384" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -22174,7 +22259,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-383" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-384" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -22182,7 +22267,7 @@
   </section>
   <section id="import-maps" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Import Maps</h3>
-  <section id="spec-info-384" class="level4 info">
+  <section id="spec-info-385" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/import-maps/">https://wicg.github.io/import-maps/</a></li>
@@ -22192,7 +22277,7 @@
   <li>Shortname: import-maps</li>
   </ul>
   </section>
-  <section id="potential-issues-384" class="level4 anomalies">
+  <section id="potential-issues-385" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -22238,7 +22323,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-384" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-385" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -22246,7 +22331,7 @@
   </section>
   <section id="ink-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Ink API</h3>
-  <section id="spec-info-385" class="level4 info">
+  <section id="spec-info-386" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/ink-enhancement/">https://wicg.github.io/ink-enhancement/</a></li>
@@ -22256,7 +22341,7 @@
   <li>Shortname: ink-enhancement</li>
   </ul>
   </section>
-  <section id="potential-issues-385" class="level4 anomalies">
+  <section id="potential-issues-386" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
@@ -22266,7 +22351,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-385" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-386" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -22274,7 +22359,7 @@
   </section>
   <section id="input-device-capabilities" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Input Device Capabilities</h3>
-  <section id="spec-info-386" class="level4 info">
+  <section id="spec-info-387" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/input-device-capabilities/">https://wicg.github.io/input-device-capabilities/</a></li>
@@ -22284,39 +22369,12 @@
   <li>Shortname: input-device-capabilities</li>
   </ul>
   </section>
-  <section id="potential-issues-386" class="level4 anomalies">
+  <section id="potential-issues-387" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Broken external links:
   <ul>
   <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
-  </ul></li>
-  </ul>
-  </section>
-  <section id="known-dependencies-on-this-specification-386" class="level4 dependencies">
-  <h4>Known dependencies on this specification</h4>
-  <p>No normative reference to this spec from other specs.</p>
-  <p>No informative reference to this spec from other specs.</p>
-  </section>
-  </section>
-  <section id="intervention-reporting" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true">
-  <h3>Intervention Reporting</h3>
-  <section id="spec-info-387" class="level4 info">
-  <h4>Spec info</h4>
-  <ul>
-  <li>Initial URL: <a href="https://wicg.github.io/intervention-reporting/">https://wicg.github.io/intervention-reporting/</a></li>
-  <li>Crawled URL: <a href="https://wicg.github.io/intervention-reporting/">https://wicg.github.io/intervention-reporting/</a></li>
-  <li>Crawled version: 6 March 2020</li>
-  <li>Editor’s Draft: <a href="https://wicg.github.io/intervention-reporting/">https://wicg.github.io/intervention-reporting/</a></li>
-  <li>Shortname: intervention-reporting</li>
-  </ul>
-  </section>
-  <section id="potential-issues-387" class="level4 anomalies">
-  <h4>Potential issue(s)</h4>
-  <ul>
-  <li>Inconsistent references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/reporting/"><code>https://w3c.github.io/reporting/</code></a>, related reference “REPORTING-1” uses URL <a href="https://www.w3.org/TR/reporting-1/"><code>https://www.w3.org/TR/reporting-1/</code></a></li>
   </ul></li>
   </ul>
   </section>
@@ -22326,19 +22384,45 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
+  <section id="intervention-reporting" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true">
+  <h3>Intervention Reporting</h3>
+  <section id="spec-info-388" class="level4 info">
+  <h4>Spec info</h4>
+  <ul>
+  <li>Initial URL: <a href="https://wicg.github.io/intervention-reporting/">https://wicg.github.io/intervention-reporting/</a></li>
+  <li>Crawled URL: <a href="https://wicg.github.io/intervention-reporting/">https://wicg.github.io/intervention-reporting/</a></li>
+  <li>Crawled version: 6 March 2020</li>
+  <li>Editor’s Draft: <a href="https://wicg.github.io/intervention-reporting/">https://wicg.github.io/intervention-reporting/</a></li>
+  <li>Shortname: intervention-reporting</li>
+  </ul>
+  </section>
+  <section id="potential-issues-388" class="level4 anomalies">
+  <h4>Potential issue(s)</h4>
+  <ul>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://w3c.github.io/reporting/"><code>https://w3c.github.io/reporting/</code></a>, related reference “REPORTING-1” uses URL <a href="https://www.w3.org/TR/reporting-1/"><code>https://www.w3.org/TR/reporting-1/</code></a></li>
+  </ul></li>
+  </ul>
+  </section>
+  <section id="known-dependencies-on-this-specification-388" class="level4 dependencies">
+  <h4>Known dependencies on this specification</h4>
+  <p>No normative reference to this spec from other specs.</p>
+  <p>No informative reference to this spec from other specs.</p>
+  </section>
+  </section>
   <section id="js-self-profiling-api" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>JS Self-Profiling API</h3>
-  <section id="spec-info-388" class="level4 info">
+  <section id="spec-info-389" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/js-self-profiling/">https://wicg.github.io/js-self-profiling/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/js-self-profiling/">https://wicg.github.io/js-self-profiling/</a></li>
-  <li>Crawled version: 30 November 2021</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/js-self-profiling/">https://wicg.github.io/js-self-profiling/</a></li>
   <li>Shortname: js-self-profiling</li>
   </ul>
   </section>
-  <section id="potential-issues-388" class="level4 anomalies">
+  <section id="potential-issues-389" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Missing references for links:
@@ -22369,7 +22453,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-388" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-389" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
@@ -22377,7 +22461,7 @@
   </section>
   <section id="keyboard-lock" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-xrefs="true">
   <h3>Keyboard Lock</h3>
-  <section id="spec-info-389" class="level4 info">
+  <section id="spec-info-390" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/keyboard-lock/">https://wicg.github.io/keyboard-lock/</a></li>
@@ -22387,7 +22471,7 @@
   <li>Shortname: keyboard-lock</li>
   </ul>
   </section>
-  <section id="potential-issues-389" class="level4 anomalies">
+  <section id="potential-issues-390" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>External links to private terms:
@@ -22409,7 +22493,7 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-389" class="level4 dependencies">
+  <section id="known-dependencies-on-this-specification-390" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
@@ -22420,7 +22504,7 @@
   </section>
   <section id="keyboard-map" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Keyboard Map</h3>
-  <section id="spec-info-390" class="level4 info">
+  <section id="spec-info-391" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/keyboard-map/">https://wicg.github.io/keyboard-map/</a></li>
@@ -22430,7 +22514,7 @@
   <li>Shortname: keyboard-map</li>
   </ul>
   </section>
-  <section id="potential-issues-390" class="level4 anomalies">
+  <section id="potential-issues-391" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
   <li>Inconsistent references for links:
@@ -22461,68 +22545,9 @@
   </ul></li>
   </ul>
   </section>
-  <section id="known-dependencies-on-this-specification-390" class="level4 dependencies">
-  <h4>Known dependencies on this specification</h4>
-  <p>No normative reference to this spec from other specs.</p>
-  <p>No informative reference to this spec from other specs.</p>
-  </section>
-  </section>
-  <section id="largest-contentful-paint" class="level3" data-spec="true" data-anomaly="true" data-missingWebIdlRef="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
-  <h3>Largest Contentful Paint</h3>
-  <section id="spec-info-391" class="level4 info">
-  <h4>Spec info</h4>
-  <ul>
-  <li>Initial URL: <a href="https://w3c.github.io/largest-contentful-paint/">https://w3c.github.io/largest-contentful-paint/</a></li>
-  <li>Crawled URL: <a href="https://w3c.github.io/largest-contentful-paint/">https://w3c.github.io/largest-contentful-paint/</a></li>
-  <li>Crawled version: 19 October 2021</li>
-  <li>Editor’s Draft: <a href="https://w3c.github.io/largest-contentful-paint/">https://w3c.github.io/largest-contentful-paint/</a></li>
-  <li>Shortname: largest-contentful-paint</li>
-  </ul>
-  </section>
-  <section id="potential-issues-391" class="level4 anomalies">
-  <h4>Potential issue(s)</h4>
-  <ul>
-  <li>Missing references for WebIDL names:
-  <ul>
-  <li><code>PerformanceEntry</code> defined in <a href="https://w3c.github.io/performance-timeline/">Performance Timeline Level 2</a></li>
-  </ul></li>
-  <li>Missing references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a></li>
-  </ul></li>
-  <li>Inconsistent references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a>, related reference “HR-TIME-3” uses URL <a href="https://www.w3.org/TR/hr-time-3/"><code>https://www.w3.org/TR/hr-time-3/</code></a></li>
-  </ul></li>
-  <li>External links to private terms:
-  <ul>
-  <li><a href="https://wicg.github.io/element-timing/#get-an-element"><code>https://wicg.github.io/element-timing/#get-an-element</code></a></li>
-  <li><a href="https://wicg.github.io/event-timing#has-dispatched-input-event"><code>https://wicg.github.io/event-timing#has-dispatched-input-event</code></a></li>
-  <li><a href="https://drafts.csswg.org/cssom-view/#viewport"><code>https://drafts.csswg.org/cssom-view/#viewport</code></a></li>
-  </ul></li>
-  <li>Broken external links:
-  <ul>
-  <li><a href="https://infra.spec.whatwg.org/#pair"><code>https://infra.spec.whatwg.org/#pair</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-relevant-global"><code>https://html.spec.whatwg.org/#concept-relevant-global</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-document-bc"><code>https://html.spec.whatwg.org/#concept-document-bc</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#active-document"><code>https://html.spec.whatwg.org/#active-document</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#the-img-element"><code>https://html.spec.whatwg.org/#the-img-element</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-img-naturalwidth"><code>https://html.spec.whatwg.org/#dom-img-naturalwidth</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-img-naturalheight"><code>https://html.spec.whatwg.org/#dom-img-naturalheight</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-img-width"><code>https://html.spec.whatwg.org/#dom-img-width</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-img-height"><code>https://html.spec.whatwg.org/#dom-img-height</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-relevant-realm"><code>https://html.spec.whatwg.org/#concept-relevant-realm</code></a></li>
-  </ul></li>
-  </ul>
-  </section>
   <section id="known-dependencies-on-this-specification-391" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
-  <p>Normative references to this spec from:</p>
-  <ul>
-  <li><a href="https://w3c.github.io/timing-entrytypes-registry/">Timing Entry Names Registry</a></li>
-  </ul>
+  <p>No normative reference to this spec from other specs.</p>
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
@@ -22710,7 +22735,6 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/manifest-incubations/">https://wicg.github.io/manifest-incubations/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/manifest-incubations/">https://wicg.github.io/manifest-incubations/</a></li>
-  <li>Crawled version: 08 December 2021</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/manifest-incubations/">https://wicg.github.io/manifest-incubations/</a></li>
   <li>Shortname: manifest-incubations</li>
   </ul>
@@ -23821,7 +23845,6 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/visual-viewport/">https://wicg.github.io/visual-viewport/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/visual-viewport/">https://wicg.github.io/visual-viewport/</a></li>
-  <li>Crawled version: 27 September 2021</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/visual-viewport/">https://wicg.github.io/visual-viewport/</a></li>
   <li>Shortname: visual-viewport</li>
   </ul>
@@ -24219,7 +24242,6 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/window-controls-overlay/">https://wicg.github.io/window-controls-overlay/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/window-controls-overlay/">https://wicg.github.io/window-controls-overlay/</a></li>
-  <li>Crawled version: 02 February 2022</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/window-controls-overlay/">https://wicg.github.io/window-controls-overlay/</a></li>
   <li>Shortname: window-controls-overlay</li>
   </ul>

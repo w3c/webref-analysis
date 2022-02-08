@@ -4358,7 +4358,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4371,15 +4371,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:484:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 324)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11460,7 +11470,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
 - Crawled URL: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
-- Crawled version: 7 February 2022
+- Crawled version: 8 February 2022
 - Editor's Draft: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
 - Latest published version: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
 - Shortname: webxr
@@ -16406,7 +16416,6 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
 - Crawled URL: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
-- Crawled version: 18 January 2022
 - Editor's Draft: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
 - Shortname: web-nfc
 
@@ -16806,6 +16815,60 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Event Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
+- Crawled URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
+- Crawled version: 15 December 2021
+- Editor's Draft: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
+- Shortname: event-timing
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/), related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
+     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/), related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
+- External links to private terms:
+     * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
+     * [`https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry`](https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry)
+- External links that neither target definitions nor headings:
+     * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
+- Broken external links:
+     * [`https://w3c.github.io/hr-time/#dfn-performance`](https://w3c.github.io/hr-time/#dfn-performance)
+     * [`https://html.spec.whatwg.org/#event-contextmenu`](https://html.spec.whatwg.org/#event-contextmenu)
+     * [`https://html.spec.whatwg.org/#event-dnd-dragstart`](https://html.spec.whatwg.org/#event-dnd-dragstart)
+     * [`https://html.spec.whatwg.org/#event-dnd-dragend`](https://html.spec.whatwg.org/#event-dnd-dragend)
+     * [`https://html.spec.whatwg.org/#event-dnd-dragenter`](https://html.spec.whatwg.org/#event-dnd-dragenter)
+     * [`https://html.spec.whatwg.org/#event-dnd-dragleave`](https://html.spec.whatwg.org/#event-dnd-dragleave)
+     * [`https://html.spec.whatwg.org/#event-dnd-dragover`](https://html.spec.whatwg.org/#event-dnd-dragover)
+     * [`https://html.spec.whatwg.org/#event-dnd-drop`](https://html.spec.whatwg.org/#event-dnd-drop)
+     * [`https://html.spec.whatwg.org/#event-dnd-drag`](https://html.spec.whatwg.org/#event-dnd-drag)
+     * [`https://html.spec.whatwg.org/#event-dnd-dragexit`](https://html.spec.whatwg.org/#event-dnd-dragexit)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
+     * [`https://html.spec.whatwg.org/#event-loop-processing-model`](https://html.spec.whatwg.org/#event-loop-processing-model)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
+
+
 ### High Resolution Time {data-spec=true data-anomaly=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -16883,6 +16946,51 @@ Informative references to this spec from:
 
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+
+
+### Largest Contentful Paint {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
+- Crawled URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
+- Crawled version: 19 October 2021
+- Editor's Draft: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
+- Shortname: largest-contentful-paint
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for WebIDL names: 
+     * `PerformanceEntry` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- Missing references for links: 
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
+- External links to private terms:
+     * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
+     * [`https://wicg.github.io/event-timing#has-dispatched-input-event`](https://wicg.github.io/event-timing#has-dispatched-input-event)
+     * [`https://drafts.csswg.org/cssom-view/#viewport`](https://drafts.csswg.org/cssom-view/#viewport)
+- Broken external links:
+     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
+     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
+     * [`https://html.spec.whatwg.org/#dom-img-naturalwidth`](https://html.spec.whatwg.org/#dom-img-naturalwidth)
+     * [`https://html.spec.whatwg.org/#dom-img-naturalheight`](https://html.spec.whatwg.org/#dom-img-naturalheight)
+     * [`https://html.spec.whatwg.org/#dom-img-width`](https://html.spec.whatwg.org/#dom-img-width)
+     * [`https://html.spec.whatwg.org/#dom-img-height`](https://html.spec.whatwg.org/#dom-img-height)
+     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
 
 
 ### Long Tasks API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -17971,7 +18079,6 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 07 February 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -18391,67 +18498,12 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Event Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
-- Crawled URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
-- Crawled version: 15 December 2021
-- Editor's Draft: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
-- Shortname: event-timing
-
-#### Potential issue(s) {.anomalies}
-
-- Missing references for links: 
-     * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
-     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
-     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/), related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
-     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
-     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/), related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
-- External links to private terms:
-     * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
-     * [`https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry`](https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry)
-- External links that neither target definitions nor headings:
-     * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
-- Broken external links:
-     * [`https://w3c.github.io/hr-time/#dfn-performance`](https://w3c.github.io/hr-time/#dfn-performance)
-     * [`https://html.spec.whatwg.org/#event-contextmenu`](https://html.spec.whatwg.org/#event-contextmenu)
-     * [`https://html.spec.whatwg.org/#event-dnd-dragstart`](https://html.spec.whatwg.org/#event-dnd-dragstart)
-     * [`https://html.spec.whatwg.org/#event-dnd-dragend`](https://html.spec.whatwg.org/#event-dnd-dragend)
-     * [`https://html.spec.whatwg.org/#event-dnd-dragenter`](https://html.spec.whatwg.org/#event-dnd-dragenter)
-     * [`https://html.spec.whatwg.org/#event-dnd-dragleave`](https://html.spec.whatwg.org/#event-dnd-dragleave)
-     * [`https://html.spec.whatwg.org/#event-dnd-dragover`](https://html.spec.whatwg.org/#event-dnd-dragover)
-     * [`https://html.spec.whatwg.org/#event-dnd-drop`](https://html.spec.whatwg.org/#event-dnd-drop)
-     * [`https://html.spec.whatwg.org/#event-dnd-drag`](https://html.spec.whatwg.org/#event-dnd-drag)
-     * [`https://html.spec.whatwg.org/#event-dnd-dragexit`](https://html.spec.whatwg.org/#event-dnd-dragexit)
-     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
-     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
-     * [`https://html.spec.whatwg.org/#event-loop-processing-model`](https://html.spec.whatwg.org/#event-loop-processing-model)
-     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
-     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
-
-No informative reference to this spec from other specs.
-
-
 ### EyeDropper API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
 - Crawled URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
-- Crawled version: 27 October 2021
 - Editor's Draft: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
 - Shortname: eyedropper-api
 
@@ -18894,7 +18946,6 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/js-self-profiling/](https://wicg.github.io/js-self-profiling/)
 - Crawled URL: [https://wicg.github.io/js-self-profiling/](https://wicg.github.io/js-self-profiling/)
-- Crawled version: 30 November 2021
 - Editor's Draft: [https://wicg.github.io/js-self-profiling/](https://wicg.github.io/js-self-profiling/)
 - Shortname: js-self-profiling
 
@@ -18995,51 +19046,6 @@ No informative reference to this spec from other specs.
 #### Known dependencies on this specification {.dependencies}
 
 No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### Largest Contentful Paint {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
-- Crawled URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
-- Crawled version: 19 October 2021
-- Editor's Draft: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
-- Shortname: largest-contentful-paint
-
-#### Potential issue(s) {.anomalies}
-
-- Missing references for WebIDL names: 
-     * `PerformanceEntry` defined in [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-- Missing references for links: 
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
-- External links to private terms:
-     * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
-     * [`https://wicg.github.io/event-timing#has-dispatched-input-event`](https://wicg.github.io/event-timing#has-dispatched-input-event)
-     * [`https://drafts.csswg.org/cssom-view/#viewport`](https://drafts.csswg.org/cssom-view/#viewport)
-- Broken external links:
-     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
-     * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
-     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
-     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-     * [`https://html.spec.whatwg.org/#dom-img-naturalwidth`](https://html.spec.whatwg.org/#dom-img-naturalwidth)
-     * [`https://html.spec.whatwg.org/#dom-img-naturalheight`](https://html.spec.whatwg.org/#dom-img-naturalheight)
-     * [`https://html.spec.whatwg.org/#dom-img-width`](https://html.spec.whatwg.org/#dom-img-width)
-     * [`https://html.spec.whatwg.org/#dom-img-height`](https://html.spec.whatwg.org/#dom-img-height)
-     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
 
@@ -19197,7 +19203,6 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
-- Crawled version: 08 December 2021
 - Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Shortname: manifest-incubations
 
@@ -20143,7 +20148,6 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/visual-viewport/](https://wicg.github.io/visual-viewport/)
 - Crawled URL: [https://wicg.github.io/visual-viewport/](https://wicg.github.io/visual-viewport/)
-- Crawled version: 27 September 2021
 - Editor's Draft: [https://wicg.github.io/visual-viewport/](https://wicg.github.io/visual-viewport/)
 - Shortname: visual-viewport
 
@@ -20465,7 +20469,6 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Crawled URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
-- Crawled version: 02 February 2022
 - Editor's Draft: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Shortname: window-controls-overlay
 

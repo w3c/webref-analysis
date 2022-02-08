@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-08T12:40:30.389Z",
+  "date": "2022-02-08T18:42:20.983Z",
   "stats": {
     "crawled": 462,
-    "errors": 1,
+    "errors": 0,
     "studied": 462
   },
   "results": [
@@ -2802,7 +2802,6 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "07 February 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -4872,7 +4871,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:484:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23460,8 +23458,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
+          "name": "Web Performance Working Group",
+          "url": "https://www.w3.org/webperf/"
         }
       ],
       "report": {
@@ -23611,7 +23609,6 @@
     {
       "title": "EyeDropper API",
       "shortname": "eyedropper-api",
-      "date": "27 October 2021",
       "url": "https://wicg.github.io/eyedropper-api/",
       "nightly": {
         "url": "https://wicg.github.io/eyedropper-api/",
@@ -38392,7 +38389,6 @@
     {
       "title": "JS Self-Profiling API",
       "shortname": "js-self-profiling",
-      "date": "30 November 2021",
       "url": "https://wicg.github.io/js-self-profiling/",
       "nightly": {
         "url": "https://wicg.github.io/js-self-profiling/",
@@ -38668,8 +38664,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
+          "name": "Web Performance Working Group",
+          "url": "https://www.w3.org/webperf/"
         }
       ],
       "report": {
@@ -39274,7 +39270,6 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "08 December 2021",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -53093,7 +53088,6 @@
     {
       "title": "Visual Viewport API",
       "shortname": "visual-viewport",
-      "date": "27 September 2021",
       "url": "https://wicg.github.io/visual-viewport/",
       "nightly": {
         "url": "https://wicg.github.io/visual-viewport/",
@@ -55658,7 +55652,6 @@
     {
       "title": "Web NFC",
       "shortname": "web-nfc",
-      "date": "18 January 2022",
       "url": "https://w3c.github.io/web-nfc/",
       "nightly": {
         "url": "https://w3c.github.io/web-nfc/",
@@ -63601,7 +63594,7 @@
     {
       "title": "WebXR Device API",
       "shortname": "webxr",
-      "date": "7 February 2022",
+      "date": "8 February 2022",
       "url": "https://www.w3.org/TR/webxr/",
       "release": {
         "url": "https://www.w3.org/TR/webxr/",
@@ -64340,7 +64333,6 @@
     {
       "title": "Window Controls Overlay",
       "shortname": "window-controls-overlay",
-      "date": "02 February 2022",
       "url": "https://wicg.github.io/window-controls-overlay/",
       "nightly": {
         "url": "https://wicg.github.io/window-controls-overlay/",
