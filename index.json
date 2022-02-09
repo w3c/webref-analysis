@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-09T00:47:30.361Z",
+  "date": "2022-02-09T06:39:48.023Z",
   "stats": {
     "crawled": 462,
     "errors": 1,
@@ -25207,11 +25207,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://wicg.github.io/webhid/",
               "title": "WebHID API",
               "crawled": "https://wicg.github.io/webhid/"
@@ -43256,7 +43251,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "07 February 2022",
+      "date": "09 February 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -50770,7 +50765,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -56330,7 +56325,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "26 January 2022",
+      "date": "9 February 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
