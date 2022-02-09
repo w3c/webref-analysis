@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-08T18:42:20.983Z",
+  "date": "2022-02-09T00:47:30.361Z",
   "stats": {
     "crawled": 462,
-    "errors": 0,
+    "errors": 1,
     "studied": 462
   },
   "results": [
@@ -1462,7 +1462,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "4 February 2022",
+      "date": "8 February 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -3574,7 +3574,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -10958,6 +10958,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
               "url": "https://www.w3.org/TR/RangeRequest/",
@@ -35923,6 +35928,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
+            {
               "url": "https://www.w3.org/TR/RangeRequest/",
               "title": "Incremental Font Transfer via Range Request",
               "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
@@ -36106,6 +36116,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
               "url": "https://www.w3.org/TR/RangeRequest/",
@@ -36815,7 +36830,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "16 December 2021",
+      "date": "5 February 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -36882,6 +36897,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/IFT/RangeRequest.html triggered HTTP status 404 Error: Loading https://w3c.github.io/IFT/RangeRequest.html triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 394)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36900,6 +36916,16 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://w3c.github.io/IFT/#negotiating-transfer-type"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -46371,7 +46397,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46436,7 +46462,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46474,7 +46500,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46568,7 +46594,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46647,7 +46673,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46711,7 +46737,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46749,7 +46775,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46810,7 +46836,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46866,7 +46892,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "8 February 2022",
+      "date": "9 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -48811,7 +48837,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "17 December 2021",
+      "date": "8 February 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -52828,7 +52854,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "1 February 2022",
+      "date": "9 February 2022",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
@@ -62314,7 +62340,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "7 February 2022",
+      "date": "8 February 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62434,7 +62460,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "7 February 2022",
+      "date": "8 February 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -63671,9 +63697,9 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/orientation-sensor/",
+          "https://www.w3.org/TR/orientation-sensor/",
           "https://www.w3.org/TR/page-visibility-2/",
-          "https://w3c.github.io/page-visibility/"
+          "https://www.w3.org/TR/webxr-gamepads-module-1/"
         ],
         "inconsistentRef": [
           {
@@ -63684,17 +63710,17 @@
             }
           },
           {
+            "link": "https://www.w3.org/TR/webxrlayers-1/",
+            "ref": {
+              "name": "WEBXR-LAYERS-1",
+              "url": "https://immersive-web.github.io/layers/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/hr-time/",
             "ref": {
               "name": "HR-TIME-2",
               "url": "https://www.w3.org/TR/hr-time-2/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/requestidlecallback/",
-            "ref": {
-              "name": "REQUESTIDLECALLBACK",
-              "url": "https://www.w3.org/TR/requestidlecallback/"
             }
           },
           {
@@ -64424,17 +64450,17 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
+            {
               "url": "https://www.w3.org/TR/RangeRequest/",
               "title": "Incremental Font Transfer via Range Request",
               "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
             {
               "url": "https://wicg.github.io/local-font-access/",
               "title": "Local Font Access API",
