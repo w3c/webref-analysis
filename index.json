@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-10T06:39:12.752Z",
+  "date": "2022-02-10T12:48:03.982Z",
   "stats": {
     "crawled": 462,
     "errors": 1,
@@ -49951,7 +49951,7 @@
     {
       "title": "Storage Standard",
       "shortname": "storage",
-      "date": "24 November 2021",
+      "date": "10 February 2022",
       "url": "https://storage.spec.whatwg.org/",
       "nightly": {
         "url": "https://storage.spec.whatwg.org/",
@@ -50034,8 +50034,8 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#environment-settings-object",
-            "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
+            "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#browsing-session",
             "https://html.spec.whatwg.org/#environment-browsing-session",
             "https://html.spec.whatwg.org/#current-settings-object",
@@ -50043,8 +50043,7 @@
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#queue-a-task",
-            "https://w3c.github.io/permissions/#dfn-permission-state"
+            "https://html.spec.whatwg.org/#queue-a-task"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
