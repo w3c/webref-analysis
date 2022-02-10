@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-10T00:48:51.540Z",
+  "date": "2022-02-10T06:39:12.752Z",
   "stats": {
     "crawled": 462,
     "errors": 1,
@@ -25455,7 +25455,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "31 January 2022",
+      "date": "10 February 2022",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -43251,7 +43251,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "09 February 2022",
+      "date": "10 February 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -55834,7 +55834,6 @@
     {
       "title": "Web Serial API",
       "shortname": "serial",
-      "date": "02 February 2022",
       "url": "https://wicg.github.io/serial/",
       "nightly": {
         "url": "https://wicg.github.io/serial/",
