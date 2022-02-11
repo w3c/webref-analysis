@@ -21032,7 +21032,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
 - Crawled URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
-- Crawled version: 28 January 2022
+- Crawled version: 11 February 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
 - Shortname: mediacapture-region
 
