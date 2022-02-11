@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-11T12:39:58.873Z",
+  "date": "2022-02-11T18:36:44.458Z",
   "stats": {
     "crawled": 462,
     "errors": 14,
@@ -3574,7 +3574,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "10 February 2022",
+      "date": "11 February 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -23834,7 +23834,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "24 January 2022",
+      "date": "11 February 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24334,6 +24334,7 @@
             "https://html.spec.whatwg.org/#coep-report-type",
             "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
+            "https://html.spec.whatwg.org/#consume-a-preloaded-resource",
             "https://html.spec.whatwg.org/#clone-a-policy-container",
             "https://html.spec.whatwg.org/#policy-container-referrer-policy",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
@@ -38072,7 +38073,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "28 January 2022",
+      "date": "11 February 2022",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -49964,7 +49965,7 @@
     {
       "title": "Storage Standard",
       "shortname": "storage",
-      "date": "10 February 2022",
+      "date": "11 February 2022",
       "url": "https://storage.spec.whatwg.org/",
       "nightly": {
         "url": "https://storage.spec.whatwg.org/",
@@ -50049,6 +50050,7 @@
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
+            "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#browsing-session",
             "https://html.spec.whatwg.org/#environment-browsing-session",
             "https://html.spec.whatwg.org/#current-settings-object",
@@ -52197,7 +52199,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "28 January 2022",
+      "date": "11 February 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -64492,7 +64494,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "13 December 2021",
+      "date": "11 February 2022",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
