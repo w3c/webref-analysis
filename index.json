@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-11T18:36:44.458Z",
+  "date": "2022-02-12T00:47:28.325Z",
   "stats": {
     "crawled": 462,
-    "errors": 14,
+    "errors": 16,
     "studied": 462
   },
   "results": [
@@ -1462,7 +1462,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "10 February 2022",
+      "date": "11 February 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -5305,6 +5305,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 6)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18650,6 +18651,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 16)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24677,7 +24679,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "4 February 2022",
+      "date": "11 February 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -24765,8 +24767,7 @@
             "https://html.spec.whatwg.org/#concept-dnd-ro",
             "https://html.spec.whatwg.org/#the-drag-data-item-kind",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#event-messageerror",
-            "https://w3c.github.io/permissions/#dfn-permission-state"
+            "https://html.spec.whatwg.org/#event-messageerror"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -36839,7 +36840,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "5 February 2022",
+      "date": "10 February 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -46406,7 +46407,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46471,7 +46472,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46509,7 +46510,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46603,7 +46604,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46682,7 +46683,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46746,7 +46747,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46784,7 +46785,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46845,7 +46846,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46901,7 +46902,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "11 February 2022",
+      "date": "12 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -62350,7 +62351,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "10 February 2022",
+      "date": "11 February 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62456,7 +62457,9 @@
             "https://html.spec.whatwg.org/#dom-canvas-todataurl",
             "https://html.spec.whatwg.org/#dom-canvas-toblob",
             "https://html.spec.whatwg.org/#offscreencanvas-placeholder",
+            "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size",
             "https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables"
           ],
@@ -62470,7 +62473,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "10 February 2022",
+      "date": "11 February 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -62525,6 +62528,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://gpuweb.github.io/gpuweb/#dom-gputextureusage-storage",
+            "https://gpuweb.github.io/gpuweb/#GPUExternalTexture",
             "https://gpuweb.github.io/gpuweb/#dom-gpurenderpipelinedescriptor-samplecount"
           ],
           "evolvingLinks": [],

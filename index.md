@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 11, 2022
+% February 12, 2022
 
 # Ecma International {#ecma_international}
 
@@ -687,7 +687,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -716,7 +716,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -800,7 +800,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1227,7 +1227,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1250,7 +1250,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1280,7 +1280,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1321,7 +1321,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1355,7 +1355,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1386,7 +1386,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 11 February 2022
+- Crawled version: 12 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -4539,7 +4539,7 @@ Informative references to this spec from:
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
 
-### CSS Animations Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Animations Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4551,46 +4551,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/web-animations-1/#play-state`](https://drafts.csswg.org/web-animations-1/#play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#paused-play-state`](https://drafts.csswg.org/web-animations-1/#paused-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-class`](https://drafts.csswg.org/web-animations-1/#animation-class)
-     * [`https://drafts.csswg.org/web-animations-1/#idle-play-state`](https://drafts.csswg.org/web-animations-1/#idle-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#keyframe`](https://drafts.csswg.org/web-animations-1/#keyframe)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
-     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
-     * [`https://drafts.csswg.org/web-animations-1/#play-an-animation`](https://drafts.csswg.org/web-animations-1/#play-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#start-delay`](https://drafts.csswg.org/web-animations-1/#start-delay)
-     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
-     * [`https://drafts.csswg.org/web-animations-1/#composite-operation`](https://drafts.csswg.org/web-animations-1/#composite-operation)
-     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
-     * [`https://drafts.csswg.org/web-animations-1/#active-duration`](https://drafts.csswg.org/web-animations-1/#active-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://drafts.csswg.org/web-animations-1/#target-effect`](https://drafts.csswg.org/web-animations-1/#target-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#before-phase`](https://drafts.csswg.org/web-animations-1/#before-phase)
-     * [`https://drafts.csswg.org/web-animations-1/#idle-phase`](https://drafts.csswg.org/web-animations-1/#idle-phase)
-     * [`https://drafts.csswg.org/web-animations-1/#current-time`](https://drafts.csswg.org/web-animations-1/#current-time)
-     * [`https://drafts.csswg.org/web-animations-1/#after-phase`](https://drafts.csswg.org/web-animations-1/#after-phase)
-     * [`https://drafts.csswg.org/web-animations-1/#target-effect-end`](https://drafts.csswg.org/web-animations-1/#target-effect-end)
-     * [`https://drafts.csswg.org/web-animations-1/#sampling`](https://drafts.csswg.org/web-animations-1/#sampling)
-     * [`https://drafts.csswg.org/web-animations-1/#pending-play-state`](https://drafts.csswg.org/web-animations-1/#pending-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#active-phase`](https://drafts.csswg.org/web-animations-1/#active-phase)
-     * [`https://drafts.csswg.org/css-values-4/#css-identifier`](https://drafts.csswg.org/css-values-4/#css-identifier)
+The following network or parsing error occurred:
+`Error: Evaluation failed: Error: CSS server issue detected
+    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at __puppeteer_evaluation_script__:7:23
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 6)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9194,7 +9168,7 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Transitions Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### CSS Transitions Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9206,27 +9180,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
-- External links to private terms:
-     * [`https://drafts.csswg.org/web-animations/#iteration-duration`](https://drafts.csswg.org/web-animations/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations/#animation-effect`](https://drafts.csswg.org/web-animations/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations/#start-delay`](https://drafts.csswg.org/web-animations/#start-delay)
-     * [`https://drafts.csswg.org/web-animations/#cancel-an-animation`](https://drafts.csswg.org/web-animations/#cancel-an-animation)
-     * [`https://drafts.csswg.org/web-animations/#animation-class`](https://drafts.csswg.org/web-animations/#animation-class)
-     * [`https://drafts.csswg.org/web-animations/#idle-play-state`](https://drafts.csswg.org/web-animations/#idle-play-state)
-     * [`https://drafts.csswg.org/web-animations/#unresolved`](https://drafts.csswg.org/web-animations/#unresolved)
-     * [`https://drafts.csswg.org/web-animations/#active-duration`](https://drafts.csswg.org/web-animations/#active-duration)
-     * [`https://drafts.csswg.org/web-animations/#current-iteration`](https://drafts.csswg.org/web-animations/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations/#iteration-start`](https://drafts.csswg.org/web-animations/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations/#active-time`](https://drafts.csswg.org/web-animations/#active-time)
-     * [`https://drafts.csswg.org/web-animations/#fill-mode`](https://drafts.csswg.org/web-animations/#fill-mode)
-- Broken external links:
-     * [`https://drafts.csswg.org/web-animations/#sampling`](https://drafts.csswg.org/web-animations/#sampling)
-     * [`https://drafts.csswg.org/web-animations/#target-effect`](https://drafts.csswg.org/web-animations/#target-effect)
-     * [`https://drafts.csswg.org/web-animations/#current-time`](https://drafts.csswg.org/web-animations/#current-time)
-     * [`https://drafts.csswg.org/web-animations/#pending-play-state`](https://drafts.csswg.org/web-animations/#pending-play-state)
-     * [`https://drafts.csswg.org/web-animations/#target-effect-end`](https://drafts.csswg.org/web-animations/#target-effect-end)
-     * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
+The following network or parsing error occurred:
+`Error: Evaluation failed: Error: CSS server issue detected
+    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at __puppeteer_evaluation_script__:7:23
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 16)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11138,7 +11105,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 10 February 2022
+- Crawled version: 11 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11191,7 +11158,9 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-canvas-todataurl`](https://html.spec.whatwg.org/#dom-canvas-todataurl)
      * [`https://html.spec.whatwg.org/#dom-canvas-toblob`](https://html.spec.whatwg.org/#dom-canvas-toblob)
      * [`https://html.spec.whatwg.org/#offscreencanvas-placeholder`](https://html.spec.whatwg.org/#offscreencanvas-placeholder)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size`](https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables`](https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables)
 
@@ -11212,7 +11181,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 10 February 2022
+- Crawled version: 11 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11227,6 +11196,7 @@ No informative reference to this spec from other specs.
      * [`https://gpuweb.github.io/gpuweb/#shader-output-mask`](https://gpuweb.github.io/gpuweb/#shader-output-mask)
 - Broken external links:
      * [`https://gpuweb.github.io/gpuweb/#dom-gputextureusage-storage`](https://gpuweb.github.io/gpuweb/#dom-gputextureusage-storage)
+     * [`https://gpuweb.github.io/gpuweb/#GPUExternalTexture`](https://gpuweb.github.io/gpuweb/#GPUExternalTexture)
      * [`https://gpuweb.github.io/gpuweb/#dom-gpurenderpipelinedescriptor-samplecount`](https://gpuweb.github.io/gpuweb/#dom-gpurenderpipelinedescriptor-samplecount)
 
 #### Known dependencies on this specification {.dependencies}
@@ -16245,7 +16215,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 5 February 2022
+- Crawled version: 10 February 2022
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -17745,7 +17715,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 10 February 2022
+- Crawled version: 11 February 2022
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -18544,7 +18514,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Crawled URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
-- Crawled version: 4 February 2022
+- Crawled version: 11 February 2022
 - Editor's Draft: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Shortname: file-system-access
 
@@ -18589,7 +18559,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#the-drag-data-item-kind`](https://html.spec.whatwg.org/#the-drag-data-item-kind)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#event-messageerror`](https://html.spec.whatwg.org/#event-messageerror)
-     * [`https://w3c.github.io/permissions/#dfn-permission-state`](https://w3c.github.io/permissions/#dfn-permission-state)
 
 #### Known dependencies on this specification {.dependencies}
 
