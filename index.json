@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-12T18:37:56.475Z",
+  "date": "2022-02-13T00:49:03.017Z",
   "stats": {
     "crawled": 462,
     "errors": 1,
@@ -1066,7 +1066,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "23 January 2022",
+      "date": "13 February 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -2552,8 +2552,7 @@
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/web-animations/",
-          "https://www.w3.org/TR/css-color-4/"
+          "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
@@ -2615,8 +2614,7 @@
             "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-body-element",
-            "https://html.spec.whatwg.org/#2dcontext",
-            "https://drafts.csswg.org/css-color-3/#opacity"
+            "https://html.spec.whatwg.org/#2dcontext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -3576,7 +3574,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "11 February 2022",
+      "date": "13 February 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4362,11 +4360,6 @@
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-cascade-6/",
-              "title": "CSS Cascading and Inheritance Level 6",
-              "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
@@ -4375,11 +4368,6 @@
               "url": "https://www.w3.org/TR/css-color-4/",
               "title": "CSS Color Module Level 4",
               "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-5/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -4415,11 +4403,6 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-env-1/",
-              "title": "CSS Environment Variables Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-env-1/"
             },
             {
               "url": "https://www.w3.org/TR/css3-exclusions/",
@@ -4657,11 +4640,6 @@
               "crawled": "https://drafts.csswg.org/css-text-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-text-4/",
-              "title": "CSS Text Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-text-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-transforms-1/",
               "title": "CSS Transforms Module Level 1",
               "crawled": "https://drafts.csswg.org/css-transforms/"
@@ -4675,11 +4653,6 @@
               "url": "https://www.w3.org/TR/css-transitions-1/",
               "title": "CSS Transitions",
               "crawled": "https://drafts.csswg.org/css-transitions/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
-              "title": "CSS Transitions Level 2",
-              "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -4715,11 +4688,6 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/cssom-view-1/",
-              "title": "CSSOM View Module",
-              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -4817,6 +4785,11 @@
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-4/",
+              "title": "CSS Text Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-4/"
             },
             {
               "url": "https://www.w3.org/TR/uievents/",
@@ -5496,9 +5469,24 @@
               "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-4/",
+              "title": "CSS Box Model Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-box-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-sizing-4/",
               "title": "CSS Box Sizing Module Level 4",
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -5506,9 +5494,19 @@
               "crawled": "https://drafts.csswg.org/css-cascade-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -5516,9 +5514,19 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-3/",
@@ -5534,6 +5542,11 @@
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-logical-1/",
@@ -5571,6 +5584,11 @@
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-position-3/",
+              "title": "CSS Positioned Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-position/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -5579,6 +5597,11 @@
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-speech-1/",
+              "title": "CSS Speech Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-speech-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-tables-3/",
@@ -5596,9 +5619,29 @@
               "crawled": "https://drafts.csswg.org/css-text-decor-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-text-3/",
+              "title": "CSS Text Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-4/",
+              "title": "CSS Text Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-transforms-1/",
               "title": "CSS Transforms Module Level 1",
               "crawled": "https://drafts.csswg.org/css-transforms/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transforms-2/",
+              "title": "CSS Transforms Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-transforms-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "title": "CSS Transitions Level 2",
+              "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -5621,6 +5664,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -5639,6 +5687,11 @@
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/motion-1/",
+              "title": "Motion Path Module Level 1",
+              "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
@@ -5668,24 +5721,9 @@
               "crawled": "https://drafts.csswg.org/css-animations/"
             },
             {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-box-4/",
-              "title": "CSS Box Model Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-box-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+              "url": "https://www.w3.org/TR/css-sizing-3/",
+              "title": "CSS Box Sizing Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-sizing-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -5693,9 +5731,9 @@
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-images-4/",
-              "title": "CSS Images Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-images-4/"
+              "url": "https://www.w3.org/TR/css-variables-1/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
               "url": "https://www.w3.org/TR/css-round-display-1/",
@@ -5706,6 +5744,16 @@
               "url": "https://www.w3.org/TR/css-transitions-1/",
               "title": "CSS Transitions",
               "crawled": "https://drafts.csswg.org/css-transitions/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-will-change-1/",
+              "title": "CSS Will Change Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-will-change/"
             },
             {
               "url": "https://www.w3.org/TR/mixed-content/",
@@ -5806,7 +5854,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://www.w3.org/TR/css3-transitions/#animtype-color"
           ],
           "evolvingLinks": [],
@@ -5958,7 +6005,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#video",
             "https://html.spec.whatwg.org/#the-picture-element",
@@ -6185,14 +6231,12 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css2/#line-box",
-            "https://www.w3.org/TR/css-writing-modes-3/#dominant-baseline",
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/css-grid-1/#collapsed-gutter"
+            "https://drafts.csswg.org/css-grid-1/#collapsed-gutter",
+            "https://drafts.csswg.org/css-writing-modes-3/#dominant-baseline"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/css-writing-modes-3/#start",
-            "https://www.w3.org/TR/css-writing-modes-3/#end",
             "https://drafts.csswg.org/selectors-3/#first-formatted-line0"
           ],
           "evolvingLinks": [],
@@ -7074,7 +7118,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/css3-mediaqueries/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/web-animations/",
@@ -7156,8 +7199,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#color0",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#quirks-mode",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7207,7 +7248,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/mediaqueries/",
           "https://www.w3.org/TR/css-conditional/",
           "https://www.w3.org/TR/css-cascade/",
@@ -7272,7 +7312,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#cors-same-origin",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7330,7 +7369,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/mediaqueries/",
           "https://www.w3.org/TR/css-conditional/",
           "https://www.w3.org/TR/css-cascade/",
@@ -7715,7 +7753,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-p-element",
@@ -7917,8 +7954,9 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-color-4/#css-system-colors",
+            "https://drafts.csswg.org/css-color-4/#css-system-colors",
             "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://www.w3.org/TR/css-color-4/#css-system-colors",
             "https://drafts.csswg.org/css2/#canvas"
           ],
           "notDfn": [],
@@ -7979,8 +8017,7 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://infra.spec.whatwg.org/",
-          "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css3-conditional/"
+          "https://www.w3.org/TR/css-pseudo/"
         ],
         "inconsistentRef": [
           {
@@ -8004,9 +8041,19 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds and Borders Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -8029,6 +8076,11 @@
               "crawled": "https://drafts.csswg.org/css-color-5/"
             },
             {
+              "url": "https://drafts.csswg.org/css-extensions-1/",
+              "title": "CSS Extensions",
+              "crawled": "https://drafts.csswg.org/css-extensions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
@@ -8049,14 +8101,34 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-logical-1/",
+              "title": "CSS Logical Properties and Values Level 1",
+              "crawled": "https://drafts.csswg.org/css-logical-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-nesting-1/",
               "title": "CSS Nesting Module",
               "crawled": "https://drafts.csswg.org/css-nesting/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -8069,6 +8141,11 @@
               "crawled": "https://drafts.csswg.org/css-scrollbars/"
             },
             {
+              "url": "https://www.w3.org/TR/css-tables-3/",
+              "title": "CSS Table Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-tables-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-text-decor-3/",
               "title": "CSS Text Decoration Module Level 3",
               "crawled": "https://drafts.csswg.org/css-text-decor-3/"
@@ -8077,6 +8154,11 @@
               "url": "https://www.w3.org/TR/css-text-decor-4/",
               "title": "CSS Text Decoration Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-decor-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transforms-2/",
+              "title": "CSS Transforms Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-transforms-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -8136,6 +8218,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/compositing-1/",
+              "title": "Compositing and Blending Level 1",
+              "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
@@ -8156,14 +8243,24 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+              "url": "https://www.w3.org/TR/css-lists-3/",
+              "title": "CSS Lists and Counters Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-lists-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "title": "CSS Transitions Level 2",
+              "crawled": "https://drafts.csswg.org/css-transitions-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-will-change-1/",
+              "title": "CSS Will Change Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-will-change/"
             },
             {
               "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -8394,9 +8491,19 @@
               "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-variables-1/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Device Adaptation Module Level 1",
               "crawled": "https://drafts.csswg.org/css-device-adapt/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-env-1/",
+              "title": "CSS Environment Variables Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-env-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -8412,6 +8519,11 @@
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-round-display-1/",
+              "title": "CSS Round Display Level 1",
+              "crawled": "https://drafts.csswg.org/css-round-display/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -8435,6 +8547,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-color-adjust-1/",
+              "title": "CSS Color Adjustment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
@@ -8503,7 +8620,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/css-values-3/"
         ],
         "inconsistentRef": [],
@@ -8742,12 +8858,12 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/css2/#stacking-context",
             "https://drafts.csswg.org/css-break-3/#monolithic",
+            "https://drafts.csswg.org/css2/#stacking-context",
             "https://w3c.github.io/IntersectionObserver/#intersectionobserver-intersection-root"
           ],
           "notDfn": [
-            "https://www.w3.org/TR/css-ui-3/#propdef-text-overflow"
+            "https://drafts.csswg.org/css-ui-3/#propdef-text-overflow"
           ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-html-element",
@@ -8801,7 +8917,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
@@ -8929,12 +9044,11 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-text-3/#grapheme-cluster"
+            "https://drafts.csswg.org/css-text-3/#grapheme-cluster"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-details-element",
-            "https://www.w3.org/TR/css-values-3/#css-identifier"
+            "https://html.spec.whatwg.org/#the-details-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9210,7 +9324,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css3-syntax/",
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/css3-mediaqueries/",
           "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/"
         ],
@@ -10017,18 +10130,7 @@
           "normative": [],
           "informative": []
         },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-values-3/#css-identifier",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -10305,8 +10407,6 @@
             "https://www.w3.org/TR/css3-break/#end-block"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/css-writing-modes-3/#end",
-            "https://www.w3.org/TR/css-writing-modes-3/#start",
             "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
@@ -11827,9 +11927,7 @@
             "https://www.w3.org/TR/css3-break/#end-block"
           ],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#attr-tabindex",
-            "https://www.w3.org/TR/css-writing-modes-3/#start",
-            "https://www.w3.org/TR/css-writing-modes-3/#end"
+            "https://html.spec.whatwg.org/#attr-tabindex"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -12113,7 +12211,6 @@
             "https://www.w3.org/TR/css3-background/#the-border-image-slice"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#concept-imagebitmap-good",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#attr-img-src",
@@ -12262,7 +12359,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#the-picture-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#canvas",
@@ -12465,8 +12561,8 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-break-3/#monolithic",
-            "https://www.w3.org/TR/css-text-3/#hang",
-            "https://www.w3.org/TR/css-text-3/#word-separator",
+            "https://drafts.csswg.org/css-text-3/#hang",
+            "https://drafts.csswg.org/css-text-3/#word-separator",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
@@ -12804,7 +12900,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#color0",
             "https://html.spec.whatwg.org/#the-li-element",
             "https://html.spec.whatwg.org/#the-ul-element",
             "https://html.spec.whatwg.org/#the-ol-element",
@@ -12929,11 +13024,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-writing-modes-3/#start",
-            "https://www.w3.org/TR/css-writing-modes-3/#end",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -13095,14 +13186,13 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-backgrounds-3/#background-painting-area",
-            "https://www.w3.org/TR/css-backgrounds-3/#background-positioning-area",
-            "https://www.w3.org/TR/css-backgrounds-3/#border-image-area",
+            "https://drafts.csswg.org/css-backgrounds-3/#background-painting-area",
+            "https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area",
+            "https://drafts.csswg.org/css-backgrounds-3/#border-image-area",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#opacity",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage"
           ],
           "evolvingLinks": [],
@@ -13346,9 +13436,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -13552,7 +13640,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/css-cascade-4/"
         ],
         "inconsistentRef": [],
@@ -13631,10 +13718,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
-          "https://www.w3.org/TR/css-color-4/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -13942,9 +14026,7 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#browsing-context-container",
             "https://html.spec.whatwg.org/#being-rendered",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
-            "https://drafts.csswg.org/css-color-3/#alphavalue-def",
-            "https://drafts.csswg.org/css-color-3/#color0"
+            "https://drafts.csswg.org/css-color-3/#alphavalue-def"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -14220,8 +14302,8 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-transforms-2/#3d-rendering-context",
-            "https://www.w3.org/TR/css-backgrounds-3/#background-positioning-area",
-            "https://www.w3.org/TR/css-backgrounds-3/#outer-box-shadow",
+            "https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area",
+            "https://drafts.csswg.org/css-backgrounds-3/#outer-box-shadow",
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://drafts.csswg.org/cssom-view-1/#concept-instant-scroll",
             "https://drafts.csswg.org/cssom-view-1/#concept-smooth-scroll"
@@ -14700,7 +14782,7 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-backgrounds-3/#background-positioning-area",
+            "https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [
@@ -14902,8 +14984,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/web-animations/",
-          "https://www.w3.org/TR/css-backgrounds-3/"
+          "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
@@ -15156,8 +15237,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-cascade-4/",
-          "https://www.w3.org/TR/css3-conditional/"
+          "https://www.w3.org/TR/css-cascade-4/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -15187,8 +15267,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#concept-document-window",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
+            "https://html.spec.whatwg.org/#concept-document-window"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -15392,11 +15471,10 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-text-3/#word-separator"
+            "https://drafts.csswg.org/css-text-3/#word-separator"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#opacity",
             "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
@@ -16706,11 +16784,6 @@
               "crawled": "https://drafts.csswg.org/css-display/"
             },
             {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-content-3/",
               "title": "CSS Generated Content Module Level 3",
               "crawled": "https://drafts.csswg.org/css-content-3/"
@@ -16882,7 +16955,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/css3-values/",
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/selectors-api/"
         ],
         "inconsistentRef": [],
@@ -17156,8 +17228,7 @@
             "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#link-type-stylesheet",
-            "https://html.spec.whatwg.org/#attr-img-sizes",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
+            "https://html.spec.whatwg.org/#attr-img-sizes"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -17271,7 +17342,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/css-transforms/#grouping-property-values",
-            "https://drafts.csswg.org/css-color-3/#opacity",
             "https://html.spec.whatwg.org/#tables-2"
           ],
           "evolvingLinks": [],
@@ -17565,8 +17635,8 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-text-3/#word-separator",
             "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://www.w3.org/TR/css-text-3/#word-separator",
             "https://www.w3.org/TR/css-text/#word-separator"
           ],
           "notDfn": [
@@ -17574,8 +17644,7 @@
             "https://www.w3.org/TR/css-ruby-1/#autohide"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#color0",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
+            "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17688,6 +17757,16 @@
               "crawled": "https://drafts.csswg.org/css-logical-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-size-adjust-1/",
+              "title": "CSS Mobile Text Size Adjustment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -17741,6 +17820,11 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -17875,7 +17959,6 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/css-text/"
         ],
         "inconsistentRef": [],
@@ -17941,9 +18024,9 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://www.w3.org/TR/css-text-3/#word-separator",
-            "https://www.w3.org/TR/css-text-3/#other-space-separators"
+            "https://drafts.csswg.org/css-text-3/#word-separator",
+            "https://drafts.csswg.org/css-text-3/#other-space-separators",
+            "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -18306,7 +18389,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#opacity",
             "https://html.spec.whatwg.org/#the-a-element"
           ],
           "evolvingLinks": [],
@@ -18381,6 +18463,11 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
+              "title": "CSS Animation Worklet API",
+              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -18429,6 +18516,11 @@
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -18580,8 +18672,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#being-rendered",
-            "https://drafts.csswg.org/css-color-3/#opacity"
+            "https://html.spec.whatwg.org/#being-rendered"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18703,8 +18794,6 @@
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
-            "https://drafts.csswg.org/css-color-3/#opacity",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://drafts.csswg.org/css-fonts-3/#absolute-size-value",
             "https://drafts.csswg.org/css-fonts-3/#relative-size-value"
@@ -18867,6 +18956,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-6/",
+              "title": "CSS Cascading and Inheritance Level 6",
+              "crawled": "https://drafts.csswg.org/css-cascade-6/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
@@ -19246,8 +19340,6 @@
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
-            "https://drafts.csswg.org/css-color-3/#opacity",
             "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
@@ -19962,7 +20054,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://www.w3.org/TR/css-values-4/#acknowledgements"
           ],
           "evolvingLinks": [],
@@ -20053,9 +20144,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#opacity"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -20107,6 +20196,7 @@
           "https://www.w3.org/TR/css-text/",
           "https://www.w3.org/TR/css-flexbox/",
           "https://www.w3.org/TR/css3-multicol/",
+          "https://www.w3.org/TR/css-contain-1/",
           "https://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/",
           "https://www.w3.org/TR/css-writing-modes-3/"
         ],
@@ -23823,11 +23913,6 @@
               "crawled": "https://wicg.github.io/credentiallessness/"
             },
             {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -24081,11 +24166,6 @@
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
-            },
-            {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -24782,13 +24862,11 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#attr-img-crossorigin",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://drafts.csswg.org/css-color-3/#opacity",
-            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
-            "https://drafts.csswg.org/css-color-3/#color0",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://www.w3.org/TR/css-transitions-1/#animtype-length",
             "https://www.w3.org/TR/css-transitions-1/#animtype-number",
-            "https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list"
+            "https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list",
+            "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -40159,7 +40237,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/security-privacy-questionnaire/"
         ],
         "inconsistentRef": [],
@@ -40261,7 +40338,7 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-values-3/#relative-length",
+            "https://drafts.csswg.org/css-values-3/#relative-length",
             "https://drafts.csswg.org/cssom-view-1/#page-zoom",
             "https://drafts.csswg.org/cssom-view-1/#pinch-zoom"
           ],
@@ -40309,9 +40386,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -40479,7 +40554,7 @@
             "https://drafts.csswg.org/css-values-4/#relative-length",
             "https://drafts.csswg.org/cssom-view-1/#page-zoom",
             "https://drafts.csswg.org/cssom-view-1/#pinch-zoom",
-            "https://www.w3.org/TR/css-color-4/#css-system-colors"
+            "https://drafts.csswg.org/css-color-4/#css-system-colors"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -46298,7 +46373,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46363,7 +46438,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46401,7 +46476,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46495,7 +46570,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46574,7 +46649,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46638,7 +46713,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46676,7 +46751,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46737,7 +46812,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46793,7 +46868,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "12 February 2022",
+      "date": "13 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -48512,7 +48587,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-current-time",
             "https://html.spec.whatwg.org/#concept-document-windowconcept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
