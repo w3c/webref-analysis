@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-14T00:47:00.480Z",
+  "date": "2022-02-14T06:39:50.137Z",
   "stats": {
     "crawled": 462,
-    "errors": 1,
+    "errors": 9,
     "studied": 462
   },
   "results": [
@@ -474,13 +474,7 @@
               "crawled": "https://w3c.github.io/orientation-sensor/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -844,13 +838,7 @@
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -1602,13 +1590,7 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -1770,13 +1752,7 @@
               "crawled": "https://wicg.github.io/periodic-background-sync/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -6680,6 +6656,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 303)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6992,6 +6969,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 304)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16332,6 +16310,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 301)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16406,6 +16385,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 302)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16745,6 +16725,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 305)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16936,6 +16917,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 307)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17258,6 +17240,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 308)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17674,6 +17657,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 309)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22686,11 +22670,6 @@
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -22846,6 +22825,11 @@
               "url": "https://wicg.github.io/entries-api/",
               "title": "File and Directory Entries API",
               "crawled": "https://wicg.github.io/entries-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -25573,6 +25557,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://w3c.github.io/permissions/#dom-permissionname",
+            "https://w3c.github.io/permissions/#dom-permissionname-geolocation",
             "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://html.spec.whatwg.org/#in-parallel"
           ],
@@ -25979,13 +25965,7 @@
               "crawled": "https://w3c.github.io/orientation-sensor/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -39237,13 +39217,7 @@
               "crawled": "https://w3c.github.io/orientation-sensor/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -39770,11 +39744,6 @@
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://wicg.github.io/prefer-current-tab/",
               "title": "preferCurrentTab",
               "crawled": "https://wicg.github.io/prefer-current-tab/"
@@ -39898,7 +39867,10 @@
             "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#dom-localstorage",
             "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#concept-document-permissions-policy"
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
+            "https://www.w3.org/TR/permissions/#dom-permissionname",
+            "https://www.w3.org/TR/permissions/#dom-permissionname-camera",
+            "https://www.w3.org/TR/permissions/#dom-permissionname-microphone"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -40898,6 +40870,7 @@
             "https://html.spec.whatwg.org/#dom-imagebitmap-height",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://w3c.github.io/permissions/#request-permission-to-use",
+            "https://w3c.github.io/permissions/#dom-permissionname-camera",
             "https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom",
             "https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid"
           ],
@@ -42035,7 +42008,8 @@
             "https://html.spec.whatwg.org/#report-the-exception",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://html.spec.whatwg.org/#structureddeserialize"
+            "https://html.spec.whatwg.org/#structureddeserialize",
+            "https://w3c.github.io/permissions/#dom-permissionname-notifications"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -43227,7 +43201,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "10 February 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -43463,9 +43437,7 @@
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#concept-realm-settings-object",
             "https://html.spec.whatwg.org/#responsible-event-loop",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -48314,11 +48286,6 @@
               "url": "https://w3c.github.io/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
-            },
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
             }
           ]
         },
@@ -48384,13 +48351,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "xrefs": {
@@ -49993,11 +49954,6 @@
               "crawled": "https://infra.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://w3c.github.io/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://w3c.github.io/web-locks/"
@@ -50020,7 +49976,8 @@
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#queue-a-task"
+            "https://html.spec.whatwg.org/#queue-a-task",
+            "https://w3c.github.io/permissions/#dom-permissionname-persistent-storage"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54234,11 +54191,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -54327,11 +54279,6 @@
           "normative": [],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
-            {
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
@@ -54370,7 +54317,8 @@
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#navigator",
-            "https://w3c.github.io/permissions/#dfn-permission-state"
+            "https://w3c.github.io/permissions/#dfn-permission-state",
+            "https://w3c.github.io/permissions/#dom-permissionname-bluetooth"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -55553,13 +55501,7 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [],
@@ -55690,11 +55632,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
             }
           ]
         },
@@ -63754,13 +63691,7 @@
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [

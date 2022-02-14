@@ -245,7 +245,6 @@ Normative references to this spec from:
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
-- [Permissions](https://w3c.github.io/permissions/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Push API](https://w3c.github.io/push-api/)
@@ -280,6 +279,7 @@ Informative references to this spec from:
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
+- [Permissions](https://w3c.github.io/permissions/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 - [URL Standard](https://url.spec.whatwg.org/)
@@ -3800,9 +3800,7 @@ Informative references to this spec from:
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ## Browser Testing and Tools Working Group {#browser_testing_and_tools_working_group}
@@ -5042,7 +5040,7 @@ Informative references to this spec from:
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 
 
-### CSS Box Sizing Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Box Sizing Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -5055,33 +5053,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
-     * [`https://www.w3.org/TR/css2/`](https://www.w3.org/TR/css2/)
-     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- External links that neither target definitions nor headings:
-     * [`https://www.w3.org/TR/css-ui-3/#box-sizing`](https://www.w3.org/TR/css-ui-3/#box-sizing)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
-     * [`https://html.spec.whatwg.org/#concept-textarea-raw-value`](https://html.spec.whatwg.org/#concept-textarea-raw-value)
-     * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#concept-fe-value`](https://html.spec.whatwg.org/#concept-fe-value)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#the-select-element`](https://html.spec.whatwg.org/#the-select-element)
-     * [`https://html.spec.whatwg.org/#replaced-elements`](https://html.spec.whatwg.org/#replaced-elements)
-     * [`https://html.spec.whatwg.org/#attr-input-type`](https://html.spec.whatwg.org/#attr-input-type)
-     * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
-     * [`https://html.spec.whatwg.org/#the-meter-element`](https://html.spec.whatwg.org/#the-meter-element)
-     * [`https://html.spec.whatwg.org/#the-marquee-element`](https://html.spec.whatwg.org/#the-marquee-element)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 303)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5137,7 +5117,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
 
-### CSS Box Sizing Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Box Sizing Module Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -5150,20 +5130,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/)
-     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- External links that neither target definitions nor headings:
-     * [`https://www.w3.org/TR/css-flexbox-1/#algo-main-item`](https://www.w3.org/TR/css-flexbox-1/#algo-main-item)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 304)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8420,7 +8395,7 @@ Informative references to this spec from:
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 
 
-### CSS Shadow Parts {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Shadow Parts {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8433,10 +8408,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- External links to private terms:
-     * [`https://drafts.csswg.org/selectors-4/#structural-pseudo-classes`](https://drafts.csswg.org/selectors-4/#structural-pseudo-classes)
-- Broken external links:
-     * [`https://www.w3.org/TR/selectors-4/#live-profile`](https://www.w3.org/TR/selectors-4/#live-profile)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 301)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8450,7 +8430,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 
 
-### CSS Shapes Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Shapes Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8463,29 +8443,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-     * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/), related reference "CSS3-EXCLUSIONS" uses URL [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
-     * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/), related reference "CSS3-EXCLUSIONS" uses URL [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://www.w3.org/TR/css3-transitions/#animatable-types`](https://www.w3.org/TR/css3-transitions/#animatable-types)
-     * [`https://www.w3.org/TR/css3-transitions/#animtype-simple-list`](https://www.w3.org/TR/css3-transitions/#animtype-simple-list)
-     * [`https://www.w3.org/TR/css3-transitions/#animtype-lpcalc`](https://www.w3.org/TR/css3-transitions/#animtype-lpcalc)
-     * [`https://www.w3.org/TR/css-box-3/#the-css-box-model`](https://www.w3.org/TR/css-box-3/#the-css-box-model)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/)
-     * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 302)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8600,7 +8566,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Speech Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Speech Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8613,19 +8579,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 305)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8675,7 +8637,7 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 
 
-### CSS Syntax Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Syntax Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8688,19 +8650,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
-     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
-     * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
-     * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
-     * [`https://html.spec.whatwg.org/#link-type-stylesheet`](https://html.spec.whatwg.org/#link-type-stylesheet)
-     * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 307)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8762,7 +8720,7 @@ Informative references to this spec from:
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
 
 
-### CSS Table Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Table Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8775,21 +8733,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://drafts.csswg.org/css-transforms/#grouping-property-values`](https://drafts.csswg.org/css-transforms/#grouping-property-values)
-     * [`https://html.spec.whatwg.org/#tables-2`](https://html.spec.whatwg.org/#tables-2)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 308)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8923,7 +8875,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### CSS Text Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Text Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8936,20 +8888,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://www.w3.org/TR/css-fonts-3/#feature-precedence`](https://www.w3.org/TR/css-fonts-3/#feature-precedence)
-     * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
-     * [`https://html.spec.whatwg.org/#newlines`](https://html.spec.whatwg.org/#newlines)
-     * [`https://html.spec.whatwg.org/#preprocessing-the-input-stream`](https://html.spec.whatwg.org/#preprocessing-the-input-stream)
-     * [`https://html.spec.whatwg.org/#the-wbr-element`](https://html.spec.whatwg.org/#the-wbr-element)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 309)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10616,9 +10563,7 @@ Normative references to this spec from:
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ### Ambient Light Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -10650,9 +10595,7 @@ Normative references to this spec from:
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ### Battery Status API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -10917,6 +10860,8 @@ Informative references to this spec from:
      * [`https://w3c.github.io/sensors/#get-value-from-latest-reading`](https://w3c.github.io/sensors/#get-value-from-latest-reading)
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
 - Broken external links:
+     * [`https://w3c.github.io/permissions/#dom-permissionname`](https://w3c.github.io/permissions/#dom-permissionname)
+     * [`https://w3c.github.io/permissions/#dom-permissionname-geolocation`](https://w3c.github.io/permissions/#dom-permissionname-geolocation)
      * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
 
@@ -10958,9 +10903,7 @@ Normative references to this spec from:
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ### HTML Media Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -11025,9 +10968,7 @@ Normative references to this spec from:
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ### Orientation Sensor {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -11146,9 +11087,7 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -11532,9 +11471,7 @@ Normative references to this spec from:
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ### WebXR DOM Overlays Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -14339,7 +14276,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 10 February 2022
+- Crawled version: 14 February 2022
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -14365,9 +14302,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#concept-realm-settings-object`](https://html.spec.whatwg.org/#concept-realm-settings-object)
      * [`https://html.spec.whatwg.org/#responsible-event-loop`](https://html.spec.whatwg.org/#responsible-event-loop)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
-     * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -16132,6 +16067,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://w3c.github.io/permissions/#dfn-permission-state`](https://w3c.github.io/permissions/#dfn-permission-state)
+     * [`https://w3c.github.io/permissions/#dom-permissionname-bluetooth`](https://w3c.github.io/permissions/#dom-permissionname-bluetooth)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16139,7 +16075,6 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
-- [Permissions](https://w3c.github.io/permissions/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web Serial API](https://wicg.github.io/serial/)
 
@@ -16454,7 +16389,6 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Permissions](https://w3c.github.io/permissions/)
 
 
 ## Web Payments Working Group {#web_payments_working_group}
@@ -17917,9 +17851,7 @@ Normative references to this spec from:
 
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ### Badging API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -20216,7 +20148,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Permissions](https://w3c.github.io/permissions/)
 - [Push API](https://w3c.github.io/push-api/)
 
 
@@ -20632,9 +20563,7 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [Permissions](https://w3c.github.io/permissions/)
+No informative reference to this spec from other specs.
 
 
 ### IceTransport Extensions for WebRTC {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -20802,6 +20731,9 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://www.w3.org/TR/permissions/#dom-permissionname`](https://www.w3.org/TR/permissions/#dom-permissionname)
+     * [`https://www.w3.org/TR/permissions/#dom-permissionname-camera`](https://www.w3.org/TR/permissions/#dom-permissionname-camera)
+     * [`https://www.w3.org/TR/permissions/#dom-permissionname-microphone`](https://www.w3.org/TR/permissions/#dom-permissionname-microphone)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20818,7 +20750,6 @@ Normative references to this spec from:
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
-- [Permissions](https://w3c.github.io/permissions/)
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 - [Region Capture](https://w3c.github.io/mediacapture-region/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
@@ -20973,6 +20904,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-imagebitmap-height`](https://html.spec.whatwg.org/#dom-imagebitmap-height)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://w3c.github.io/permissions/#request-permission-to-use`](https://w3c.github.io/permissions/#request-permission-to-use)
+     * [`https://w3c.github.io/permissions/#dom-permissionname-camera`](https://w3c.github.io/permissions/#dom-permissionname-camera)
      * [`https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom`](https://w3c.github.io/permissions/#dom-cameradevicepermissiondescriptor-pantiltzoom)
      * [`https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid`](https://w3c.github.io/permissions/#dom-devicepermissiondescriptor-deviceid)
 
@@ -21169,7 +21101,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
-- [Permissions](https://w3c.github.io/permissions/)
 
 
 ### WebRTC 1.0: Real-Time Communication Between Browsers {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -23168,6 +23099,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
+     * [`https://w3c.github.io/permissions/#dom-permissionname-notifications`](https://w3c.github.io/permissions/#dom-permissionname-notifications)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -23255,6 +23187,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
+     * [`https://w3c.github.io/permissions/#dom-permissionname-persistent-storage`](https://w3c.github.io/permissions/#dom-permissionname-persistent-storage)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -23269,7 +23202,6 @@ Informative references to this spec from:
 - [Attribution Reporting](https://wicg.github.io/conversion-measurement-api/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
-- [Permissions](https://w3c.github.io/permissions/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
 
 
