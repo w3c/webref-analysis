@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-14T12:42:52.830Z",
+  "date": "2022-02-14T18:42:34.743Z",
   "stats": {
-    "crawled": 462,
-    "errors": 1,
-    "studied": 462
+    "crawled": 461,
+    "errors": 0,
+    "studied": 461
   },
   "results": [
     {
@@ -1932,11 +1932,11 @@
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#same-origin-domain",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#current-global-object",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#queue-a-global-task"
           ],
           "evolvingLinks": [],
@@ -2813,7 +2813,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#event-loop",
             "https://html.spec.whatwg.org/#responsible-document",
@@ -10919,11 +10918,6 @@
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/RangeRequest/",
-              "title": "Incremental Font Transfer via Range Request",
-              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             }
           ],
           "informative": [
@@ -20950,7 +20944,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#event-handlers",
@@ -20958,6 +20951,7 @@
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts",
             "https://html.spec.whatwg.org/#active-document",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#dom-navigator"
           ],
           "evolvingLinks": [],
@@ -22340,7 +22334,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://webidl.spec.whatwg.org/#idl-Exposed",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#task-queue",
             "https://html.spec.whatwg.org/#user-interaction-task-source",
             "https://html.spec.whatwg.org/#event-loop",
@@ -22911,7 +22904,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
@@ -23602,7 +23594,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#valid-simple-colour",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#in-parallel",
@@ -25166,7 +25157,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#concept-relevant-global",
@@ -25176,6 +25166,7 @@
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#windoweventhandlers",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -25465,7 +25456,6 @@
             "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#fully-active",
@@ -26903,7 +26893,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "11 February 2022",
+      "date": "14 February 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -33980,11 +33970,6 @@
               "crawled": "https://wicg.github.io/ink-enhancement/"
             },
             {
-              "url": "https://wicg.github.io/input-device-capabilities/",
-              "title": "Input Device Capabilities",
-              "crawled": "https://wicg.github.io/input-device-capabilities/"
-            },
-            {
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
               "crawled": "https://w3c.github.io/input-events/"
@@ -34110,7 +34095,7 @@
               "crawled": "https://w3c.github.io/mediacapture-record/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
@@ -35869,11 +35854,6 @@
               "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
-              "url": "https://www.w3.org/TR/RangeRequest/",
-              "title": "Incremental Font Transfer via Range Request",
-              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
-            },
-            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
@@ -35977,11 +35957,6 @@
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/RangeRequest/",
-              "title": "Incremental Font Transfer via Range Request",
-              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             }
           ],
           "informative": [
@@ -36057,11 +36032,6 @@
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/RangeRequest/",
-              "title": "Incremental Font Transfer via Range Request",
-              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -36277,7 +36247,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
@@ -36805,63 +36774,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Incremental Font Transfer via Range Request",
-      "shortname": "RangeRequest",
-      "date": "18 January 2022",
-      "url": "https://www.w3.org/TR/RangeRequest/",
-      "release": {
-        "url": "https://www.w3.org/TR/RangeRequest/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/IFT/RangeRequest.html",
-        "sourcePath": "RangeRequest.html",
-        "repository": "https://github.com/w3c/IFT",
-        "filename": "RangeRequest.html"
-      },
-      "crawled": "https://w3c.github.io/IFT/RangeRequest.html",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Fonts Working Group",
-          "url": "https://www.w3.org/Fonts/WG/"
-        }
-      ],
-      "report": {
-        "error": "Error: Loading https://w3c.github.io/IFT/RangeRequest.html triggered HTTP status 404 Error: Loading https://w3c.github.io/IFT/RangeRequest.html triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 394)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "https://w3c.github.io/IFT/"
-        ],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://w3c.github.io/IFT/#negotiating-transfer-type"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -37432,7 +37344,7 @@
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
@@ -37896,17 +37808,7 @@
           "normative": [],
           "informative": []
         },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#window"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -39439,7 +39341,6 @@
             "https://html.spec.whatwg.org/#flow-content-2",
             "https://html.spec.whatwg.org/#phrasing-content-2",
             "https://html.spec.whatwg.org/#webappapis",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#globaleventhandlers",
             "https://html.spec.whatwg.org/#documentandelementeventhandlers",
             "https://html.spec.whatwg.org/#htmlorsvgelement",
@@ -39722,7 +39623,7 @@
               "crawled": "https://w3c.github.io/mst-content-hint/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
@@ -40013,8 +39914,7 @@
             "https://html.spec.whatwg.org/#dom-media-src",
             "https://html.spec.whatwg.org/#dom-media-srcobject",
             "https://html.spec.whatwg.org/#dom-media-playbackrate",
-            "https://html.spec.whatwg.org/#concept-canvas-origin-clean",
-            "https://html.spec.whatwg.org/#window"
+            "https://html.spec.whatwg.org/#concept-canvas-origin-clean"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -40137,8 +40037,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#htmlvideoelement",
-            "https://html.spec.whatwg.org/#media-element-load-algorithm",
-            "https://html.spec.whatwg.org/#window"
+            "https://html.spec.whatwg.org/#media-element-load-algorithm"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41016,7 +40915,11 @@
       "title": "MediaStreamTrack Insertable Media Processing using Streams",
       "shortname": "mediacapture-transform",
       "date": "24 January 2022",
-      "url": "https://w3c.github.io/mediacapture-transform/",
+      "url": "https://www.w3.org/TR/mediacapture-transform/",
+      "release": {
+        "url": "https://www.w3.org/TR/mediacapture-transform/",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-transform/",
         "repository": "https://github.com/w3c/mediacapture-transform",
@@ -42714,8 +42617,6 @@
             "https://www.w3.org/TR/payment-request/#canmakepayment()-method",
             "https://www.w3.org/TR/payment-request/#show()-method",
             "https://html.spec.whatwg.org/#user-interaction-task-source",
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens",
             "https://html.spec.whatwg.org/#attr-link-sizes",
@@ -43025,7 +42926,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
@@ -43042,6 +42942,7 @@
             "https://html.spec.whatwg.org/#user-interaction-task-source",
             "https://html.spec.whatwg.org/#the-details-element",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#secure-context",
             "https://html.spec.whatwg.org/#concept-origin"
           ],
@@ -43922,7 +43823,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#secure-context",
             "https://html.spec.whatwg.org/#event-loop",
@@ -44410,7 +44310,6 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#active-sandboxing-flag-set",
@@ -44528,7 +44427,7 @@
     {
       "title": "Priority Hints",
       "shortname": "priority-hints",
-      "date": "4 February 2022",
+      "date": "14 February 2022",
       "url": "https://wicg.github.io/priority-hints/",
       "nightly": {
         "url": "https://wicg.github.io/priority-hints/",
@@ -44576,6 +44475,9 @@
             "https://html.spec.whatwg.org/#missing-value-default",
             "https://html.spec.whatwg.org/#htmlimageelement",
             "https://html.spec.whatwg.org/#cereactions",
+            "https://html.spec.whatwg.org/#the-picture-element",
+            "https://html.spec.whatwg.org/#the-source-element",
+            "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#htmllinkelement",
             "https://html.spec.whatwg.org/#htmlscriptelement",
             "https://html.spec.whatwg.org/#htmliframeelement",
@@ -45102,8 +45004,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#network",
             "https://html.spec.whatwg.org/#secure-context",
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
@@ -45437,8 +45337,7 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#the-iframe-element",
-            "https://html.spec.whatwg.org/#htmlelement",
-            "https://html.spec.whatwg.org/#window"
+            "https://html.spec.whatwg.org/#htmlelement"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -45615,7 +45514,6 @@
             "https://html.spec.whatwg.org/#media-element",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#media-element-event-task-source",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#media-resource",
             "https://html.spec.whatwg.org/#dom-track-srclang",
@@ -46206,8 +46104,6 @@
             "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#link-type-stylesheet",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-script",
             "https://html.spec.whatwg.org/#module-script",
@@ -48257,7 +48153,7 @@
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             }
@@ -48337,7 +48233,6 @@
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#concept-task",
             "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#concept-document-bc",
@@ -48349,6 +48244,7 @@
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#page-visibility-change-steps"
           ],
@@ -48977,8 +48873,8 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#editing-host",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#cereactions",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#globaleventhandlers",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
@@ -49370,17 +49266,15 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#workerglobalscope",
+            "https://www.w3.org/TR/resource-timing-2/#performanceresourcetiming",
+            "https://www.w3.org/TR/resource-timing-2/#step-create-object",
+            "https://www.w3.org/TR/resource-timing-2/#dfn-current-document",
+            "https://www.w3.org/TR/navigation-timing-2/#step-create-object",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#secure-context",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#non-secure-context",
-            "https://html.spec.whatwg.org/#same-origin",
-            "https://www.w3.org/TR/resource-timing-2/#performanceresourcetiming",
-            "https://www.w3.org/TR/resource-timing-2/#step-create-object",
-            "https://www.w3.org/TR/resource-timing-2/#dfn-current-document",
-            "https://www.w3.org/TR/navigation-timing-2/#step-create-object"
+            "https://html.spec.whatwg.org/#same-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -50036,7 +49930,7 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
@@ -51031,11 +50925,11 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#sandboxed-orientation-lock-browsing-context-flag",
@@ -52983,9 +52877,9 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#sticky-activation",
             "https://html.spec.whatwg.org/#the-textarea-element",
             "https://html.spec.whatwg.org/#editing-host",
@@ -53804,7 +53698,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "28 September 2021",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -53952,8 +53846,8 @@
             "https://html.spec.whatwg.org/#clean-up-after-running-script",
             "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
-            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference",
-            "https://w3c.github.io/hr-time/#sec-privacy-security"
+            "https://webidl.spec.whatwg.org/#dfn-present",
+            "https://heycam.github.io/webidl/#dfn-get-buffer-source-reference"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -54881,7 +54775,7 @@
               "crawled": "https://w3c.github.io/mst-content-hint/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
@@ -55109,6 +55003,11 @@
               "url": "https://drafts.csswg.org/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webaudio/",
+              "title": "Web Audio API",
+              "crawled": "https://webaudio.github.io/web-audio-api/"
             },
             {
               "url": "https://www.w3.org/TR/webauthn-3/",
@@ -55471,7 +55370,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#audio",
             "https://html.spec.whatwg.org/#allowed-to-use",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handlers"
           ],
@@ -55607,7 +55505,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#relevant-settings-object",
@@ -56259,7 +56156,7 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             }
@@ -62749,7 +62646,7 @@
               "crawled": "https://w3c.github.io/mst-content-hint/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
@@ -63001,7 +62898,7 @@
           "normative": [],
           "informative": [
             {
-              "url": "https://w3c.github.io/mediacapture-transform/",
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             }
@@ -64264,7 +64161,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#dom-window"
           ],
@@ -64318,11 +64214,6 @@
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/RangeRequest/",
-              "title": "Incremental Font Transfer via Range Request",
-              "crawled": "https://w3c.github.io/IFT/RangeRequest.html"
             }
           ],
           "informative": [
