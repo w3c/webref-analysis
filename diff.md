@@ -1,13 +1,13 @@
-% Diff between report from "February 15, 2022" and reference report from "February 14, 2022"
+% Diff between report from "February 15, 2022" and reference report from "February 15, 2022"
 % Strudy
 % February 15, 2022
 
-## CSS Conditional Rules Module Level 4
+## WebXR Depth Sensing Module
 
-- Initial URL: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
+- Initial URL: [https://www.w3.org/TR/webxr-depth-sensing-1/](https://www.w3.org/TR/webxr-depth-sensing-1/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
-- Missing references for links: *INS* https://www.w3.org/TR/css3-conditional/ / *DEL* https://www.w3.org/TR/css-values-3/
+- Editor's Draft: [https://immersive-web.github.io/depth-sensing/](https://immersive-web.github.io/depth-sensing/)
+- Inconsistent references for links: *INS* https://www.w3.org/TR/webxrlayers-1/
 
 
 
