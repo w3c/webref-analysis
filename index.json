@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-15T06:38:47.924Z",
+  "date": "2022-02-15T12:40:59.126Z",
   "stats": {
     "crawled": 461,
-    "errors": 0,
+    "errors": 1,
     "studied": 461
   },
   "results": [
@@ -538,7 +538,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "20 January 2022",
+      "date": "15 February 2022",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -641,7 +641,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "20 January 2022",
+      "date": "15 February 2022",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -3678,7 +3678,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "10 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -4843,6 +4843,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39821,14 +39822,14 @@
           ],
           "notDfn": [
             "https://www.w3.org/TR/mediacapture-streams/#def-constraint-frameRate",
-            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-sampleRate"
+            "https://www.w3.org/TR/mediacapture-streams/#def-constraint-sampleRate",
+            "https://www.w3.org/TR/permissions/#set-permission-command"
           ],
           "brokenLinks": [
             "https://www.w3.org/TR/webdriver2/#dfn-extension-command",
             "https://www.w3.org/TR/webdriver2/#dfn-sessions",
             "https://www.w3.org/TR/webdriver2/#dfn-errors",
             "https://www.w3.org/TR/mediacapture-streams/#request-permission-to-use",
-            "https://www.w3.org/TR/permissions/#set-permission-command",
             "https://www.w3.org/TR/screen-capture/#dfn-getdisplaymedia",
             "https://www.w3.org/TR/screen-capture/#prompt-the-user-to-choose",
             "https://html.spec.whatwg.org/#in-parallel"
@@ -43081,7 +43082,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -43125,9 +43126,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/permissions-automation/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -43324,7 +43323,12 @@
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
-            "https://html.spec.whatwg.org/#attr-iframe-allow"
+            "https://html.spec.whatwg.org/#attr-iframe-allow",
+            "https://html.spec.whatwg.org/#concept-settings-object-origin",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-settings-object-global",
+            "https://html.spec.whatwg.org/#window-bc",
+            "https://html.spec.whatwg.org/#concept-task"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -55878,7 +55882,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "28 January 2022",
+      "date": "15 February 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55934,7 +55938,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "28 January 2022",
+      "date": "15 February 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -56027,7 +56031,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "28 January 2022",
+      "date": "15 February 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
