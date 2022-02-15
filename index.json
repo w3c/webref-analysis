@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-14T18:42:34.743Z",
+  "date": "2022-02-15T00:48:24.693Z",
   "stats": {
     "crawled": 461,
     "errors": 0,
@@ -3546,7 +3546,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -7242,6 +7242,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -7253,11 +7258,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
@@ -7305,7 +7305,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 5",
       "shortname": "css-cascade-5",
-      "date": "11 January 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -7951,7 +7951,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "10 February 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8554,7 +8554,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "15 January 2022",
+      "date": "17 February 2022",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -8587,7 +8587,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-values-3/"
+          "https://www.w3.org/TR/css3-conditional/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -8604,7 +8604,7 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/css-values-3/#acknowledgements"
+            "https://www.w3.org/TR/css-conditional-3/#acknowledgements"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -10475,7 +10475,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "11 February 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -12191,7 +12191,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "18 January 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -16101,7 +16101,7 @@
     {
       "title": "CSS Scroll Snap Module Level 1",
       "shortname": "css-scroll-snap-1",
-      "date": "31 January 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/css-scroll-snap-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scroll-snap-1/",
@@ -46210,7 +46210,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46275,7 +46275,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46313,7 +46313,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46407,7 +46407,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46486,7 +46486,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46550,7 +46550,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46588,7 +46588,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46649,7 +46649,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46705,7 +46705,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "14 February 2022",
+      "date": "15 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -48898,7 +48898,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "19 January 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -62105,7 +62105,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "11 February 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62227,7 +62227,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "11 February 2022",
+      "date": "14 February 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
