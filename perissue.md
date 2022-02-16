@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 15, 2022
+% February 16, 2022
 
 461 specifications were crawled in this report.
 
@@ -4780,8 +4780,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-mark-element`](https://html.spec.whatwg.org/#the-mark-element)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/):
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
-- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/):
-     * [`https://www.w3.org/TR/css-conditional-3/#acknowledgements`](https://www.w3.org/TR/css-conditional-3/#acknowledgements)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/):
      * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
@@ -8962,7 +8960,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4764 problematic external links found in 297 specifications
+=> 4763 problematic external links found in 296 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
