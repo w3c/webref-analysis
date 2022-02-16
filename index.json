@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-16T00:48:53.334Z",
+  "date": "2022-02-16T06:47:48.413Z",
   "stats": {
     "crawled": 461,
-    "errors": 0,
+    "errors": 16,
     "studied": 461
   },
   "results": [
@@ -3546,7 +3546,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "15 February 2022",
+      "date": "16 February 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -5271,6 +5271,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 6)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5784,6 +5785,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 7)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9937,6 +9939,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 8)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9960,7 +9963,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -10083,6 +10086,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 9)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10100,7 +10104,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -11552,6 +11556,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 10)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11921,6 +11926,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 11)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13191,6 +13197,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 15)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13431,6 +13438,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 12)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16523,6 +16531,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 14)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18591,6 +18600,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 16)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18790,6 +18800,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 4)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18807,7 +18818,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -19998,6 +20009,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 17)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24861,6 +24873,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 21)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24930,6 +24943,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 5)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24948,7 +24962,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -48395,6 +48409,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 18)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -50574,7 +50589,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "12 February 2022",
+      "date": "16 February 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53393,6 +53408,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 19)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

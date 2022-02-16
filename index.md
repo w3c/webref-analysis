@@ -641,7 +641,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 12 February 2022
+- Crawled version: 16 February 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -777,7 +777,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 15 February 2022
+- Crawled version: 16 February 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -4539,7 +4539,7 @@ Informative references to this spec from:
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
 
-### CSS Animations Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Animations Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4551,39 +4551,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/web-animations-1/#play-state`](https://drafts.csswg.org/web-animations-1/#play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#paused-play-state`](https://drafts.csswg.org/web-animations-1/#paused-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-class`](https://drafts.csswg.org/web-animations-1/#animation-class)
-     * [`https://drafts.csswg.org/web-animations-1/#idle-play-state`](https://drafts.csswg.org/web-animations-1/#idle-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#keyframe`](https://drafts.csswg.org/web-animations-1/#keyframe)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
-     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
-     * [`https://drafts.csswg.org/web-animations-1/#play-an-animation`](https://drafts.csswg.org/web-animations-1/#play-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#start-delay`](https://drafts.csswg.org/web-animations-1/#start-delay)
-     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
-     * [`https://drafts.csswg.org/web-animations-1/#composite-operation`](https://drafts.csswg.org/web-animations-1/#composite-operation)
-     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
-     * [`https://drafts.csswg.org/web-animations-1/#active-duration`](https://drafts.csswg.org/web-animations-1/#active-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations-1/#associated-effect-end`](https://drafts.csswg.org/web-animations-1/#associated-effect-end)
-     * [`https://drafts.csswg.org/web-animations-1/#pending-play-task`](https://drafts.csswg.org/web-animations-1/#pending-play-task)
-     * [`https://drafts.csswg.org/web-animations-1/#pending-pause-task`](https://drafts.csswg.org/web-animations-1/#pending-pause-task)
-     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 6)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4721,7 +4697,7 @@ Informative references to this spec from:
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 
 
-### CSS Backgrounds and Borders Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Backgrounds and Borders Module Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4733,18 +4709,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://www.w3.org/TR/css3-transitions/#animtype-color`](https://www.w3.org/TR/css3-transitions/#animtype-color)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 7)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6130,7 +6103,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS Environment Variables Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Environment Variables Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6142,7 +6115,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 8)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6192,7 +6173,7 @@ Informative references to this spec from:
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
 
 
-### CSS Extensions {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Extensions {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6204,7 +6185,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 9)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6689,7 +6678,7 @@ Informative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 
 
-### CSS Generated Content for Paged Media Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Generated Content for Paged Media Module Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6701,13 +6690,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 10)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6826,7 +6817,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Grid Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Grid Layout Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6838,17 +6829,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/css-grid-2/#computed-track-list`](https://drafts.csswg.org/css-grid-2/#computed-track-list)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- External links that neither target definitions nor headings:
-     * [`https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order`](https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 11)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7295,7 +7284,7 @@ Informative references to this spec from:
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 
-### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7307,15 +7296,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 15)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7380,7 +7369,7 @@ Informative references to this spec from:
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 
 
-### CSS Multi-column Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Multi-column Layout Module Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7392,14 +7381,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 12)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8495,7 +8485,7 @@ Informative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 
 
-### CSS Shapes Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Shapes Module Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8507,18 +8497,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/css-shapes-1/#reference-box`](https://drafts.csswg.org/css-shapes-1/#reference-box)
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
-     * [`https://www.w3.org/TR/css3-exclusions/#wrapping-context`](https://www.w3.org/TR/css3-exclusions/#wrapping-context)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 14)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9226,7 +9213,7 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Transitions Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### CSS Transitions Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9238,25 +9225,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
-- External links to private terms:
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#start-delay`](https://drafts.csswg.org/web-animations-1/#start-delay)
-     * [`https://drafts.csswg.org/web-animations-1/#cancel-an-animation`](https://drafts.csswg.org/web-animations-1/#cancel-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-class`](https://drafts.csswg.org/web-animations-1/#animation-class)
-     * [`https://drafts.csswg.org/web-animations-1/#idle-play-state`](https://drafts.csswg.org/web-animations-1/#idle-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
-     * [`https://drafts.csswg.org/web-animations-1/#pending-play-task`](https://drafts.csswg.org/web-animations-1/#pending-play-task)
-     * [`https://drafts.csswg.org/web-animations-1/#pending-pause-task`](https://drafts.csswg.org/web-animations-1/#pending-pause-task)
-     * [`https://drafts.csswg.org/web-animations-1/#active-duration`](https://drafts.csswg.org/web-animations-1/#active-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#associated-effect-end`](https://drafts.csswg.org/web-animations-1/#associated-effect-end)
-     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
-     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 16)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9315,7 +9292,7 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 
 
-### CSS Typed OM Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Typed OM Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9327,7 +9304,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 4)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9620,7 +9605,7 @@ Informative references to this spec from:
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 
 
-### CSS Values and Units Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Values and Units Module Level 5 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9632,8 +9617,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Broken external links:
-     * [`https://www.w3.org/TR/css-values-4/#acknowledgements`](https://www.w3.org/TR/css-values-4/#acknowledgements)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 17)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9909,7 +9901,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Filter Effects Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Filter Effects Module Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9921,16 +9913,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 21)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9942,7 +9933,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Font Metrics API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Font Metrics API Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9954,7 +9945,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 5)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10265,7 +10264,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Scroll-linked Animations {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Scroll-linked Animations {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10277,17 +10276,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`
-- Missing references for links: 
-     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/cssom-view-1/#css-layout-box`](https://drafts.csswg.org/cssom-view-1/#css-layout-box)
-     * [`https://drafts.csswg.org/cssom-view-1/#overflow-directions`](https://drafts.csswg.org/cssom-view-1/#overflow-directions)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#concept-document-windowconcept-document-window`](https://html.spec.whatwg.org/#concept-document-windowconcept-document-window)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
-     * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 18)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10496,7 +10493,7 @@ Informative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 
 
-### Web Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Web Animations Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10508,49 +10505,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
-     * [`https://drafts.csswg.org/web-animations-1/#end-delay`](https://drafts.csswg.org/web-animations-1/#end-delay)
-     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
-     * [`https://drafts.csswg.org/web-animations-1/#finished-play-state`](https://drafts.csswg.org/web-animations-1/#finished-play-state)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-progress`](https://drafts.csswg.org/web-animations-1/#iteration-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#keyframe-effect`](https://drafts.csswg.org/web-animations-1/#keyframe-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#time-value`](https://drafts.csswg.org/web-animations-1/#time-value)
-     * [`https://drafts.csswg.org/web-animations-1/#ready`](https://drafts.csswg.org/web-animations-1/#ready)
-     * [`https://drafts.csswg.org/web-animations-1/#current-finished-promise`](https://drafts.csswg.org/web-animations-1/#current-finished-promise)
-     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#cancel-an-animation`](https://drafts.csswg.org/web-animations-1/#cancel-an-animation)
-     * [`https://drafts.csswg.org/web-animations-1/#active-interval`](https://drafts.csswg.org/web-animations-1/#active-interval)
-     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
-     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
-     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
-     * [`https://drafts.csswg.org/web-animations-1/#overall-progress`](https://drafts.csswg.org/web-animations-1/#overall-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#simple-iteration-progress`](https://drafts.csswg.org/web-animations-1/#simple-iteration-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#directed-progress`](https://drafts.csswg.org/web-animations-1/#directed-progress)
-     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
-     * [`https://drafts.csswg.org/web-animations-1/#effect-value`](https://drafts.csswg.org/web-animations-1/#effect-value)
-     * [`https://drafts.csswg.org/web-animations-1/#target-property`](https://drafts.csswg.org/web-animations-1/#target-property)
-     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
-     * [`https://drafts.csswg.org/web-animations-1/#in-effect`](https://drafts.csswg.org/web-animations-1/#in-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
-     * [`https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect`](https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect)
-- Broken external links:
-     * [`https://drafts.csswg.org/web-animations-1/#current-time`](https://drafts.csswg.org/web-animations-1/#current-time)
-     * [`https://drafts.csswg.org/web-animations-1/#target-effect`](https://drafts.csswg.org/web-animations-1/#target-effect)
-     * [`https://drafts.csswg.org/web-animations-1/#active-phase`](https://drafts.csswg.org/web-animations-1/#active-phase)
-     * [`https://drafts.csswg.org/web-animations-1/#animation-playback-rate`](https://drafts.csswg.org/web-animations-1/#animation-playback-rate)
-     * [`https://drafts.csswg.org/web-animations-1/#before-flag`](https://drafts.csswg.org/web-animations-1/#before-flag)
-     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
-     * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 19)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
