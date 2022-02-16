@@ -7,7 +7,7 @@
 - Initial URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -20,7 +20,7 @@
 - Initial URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -33,7 +33,7 @@
 - Initial URL: [https://drafts.csswg.org/css-env-1/](https://drafts.csswg.org/css-env-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-env-1/](https://drafts.csswg.org/css-env-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -46,7 +46,7 @@
 - Initial URL: [https://drafts.csswg.org/css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -59,7 +59,7 @@
 - Initial URL: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -72,7 +72,7 @@
 - Initial URL: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -85,7 +85,7 @@
 - Initial URL: [https://drafts.csswg.org/css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -98,7 +98,7 @@
 - Initial URL: [https://drafts.csswg.org/css-multicol-2/](https://drafts.csswg.org/css-multicol-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-multicol-2/](https://drafts.csswg.org/css-multicol-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -111,7 +111,7 @@
 - Initial URL: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -124,7 +124,7 @@
 - Initial URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -137,7 +137,7 @@
 - Initial URL: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -150,7 +150,7 @@
 - Initial URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -163,7 +163,7 @@
 - Initial URL: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -176,7 +176,7 @@
 - Initial URL: [https://drafts.css-houdini.org/font-metrics-api-1/](https://drafts.css-houdini.org/font-metrics-api-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.css-houdini.org/font-metrics-api-1/](https://drafts.css-houdini.org/font-metrics-api-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -189,7 +189,7 @@
 - Initial URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
@@ -202,7 +202,7 @@
 - Initial URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
