@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-17T06:36:40.213Z",
+  "date": "2022-02-17T12:40:20.562Z",
   "stats": {
     "crawled": 461,
     "errors": 1,
@@ -45308,7 +45308,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "11 February 2022",
+      "date": "17 February 2022",
       "url": "https://w3c.github.io/mediacapture-region/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-region/",
@@ -50575,7 +50575,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 February 2022",
+      "date": "17 February 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
