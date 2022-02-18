@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 17, 2022
+% February 18, 2022
 
 # Ecma International {#ecma_international}
 
@@ -192,7 +192,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
@@ -207,7 +206,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 16 February 2022
+- Crawled version: 17 February 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -351,9 +350,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -439,9 +436,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -687,7 +682,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -716,7 +711,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -800,7 +795,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1224,7 +1219,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1247,7 +1242,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1277,7 +1272,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1318,7 +1313,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1337,6 +1332,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 
 Informative references to this spec from:
@@ -1352,7 +1348,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1383,7 +1379,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2208,7 +2204,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
@@ -2218,6 +2213,7 @@ Normative references to this spec from:
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
 - [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/)
 - [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
@@ -2865,7 +2861,6 @@ Normative references to this spec from:
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
@@ -3551,7 +3546,6 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 
 No informative reference to this spec from other specs.
@@ -3768,7 +3762,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
@@ -4090,9 +4083,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -4328,7 +4319,6 @@ Normative references to this spec from:
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -4390,7 +4380,6 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
@@ -4521,7 +4510,6 @@ Normative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
@@ -4700,7 +4688,6 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
@@ -4889,7 +4876,6 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
@@ -4940,7 +4926,6 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -5545,7 +5530,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -5951,7 +5935,6 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
@@ -6075,7 +6058,6 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
@@ -6345,7 +6327,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
 
 Informative references to this spec from:
@@ -6985,7 +6966,6 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
@@ -7370,7 +7350,6 @@ Normative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 
 Informative references to this spec from:
@@ -7566,7 +7545,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -7655,7 +7633,6 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -7957,7 +7934,6 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -8282,7 +8258,6 @@ Normative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 
@@ -8654,7 +8629,6 @@ Normative references to this spec from:
 
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
 Informative references to this spec from:
@@ -8735,7 +8709,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
@@ -9221,7 +9194,6 @@ Informative references to this spec from:
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
@@ -9825,7 +9797,6 @@ Normative references to this spec from:
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -10006,7 +9977,6 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [EditContext API](https://w3c.github.io/edit-context/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -10023,6 +9993,10 @@ Normative references to this spec from:
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
@@ -10401,7 +10375,6 @@ Normative references to this spec from:
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
@@ -10678,7 +10651,6 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
@@ -10711,9 +10683,7 @@ Informative references to this spec from:
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No informative reference to this spec from other specs.
 
 
 ### DeviceOrientation Event Specification {data-spec=true data-anomaly=true data-redefinedIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -11166,7 +11136,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11202,7 +11172,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability)
      * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
      * [`https://html.spec.whatwg.org/#check-the-usability-of-the-image-argument`](https://html.spec.whatwg.org/#check-the-usability-of-the-image-argument)
-     * [`https://html.spec.whatwg.org/#queue-a-microtask`](https://html.spec.whatwg.org/#queue-a-microtask)
+     * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
+     * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
      * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
      * [`https://html.spec.whatwg.org/#imagebitmapoptions`](https://html.spec.whatwg.org/#imagebitmapoptions)
@@ -11213,7 +11184,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-canvas-context-mode`](https://html.spec.whatwg.org/#concept-canvas-context-mode)
      * [`https://html.spec.whatwg.org/#offscreencanvas-context-mode`](https://html.spec.whatwg.org/#offscreencanvas-context-mode)
      * [`https://html.spec.whatwg.org/#dom-canvas-getcontext`](https://html.spec.whatwg.org/#dom-canvas-getcontext)
-     * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
      * [`https://html.spec.whatwg.org/#dom-offscreencanvas-transfertoimagebitmap`](https://html.spec.whatwg.org/#dom-offscreencanvas-transfertoimagebitmap)
      * [`https://html.spec.whatwg.org/#dom-context-2d-drawimage`](https://html.spec.whatwg.org/#dom-context-2d-drawimage)
      * [`https://html.spec.whatwg.org/#dom-canvas-todataurl`](https://html.spec.whatwg.org/#dom-canvas-todataurl)
@@ -11229,9 +11199,12 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 No informative reference to this spec from other specs.
 
@@ -11242,7 +11215,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 17 February 2022
+- Crawled version: 18 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -12192,12 +12165,12 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [URL Standard](https://url.spec.whatwg.org/)
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
 
 - [File API](https://w3c.github.io/FileAPI/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 No informative reference to this spec from other specs.
 
@@ -12311,11 +12284,11 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
 Informative references to this spec from:
@@ -12385,7 +12358,6 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [UI Events](https://w3c.github.io/uievents/)
 
@@ -12981,7 +12953,6 @@ Normative references to this spec from:
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
@@ -12995,6 +12966,10 @@ Normative references to this spec from:
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
@@ -13408,7 +13383,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
 
@@ -13629,7 +13603,6 @@ Normative references to this spec from:
 - [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
@@ -13645,6 +13618,10 @@ Normative references to this spec from:
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
@@ -13823,9 +13800,7 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -14064,7 +14039,6 @@ Normative references to this spec from:
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Origin Policy](https://wicg.github.io/origin-policy/)
@@ -14287,7 +14261,6 @@ Normative references to this spec from:
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 
@@ -14544,7 +14517,6 @@ Normative references to this spec from:
 
 - [App History API](https://wicg.github.io/app-history/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Portals](https://wicg.github.io/portals/)
 - [Resource Hints](https://w3c.github.io/resource-hints/)
@@ -14598,7 +14570,6 @@ Normative references to this spec from:
 - [Attribution Reporting](https://wicg.github.io/conversion-measurement-api/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
@@ -14652,7 +14623,6 @@ Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Preload](https://w3c.github.io/preload/)
 
 Informative references to this spec from:
@@ -15097,9 +15067,7 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
@@ -15433,9 +15401,7 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
@@ -15538,7 +15504,6 @@ Normative references to this spec from:
 
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 No informative reference to this spec from other specs.
 
@@ -15578,7 +15543,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
@@ -15658,9 +15622,7 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -15700,7 +15662,6 @@ Normative references to this spec from:
 - [Accelerometer](https://w3c.github.io/accelerometer/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 No informative reference to this spec from other specs.
@@ -15790,7 +15751,6 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
@@ -15803,6 +15763,10 @@ Normative references to this spec from:
 - [UI Events KeyboardEvent key Values](https://w3c.github.io/uievents-key/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
@@ -15868,7 +15832,6 @@ Normative references to this spec from:
 
 - [Badging API](https://w3c.github.io/badging/)
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
@@ -16143,7 +16106,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
@@ -16247,7 +16209,6 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 
@@ -16380,9 +16341,7 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No informative reference to this spec from other specs.
 
 
 ## Web Payments Working Group {#web_payments_working_group}
@@ -16575,7 +16534,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
@@ -16708,7 +16666,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 Informative references to this spec from:
@@ -16836,7 +16793,6 @@ Normative references to this spec from:
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Geolocation API](https://w3c.github.io/geolocation-api/)
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
@@ -16865,6 +16821,7 @@ Normative references to this spec from:
 
 Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 
 Informative references to this spec from:
@@ -16973,7 +16930,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
@@ -17036,7 +16992,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [Server Timing](https://w3c.github.io/server-timing/)
@@ -17137,7 +17092,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Event Timing API](https://w3c.github.io/event-timing/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
@@ -17236,7 +17190,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Resource Hints](https://w3c.github.io/resource-hints/)
 
 Informative references to this spec from:
@@ -17295,7 +17248,6 @@ Normative references to this spec from:
 - [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intervention Reporting](https://wicg.github.io/intervention-reporting/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
@@ -17341,7 +17293,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Preload](https://w3c.github.io/preload/)
 
@@ -17715,7 +17666,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 16 February 2022
+- Crawled version: 17 February 2022
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -20425,7 +20376,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
@@ -20567,7 +20517,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Crawled version: 10 November 2021
+- Crawled version: 17 February 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
@@ -20713,7 +20663,6 @@ Normative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
@@ -20729,6 +20678,10 @@ Normative references to this spec from:
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
@@ -21263,7 +21216,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
@@ -21930,7 +21882,6 @@ Normative references to this spec from:
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
@@ -21949,7 +21900,7 @@ Informative references to this spec from:
 
 ## HTML Workstream {#html_workstream}
 
-### HTML Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-redefinedIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### HTML Standard {data-spec=true data-anomaly=true data-unknownExposedNames=true data-unknownIdlNames=true data-redefinedIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -21962,11 +21913,26 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Unknown [Exposed] names used: `*`
-- Unknown WebIDL names used: `ArrayBuffer`, `Uint8ClampedArray`, `WindowProxy`
+- Unknown WebIDL names used: `Uint8ClampedArray`, `WindowProxy`
 - WebIDL names also defined elsewhere: 
     * `MessageEventSource` also defined in [Portals](https://wicg.github.io/portals/)
 - Missing references for WebIDL names: 
+     * `SVGScriptElement` defined in [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+     * `MediaStream` defined in [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+     * `MediaSource` defined in [Media Source Extensions™](https://w3c.github.io/media-source/)
+     * `FormData` defined in [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+     * `WebGLRenderingContext` defined in [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
      * `WebGL2RenderingContext` defined in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+     * `GPUCanvasContext` defined in [WebGPU](https://gpuweb.github.io/gpuweb/)
+     * `SVGImageElement` defined in [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+     * `VideoFrame` defined in [WebCodecs](https://w3c.github.io/webcodecs/)
+     * `DOMMatrix` defined in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
+     * `DOMMatrix2DInit` defined in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
+     * `DOMPointInit` defined in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
+     * `MouseEvent` defined in [UI Events](https://w3c.github.io/uievents/)
+     * `MouseEventInit` defined in [UI Events](https://w3c.github.io/uievents/)
+     * `DOMHighResTimeStamp` defined in [High Resolution Time](https://w3c.github.io/hr-time/)
+     * `ServiceWorker` defined in [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - No definition for IDL properties: 
      * `"loading"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate), but found [`loading`](https://html.spec.whatwg.org/multipage/embedded-content.html#attr-img-loading) with type `element-attr` for `img`
      * `"interactive"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate)
@@ -22056,11 +22022,6 @@ Informative references to this spec from:
      * `MimeType` with type `interface`, but found [`MimeType`](https://html.spec.whatwg.org/multipage/system-state.html#mimetype) with type `dfn`
      * `constructor(type, eventInitDict)` with type `constructor` for [`MessageEvent`](https://html.spec.whatwg.org/multipage/comms.html#messageevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
      * `constructor(url, eventSourceInitDict)` with type `constructor` for [`EventSource`](https://html.spec.whatwg.org/multipage/server-sent-events.html#eventsource), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(url, protocols)` with type `constructor` for [`WebSocket`](https://html.spec.whatwg.org/multipage/web-sockets.html#websocket), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `constructor(type, eventInitDict)` with type `constructor` for [`CloseEvent`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-     * `wasClean` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`wasClean`](https://html.spec.whatwg.org/multipage/web-sockets.html#dom-closeevent-wasclean) with type `attribute` for `CloseEvent`
-     * `code` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`code`](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element) with type `element`
-     * `reason` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`reason`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-reason) with type `attribute` for `PromiseRejectionEvent`
      * `constructor()` with type `constructor` for [`MessageChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#messagechannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
      * `constructor(name)` with type `constructor` for [`BroadcastChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#broadcastchannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
      * `constructor(scriptURL, options)` with type `constructor` for [`Worker`](https://html.spec.whatwg.org/multipage/workers.html#worker), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
@@ -22103,9 +22064,63 @@ Informative references to this spec from:
      * `createImageBitmap(image, sx, sy, sw, sh, options)` with type `method` for [`WindowOrWorkerGlobalScope`](https://html.spec.whatwg.org/multipage/webappapis.html#windoworworkerglobalscope), but found [`createImageBitmap(image, options)`](https://html.spec.whatwg.org/multipage/imagebitmap-and-animations.html#dom-createimagebitmap) with type `method` for `WindowOrWorkerGlobalScope`
 - Missing references for links: 
      * [`https://spec.whatwg.org/`](https://spec.whatwg.org/)
+     * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
+     * [`https://www.w3.org/TR/xml-stylesheet/`](https://www.w3.org/TR/xml-stylesheet/)
+     * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/)
+     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/)
+     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/)
+     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/)
+     * [`https://w3c.github.io/navigation-timing/`](https://w3c.github.io/navigation-timing/)
+     * [`https://w3c.github.io/longtasks/`](https://w3c.github.io/longtasks/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/)
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/)
+     * [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/)
+     * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/)
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+     * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/)
+     * [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/)
+     * [`https://w3c.github.io/mediacapture-main/getusermedia.html`](https://w3c.github.io/mediacapture-main/getusermedia.html)
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/)
+     * [`https://xhr.spec.whatwg.org/`](https://xhr.spec.whatwg.org/)
+     * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/)
+     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/)
+     * [`https://w3c.github.io/webvtt/`](https://w3c.github.io/webvtt/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
+     * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/)
+     * [`https://w3c.github.io/payment-request/`](https://w3c.github.io/payment-request/)
+     * [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+     * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/)
+     * [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/)
+     * [`https://w3c.github.io/webcodecs/`](https://w3c.github.io/webcodecs/)
+     * [`https://w3c.github.io/webdriver-bidi/`](https://w3c.github.io/webdriver-bidi/)
+     * [`https://www.w3.org/TR/1999/REC-xpath-19991116/`](https://www.w3.org/TR/1999/REC-xpath-19991116/)
      * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/), related reference "MANIFEST" uses URL [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
+     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
+     * [`https://w3c.github.io/html-aria/`](https://w3c.github.io/html-aria/)
+     * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
+     * [`https://w3c.github.io/charmod-norm/`](https://w3c.github.io/charmod-norm/)
+     * [`https://w3c.github.io/device-posture/`](https://w3c.github.io/device-posture/)
+     * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+     * [`https://w3c.github.io/pointerlock/`](https://w3c.github.io/pointerlock/)
+     * [`https://w3c.github.io/preload/`](https://w3c.github.io/preload/)
+     * [`https://w3c.github.io/presentation-api/`](https://w3c.github.io/presentation-api/)
+     * [`https://w3c.github.io/resource-hints/`](https://w3c.github.io/resource-hints/)
+     * [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
+     * [`https://w3c.github.io/webappsec-subresource-integrity/`](https://w3c.github.io/webappsec-subresource-integrity/)
+     * [`https://w3c.github.io/wcag/guidelines/`](https://w3c.github.io/wcag/guidelines/)
+     * [`https://w3c.github.io/webcrypto/`](https://w3c.github.io/webcrypto/)
+     * [`https://w3c.github.io/web-nfc/`](https://w3c.github.io/web-nfc/)
+     * [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+     * [`https://www.w3.org/TR/1999/REC-xslt-19991116`](https://www.w3.org/TR/1999/REC-xslt-19991116)
 - External links to private terms:
      * [`https://mimesniff.spec.whatwg.org/#rules-for-text-or-binary`](https://mimesniff.spec.whatwg.org/#rules-for-text-or-binary)
      * [`https://dom.spec.whatwg.org/#assign-slotables-for-a-tree`](https://dom.spec.whatwg.org/#assign-slotables-for-a-tree)
@@ -22608,6 +22623,7 @@ Normative references to this spec from:
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
@@ -23003,7 +23019,6 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
@@ -23161,7 +23176,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [File System Access](https://wicg.github.io/file-system-access/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 
 Informative references to this spec from:
@@ -23671,8 +23685,11 @@ Normative references to this spec from:
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+
+Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 

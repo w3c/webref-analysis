@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 17, 2022
+% February 18, 2022
 
 461 specifications were crawled in this report.
 
@@ -171,7 +171,7 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 
 ## List of WebIDL names not defined in the specifications crawled
 
-- `ArrayBuffer` used in [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [HTML Standard](https://html.spec.whatwg.org/multipage/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- `ArrayBuffer` used in [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
 - `BigInt64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `BigUint64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
@@ -217,7 +217,23 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
     * `MediaSource` but does not reference [Media Source Extensions™](https://w3c.github.io/media-source/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) uses `Gamepad` but does not reference [Gamepad](https://w3c.github.io/gamepad/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/) uses `WebGL2RenderingContext` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/) uses:
+    * `SVGScriptElement` but does not reference [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+    * `MediaStream` but does not reference [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+    * `MediaSource` but does not reference [Media Source Extensions™](https://w3c.github.io/media-source/)
+    * `FormData` but does not reference [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+    * `WebGLRenderingContext` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
+    * `WebGL2RenderingContext` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+    * `GPUCanvasContext` but does not reference [WebGPU](https://gpuweb.github.io/gpuweb/)
+    * `SVGImageElement` but does not reference [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+    * `VideoFrame` but does not reference [WebCodecs](https://w3c.github.io/webcodecs/)
+    * `DOMMatrix` but does not reference [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
+    * `DOMMatrix2DInit` but does not reference [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
+    * `DOMPointInit` but does not reference [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/)
+    * `MouseEvent` but does not reference [UI Events](https://w3c.github.io/uievents/)
+    * `MouseEventInit` but does not reference [UI Events](https://w3c.github.io/uievents/)
+    * `DOMHighResTimeStamp` but does not reference [High Resolution Time](https://w3c.github.io/hr-time/)
+    * `ServiceWorker` but does not reference [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) uses `DOMHighResTimeStamp` but does not reference [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -283,7 +299,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 58 missing references for IDL definitions found in 29 specifications
+=> 73 missing references for IDL definitions found in 29 specifications
 
 
 ## No definition for CSS properties
@@ -386,11 +402,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `MimeType` with type `interface`, but found [`MimeType`](https://html.spec.whatwg.org/multipage/system-state.html#mimetype) with type `dfn`
     * `constructor(type, eventInitDict)` with type `constructor` for [`MessageEvent`](https://html.spec.whatwg.org/multipage/comms.html#messageevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
     * `constructor(url, eventSourceInitDict)` with type `constructor` for [`EventSource`](https://html.spec.whatwg.org/multipage/server-sent-events.html#eventsource), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(url, protocols)` with type `constructor` for [`WebSocket`](https://html.spec.whatwg.org/multipage/web-sockets.html#websocket), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`CloseEvent`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `wasClean` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`wasClean`](https://html.spec.whatwg.org/multipage/web-sockets.html#dom-closeevent-wasclean) with type `attribute` for `CloseEvent`
-    * `code` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`code`](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element) with type `element`
-    * `reason` with type `dict-member` for [`CloseEventInit`](https://html.spec.whatwg.org/multipage/web-sockets.html#closeeventinit), but found [`reason`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-reason) with type `attribute` for `PromiseRejectionEvent`
     * `constructor()` with type `constructor` for [`MessageChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#messagechannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
     * `constructor(name)` with type `constructor` for [`BroadcastChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#broadcastchannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
     * `constructor(scriptURL, options)` with type `constructor` for [`Worker`](https://html.spec.whatwg.org/multipage/workers.html#worker), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
@@ -707,7 +718,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawCount)` with type `method`
     * `multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawCount)` with type `method`
 
-=> 365 properties without definition found in 44 specifications
+=> 360 properties without definition found in 44 specifications
 
 
 ## Possibly no definition for CSS properties
@@ -1382,7 +1393,63 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) links to:
     * [`https://spec.whatwg.org/`](https://spec.whatwg.org/) but does not list it in its references
+    * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/) but does not list it in its references
+    * [`https://www.w3.org/TR/xml-stylesheet/`](https://www.w3.org/TR/xml-stylesheet/) but does not list it in its references
+    * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but does not list it in its references
+    * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/) but does not list it in its references
+    * [`https://w3c.github.io/navigation-timing/`](https://w3c.github.io/navigation-timing/) but does not list it in its references
+    * [`https://w3c.github.io/longtasks/`](https://w3c.github.io/longtasks/) but does not list it in its references
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but does not list it in its references
+    * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/) but does not list it in its references
+    * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but does not list it in its references
+    * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but does not list it in its references
+    * [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/) but does not list it in its references
+    * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but does not list it in its references
+    * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/) but does not list it in its references
+    * [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/) but does not list it in its references
+    * [`https://w3c.github.io/mediacapture-main/getusermedia.html`](https://w3c.github.io/mediacapture-main/getusermedia.html) but does not list it in its references
+    * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but does not list it in its references
+    * [`https://xhr.spec.whatwg.org/`](https://xhr.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/) but does not list it in its references
+    * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/) but does not list it in its references
+    * [`https://w3c.github.io/webvtt/`](https://w3c.github.io/webvtt/) but does not list it in its references
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but does not list it in its references
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/) but does not list it in its references
+    * [`https://w3c.github.io/payment-request/`](https://w3c.github.io/payment-request/) but does not list it in its references
+    * [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/) but does not list it in its references
+    * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/) but does not list it in its references
+    * [`https://w3c.github.io/webcodecs/`](https://w3c.github.io/webcodecs/) but does not list it in its references
+    * [`https://w3c.github.io/webdriver-bidi/`](https://w3c.github.io/webdriver-bidi/) but does not list it in its references
+    * [`https://www.w3.org/TR/1999/REC-xpath-19991116/`](https://www.w3.org/TR/1999/REC-xpath-19991116/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
+    * [`https://w3c.github.io/html-aria/`](https://w3c.github.io/html-aria/) but does not list it in its references
+    * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/) but does not list it in its references
+    * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/) but does not list it in its references
+    * [`https://w3c.github.io/charmod-norm/`](https://w3c.github.io/charmod-norm/) but does not list it in its references
+    * [`https://w3c.github.io/device-posture/`](https://w3c.github.io/device-posture/) but does not list it in its references
+    * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
+    * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
+    * [`https://w3c.github.io/pointerlock/`](https://w3c.github.io/pointerlock/) but does not list it in its references
+    * [`https://w3c.github.io/preload/`](https://w3c.github.io/preload/) but does not list it in its references
+    * [`https://w3c.github.io/presentation-api/`](https://w3c.github.io/presentation-api/) but does not list it in its references
+    * [`https://w3c.github.io/resource-hints/`](https://w3c.github.io/resource-hints/) but does not list it in its references
+    * [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-subresource-integrity/`](https://w3c.github.io/webappsec-subresource-integrity/) but does not list it in its references
+    * [`https://w3c.github.io/wcag/guidelines/`](https://w3c.github.io/wcag/guidelines/) but does not list it in its references
+    * [`https://w3c.github.io/webcrypto/`](https://w3c.github.io/webcrypto/) but does not list it in its references
+    * [`https://w3c.github.io/web-nfc/`](https://w3c.github.io/web-nfc/) but does not list it in its references
+    * [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/) but does not list it in its references
+    * [`https://www.w3.org/TR/1999/REC-xslt-19991116`](https://www.w3.org/TR/1999/REC-xslt-19991116) but does not list it in its references
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/) links to [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
 - [Image Resource](https://w3c.github.io/image-resource/) links to [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
 - [import assertions](https://tc39.es/proposal-import-assertions/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
@@ -1604,7 +1671,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 728 missing references for links found in 193 specifications
+=> 784 missing references for links found in 193 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1803,7 +1870,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
     * [`https://www.w3.org/TR/html/`](https://www.w3.org/TR/html/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/) links to [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/) but related reference "MANIFEST" uses URL [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/) links to [`https://w3c.github.io/webrtc-pc/`](https://w3c.github.io/webrtc-pc/) but related reference "WEBRTC" uses URL [`https://www.w3.org/TR/webrtc/`](https://www.w3.org/TR/webrtc/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/) links to:
@@ -2023,7 +2089,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 340 inconsistent references for links found in 180 specifications
+=> 339 inconsistent references for links found in 179 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -8710,7 +8776,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability)
      * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
      * [`https://html.spec.whatwg.org/#check-the-usability-of-the-image-argument`](https://html.spec.whatwg.org/#check-the-usability-of-the-image-argument)
-     * [`https://html.spec.whatwg.org/#queue-a-microtask`](https://html.spec.whatwg.org/#queue-a-microtask)
+     * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
+     * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
      * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
      * [`https://html.spec.whatwg.org/#imagebitmapoptions`](https://html.spec.whatwg.org/#imagebitmapoptions)
@@ -8721,7 +8788,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-canvas-context-mode`](https://html.spec.whatwg.org/#concept-canvas-context-mode)
      * [`https://html.spec.whatwg.org/#offscreencanvas-context-mode`](https://html.spec.whatwg.org/#offscreencanvas-context-mode)
      * [`https://html.spec.whatwg.org/#dom-canvas-getcontext`](https://html.spec.whatwg.org/#dom-canvas-getcontext)
-     * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
      * [`https://html.spec.whatwg.org/#dom-offscreencanvas-transfertoimagebitmap`](https://html.spec.whatwg.org/#dom-offscreencanvas-transfertoimagebitmap)
      * [`https://html.spec.whatwg.org/#dom-context-2d-drawimage`](https://html.spec.whatwg.org/#dom-context-2d-drawimage)
      * [`https://html.spec.whatwg.org/#dom-canvas-todataurl`](https://html.spec.whatwg.org/#dom-canvas-todataurl)
