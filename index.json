@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-18T12:40:12.300Z",
+  "date": "2022-02-18T18:38:16.349Z",
   "stats": {
     "crawled": 461,
-    "errors": 1,
+    "errors": 0,
     "studied": 461
   },
   "results": [
@@ -4812,7 +4812,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5094,6 +5093,11 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-variables-1/",
@@ -8794,7 +8798,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "17 February 2022",
+      "date": "18 February 2022",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -8818,6 +8822,7 @@
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -10816,6 +10821,11 @@
               "url": "https://www.w3.org/TR/css-conditional-5/",
               "title": "CSS Conditional Rules Module Level 5",
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -26735,7 +26745,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 February 2022",
+      "date": "18 February 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -32166,7 +32176,7 @@
                   "id": "message-channels",
                   "href": "https://html.spec.whatwg.org/multipage/web-messaging.html#message-channels",
                   "title": "Message channels",
-                  "number": "9.5.2"
+                  "number": "9.4.2"
                 },
                 "definedIn": "pre"
               }
@@ -32219,7 +32229,7 @@
                   "id": "broadcasting-to-other-browsing-contexts",
                   "href": "https://html.spec.whatwg.org/multipage/web-messaging.html#broadcasting-to-other-browsing-contexts",
                   "title": "Broadcasting to other browsing contexts",
-                  "number": "9.6"
+                  "number": "9.5"
                 },
                 "definedIn": "pre"
               }
@@ -33154,6 +33164,7 @@
           "https://w3c.github.io/manifest/",
           "https://w3c.github.io/webcodecs/",
           "https://w3c.github.io/webdriver-bidi/",
+          "https://websockets.spec.whatwg.org/",
           "https://www.w3.org/TR/1999/REC-xpath-19991116/",
           "https://www.w3.org/TR/css3-color/",
           "https://w3c.github.io/editing/docs/execCommand/",
@@ -34633,7 +34644,6 @@
             "https://dom.spec.whatwg.org/#event-listener-callback",
             "https://fetch.spec.whatwg.org/#abnf",
             "https://fetch.spec.whatwg.org/#concept-response-timing-info",
-            "https://fetch.spec.whatwg.org/#concept-websocket-establish",
             "https://drafts.csswg.org/css2/#inline-box",
             "https://drafts.csswg.org/css2/#line-box",
             "https://drafts.csswg.org/css2/#out-of-flow",
@@ -35018,7 +35028,9 @@
             "https://www.w3.org/TR/css3-color/#css2-system"
           ],
           "evolvingLinks": [],
-          "outdatedSpecs": [],
+          "outdatedSpecs": [
+            "https://websockets.spec.whatwg.org/"
+          ],
           "datedUrls": [
             "https://www.w3.org/TR/1999/REC-xpath-19991116/",
             "https://www.w3.org/TR/1999/REC-xslt-19991116"
@@ -48325,7 +48337,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "8 February 2022",
+      "date": "18 February 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -48438,6 +48450,8 @@
             "https://w3c.github.io/payment-request/#dfn-payment-permission",
             "https://w3c.github.io/payment-request/#dfn-steps-to-check-if-a-payment-can-be-made",
             "https://w3c.github.io/payment-request/#dfn-steps-to-respond-to-a-payment-request",
+            "https://www.w3.org/TR/webauthn-3/#relying-party-identifier",
+            "https://url.spec.whatwg.org/#valid-domain",
             "https://w3c.github.io/webdriver/#dfn-error-code",
             "https://w3c.github.io/webdriver/#dfn-getting-properties",
             "https://w3c.github.io/webdriver/#dfn-undefined"
@@ -54073,6 +54087,11 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
