@@ -1,16 +1,18 @@
-% Diff between report from "February 18, 2022" and reference report from "February 17, 2022"
+% Diff between report from "February 18, 2022" and reference report from "February 18, 2022"
 % Strudy
 % February 18, 2022
 
-## HTML Standard
+## CSS 2
 
-- Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
+- Initial URL: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Unknown WebIDL names used: *DEL* ArrayBuffer
-- Missing references for WebIDL names: *INS* SVGScriptElement, MediaStream, MediaSource, FormData, WebGLRenderingContext, GPUCanvasContext, SVGImageElement, VideoFrame, DOMMatrix, DOMMatrix2DInit, DOMPointInit, MouseEvent, MouseEventInit, DOMHighResTimeStamp, ServiceWorker
-- Missing references for links: *INS* https://mimesniff.spec.whatwg.org/, https://www.w3.org/TR/xml/, https://www.w3.org/TR/xml-stylesheet/, https://www.w3.org/TR/media-frags/, https://w3c.github.io/webappsec-referrer-policy/, https://w3c.github.io/webappsec-mixed-content/, https://w3c.github.io/paint-timing/, https://w3c.github.io/navigation-timing/, https://w3c.github.io/longtasks/, https://w3c.github.io/uievents/, https://w3c.github.io/touch-events/, https://w3c.github.io/pointerevents/, https://w3c.github.io/DOM-Parsing/, https://w3c.github.io/selection-api/, https://fullscreen.spec.whatwg.org/, https://w3c.github.io/hr-time/, https://w3c.github.io/IndexedDB/, https://w3c.github.io/media-source/, https://w3c.github.io/mediacapture-main/getusermedia.html, https://w3c.github.io/reporting/, https://xhr.spec.whatwg.org/, https://w3c.github.io/battery/, https://w3c.github.io/IntersectionObserver/, https://w3c.github.io/webvtt/, https://w3c.github.io/aria/, https://w3c.github.io/webappsec-csp/, https://w3c.github.io/ServiceWorker/, https://w3c.github.io/webappsec-secure-contexts/, https://w3c.github.io/webappsec-feature-policy/, https://w3c.github.io/payment-request/, https://w3c.github.io/requestidlecallback/, https://storage.spec.whatwg.org/, https://w3c.github.io/manifest/, https://w3c.github.io/webcodecs/, https://w3c.github.io/webdriver-bidi/, https://www.w3.org/TR/1999/REC-xpath-19991116/, https://w3c.github.io/editing/docs/execCommand/, https://w3c.github.io/html-aria/, https://w3c.github.io/html-aam/, https://www.w3.org/TR/jlreq/, https://www.w3.org/TR/charmod/, https://w3c.github.io/charmod-norm/, https://w3c.github.io/device-posture/, https://www.w3.org/TR/appmanifest/, https://w3c.github.io/page-visibility/, https://w3c.github.io/pointerlock/, https://w3c.github.io/preload/, https://w3c.github.io/presentation-api/, https://w3c.github.io/resource-hints/, https://w3c.github.io/screen-orientation/, https://w3c.github.io/webappsec-subresource-integrity/, https://w3c.github.io/wcag/guidelines/, https://w3c.github.io/webcrypto/, https://w3c.github.io/web-nfc/, https://www.w3.org/TR/xml-names/, https://www.w3.org/TR/1999/REC-xslt-19991116
-- Inconsistent references for links: *DEL* https://w3c.github.io/manifest/
+- Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
+- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 323)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
 
 
 
