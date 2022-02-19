@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-19T12:41:14.959Z",
+  "date": "2022-02-19T18:43:16.115Z",
   "stats": {
-    "crawled": 461,
+    "crawled": 462,
     "errors": 0,
-    "studied": 461
+    "studied": 462
   },
   "results": [
     {
@@ -741,6 +741,11 @@
               "crawled": "https://w3c.github.io/html-aam/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -1084,7 +1089,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -1888,6 +1899,11 @@
         "referencedBy": {
           "normative": [],
           "informative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
@@ -3118,6 +3134,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
@@ -3613,6 +3634,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/webxr/",
               "title": "WebXR Device API",
@@ -4651,6 +4677,11 @@
               "crawled": "https://fullscreen.spec.whatwg.org/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -4864,6 +4895,11 @@
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://quirks.spec.whatwg.org/",
@@ -5123,6 +5159,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://drafts.csswg.org/scroll-animations-1/",
@@ -5613,6 +5654,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -6121,6 +6167,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -6253,6 +6304,11 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -8112,6 +8168,11 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -9266,6 +9327,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -9640,6 +9706,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -10374,6 +10445,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://wicg.github.io/local-font-access/",
               "title": "Local Font Access API",
@@ -12232,6 +12308,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ],
           "informative": [
@@ -13298,6 +13379,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -13818,6 +13904,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
               "crawled": "https://w3c.github.io/input-events/"
@@ -14134,6 +14225,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -15006,6 +15102,11 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -15884,6 +15985,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -16744,6 +16850,11 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -17024,6 +17135,11 @@
               "url": "https://www.w3.org/TR/geometry-1/",
               "title": "Geometry Interfaces Module Level 1",
               "crawled": "https://drafts.fxtf.org/geometry/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/intersection-observer/",
@@ -18418,6 +18534,11 @@
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -20416,6 +20537,11 @@
               "crawled": "https://drafts.csswg.org/css-nav-1/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
               "crawled": "https://w3c.github.io/IntersectionObserver/"
@@ -20815,7 +20941,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -21065,6 +21197,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
               "title": "Trusted Types",
@@ -21960,6 +22097,11 @@
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
             },
             {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/webtransport/",
               "title": "WebTransport",
               "crawled": "https://w3c.github.io/webtransport/"
@@ -22306,6 +22448,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
@@ -23071,6 +23218,11 @@
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
+            },
+            {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/webtransport/",
@@ -24039,6 +24191,11 @@
               "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/webtransport/",
               "title": "WebTransport",
               "crawled": "https://w3c.github.io/webtransport/"
@@ -24413,6 +24570,11 @@
               "url": "https://www.w3.org/TR/webrtc/",
               "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
+            },
+            {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -24868,6 +25030,11 @@
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/keyboard-lock/",
@@ -25490,6 +25657,11 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
               "crawled": "https://w3c.github.io/IntersectionObserver/"
@@ -25914,6 +26086,11 @@
               "crawled": "https://w3c.github.io/geolocation-sensor/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/video-rvfc/",
               "title": "HTMLVideoElement.requestVideoFrameCallback()",
               "crawled": "https://wicg.github.io/video-rvfc/"
@@ -26141,6 +26318,11 @@
               "url": "https://www.w3.org/TR/html-aria/",
               "title": "ARIA in HTML",
               "crawled": "https://w3c.github.io/html-aria/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/svg-aam-1.0/",
@@ -26796,7 +26978,6 @@
           "https://html.spec.whatwg.org/multipage/imagebitmap-and-animations.html",
           "https://html.spec.whatwg.org/multipage/comms.html",
           "https://html.spec.whatwg.org/multipage/server-sent-events.html",
-          "https://html.spec.whatwg.org/multipage/web-sockets.html",
           "https://html.spec.whatwg.org/multipage/web-messaging.html",
           "https://html.spec.whatwg.org/multipage/workers.html",
           "https://html.spec.whatwg.org/multipage/worklets.html",
@@ -26848,162 +27029,12 @@
         ],
         "missingWebIdlRef": [
           {
-            "name": "SVGScriptElement",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/SVG2/",
-                "title": "Scalable Vector Graphics (SVG) 2",
-                "crawled": "https://svgwg.org/svg2-draft/"
-              }
-            ]
-          },
-          {
-            "name": "MediaStream",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/mediacapture-streams/",
-                "title": "Media Capture and Streams",
-                "crawled": "https://w3c.github.io/mediacapture-main/"
-              }
-            ]
-          },
-          {
-            "name": "MediaSource",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/media-source-2/",
-                "title": "Media Source Extensions™",
-                "crawled": "https://w3c.github.io/media-source/"
-              }
-            ]
-          },
-          {
-            "name": "FormData",
-            "refs": [
-              {
-                "url": "https://xhr.spec.whatwg.org/",
-                "title": "XMLHttpRequest Standard",
-                "crawled": "https://xhr.spec.whatwg.org/"
-              }
-            ]
-          },
-          {
-            "name": "WebGLRenderingContext",
-            "refs": [
-              {
-                "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/",
-                "title": "WebGL Specification",
-                "crawled": "https://www.khronos.org/registry/webgl/specs/latest/1.0/"
-              }
-            ]
-          },
-          {
             "name": "WebGL2RenderingContext",
             "refs": [
               {
                 "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/",
                 "title": "WebGL 2.0 Specification",
                 "crawled": "https://www.khronos.org/registry/webgl/specs/latest/2.0/"
-              }
-            ]
-          },
-          {
-            "name": "GPUCanvasContext",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/webgpu/",
-                "title": "WebGPU",
-                "crawled": "https://gpuweb.github.io/gpuweb/"
-              }
-            ]
-          },
-          {
-            "name": "SVGImageElement",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/SVG2/",
-                "title": "Scalable Vector Graphics (SVG) 2",
-                "crawled": "https://svgwg.org/svg2-draft/"
-              }
-            ]
-          },
-          {
-            "name": "VideoFrame",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/webcodecs/",
-                "title": "WebCodecs",
-                "crawled": "https://w3c.github.io/webcodecs/"
-              }
-            ]
-          },
-          {
-            "name": "DOMMatrix",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/geometry-1/",
-                "title": "Geometry Interfaces Module Level 1",
-                "crawled": "https://drafts.fxtf.org/geometry/"
-              }
-            ]
-          },
-          {
-            "name": "DOMMatrix2DInit",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/geometry-1/",
-                "title": "Geometry Interfaces Module Level 1",
-                "crawled": "https://drafts.fxtf.org/geometry/"
-              }
-            ]
-          },
-          {
-            "name": "DOMPointInit",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/geometry-1/",
-                "title": "Geometry Interfaces Module Level 1",
-                "crawled": "https://drafts.fxtf.org/geometry/"
-              }
-            ]
-          },
-          {
-            "name": "MouseEvent",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/uievents/",
-                "title": "UI Events",
-                "crawled": "https://w3c.github.io/uievents/"
-              }
-            ]
-          },
-          {
-            "name": "MouseEventInit",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/uievents/",
-                "title": "UI Events",
-                "crawled": "https://w3c.github.io/uievents/"
-              }
-            ]
-          },
-          {
-            "name": "DOMHighResTimeStamp",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/hr-time-3/",
-                "title": "High Resolution Time",
-                "crawled": "https://w3c.github.io/hr-time/"
-              }
-            ]
-          },
-          {
-            "name": "ServiceWorker",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/service-workers-1/",
-                "title": "Service Workers Nightly",
-                "crawled": "https://w3c.github.io/ServiceWorker/"
               }
             ]
           }
@@ -33129,66 +33160,17 @@
         },
         "missingLinkRef": [
           "https://spec.whatwg.org/",
-          "https://mimesniff.spec.whatwg.org/",
-          "https://www.w3.org/TR/xml/",
-          "https://www.w3.org/TR/xml-stylesheet/",
-          "https://www.w3.org/TR/media-frags/",
-          "https://w3c.github.io/webappsec-referrer-policy/",
-          "https://w3c.github.io/webappsec-mixed-content/",
-          "https://w3c.github.io/paint-timing/",
-          "https://w3c.github.io/navigation-timing/",
-          "https://w3c.github.io/longtasks/",
-          "https://w3c.github.io/uievents/",
-          "https://w3c.github.io/touch-events/",
-          "https://w3c.github.io/pointerevents/",
-          "https://w3c.github.io/DOM-Parsing/",
-          "https://w3c.github.io/selection-api/",
-          "https://fullscreen.spec.whatwg.org/",
-          "https://w3c.github.io/hr-time/",
-          "https://w3c.github.io/IndexedDB/",
-          "https://w3c.github.io/media-source/",
-          "https://w3c.github.io/mediacapture-main/getusermedia.html",
-          "https://w3c.github.io/reporting/",
-          "https://xhr.spec.whatwg.org/",
-          "https://w3c.github.io/battery/",
-          "https://w3c.github.io/IntersectionObserver/",
-          "https://w3c.github.io/webvtt/",
-          "https://w3c.github.io/aria/",
-          "https://w3c.github.io/webappsec-csp/",
-          "https://w3c.github.io/ServiceWorker/",
-          "https://w3c.github.io/webappsec-secure-contexts/",
-          "https://w3c.github.io/webappsec-feature-policy/",
-          "https://w3c.github.io/payment-request/",
-          "https://w3c.github.io/requestidlecallback/",
-          "https://storage.spec.whatwg.org/",
-          "https://w3c.github.io/manifest/",
-          "https://w3c.github.io/webcodecs/",
-          "https://w3c.github.io/webdriver-bidi/",
-          "https://websockets.spec.whatwg.org/",
-          "https://www.w3.org/TR/1999/REC-xpath-19991116/",
-          "https://www.w3.org/TR/css3-color/",
-          "https://w3c.github.io/editing/docs/execCommand/",
-          "https://w3c.github.io/html-aria/",
-          "https://w3c.github.io/html-aam/",
-          "https://www.w3.org/TR/jlreq/",
-          "https://www.w3.org/TR/charmod/",
-          "https://w3c.github.io/charmod-norm/",
-          "https://w3c.github.io/device-posture/",
-          "https://www.w3.org/TR/appmanifest/",
-          "https://w3c.github.io/page-visibility/",
-          "https://w3c.github.io/pointerlock/",
-          "https://w3c.github.io/preload/",
-          "https://w3c.github.io/presentation-api/",
-          "https://w3c.github.io/resource-hints/",
-          "https://w3c.github.io/screen-orientation/",
-          "https://w3c.github.io/webappsec-subresource-integrity/",
-          "https://w3c.github.io/wcag/guidelines/",
-          "https://w3c.github.io/webcrypto/",
-          "https://w3c.github.io/web-nfc/",
-          "https://www.w3.org/TR/xml-names/",
-          "https://www.w3.org/TR/1999/REC-xslt-19991116"
+          "https://www.w3.org/TR/css3-color/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/manifest/",
+            "ref": {
+              "name": "MANIFEST",
+              "url": "https://www.w3.org/TR/appmanifest/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -33715,11 +33697,6 @@
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
-            },
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/video-rvfc/",
@@ -34395,6 +34372,11 @@
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
               "title": "WebRTC Encoded Transform",
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
+            },
+            {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/webtransport/",
@@ -36414,7 +36396,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -36615,7 +36603,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": [
             {
               "url": "https://dom.spec.whatwg.org/",
@@ -37420,6 +37414,11 @@
               "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/webtransport/",
               "title": "WebTransport",
               "crawled": "https://w3c.github.io/webtransport/"
@@ -37805,6 +37804,11 @@
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ],
           "informative": []
@@ -38124,7 +38128,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -38732,6 +38742,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
               "title": "Timing Entry Names Registry",
@@ -39346,6 +39361,11 @@
               "url": "https://www.w3.org/TR/html-media-capture/",
               "title": "HTML Media Capture",
               "crawled": "https://w3c.github.io/html-media-capture/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -40303,6 +40323,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://url.spec.whatwg.org/",
               "title": "URL Standard",
               "crawled": "https://url.spec.whatwg.org/"
@@ -40787,6 +40812,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
@@ -41042,6 +41072,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-hints/",
               "title": "Resource Hints",
               "crawled": "https://w3c.github.io/resource-hints/"
@@ -41249,6 +41284,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
@@ -42236,6 +42276,11 @@
               "crawled": "https://w3c.github.io/event-timing/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -42626,6 +42671,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/payment-handler/",
               "title": "Payment Handler API",
@@ -43540,6 +43590,11 @@
               "crawled": "https://w3c.github.io/event-timing/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/ink-enhancement/",
               "title": "Ink API",
               "crawled": "https://wicg.github.io/ink-enhancement/"
@@ -43621,6 +43676,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
@@ -43914,6 +43974,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-hints/",
               "title": "Resource Hints",
               "crawled": "https://w3c.github.io/resource-hints/"
@@ -43990,7 +44055,18 @@
           "ArrayBuffer"
         ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BinaryType",
+            "refs": [
+              {
+                "url": "https://websockets.spec.whatwg.org/",
+                "title": "WebSockets Standard",
+                "crawled": "https://websockets.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -43999,6 +44075,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/openscreenprotocol/",
               "title": "Open Screen Protocol",
@@ -44040,7 +44121,7 @@
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://html.spec.whatwg.org/#binarytype",
+            "https://html.spec.whatwg.org/#enumdef-binarytype",
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#unload-a-document",
             "https://html.spec.whatwg.org/#navigate",
@@ -44886,6 +44967,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -45338,6 +45424,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/intervention-reporting/",
               "title": "Intervention Reporting",
               "crawled": "https://wicg.github.io/intervention-reporting/"
@@ -45665,6 +45756,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
@@ -46149,14 +46245,14 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
+            },
+            {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
             }
           ],
           "informative": [
@@ -47419,6 +47515,11 @@
               "crawled": "https://fullscreen.spec.whatwg.org/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
@@ -48196,6 +48297,11 @@
               "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
@@ -48558,7 +48664,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -48790,6 +48902,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
@@ -49084,6 +49201,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/performance-measure-memory/",
@@ -49476,6 +49598,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
               "title": "Indexed Database API 3.0",
               "crawled": "https://w3c.github.io/IndexedDB/"
@@ -49730,6 +49857,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/preload/",
@@ -50583,6 +50715,11 @@
               "crawled": "https://w3c.github.io/device-posture/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -50868,6 +51005,11 @@
               "url": "https://w3c.github.io/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/input-device-capabilities/",
@@ -51221,6 +51363,11 @@
               "url": "https://w3c.github.io/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/input-device-capabilities/",
@@ -52011,6 +52158,11 @@
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
+            },
+            {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/webtransport/",
@@ -53263,6 +53415,11 @@
               "crawled": "https://wicg.github.io/get-installed-related-apps/spec/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
@@ -53436,6 +53593,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/webcodecs/",
               "title": "WebCodecs",
@@ -53887,6 +54049,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/payment-handler/",
               "title": "Payment Handler API",
@@ -54769,6 +54936,11 @@
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
             },
             {
+              "url": "https://websockets.spec.whatwg.org/",
+              "title": "WebSockets Standard",
+              "crawled": "https://websockets.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/webtransport/",
               "title": "WebTransport",
               "crawled": "https://w3c.github.io/webtransport/"
@@ -55136,7 +55308,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -55628,6 +55806,11 @@
           ],
           "informative": [
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://streams.spec.whatwg.org/",
               "title": "Streams Standard",
               "crawled": "https://streams.spec.whatwg.org/"
@@ -55788,6 +55971,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
@@ -56166,7 +56354,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -59096,6 +59290,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/webnn/",
               "title": "Web Neural Network API",
               "crawled": "https://webmachinelearning.github.io/webnn/"
@@ -61770,6 +61969,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/webnn/",
               "title": "Web Neural Network API",
               "crawled": "https://webmachinelearning.github.io/webnn/"
@@ -62090,7 +62294,18 @@
           "ArrayBuffer"
         ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
+        "missingWebIdlRef": [
+          {
+            "name": "BinaryType",
+            "refs": [
+              {
+                "url": "https://websockets.spec.whatwg.org/",
+                "title": "WebSockets Standard",
+                "crawled": "https://websockets.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingDfns": {
           "css": [],
           "idl": [
@@ -62331,7 +62546,7 @@
             "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
-            "https://html.spec.whatwg.org/#binarytype",
+            "https://html.spec.whatwg.org/#enumdef-binarytype",
             "https://html.spec.whatwg.org/#dom-websocket-binarytype"
           ],
           "evolvingLinks": [],
@@ -62461,6 +62676,94 @@
             }
           ],
           "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebSockets Standard",
+      "shortname": "websockets",
+      "date": "18 February 2022",
+      "url": "https://websockets.spec.whatwg.org/",
+      "nightly": {
+        "url": "https://websockets.spec.whatwg.org/",
+        "repository": "https://github.com/whatwg/websockets",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://websockets.spec.whatwg.org/",
+      "organization": "WHATWG",
+      "groups": [
+        {
+          "name": "HTML Workstream",
+          "url": "https://websockets.spec.whatwg.org/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/CSP3/",
+              "title": "Content Security Policy Level 3",
+              "crawled": "https://w3c.github.io/webappsec-csp/"
+            },
+            {
+              "url": "https://fetch.spec.whatwg.org/",
+              "title": "Fetch Standard",
+              "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://streams.spec.whatwg.org/",
+              "title": "Streams Standard",
+              "crawled": "https://streams.spec.whatwg.org/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#event-loop",
+            "https://html.spec.whatwg.org/#step1",
+            "https://html.spec.whatwg.org/#event-handlers",
+            "https://html.spec.whatwg.org/#event-handler-event-type",
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
+            "https://html.spec.whatwg.org/#queue-a-task",
+            "https://html.spec.whatwg.org/#concept-relevant-realm",
+            "https://html.spec.whatwg.org/#messageevent",
+            "https://html.spec.whatwg.org/#dom-messageevent-origin",
+            "https://html.spec.whatwg.org/#dom-messageevent-data",
+            "https://html.spec.whatwg.org/#task-queue",
+            "https://html.spec.whatwg.org/#concept-task",
+            "https://html.spec.whatwg.org/#task-source"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -62672,7 +62975,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -63914,6 +64223,11 @@
               "url": "https://www.w3.org/TR/FileAPI/",
               "title": "File API",
               "crawled": "https://w3c.github.io/FileAPI/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/mixed-content/",
