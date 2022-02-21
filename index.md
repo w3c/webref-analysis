@@ -5381,6 +5381,7 @@ Normative references to this spec from:
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
@@ -17995,8 +17996,11 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Broken external links:
+     * [`https://html.spec.whatwg.org/#similar-origin-window-agent`](https://html.spec.whatwg.org/#similar-origin-window-agent)
+     * [`https://html.spec.whatwg.org/#dedicated-worker-agent`](https://html.spec.whatwg.org/#dedicated-worker-agent)
+     * [`https://html.spec.whatwg.org/#shared-worker-agent`](https://html.spec.whatwg.org/#shared-worker-agent)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
-     * [`https://html.spec.whatwg.org/#event-loop`](https://html.spec.whatwg.org/#event-loop)
+     * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
@@ -23137,13 +23141,14 @@ Informative references to this spec from:
 
 - Initial URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
 - Crawled URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
-- Crawled version: 11 November 2021
+- Crawled version: 21 February 2022
 - Editor's Draft: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
 - Shortname: quirks
 
 #### Potential issue(s) {.anomalies}
 
 - Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/), related reference "CSS-COLOR-4" uses URL [`https://drafts.csswg.org/css-color/`](https://drafts.csswg.org/css-color/)
      * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css2/box.html#border-edge`](https://drafts.csswg.org/css2/box.html#border-edge)
@@ -23170,7 +23175,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
-- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 
 
