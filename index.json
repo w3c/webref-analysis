@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-21T00:47:33.781Z",
+  "date": "2022-02-21T06:38:05.674Z",
   "stats": {
     "crawled": 462,
     "errors": 0,
@@ -53368,7 +53368,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "17 February 2022",
+      "date": "21 February 2022",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
