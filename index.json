@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-21T06:38:05.674Z",
+  "date": "2022-02-21T12:40:56.714Z",
   "stats": {
     "crawled": 462,
-    "errors": 0,
+    "errors": 1,
     "studied": 462
   },
   "results": [
@@ -3546,7 +3546,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "20 February 2022",
+      "date": "21 February 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4843,6 +4843,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -51784,7 +51785,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "11 February 2022",
+      "date": "21 February 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -62264,7 +62265,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "08 February 2022",
+      "date": "21 February 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -62541,12 +62542,11 @@
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#same-origin",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#serializable",
             "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
-            "https://html.spec.whatwg.org/#enumdef-binarytype",
+            "https://html.spec.whatwg.org/#binarytype",
             "https://html.spec.whatwg.org/#dom-websocket-binarytype"
           ],
           "evolvingLinks": [],
@@ -64169,7 +64169,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "11 February 2022",
+      "date": "21 February 2022",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
