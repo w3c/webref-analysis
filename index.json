@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-22T18:37:16.036Z",
+  "date": "2022-02-23T00:46:21.306Z",
   "stats": {
     "crawled": 462,
     "errors": 1,
@@ -2816,11 +2816,12 @@
             "https://html.spec.whatwg.org/#similar-origin-window-agent",
             "https://html.spec.whatwg.org/#dedicated-worker-agent",
             "https://html.spec.whatwg.org/#shared-worker-agent",
-            "https://html.spec.whatwg.org/#task-source",
-            "https://html.spec.whatwg.org/#concept-task",
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#fully-active"
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#task-source",
+            "https://html.spec.whatwg.org/#concept-task",
+            "https://html.spec.whatwg.org/#report-the-exception"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -3549,7 +3550,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -22821,6 +22822,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://wicg.github.io/compute-pressure/",
+              "title": "Compute Pressure API",
+              "crawled": "https://wicg.github.io/compute-pressure/"
+            },
             {
               "url": "https://wicg.github.io/cookie-store/",
               "title": "Cookie Store API",
@@ -46020,7 +46026,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46085,7 +46091,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46123,7 +46129,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46217,7 +46223,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46301,7 +46307,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46365,7 +46371,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46403,7 +46409,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46464,7 +46470,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -46520,7 +46526,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "22 February 2022",
+      "date": "23 February 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -55710,7 +55716,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "15 February 2022",
+      "date": "22 February 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -55766,7 +55772,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "15 February 2022",
+      "date": "22 February 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -55859,7 +55865,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "15 February 2022",
+      "date": "22 February 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -61937,7 +61943,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "18 February 2022",
+      "date": "22 February 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62059,7 +62065,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "18 February 2022",
+      "date": "22 February 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
