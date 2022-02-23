@@ -11406,7 +11406,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webxr-depth-sensing-1/](https://www.w3.org/TR/webxr-depth-sensing-1/)
 - Crawled URL: [https://immersive-web.github.io/depth-sensing/](https://immersive-web.github.io/depth-sensing/)
-- Crawled version: 15 February 2022
+- Crawled version: 23 February 2022
 - Editor's Draft: [https://immersive-web.github.io/depth-sensing/](https://immersive-web.github.io/depth-sensing/)
 - Latest published version: [https://www.w3.org/TR/webxr-depth-sensing-1/](https://www.w3.org/TR/webxr-depth-sensing-1/)
 - Shortname: webxr-depth-sensing-1
@@ -13976,7 +13976,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
 - Crawled URL: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
-- Crawled version: 25 January 2022
+- Crawled version: 23 February 2022
 - Editor's Draft: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
 - Latest published version: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
 - Shortname: CSP3
@@ -18001,12 +18001,14 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
+- Crawled version: 23 February 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
 #### Potential issue(s) {.anomalies}
 
 - Broken external links:
+     * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#similar-origin-window-agent`](https://html.spec.whatwg.org/#similar-origin-window-agent)
      * [`https://html.spec.whatwg.org/#dedicated-worker-agent`](https://html.spec.whatwg.org/#dedicated-worker-agent)
      * [`https://html.spec.whatwg.org/#shared-worker-agent`](https://html.spec.whatwg.org/#shared-worker-agent)
@@ -18014,7 +18016,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
-     * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
 
 #### Known dependencies on this specification {.dependencies}
@@ -20070,6 +20071,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/visual-viewport/](https://wicg.github.io/visual-viewport/)
 - Crawled URL: [https://wicg.github.io/visual-viewport/](https://wicg.github.io/visual-viewport/)
+- Crawled version: 23 February 2022
 - Editor's Draft: [https://wicg.github.io/visual-viewport/](https://wicg.github.io/visual-viewport/)
 - Shortname: visual-viewport
 
@@ -20078,6 +20080,8 @@ Informative references to this spec from:
 - External links to private terms:
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
      * [`https://www.w3.org/TR/cssom-view-1/#pinch-zoom`](https://www.w3.org/TR/cssom-view-1/#pinch-zoom)
+     * [`https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps)
+     * [`https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
@@ -23198,7 +23202,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Crawled URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
-- Crawled version: 11 February 2022
+- Crawled version: 23 February 2022
 - Editor's Draft: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Shortname: storage
 
@@ -23218,7 +23222,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
-     * [`https://w3c.github.io/permissions/#dom-permissionname-persistent-storage`](https://w3c.github.io/permissions/#dom-permissionname-persistent-storage)
 
 #### Known dependencies on this specification {.dependencies}
 

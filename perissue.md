@@ -2743,6 +2743,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
      * [`https://www.w3.org/TR/cssom-view-1/#pinch-zoom`](https://www.w3.org/TR/cssom-view-1/#pinch-zoom)
+     * [`https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps)
+     * [`https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/):
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation)
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate)
@@ -3023,7 +3025,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 797 problematic external links found in 196 specifications
+=> 799 problematic external links found in 196 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -4433,6 +4435,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#2dcontext`](https://html.spec.whatwg.org/#2dcontext)
 - [Compute Pressure API](https://wicg.github.io/compute-pressure/):
+     * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#similar-origin-window-agent`](https://html.spec.whatwg.org/#similar-origin-window-agent)
      * [`https://html.spec.whatwg.org/#dedicated-worker-agent`](https://html.spec.whatwg.org/#dedicated-worker-agent)
      * [`https://html.spec.whatwg.org/#shared-worker-agent`](https://html.spec.whatwg.org/#shared-worker-agent)
@@ -4440,7 +4443,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
-     * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/):
      * [`https://html.spec.whatwg.org/#htmlbuttonelement`](https://html.spec.whatwg.org/#htmlbuttonelement)
@@ -7828,7 +7830,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
-     * [`https://w3c.github.io/permissions/#dom-permissionname-persistent-storage`](https://w3c.github.io/permissions/#dom-permissionname-persistent-storage)
 - [Streams Standard](https://streams.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#transferable`](https://html.spec.whatwg.org/#transferable)
@@ -8980,7 +8981,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4782 problematic external links found in 297 specifications
+=> 4781 problematic external links found in 297 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
