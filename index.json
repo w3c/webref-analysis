@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-24T06:38:08.336Z",
+  "date": "2022-02-24T12:47:56.607Z",
   "stats": {
     "crawled": 462,
-    "errors": 0,
+    "errors": 1,
     "studied": 462
   },
   "results": [
@@ -23584,6 +23584,7 @@
     {
       "title": "EyeDropper API",
       "shortname": "eyedropper-api",
+      "date": "27 October 2021",
       "url": "https://wicg.github.io/eyedropper-api/",
       "nightly": {
         "url": "https://wicg.github.io/eyedropper-api/",
@@ -26818,6 +26819,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 350)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -38043,6 +38045,7 @@
     {
       "title": "JS Self-Profiling API",
       "shortname": "js-self-profiling",
+      "date": "30 November 2021",
       "url": "https://wicg.github.io/js-self-profiling/",
       "nightly": {
         "url": "https://wicg.github.io/js-self-profiling/",
@@ -38916,6 +38919,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
+      "date": "08 December 2021",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -39541,10 +39545,7 @@
             "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#dom-localstorage",
             "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
-            "https://www.w3.org/TR/permissions/#dom-permissionname",
-            "https://www.w3.org/TR/permissions/#dom-permissionname-camera",
-            "https://www.w3.org/TR/permissions/#dom-permissionname-microphone"
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41257,7 +41258,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "02 February 2022",
+      "date": "24 February 2022",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -44136,7 +44137,6 @@
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
-            "https://html.spec.whatwg.org/#enumdef-binarytype",
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#unload-a-document",
             "https://html.spec.whatwg.org/#navigate",
@@ -55293,6 +55293,7 @@
     {
       "title": "Web NFC",
       "shortname": "web-nfc",
+      "date": "24 February 2022",
       "url": "https://w3c.github.io/web-nfc/",
       "nightly": {
         "url": "https://w3c.github.io/web-nfc/",
@@ -62563,9 +62564,7 @@
             "https://html.spec.whatwg.org/#serializable",
             "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
             "https://html.spec.whatwg.org/#messageevent",
-            "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
-            "https://html.spec.whatwg.org/#binarytype",
-            "https://html.spec.whatwg.org/#dom-websocket-binarytype"
+            "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -64068,6 +64067,7 @@
     {
       "title": "Window Controls Overlay",
       "shortname": "window-controls-overlay",
+      "date": "02 February 2022",
       "url": "https://wicg.github.io/window-controls-overlay/",
       "nightly": {
         "url": "https://wicg.github.io/window-controls-overlay/",
