@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-24T12:47:56.607Z",
+  "date": "2022-02-24T18:37:03.512Z",
   "stats": {
     "crawled": 462,
-    "errors": 1,
+    "errors": 2,
     "studied": 462
   },
   "results": [
@@ -1450,7 +1450,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "19 February 2022",
+      "date": "24 February 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -1608,7 +1608,8 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#allowed-to-play",
-            "https://html.spec.whatwg.org/#concept-document-permissions-policy"
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
+            "https://www.w3.org/TR/webaudio/#audiocontext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -1676,7 +1677,8 @@
             "https://html.spec.whatwg.org/#media-resource",
             "https://html.spec.whatwg.org/#user-activation-data-model",
             "https://html.spec.whatwg.org/#dom-media-play",
-            "https://html.spec.whatwg.org/#sticky-activation"
+            "https://html.spec.whatwg.org/#sticky-activation",
+            "https://webaudio.github.io/web-audio-api/#audiocontext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4853,6 +4855,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22491,7 +22494,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "17 February 2022",
+      "date": "24 February 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -39545,7 +39548,8 @@
             "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#dom-localstorage",
             "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#concept-document-permissions-policy"
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
+            "https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -39705,7 +39709,8 @@
             "https://html.spec.whatwg.org/#dom-media-src",
             "https://html.spec.whatwg.org/#dom-media-srcobject",
             "https://html.spec.whatwg.org/#dom-media-playbackrate",
-            "https://html.spec.whatwg.org/#concept-canvas-origin-clean"
+            "https://html.spec.whatwg.org/#concept-canvas-origin-clean",
+            "https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -44241,7 +44246,7 @@
     {
       "title": "Priority Hints",
       "shortname": "priority-hints",
-      "date": "14 February 2022",
+      "date": "24 February 2022",
       "url": "https://wicg.github.io/priority-hints/",
       "nightly": {
         "url": "https://wicg.github.io/priority-hints/",
@@ -44274,7 +44279,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/priority-hints/",
+              "title": "Priority Hints",
+              "crawled": "https://wicg.github.io/priority-hints/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -44282,19 +44293,36 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#enumerated-attribute",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#link",
+            "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#script",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#invalid-value-default",
             "https://html.spec.whatwg.org/#missing-value-default",
+            "https://html.spec.whatwg.org/#fetching-resources",
             "https://html.spec.whatwg.org/#htmlimageelement",
             "https://html.spec.whatwg.org/#cereactions",
+            "https://html.spec.whatwg.org/#update-the-image-data",
+            "https://html.spec.whatwg.org/#reacting-to-environment-changes",
+            "https://html.spec.whatwg.org/#elements-3",
             "https://html.spec.whatwg.org/#the-picture-element",
             "https://html.spec.whatwg.org/#the-source-element",
-            "https://html.spec.whatwg.org/#the-link-element",
+            "https://html.spec.whatwg.org/#external-resource-link",
+            "https://html.spec.whatwg.org/#fetch-and-process-the-linked-resource",
             "https://html.spec.whatwg.org/#htmllinkelement",
+            "https://html.spec.whatwg.org/#create-a-link-element-request",
+            "https://html.spec.whatwg.org/#fetching-and-processing-a-resource-from-a-link-element",
+            "https://html.spec.whatwg.org/#link-type-modulepreload",
             "https://html.spec.whatwg.org/#htmlscriptelement",
+            "https://html.spec.whatwg.org/#:~:text=dynamically%20has%20no%20direct%20effect",
+            "https://html.spec.whatwg.org/#the-script-element:data-block-2",
+            "https://html.spec.whatwg.org/#script-fetch-options",
+            "https://html.spec.whatwg.org/#default-classic-script-fetch-options",
+            "https://html.spec.whatwg.org/#set-up-the-classic-script-request",
+            "https://html.spec.whatwg.org/#prepare-a-script",
+            "https://html.spec.whatwg.org/#set-up-the-module-script-request",
             "https://html.spec.whatwg.org/#htmliframeelement",
+            "https://html.spec.whatwg.org/#process-the-iframe-attributes",
+            "https://html.spec.whatwg.org/#shared-attribute-processing-steps-for-iframe-and-frame-elements",
             "https://fetch.spec.whatwg.org/#destination"
           ],
           "evolvingLinks": [],
@@ -46585,7 +46613,7 @@
     {
       "title": "Save Data API",
       "shortname": "savedata",
-      "date": "12 January 2022",
+      "date": "24 February 2022",
       "url": "https://wicg.github.io/savedata/",
       "nightly": {
         "url": "https://wicg.github.io/savedata/",
@@ -53528,7 +53556,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "14 February 2022",
+      "date": "24 February 2022",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -56059,7 +56087,9 @@
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
             "https://html.spec.whatwg.org/#dom-document-hidden",
             "https://html.spec.whatwg.org/#htmlmediaelement",
-            "https://html.spec.whatwg.org/#dom-media-src"
+            "https://html.spec.whatwg.org/#dom-media-src",
+            "https://webaudio.github.io/web-audio-api/#audiobuffer",
+            "https://webaudio.github.io/web-audio-api/#audioworklet"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -56465,7 +56495,8 @@
             "https://w3c.github.io/webdriver/#dfn-http-session",
             "https://w3c.github.io/webdriver/#dfn-processing-capabilities",
             "https://w3c.github.io/webdriver/#dfn-create-a-session",
-            "https://w3c.github.io/webdriver/#dfn-window-handle"
+            "https://w3c.github.io/webdriver/#dfn-window-handle",
+            "https://webaudio.github.io/web-audio-api/#audioworkletglobalscope"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -61946,7 +61977,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "23 February 2022",
+      "date": "24 February 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62068,7 +62099,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "23 February 2022",
+      "date": "24 February 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

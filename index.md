@@ -207,7 +207,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 17 February 2022
+- Crawled version: 24 February 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -3690,7 +3690,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Crawled URL: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
-- Crawled version: 14 February 2022
+- Crawled version: 24 February 2022
 - Editor's Draft: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
 - Latest published version: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Shortname: webaudio
@@ -4089,6 +4089,7 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/webdriver/#dfn-processing-capabilities`](https://w3c.github.io/webdriver/#dfn-processing-capabilities)
      * [`https://w3c.github.io/webdriver/#dfn-create-a-session`](https://w3c.github.io/webdriver/#dfn-create-a-session)
      * [`https://w3c.github.io/webdriver/#dfn-window-handle`](https://w3c.github.io/webdriver/#dfn-window-handle)
+     * [`https://webaudio.github.io/web-audio-api/#audioworkletglobalscope`](https://webaudio.github.io/web-audio-api/#audioworkletglobalscope)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4353,7 +4354,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4366,25 +4367,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 324)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11198,7 +11189,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 23 February 2022
+- Crawled version: 24 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11274,7 +11265,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 23 February 2022
+- Crawled version: 24 February 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -12004,6 +11995,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#user-activation-data-model`](https://html.spec.whatwg.org/#user-activation-data-model)
      * [`https://html.spec.whatwg.org/#dom-media-play`](https://html.spec.whatwg.org/#dom-media-play)
      * [`https://html.spec.whatwg.org/#sticky-activation`](https://html.spec.whatwg.org/#sticky-activation)
+     * [`https://webaudio.github.io/web-audio-api/#audiocontext`](https://webaudio.github.io/web-audio-api/#audiocontext)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12339,6 +12331,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-document-hidden`](https://html.spec.whatwg.org/#dom-document-hidden)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
+     * [`https://webaudio.github.io/web-audio-api/#audiobuffer`](https://webaudio.github.io/web-audio-api/#audiobuffer)
+     * [`https://webaudio.github.io/web-audio-api/#audioworklet`](https://webaudio.github.io/web-audio-api/#audioworklet)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17754,7 +17748,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 19 February 2022
+- Crawled version: 24 February 2022
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -19678,7 +19672,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Crawled URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
-- Crawled version: 14 February 2022
+- Crawled version: 24 February 2022
 - Editor's Draft: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Shortname: priority-hints
 
@@ -19687,26 +19681,45 @@ No informative reference to this spec from other specs.
 - Broken external links:
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-     * [`https://html.spec.whatwg.org/#link`](https://html.spec.whatwg.org/#link)
+     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
      * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
      * [`https://html.spec.whatwg.org/#missing-value-default`](https://html.spec.whatwg.org/#missing-value-default)
+     * [`https://html.spec.whatwg.org/#fetching-resources`](https://html.spec.whatwg.org/#fetching-resources)
      * [`https://html.spec.whatwg.org/#htmlimageelement`](https://html.spec.whatwg.org/#htmlimageelement)
      * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
+     * [`https://html.spec.whatwg.org/#update-the-image-data`](https://html.spec.whatwg.org/#update-the-image-data)
+     * [`https://html.spec.whatwg.org/#reacting-to-environment-changes`](https://html.spec.whatwg.org/#reacting-to-environment-changes)
+     * [`https://html.spec.whatwg.org/#elements-3`](https://html.spec.whatwg.org/#elements-3)
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
      * [`https://html.spec.whatwg.org/#the-source-element`](https://html.spec.whatwg.org/#the-source-element)
-     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
+     * [`https://html.spec.whatwg.org/#external-resource-link`](https://html.spec.whatwg.org/#external-resource-link)
+     * [`https://html.spec.whatwg.org/#fetch-and-process-the-linked-resource`](https://html.spec.whatwg.org/#fetch-and-process-the-linked-resource)
      * [`https://html.spec.whatwg.org/#htmllinkelement`](https://html.spec.whatwg.org/#htmllinkelement)
+     * [`https://html.spec.whatwg.org/#create-a-link-element-request`](https://html.spec.whatwg.org/#create-a-link-element-request)
+     * [`https://html.spec.whatwg.org/#fetching-and-processing-a-resource-from-a-link-element`](https://html.spec.whatwg.org/#fetching-and-processing-a-resource-from-a-link-element)
+     * [`https://html.spec.whatwg.org/#link-type-modulepreload`](https://html.spec.whatwg.org/#link-type-modulepreload)
      * [`https://html.spec.whatwg.org/#htmlscriptelement`](https://html.spec.whatwg.org/#htmlscriptelement)
+     * [`https://html.spec.whatwg.org/#:~:text=dynamically%20has%20no%20direct%20effect`](https://html.spec.whatwg.org/#:~:text=dynamically%20has%20no%20direct%20effect)
+     * [`https://html.spec.whatwg.org/#the-script-element:data-block-2`](https://html.spec.whatwg.org/#the-script-element:data-block-2)
+     * [`https://html.spec.whatwg.org/#script-fetch-options`](https://html.spec.whatwg.org/#script-fetch-options)
+     * [`https://html.spec.whatwg.org/#default-classic-script-fetch-options`](https://html.spec.whatwg.org/#default-classic-script-fetch-options)
+     * [`https://html.spec.whatwg.org/#set-up-the-classic-script-request`](https://html.spec.whatwg.org/#set-up-the-classic-script-request)
+     * [`https://html.spec.whatwg.org/#prepare-a-script`](https://html.spec.whatwg.org/#prepare-a-script)
+     * [`https://html.spec.whatwg.org/#set-up-the-module-script-request`](https://html.spec.whatwg.org/#set-up-the-module-script-request)
      * [`https://html.spec.whatwg.org/#htmliframeelement`](https://html.spec.whatwg.org/#htmliframeelement)
+     * [`https://html.spec.whatwg.org/#process-the-iframe-attributes`](https://html.spec.whatwg.org/#process-the-iframe-attributes)
+     * [`https://html.spec.whatwg.org/#shared-attribute-processing-steps-for-iframe-and-frame-elements`](https://html.spec.whatwg.org/#shared-attribute-processing-steps-for-iframe-and-frame-elements)
      * [`https://fetch.spec.whatwg.org/#destination`](https://fetch.spec.whatwg.org/#destination)
 
 #### Known dependencies on this specification {.dependencies}
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Priority Hints](https://wicg.github.io/priority-hints/)
 
 
 ### Private Network Access {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -19872,7 +19885,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/savedata/](https://wicg.github.io/savedata/)
 - Crawled URL: [https://wicg.github.io/savedata/](https://wicg.github.io/savedata/)
-- Crawled version: 12 January 2022
+- Crawled version: 24 February 2022
 - Editor's Draft: [https://wicg.github.io/savedata/](https://wicg.github.io/savedata/)
 - Shortname: savedata
 
@@ -20587,6 +20600,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#allowed-to-play`](https://html.spec.whatwg.org/#allowed-to-play)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://www.w3.org/TR/webaudio/#audiocontext`](https://www.w3.org/TR/webaudio/#audiocontext)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20759,6 +20773,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode`](https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20866,6 +20881,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
      * [`https://html.spec.whatwg.org/#dom-media-playbackrate`](https://html.spec.whatwg.org/#dom-media-playbackrate)
      * [`https://html.spec.whatwg.org/#concept-canvas-origin-clean`](https://html.spec.whatwg.org/#concept-canvas-origin-clean)
+     * [`https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode`](https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 
