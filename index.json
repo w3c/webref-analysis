@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-25T12:41:22.845Z",
+  "date": "2022-02-25T18:39:32.118Z",
   "stats": {
     "crawled": 462,
-    "errors": 2,
+    "errors": 1,
     "studied": 462
   },
   "results": [
@@ -2829,7 +2829,10 @@
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#task-source",
-            "https://html.spec.whatwg.org/#report-the-exception"
+            "https://html.spec.whatwg.org/#report-the-exception",
+            "https://html.spec.whatwg.org/#active-window",
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#same-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4855,7 +4858,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8867,7 +8869,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "18 February 2022",
+      "date": "24 February 2022",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -18497,11 +18499,6 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/webvtt1/",
               "title": "WebVTT: The Web Video Text Tracks Format",
               "crawled": "https://w3c.github.io/webvtt/"
@@ -24158,6 +24155,11 @@
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
+            },
+            {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -61981,7 +61983,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "24 February 2022",
+      "date": "25 February 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62103,7 +62105,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "24 February 2022",
+      "date": "25 February 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
