@@ -19680,7 +19680,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Crawled URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
-- Crawled version: 24 February 2022
+- Crawled version: 28 February 2022
 - Editor's Draft: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Shortname: priority-hints
 

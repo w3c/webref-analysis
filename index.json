@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-02-28T12:41:14.436Z",
+  "date": "2022-02-28T18:36:05.813Z",
   "stats": {
     "crawled": 462,
     "errors": 2,
@@ -44262,7 +44262,7 @@
     {
       "title": "Priority Hints",
       "shortname": "priority-hints",
-      "date": "24 February 2022",
+      "date": "28 February 2022",
       "url": "https://wicg.github.io/priority-hints/",
       "nightly": {
         "url": "https://wicg.github.io/priority-hints/",
