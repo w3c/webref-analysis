@@ -242,6 +242,7 @@ Normative references to this spec from:
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
@@ -5551,6 +5552,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -9475,6 +9477,7 @@ Normative references to this spec from:
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
@@ -10156,6 +10159,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
@@ -10971,7 +10975,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### HTML Media Capture {data-spec=true data-error=true}
+### HTML Media Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10984,39 +10988,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 350)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
+- External links to outdated specs:
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12383,6 +12359,113 @@ Informative references to this spec from:
 
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
+
+
+## MiniApps Working Group {#miniapps_working_group}
+
+### MiniApp Lifecycle {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
+- Crawled URL: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
+- Crawled version: 24 February 2022
+- Editor's Draft: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
+- Latest published version: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
+- Shortname: miniapp-lifecycle
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mini-app-white-paper/`](https://www.w3.org/TR/mini-app-white-paper/)
+     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/)
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+
+No informative reference to this spec from other specs.
+
+
+### MiniApp Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
+- Crawled URL: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
+- Crawled version: 28 January 2022
+- Editor's Draft: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
+- Latest published version: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
+- Shortname: miniapp-manifest
+
+#### Potential issue(s) {.anomalies}
+
+- External links to private terms:
+     * [`https://www.w3.org/TR/appmanifest/#dfn-text-directions`](https://www.w3.org/TR/appmanifest/#dfn-text-directions)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-ltr`](https://www.w3.org/TR/appmanifest/#dfn-ltr)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-rtl`](https://www.w3.org/TR/appmanifest/#dfn-rtl)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-auto`](https://www.w3.org/TR/appmanifest/#dfn-auto)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-the-dir-member`](https://www.w3.org/TR/appmanifest/#dfn-process-the-dir-member)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-image-resources`](https://www.w3.org/TR/appmanifest/#dfn-process-image-resources)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-language-tag`](https://www.w3.org/TR/appmanifest/#dfn-language-tag)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-the-lang-member`](https://www.w3.org/TR/appmanifest/#dfn-process-the-lang-member)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-a-text-member`](https://www.w3.org/TR/appmanifest/#dfn-process-a-text-member)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-a-color-member`](https://www.w3.org/TR/appmanifest/#dfn-process-a-color-member)
+     * [`https://w3c.github.io/miniapp-packaging/#dfn-page`](https://w3c.github.io/miniapp-packaging/#dfn-page)
+     * [`https://w3c.github.io/miniapp-packaging/#dfn-package`](https://w3c.github.io/miniapp-packaging/#dfn-package)
+     * [`https://www.w3.org/TR/image-resource/#dfn-src`](https://www.w3.org/TR/image-resource/#dfn-src)
+     * [`https://www.w3.org/TR/image-resource/#dfn-label`](https://www.w3.org/TR/image-resource/#dfn-label)
+     * [`https://www.w3.org/TR/image-resource/#dfn-sizes`](https://www.w3.org/TR/image-resource/#dfn-sizes)
+- Broken external links:
+     * [`https://www.w3.org/TR/appmanifest/#dfn-extension-point`](https://www.w3.org/TR/appmanifest/#dfn-extension-point)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-fullscreen`](https://www.w3.org/TR/appmanifest/#dfn-fullscreen)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-minimal-ui`](https://www.w3.org/TR/appmanifest/#dfn-minimal-ui)
+     * [`https://html.spec.whatwg.org/#listing`](https://html.spec.whatwg.org/#listing)
+     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
+     * [`https://html.spec.whatwg.org/#attr-link-sizes`](https://html.spec.whatwg.org/#attr-link-sizes)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+
+No informative reference to this spec from other specs.
+
+
+### MiniApp Packaging {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
+- Crawled URL: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
+- Crawled version: 25 February 2022
+- Editor's Draft: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
+- Latest published version: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
+- Shortname: miniapp-packaging
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/miniapp-manifest/#dfn-processing-a-miniapp-manifest`](https://www.w3.org/TR/miniapp-manifest/#dfn-processing-a-miniapp-manifest)
+     * [`https://mimesniff.spec.whatwg.org/#supplied-mime-type-detection-algorithm`](https://mimesniff.spec.whatwg.org/#supplied-mime-type-detection-algorithm)
+- Broken external links:
+     * [`https://www.w3.org/TR/miniapp-manifest/#dfn-page-route`](https://www.w3.org/TR/miniapp-manifest/#dfn-page-route)
+     * [`https://html.spec.whatwg.org/#syntax`](https://html.spec.whatwg.org/#syntax)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+
+No informative reference to this spec from other specs.
 
 
 ## Patents and Standards Interest Group {#patents_and_standards_interest_group}
@@ -15443,6 +15526,7 @@ Normative references to this spec from:
 
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
@@ -15769,6 +15853,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 No informative reference to this spec from other specs.
@@ -15897,7 +15982,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 
 Informative references to this spec from:
 
@@ -15939,6 +16026,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
@@ -20641,7 +20729,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#allowed-to-play`](https://html.spec.whatwg.org/#allowed-to-play)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
-     * [`https://www.w3.org/TR/webaudio/#audiocontext`](https://www.w3.org/TR/webaudio/#audiocontext)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20921,7 +21008,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
      * [`https://html.spec.whatwg.org/#dom-media-playbackrate`](https://html.spec.whatwg.org/#dom-media-playbackrate)
      * [`https://html.spec.whatwg.org/#concept-canvas-origin-clean`](https://html.spec.whatwg.org/#concept-canvas-origin-clean)
-     * [`https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode`](https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 
@@ -21942,6 +22028,7 @@ Normative references to this spec from:
 - [Media Session Standard](https://w3c.github.io/mediasession/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -22749,6 +22836,8 @@ Normative references to this spec from:
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -23058,6 +23147,8 @@ Normative references to this spec from:
 - [Media Session Standard](https://w3c.github.io/mediasession/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Origin Policy](https://wicg.github.io/origin-policy/)
@@ -23168,6 +23259,7 @@ Normative references to this spec from:
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Session Standard](https://w3c.github.io/mediasession/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Origin Policy](https://wicg.github.io/origin-policy/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Preload](https://w3c.github.io/preload/)
@@ -23489,6 +23581,8 @@ Normative references to this spec from:
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Media Session Standard](https://w3c.github.io/mediasession/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -23681,6 +23775,7 @@ Normative references to this spec from:
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
@@ -23771,6 +23866,7 @@ Although they do not, the following specs should also normatively reference this
 
 Informative references to this spec from:
 
+- [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 - [Web Application Manifest](https://w3c.github.io/manifest/)

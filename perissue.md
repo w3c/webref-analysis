@@ -2,45 +2,7 @@
 % Strudy
 % March 02, 2022
 
-462 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 350)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-=> 1 specification found
+465 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -64,6 +26,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [Intl Locale Info Proposal](https://tc39.es/proposal-intl-locale-info/)
 - [Intl.DurationFormat](https://tc39.es/proposal-intl-duration-format/)
 - [JSON modules](https://tc39.es/proposal-json-modules/)
+- [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Method: Basic Card](https://w3c.github.io/payment-method-basic-card/)
 - [Private Fields in `in`](https://tc39.es/proposal-private-fields-in-in/)
@@ -129,7 +92,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 83 specifications found
+=> 84 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -1442,6 +1405,11 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/) links to:
     * [`https://www.w3.org/TR/webrtc-identity/`](https://www.w3.org/TR/webrtc-identity/) but does not list it in its references
     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but does not list it in its references
+- [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/) links to:
+    * [`https://www.w3.org/TR/mini-app-white-paper/`](https://www.w3.org/TR/mini-app-white-paper/) but does not list it in its references
+    * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/) but does not list it in its references
+    * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/) links to [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/) but does not list it in its references
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1636,7 +1604,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 726 missing references for links found in 192 specifications
+=> 730 missing references for links found in 194 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2615,6 +2583,25 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting`](https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/):
      * [`https://streams.spec.whatwg.org/#readablestream-controller`](https://streams.spec.whatwg.org/#readablestream-controller)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/):
+     * [`https://www.w3.org/TR/appmanifest/#dfn-text-directions`](https://www.w3.org/TR/appmanifest/#dfn-text-directions)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-ltr`](https://www.w3.org/TR/appmanifest/#dfn-ltr)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-rtl`](https://www.w3.org/TR/appmanifest/#dfn-rtl)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-auto`](https://www.w3.org/TR/appmanifest/#dfn-auto)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-the-dir-member`](https://www.w3.org/TR/appmanifest/#dfn-process-the-dir-member)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-image-resources`](https://www.w3.org/TR/appmanifest/#dfn-process-image-resources)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-language-tag`](https://www.w3.org/TR/appmanifest/#dfn-language-tag)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-the-lang-member`](https://www.w3.org/TR/appmanifest/#dfn-process-the-lang-member)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-a-text-member`](https://www.w3.org/TR/appmanifest/#dfn-process-a-text-member)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-process-a-color-member`](https://www.w3.org/TR/appmanifest/#dfn-process-a-color-member)
+     * [`https://w3c.github.io/miniapp-packaging/#dfn-page`](https://w3c.github.io/miniapp-packaging/#dfn-page)
+     * [`https://w3c.github.io/miniapp-packaging/#dfn-package`](https://w3c.github.io/miniapp-packaging/#dfn-package)
+     * [`https://www.w3.org/TR/image-resource/#dfn-src`](https://www.w3.org/TR/image-resource/#dfn-src)
+     * [`https://www.w3.org/TR/image-resource/#dfn-label`](https://www.w3.org/TR/image-resource/#dfn-label)
+     * [`https://www.w3.org/TR/image-resource/#dfn-sizes`](https://www.w3.org/TR/image-resource/#dfn-sizes)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/):
+     * [`https://www.w3.org/TR/miniapp-manifest/#dfn-processing-a-miniapp-manifest`](https://www.w3.org/TR/miniapp-manifest/#dfn-processing-a-miniapp-manifest)
+     * [`https://mimesniff.spec.whatwg.org/#supplied-mime-type-detection-algorithm`](https://mimesniff.spec.whatwg.org/#supplied-mime-type-detection-algorithm)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/):
@@ -3059,7 +3046,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 797 problematic external links found in 196 specifications
+=> 814 problematic external links found in 198 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3356,6 +3343,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-label`](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://drafts.csswg.org/css2/#block-boxes%E2%91%A0`](https://drafts.csswg.org/css2/#block-boxes%E2%91%A0)
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
@@ -3929,7 +3918,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 811 problematic external links found in 53 specifications
+=> 812 problematic external links found in 54 specifications
 
 
 ## Broken external links
@@ -4287,7 +4276,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#allowed-to-play`](https://html.spec.whatwg.org/#allowed-to-play)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
-     * [`https://www.w3.org/TR/webaudio/#audiocontext`](https://www.w3.org/TR/webaudio/#audiocontext)
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/):
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
@@ -6564,7 +6552,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
      * [`https://html.spec.whatwg.org/#dom-media-playbackrate`](https://html.spec.whatwg.org/#dom-media-playbackrate)
      * [`https://html.spec.whatwg.org/#concept-canvas-origin-clean`](https://html.spec.whatwg.org/#concept-canvas-origin-clean)
-     * [`https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode`](https://www.w3.org/TR/webaudio/#mediastreamaudiosourcenode)
 - [Media Feeds](https://wicg.github.io/media-feeds/):
      * [`https://html.spec.whatwg.org/#case-sensitive`](https://html.spec.whatwg.org/#case-sensitive)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
@@ -6712,6 +6699,16 @@ Links in the body of a specification should be to the same document as that poin
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#attr-script-type`](https://html.spec.whatwg.org/#attr-script-type)
      * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/):
+     * [`https://www.w3.org/TR/appmanifest/#dfn-extension-point`](https://www.w3.org/TR/appmanifest/#dfn-extension-point)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-fullscreen`](https://www.w3.org/TR/appmanifest/#dfn-fullscreen)
+     * [`https://www.w3.org/TR/appmanifest/#dfn-minimal-ui`](https://www.w3.org/TR/appmanifest/#dfn-minimal-ui)
+     * [`https://html.spec.whatwg.org/#listing`](https://html.spec.whatwg.org/#listing)
+     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
+     * [`https://html.spec.whatwg.org/#attr-link-sizes`](https://html.spec.whatwg.org/#attr-link-sizes)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/):
+     * [`https://www.w3.org/TR/miniapp-manifest/#dfn-page-route`](https://www.w3.org/TR/miniapp-manifest/#dfn-page-route)
+     * [`https://html.spec.whatwg.org/#syntax`](https://html.spec.whatwg.org/#syntax)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/):
      * [`https://html.spec.whatwg.org/#user-tracking`](https://html.spec.whatwg.org/#user-tracking)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/):
@@ -9046,7 +9043,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4814 problematic external links found in 297 specifications
+=> 4820 problematic external links found in 299 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9094,6 +9091,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
@@ -9165,7 +9165,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 50 specifications
+=> 59 problematic external links found in 51 specifications
 
 
 ## External links that use a dated URL
