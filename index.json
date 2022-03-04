@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-04T06:39:34.412Z",
+  "date": "2022-03-04T12:41:41.893Z",
   "stats": {
     "crawled": 465,
-    "errors": 0,
+    "errors": 1,
     "studied": 465
   },
   "results": [
@@ -2776,7 +2776,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "03 March 2022",
+      "date": "04 March 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -4857,6 +4857,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -49995,7 +49996,7 @@
     {
       "title": "Storage Standard",
       "shortname": "storage",
-      "date": "23 February 2022",
+      "date": "4 March 2022",
       "url": "https://storage.spec.whatwg.org/",
       "nightly": {
         "url": "https://storage.spec.whatwg.org/",
@@ -50073,8 +50074,10 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#environment-settings-object",
+            "https://html.spec.whatwg.org/#environment",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
+            "https://html.spec.whatwg.org/#concept-environment-creation-url",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#browsing-session",
             "https://html.spec.whatwg.org/#environment-browsing-session",
@@ -52548,6 +52551,11 @@
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://storage.spec.whatwg.org/",
+              "title": "Storage Standard",
+              "crawled": "https://storage.spec.whatwg.org/"
             },
             {
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
