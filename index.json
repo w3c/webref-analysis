@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-04T00:49:03.050Z",
+  "date": "2022-03-04T06:39:34.412Z",
   "stats": {
     "crawled": 465,
     "errors": 0,
@@ -38683,7 +38683,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "3 March 2022",
+      "date": "4 March 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -62404,7 +62404,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "3 March 2022",
+      "date": "4 March 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62526,7 +62526,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "3 March 2022",
+      "date": "4 March 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
