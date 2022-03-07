@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-07T00:47:32.854Z",
+  "date": "2022-03-07T06:38:39.721Z",
   "stats": {
     "crawled": 465,
     "errors": 0,
@@ -3560,7 +3560,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "6 March 2022",
+      "date": "7 March 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -26663,8 +26663,8 @@
             "https://html.spec.whatwg.org/#the-legend-element",
             "https://html.spec.whatwg.org/#the-li-element",
             "https://html.spec.whatwg.org/#the-ol-element",
-            "https://html.spec.whatwg.org/#the-ul-element",
             "https://html.spec.whatwg.org/#menus",
+            "https://html.spec.whatwg.org/#the-ul-element",
             "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#the-map-element",
             "https://html.spec.whatwg.org/#the-mark-element",
@@ -39497,7 +39497,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "28 February 2022",
+      "date": "07 March 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
