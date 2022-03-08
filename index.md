@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 07, 2022
+% March 08, 2022
 
 # Ecma International {#ecma_international}
 
@@ -643,7 +643,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 1 March 2022
+- Crawled version: 7 March 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -689,7 +689,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -718,7 +718,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -779,7 +779,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -802,7 +802,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1226,7 +1226,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1249,7 +1249,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1279,7 +1279,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1320,7 +1320,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1355,7 +1355,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1386,7 +1386,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 7 March 2022
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -4470,7 +4470,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Animations Level 1 {data-spec=true data-error=true}
+### CSS Animations Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4483,15 +4483,30 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 242)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Unknown WebIDL names used: `CSSOMString`
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+     * [`https://drafts.csswg.org/css-easing-1/#input-progress-value`](https://drafts.csswg.org/css-easing-1/#input-progress-value)
+     * [`https://drafts.csswg.org/css-easing-1/#step-easing-function`](https://drafts.csswg.org/css-easing-1/#step-easing-function)
+     * [`https://drafts.csswg.org/css-easing-1/#step-position`](https://drafts.csswg.org/css-easing-1/#step-position)
+     * [`https://drafts.csswg.org/css-easing-1/#output-progress-value`](https://drafts.csswg.org/css-easing-1/#output-progress-value)
+     * [`https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order`](https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
+     * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
+     * [`https://html.spec.whatwg.org/#html-elements`](https://html.spec.whatwg.org/#html-elements)
+     * [`https://html.spec.whatwg.org/#event-handler-content-attributes`](https://html.spec.whatwg.org/#event-handler-content-attributes)
+     * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#globaleventhandlers`](https://html.spec.whatwg.org/#globaleventhandlers)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4586,7 +4601,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Backgrounds and Borders Module Level 3 {data-spec=true data-error=true}
+### CSS Backgrounds and Borders Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4599,15 +4614,45 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-backgrounds/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-backgrounds/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 243)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
+     * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/)
+     * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/2014/CR-css3-background-20140909/`](https://www.w3.org/TR/2014/CR-css3-background-20140909/)
+     * [`https://www.w3.org/TR/2014/WD-css3-background-20140204/`](https://www.w3.org/TR/2014/WD-css3-background-20140204/)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120724/`](https://www.w3.org/TR/2012/CR-css3-background-20120724/)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120417/`](https://www.w3.org/TR/2012/CR-css3-background-20120417/)
+     * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/)
+     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
+     * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://www.w3.org/TR/css-transitions-1/#animatable-types`](https://www.w3.org/TR/css-transitions-1/#animatable-types)
+     * [`https://www.w3.org/TR/css-color-4/#currentcolor`](https://www.w3.org/TR/css-color-4/#currentcolor)
+     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
+     * [`https://www.w3.org/TR/selectors-3/#sel-first-line`](https://www.w3.org/TR/selectors-3/#sel-first-line)
+     * [`https://www.w3.org/TR/selectors-3/#first-letter0`](https://www.w3.org/TR/selectors-3/#first-letter0)
+     * [`https://www.w3.org/TR/css-color-3/#color1`](https://www.w3.org/TR/css-color-3/#color1)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2014/CR-css3-background-20140909/`](https://www.w3.org/TR/2014/CR-css3-background-20140909/)
+     * [`https://www.w3.org/TR/2014/WD-css3-background-20140204/`](https://www.w3.org/TR/2014/WD-css3-background-20140204/)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120724/`](https://www.w3.org/TR/2012/CR-css3-background-20120724/)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120417/`](https://www.w3.org/TR/2012/CR-css3-background-20120417/)
+     * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/)
+     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
+     * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4791,7 +4836,7 @@ Informative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 
 
-### CSS Box Alignment Module Level 3 {data-spec=true data-error=true}
+### CSS Box Alignment Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4804,15 +4849,27 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-align/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-align/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 240)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/)
+     * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://drafts.csswg.org/css2/#line-box`](https://drafts.csswg.org/css2/#line-box)
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+     * [`https://drafts.csswg.org/css-grid-1/#collapsed-gutter`](https://drafts.csswg.org/css-grid-1/#collapsed-gutter)
+     * [`https://drafts.csswg.org/css-writing-modes-3/#dominant-baseline`](https://drafts.csswg.org/css-writing-modes-3/#dominant-baseline)
+- Broken external links:
+     * [`https://drafts.csswg.org/selectors-3/#first-formatted-line0`](https://drafts.csswg.org/selectors-3/#first-formatted-line0)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4849,7 +4906,7 @@ Informative references to this spec from:
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 
 
-### CSS Box Model Module Level 3 {data-spec=true data-error=true}
+### CSS Box Model Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4862,15 +4919,22 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 244)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
+     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4891,7 +4955,7 @@ Informative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 
 
-### CSS Box Model Module Level 4 {data-spec=true data-error=true}
+### CSS Box Model Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4904,15 +4968,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 245)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
+     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/css-logical-1/`](https://www.w3.org/TR/css-logical-1/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5105,7 +5179,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 
 
-### CSS Cascading and Inheritance Level 3 {data-spec=true data-error=true}
+### CSS Cascading and Inheritance Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5118,15 +5192,21 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 248)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
+     * [`https://html.spec.whatwg.org/#quirks-mode`](https://html.spec.whatwg.org/#quirks-mode)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
+     * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
+     * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5148,7 +5228,7 @@ Informative references to this spec from:
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 
 
-### CSS Cascading and Inheritance Level 4 {data-spec=true data-error=true}
+### CSS Cascading and Inheritance Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5161,15 +5241,34 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 249)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/)
+     * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/)
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
+     * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location)
+     * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag)
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#cors-same-origin`](https://html.spec.whatwg.org/#cors-same-origin)
+     * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
+     * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
+     * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
+     * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
+     * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
+     * [`https://www.w3.org/TR/css-scoping-1/#shadow-tree`](https://www.w3.org/TR/css-scoping-1/#shadow-tree)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5186,7 +5285,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Cascading and Inheritance Level 5 {data-spec=true data-error=true}
+### CSS Cascading and Inheritance Level 5 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -5199,15 +5298,29 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 250)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Unknown WebIDL names used: `CSSOMString`
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/)
+     * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
+     * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
+     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
+     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
+     * [`https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints`](https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints)
+     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
+     * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
+     * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6392,7 +6505,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 
 
-### CSS Fragmentation Module Level 3 {data-spec=true data-error=true}
+### CSS Fragmentation Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -6405,15 +6518,28 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-break/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 246)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/2015/WD-css3-break-20150129/`](https://www.w3.org/TR/2015/WD-css3-break-20150129/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+     * [`https://www.w3.org/TR/css3-background/#background-positioning-area`](https://www.w3.org/TR/css3-background/#background-positioning-area)
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/css3-page/#left-right-first`](https://www.w3.org/TR/css3-page/#left-right-first)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2015/WD-css3-break-20150129/`](https://www.w3.org/TR/2015/WD-css3-break-20150129/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6455,7 +6581,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 
 
-### CSS Fragmentation Module Level 4 {data-spec=true data-error=true}
+### CSS Fragmentation Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -6468,15 +6594,22 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 247)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/css-page-3/#left-right-first`](https://www.w3.org/TR/css-page-3/#left-right-first)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6563,7 +6696,7 @@ Informative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 
 
-### CSS Generated Content for Paged Media Module Level 4 {data-spec=true data-error=true}
+### CSS Generated Content for Paged Media Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -6575,15 +6708,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 10)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6702,7 +6833,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Grid Layout Module Level 3 {data-spec=true data-error=true}
+### CSS Grid Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -6714,15 +6845,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-grid-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-grid-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 11)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://drafts.csswg.org/css-grid-2/#computed-track-list`](https://drafts.csswg.org/css-grid-2/#computed-track-list)
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- External links that neither target definitions nor headings:
+     * [`https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order`](https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7170,7 +7303,7 @@ Informative references to this spec from:
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 
-### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-error=true}
+### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7182,15 +7315,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 15)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7255,7 +7388,7 @@ Informative references to this spec from:
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 
 
-### CSS Multi-column Layout Module Level 2 {data-spec=true data-error=true}
+### CSS Multi-column Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7267,15 +7400,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 12)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8323,7 +8455,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-shapes-1/](https://www.w3.org/TR/css-shapes-1/)
 - Crawled URL: [https://drafts.csswg.org/css-shapes/](https://drafts.csswg.org/css-shapes/)
-- Crawled version: 4 March 2022
+- Crawled version: 7 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-shapes/](https://drafts.csswg.org/css-shapes/)
 - Latest published version: [https://www.w3.org/TR/css-shapes-1/](https://www.w3.org/TR/css-shapes-1/)
 - Shortname: css-shapes-1
@@ -8373,27 +8505,30 @@ Informative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
 
 
-### CSS Shapes Module Level 2 {data-spec=true data-error=true}
+### CSS Shapes Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
 - Crawled URL: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
-- Crawled version: 12 October 2021
+- Crawled version: 7 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
 - Shortname: css-shapes-2
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 14)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- External links to private terms:
+     * [`https://drafts.csswg.org/css-shapes-1/#reference-box`](https://drafts.csswg.org/css-shapes-1/#reference-box)
+     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
+     * [`https://www.w3.org/TR/css3-exclusions/#wrapping-context`](https://www.w3.org/TR/css3-exclusions/#wrapping-context)
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9119,7 +9254,7 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Transitions Level 2 {data-spec=true data-error=true}
+### CSS Transitions Level 2 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9131,15 +9266,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 16)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Unknown WebIDL names used: `CSSOMString`
+- External links to private terms:
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#start-delay`](https://drafts.csswg.org/web-animations-1/#start-delay)
+     * [`https://drafts.csswg.org/web-animations-1/#cancel-an-animation`](https://drafts.csswg.org/web-animations-1/#cancel-an-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-class`](https://drafts.csswg.org/web-animations-1/#animation-class)
+     * [`https://drafts.csswg.org/web-animations-1/#idle-play-state`](https://drafts.csswg.org/web-animations-1/#idle-play-state)
+     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
+     * [`https://drafts.csswg.org/web-animations-1/#pending-play-task`](https://drafts.csswg.org/web-animations-1/#pending-play-task)
+     * [`https://drafts.csswg.org/web-animations-1/#pending-pause-task`](https://drafts.csswg.org/web-animations-1/#pending-pause-task)
+     * [`https://drafts.csswg.org/web-animations-1/#active-duration`](https://drafts.csswg.org/web-animations-1/#active-duration)
+     * [`https://drafts.csswg.org/web-animations-1/#associated-effect-end`](https://drafts.csswg.org/web-animations-1/#associated-effect-end)
+     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
+     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
+     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9506,7 +9651,7 @@ Informative references to this spec from:
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 
 
-### CSS Values and Units Module Level 5 {data-spec=true data-error=true}
+### CSS Values and Units Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9518,15 +9663,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 17)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Broken external links:
+     * [`https://www.w3.org/TR/css-values-4/#acknowledgements`](https://www.w3.org/TR/css-values-4/#acknowledgements)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9923,7 +10061,7 @@ Informative references to this spec from:
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 
 
-### Media Queries Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Media Queries Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9936,12 +10074,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
-- External links to private terms:
-     * [`https://drafts.csswg.org/css-values-3/#relative-length`](https://drafts.csswg.org/css-values-3/#relative-length)
-     * [`https://drafts.csswg.org/cssom-view-1/#page-zoom`](https://drafts.csswg.org/cssom-view-1/#page-zoom)
-     * [`https://drafts.csswg.org/cssom-view-1/#pinch-zoom`](https://drafts.csswg.org/cssom-view-1/#pinch-zoom)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 367)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9970,7 +10111,7 @@ Informative references to this spec from:
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 
 
-### Media Queries Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Media Queries Level 5 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9983,14 +10124,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- External links to private terms:
-     * [`https://drafts.csswg.org/css-values-4/#relative-length`](https://drafts.csswg.org/css-values-4/#relative-length)
-     * [`https://drafts.csswg.org/cssom-view-1/#page-zoom`](https://drafts.csswg.org/cssom-view-1/#page-zoom)
-     * [`https://drafts.csswg.org/cssom-view-1/#pinch-zoom`](https://drafts.csswg.org/cssom-view-1/#pinch-zoom)
-     * [`https://drafts.csswg.org/css-color-4/#css-system-colors`](https://drafts.csswg.org/css-color-4/#css-system-colors)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#joint-session-history`](https://html.spec.whatwg.org/#joint-session-history)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 368)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10125,7 +10267,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Resize Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Resize Observer {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10138,16 +10280,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css3-positioning/`](https://www.w3.org/TR/css3-positioning/)
-     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
-     * [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
-     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
-- Broken external links:
-     * [`https://www.w3.org/TR/css3-positioning/#viewport`](https://www.w3.org/TR/css3-positioning/#viewport)
-     * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
-     * [`https://html.spec.whatwg.org/#errorevent`](https://html.spec.whatwg.org/#errorevent)
-     * [`https://html.spec.whatwg.org/#processing-model-8`](https://html.spec.whatwg.org/#processing-model-8)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/resize-observer/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/resize-observer/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 402)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10159,7 +10300,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Scroll-linked Animations {data-spec=true data-error=true}
+### Scroll-linked Animations {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10171,15 +10312,17 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 18)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Unknown WebIDL names used: `CSSOMString`
+- Missing references for links: 
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+- External links to private terms:
+     * [`https://drafts.csswg.org/cssom-view-1/#css-layout-box`](https://drafts.csswg.org/cssom-view-1/#css-layout-box)
+     * [`https://drafts.csswg.org/cssom-view-1/#overflow-directions`](https://drafts.csswg.org/cssom-view-1/#overflow-directions)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#concept-document-windowconcept-document-window`](https://html.spec.whatwg.org/#concept-document-windowconcept-document-window)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
+     * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10188,7 +10331,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Selectors Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Selectors Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10201,64 +10344,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
-     * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
-     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
-     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
-     * [`https://html.spec.whatwg.org/#selectors`](https://html.spec.whatwg.org/#selectors)
-     * [`https://html.spec.whatwg.org/#the-ol-element`](https://html.spec.whatwg.org/#the-ol-element)
-     * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
-     * [`https://html.spec.whatwg.org/#the-h1-element`](https://html.spec.whatwg.org/#the-h1-element)
-     * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
-     * [`https://html.spec.whatwg.org/#element-definition`](https://html.spec.whatwg.org/#element-definition)
-     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
-     * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
-     * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
-     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
-     * [`https://html.spec.whatwg.org/#the-directionality`](https://html.spec.whatwg.org/#the-directionality)
-     * [`https://html.spec.whatwg.org/#meta`](https://html.spec.whatwg.org/#meta)
-     * [`https://html.spec.whatwg.org/#the-q-element`](https://html.spec.whatwg.org/#the-q-element)
-     * [`https://html.spec.whatwg.org/#the-area-element`](https://html.spec.whatwg.org/#the-area-element)
-     * [`https://html.spec.whatwg.org/#selector-hover`](https://html.spec.whatwg.org/#selector-hover)
-     * [`https://html.spec.whatwg.org/#the-label-element`](https://html.spec.whatwg.org/#the-label-element)
-     * [`https://html.spec.whatwg.org/#selector-active`](https://html.spec.whatwg.org/#selector-active)
-     * [`https://html.spec.whatwg.org/#focusable-area`](https://html.spec.whatwg.org/#focusable-area)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
-     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
-     * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#seeking`](https://html.spec.whatwg.org/#seeking)
-     * [`https://html.spec.whatwg.org/#media-data`](https://html.spec.whatwg.org/#media-data)
-     * [`https://html.spec.whatwg.org/#stall-timeout`](https://html.spec.whatwg.org/#stall-timeout)
-     * [`https://html.spec.whatwg.org/#effective-media-volume`](https://html.spec.whatwg.org/#effective-media-volume)
-     * [`https://html.spec.whatwg.org/#selector-enabled`](https://html.spec.whatwg.org/#selector-enabled)
-     * [`https://html.spec.whatwg.org/#selector-read-only`](https://html.spec.whatwg.org/#selector-read-only)
-     * [`https://html.spec.whatwg.org/#attr-input-placeholder`](https://html.spec.whatwg.org/#attr-input-placeholder)
-     * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
-     * [`https://html.spec.whatwg.org/#the-select-element`](https://html.spec.whatwg.org/#the-select-element)
-     * [`https://html.spec.whatwg.org/#selector-default`](https://html.spec.whatwg.org/#selector-default)
-     * [`https://html.spec.whatwg.org/#selector-checked`](https://html.spec.whatwg.org/#selector-checked)
-     * [`https://html.spec.whatwg.org/#selector-indeterminate`](https://html.spec.whatwg.org/#selector-indeterminate)
-     * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#a-form-control%E2%80%99s-value`](https://html.spec.whatwg.org/#a-form-control%E2%80%99s-value)
-     * [`https://html.spec.whatwg.org/#attr-input-value`](https://html.spec.whatwg.org/#attr-input-value)
-     * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
-     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-     * [`https://html.spec.whatwg.org/#the-em-element`](https://html.spec.whatwg.org/#the-em-element)
-     * [`https://html.spec.whatwg.org/#the-li-element`](https://html.spec.whatwg.org/#the-li-element)
-     * [`https://html.spec.whatwg.org/#the-pre-element`](https://html.spec.whatwg.org/#the-pre-element)
-     * [`https://www.w3.org/TR/css-scoping-1/#selectordef-shadow`](https://www.w3.org/TR/css-scoping-1/#selectordef-shadow)
-     * [`https://www.w3.org/TR/css-scoping-1/#selectordef-content`](https://www.w3.org/TR/css-scoping-1/#selectordef-content)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
-     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
-     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/selectors/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/selectors/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 411)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10388,7 +10482,7 @@ Informative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 
 
-### Web Animations Level 2 {data-spec=true data-error=true}
+### Web Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10400,15 +10494,49 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/web-animations-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/web-animations-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 19)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- External links to private terms:
+     * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
+     * [`https://drafts.csswg.org/web-animations-1/#end-delay`](https://drafts.csswg.org/web-animations-1/#end-delay)
+     * [`https://drafts.csswg.org/web-animations-1/#unresolved`](https://drafts.csswg.org/web-animations-1/#unresolved)
+     * [`https://drafts.csswg.org/web-animations-1/#finished-play-state`](https://drafts.csswg.org/web-animations-1/#finished-play-state)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-progress`](https://drafts.csswg.org/web-animations-1/#iteration-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#keyframe-effect`](https://drafts.csswg.org/web-animations-1/#keyframe-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#time-value`](https://drafts.csswg.org/web-animations-1/#time-value)
+     * [`https://drafts.csswg.org/web-animations-1/#ready`](https://drafts.csswg.org/web-animations-1/#ready)
+     * [`https://drafts.csswg.org/web-animations-1/#current-finished-promise`](https://drafts.csswg.org/web-animations-1/#current-finished-promise)
+     * [`https://drafts.csswg.org/web-animations-1/#pause-an-animation`](https://drafts.csswg.org/web-animations-1/#pause-an-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#cancel-an-animation`](https://drafts.csswg.org/web-animations-1/#cancel-an-animation)
+     * [`https://drafts.csswg.org/web-animations-1/#active-interval`](https://drafts.csswg.org/web-animations-1/#active-interval)
+     * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
+     * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-count`](https://drafts.csswg.org/web-animations-1/#iteration-count)
+     * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
+     * [`https://drafts.csswg.org/web-animations-1/#overall-progress`](https://drafts.csswg.org/web-animations-1/#overall-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#simple-iteration-progress`](https://drafts.csswg.org/web-animations-1/#simple-iteration-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#directed-progress`](https://drafts.csswg.org/web-animations-1/#directed-progress)
+     * [`https://drafts.csswg.org/web-animations-1/#playback-direction`](https://drafts.csswg.org/web-animations-1/#playback-direction)
+     * [`https://drafts.csswg.org/web-animations-1/#effect-value`](https://drafts.csswg.org/web-animations-1/#effect-value)
+     * [`https://drafts.csswg.org/web-animations-1/#target-property`](https://drafts.csswg.org/web-animations-1/#target-property)
+     * [`https://drafts.csswg.org/web-animations-1/#current-iteration`](https://drafts.csswg.org/web-animations-1/#current-iteration)
+     * [`https://drafts.csswg.org/web-animations-1/#in-effect`](https://drafts.csswg.org/web-animations-1/#in-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#target-element`](https://drafts.csswg.org/web-animations-1/#target-element)
+     * [`https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect`](https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect)
+- Broken external links:
+     * [`https://drafts.csswg.org/web-animations-1/#current-time`](https://drafts.csswg.org/web-animations-1/#current-time)
+     * [`https://drafts.csswg.org/web-animations-1/#target-effect`](https://drafts.csswg.org/web-animations-1/#target-effect)
+     * [`https://drafts.csswg.org/web-animations-1/#active-phase`](https://drafts.csswg.org/web-animations-1/#active-phase)
+     * [`https://drafts.csswg.org/web-animations-1/#animation-playback-rate`](https://drafts.csswg.org/web-animations-1/#animation-playback-rate)
+     * [`https://drafts.csswg.org/web-animations-1/#before-flag`](https://drafts.csswg.org/web-animations-1/#before-flag)
+     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
+     * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
+- External links to outdated specs:
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11456,7 +11584,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxr-hand-input-1/](https://www.w3.org/TR/webxr-hand-input-1/)
 - Crawled URL: [https://immersive-web.github.io/webxr-hand-input/](https://immersive-web.github.io/webxr-hand-input/)
-- Crawled version: 5 January 2022
+- Crawled version: 7 March 2022
 - Editor's Draft: [https://immersive-web.github.io/webxr-hand-input/](https://immersive-web.github.io/webxr-hand-input/)
 - Latest published version: [https://www.w3.org/TR/webxr-hand-input-1/](https://www.w3.org/TR/webxr-hand-input-1/)
 - Shortname: webxr-hand-input-1
@@ -17585,7 +17713,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/app-history/](https://wicg.github.io/app-history/)
 - Crawled URL: [https://wicg.github.io/app-history/](https://wicg.github.io/app-history/)
-- Crawled version: 4 February 2022
+- Crawled version: 7 March 2022
 - Editor's Draft: [https://wicg.github.io/app-history/](https://wicg.github.io/app-history/)
 - Shortname: app-history
 
@@ -17686,6 +17814,9 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#stop-document-loading`](https://html.spec.whatwg.org/#stop-document-loading)
      * [`https://html.spec.whatwg.org/#a-browsing-context-is-discarded`](https://html.spec.whatwg.org/#a-browsing-context-is-discarded)
      * [`https://html.spec.whatwg.org/#concept-navigate-mature`](https://html.spec.whatwg.org/#concept-navigate-mature)
+     * [`https://html.spec.whatwg.org/#dom-sessionstorage`](https://html.spec.whatwg.org/#dom-sessionstorage)
+     * [`https://html.spec.whatwg.org/#dom-document-open`](https://html.spec.whatwg.org/#dom-document-open)
+     * [`https://html.spec.whatwg.org/#dom-history-replacestate`](https://html.spec.whatwg.org/#dom-history-replacestate)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18687,7 +18818,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/idle-detection/](https://wicg.github.io/idle-detection/)
 - Crawled URL: [https://wicg.github.io/idle-detection/](https://wicg.github.io/idle-detection/)
-- Crawled version: 31 August 2021
+- Crawled version: 8 March 2022
 - Editor's Draft: [https://wicg.github.io/idle-detection/](https://wicg.github.io/idle-detection/)
 - Shortname: idle-detection
 
@@ -18705,12 +18836,11 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://w3c.github.io/permissions/#dfn-permission-state`](https://w3c.github.io/permissions/#dfn-permission-state)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
+     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19626,7 +19756,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Crawled URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
-- Crawled version: 1 March 2022
+- Crawled version: 7 March 2022
 - Editor's Draft: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
 - Shortname: priority-hints
 
@@ -21381,7 +21511,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 1 March 2022
+- Crawled version: 7 March 2022
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 
@@ -23585,6 +23715,7 @@ Normative references to this spec from:
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
