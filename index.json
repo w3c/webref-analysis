@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-09T06:38:34.711Z",
+  "date": "2022-03-09T12:42:29.991Z",
   "stats": {
     "crawled": 465,
-    "errors": 1,
+    "errors": 5,
     "studied": 465
   },
   "results": [
@@ -10018,6 +10018,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.fxtf.org/fill-stroke/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12919,6 +12920,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 279)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24781,6 +24783,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35502,6 +35505,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/navigation-timing-2/",
+              "title": "Navigation Timing Level 2",
+              "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -35523,11 +35531,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/navigation-timing-2/",
-              "title": "Navigation Timing Level 2",
-              "crawled": "https://w3c.github.io/navigation-timing/"
-            },
             {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
@@ -41456,6 +41459,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 375)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41683,7 +41687,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "24 February 2022",
+      "date": "09 March 2022",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -41813,7 +41817,6 @@
             "https://html.spec.whatwg.org/#prompt-to-unload-a-document",
             "https://html.spec.whatwg.org/#unload-a-document",
             "https://html.spec.whatwg.org/#fetching-resources",
-            "https://html.spec.whatwg.org/#relevant-application-cache",
             "https://html.spec.whatwg.org/#document",
             "https://html.spec.whatwg.org/#navigate"
           ],
@@ -50845,7 +50848,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "8 March 2022",
+      "date": "9 March 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
