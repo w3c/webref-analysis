@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-10T06:37:27.647Z",
+  "date": "2022-03-10T12:43:18.732Z",
   "stats": {
     "crawled": 466,
     "errors": 1,
@@ -2632,7 +2632,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "08 March 2022",
+      "date": "10 March 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2680,14 +2680,20 @@
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#queue-a-global-task",
-            "https://html.spec.whatwg.org/#responsible-document",
-            "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#same-origin-domain",
+            "https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context",
+            "https://html.spec.whatwg.org/#active-needed-worker",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#workerglobalscope",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#report-the-exception",
+            "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#active-window",
-            "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#same-origin"
+            "https://html.spec.whatwg.org/#browsing-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -22155,6 +22161,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://wicg.github.io/compute-pressure/",
+              "title": "Compute Pressure API",
+              "crawled": "https://wicg.github.io/compute-pressure/"
+            },
+            {
               "url": "https://www.w3.org/TR/requestidlecallback/",
               "title": "Cooperative Scheduling of Background Tasks",
               "crawled": "https://w3c.github.io/requestidlecallback/"
@@ -26080,6 +26091,11 @@
               "url": "https://wicg.github.io/close-watcher/",
               "title": "Close Watcher API",
               "crawled": "https://wicg.github.io/close-watcher/"
+            },
+            {
+              "url": "https://wicg.github.io/compute-pressure/",
+              "title": "Compute Pressure API",
+              "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/requestidlecallback/",
@@ -35050,6 +35066,10 @@
             "https://dom.spec.whatwg.org/#concept-event-target",
             "https://fetch.spec.whatwg.org/#synchronous-flag",
             "https://w3c.github.io/FileAPI/#DefinitionOfScheme",
+            "https://w3c.github.io/navigation-timing/#dom-navigationtype",
+            "https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate",
+            "https://w3c.github.io/navigation-timing/#dom-navigationtype-reload",
+            "https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward",
             "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml",
             "https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager",
             "https://drafts.csswg.org/css-syntax/#conform-classes",
@@ -41700,7 +41720,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "09 March 2022",
+      "date": "10 March 2022",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -54423,7 +54443,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "8 March 2022",
+      "date": "10 March 2022",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",
@@ -64716,7 +64736,7 @@
     {
       "title": "WOFF File Format 2.0",
       "shortname": "WOFF2",
-      "date": "18 January 2022",
+      "date": "10 March 2022",
       "url": "https://www.w3.org/TR/WOFF2/",
       "release": {
         "url": "https://www.w3.org/TR/WOFF2/",

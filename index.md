@@ -16211,7 +16211,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 8 March 2022
+- Crawled version: 10 March 2022
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -16437,7 +16437,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WOFF2/](https://www.w3.org/TR/WOFF2/)
 - Crawled URL: [https://w3c.github.io/woff/woff2/](https://w3c.github.io/woff/woff2/)
-- Crawled version: 18 January 2022
+- Crawled version: 10 March 2022
 - Editor's Draft: [https://w3c.github.io/woff/woff2/](https://w3c.github.io/woff/woff2/)
 - Latest published version: [https://www.w3.org/TR/WOFF2/](https://www.w3.org/TR/WOFF2/)
 - Shortname: WOFF2
@@ -16982,6 +16982,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
@@ -17136,7 +17137,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Crawled URL: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
-- Crawled version: 09 March 2022
+- Crawled version: 10 March 2022
 - Editor's Draft: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
 - Latest published version: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Shortname: navigation-timing-2
@@ -18024,7 +18025,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 08 March 2022
+- Crawled version: 10 March 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -18040,14 +18041,20 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
-     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#same-origin-domain`](https://html.spec.whatwg.org/#same-origin-domain)
+     * [`https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context`](https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#active-needed-worker`](https://html.spec.whatwg.org/#active-needed-worker)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#active-window`](https://html.spec.whatwg.org/#active-window)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
-     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21917,6 +21924,7 @@ Informative references to this spec from:
 
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
@@ -22703,6 +22711,10 @@ Informative references to this spec from:
      * [`https://dom.spec.whatwg.org/#concept-event-target`](https://dom.spec.whatwg.org/#concept-event-target)
      * [`https://fetch.spec.whatwg.org/#synchronous-flag`](https://fetch.spec.whatwg.org/#synchronous-flag)
      * [`https://w3c.github.io/FileAPI/#DefinitionOfScheme`](https://w3c.github.io/FileAPI/#DefinitionOfScheme)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype`](https://w3c.github.io/navigation-timing/#dom-navigationtype)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate`](https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-reload`](https://w3c.github.io/navigation-timing/#dom-navigationtype-reload)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward`](https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward)
      * [`https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml`](https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml)
      * [`https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager`](https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager)
      * [`https://drafts.csswg.org/css-syntax/#conform-classes`](https://drafts.csswg.org/css-syntax/#conform-classes)

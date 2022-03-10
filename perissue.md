@@ -4378,14 +4378,20 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
-     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#same-origin-domain`](https://html.spec.whatwg.org/#same-origin-domain)
+     * [`https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context`](https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#active-needed-worker`](https://html.spec.whatwg.org/#active-needed-worker)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#active-window`](https://html.spec.whatwg.org/#active-window)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
-     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/):
      * [`https://html.spec.whatwg.org/#htmlbuttonelement`](https://html.spec.whatwg.org/#htmlbuttonelement)
      * [`https://html.spec.whatwg.org/#htmlimageelement`](https://html.spec.whatwg.org/#htmlimageelement)
@@ -5983,6 +5989,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://dom.spec.whatwg.org/#concept-event-target`](https://dom.spec.whatwg.org/#concept-event-target)
      * [`https://fetch.spec.whatwg.org/#synchronous-flag`](https://fetch.spec.whatwg.org/#synchronous-flag)
      * [`https://w3c.github.io/FileAPI/#DefinitionOfScheme`](https://w3c.github.io/FileAPI/#DefinitionOfScheme)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype`](https://w3c.github.io/navigation-timing/#dom-navigationtype)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate`](https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-reload`](https://w3c.github.io/navigation-timing/#dom-navigationtype-reload)
+     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward`](https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward)
      * [`https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml`](https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml)
      * [`https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager`](https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager)
      * [`https://drafts.csswg.org/css-syntax/#conform-classes`](https://drafts.csswg.org/css-syntax/#conform-classes)
@@ -9060,7 +9070,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4830 problematic external links found in 299 specifications
+=> 4840 problematic external links found in 299 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
