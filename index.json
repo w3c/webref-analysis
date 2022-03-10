@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-10T00:50:06.801Z",
+  "date": "2022-03-10T06:37:27.647Z",
   "stats": {
     "crawled": 466,
-    "errors": 0,
+    "errors": 1,
     "studied": 466
   },
   "results": [
@@ -4713,6 +4713,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23436,7 +23437,7 @@
     {
       "title": "Event Timing API",
       "shortname": "event-timing",
-      "date": "15 December 2021",
+      "date": "9 March 2022",
       "url": "https://w3c.github.io/event-timing/",
       "nightly": {
         "url": "https://w3c.github.io/event-timing/",
@@ -23515,6 +23516,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://w3c.github.io/largest-contentful-paint/"
+            },
+            {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
               "title": "Timing Entry Names Registry",
               "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
@@ -23532,7 +23538,6 @@
           ],
           "brokenLinks": [
             "https://w3c.github.io/hr-time/#dfn-performance",
-            "https://html.spec.whatwg.org/#event-contextmenu",
             "https://html.spec.whatwg.org/#event-dnd-dragstart",
             "https://html.spec.whatwg.org/#event-dnd-dragend",
             "https://html.spec.whatwg.org/#event-dnd-dragenter",
@@ -38380,7 +38385,7 @@
     {
       "title": "Largest Contentful Paint",
       "shortname": "largest-contentful-paint",
-      "date": "19 October 2021",
+      "date": "9 March 2022",
       "url": "https://w3c.github.io/largest-contentful-paint/",
       "nightly": {
         "url": "https://w3c.github.io/largest-contentful-paint/",
@@ -38404,26 +38409,20 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "PerformanceEntry",
-            "refs": [
-              {
-                "url": "https://www.w3.org/TR/performance-timeline/",
-                "title": "Performance Timeline Level 2",
-                "crawled": "https://w3c.github.io/performance-timeline/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/performance-timeline/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/performance-timeline/",
+            "ref": {
+              "name": "PERFORMANCE-TIMELINE",
+              "url": "https://www.w3.org/TR/performance-timeline/"
+            }
+          },
           {
             "link": "https://w3c.github.io/hr-time/",
             "ref": {
@@ -38450,7 +38449,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://infra.spec.whatwg.org/#pair",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-document-bc",
@@ -43240,6 +43238,11 @@
               "url": "https://w3c.github.io/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing/"
+            },
+            {
+              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
