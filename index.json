@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-11T06:40:07.879Z",
+  "date": "2022-03-11T12:43:51.480Z",
   "stats": {
     "crawled": 466,
     "errors": 0,
@@ -641,7 +641,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "02 March 2022",
+      "date": "11 March 2022",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -17780,7 +17780,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "1 March 2022",
+      "date": "10 March 2022",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -63456,7 +63456,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "15 February 2022",
+      "date": "11 March 2022",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
