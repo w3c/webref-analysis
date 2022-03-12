@@ -5,20 +5,6 @@
 466 specifications were crawled in this report.
 
 
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 325)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-=> 1 specification found
-
-
 ## Specifications without normative dependencies
 
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
@@ -812,6 +798,12 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to:
     * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1615,7 +1607,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 727 missing references for links found in 193 specifications
+=> 732 missing references for links found in 194 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1671,6 +1663,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -2035,7 +2031,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 340 inconsistent references for links found in 180 specifications
+=> 343 inconsistent references for links found in 181 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2098,6 +2094,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
      * [`https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check`](https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check)
      * [`https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch`](https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -3054,7 +3052,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 813 problematic external links found in 198 specifications
+=> 814 problematic external links found in 199 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3072,85 +3070,98 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/aria/#slider`](https://w3c.github.io/aria/#slider)
      * [`https://w3c.github.io/aria/#checkbox`](https://w3c.github.io/aria/#checkbox)
 - [ARIA in HTML](https://w3c.github.io/html-aria/):
+     * [`https://www.w3.org/TR/wai-aria-1.2/#generic`](https://www.w3.org/TR/wai-aria-1.2/#generic)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-hidden`](https://www.w3.org/TR/wai-aria-1.2/#aria-hidden)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-checked`](https://www.w3.org/TR/wai-aria-1.2/#aria-checked)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-disabled`](https://www.w3.org/TR/wai-aria-1.2/#aria-disabled)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-placeholder`](https://www.w3.org/TR/wai-aria-1.2/#aria-placeholder)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-valuemax`](https://www.w3.org/TR/wai-aria-1.2/#aria-valuemax)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-readonly`](https://www.w3.org/TR/wai-aria-1.2/#aria-readonly)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-required`](https://www.w3.org/TR/wai-aria-1.2/#aria-required)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#directory`](https://www.w3.org/TR/wai-aria-1.2/#directory)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#alert`](https://www.w3.org/TR/wai-aria-1.2/#alert)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#alertdialog`](https://www.w3.org/TR/wai-aria-1.2/#alertdialog)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#application`](https://www.w3.org/TR/wai-aria-1.2/#application)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#article`](https://www.w3.org/TR/wai-aria-1.2/#article)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#banner`](https://www.w3.org/TR/wai-aria-1.2/#banner)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#blockquote`](https://www.w3.org/TR/wai-aria-1.2/#blockquote)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#button`](https://www.w3.org/TR/wai-aria-1.2/#button)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#caption`](https://www.w3.org/TR/wai-aria-1.2/#caption)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#cell`](https://www.w3.org/TR/wai-aria-1.2/#cell)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#checkbox`](https://www.w3.org/TR/wai-aria-1.2/#checkbox)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#code`](https://www.w3.org/TR/wai-aria-1.2/#code)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#columnheader`](https://www.w3.org/TR/wai-aria-1.2/#columnheader)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#combobox`](https://www.w3.org/TR/wai-aria-1.2/#combobox)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#complementary`](https://www.w3.org/TR/wai-aria-1.2/#complementary)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#contentinfo`](https://www.w3.org/TR/wai-aria-1.2/#contentinfo)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#definition`](https://www.w3.org/TR/wai-aria-1.2/#definition)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#deletion`](https://www.w3.org/TR/wai-aria-1.2/#deletion)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dialog`](https://www.w3.org/TR/wai-aria-1.2/#dialog)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#document`](https://www.w3.org/TR/wai-aria-1.2/#document)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#emphasis`](https://www.w3.org/TR/wai-aria-1.2/#emphasis)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#feed`](https://www.w3.org/TR/wai-aria-1.2/#feed)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#figure`](https://www.w3.org/TR/wai-aria-1.2/#figure)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#form`](https://www.w3.org/TR/wai-aria-1.2/#form)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#grid`](https://www.w3.org/TR/wai-aria-1.2/#grid)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#gridcell`](https://www.w3.org/TR/wai-aria-1.2/#gridcell)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#group`](https://www.w3.org/TR/wai-aria-1.2/#group)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#heading`](https://www.w3.org/TR/wai-aria-1.2/#heading)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#img`](https://www.w3.org/TR/wai-aria-1.2/#img)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#insertion`](https://www.w3.org/TR/wai-aria-1.2/#insertion)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#link`](https://www.w3.org/TR/wai-aria-1.2/#link)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#list`](https://www.w3.org/TR/wai-aria-1.2/#list)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#listbox`](https://www.w3.org/TR/wai-aria-1.2/#listbox)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#listitem`](https://www.w3.org/TR/wai-aria-1.2/#listitem)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#log`](https://www.w3.org/TR/wai-aria-1.2/#log)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#main`](https://www.w3.org/TR/wai-aria-1.2/#main)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#marquee`](https://www.w3.org/TR/wai-aria-1.2/#marquee)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#math`](https://www.w3.org/TR/wai-aria-1.2/#math)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#menu`](https://www.w3.org/TR/wai-aria-1.2/#menu)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#menubar`](https://www.w3.org/TR/wai-aria-1.2/#menubar)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#menuitem`](https://www.w3.org/TR/wai-aria-1.2/#menuitem)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#menuitemcheckbox`](https://www.w3.org/TR/wai-aria-1.2/#menuitemcheckbox)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#menuitemradio`](https://www.w3.org/TR/wai-aria-1.2/#menuitemradio)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#meter`](https://www.w3.org/TR/wai-aria-1.2/#meter)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#navigation`](https://www.w3.org/TR/wai-aria-1.2/#navigation)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#none`](https://www.w3.org/TR/wai-aria-1.2/#none)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#note`](https://www.w3.org/TR/wai-aria-1.2/#note)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#option`](https://www.w3.org/TR/wai-aria-1.2/#option)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#paragraph`](https://www.w3.org/TR/wai-aria-1.2/#paragraph)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#presentation`](https://www.w3.org/TR/wai-aria-1.2/#presentation)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#progressbar`](https://www.w3.org/TR/wai-aria-1.2/#progressbar)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#radio`](https://www.w3.org/TR/wai-aria-1.2/#radio)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#radiogroup`](https://www.w3.org/TR/wai-aria-1.2/#radiogroup)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#region`](https://www.w3.org/TR/wai-aria-1.2/#region)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#row`](https://www.w3.org/TR/wai-aria-1.2/#row)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#rowgroup`](https://www.w3.org/TR/wai-aria-1.2/#rowgroup)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#rowheader`](https://www.w3.org/TR/wai-aria-1.2/#rowheader)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#scrollbar`](https://www.w3.org/TR/wai-aria-1.2/#scrollbar)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#search`](https://www.w3.org/TR/wai-aria-1.2/#search)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#searchbox`](https://www.w3.org/TR/wai-aria-1.2/#searchbox)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#separator`](https://www.w3.org/TR/wai-aria-1.2/#separator)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#slider`](https://www.w3.org/TR/wai-aria-1.2/#slider)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#spinbutton`](https://www.w3.org/TR/wai-aria-1.2/#spinbutton)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#status`](https://www.w3.org/TR/wai-aria-1.2/#status)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#strong`](https://www.w3.org/TR/wai-aria-1.2/#strong)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#subscript`](https://www.w3.org/TR/wai-aria-1.2/#subscript)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#superscript`](https://www.w3.org/TR/wai-aria-1.2/#superscript)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#switch`](https://www.w3.org/TR/wai-aria-1.2/#switch)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#tab`](https://www.w3.org/TR/wai-aria-1.2/#tab)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#table`](https://www.w3.org/TR/wai-aria-1.2/#table)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#tablist`](https://www.w3.org/TR/wai-aria-1.2/#tablist)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#tabpanel`](https://www.w3.org/TR/wai-aria-1.2/#tabpanel)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#term`](https://www.w3.org/TR/wai-aria-1.2/#term)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#textbox`](https://www.w3.org/TR/wai-aria-1.2/#textbox)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#time`](https://www.w3.org/TR/wai-aria-1.2/#time)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#timer`](https://www.w3.org/TR/wai-aria-1.2/#timer)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#toolbar`](https://www.w3.org/TR/wai-aria-1.2/#toolbar)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#tooltip`](https://www.w3.org/TR/wai-aria-1.2/#tooltip)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#tree`](https://www.w3.org/TR/wai-aria-1.2/#tree)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#treegrid`](https://www.w3.org/TR/wai-aria-1.2/#treegrid)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#treeitem`](https://www.w3.org/TR/wai-aria-1.2/#treeitem)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-hidden`](https://www.w3.org/TR/wai-aria-1.1/#aria-hidden)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-checked`](https://www.w3.org/TR/wai-aria-1.1/#aria-checked)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-disabled`](https://www.w3.org/TR/wai-aria-1.1/#aria-disabled)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-placeholder`](https://www.w3.org/TR/wai-aria-1.1/#aria-placeholder)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-valuemax`](https://www.w3.org/TR/wai-aria-1.1/#aria-valuemax)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-readonly`](https://www.w3.org/TR/wai-aria-1.1/#aria-readonly)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-required`](https://www.w3.org/TR/wai-aria-1.1/#aria-required)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-dropeffect`](https://www.w3.org/TR/wai-aria-1.1/#aria-dropeffect)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-grabbed`](https://www.w3.org/TR/wai-aria-1.1/#aria-grabbed)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#alert`](https://www.w3.org/TR/wai-aria-1.1/#alert)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#alertdialog`](https://www.w3.org/TR/wai-aria-1.1/#alertdialog)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#application`](https://www.w3.org/TR/wai-aria-1.1/#application)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#article`](https://www.w3.org/TR/wai-aria-1.1/#article)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#banner`](https://www.w3.org/TR/wai-aria-1.1/#banner)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#button`](https://www.w3.org/TR/wai-aria-1.1/#button)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#cell`](https://www.w3.org/TR/wai-aria-1.1/#cell)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#checkbox`](https://www.w3.org/TR/wai-aria-1.1/#checkbox)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#columnheader`](https://www.w3.org/TR/wai-aria-1.1/#columnheader)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#combobox`](https://www.w3.org/TR/wai-aria-1.1/#combobox)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#complementary`](https://www.w3.org/TR/wai-aria-1.1/#complementary)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#contentinfo`](https://www.w3.org/TR/wai-aria-1.1/#contentinfo)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#definition`](https://www.w3.org/TR/wai-aria-1.1/#definition)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#dialog`](https://www.w3.org/TR/wai-aria-1.1/#dialog)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#directory`](https://www.w3.org/TR/wai-aria-1.1/#directory)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#document`](https://www.w3.org/TR/wai-aria-1.1/#document)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#feed`](https://www.w3.org/TR/wai-aria-1.1/#feed)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#figure`](https://www.w3.org/TR/wai-aria-1.1/#figure)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#form`](https://www.w3.org/TR/wai-aria-1.1/#form)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#grid`](https://www.w3.org/TR/wai-aria-1.1/#grid)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#gridcell`](https://www.w3.org/TR/wai-aria-1.1/#gridcell)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#group`](https://www.w3.org/TR/wai-aria-1.1/#group)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#heading`](https://www.w3.org/TR/wai-aria-1.1/#heading)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#img`](https://www.w3.org/TR/wai-aria-1.1/#img)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#link`](https://www.w3.org/TR/wai-aria-1.1/#link)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#list`](https://www.w3.org/TR/wai-aria-1.1/#list)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#listbox`](https://www.w3.org/TR/wai-aria-1.1/#listbox)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#listitem`](https://www.w3.org/TR/wai-aria-1.1/#listitem)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#log`](https://www.w3.org/TR/wai-aria-1.1/#log)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#main`](https://www.w3.org/TR/wai-aria-1.1/#main)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#marquee`](https://www.w3.org/TR/wai-aria-1.1/#marquee)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#math`](https://www.w3.org/TR/wai-aria-1.1/#math)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#menu`](https://www.w3.org/TR/wai-aria-1.1/#menu)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#menubar`](https://www.w3.org/TR/wai-aria-1.1/#menubar)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#menuitem`](https://www.w3.org/TR/wai-aria-1.1/#menuitem)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#menuitemcheckbox`](https://www.w3.org/TR/wai-aria-1.1/#menuitemcheckbox)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#menuitemradio`](https://www.w3.org/TR/wai-aria-1.1/#menuitemradio)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#navigation`](https://www.w3.org/TR/wai-aria-1.1/#navigation)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#none`](https://www.w3.org/TR/wai-aria-1.1/#none)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#note`](https://www.w3.org/TR/wai-aria-1.1/#note)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#option`](https://www.w3.org/TR/wai-aria-1.1/#option)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#presentation`](https://www.w3.org/TR/wai-aria-1.1/#presentation)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#progressbar`](https://www.w3.org/TR/wai-aria-1.1/#progressbar)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#radio`](https://www.w3.org/TR/wai-aria-1.1/#radio)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#radiogroup`](https://www.w3.org/TR/wai-aria-1.1/#radiogroup)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#region`](https://www.w3.org/TR/wai-aria-1.1/#region)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#row`](https://www.w3.org/TR/wai-aria-1.1/#row)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#rowgroup`](https://www.w3.org/TR/wai-aria-1.1/#rowgroup)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#rowheader`](https://www.w3.org/TR/wai-aria-1.1/#rowheader)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#scrollbar`](https://www.w3.org/TR/wai-aria-1.1/#scrollbar)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#search`](https://www.w3.org/TR/wai-aria-1.1/#search)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#searchbox`](https://www.w3.org/TR/wai-aria-1.1/#searchbox)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#separator`](https://www.w3.org/TR/wai-aria-1.1/#separator)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#slider`](https://www.w3.org/TR/wai-aria-1.1/#slider)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#spinbutton`](https://www.w3.org/TR/wai-aria-1.1/#spinbutton)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#status`](https://www.w3.org/TR/wai-aria-1.1/#status)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#switch`](https://www.w3.org/TR/wai-aria-1.1/#switch)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#tab`](https://www.w3.org/TR/wai-aria-1.1/#tab)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#table`](https://www.w3.org/TR/wai-aria-1.1/#table)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#tablist`](https://www.w3.org/TR/wai-aria-1.1/#tablist)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#tabpanel`](https://www.w3.org/TR/wai-aria-1.1/#tabpanel)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#term`](https://www.w3.org/TR/wai-aria-1.1/#term)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#textbox`](https://www.w3.org/TR/wai-aria-1.1/#textbox)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#timer`](https://www.w3.org/TR/wai-aria-1.1/#timer)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#toolbar`](https://www.w3.org/TR/wai-aria-1.1/#toolbar)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#tooltip`](https://www.w3.org/TR/wai-aria-1.1/#tooltip)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#tree`](https://www.w3.org/TR/wai-aria-1.1/#tree)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#treegrid`](https://www.w3.org/TR/wai-aria-1.1/#treegrid)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#treeitem`](https://www.w3.org/TR/wai-aria-1.1/#treeitem)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#directory`](https://www.w3.org/TR/wai-aria-1.2/#directory)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/):
      * [`https://www.w3.org/TR/mediacapture-streams/#def-mediadeviceinfo-groupId`](https://www.w3.org/TR/mediacapture-streams/#def-mediadeviceinfo-groupId)
 - [Beacon](https://w3c.github.io/beacon/):
@@ -3926,7 +3937,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 812 problematic external links found in 54 specifications
+=> 825 problematic external links found in 54 specifications
 
 
 ## Broken external links
@@ -3980,6 +3991,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-main-element`](https://html.spec.whatwg.org/#the-main-element)
      * [`https://html.spec.whatwg.org/#the-ul-element`](https://html.spec.whatwg.org/#the-ul-element)
      * [`https://html.spec.whatwg.org/#the-summary-element`](https://html.spec.whatwg.org/#the-summary-element)
+     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
+     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
      * [`https://html.spec.whatwg.org/#attr-hyperlink-href`](https://html.spec.whatwg.org/#attr-hyperlink-href)
      * [`https://html.spec.whatwg.org/#the-abbr-element`](https://html.spec.whatwg.org/#the-abbr-element)
      * [`https://html.spec.whatwg.org/#the-address-element`](https://html.spec.whatwg.org/#the-address-element)
@@ -4009,7 +4022,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
      * [`https://html.spec.whatwg.org/#the-dfn-element`](https://html.spec.whatwg.org/#the-dfn-element)
      * [`https://html.spec.whatwg.org/#the-dialog-element`](https://html.spec.whatwg.org/#the-dialog-element)
-     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
      * [`https://html.spec.whatwg.org/#the-dl-element`](https://html.spec.whatwg.org/#the-dl-element)
      * [`https://html.spec.whatwg.org/#the-dt-element`](https://html.spec.whatwg.org/#the-dt-element)
      * [`https://html.spec.whatwg.org/#the-em-element`](https://html.spec.whatwg.org/#the-em-element)
@@ -4089,7 +4101,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
      * [`https://html.spec.whatwg.org/#the-small-element`](https://html.spec.whatwg.org/#the-small-element)
      * [`https://html.spec.whatwg.org/#the-source-element`](https://html.spec.whatwg.org/#the-source-element)
-     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
      * [`https://html.spec.whatwg.org/#the-strong-element`](https://html.spec.whatwg.org/#the-strong-element)
      * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
      * [`https://html.spec.whatwg.org/#the-sub-element`](https://html.spec.whatwg.org/#the-sub-element)
@@ -4613,6 +4624,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#coep-unsafe-none`](https://html.spec.whatwg.org/#coep-unsafe-none)
      * [`https://html.spec.whatwg.org/#coep-require-corp`](https://html.spec.whatwg.org/#coep-require-corp)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -9075,7 +9088,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4844 problematic external links found in 299 specifications
+=> 4845 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9215,6 +9228,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -9452,7 +9470,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 187 problematic external links found in 62 specifications
+=> 191 problematic external links found in 63 specifications
 
 
 
