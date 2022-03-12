@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-12T00:48:25.222Z",
+  "date": "2022-03-12T06:36:40.907Z",
   "stats": {
     "crawled": 466,
-    "errors": 0,
+    "errors": 1,
     "studied": 466
   },
   "results": [
@@ -4720,6 +4720,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -55692,7 +55693,7 @@
     {
       "title": "Web Locks API",
       "shortname": "web-locks",
-      "date": "22 December 2021",
+      "date": "12 March 2022",
       "url": "https://w3c.github.io/web-locks/",
       "nightly": {
         "url": "https://w3c.github.io/web-locks/",
@@ -55757,7 +55758,8 @@
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#concept-environment-id",
             "https://html.spec.whatwg.org/#responsible-event-loop"
