@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-14T00:46:12.513Z",
+  "date": "2022-03-14T06:39:36.476Z",
   "stats": {
     "crawled": 466,
-    "errors": 1,
+    "errors": 0,
     "studied": 466
   },
   "results": [
@@ -4733,7 +4733,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -38671,7 +38670,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "7 March 2022",
+      "date": "14 March 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -43409,7 +43408,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "11 March 2022",
+      "date": "14 March 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -64022,7 +64021,7 @@
     {
       "title": "WebXR Device API",
       "shortname": "webxr",
-      "date": "7 March 2022",
+      "date": "14 March 2022",
       "url": "https://www.w3.org/TR/webxr/",
       "release": {
         "url": "https://www.w3.org/TR/webxr/",
@@ -64380,7 +64379,7 @@
     {
       "title": "WebXR Hand Input Module - Level 1",
       "shortname": "webxr-hand-input-1",
-      "date": "8 March 2022",
+      "date": "14 March 2022",
       "url": "https://www.w3.org/TR/webxr-hand-input-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-hand-input-1/",
