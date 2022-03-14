@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-14T06:39:36.476Z",
+  "date": "2022-03-14T12:42:38.208Z",
   "stats": {
     "crawled": 466,
     "errors": 0,
@@ -1653,6 +1653,7 @@
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#active-document",
+            "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
             "https://w3c.github.io/permissions/#permission-state",
             "https://w3c.github.io/permissions/#dictdef-permissiondescriptor",
             "https://w3c.github.io/permissions/#new-information-about-the-users-intent",
@@ -22980,7 +22981,7 @@
     {
       "title": "Element Timing API",
       "shortname": "element-timing",
-      "date": "28 January 2022",
+      "date": "14 March 2022",
       "url": "https://wicg.github.io/element-timing/",
       "nightly": {
         "url": "https://wicg.github.io/element-timing/",
@@ -23080,7 +23081,7 @@
             "https://html.spec.whatwg.org/#dom-img-naturalheight",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://w3c.github.io/resource-timing/#dfn-timing-allow-check"
           ],
           "evolvingLinks": [],
@@ -23845,7 +23846,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "9 March 2022",
+      "date": "14 March 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -35133,6 +35134,7 @@
             "https://dom.spec.whatwg.org/#dom-element-setAttribute",
             "https://dom.spec.whatwg.org/#dom-shadowroot-slot-assignment",
             "https://dom.spec.whatwg.org/#concept-event-target",
+            "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
             "https://fetch.spec.whatwg.org/#synchronous-flag",
             "https://w3c.github.io/FileAPI/#DefinitionOfScheme",
             "https://w3c.github.io/navigation-timing/#dom-navigationtype",
@@ -38523,6 +38525,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/element-timing/",
+              "title": "Element Timing API",
+              "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
               "title": "Timing Entry Names Registry",
               "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
@@ -39489,7 +39496,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "10 March 2022",
+      "date": "14 March 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -43119,6 +43126,7 @@
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://infra.spec.whatwg.org/#parse-json-into-infra-values",
+            "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
             "https://fetch.spec.whatwg.org/#concept-get-reader",
             "https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream"
           ],
@@ -50037,6 +50045,7 @@
             "https://html.spec.whatwg.org/#module-map",
             "https://html.spec.whatwg.org/#resolve-a-module-specifier",
             "https://infra.spec.whatwg.org/#pair",
+            "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
             "https://w3c.github.io/push-api/#h-the-push-event",
             "https://w3c.github.io/push-api/#dfn-push",
             "https://w3c.github.io/push-api/#dfn-fire-the-push-event",
@@ -54514,7 +54523,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "10 March 2022",
+      "date": "14 March 2022",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",
@@ -55916,7 +55925,7 @@
     {
       "title": "Web NFC",
       "shortname": "web-nfc",
-      "date": "24 February 2022",
+      "date": "14 March 2022",
       "url": "https://w3c.github.io/web-nfc/",
       "nightly": {
         "url": "https://w3c.github.io/web-nfc/",
@@ -55976,8 +55985,9 @@
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#update-the-visibility-state",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#dom-document-visibilitystate",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
@@ -62975,7 +62985,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "07 March 2022",
+      "date": "14 March 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -64974,6 +64984,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",

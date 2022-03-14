@@ -4235,6 +4235,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://w3c.github.io/permissions/#permission-state`](https://w3c.github.io/permissions/#permission-state)
      * [`https://w3c.github.io/permissions/#dictdef-permissiondescriptor`](https://w3c.github.io/permissions/#dictdef-permissiondescriptor)
      * [`https://w3c.github.io/permissions/#new-information-about-the-users-intent`](https://w3c.github.io/permissions/#new-information-about-the-users-intent)
@@ -5216,7 +5217,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-img-naturalheight`](https://html.spec.whatwg.org/#dom-img-naturalheight)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://w3c.github.io/resource-timing/#dfn-timing-allow-check`](https://w3c.github.io/resource-timing/#dfn-timing-allow-check)
 - [Encoding Standard](https://encoding.spec.whatwg.org/):
      * [`https://html.spec.whatwg.org/#event-loop`](https://html.spec.whatwg.org/#event-loop)
@@ -6002,6 +6003,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://dom.spec.whatwg.org/#dom-element-setAttribute`](https://dom.spec.whatwg.org/#dom-element-setAttribute)
      * [`https://dom.spec.whatwg.org/#dom-shadowroot-slot-assignment`](https://dom.spec.whatwg.org/#dom-shadowroot-slot-assignment)
      * [`https://dom.spec.whatwg.org/#concept-event-target`](https://dom.spec.whatwg.org/#concept-event-target)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://fetch.spec.whatwg.org/#synchronous-flag`](https://fetch.spec.whatwg.org/#synchronous-flag)
      * [`https://w3c.github.io/FileAPI/#DefinitionOfScheme`](https://w3c.github.io/FileAPI/#DefinitionOfScheme)
      * [`https://w3c.github.io/navigation-timing/#dom-navigationtype`](https://w3c.github.io/navigation-timing/#dom-navigationtype)
@@ -7034,6 +7036,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://infra.spec.whatwg.org/#parse-json-into-infra-values`](https://infra.spec.whatwg.org/#parse-json-into-infra-values)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://fetch.spec.whatwg.org/#concept-get-reader`](https://fetch.spec.whatwg.org/#concept-get-reader)
      * [`https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream`](https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream)
 - [Payment Request API](https://w3c.github.io/payment-request/):
@@ -7905,6 +7908,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#module-map`](https://html.spec.whatwg.org/#module-map)
      * [`https://html.spec.whatwg.org/#resolve-a-module-specifier`](https://html.spec.whatwg.org/#resolve-a-module-specifier)
      * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://w3c.github.io/push-api/#h-the-push-event`](https://w3c.github.io/push-api/#h-the-push-event)
      * [`https://w3c.github.io/push-api/#dfn-push`](https://w3c.github.io/push-api/#dfn-push)
      * [`https://w3c.github.io/push-api/#dfn-fire-the-push-event`](https://w3c.github.io/push-api/#dfn-fire-the-push-event)
@@ -8467,8 +8471,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#update-the-visibility-state`](https://html.spec.whatwg.org/#update-the-visibility-state)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#dom-document-visibilitystate`](https://html.spec.whatwg.org/#dom-document-visibilitystate)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
@@ -9061,6 +9066,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#dom-window`](https://html.spec.whatwg.org/#dom-window)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
@@ -9088,7 +9094,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4845 problematic external links found in 300 specifications
+=> 4851 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

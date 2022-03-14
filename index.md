@@ -13765,6 +13765,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#module-map`](https://html.spec.whatwg.org/#module-map)
      * [`https://html.spec.whatwg.org/#resolve-a-module-specifier`](https://html.spec.whatwg.org/#resolve-a-module-specifier)
      * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://w3c.github.io/push-api/#h-the-push-event`](https://w3c.github.io/push-api/#h-the-push-event)
      * [`https://w3c.github.io/push-api/#dfn-push`](https://w3c.github.io/push-api/#dfn-push)
      * [`https://w3c.github.io/push-api/#dfn-fire-the-push-event`](https://w3c.github.io/push-api/#dfn-fire-the-push-event)
@@ -16238,7 +16239,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 10 March 2022
+- Crawled version: 14 March 2022
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -16527,7 +16528,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
 - Crawled URL: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
-- Crawled version: 24 February 2022
+- Crawled version: 14 March 2022
 - Editor's Draft: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
 - Shortname: web-nfc
 
@@ -16548,8 +16549,9 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
      * [`https://html.spec.whatwg.org/#update-the-visibility-state`](https://html.spec.whatwg.org/#update-the-visibility-state)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#dom-document-visibilitystate`](https://html.spec.whatwg.org/#dom-document-visibilitystate)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
@@ -16679,6 +16681,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
      * [`https://infra.spec.whatwg.org/#parse-json-into-infra-values`](https://infra.spec.whatwg.org/#parse-json-into-infra-values)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://fetch.spec.whatwg.org/#concept-get-reader`](https://fetch.spec.whatwg.org/#concept-get-reader)
      * [`https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream`](https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream)
 
@@ -17092,6 +17095,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
@@ -17879,6 +17883,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://w3c.github.io/permissions/#permission-state`](https://w3c.github.io/permissions/#permission-state)
      * [`https://w3c.github.io/permissions/#dictdef-permissiondescriptor`](https://w3c.github.io/permissions/#dictdef-permissiondescriptor)
      * [`https://w3c.github.io/permissions/#new-information-about-the-users-intent`](https://w3c.github.io/permissions/#new-information-about-the-users-intent)
@@ -18444,7 +18449,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Crawled URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
-- Crawled version: 28 January 2022
+- Crawled version: 14 March 2022
 - Editor's Draft: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Shortname: element-timing
 
@@ -18473,7 +18478,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-img-naturalheight`](https://html.spec.whatwg.org/#dom-img-naturalheight)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://w3c.github.io/resource-timing/#dfn-timing-allow-check`](https://w3c.github.io/resource-timing/#dfn-timing-allow-check)
 
 #### Known dependencies on this specification {.dependencies}
@@ -20867,7 +20872,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Crawled URL: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
-- Crawled version: 10 March 2022
+- Crawled version: 14 March 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Shortname: mediacapture-streams
@@ -21298,7 +21303,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 07 March 2022
+- Crawled version: 14 March 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -21979,7 +21984,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 9 March 2022
+- Crawled version: 14 March 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -22738,6 +22743,7 @@ Informative references to this spec from:
      * [`https://dom.spec.whatwg.org/#dom-element-setAttribute`](https://dom.spec.whatwg.org/#dom-element-setAttribute)
      * [`https://dom.spec.whatwg.org/#dom-shadowroot-slot-assignment`](https://dom.spec.whatwg.org/#dom-shadowroot-slot-assignment)
      * [`https://dom.spec.whatwg.org/#concept-event-target`](https://dom.spec.whatwg.org/#concept-event-target)
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://fetch.spec.whatwg.org/#synchronous-flag`](https://fetch.spec.whatwg.org/#synchronous-flag)
      * [`https://w3c.github.io/FileAPI/#DefinitionOfScheme`](https://w3c.github.io/FileAPI/#DefinitionOfScheme)
      * [`https://w3c.github.io/navigation-timing/#dom-navigationtype`](https://w3c.github.io/navigation-timing/#dom-navigationtype)
@@ -23974,6 +23980,7 @@ Informative references to this spec from:
 - External links to private terms:
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 - Broken external links:
+     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
