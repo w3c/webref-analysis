@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-15T00:49:58.911Z",
+  "date": "2022-03-15T06:41:51.628Z",
   "stats": {
     "crawled": 466,
     "errors": 0,
@@ -62648,7 +62648,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "10 March 2022",
+      "date": "15 March 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62770,7 +62770,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "10 March 2022",
+      "date": "15 March 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
