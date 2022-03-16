@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-16T12:41:44.558Z",
+  "date": "2022-03-16T18:37:35.934Z",
   "stats": {
     "crawled": 465,
     "errors": 34,
@@ -26966,7 +26966,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36619,7 +36619,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "8 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -44037,7 +44037,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "02 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -44120,10 +44120,10 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#drag-and-drop-processing-model",
             "https://html.spec.whatwg.org/#secure-context",
             "https://html.spec.whatwg.org/#event-loop",
             "https://html.spec.whatwg.org/#concept-task",
-            "https://html.spec.whatwg.org/#drag-and-drop-processing-model",
             "https://html.spec.whatwg.org/#globaleventhandlers",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
@@ -50909,7 +50909,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
