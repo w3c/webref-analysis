@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-16T00:47:32.312Z",
+  "date": "2022-03-16T06:36:42.992Z",
   "stats": {
     "crawled": 465,
     "errors": 34,
@@ -910,7 +910,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "12 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -38630,7 +38630,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "14 March 2022",
+      "date": "16 March 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -50004,7 +50004,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "3 February 2022",
+      "date": "16 March 2022",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
