@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-15T18:37:25.451Z",
+  "date": "2022-03-16T00:47:32.312Z",
   "stats": {
     "crawled": 465,
     "errors": 34,
@@ -25546,7 +25546,7 @@
     {
       "title": "Geolocation Sensor",
       "shortname": "geolocation-sensor",
-      "date": "2 September 2021",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/geolocation-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation-sensor/",
@@ -25602,9 +25602,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://w3c.github.io/permissions/#dom-permissionname",
-            "https://w3c.github.io/permissions/#dom-permissionname-geolocation",
-            "https://dom.spec.whatwg.org/#abortsignal-aborted-flag",
             "https://html.spec.whatwg.org/#in-parallel"
           ],
           "evolvingLinks": [],
@@ -43141,7 +43138,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request",
-      "date": "03 January 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/payment-request/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request/",
@@ -43217,11 +43214,10 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#consume-user-activation",
-            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#language",
@@ -43465,11 +43461,6 @@
               "url": "https://www.w3.org/TR/geolocation/",
               "title": "Geolocation API",
               "crawled": "https://w3c.github.io/geolocation-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/geolocation-sensor/",
-              "title": "Geolocation Sensor",
-              "crawled": "https://w3c.github.io/geolocation-sensor/"
             },
             {
               "url": "https://www.w3.org/TR/gyroscope/",
@@ -46550,7 +46541,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46615,7 +46606,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46653,7 +46644,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46747,7 +46738,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46831,7 +46822,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46895,7 +46886,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46933,7 +46924,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46994,7 +46985,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -47050,7 +47041,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -53879,7 +53870,7 @@
     {
       "title": "Web App Manifest - Application Information",
       "shortname": "manifest-app-info",
-      "date": "14 March 2022",
+      "date": "15 March 2022",
       "url": "https://www.w3.org/TR/manifest-app-info/",
       "release": {
         "url": "https://www.w3.org/TR/manifest-app-info/",
@@ -55020,6 +55011,11 @@
               "url": "https://www.w3.org/TR/geolocation/",
               "title": "Geolocation API",
               "crawled": "https://w3c.github.io/geolocation-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/geolocation-sensor/",
+              "title": "Geolocation Sensor",
+              "crawled": "https://w3c.github.io/geolocation-sensor/"
             },
             {
               "url": "https://www.w3.org/TR/geometry-1/",
