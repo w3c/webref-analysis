@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-16T18:37:35.934Z",
+  "date": "2022-03-17T00:47:12.492Z",
   "stats": {
     "crawled": 465,
     "errors": 34,
@@ -538,7 +538,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "02 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -2397,7 +2397,8 @@
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/web-animations/"
+          "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/css-color-4/"
         ],
         "inconsistentRef": [
           {
@@ -2459,7 +2460,8 @@
             "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-body-element",
-            "https://html.spec.whatwg.org/#2dcontext"
+            "https://html.spec.whatwg.org/#2dcontext",
+            "https://drafts.csswg.org/css-color-3/#opacity"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -3437,7 +3439,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "15 March 2022",
+      "date": "17 March 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -5556,11 +5558,6 @@
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
-            },
-            {
-              "url": "https://www.w3.org/TR/motion-1/",
-              "title": "Motion Path Module Level 1",
-              "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
@@ -8015,11 +8012,6 @@
               "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -8112,11 +8104,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/compositing-1/",
-              "title": "Compositing and Blending Level 1",
-              "crawled": "https://drafts.fxtf.org/compositing-1/"
-            },
-            {
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
@@ -8140,6 +8127,11 @@
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -13090,13 +13082,14 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/css-backgrounds-3/#background-painting-area",
-            "https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area",
-            "https://drafts.csswg.org/css-backgrounds-3/#border-image-area",
+            "https://www.w3.org/TR/css-backgrounds-3/#background-painting-area",
+            "https://www.w3.org/TR/css-backgrounds-3/#background-positioning-area",
+            "https://www.w3.org/TR/css-backgrounds-3/#border-image-area",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-3/#opacity",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage"
           ],
           "evolvingLinks": [],
@@ -15152,7 +15145,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-cascade-4/"
+          "https://www.w3.org/TR/css-cascade-4/",
+          "https://www.w3.org/TR/css3-conditional/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -15182,7 +15176,8 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#concept-document-window"
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18480,11 +18475,6 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -18812,6 +18802,8 @@
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
+            "https://drafts.csswg.org/css-color-3/#opacity",
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://drafts.csswg.org/css-fonts-3/#absolute-size-value",
             "https://drafts.csswg.org/css-fonts-3/#relative-size-value"
@@ -21360,6 +21352,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/accname-1.2/",
+              "title": "Accessible Name and Description Computation 1.2",
+              "crawled": "https://w3c.github.io/accname/"
+            },
+            {
               "url": "https://www.w3.org/TR/wai-aria-1.2/",
               "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
               "crawled": "https://w3c.github.io/aria/"
@@ -22202,11 +22199,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/accname-1.2/",
-              "title": "Accessible Name and Description Computation 1.2",
-              "crawled": "https://w3c.github.io/accname/"
-            },
-            {
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
@@ -22549,7 +22541,7 @@
     {
       "title": "ECMAScript® 2022 Language Specification",
       "shortname": "ecmascript",
-      "date": "11 March 2022",
+      "date": "16 March 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23348,7 +23340,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "01 July 2021",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -23378,18 +23370,7 @@
           "ArrayBuffer"
         ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "BufferSource",
-            "refs": [
-              {
-                "url": "https://webidl.spec.whatwg.org/",
-                "title": "Web IDL Standard",
-                "crawled": "https://webidl.spec.whatwg.org/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -23437,15 +23418,17 @@
         "xrefs": {
           "notExported": [],
           "notDfn": [
+            "https://webidl.spec.whatwg.org/#dfn-DOMException",
             "https://heycam.github.io/webidl/#dfn-DOMException"
           ],
           "brokenLinks": [
-            "https://heycam.github.io/webidl/#dfn-present",
             "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://www.w3.org/TR/secure-contexts/#secure-context"
+            "https://www.w3.org/TR/secure-contexts/#secure-context",
+            "https://heycam.github.io/webidl/#dfn-present"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -23914,6 +23897,11 @@
               "url": "https://wicg.github.io/credentiallessness/",
               "title": "Cross-Origin-Embedder-Policy: credentialless",
               "crawled": "https://wicg.github.io/credentiallessness/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
+              "title": "CSS Animation Worklet API",
+              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-3/",
@@ -24885,11 +24873,13 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#attr-img-crossorigin",
             "https://html.spec.whatwg.org/#the-img-element",
+            "https://drafts.csswg.org/css-color-3/#opacity",
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
+            "https://drafts.csswg.org/css-color-3/#color0",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://www.w3.org/TR/css-transitions-1/#animtype-length",
             "https://www.w3.org/TR/css-transitions-1/#animtype-number",
-            "https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list",
-            "https://drafts.csswg.org/css-color-3/#color0"
+            "https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -46541,7 +46531,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46606,7 +46596,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46644,7 +46634,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46738,7 +46728,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46822,7 +46812,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -46886,7 +46876,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46924,7 +46914,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -46985,7 +46975,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -47041,7 +47031,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "16 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -53920,17 +53910,6 @@
             }
           ]
         },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/accname-1.2/#dfn-accessible-description",
-            "https://www.w3.org/TR/accname-1.2/#dfn-accessible-name"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
         "ok": false
       }
     },
@@ -54070,8 +54049,7 @@
             "https://html.spec.whatwg.org/#attr-meta-name",
             "https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#concept-origin",
-            "https://www.w3.org/TR/accname-1.2/#dfn-accessible-name"
+            "https://html.spec.whatwg.org/#concept-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -54956,6 +54934,11 @@
               "url": "https://www.w3.org/TR/encoding/",
               "title": "Encoding Standard",
               "crawled": "https://encoding.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/encrypted-media/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
             },
             {
               "url": "https://w3c.github.io/event-timing/",
@@ -56090,7 +56073,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "22 November 2021",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
@@ -56144,10 +56127,10 @@
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#allowed-to-use",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#consume-user-activation",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#api-base-url",
@@ -56972,7 +56955,6 @@
             "https://html.spec.whatwg.org/#event-load",
             "https://html.spec.whatwg.org/#event-pagehide",
             "https://html.spec.whatwg.org/#event-pageshow",
-            "https://www.w3.org/TR/accname-1.1/#dfn-accessible-name",
             "https://drafts.csswg.org/css-box/#visibility-prop"
           ],
           "evolvingLinks": [],
@@ -62590,7 +62572,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -62712,7 +62694,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "15 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -62928,7 +62910,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "14 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",

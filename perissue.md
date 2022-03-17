@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 16, 2022
+% March 17, 2022
 
 465 specifications were crawled in this report.
 
@@ -449,7 +449,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
-- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/) uses:
     * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
     * `MediaSource` but does not reference [Media Source Extensions™](https://w3c.github.io/media-source/)
@@ -520,7 +519,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 58 missing references for IDL definitions found in 29 specifications
+=> 57 missing references for IDL definitions found in 28 specifications
 
 
 ## No definition for CSS properties
@@ -1016,6 +1015,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/) links to:
     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
@@ -1310,7 +1310,9 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/) but does not list it in its references
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/) links to [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/) but does not list it in its references
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/) but does not list it in its references
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/) but does not list it in its references
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1723,7 +1725,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 633 missing references for links found in 169 specifications
+=> 635 missing references for links found in 169 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2316,9 +2318,9 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/):
-     * [`https://drafts.csswg.org/css-backgrounds-3/#background-painting-area`](https://drafts.csswg.org/css-backgrounds-3/#background-painting-area)
-     * [`https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area`](https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area)
-     * [`https://drafts.csswg.org/css-backgrounds-3/#border-image-area`](https://drafts.csswg.org/css-backgrounds-3/#border-image-area)
+     * [`https://www.w3.org/TR/css-backgrounds-3/#background-painting-area`](https://www.w3.org/TR/css-backgrounds-3/#background-painting-area)
+     * [`https://www.w3.org/TR/css-backgrounds-3/#background-positioning-area`](https://www.w3.org/TR/css-backgrounds-3/#background-positioning-area)
+     * [`https://www.w3.org/TR/css-backgrounds-3/#border-image-area`](https://www.w3.org/TR/css-backgrounds-3/#border-image-area)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -3364,6 +3366,7 @@ Links in the body of a specification should be to the same document as that poin
 - [DOM Standard](https://dom.spec.whatwg.org/):
      * [`https://w3c.github.io/touch-events/#idl-def-touchevent`](https://w3c.github.io/touch-events/#idl-def-touchevent)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/):
+     * [`https://webidl.spec.whatwg.org/#dfn-DOMException`](https://webidl.spec.whatwg.org/#dfn-DOMException)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 - [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp`](https://w3c.github.io/hr-time/#idl-def-domhighrestimestamp)
@@ -3957,7 +3960,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 824 problematic external links found in 53 specifications
+=> 825 problematic external links found in 53 specifications
 
 
 ## Broken external links
@@ -4397,6 +4400,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#2dcontext`](https://html.spec.whatwg.org/#2dcontext)
+     * [`https://drafts.csswg.org/css-color-3/#opacity`](https://drafts.csswg.org/css-color-3/#opacity)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/):
      * [`https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation`](https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
@@ -4827,6 +4831,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
      * [`https://html.spec.whatwg.org/#lists`](https://html.spec.whatwg.org/#lists)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/):
+     * [`https://drafts.csswg.org/css-color-3/#opacity`](https://drafts.csswg.org/css-color-3/#opacity)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/):
      * [`https://drafts.csswg.org/selectors-3/#sel-before`](https://drafts.csswg.org/selectors-3/#sel-before)
@@ -4893,6 +4898,7 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/):
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://drafts.csswg.org/css-color-3/#valuea-def-color`](https://drafts.csswg.org/css-color-3/#valuea-def-color)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/):
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
@@ -4991,6 +4997,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
      * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
      * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
+     * [`https://drafts.csswg.org/css-color-3/#opacity`](https://drafts.csswg.org/css-color-3/#opacity)
+     * [`https://drafts.csswg.org/css-color-3/#valuea-def-color`](https://drafts.csswg.org/css-color-3/#valuea-def-color)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
      * [`https://drafts.csswg.org/css-fonts-3/#absolute-size-value`](https://drafts.csswg.org/css-fonts-3/#absolute-size-value)
      * [`https://drafts.csswg.org/css-fonts-3/#relative-size-value`](https://drafts.csswg.org/css-fonts-3/#relative-size-value)
@@ -5193,12 +5201,13 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-loop`](https://html.spec.whatwg.org/#event-loop)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/):
-     * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://www.w3.org/TR/secure-contexts/#secure-context`](https://www.w3.org/TR/secure-contexts/#secure-context)
+     * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
 - [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#dfn-performance`](https://w3c.github.io/hr-time/#dfn-performance)
      * [`https://html.spec.whatwg.org/#event-dnd-dragstart`](https://html.spec.whatwg.org/#event-dnd-dragstart)
@@ -5367,11 +5376,13 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#attr-img-crossorigin`](https://html.spec.whatwg.org/#attr-img-crossorigin)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
+     * [`https://drafts.csswg.org/css-color-3/#opacity`](https://drafts.csswg.org/css-color-3/#opacity)
+     * [`https://drafts.csswg.org/css-color-3/#valuea-def-color`](https://drafts.csswg.org/css-color-3/#valuea-def-color)
+     * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-length`](https://www.w3.org/TR/css-transitions-1/#animtype-length)
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-number`](https://www.w3.org/TR/css-transitions-1/#animtype-number)
      * [`https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list`](https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list)
-     * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/):
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/):
@@ -8228,9 +8239,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/web-animations-1/#before-flag`](https://drafts.csswg.org/web-animations-1/#before-flag)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
      * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
-- [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/):
-     * [`https://www.w3.org/TR/accname-1.2/#dfn-accessible-description`](https://www.w3.org/TR/accname-1.2/#dfn-accessible-description)
-     * [`https://www.w3.org/TR/accname-1.2/#dfn-accessible-name`](https://www.w3.org/TR/accname-1.2/#dfn-accessible-name)
 - [Web Application Manifest](https://w3c.github.io/manifest/):
      * [`https://html.spec.whatwg.org/#meta`](https://html.spec.whatwg.org/#meta)
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
@@ -8242,7 +8250,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens`](https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
-     * [`https://www.w3.org/TR/accname-1.2/#dfn-accessible-name`](https://www.w3.org/TR/accname-1.2/#dfn-accessible-name)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/):
      * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
@@ -8468,10 +8475,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
-     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
@@ -8704,7 +8711,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-load`](https://html.spec.whatwg.org/#event-load)
      * [`https://html.spec.whatwg.org/#event-pagehide`](https://html.spec.whatwg.org/#event-pagehide)
      * [`https://html.spec.whatwg.org/#event-pageshow`](https://html.spec.whatwg.org/#event-pageshow)
-     * [`https://www.w3.org/TR/accname-1.1/#dfn-accessible-name`](https://www.w3.org/TR/accname-1.1/#dfn-accessible-name)
      * [`https://drafts.csswg.org/css-box/#visibility-prop`](https://drafts.csswg.org/css-box/#visibility-prop)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/):
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -9055,7 +9061,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4809 problematic external links found in 283 specifications
+=> 4813 problematic external links found in 282 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
