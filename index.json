@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-17T00:47:12.492Z",
+  "date": "2022-03-17T06:36:59.442Z",
   "stats": {
     "crawled": 465,
     "errors": 34,
@@ -43359,7 +43359,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "14 March 2022",
+      "date": "17 March 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -43595,6 +43595,7 @@
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#non-secure-context",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#realms-settings-objects-global-objects",
             "https://html.spec.whatwg.org/#same-origin",
@@ -43603,7 +43604,6 @@
             "https://html.spec.whatwg.org/#responsible-event-loop",
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#workernavigator",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#in-parallel",
@@ -63774,7 +63774,7 @@
     {
       "title": "WebXR Augmented Reality Module - Level 1",
       "shortname": "webxr-ar-module-1",
-      "date": "3 February 2022",
+      "date": "17 March 2022",
       "url": "https://www.w3.org/TR/webxr-ar-module-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-ar-module-1/",
