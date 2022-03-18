@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-18T12:47:49.958Z",
+  "date": "2022-03-18T18:37:42.156Z",
   "stats": {
     "crawled": 468,
     "errors": 0,
@@ -12,7 +12,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "8 March 2022",
+      "date": "18 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -52,7 +52,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "8 March 2022",
+      "date": "18 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -92,7 +92,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "8 March 2022",
+      "date": "18 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -132,7 +132,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "8 March 2022",
+      "date": "18 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -11108,11 +11108,6 @@
               "crawled": "https://drafts.csswg.org/css-text-decor-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-text-decor-4/",
-              "title": "CSS Text Decoration Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
@@ -11359,6 +11354,11 @@
               "url": "https://www.w3.org/TR/css-speech-1/",
               "title": "CSS Speech Module Level 1",
               "crawled": "https://drafts.csswg.org/css-speech-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-4/",
+              "title": "CSS Text Decoration Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-text-4/",
@@ -17340,7 +17340,7 @@
     {
       "title": "CSS Text Decoration Module Level 3",
       "shortname": "css-text-decor-3",
-      "date": "11 March 2022",
+      "date": "18 March 2022",
       "url": "https://www.w3.org/TR/css-text-decor-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-3/",
@@ -17377,6 +17377,7 @@
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/web-animations-1/",
           "https://www.w3.org/TR/1998/REC-CSS2-19980512"
         ],
         "inconsistentRef": [
@@ -17482,7 +17483,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "11 March 2022",
+      "date": "18 March 2022",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -17520,7 +17521,7 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/css-text/",
-          "https://www.w3.org/TR/1998/REC-CSS2-19980512"
+          "https://www.w3.org/TR/web-animations-1/"
         ],
         "inconsistentRef": [
           {
@@ -17631,20 +17632,17 @@
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://www.w3.org/TR/css-text-3/#word-separator",
-            "https://www.w3.org/TR/css-text/#word-separator"
+            "https://www.w3.org/TR/css-text/#word-separator",
+            "https://drafts.csswg.org/css-backgrounds-3/#spread-distance"
           ],
           "notDfn": [
             "https://www.w3.org/TR/css-backgrounds-3/#the-border-style",
             "https://www.w3.org/TR/css-ruby-1/#autohide"
           ],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-3/#color0"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
-          "datedUrls": [
-            "https://www.w3.org/TR/1998/REC-CSS2-19980512"
-          ]
+          "datedUrls": []
         },
         "ok": false
       }
@@ -21193,7 +21191,7 @@
     {
       "title": "Digital Goods API",
       "shortname": "digital-goods",
-      "date": "8 March 2022",
+      "date": "18 March 2022",
       "url": "https://wicg.github.io/digital-goods/",
       "nightly": {
         "url": "https://wicg.github.io/digital-goods/",
@@ -21252,7 +21250,8 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#same-origin",
@@ -22611,7 +22610,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "17 March 2022",
+      "date": "18 March 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
