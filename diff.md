@@ -2,52 +2,65 @@
 % Strudy
 % March 18, 2022
 
-## Compositing and Blending Level 1
+## Capability Delegation
 
-- Initial URL: [https://www.w3.org/TR/compositing-1/](https://www.w3.org/TR/compositing-1/)
+- Initial URL: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.fxtf.org/compositing-1/](https://drafts.fxtf.org/compositing-1/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css-color-4/
+- Editor's Draft: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
+- This specification was not in the reference crawl report.
 
 
-## CSS Object Model (CSSOM)
+## Digital Goods API
 
-- Initial URL: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
+- Initial URL: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/cssom/](https://drafts.csswg.org/cssom/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css3-conditional/, https://www.w3.org/TR/css-color-4/
+- Editor's Draft: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
+- This specification was not in the reference crawl report.
 
 
-## CSS Properties and Values API Level 1
+## HTML Media Capture
 
-- Initial URL: [https://www.w3.org/TR/css-properties-values-api-1/](https://www.w3.org/TR/css-properties-values-api-1/)
+- Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.css-houdini.org/css-properties-values-api-1/](https://drafts.css-houdini.org/css-properties-values-api-1/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css3-conditional/
+- Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
+- Spec could not be rendered: *DEL* Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 350)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
 
 
-## CSS Writing Modes Level 4
+## Portable Network Graphics (PNG) Specification (Third Edition)
 
-- Initial URL: [https://www.w3.org/TR/css-writing-modes-4/](https://www.w3.org/TR/css-writing-modes-4/)
+- Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
-- Missing references for links: *INS* https://www.w3.org/TR/css-contain-1/
-
-
-## Media Queries Level 4
-
-- Initial URL: [https://www.w3.org/TR/mediaqueries-4/](https://www.w3.org/TR/mediaqueries-4/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/mediaqueries-4/](https://drafts.csswg.org/mediaqueries-4/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css3-conditional/
-
-
-## Media Queries Level 5
-
-- Initial URL: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css3-conditional/
+- Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- This specification was not in the reference crawl report.
 
 
 

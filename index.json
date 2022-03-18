@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-18T06:38:14.354Z",
+  "date": "2022-03-18T12:47:49.958Z",
   "stats": {
-    "crawled": 465,
-    "errors": 1,
-    "studied": 465
+    "crawled": 468,
+    "errors": 0,
+    "studied": 468
   },
   "results": [
     {
@@ -1891,6 +1891,83 @@
       }
     },
     {
+      "title": "Capability Delegation",
+      "shortname": "capability-delegation",
+      "date": "7 March 2022",
+      "url": "https://wicg.github.io/capability-delegation/spec.html",
+      "nightly": {
+        "url": "https://wicg.github.io/capability-delegation/spec.html",
+        "repository": "https://github.com/WICG/capability-delegation",
+        "sourcePath": "spec.bs",
+        "filename": "spec.html"
+      },
+      "crawled": "https://wicg.github.io/capability-delegation/spec.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/permissions-policy/",
+          "https://w3c.github.io/webappsec-permissions-policy/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/hr-time/",
+            "ref": {
+              "name": "HR-TIME-2",
+              "url": "https://www.w3.org/TR/hr-time-2/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://w3c.github.io/webappsec-permissions-policy/#supported-features"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#dom-open",
+            "https://html.spec.whatwg.org/#the-iframe-element",
+            "https://html.spec.whatwg.org/#dom-iframe-allow",
+            "https://html.spec.whatwg.org/#user-activation-gated-apis",
+            "https://html.spec.whatwg.org/#activation-expiry",
+            "https://html.spec.whatwg.org/#posting-messages",
+            "https://html.spec.whatwg.org/#windowpostmessageoptions",
+            "https://html.spec.whatwg.org/#window-post-message-steps",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#concept-settings-object-global",
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#consume-user-activation",
+            "https://html.spec.whatwg.org/#window"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Clear Site Data",
       "shortname": "clear-site-data",
       "date": "18 February 2021",
@@ -2647,7 +2724,7 @@
     {
       "title": "Compute Pressure API",
       "shortname": "compute-pressure",
-      "date": "17 March 2022",
+      "date": "18 March 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -21114,6 +21191,83 @@
       }
     },
     {
+      "title": "Digital Goods API",
+      "shortname": "digital-goods",
+      "date": "8 March 2022",
+      "url": "https://wicg.github.io/digital-goods/",
+      "nightly": {
+        "url": "https://wicg.github.io/digital-goods/",
+        "repository": "https://github.com/WICG/digital-goods",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/digital-goods/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/payment-request/",
+            "ref": {
+              "name": "PAYMENT-REQUEST",
+              "url": "https://w3c.github.io/payment-request/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/payment-method-id/",
+            "ref": {
+              "name": "PAYMENT-METHOD-ID",
+              "url": "https://w3c.github.io/payment-method-id/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/payment-request/#dfn-payment-permission",
+            "https://www.w3.org/TR/payment-request/#dfn-check-and-canonicalize-amount"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#concept-origin",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
+            "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Document Policy",
       "shortname": "document-policy",
       "date": "28 October 2021",
@@ -22228,6 +22382,11 @@
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
+            },
+            {
+              "url": "https://wicg.github.io/digital-goods/",
+              "title": "Digital Goods API",
+              "crawled": "https://wicg.github.io/digital-goods/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-identity/",
@@ -25073,6 +25232,11 @@
           ],
           "informative": [
             {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-contain-3/"
@@ -26033,6 +26197,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
               "url": "https://wicg.github.io/close-watcher/",
               "title": "Close Watcher API",
               "crawled": "https://wicg.github.io/close-watcher/"
@@ -26810,7 +26979,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 350)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -33288,6 +33456,11 @@
               "crawled": "https://w3c.github.io/beacon/"
             },
             {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
@@ -33601,6 +33774,11 @@
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "DeviceOrientation Event Specification",
               "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
+              "url": "https://wicg.github.io/digital-goods/",
+              "title": "Digital Goods API",
+              "crawled": "https://wicg.github.io/digital-goods/"
             },
             {
               "url": "https://wicg.github.io/document-policy/",
@@ -34031,6 +34209,11 @@
               "url": "https://www.w3.org/TR/pointerlock-2/",
               "title": "Pointer Lock 2.0",
               "crawled": "https://w3c.github.io/pointerlock/"
+            },
+            {
+              "url": "https://w3c.github.io/PNG-spec/",
+              "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
+              "crawled": "https://w3c.github.io/PNG-spec/"
             },
             {
               "url": "https://wicg.github.io/portals/",
@@ -36797,6 +36980,11 @@
               "crawled": "https://w3c.github.io/badging/"
             },
             {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
@@ -37000,6 +37188,11 @@
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
+              "url": "https://wicg.github.io/digital-goods/",
+              "title": "Digital Goods API",
+              "crawled": "https://wicg.github.io/digital-goods/"
             },
             {
               "url": "https://dom.spec.whatwg.org/",
@@ -42948,7 +43141,13 @@
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/digital-goods/",
+              "title": "Digital Goods API",
+              "crawled": "https://wicg.github.io/digital-goods/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -43138,6 +43337,16 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
+              "url": "https://wicg.github.io/digital-goods/",
+              "title": "Digital Goods API",
+              "crawled": "https://wicg.github.io/digital-goods/"
+            },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
@@ -43693,6 +43902,11 @@
               "crawled": "https://drafts.csswg.org/css-nav-1/"
             },
             {
+              "url": "https://wicg.github.io/digital-goods/",
+              "title": "Digital Goods API",
+              "crawled": "https://wicg.github.io/digital-goods/"
+            },
+            {
               "url": "https://www.w3.org/TR/encrypted-media/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
@@ -44193,6 +44407,66 @@
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
+      "shortname": "PNG-spec",
+      "date": "11 February 2022",
+      "url": "https://w3c.github.io/PNG-spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/PNG-spec/",
+        "repository": "https://github.com/w3c/PNG-spec",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/PNG-spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Portable Network Graphics (PNG) Working Group",
+          "url": "https://www.w3.org/groups/wg/png/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/2003/REC-PNG-20031110/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/PNG-spec/",
+              "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
+              "crawled": "https://w3c.github.io/PNG-spec/"
+            }
+          ],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#the-s-element"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": [
+            "https://www.w3.org/TR/2003/REC-PNG-20031110/"
+          ]
         },
         "ok": false
       }
@@ -50872,7 +51146,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 March 2022",
+      "date": "18 March 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54882,6 +55156,11 @@
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
+              "url": "https://wicg.github.io/digital-goods/",
+              "title": "Digital Goods API",
+              "crawled": "https://wicg.github.io/digital-goods/"
             },
             {
               "url": "https://dom.spec.whatwg.org/",

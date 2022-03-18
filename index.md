@@ -644,7 +644,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 16 March 2022
+- Crawled version: 18 March 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -10978,7 +10978,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### HTML Media Capture {data-spec=true data-error=true}
+### HTML Media Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10991,39 +10991,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 350)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
+- External links to outdated specs:
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12565,6 +12537,36 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [UI Events](https://w3c.github.io/uievents/)
+
+No informative reference to this spec from other specs.
+
+
+## Portable Network Graphics (PNG) Working Group {#portable_network_graphics_png_working_group}
+
+### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- Crawled version: 11 February 2022
+- Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- Shortname: PNG-spec
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
 
 No informative reference to this spec from other specs.
 
@@ -14623,6 +14625,7 @@ Normative references to this spec from:
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
@@ -16665,7 +16668,9 @@ Normative references to this spec from:
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
 
 
 ### Payment Method Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -16775,6 +16780,8 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
@@ -17028,6 +17035,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compute Pressure API](https://wicg.github.io/compute-pressure/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
@@ -17949,6 +17957,49 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Capability Delegation {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
+- Crawled URL: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
+- Crawled version: 7 March 2022
+- Editor's Draft: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
+- Shortname: capability-delegation
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+- External links to private terms:
+     * [`https://w3c.github.io/webappsec-permissions-policy/#supported-features`](https://w3c.github.io/webappsec-permissions-policy/#supported-features)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
+     * [`https://html.spec.whatwg.org/#dom-open`](https://html.spec.whatwg.org/#dom-open)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://html.spec.whatwg.org/#dom-iframe-allow`](https://html.spec.whatwg.org/#dom-iframe-allow)
+     * [`https://html.spec.whatwg.org/#user-activation-gated-apis`](https://html.spec.whatwg.org/#user-activation-gated-apis)
+     * [`https://html.spec.whatwg.org/#activation-expiry`](https://html.spec.whatwg.org/#activation-expiry)
+     * [`https://html.spec.whatwg.org/#posting-messages`](https://html.spec.whatwg.org/#posting-messages)
+     * [`https://html.spec.whatwg.org/#windowpostmessageoptions`](https://html.spec.whatwg.org/#windowpostmessageoptions)
+     * [`https://html.spec.whatwg.org/#window-post-message-steps`](https://html.spec.whatwg.org/#window-post-message-steps)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Client Hints Infrastructure {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -18074,7 +18125,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 17 March 2022
+- Crawled version: 18 March 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -18383,6 +18434,42 @@ No informative reference to this spec from other specs.
 
 - Inconsistent references for links: 
      * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Digital Goods API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
+- Crawled URL: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
+- Crawled version: 8 March 2022
+- Editor's Draft: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
+- Shortname: digital-goods
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/), related reference "PAYMENT-REQUEST" uses URL [`https://w3c.github.io/payment-request/`](https://w3c.github.io/payment-request/)
+     * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/), related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/payment-request/#dfn-payment-permission`](https://www.w3.org/TR/payment-request/#dfn-payment-permission)
+     * [`https://www.w3.org/TR/payment-request/#dfn-check-and-canonicalize-amount`](https://www.w3.org/TR/payment-request/#dfn-check-and-canonicalize-amount)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
+     * [`https://html.spec.whatwg.org/#concept-environment-top-level-origin`](https://html.spec.whatwg.org/#concept-environment-top-level-origin)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21956,6 +22043,7 @@ Informative references to this spec from:
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
@@ -22199,6 +22287,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
@@ -22775,6 +22864,7 @@ Normative references to this spec from:
 - [Badging API](https://w3c.github.io/badging/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
@@ -22838,6 +22928,7 @@ Normative references to this spec from:
 - [Device Memory 1](https://w3c.github.io/device-memory/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
@@ -22924,6 +23015,7 @@ Normative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
 - [Portals](https://wicg.github.io/portals/)
 - [Preload](https://w3c.github.io/preload/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
@@ -23132,6 +23224,7 @@ Normative references to this spec from:
 - [Attribution Reporting](https://wicg.github.io/conversion-measurement-api/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Badging API](https://w3c.github.io/badging/)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
@@ -23173,6 +23266,7 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
@@ -23802,6 +23896,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [EditContext API](https://w3c.github.io/edit-context/)

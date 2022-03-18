@@ -2,45 +2,7 @@
 % Strudy
 % March 18, 2022
 
-465 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 350)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-=> 1 specification found
+468 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -795,6 +757,9 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
 - [Badging API](https://w3c.github.io/badging/) links to [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/) but does not list it in its references
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html) links to:
+    * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but does not list it in its references
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/) links to [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/) but does not list it in its references
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/) links to:
     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
@@ -1472,6 +1437,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but does not list it in its references
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
 - [Preload](https://w3c.github.io/preload/) links to [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/) but does not list it in its references
 - [Reporting API 1](https://w3c.github.io/reporting/) links to [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
 - [Resize Observer](https://drafts.csswg.org/resize-observer/) links to:
@@ -1644,7 +1610,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 732 missing references for links found in 194 specifications
+=> 735 missing references for links found in 196 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1673,6 +1639,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
     * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/) links to:
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
@@ -1812,6 +1779,9 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/) links to:
+    * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but related reference "PAYMENT-REQUEST" uses URL [`https://w3c.github.io/payment-request/`](https://w3c.github.io/payment-request/)
+    * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
 - [Document Policy](https://wicg.github.io/document-policy/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/) links to [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM4" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 - [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
@@ -2067,7 +2037,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 342 inconsistent references for links found in 180 specifications
+=> 345 inconsistent references for links found in 182 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2106,6 +2076,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webdriver/#dfn-error-code`](https://w3c.github.io/webdriver/#dfn-error-code)
      * [`https://w3c.github.io/webdriver/#dfn-no-such-window`](https://w3c.github.io/webdriver/#dfn-no-such-window)
      * [`https://w3c.github.io/webdriver/#dfn-url-variables`](https://w3c.github.io/webdriver/#dfn-url-variables)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html):
+     * [`https://w3c.github.io/webappsec-permissions-policy/#supported-features`](https://w3c.github.io/webappsec-permissions-policy/#supported-features)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/):
      * [`https://fetch.spec.whatwg.org/#concept-http-network-fetch`](https://fetch.spec.whatwg.org/#concept-http-network-fetch)
      * [`https://w3c.github.io/IndexedDB/#database`](https://w3c.github.io/IndexedDB/#database)
@@ -2428,6 +2400,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://dom.spec.whatwg.org/#event-listener-capture`](https://dom.spec.whatwg.org/#event-listener-capture)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/):
      * [`https://compat.spec.whatwg.org/#event-orientationchange`](https://compat.spec.whatwg.org/#event-orientationchange)
+- [Digital Goods API](https://wicg.github.io/digital-goods/):
+     * [`https://www.w3.org/TR/payment-request/#dfn-payment-permission`](https://www.w3.org/TR/payment-request/#dfn-payment-permission)
+     * [`https://www.w3.org/TR/payment-request/#dfn-check-and-canonicalize-amount`](https://www.w3.org/TR/payment-request/#dfn-check-and-canonicalize-amount)
 - [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
      * [`https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry`](https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry)
@@ -3088,7 +3063,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 814 problematic external links found in 199 specifications
+=> 817 problematic external links found in 201 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3399,6 +3374,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-label`](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://drafts.csswg.org/css2/#block-boxes%E2%91%A0`](https://drafts.csswg.org/css2/#block-boxes%E2%91%A0)
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
@@ -3972,7 +3949,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 825 problematic external links found in 53 specifications
+=> 826 problematic external links found in 54 specifications
 
 
 ## Broken external links
@@ -4313,6 +4290,22 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#multipart/form-data-boundary-string`](https://html.spec.whatwg.org/#multipart/form-data-boundary-string)
      * [`https://html.spec.whatwg.org/#origin`](https://html.spec.whatwg.org/#origin)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html):
+     * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
+     * [`https://html.spec.whatwg.org/#dom-open`](https://html.spec.whatwg.org/#dom-open)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://html.spec.whatwg.org/#dom-iframe-allow`](https://html.spec.whatwg.org/#dom-iframe-allow)
+     * [`https://html.spec.whatwg.org/#user-activation-gated-apis`](https://html.spec.whatwg.org/#user-activation-gated-apis)
+     * [`https://html.spec.whatwg.org/#activation-expiry`](https://html.spec.whatwg.org/#activation-expiry)
+     * [`https://html.spec.whatwg.org/#posting-messages`](https://html.spec.whatwg.org/#posting-messages)
+     * [`https://html.spec.whatwg.org/#windowpostmessageoptions`](https://html.spec.whatwg.org/#windowpostmessageoptions)
+     * [`https://html.spec.whatwg.org/#window-post-message-steps`](https://html.spec.whatwg.org/#window-post-message-steps)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/):
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#dom-sessionstorage`](https://html.spec.whatwg.org/#dom-sessionstorage)
@@ -5132,6 +5125,16 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
+- [Digital Goods API](https://wicg.github.io/digital-goods/):
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
+     * [`https://html.spec.whatwg.org/#concept-environment-top-level-origin`](https://html.spec.whatwg.org/#concept-environment-top-level-origin)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
 - [Document Policy](https://wicg.github.io/document-policy/):
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#opener-browsing-context`](https://html.spec.whatwg.org/#opener-browsing-context)
@@ -7191,6 +7194,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#becomes-disconnected`](https://html.spec.whatwg.org/#becomes-disconnected)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/):
+     * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
 - [Portals](https://wicg.github.io/portals/):
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#windows`](https://html.spec.whatwg.org/#windows)
@@ -9115,7 +9120,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4839 problematic external links found in 298 specifications
+=> 4864 problematic external links found in 301 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9163,6 +9168,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
@@ -9234,7 +9242,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 50 specifications
+=> 59 problematic external links found in 51 specifications
 
 
 ## External links that use a dated URL
@@ -9372,6 +9380,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/):
      * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/):
+     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
 - [Proposals for the future of CSS Paged Media](https://drafts.csswg.org/css-page-4/):
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
      * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/)
@@ -9494,7 +9504,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 191 problematic external links found in 63 specifications
+=> 192 problematic external links found in 64 specifications
 
 
 
