@@ -279,7 +279,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
+- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -780,7 +780,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 20 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -9817,14 +9817,14 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Crawled URL: [https://drafts.csswg.org/cssom-view/](https://drafts.csswg.org/cssom-view/)
-- Crawled version: 19 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://drafts.csswg.org/cssom-view/](https://drafts.csswg.org/cssom-view/)
 - Latest published version: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Shortname: cssom-view-1
 
 #### Potential issue(s) {.anomalies}
 
-- Unknown WebIDL names used: `CSSOMString`, `bool`
+- Unknown WebIDL names used: `CSSOMString`
 - External links to private terms:
      * [`https://dom.spec.whatwg.org/#event-listener-type`](https://dom.spec.whatwg.org/#event-listener-type)
      * [`https://dom.spec.whatwg.org/#event-listener-callback`](https://dom.spec.whatwg.org/#event-listener-callback)
@@ -11923,7 +11923,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 02 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -12907,7 +12907,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
 - Crawled URL: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
-- Crawled version: 08 June 2021
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
 - Latest published version: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
 - Shortname: SVG2
@@ -13289,7 +13289,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
 - Crawled URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
-- Crawled version: 08 June 2021
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
 - Shortname: svg-animations
 
@@ -13400,7 +13400,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
 - Crawled URL: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
-- Crawled version: 08 June 2021
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
 - Latest published version: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
 - Shortname: svg-integration
@@ -13436,7 +13436,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
 - Crawled URL: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
-- Crawled version: 08 June 2021
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
 - Latest published version: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
 - Shortname: svg-strokes
@@ -14540,7 +14540,7 @@ Normative references to this spec from:
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
+- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Geolocation API](https://w3c.github.io/geolocation-api/)
@@ -17039,7 +17039,7 @@ Normative references to this spec from:
 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
-- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
+- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
@@ -18121,13 +18121,13 @@ Informative references to this spec from:
 - [Streams Standard](https://streams.spec.whatwg.org/)
 
 
-### Compute Pressure API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Compute Pressure API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 18 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -20951,7 +20951,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Crawled URL: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
-- Crawled version: 14 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Shortname: mediacapture-streams
@@ -21382,7 +21382,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 16 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -21548,7 +21548,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 2 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21573,7 +21573,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 2 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Shortname: wasm-js-api-1
@@ -21617,7 +21617,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 2 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Shortname: wasm-web-api-1
@@ -22037,7 +22037,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
-- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
+- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
@@ -22875,7 +22875,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
-- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
+- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
@@ -23159,7 +23159,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Crawled URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
-- Crawled version: 18 February 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Shortname: websockets
 
@@ -23233,7 +23233,7 @@ Normative references to this spec from:
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
+- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
 - [Console Standard](https://console.spec.whatwg.org/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
@@ -23665,7 +23665,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
 - Crawled URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
-- Crawled version: 18 January 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
 - Shortname: testutils
 
@@ -23809,7 +23809,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 7 March 2022
+- Crawled version: 21 March 2022
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
@@ -23867,7 +23867,7 @@ Normative references to this spec from:
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compression Streams](https://wicg.github.io/compression/)
-- [Compute Pressure API](https://wicg.github.io/compute-pressure/)
+- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
