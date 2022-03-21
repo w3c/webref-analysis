@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-21T12:45:26.325Z",
+  "date": "2022-03-21T18:40:52.221Z",
   "stats": {
     "crawled": 468,
     "errors": 0,
@@ -538,7 +538,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "16 March 2022",
+      "date": "21 March 2022",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -641,7 +641,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "11 March 2022",
+      "date": "21 March 2022",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -41774,7 +41774,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "17 March 2022",
+      "date": "21 March 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -44228,7 +44228,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "16 March 2022",
+      "date": "21 March 2022",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -51165,7 +51165,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "20 March 2022",
+      "date": "21 March 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
