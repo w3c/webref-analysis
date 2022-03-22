@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-22T06:37:27.807Z",
+  "date": "2022-03-22T12:48:41.424Z",
   "stats": {
-    "crawled": 468,
-    "errors": 1,
-    "studied": 468
+    "crawled": 471,
+    "errors": 0,
+    "studied": 471
   },
   "results": [
     {
@@ -1719,7 +1719,6 @@
             "https://html.spec.whatwg.org/#the-title-element",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#environment-settings-object"
           ],
           "evolvingLinks": [],
@@ -1959,6 +1958,60 @@
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#consume-user-activation",
             "https://html.spec.whatwg.org/#window"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+      "shortname": "mediacapture-handle-identity",
+      "date": "18 March 2022",
+      "url": "https://w3c.github.io/mediacapture-handle/identity/",
+      "nightly": {
+        "url": "https://w3c.github.io/mediacapture-handle/identity/",
+        "sourcePath": "identity/index.html",
+        "repository": "https://github.com/w3c/mediacapture-handle",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mediacapture-handle/identity/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Real-Time Communications Working Group",
+          "url": "https://www.w3.org/groups/wg/webrtc"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/screen-capture/#dfn-browser"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4816,7 +4869,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 327)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9622,6 +9674,11 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-shapes-2/",
               "title": "CSS Shapes Module Level 2",
               "crawled": "https://drafts.csswg.org/css-shapes-2/"
@@ -12972,6 +13029,11 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
@@ -14170,6 +14232,11 @@
               "url": "https://www.w3.org/TR/css-scroll-snap-1/",
               "title": "CSS Scroll Snap Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
@@ -16216,6 +16283,61 @@
             "https://html.spec.whatwg.org/#the-body-element",
             "https://html.spec.whatwg.org/#the-section-element"
           ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "CSS Scroll Snap Module Level 2",
+      "shortname": "css-scroll-snap-2",
+      "date": "18 March 2022",
+      "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-scroll-snap-2/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-scroll-snap-2/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/cssom/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/css-cascade/#applies-to"
+          ],
+          "notDfn": [],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -19878,6 +20000,11 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars/"
@@ -20660,6 +20787,11 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
@@ -21082,7 +21214,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
@@ -21457,7 +21588,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "8 February 2022",
+      "date": "22 March 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -21531,6 +21662,11 @@
               "url": "https://www.w3.org/TR/beacon/",
               "title": "Beacon",
               "crawled": "https://w3c.github.io/beacon/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
             },
             {
               "url": "https://www.w3.org/TR/clipboard-apis/",
@@ -22136,6 +22272,11 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "Text Fragments",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
               "url": "https://www.w3.org/TR/screen-orientation/",
@@ -25376,7 +25517,6 @@
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
             "https://html.spec.whatwg.org/#window",
@@ -33477,6 +33617,11 @@
               "crawled": "https://wicg.github.io/capability-delegation/spec.html"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-handle/identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
@@ -34415,6 +34560,11 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "Text Fragments",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
               "url": "https://www.w3.org/TR/screen-orientation/",
@@ -39665,6 +39815,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-handle/identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
               "url": "https://www.w3.org/TR/html-media-capture/",
               "title": "HTML Media Capture",
               "crawled": "https://w3c.github.io/html-media-capture/"
@@ -39735,6 +39890,11 @@
               "crawled": "https://drafts.csswg.org/selectors/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
+            },
+            {
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
@@ -39798,7 +39958,6 @@
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#dom-workerglobalscope-closing",
             "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#gains-focus",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#media-timeline",
@@ -48730,6 +48889,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://w3c.github.io/mediacapture-handle/identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
               "url": "https://w3c.github.io/mediacapture-automation/",
               "title": "Media Capture Automation",
               "crawled": "https://w3c.github.io/mediacapture-automation/"
@@ -48743,6 +48907,11 @@
               "url": "https://w3c.github.io/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             }
           ],
           "informative": [
@@ -48761,7 +48930,6 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#gains-focus",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
@@ -51398,6 +51566,70 @@
       }
     },
     {
+      "title": "The Capture-Handle Actions Mechanism",
+      "shortname": "mediacapture-handle-actions",
+      "date": "18 March 2022",
+      "url": "https://w3c.github.io/mediacapture-handle/actions/",
+      "nightly": {
+        "url": "https://w3c.github.io/mediacapture-handle/actions/",
+        "sourcePath": "actions/index.html",
+        "repository": "https://github.com/w3c/mediacapture-handle",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mediacapture-handle/actions/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Real-Time Communications Working Group",
+          "url": "https://www.w3.org/groups/wg/webrtc"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/screen-capture/#dfn-browser",
+            "https://www.w3.org/TR/screen-capture/#dfn-display-surface"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#consume-user-activation",
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#active-document",
+            "https://html.spec.whatwg.org/#active-window"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
       "shortname": "rfc7538",
       "date": "13 March 2022",
@@ -51535,7 +51767,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#window",
@@ -53810,7 +54041,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "11 March 2022",
+      "date": "16 March 2022",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -54999,6 +55230,11 @@
               "crawled": "https://w3c.github.io/beacon/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-handle/identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
@@ -55587,6 +55823,11 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "Text Fragments",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
               "url": "https://www.w3.org/TR/screen-orientation/",

@@ -4355,7 +4355,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4368,15 +4368,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 327)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6059,6 +6069,7 @@ Normative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
@@ -7227,6 +7238,7 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
@@ -7647,6 +7659,7 @@ Normative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
@@ -8375,6 +8388,33 @@ Normative references to this spec from:
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Scroll Snap Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Crawled version: 18 March 2022
+- Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Shortname: css-scroll-snap-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -9601,6 +9641,7 @@ Normative references to this spec from:
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/)
 - [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
@@ -9852,6 +9893,7 @@ Normative references to this spec from:
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
@@ -10452,7 +10494,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/web-animations-1/](https://www.w3.org/TR/web-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/web-animations-1/](https://drafts.csswg.org/web-animations-1/)
-- Crawled version: 11 March 2022
+- Crawled version: 16 March 2022
 - Editor's Draft: [https://drafts.csswg.org/web-animations-1/](https://drafts.csswg.org/web-animations-1/)
 - Latest published version: [https://www.w3.org/TR/web-animations-1/](https://www.w3.org/TR/web-animations-1/)
 - Shortname: web-animations-1
@@ -10727,7 +10769,6 @@ Informative references to this spec from:
 
 - Broken external links:
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -15488,7 +15529,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -15874,7 +15914,6 @@ No informative reference to this spec from other specs.
 
 - Broken external links:
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
@@ -17939,7 +17978,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#the-title-element`](https://html.spec.whatwg.org/#the-title-element)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
 
 #### Known dependencies on this specification {.dependencies}
@@ -20837,6 +20875,31 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Capture Handle - Bootstrapping Collaboration when Screensharing {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
+- Crawled URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
+- Crawled version: 18 March 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
+- Shortname: mediacapture-handle-identity
+
+#### Potential issue(s) {.anomalies}
+
+- External links to private terms:
+     * [`https://www.w3.org/TR/screen-capture/#dfn-browser`](https://www.w3.org/TR/screen-capture/#dfn-browser)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### IceTransport Extensions for WebRTC {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -20960,7 +21023,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
      * [`https://html.spec.whatwg.org/#dom-workerglobalscope-closing`](https://html.spec.whatwg.org/#dom-workerglobalscope-closing)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#gains-focus`](https://html.spec.whatwg.org/#gains-focus)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#media-timeline`](https://html.spec.whatwg.org/#media-timeline)
@@ -21007,6 +21069,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
@@ -21021,6 +21084,7 @@ Normative references to this spec from:
 - [Region Capture](https://w3c.github.io/mediacapture-region/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
@@ -21345,7 +21409,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
      * [`https://html.spec.whatwg.org/#gains-focus`](https://html.spec.whatwg.org/#gains-focus)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
@@ -21357,13 +21420,50 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 - [Region Capture](https://w3c.github.io/mediacapture-region/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 
 Informative references to this spec from:
 
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+
+
+### The Capture-Handle Actions Mechanism {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
+- Crawled URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
+- Crawled version: 18 March 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
+- Shortname: mediacapture-handle-actions
+
+#### Potential issue(s) {.anomalies}
+
+- External links to private terms:
+     * [`https://www.w3.org/TR/screen-capture/#dfn-browser`](https://www.w3.org/TR/screen-capture/#dfn-browser)
+     * [`https://www.w3.org/TR/screen-capture/#dfn-display-surface`](https://www.w3.org/TR/screen-capture/#dfn-display-surface)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
+     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
+     * [`https://html.spec.whatwg.org/#active-window`](https://html.spec.whatwg.org/#active-window)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ### WebRTC 1.0: Real-Time Communication Between Browsers {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -21774,7 +21874,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 8 February 2022
+- Crawled version: 22 March 2022
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
@@ -21860,6 +21960,7 @@ Normative references to this spec from:
 - [Badging API](https://w3c.github.io/badging/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
@@ -21981,6 +22082,7 @@ Normative references to this spec from:
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 - [SVG Animations](https://svgwg.org/specs/animations/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
@@ -22858,6 +22960,7 @@ Normative references to this spec from:
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
@@ -23046,6 +23149,7 @@ Normative references to this spec from:
 - [SVG Animations](https://svgwg.org/specs/animations/)
 - [Test Utils Standard](https://testutils.spec.whatwg.org/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
@@ -23853,6 +23957,7 @@ Normative references to this spec from:
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
@@ -23971,6 +24076,7 @@ Normative references to this spec from:
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Test Utils Standard](https://testutils.spec.whatwg.org/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
