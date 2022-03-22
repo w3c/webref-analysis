@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 21, 2022
+% March 22, 2022
 
 468 specifications were crawled in this report.
 
@@ -192,8 +192,9 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `WebAppManifest` used in [Web Share Target API](https://w3c.github.io/web-share-target/)
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+- `bool` used in [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 
-=> 20 WebIDL names found
+=> 21 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
