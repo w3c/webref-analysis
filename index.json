@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-23T12:43:10.518Z",
+  "date": "2022-03-23T18:38:27.093Z",
   "stats": {
     "crawled": 471,
-    "errors": 1,
+    "errors": 3,
     "studied": 471
   },
   "results": [
@@ -1969,7 +1969,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "mediacapture-handle-identity",
-      "date": "18 March 2022",
+      "date": "23 March 2022",
       "url": "https://w3c.github.io/mediacapture-handle/identity/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/identity/",
@@ -17069,6 +17069,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 313)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20753,6 +20754,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 333)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24962,7 +24964,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "11 February 2022",
+      "date": "23 March 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -27268,7 +27270,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 March 2022",
+      "date": "23 March 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -51586,7 +51588,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "18 March 2022",
+      "date": "23 March 2022",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",
@@ -63104,7 +63106,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "21 March 2022",
+      "date": "23 March 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63226,7 +63228,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "21 March 2022",
+      "date": "23 March 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
