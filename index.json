@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-24T06:37:18.559Z",
+  "date": "2022-03-24T12:41:59.276Z",
   "stats": {
     "crawled": 471,
     "errors": 1,
@@ -2777,7 +2777,7 @@
     {
       "title": "Compute Pressure API Level 1",
       "shortname": "compute-pressure",
-      "date": "21 March 2022",
+      "date": "24 March 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -22783,7 +22783,7 @@
     {
       "title": "ECMAScript® 2022 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "20 March 2022",
+      "date": "24 March 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -41411,7 +41411,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "24 February 2022",
+      "date": "24 March 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",
@@ -41446,6 +41446,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/mini-app-white-paper/",
           "https://www.w3.org/TR/service-workers/",
+          "https://www.w3.org/TR/miniapp-manifest/",
           "https://w3c.github.io/page-visibility/"
         ],
         "inconsistentRef": [],
