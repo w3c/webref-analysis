@@ -10839,7 +10839,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 15 December 2021
+- Crawled version: 24 March 2022
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -10866,7 +10866,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#gains-focus`](https://html.spec.whatwg.org/#gains-focus)
      * [`https://html.spec.whatwg.org/#visibility-state`](https://html.spec.whatwg.org/#visibility-state)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
@@ -10877,7 +10876,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#task-queue`](https://html.spec.whatwg.org/#task-queue)
      * [`https://html.spec.whatwg.org/#spin-the-event-loop`](https://html.spec.whatwg.org/#spin-the-event-loop)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
-     * [`https://w3c.github.io/permissions/#dfn-permission-state`](https://w3c.github.io/permissions/#dfn-permission-state)
      * [`https://w3c.github.io/webdriver/#dfn-extension-command`](https://w3c.github.io/webdriver/#dfn-extension-command)
      * [`https://w3c.github.io/webdriver/#dfn-errors`](https://w3c.github.io/webdriver/#dfn-errors)
      * [`https://w3c.github.io/webdriver/#dfn-sessions`](https://w3c.github.io/webdriver/#dfn-sessions)
@@ -12426,19 +12424,21 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### MiniApp Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### MiniApp Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Crawled URL: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
-- Crawled version: 28 January 2022
+- Crawled version: 24 March 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
 - Latest published version: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Shortname: miniapp-manifest
 
 #### Potential issue(s) {.anomalies}
 
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/miniapp-packaging/`](https://www.w3.org/TR/miniapp-packaging/), related reference "MINIAPP-PACKAGING" uses URL [`https://w3c.github.io/miniapp-packaging/`](https://w3c.github.io/miniapp-packaging/)
 - External links to private terms:
      * [`https://www.w3.org/TR/appmanifest/#dfn-text-directions`](https://www.w3.org/TR/appmanifest/#dfn-text-directions)
      * [`https://www.w3.org/TR/appmanifest/#dfn-ltr`](https://www.w3.org/TR/appmanifest/#dfn-ltr)
@@ -12455,6 +12455,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/image-resource/#dfn-src`](https://www.w3.org/TR/image-resource/#dfn-src)
      * [`https://www.w3.org/TR/image-resource/#dfn-label`](https://www.w3.org/TR/image-resource/#dfn-label)
      * [`https://www.w3.org/TR/image-resource/#dfn-sizes`](https://www.w3.org/TR/image-resource/#dfn-sizes)
+     * [`https://www.w3.org/TR/miniapp-packaging/#dfn-package`](https://www.w3.org/TR/miniapp-packaging/#dfn-package)
 - Broken external links:
      * [`https://www.w3.org/TR/appmanifest/#dfn-extension-point`](https://www.w3.org/TR/appmanifest/#dfn-extension-point)
      * [`https://www.w3.org/TR/appmanifest/#dfn-fullscreen`](https://www.w3.org/TR/appmanifest/#dfn-fullscreen)
@@ -12462,6 +12463,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#listing`](https://html.spec.whatwg.org/#listing)
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
      * [`https://html.spec.whatwg.org/#attr-link-sizes`](https://html.spec.whatwg.org/#attr-link-sizes)
+     * [`https://html.spec.whatwg.org/#the-code-element`](https://html.spec.whatwg.org/#the-code-element)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12478,7 +12480,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
 - Crawled URL: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
-- Crawled version: 25 February 2022
+- Crawled version: 24 March 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
 - Latest published version: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
 - Shortname: miniapp-packaging
@@ -12487,6 +12489,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/)
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
 - External links to private terms:
      * [`https://www.w3.org/TR/miniapp-manifest/#dfn-processing-a-miniapp-manifest`](https://www.w3.org/TR/miniapp-manifest/#dfn-processing-a-miniapp-manifest)
      * [`https://mimesniff.spec.whatwg.org/#supplied-mime-type-detection-algorithm`](https://mimesniff.spec.whatwg.org/#supplied-mime-type-detection-algorithm)
@@ -14579,6 +14582,7 @@ Normative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Push API](https://w3c.github.io/push-api/)
@@ -16543,7 +16547,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 22 March 2022
+- Crawled version: 24 March 2022
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -17111,6 +17115,7 @@ Informative references to this spec from:
 
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 
 
 ### Largest Contentful Paint {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -21339,18 +21344,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Region Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Region Capture {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
 - Crawled URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
-- Crawled version: 17 March 2022
+- Crawled version: 24 March 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
 - Shortname: mediacapture-region
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)

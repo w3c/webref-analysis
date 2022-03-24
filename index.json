@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-24T12:41:59.276Z",
+  "date": "2022-03-24T18:36:40.857Z",
   "stats": {
     "crawled": 471,
     "errors": 1,
@@ -25617,7 +25617,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "15 December 2021",
+      "date": "24 March 2022",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -25732,7 +25732,6 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#gains-focus",
             "https://html.spec.whatwg.org/#visibility-state",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#task-source",
@@ -25743,7 +25742,6 @@
             "https://html.spec.whatwg.org/#task-queue",
             "https://html.spec.whatwg.org/#spin-the-event-loop",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
-            "https://w3c.github.io/permissions/#dfn-permission-state",
             "https://w3c.github.io/webdriver/#dfn-extension-command",
             "https://w3c.github.io/webdriver/#dfn-errors",
             "https://w3c.github.io/webdriver/#dfn-sessions",
@@ -26568,6 +26566,11 @@
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webnn/",
+              "title": "Web Neural Network API",
+              "crawled": "https://webmachinelearning.github.io/webnn/"
             }
           ]
         },
@@ -41474,7 +41477,7 @@
     {
       "title": "MiniApp Manifest",
       "shortname": "miniapp-manifest",
-      "date": "28 January 2022",
+      "date": "24 March 2022",
       "url": "https://www.w3.org/TR/miniapp-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -41507,7 +41510,15 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/miniapp-packaging/",
+            "ref": {
+              "name": "MINIAPP-PACKAGING",
+              "url": "https://w3c.github.io/miniapp-packaging/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -41534,7 +41545,8 @@
             "https://w3c.github.io/miniapp-packaging/#dfn-package",
             "https://www.w3.org/TR/image-resource/#dfn-src",
             "https://www.w3.org/TR/image-resource/#dfn-label",
-            "https://www.w3.org/TR/image-resource/#dfn-sizes"
+            "https://www.w3.org/TR/image-resource/#dfn-sizes",
+            "https://www.w3.org/TR/miniapp-packaging/#dfn-package"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -41543,7 +41555,8 @@
             "https://www.w3.org/TR/appmanifest/#dfn-minimal-ui",
             "https://html.spec.whatwg.org/#listing",
             "https://html.spec.whatwg.org/#the-link-element",
-            "https://html.spec.whatwg.org/#attr-link-sizes"
+            "https://html.spec.whatwg.org/#attr-link-sizes",
+            "https://html.spec.whatwg.org/#the-code-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41555,7 +41568,7 @@
     {
       "title": "MiniApp Packaging",
       "shortname": "miniapp-packaging",
-      "date": "25 February 2022",
+      "date": "24 March 2022",
       "url": "https://www.w3.org/TR/miniapp-packaging/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -41588,7 +41601,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/international-specs/"
+          "https://www.w3.org/TR/international-specs/",
+          "https://www.w3.org/TR/design-principles/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -43861,6 +43875,11 @@
               "crawled": "https://w3c.github.io/mediacapture-image/"
             },
             {
+              "url": "https://www.w3.org/TR/miniapp-packaging/",
+              "title": "MiniApp Packaging",
+              "crawled": "https://w3c.github.io/miniapp-packaging/"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -46055,7 +46074,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "17 March 2022",
+      "date": "24 March 2022",
       "url": "https://w3c.github.io/mediacapture-region/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-region/",
@@ -46084,7 +46103,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/mediacapture-transform/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -56315,7 +56336,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "22 March 2022",
+      "date": "24 March 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
