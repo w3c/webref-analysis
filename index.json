@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-25T12:49:08.454Z",
+  "date": "2022-03-25T18:37:43.397Z",
   "stats": {
     "crawled": 471,
-    "errors": 0,
+    "errors": 2,
     "studied": 471
   },
   "results": [
@@ -4868,6 +4868,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 330)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16314,6 +16315,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 14)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41963,7 +41965,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "23 March 2022",
+      "date": "25 March 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -42028,6 +42030,9 @@
             "https://html.spec.whatwg.org/#parse-a-url",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#resulting-url-record",
+            "https://html.spec.whatwg.org/#is-initial-about:blank",
+            "https://html.spec.whatwg.org/#completely-loaded",
+            "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#hh-replace",
             "https://html.spec.whatwg.org/#hh-default",
             "https://html.spec.whatwg.org/#active-document",
@@ -42035,7 +42040,6 @@
             "https://html.spec.whatwg.org/#history-handling-behavior",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#unload-counter",
-            "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#navigation-hh",
             "https://html.spec.whatwg.org/#source-browsing-context",
             "https://html.spec.whatwg.org/#dom-location-assign",
@@ -42051,6 +42055,8 @@
             "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#the-form-element",
             "https://html.spec.whatwg.org/#concept-form-submit",
+            "https://html.spec.whatwg.org/#the-area-element",
+            "https://html.spec.whatwg.org/#attr-hyperlink-download",
             "https://html.spec.whatwg.org/#dom-document-2",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
             "https://html.spec.whatwg.org/#structureddeserialize",
@@ -42076,7 +42082,6 @@
             "https://html.spec.whatwg.org/#plan-to-navigate",
             "https://html.spec.whatwg.org/#navigation-navigationtype",
             "https://html.spec.whatwg.org/#submit-body",
-            "https://html.spec.whatwg.org/#the-area-element",
             "https://html.spec.whatwg.org/#traverse-the-history-by-a-delta",
             "https://html.spec.whatwg.org/#following-hyperlinks-2",
             "https://html.spec.whatwg.org/#providing-users-with-a-means-to-follow-hyperlinks-created-using-the-link-element",
@@ -42087,6 +42092,9 @@
             "https://html.spec.whatwg.org/#implicit-submission",
             "https://html.spec.whatwg.org/#shared-history-push/replace-state-steps",
             "https://html.spec.whatwg.org/#hh-entry-update",
+            "https://html.spec.whatwg.org/#downloading-hyperlinks",
+            "https://html.spec.whatwg.org/#allowed-to-download",
+            "https://html.spec.whatwg.org/#cannot-navigate",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#update-the-session-history-with-the-new-page",
             "https://html.spec.whatwg.org/#traverse-the-history",
@@ -47571,13 +47579,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://wicg.github.io/user-preference-media-features-headers/",
-              "title": "User Preference Media Features Client Hints Headers",
-              "crawled": "https://wicg.github.io/user-preference-media-features-headers/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "xrefs": {
@@ -53403,7 +53405,7 @@
     {
       "title": "User Preference Media Features Client Hints Headers",
       "shortname": "user-preference-media-features-headers",
-      "date": "20 July 2021",
+      "date": "25 March 2022",
       "url": "https://wicg.github.io/user-preference-media-features-headers/",
       "nightly": {
         "url": "https://wicg.github.io/user-preference-media-features-headers/",
@@ -64483,7 +64485,7 @@
     {
       "title": "WebXR Device API",
       "shortname": "webxr",
-      "date": "14 March 2022",
+      "date": "25 March 2022",
       "url": "https://www.w3.org/TR/webxr/",
       "release": {
         "url": "https://www.w3.org/TR/webxr/",
