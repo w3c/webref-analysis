@@ -1,4 +1,4 @@
-% Diff between report from "March 27, 2022" and reference report from "March 26, 2022"
+% Diff between report from "March 27, 2022" and reference report from "March 27, 2022"
 % Strudy
 % March 27, 2022
 
