@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-28T12:50:31.593Z",
+  "date": "2022-03-28T18:44:26.981Z",
   "stats": {
-    "crawled": 471,
-    "errors": 12,
-    "studied": 471
+    "crawled": 472,
+    "errors": 0,
+    "studied": 472
   },
   "results": [
     {
@@ -1488,9 +1488,13 @@
     },
     {
       "title": "Autoplay Policy Detection",
-      "shortname": "autoplay",
+      "shortname": "autoplay-detection",
       "date": "2 February 2022",
-      "url": "https://w3c.github.io/autoplay/",
+      "url": "https://www.w3.org/TR/autoplay-detection/",
+      "release": {
+        "url": "https://www.w3.org/TR/autoplay-detection/",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/autoplay/",
         "repository": "https://github.com/w3c/autoplay",
@@ -5084,7 +5088,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 248)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5405,7 +5408,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-backgrounds/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-backgrounds/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 249)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6063,7 +6065,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-align/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-align/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 246)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6275,7 +6276,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 250)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6402,7 +6402,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 251)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7123,7 +7122,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 254)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7254,7 +7252,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 255)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7373,7 +7370,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 256)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7819,7 +7815,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 257)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8026,7 +8021,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-color/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-color/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 258)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10544,7 +10538,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "7 March 2022",
+      "date": "23 March 2022",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -11059,7 +11053,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-break/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 252)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11292,7 +11285,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 253)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22967,6 +22959,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/geometry-1/",
               "title": "Geometry Interfaces Module Level 1",
               "crawled": "https://drafts.fxtf.org/geometry/"
@@ -23529,6 +23526,11 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -24816,6 +24818,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/html-media-capture/",
               "title": "HTML Media Capture",
               "crawled": "https://w3c.github.io/html-media-capture/"
@@ -24995,7 +25002,128 @@
         "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
-        "redefinedIdlNames": [],
+        "redefinedIdlNames": [
+          {
+            "name": "FileSystemHandleKind",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemHandle",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemCreateWritableOptions",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemFileHandle",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemGetFileOptions",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemGetDirectoryOptions",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemRemoveOptions",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemDirectoryHandle",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "WriteCommandType",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "WriteParams",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemWriteChunkType",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemWritableFileStream",
+            "refs": [
+              {
+                "url": "https://fs.spec.whatwg.org/",
+                "title": "File System Standard",
+                "crawled": "https://fs.spec.whatwg.org/"
+              }
+            ]
+          }
+        ],
         "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
@@ -25061,6 +25189,194 @@
             "https://html.spec.whatwg.org/#the-drag-data-item-kind",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#event-messageerror"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "File System Standard",
+      "shortname": "fs",
+      "date": "21 March 2022",
+      "url": "https://fs.spec.whatwg.org/",
+      "nightly": {
+        "url": "https://fs.spec.whatwg.org/",
+        "repository": "https://github.com/whatwg/fs",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://fs.spec.whatwg.org/",
+      "organization": "WHATWG",
+      "groups": [
+        {
+          "name": "Storage Workstream",
+          "url": "https://fs.spec.whatwg.org/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [
+          {
+            "name": "FileSystemHandleKind",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemHandle",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemCreateWritableOptions",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemFileHandle",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemGetFileOptions",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemGetDirectoryOptions",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemRemoveOptions",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemDirectoryHandle",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "WriteCommandType",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "WriteParams",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemWriteChunkType",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          },
+          {
+            "name": "FileSystemWritableFileStream",
+            "refs": [
+              {
+                "url": "https://wicg.github.io/file-system-access/",
+                "title": "File System Access",
+                "crawled": "https://wicg.github.io/file-system-access/"
+              }
+            ]
+          }
+        ],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://w3c.github.io/FileAPI/#UnixEpoch",
+            "https://w3c.github.io/FileAPI/#snapshot-state",
+            "https://w3c.github.io/FileAPI/#readOperation",
+            "https://storage.spec.whatwg.org/#storage-endpoint-identifier",
+            "https://storage.spec.whatwg.org/#storage-endpoint-types",
+            "https://storage.spec.whatwg.org/#storage-endpoint-quota"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#serializable",
+            "https://html.spec.whatwg.org/#serializable-objects",
+            "https://html.spec.whatwg.org/#serialization-steps",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-settings-object-origin",
+            "https://html.spec.whatwg.org/#deserialization-steps",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#concept-relevant-realm",
+            "https://html.spec.whatwg.org/#current-settings-object"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -33614,7 +33930,7 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
-              "url": "https://w3c.github.io/autoplay/",
+              "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
             },
@@ -34037,6 +34353,11 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -36959,7 +37280,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "16 March 2022",
+      "date": "25 March 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -37431,6 +37752,11 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
             },
             {
               "url": "https://fullscreen.spec.whatwg.org/",
@@ -43845,6 +44171,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
@@ -44639,7 +44970,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "22 March 2022",
+      "date": "28 March 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -48350,7 +48681,7 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
-              "url": "https://w3c.github.io/autoplay/",
+              "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
             },
@@ -50597,6 +50928,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -50729,6 +51065,11 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -54648,7 +54989,7 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
-              "url": "https://w3c.github.io/autoplay/",
+              "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
             },
@@ -55245,7 +55586,7 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
-              "url": "https://w3c.github.io/autoplay/",
+              "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
             },
@@ -55498,6 +55839,11 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://fs.spec.whatwg.org/",
+              "title": "File System Standard",
+              "crawled": "https://fs.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -56799,7 +57145,7 @@
           "normative": [],
           "informative": [
             {
-              "url": "https://w3c.github.io/autoplay/",
+              "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
             }
@@ -63116,7 +63462,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 March 2022",
+      "date": "28 March 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63238,7 +63584,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 March 2022",
+      "date": "28 March 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
