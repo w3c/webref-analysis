@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-29T12:43:50.686Z",
+  "date": "2022-03-29T18:40:50.518Z",
   "stats": {
     "crawled": 472,
     "errors": 1,
@@ -4824,7 +4824,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 331)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24932,7 +24931,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "23 March 2022",
+      "date": "29 March 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -27550,7 +27549,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "28 March 2022",
+      "date": "29 March 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -44323,6 +44322,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/preload/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/preload/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 401)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -51206,7 +51206,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "16 March 2022",
+      "date": "29 March 2022",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
@@ -56937,7 +56937,7 @@
     {
       "title": "Web NFC",
       "shortname": "web-nfc",
-      "date": "14 March 2022",
+      "date": "29 March 2022",
       "url": "https://w3c.github.io/web-nfc/",
       "nightly": {
         "url": "https://w3c.github.io/web-nfc/",
@@ -56996,15 +56996,12 @@
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#global-object",
-            "https://html.spec.whatwg.org/#update-the-visibility-state",
-            "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
-            "https://html.spec.whatwg.org/#concept-document-window",
-            "https://html.spec.whatwg.org/#dom-document-visibilitystate",
+            "https://html.spec.whatwg.org/#page-visibility-change-steps",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#secure-context"
+            "https://html.spec.whatwg.org/#secure-context",
+            "https://html.spec.whatwg.org/#dom-document-visibilitystate"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -63657,7 +63654,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "28 March 2022",
+      "date": "29 March 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63779,7 +63776,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "28 March 2022",
+      "date": "29 March 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
