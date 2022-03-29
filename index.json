@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-29T06:40:23.529Z",
+  "date": "2022-03-29T12:43:50.686Z",
   "stats": {
     "crawled": 472,
-    "errors": 0,
+    "errors": 1,
     "studied": 472
   },
   "results": [
@@ -4824,6 +4824,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 331)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -44301,7 +44302,7 @@
     {
       "title": "Preload",
       "shortname": "preload",
-      "date": "17 May 2021",
+      "date": "29 March 2022",
       "url": "https://www.w3.org/TR/preload/",
       "release": {
         "url": "https://www.w3.org/TR/preload/",
@@ -44365,6 +44366,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-link-element",
+            "https://html.spec.whatwg.org/#link-type-preload%3EHTML%20spec",
             "https://html.spec.whatwg.org/#insert-an-element-into-a-document",
             "https://html.spec.whatwg.org/#resolve-a-url",
             "https://html.spec.whatwg.org/#url",
