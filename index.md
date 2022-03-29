@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 28, 2022
+% March 29, 2022
 
 # Ecma International {#ecma_international}
 
@@ -691,7 +691,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -720,7 +720,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -737,13 +737,13 @@ No informative reference to this spec from other specs.
 
 ## HTTP State Management Mechanism Working Group {#http_state_management_mechanism_working_group}
 
-### HTTP State Management Mechanism {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 6265 - HTTP State Management Mechanism {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6265](https://www.rfc-editor.org/rfc/rfc6265)
 - Crawled URL: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
 - Shortname: rfc6265
 
@@ -760,6 +760,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
@@ -769,6 +770,10 @@ Informative references to this spec from:
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 
@@ -781,7 +786,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 27 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -804,7 +809,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -824,13 +829,13 @@ No informative reference to this spec from other specs.
 
 ## Hypertext Transfer Protocol Authentication Working Group {#hypertext_transfer_protocol_authentication_working_group}
 
-### HTTP Digest Access Authentication {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 7616 - HTTP Digest Access Authentication {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
 - Crawled URL: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
 - Shortname: rfc7616
 
@@ -842,16 +847,18 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
 
 
-### The 'Basic' HTTP Authentication Scheme {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 7617 - The 'Basic' HTTP Authentication Scheme {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
 - Crawled URL: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
 - Shortname: rfc7617
 
@@ -863,20 +870,22 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
 
 
 ## Hypertext Transfer Protocol Bis APP Working Group {#hypertext_transfer_protocol_bis_app_working_group}
 
-### Hypertext Transfer Protocol (HTTP/1.1): Authentication {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP) {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
-- Crawled URL: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
-- Crawled version: 13 March 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
-- Shortname: rfc7235
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
+- Crawled URL: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
+- Crawled version: 28 March 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
+- Shortname: rfc6266
 
 #### Potential issue(s) {.anomalies}
 
@@ -884,79 +893,20 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [Presentation API](https://w3c.github.io/presentation-api/)
-- [WebDriver](https://w3c.github.io/webdriver/)
-
-No informative reference to this spec from other specs.
-
-
-### Hypertext Transfer Protocol (HTTP/1.1): Caching {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
-- Crawled URL: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
-- Crawled version: 13 March 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
-- Shortname: rfc7234
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
-- [Network Error Logging](https://w3c.github.io/network-error-logging/)
-- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
-- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
-- [WebDriver](https://w3c.github.io/webdriver/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
-- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
 
 
-### Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
-- Crawled URL: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
-- Crawled version: 13 March 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
-- Shortname: rfc7232
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [Network Error Logging](https://w3c.github.io/network-error-logging/)
-- [WebDriver](https://w3c.github.io/webdriver/)
-
-No informative reference to this spec from other specs.
-
-
-### Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7230](https://www.rfc-editor.org/rfc/rfc7230)
 - Crawled URL: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
 - Shortname: rfc7230
 
@@ -977,6 +927,16 @@ Normative references to this spec from:
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://httpwg.org/specs/rfc7235.html)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
@@ -987,38 +947,13 @@ Informative references to this spec from:
 - [Compression Streams](https://wicg.github.io/compression/)
 
 
-### Hypertext Transfer Protocol (HTTP/1.1): Range Requests {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
-- Crawled URL: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
-- Crawled version: 13 March 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
-- Shortname: rfc7233
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
-
-Informative references to this spec from:
-
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
-
-
-### Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7231](https://www.rfc-editor.org/rfc/rfc7231)
 - Crawled URL: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
 - Shortname: rfc7231
 
@@ -1043,6 +978,15 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API 1](https://w3c.github.io/reporting/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://httpwg.org/specs/rfc7235.html)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
@@ -1054,43 +998,153 @@ Informative references to this spec from:
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
-### Hypertext Transfer Protocol Version 2 (HTTP/2) {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc7540](https://www.rfc-editor.org/rfc/rfc7540)
-- Crawled URL: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
-- Crawled version: 13 March 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
-- Shortname: rfc7540
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
+- Crawled URL: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
+- Crawled version: 28 March 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
+- Shortname: rfc7232
 
 #### Potential issue(s) {.anomalies}
 
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2014/REC-html5-20141028/`](https://www.w3.org/TR/2014/REC-html5-20141028/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
-- [Preload](https://w3c.github.io/preload/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 8246 - HTTP Immutable Responses](https://httpwg.org/specs/rfc8246.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+No informative reference to this spec from other specs.
+
+
+### RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
+- Crawled URL: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
+- Crawled version: 28 March 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
+- Shortname: rfc7233
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 
 Informative references to this spec from:
 
-- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
 
 
-### The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
+- Crawled URL: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
+- Crawled version: 28 March 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
+- Shortname: rfc7234
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://httpwg.org/specs/rfc7235.html)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7725 - An HTTP Status Code to Report Legal Obstacles](https://httpwg.org/specs/rfc7725.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 8246 - HTTP Immutable Responses](https://httpwg.org/specs/rfc8246.html)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+
+
+### RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
+- Crawled URL: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
+- Crawled version: 28 March 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
+- Shortname: rfc7235
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+No informative reference to this spec from other specs.
+
+
+### RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7538](https://www.rfc-editor.org/rfc/rfc7538)
 - Crawled URL: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
 - Shortname: rfc7538
 
@@ -1110,36 +1164,43 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP) {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2) {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
-- Crawled URL: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
-- Crawled version: 13 March 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
-- Shortname: rfc6266
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7540](https://www.rfc-editor.org/rfc/rfc7540)
+- Crawled URL: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
+- Crawled version: 28 March 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
+- Shortname: rfc7540
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2014/REC-html5-20141028/`](https://www.w3.org/TR/2014/REC-html5-20141028/)
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
 
-No informative reference to this spec from other specs.
+- [Preload](https://w3c.github.io/preload/)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+
+Informative references to this spec from:
+
+- [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
 ## Hypertext Transfer Protocol Bis Working Group {#hypertext_transfer_protocol_bis_working_group}
 
-### An HTTP Status Code to Report Legal Obstacles {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 7725 - An HTTP Status Code to Report Legal Obstacles {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
 - Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
 - Shortname: rfc7725
 
@@ -1154,13 +1215,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTTP Alternative Services {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 7838 - HTTP Alternative Services {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
 - Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
 - Shortname: rfc7838
 
@@ -1175,13 +1236,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTTP Immutable Responses {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 8246 - HTTP Immutable Responses {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
 - Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
 - Shortname: rfc8246
 
@@ -1196,13 +1257,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Using Early Data in HTTP {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### RFC 8470 - Using Early Data in HTTP {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
 - Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
-- Crawled version: 13 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
 - Shortname: rfc8470
 
@@ -1227,7 +1288,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1250,7 +1311,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1280,7 +1341,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1304,6 +1365,8 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 
 Informative references to this spec from:
@@ -1321,7 +1384,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1356,7 +1419,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1387,7 +1450,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 28 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -1406,6 +1469,7 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Reporting API 1](https://w3c.github.io/reporting/)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 
 
@@ -11515,7 +11579,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
 - Crawled URL: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
-- Crawled version: 25 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
 - Latest published version: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
 - Shortname: webxr
@@ -19292,7 +19356,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Crawled URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
-- Crawled version: 18 January 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Shortname: local-font-access
 
@@ -19303,9 +19367,10 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
      * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - Broken external links:
-     * [`https://html.spec.whatwg.org/#navigatorlanguage`](https://html.spec.whatwg.org/#navigatorlanguage)
-     * [`https://html.spec.whatwg.org/#dom-navigator-language`](https://html.spec.whatwg.org/#dom-navigator-language)
+     * [`https://html.spec.whatwg.org/#a-plausible-language`](https://html.spec.whatwg.org/#a-plausible-language)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://html.spec.whatwg.org/#task-source`](https://html.spec.whatwg.org/#task-source)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
@@ -19316,6 +19381,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+     * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20140,7 +20206,6 @@ Normative references to this spec from:
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [WebUSB API](https://wicg.github.io/webusb/)
-- [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 Informative references to this spec from:
 
@@ -22424,7 +22489,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 23 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -23259,7 +23324,6 @@ Informative references to this spec from:
 - [File API](https://w3c.github.io/FileAPI/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
-- [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
@@ -23268,8 +23332,9 @@ Informative references to this spec from:
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
-- [The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)

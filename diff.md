@@ -1,192 +1,133 @@
-% Diff between report from "March 28, 2022" and reference report from "March 28, 2022"
+% Diff between report from "March 29, 2022" and reference report from "March 28, 2022"
 % Strudy
-% March 28, 2022
+% March 29, 2022
 
-## Autoplay Policy Detection
+## RFC 6265 - HTTP State Management Mechanism
 
-- Initial URL: [https://www.w3.org/TR/autoplay-detection/](https://www.w3.org/TR/autoplay-detection/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc6265](https://www.rfc-editor.org/rfc/rfc6265)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
-- This specification was not in the reference crawl report.
+- Editor's Draft: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
+- Spec title: *INS* RFC 6265 - HTTP State Management Mechanism / *DEL* HTTP State Management Mechanism
 
 
-## Autoplay Policy Detection
+## RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)
 
-- Initial URL: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
-- Crawled URL: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
-- This specification is not in the new crawl report.
-
-
-## CSS Animations Level 1
-
-- Initial URL: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-animations/](https://drafts.csswg.org/css-animations/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 248)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
+- Spec title: *INS* RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP) / *DEL* Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)
 
 
-## CSS Backgrounds and Borders Module Level 3
+## RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing
 
-- Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7230](https://www.rfc-editor.org/rfc/rfc7230)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-backgrounds/](https://drafts.csswg.org/css-backgrounds/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-backgrounds/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-backgrounds/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 249)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
+- Spec title: *INS* RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing / *DEL* Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing
 
 
-## CSS Box Alignment Module Level 3
+## RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content
 
-- Initial URL: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7231](https://www.rfc-editor.org/rfc/rfc7231)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-align/](https://drafts.csswg.org/css-align/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-align/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-align/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 246)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
+- Spec title: *INS* RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content / *DEL* Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content
 
 
-## CSS Box Model Module Level 3
+## RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests
 
-- Initial URL: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 250)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
+- Spec title: *INS* RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests / *DEL* Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests
 
 
-## CSS Box Model Module Level 4
+## RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests
 
-- Initial URL: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 251)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
+- Spec title: *INS* RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests / *DEL* Hypertext Transfer Protocol (HTTP/1.1): Range Requests
 
 
-## CSS Cascading and Inheritance Level 3
+## RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching
 
-- Initial URL: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 254)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
+- Spec title: *INS* RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching / *DEL* Hypertext Transfer Protocol (HTTP/1.1): Caching
 
 
-## CSS Cascading and Inheritance Level 4
+## RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication
 
-- Initial URL: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-cascade-4/](https://drafts.csswg.org/css-cascade-4/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 255)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
+- Spec title: *INS* RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication / *DEL* Hypertext Transfer Protocol (HTTP/1.1): Authentication
 
 
-## CSS Cascading and Inheritance Level 5
+## RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)
 
-- Initial URL: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7538](https://www.rfc-editor.org/rfc/rfc7538)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 256)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
+- Spec title: *INS* RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect) / *DEL* The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)
 
 
-## CSS Cascading and Inheritance Level 6
+## RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)
 
-- Initial URL: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7540](https://www.rfc-editor.org/rfc/rfc7540)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 257)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
+- Spec title: *INS* RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2) / *DEL* Hypertext Transfer Protocol Version 2 (HTTP/2)
 
 
-## CSS Color Module Level 4
+## RFC 7616 - HTTP Digest Access Authentication
 
-- Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-color/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-color/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 258)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
+- Spec title: *INS* RFC 7616 - HTTP Digest Access Authentication / *DEL* HTTP Digest Access Authentication
 
 
-## CSS Fragmentation Module Level 3
+## RFC 7617 - The 'Basic' HTTP Authentication Scheme
 
-- Initial URL: [https://www.w3.org/TR/css-break-3/](https://www.w3.org/TR/css-break-3/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-break/](https://drafts.csswg.org/css-break/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-break/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 252)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
+- Spec title: *INS* RFC 7617 - The 'Basic' HTTP Authentication Scheme / *DEL* The 'Basic' HTTP Authentication Scheme
 
 
-## CSS Fragmentation Module Level 4
+## RFC 7725 - An HTTP Status Code to Report Legal Obstacles
 
-- Initial URL: [https://www.w3.org/TR/css-break-4/](https://www.w3.org/TR/css-break-4/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-break-4/](https://drafts.csswg.org/css-break-4/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 253)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)
+- Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
+- Spec title: *INS* RFC 7725 - An HTTP Status Code to Report Legal Obstacles / *DEL* An HTTP Status Code to Report Legal Obstacles
 
 
-## File System Access
+## RFC 7838 - HTTP Alternative Services
 
-- Initial URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
-- WebIDL names also defined elsewhere: *INS* FileSystemHandleKind, FileSystemHandle, FileSystemCreateWritableOptions, FileSystemFileHandle, FileSystemGetFileOptions, FileSystemGetDirectoryOptions, FileSystemRemoveOptions, FileSystemDirectoryHandle, WriteCommandType, WriteParams, FileSystemWriteChunkType, FileSystemWritableFileStream
+- Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
+- Spec title: *INS* RFC 7838 - HTTP Alternative Services / *DEL* HTTP Alternative Services
 
 
-## File System Standard
+## RFC 8246 - HTTP Immutable Responses
 
-- Initial URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
-- This specification was not in the reference crawl report.
+- Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
+- Spec title: *INS* RFC 8246 - HTTP Immutable Responses / *DEL* HTTP Immutable Responses
+
+
+## RFC 8470 - Using Early Data in HTTP
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
+- Crawled URL: [undefined](undefined)
+- Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
+- Spec title: *INS* RFC 8470 - Using Early Data in HTTP / *DEL* Using Early Data in HTTP
 
 
 
