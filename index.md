@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 29, 2022
+% March 30, 2022
 
 # Ecma International {#ecma_international}
 
@@ -645,7 +645,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 25 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -691,7 +691,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -720,7 +720,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -809,7 +809,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1288,7 +1288,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1311,7 +1311,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1341,7 +1341,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1384,7 +1384,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1419,7 +1419,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1450,7 +1450,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -17513,7 +17513,7 @@ Informative references to this spec from:
 - [Server Timing](https://w3c.github.io/server-timing/)
 
 
-### Preload {data-spec=true data-error=true}
+### Preload {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -17526,15 +17526,28 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/preload/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/preload/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 401)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/resource-hints/#dfn-prefetch`](https://www.w3.org/TR/resource-hints/#dfn-prefetch)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
+     * [`https://html.spec.whatwg.org/#link-type-preload%3EHTML%20spec`](https://html.spec.whatwg.org/#link-type-preload%3EHTML%20spec)
+     * [`https://html.spec.whatwg.org/#insert-an-element-into-a-document`](https://html.spec.whatwg.org/#insert-an-element-into-a-document)
+     * [`https://html.spec.whatwg.org/#resolve-a-url`](https://html.spec.whatwg.org/#resolve-a-url)
+     * [`https://html.spec.whatwg.org/#url`](https://html.spec.whatwg.org/#url)
+     * [`https://html.spec.whatwg.org/#attr-link-crossorigin`](https://html.spec.whatwg.org/#attr-link-crossorigin)
+     * [`https://html.spec.whatwg.org/#origin-2`](https://html.spec.whatwg.org/#origin-2)
+     * [`https://html.spec.whatwg.org/#delay-the-load-event`](https://html.spec.whatwg.org/#delay-the-load-event)
+     * [`https://html.spec.whatwg.org/#external-resource-link`](https://html.spec.whatwg.org/#external-resource-link)
+     * [`https://html.spec.whatwg.org/#valid-media-query-list`](https://html.spec.whatwg.org/#valid-media-query-list)
+     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
+     * [`https://html.spec.whatwg.org/#fetch-and-process-the-linked-resource`](https://html.spec.whatwg.org/#fetch-and-process-the-linked-resource)
+     * [`https://html.spec.whatwg.org/#matches-the-environment`](https://html.spec.whatwg.org/#matches-the-environment)
+     * [`https://html.spec.whatwg.org/#process-the-linked-resource`](https://html.spec.whatwg.org/#process-the-linked-resource)
+     * [`https://html.spec.whatwg.org/#attr-link-as`](https://html.spec.whatwg.org/#attr-link-as)
+     * [`https://html.spec.whatwg.org/#charset`](https://html.spec.whatwg.org/#charset)
+     * [`https://mimesniff.spec.whatwg.org/#parsable-mime-type`](https://mimesniff.spec.whatwg.org/#parsable-mime-type)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19511,7 +19524,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
 - Crawled URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
-- Crawled version: 25 March 2022
+- Crawled version: 29 March 2022
 - Editor's Draft: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
 - Shortname: navigation-api
 
@@ -19534,13 +19547,13 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#current-entry`](https://html.spec.whatwg.org/#current-entry)
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
+     * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
      * [`https://html.spec.whatwg.org/#session-history-entry`](https://html.spec.whatwg.org/#session-history-entry)
      * [`https://html.spec.whatwg.org/#structuredserializeforstorage`](https://html.spec.whatwg.org/#structuredserializeforstorage)
      * [`https://html.spec.whatwg.org/#dom-location-href`](https://html.spec.whatwg.org/#dom-location-href)
      * [`https://html.spec.whatwg.org/#serialized-state`](https://html.spec.whatwg.org/#serialized-state)
      * [`https://html.spec.whatwg.org/#event-unhandledrejection`](https://html.spec.whatwg.org/#event-unhandledrejection)
      * [`https://html.spec.whatwg.org/#serializable-objects`](https://html.spec.whatwg.org/#serializable-objects)
-     * [`https://html.spec.whatwg.org/#navigate-fragid`](https://html.spec.whatwg.org/#navigate-fragid)
      * [`https://html.spec.whatwg.org/#parse-a-url`](https://html.spec.whatwg.org/#parse-a-url)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#resulting-url-record`](https://html.spec.whatwg.org/#resulting-url-record)
@@ -19583,9 +19596,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-errorevent-lineno`](https://html.spec.whatwg.org/#dom-errorevent-lineno)
      * [`https://html.spec.whatwg.org/#dom-errorevent-colno`](https://html.spec.whatwg.org/#dom-errorevent-colno)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
-     * [`https://html.spec.whatwg.org/#url-and-history-update-steps`](https://html.spec.whatwg.org/#url-and-history-update-steps)
-     * [`https://html.spec.whatwg.org/#uhus-serializeddata`](https://html.spec.whatwg.org/#uhus-serializeddata)
-     * [`https://html.spec.whatwg.org/#uhus-ispush`](https://html.spec.whatwg.org/#uhus-ispush)
      * [`https://html.spec.whatwg.org/#dom-window-stop`](https://html.spec.whatwg.org/#dom-window-stop)
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#active-window`](https://html.spec.whatwg.org/#active-window)
@@ -19604,7 +19614,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#concept-submit-button`](https://html.spec.whatwg.org/#concept-submit-button)
      * [`https://html.spec.whatwg.org/#implicit-submission`](https://html.spec.whatwg.org/#implicit-submission)
-     * [`https://html.spec.whatwg.org/#shared-history-push/replace-state-steps`](https://html.spec.whatwg.org/#shared-history-push/replace-state-steps)
      * [`https://html.spec.whatwg.org/#hh-entry-update`](https://html.spec.whatwg.org/#hh-entry-update)
      * [`https://html.spec.whatwg.org/#downloading-hyperlinks`](https://html.spec.whatwg.org/#downloading-hyperlinks)
      * [`https://html.spec.whatwg.org/#allowed-to-download`](https://html.spec.whatwg.org/#allowed-to-download)
@@ -19614,6 +19623,9 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#traverse-the-history`](https://html.spec.whatwg.org/#traverse-the-history)
      * [`https://html.spec.whatwg.org/#requires-storing-the-policy-container-in-history`](https://html.spec.whatwg.org/#requires-storing-the-policy-container-in-history)
      * [`https://html.spec.whatwg.org/#determining-navigation-params-policy-container`](https://html.spec.whatwg.org/#determining-navigation-params-policy-container)
+     * [`https://html.spec.whatwg.org/#event-popstate`](https://html.spec.whatwg.org/#event-popstate)
+     * [`https://html.spec.whatwg.org/#event-hashchange`](https://html.spec.whatwg.org/#event-hashchange)
+     * [`https://html.spec.whatwg.org/#event-pageshow`](https://html.spec.whatwg.org/#event-pageshow)
      * [`https://html.spec.whatwg.org/#creating-a-new-browsing-context`](https://html.spec.whatwg.org/#creating-a-new-browsing-context)
      * [`https://html.spec.whatwg.org/#stop-document-loading`](https://html.spec.whatwg.org/#stop-document-loading)
      * [`https://html.spec.whatwg.org/#a-browsing-context-is-discarded`](https://html.spec.whatwg.org/#a-browsing-context-is-discarded)
