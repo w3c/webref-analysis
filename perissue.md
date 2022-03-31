@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 30, 2022
+% March 31, 2022
 
 472 specifications were crawled in this report.
 
@@ -5331,7 +5331,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/):
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
@@ -9173,7 +9172,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4877 problematic external links found in 301 specifications
+=> 4876 problematic external links found in 301 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

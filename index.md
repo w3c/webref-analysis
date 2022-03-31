@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 30, 2022
+% March 31, 2022
 
 # Ecma International {#ecma_international}
 
@@ -582,7 +582,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
 - Crawled URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
-- Crawled version: 22 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
 - Shortname: tc39-resizablearraybuffer
 
@@ -691,7 +691,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -720,7 +720,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -786,7 +786,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -809,7 +809,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1288,7 +1288,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1311,7 +1311,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1341,7 +1341,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1384,7 +1384,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1419,7 +1419,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1450,7 +1450,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 30 March 2022
+- Crawled version: 31 March 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -5250,7 +5250,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
 - Shortname: css-cascade-3
@@ -5299,7 +5299,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-4/](https://drafts.csswg.org/css-cascade-4/)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-4/](https://drafts.csswg.org/css-cascade-4/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
 - Shortname: css-cascade-4
@@ -5356,7 +5356,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Shortname: css-cascade-5
@@ -5474,7 +5474,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Shortname: css-cascade-6
@@ -5850,7 +5850,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
-- Crawled version: 29 March 2022
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
 - Latest published version: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Shortname: css-contain-3
@@ -7276,7 +7276,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
 - Crawled URL: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
-- Crawled version: 4 August 2021
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
 - Latest published version: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
 - Shortname: css-logical-1
@@ -7610,8 +7610,10 @@ Normative references to this spec from:
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
@@ -7658,7 +7660,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
@@ -18711,7 +18712,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
 - Crawled URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
-- Crawled version: 27 October 2021
+- Crawled version: 30 March 2022
 - Editor's Draft: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
 - Shortname: eyedropper-api
 
@@ -18722,7 +18723,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://dom.spec.whatwg.org/#abortsignal-aborted-flag`](https://dom.spec.whatwg.org/#abortsignal-aborted-flag)
 
 #### Known dependencies on this specification {.dependencies}
 
