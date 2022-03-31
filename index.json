@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-31T06:39:45.461Z",
+  "date": "2022-03-31T07:27:32.720Z",
   "stats": {
     "crawled": 472,
     "errors": 0,
@@ -1925,7 +1925,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "mediacapture-handle-identity",
-      "date": "23 March 2022",
+      "date": "31 March 2022",
       "url": "https://w3c.github.io/mediacapture-handle/identity/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/identity/",
@@ -52308,7 +52308,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "23 March 2022",
+      "date": "31 March 2022",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",
