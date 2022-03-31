@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-03-31T00:49:15.604Z",
+  "date": "2022-03-31T06:39:45.461Z",
   "stats": {
     "crawled": 472,
     "errors": 0,
@@ -2683,7 +2683,7 @@
     {
       "title": "Compression Streams",
       "shortname": "compression",
-      "date": "18 January 2022",
+      "date": "28 March 2022",
       "url": "https://wicg.github.io/compression/",
       "nightly": {
         "url": "https://wicg.github.io/compression/",
