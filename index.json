@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-03T12:44:17.750Z",
+  "date": "2022-04-03T18:41:05.574Z",
   "stats": {
     "crawled": 472,
-    "errors": 0,
+    "errors": 1,
     "studied": 472
   },
   "results": [
@@ -598,6 +598,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/html-aria/",
+              "title": "ARIA in HTML",
+              "crawled": "https://w3c.github.io/html-aria/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -862,7 +867,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "27 March 2022",
+      "date": "03 April 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -917,6 +922,8 @@
           "notDfn": [
             "https://www.w3.org/TR/wai-aria-1.2/#generic",
             "https://www.w3.org/TR/wai-aria-1.2/#aria-hidden",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-label",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby",
             "https://www.w3.org/TR/wai-aria-1.2/#aria-checked",
             "https://www.w3.org/TR/wai-aria-1.2/#aria-disabled",
             "https://www.w3.org/TR/wai-aria-1.2/#aria-placeholder",
@@ -26904,7 +26911,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "07 March 2022",
+      "date": "03 April 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -27013,6 +27020,7 @@
             "https://w3c.github.io/core-aam/#role-map-figure",
             "https://w3c.github.io/core-aam/#role-map-contentinfo",
             "https://w3c.github.io/core-aam/#role-map-form",
+            "https://w3c.github.io/core-aam/#role-map-form-nameless",
             "https://w3c.github.io/core-aam/#role-map-heading",
             "https://w3c.github.io/core-aam/#ariaLevel",
             "https://w3c.github.io/core-aam/#role-map-banner",
@@ -27084,6 +27092,8 @@
             "https://html.spec.whatwg.org/#the-area-element",
             "https://html.spec.whatwg.org/#the-article-element",
             "https://html.spec.whatwg.org/#the-aside-element",
+            "https://html.spec.whatwg.org/#sectioning-content",
+            "https://html.spec.whatwg.org/#sectioning-root",
             "https://html.spec.whatwg.org/#audio",
             "https://html.spec.whatwg.org/#attr-media-controls",
             "https://html.spec.whatwg.org/#autonomous-custom-element",
@@ -27118,8 +27128,6 @@
             "https://html.spec.whatwg.org/#the-figure-element",
             "https://html.spec.whatwg.org/#the-footer-element",
             "https://html.spec.whatwg.org/#the-main-element",
-            "https://html.spec.whatwg.org/#sectioning-content",
-            "https://html.spec.whatwg.org/#sectioning-root",
             "https://html.spec.whatwg.org/#the-form-element",
             "https://html.spec.whatwg.org/#custom-elements-face-example",
             "https://html.spec.whatwg.org/#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements",
@@ -54672,6 +54680,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 442)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
