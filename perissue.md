@@ -1428,8 +1428,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://w3c.github.io/mathml-aam/`](https://w3c.github.io/mathml-aam/) but does not list it in its references
     * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/) but does not list it in its references
     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/) but does not list it in its references
-    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but does not list it in its references
-    * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/) but does not list it in its references
     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) links to:
     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but does not list it in its references
@@ -1671,7 +1669,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 744 missing references for links found in 198 specifications
+=> 742 missing references for links found in 198 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1874,6 +1872,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
     * [`https://www.w3.org/TR/html/`](https://www.w3.org/TR/html/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) links to [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/) but related reference "MANIFEST" uses URL [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/) links to [`https://w3c.github.io/webrtc-pc/`](https://w3c.github.io/webrtc-pc/) but related reference "WEBRTC" uses URL [`https://www.w3.org/TR/webrtc/`](https://www.w3.org/TR/webrtc/)
@@ -2098,7 +2097,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 345 inconsistent references for links found in 183 specifications
+=> 346 inconsistent references for links found in 183 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -3450,10 +3449,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/graphics-aria/#graphics-object`](https://w3c.github.io/graphics-aria/#graphics-object)
      * [`https://w3c.github.io/graphics-aria/#graphics-symbol`](https://w3c.github.io/graphics-aria/#graphics-symbol)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable`](https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-label`](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable`](https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-label`](https://www.w3.org/TR/wai-aria-1.2/#aria-label)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/):
      * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
@@ -6129,10 +6128,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://fetch.spec.whatwg.org/#synchronous-flag`](https://fetch.spec.whatwg.org/#synchronous-flag)
      * [`https://w3c.github.io/FileAPI/#DefinitionOfScheme`](https://w3c.github.io/FileAPI/#DefinitionOfScheme)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype`](https://w3c.github.io/navigation-timing/#dom-navigationtype)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate`](https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-reload`](https://w3c.github.io/navigation-timing/#dom-navigationtype-reload)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward`](https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward)
      * [`https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml`](https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml)
      * [`https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager`](https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager)
      * [`https://drafts.csswg.org/css-syntax/#conform-classes`](https://drafts.csswg.org/css-syntax/#conform-classes)
@@ -9225,7 +9220,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4888 problematic external links found in 300 specifications
+=> 4884 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-04T12:46:59.258Z",
+  "date": "2022-04-04T18:41:34.860Z",
   "stats": {
     "crawled": 472,
     "errors": 1,
@@ -12,7 +12,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "18 March 2022",
+      "date": "28 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -52,7 +52,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "18 March 2022",
+      "date": "28 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -92,7 +92,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "18 March 2022",
+      "date": "28 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -132,7 +132,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "18 March 2022",
+      "date": "28 March 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -601,6 +601,11 @@
               "url": "https://www.w3.org/TR/html-aria/",
               "title": "ARIA in HTML",
               "crawled": "https://w3c.github.io/html-aria/"
+            },
+            {
+              "url": "https://www.w3.org/TR/html-aam-1.0/",
+              "title": "HTML Accessibility API Mappings 1.0",
+              "crawled": "https://w3c.github.io/html-aam/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -26911,7 +26916,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "03 April 2022",
+      "date": "04 April 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -26947,8 +26952,6 @@
           "https://w3c.github.io/mathml-aam/",
           "https://www.w3.org/TR/core-aam-1.1/",
           "https://w3c.github.io/graphics-aam/",
-          "https://w3c.github.io/accname/",
-          "https://www.w3.org/TR/wai-aria-1.1/",
           "https://dom.spec.whatwg.org/"
         ],
         "inconsistentRef": [
@@ -26964,6 +26967,13 @@
             "ref": {
               "name": "HTML",
               "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/accname/",
+            "ref": {
+              "name": "accname-1.2",
+              "url": "https://www.w3.org/TR/accname-1.2/"
             }
           }
         ],
@@ -26990,10 +27000,10 @@
         "xrefs": {
           "notExported": [],
           "notDfn": [
-            "https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable",
-            "https://www.w3.org/TR/wai-aria-1.1/#aria-label",
-            "https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby",
-            "https://www.w3.org/TR/wai-aria-1.1/#aria-describedby"
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-label",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-describedby"
           ],
           "brokenLinks": [
             "https://w3c.github.io/core-aam/#role-map-generic",
@@ -27583,7 +27593,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "31 March 2022",
+      "date": "4 April 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -35743,10 +35753,6 @@
             "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
             "https://fetch.spec.whatwg.org/#synchronous-flag",
             "https://w3c.github.io/FileAPI/#DefinitionOfScheme",
-            "https://w3c.github.io/navigation-timing/#dom-navigationtype",
-            "https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate",
-            "https://w3c.github.io/navigation-timing/#dom-navigationtype-reload",
-            "https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward",
             "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml",
             "https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager",
             "https://drafts.csswg.org/css-syntax/#conform-classes",

@@ -12,7 +12,7 @@
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
-- Crawled version: 18 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
 - Shortname: tc39-intl-annexes
 
@@ -33,7 +33,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
-- Crawled version: 18 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - Shortname: tc39-intl-negotiation
 
@@ -54,7 +54,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
-- Crawled version: 18 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - Shortname: tc39-intl-numberformat
 
@@ -75,7 +75,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
-- Crawled version: 18 March 2022
+- Crawled version: 28 March 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - Shortname: tc39-intl-pluralrules
 
@@ -2878,6 +2878,7 @@ Normative references to this spec from:
 
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 Informative references to this spec from:
@@ -3156,7 +3157,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 03 April 2022
+- Crawled version: 04 April 2022
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -3167,17 +3168,16 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/mathml-aam/`](https://w3c.github.io/mathml-aam/)
      * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/)
      * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/)
-     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/)
-     * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/)
      * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
      * [`https://www.w3.org/TR/html/`](https://www.w3.org/TR/html/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
 - External links that neither target definitions nor headings:
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable`](https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-label`](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby)
-     * [`https://www.w3.org/TR/wai-aria-1.1/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable`](https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-label`](https://www.w3.org/TR/wai-aria-1.2/#aria-label)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby)
 - Broken external links:
      * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
      * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
@@ -22537,7 +22537,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 31 March 2022
+- Crawled version: 4 April 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -23060,10 +23060,6 @@ Informative references to this spec from:
      * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://fetch.spec.whatwg.org/#synchronous-flag`](https://fetch.spec.whatwg.org/#synchronous-flag)
      * [`https://w3c.github.io/FileAPI/#DefinitionOfScheme`](https://w3c.github.io/FileAPI/#DefinitionOfScheme)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype`](https://w3c.github.io/navigation-timing/#dom-navigationtype)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate`](https://w3c.github.io/navigation-timing/#dom-navigationtype-navigate)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-reload`](https://w3c.github.io/navigation-timing/#dom-navigationtype-reload)
-     * [`https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward`](https://w3c.github.io/navigation-timing/#dom-navigationtype-back_forward)
      * [`https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml`](https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml)
      * [`https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager`](https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager)
      * [`https://drafts.csswg.org/css-syntax/#conform-classes`](https://drafts.csswg.org/css-syntax/#conform-classes)
