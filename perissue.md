@@ -2818,6 +2818,7 @@ Links in the body of a specification should be to the same document as that poin
 - [Server Timing](https://w3c.github.io/server-timing/):
      * [`https://www.w3.org/TR/navigation-timing-2/#dfn-current-document`](https://www.w3.org/TR/navigation-timing-2/#dfn-current-document)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/):
+     * [`https://storage.spec.whatwg.org/#storage-key`](https://storage.spec.whatwg.org/#storage-key)
      * [`https://wicg.github.io/BackgroundSync/spec/#fire-a-sync-event`](https://wicg.github.io/BackgroundSync/spec/#fire-a-sync-event)
      * [`https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent`](https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent)
      * [`https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent`](https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent)
@@ -3140,7 +3141,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 830 problematic external links found in 205 specifications
+=> 831 problematic external links found in 205 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -4492,7 +4493,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#2dcontext`](https://html.spec.whatwg.org/#2dcontext)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/):
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/):
      * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#similar-origin-window-agent`](https://html.spec.whatwg.org/#similar-origin-window-agent)
@@ -7977,7 +7978,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
      * [`https://html.spec.whatwg.org/#workertype`](https://html.spec.whatwg.org/#workertype)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#responsible-event-loop`](https://html.spec.whatwg.org/#responsible-event-loop)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
@@ -8025,6 +8025,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#api-url-character-encoding`](https://html.spec.whatwg.org/#api-url-character-encoding)
      * [`https://html.spec.whatwg.org/#concept-settings-object-policy-container`](https://html.spec.whatwg.org/#concept-settings-object-policy-container)
      * [`https://html.spec.whatwg.org/#concept-workerglobalscope-policy-container`](https://html.spec.whatwg.org/#concept-workerglobalscope-policy-container)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-time-origin`](https://html.spec.whatwg.org/#concept-settings-object-time-origin)
+     * [`https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability)
      * [`https://html.spec.whatwg.org/#concept-environment-top-level-creation-url`](https://html.spec.whatwg.org/#concept-environment-top-level-creation-url)
      * [`https://html.spec.whatwg.org/#concept-environment-top-level-origin`](https://html.spec.whatwg.org/#concept-environment-top-level-origin)
      * [`https://html.spec.whatwg.org/#concept-workerglobalscope-url`](https://html.spec.whatwg.org/#concept-workerglobalscope-url)
@@ -8034,15 +8036,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#run-a-classic-script`](https://html.spec.whatwg.org/#run-a-classic-script)
      * [`https://html.spec.whatwg.org/#module-script`](https://html.spec.whatwg.org/#module-script)
      * [`https://html.spec.whatwg.org/#run-a-module-script`](https://html.spec.whatwg.org/#run-a-module-script)
-     * [`https://html.spec.whatwg.org/#list-of-active-timers`](https://html.spec.whatwg.org/#list-of-active-timers)
-     * [`https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability)
      * [`https://html.spec.whatwg.org/#unload-a-document`](https://html.spec.whatwg.org/#unload-a-document)
      * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
      * [`https://html.spec.whatwg.org/#auxiliary-browsing-context`](https://html.spec.whatwg.org/#auxiliary-browsing-context)
      * [`https://html.spec.whatwg.org/#module-map`](https://html.spec.whatwg.org/#module-map)
      * [`https://html.spec.whatwg.org/#resolve-a-module-specifier`](https://html.spec.whatwg.org/#resolve-a-module-specifier)
-     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
-     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://w3c.github.io/push-api/#h-the-push-event`](https://w3c.github.io/push-api/#h-the-push-event)
      * [`https://w3c.github.io/push-api/#dfn-fire-the-push-event`](https://w3c.github.io/push-api/#dfn-fire-the-push-event)
      * [`https://wicg.github.io/BackgroundSync/spec/#sync`](https://wicg.github.io/BackgroundSync/spec/#sync)
@@ -9221,7 +9219,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4885 problematic external links found in 300 specifications
+=> 4882 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

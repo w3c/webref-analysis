@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-05T12:44:31.387Z",
+  "date": "2022-04-05T18:39:14.425Z",
   "stats": {
     "crawled": 472,
     "errors": 1,
@@ -2742,9 +2742,9 @@
       }
     },
     {
-      "title": "Compute Pressure API Level 1",
+      "title": "Compute and System Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "24 March 2022",
+      "date": "05 April 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -22504,7 +22504,7 @@
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure API Level 1",
+              "title": "Compute and System Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
@@ -23188,7 +23188,7 @@
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure API Level 1",
+              "title": "Compute and System Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
@@ -24106,7 +24106,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "17 March 2022",
+      "date": "5 April 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -26692,7 +26692,7 @@
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure API Level 1",
+              "title": "Compute and System Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
@@ -33997,7 +33997,7 @@
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure API Level 1",
+              "title": "Compute and System Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
@@ -36629,7 +36629,7 @@
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure API Level 1",
+              "title": "Compute and System Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
@@ -43283,7 +43283,7 @@
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure API Level 1",
+              "title": "Compute and System Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
@@ -44091,7 +44091,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "28 March 2022",
+      "date": "05 April 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -50886,7 +50886,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers-1",
-      "date": "2 August 2021",
+      "date": "5 April 2022",
       "url": "https://www.w3.org/TR/service-workers-1/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers-1/",
@@ -51127,6 +51127,7 @@
         },
         "xrefs": {
           "notExported": [
+            "https://storage.spec.whatwg.org/#storage-key",
             "https://wicg.github.io/BackgroundSync/spec/#fire-a-sync-event",
             "https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent",
             "https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent"
@@ -51185,7 +51186,6 @@
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#workertype",
-            "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#responsible-event-loop",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
@@ -51233,6 +51233,8 @@
             "https://html.spec.whatwg.org/#api-url-character-encoding",
             "https://html.spec.whatwg.org/#concept-settings-object-policy-container",
             "https://html.spec.whatwg.org/#concept-workerglobalscope-policy-container",
+            "https://html.spec.whatwg.org/#concept-settings-object-time-origin",
+            "https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability",
             "https://html.spec.whatwg.org/#concept-environment-top-level-creation-url",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
             "https://html.spec.whatwg.org/#concept-workerglobalscope-url",
@@ -51242,15 +51244,11 @@
             "https://html.spec.whatwg.org/#run-a-classic-script",
             "https://html.spec.whatwg.org/#module-script",
             "https://html.spec.whatwg.org/#run-a-module-script",
-            "https://html.spec.whatwg.org/#list-of-active-timers",
-            "https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability",
             "https://html.spec.whatwg.org/#unload-a-document",
             "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#auxiliary-browsing-context",
             "https://html.spec.whatwg.org/#module-map",
             "https://html.spec.whatwg.org/#resolve-a-module-specifier",
-            "https://infra.spec.whatwg.org/#pair",
-            "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
             "https://w3c.github.io/push-api/#h-the-push-event",
             "https://w3c.github.io/push-api/#dfn-fire-the-push-event",
             "https://wicg.github.io/BackgroundSync/spec/#sync"
@@ -51405,6 +51403,11 @@
               "url": "https://www.w3.org/TR/IndexedDB-3/",
               "title": "Indexed Database API 3.0",
               "crawled": "https://w3c.github.io/IndexedDB/"
+            },
+            {
+              "url": "https://www.w3.org/TR/service-workers-1/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
             }
           ],
           "informative": [
@@ -55879,7 +55882,7 @@
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure API Level 1",
+              "title": "Compute and System Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
@@ -56431,6 +56434,11 @@
               "url": "https://www.w3.org/TR/server-timing/",
               "title": "Server Timing",
               "crawled": "https://w3c.github.io/server-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/service-workers-1/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
               "url": "https://storage.spec.whatwg.org/",

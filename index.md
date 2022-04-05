@@ -280,7 +280,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -12667,7 +12667,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 28 March 2022
+- Crawled version: 05 April 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -13772,7 +13772,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/service-workers-1/](https://www.w3.org/TR/service-workers-1/)
 - Crawled URL: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
-- Crawled version: 2 August 2021
+- Crawled version: 5 April 2022
 - Editor's Draft: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
 - Latest published version: [https://www.w3.org/TR/service-workers-1/](https://www.w3.org/TR/service-workers-1/)
 - Shortname: service-workers-1
@@ -13789,6 +13789,7 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
      * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 - External links to private terms:
+     * [`https://storage.spec.whatwg.org/#storage-key`](https://storage.spec.whatwg.org/#storage-key)
      * [`https://wicg.github.io/BackgroundSync/spec/#fire-a-sync-event`](https://wicg.github.io/BackgroundSync/spec/#fire-a-sync-event)
      * [`https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent`](https://w3c.github.io/payment-handler/#dfn-handling-a-canmakepaymentevent)
      * [`https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent`](https://w3c.github.io/payment-handler/#dfn-handling-a-paymentrequestevent)
@@ -13845,7 +13846,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
      * [`https://html.spec.whatwg.org/#workertype`](https://html.spec.whatwg.org/#workertype)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
      * [`https://html.spec.whatwg.org/#responsible-event-loop`](https://html.spec.whatwg.org/#responsible-event-loop)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#concept-relevant-realm`](https://html.spec.whatwg.org/#concept-relevant-realm)
@@ -13893,6 +13893,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#api-url-character-encoding`](https://html.spec.whatwg.org/#api-url-character-encoding)
      * [`https://html.spec.whatwg.org/#concept-settings-object-policy-container`](https://html.spec.whatwg.org/#concept-settings-object-policy-container)
      * [`https://html.spec.whatwg.org/#concept-workerglobalscope-policy-container`](https://html.spec.whatwg.org/#concept-workerglobalscope-policy-container)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-time-origin`](https://html.spec.whatwg.org/#concept-settings-object-time-origin)
+     * [`https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability)
      * [`https://html.spec.whatwg.org/#concept-environment-top-level-creation-url`](https://html.spec.whatwg.org/#concept-environment-top-level-creation-url)
      * [`https://html.spec.whatwg.org/#concept-environment-top-level-origin`](https://html.spec.whatwg.org/#concept-environment-top-level-origin)
      * [`https://html.spec.whatwg.org/#concept-workerglobalscope-url`](https://html.spec.whatwg.org/#concept-workerglobalscope-url)
@@ -13902,15 +13904,11 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#run-a-classic-script`](https://html.spec.whatwg.org/#run-a-classic-script)
      * [`https://html.spec.whatwg.org/#module-script`](https://html.spec.whatwg.org/#module-script)
      * [`https://html.spec.whatwg.org/#run-a-module-script`](https://html.spec.whatwg.org/#run-a-module-script)
-     * [`https://html.spec.whatwg.org/#list-of-active-timers`](https://html.spec.whatwg.org/#list-of-active-timers)
-     * [`https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-workerglobalscope-cross-origin-isolated-capability)
      * [`https://html.spec.whatwg.org/#unload-a-document`](https://html.spec.whatwg.org/#unload-a-document)
      * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
      * [`https://html.spec.whatwg.org/#auxiliary-browsing-context`](https://html.spec.whatwg.org/#auxiliary-browsing-context)
      * [`https://html.spec.whatwg.org/#module-map`](https://html.spec.whatwg.org/#module-map)
      * [`https://html.spec.whatwg.org/#resolve-a-module-specifier`](https://html.spec.whatwg.org/#resolve-a-module-specifier)
-     * [`https://infra.spec.whatwg.org/#pair`](https://infra.spec.whatwg.org/#pair)
-     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://w3c.github.io/push-api/#h-the-push-event`](https://w3c.github.io/push-api/#h-the-push-event)
      * [`https://w3c.github.io/push-api/#dfn-fire-the-push-event`](https://w3c.github.io/push-api/#dfn-fire-the-push-event)
      * [`https://wicg.github.io/BackgroundSync/spec/#sync`](https://wicg.github.io/BackgroundSync/spec/#sync)
@@ -14657,7 +14655,7 @@ Normative references to this spec from:
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -17155,7 +17153,7 @@ Normative references to this spec from:
 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
@@ -18237,13 +18235,13 @@ Informative references to this spec from:
 - [Streams Standard](https://streams.spec.whatwg.org/)
 
 
-### Compute Pressure API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Compute and System Pressure Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 24 March 2022
+- Crawled version: 05 April 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -22270,7 +22268,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
@@ -22297,7 +22295,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 17 March 2022
+- Crawled version: 5 April 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -23106,7 +23104,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
@@ -23466,7 +23464,7 @@ Normative references to this spec from:
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/)
 - [Console Standard](https://console.spec.whatwg.org/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
@@ -23866,6 +23864,7 @@ Normative references to this spec from:
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 
 Informative references to this spec from:
 
@@ -24155,7 +24154,7 @@ Normative references to this spec from:
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compression Streams](https://wicg.github.io/compression/)
-- [Compute Pressure API Level 1](https://wicg.github.io/compute-pressure/)
+- [Compute and System Pressure Level 1](https://wicg.github.io/compute-pressure/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Cooperative Scheduling of Background Tasks](https://w3c.github.io/requestidlecallback/)
@@ -24266,6 +24265,7 @@ Normative references to this spec from:
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Selection API](https://w3c.github.io/selection-api/)
 - [Server Timing](https://w3c.github.io/server-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Test Utils Standard](https://testutils.spec.whatwg.org/)
