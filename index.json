@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-05T06:39:29.397Z",
+  "date": "2022-04-05T12:44:31.387Z",
   "stats": {
     "crawled": 472,
     "errors": 1,
@@ -45797,7 +45797,7 @@
     {
       "title": "Reporting API",
       "shortname": "reporting-1",
-      "date": "4 April 2022",
+      "date": "5 April 2022",
       "url": "https://www.w3.org/TR/reporting-1/",
       "release": {
         "url": "https://www.w3.org/TR/reporting-1/",
@@ -57418,7 +57418,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "4 April 2022",
+      "date": "5 April 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57474,7 +57474,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "4 April 2022",
+      "date": "5 April 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -57631,7 +57631,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "4 April 2022",
+      "date": "5 April 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
