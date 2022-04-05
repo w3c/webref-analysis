@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-05T00:50:01.172Z",
+  "date": "2022-04-05T06:39:29.397Z",
   "stats": {
     "crawled": 472,
     "errors": 1,
@@ -3220,7 +3220,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -22207,7 +22207,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -22845,7 +22845,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "28 March 2022",
+      "date": "5 April 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -24423,7 +24423,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -24864,7 +24864,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -34787,7 +34787,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -37114,7 +37114,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -41762,7 +41762,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             }
           ]
@@ -45795,9 +45795,9 @@
       }
     },
     {
-      "title": "Reporting API 1",
+      "title": "Reporting API",
       "shortname": "reporting-1",
-      "date": "29 October 2021",
+      "date": "4 April 2022",
       "url": "https://www.w3.org/TR/reporting-1/",
       "release": {
         "url": "https://www.w3.org/TR/reporting-1/",
@@ -47246,7 +47246,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -47823,7 +47823,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -50132,7 +50132,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -53847,7 +53847,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
@@ -56379,7 +56379,7 @@
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
-              "title": "Reporting API 1",
+              "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
