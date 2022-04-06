@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-06T06:37:41.581Z",
+  "date": "2022-04-06T12:45:27.687Z",
   "stats": {
     "crawled": 472,
-    "errors": 2,
+    "errors": 0,
     "studied": 472
   },
   "results": [
@@ -4842,7 +4842,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 331)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22776,7 +22775,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "28 March 2022",
+      "date": "6 April 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -45543,7 +45542,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "31 March 2022",
+      "date": "06 April 2022",
       "url": "https://w3c.github.io/mediacapture-region/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-region/",
@@ -45560,7 +45559,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 78)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -45574,7 +45572,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://webidl.spec.whatwg.org/",
           "https://w3c.github.io/mediacapture-transform/"
         ],
         "inconsistentRef": [],
@@ -56375,6 +56372,11 @@
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-region/",
+              "title": "Region Capture",
+              "crawled": "https://w3c.github.io/mediacapture-region/"
             },
             {
               "url": "https://www.w3.org/TR/remote-playback/",

@@ -180,7 +180,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 28 March 2022
+- Crawled version: 6 April 2022
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -4423,7 +4423,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4436,15 +4436,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 331)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21446,51 +21456,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Region Capture {data-spec=true data-error=true}
+### Region Capture {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
 - Crawled URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
-- Crawled version: 31 March 2022
+- Crawled version: 06 April 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
 - Shortname: mediacapture-region
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (__puppeteer_evaluation_script__:20:27)
-    at isReady (__puppeteer_evaluation_script__:27:27)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at async isReady (__puppeteer_evaluation_script__:27:21)
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 78)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
+     * [`https://html.spec.whatwg.org/#serialization-steps`](https://html.spec.whatwg.org/#serialization-steps)
+     * [`https://html.spec.whatwg.org/#deserialization-steps`](https://html.spec.whatwg.org/#deserialization-steps)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -24243,6 +24228,7 @@ Normative references to this spec from:
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Priority Hints](https://wicg.github.io/priority-hints/)
 - [Push API](https://w3c.github.io/push-api/)
+- [Region Capture](https://w3c.github.io/mediacapture-region/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer/)
