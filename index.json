@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-07T12:44:26.685Z",
+  "date": "2022-04-07T18:37:02.611Z",
   "stats": {
     "crawled": 472,
-    "errors": 0,
+    "errors": 1,
     "studied": 472
   },
   "results": [
@@ -1453,7 +1453,7 @@
     {
       "title": "Autoplay Policy Detection",
       "shortname": "autoplay-detection",
-      "date": "2 February 2022",
+      "date": "7 April 2022",
       "url": "https://www.w3.org/TR/autoplay-detection/",
       "release": {
         "url": "https://www.w3.org/TR/autoplay-detection/",
@@ -1513,8 +1513,7 @@
             "https://html.spec.whatwg.org/#media-resource",
             "https://html.spec.whatwg.org/#user-activation-data-model",
             "https://html.spec.whatwg.org/#dom-media-play",
-            "https://html.spec.whatwg.org/#sticky-activation",
-            "https://webaudio.github.io/web-audio-api/#audiocontext"
+            "https://html.spec.whatwg.org/#sticky-activation"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -1937,7 +1936,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "mediacapture-handle-identity",
-      "date": "05 April 2022",
+      "date": "07 April 2022",
       "url": "https://w3c.github.io/mediacapture-handle/identity/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/identity/",
@@ -1966,7 +1965,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/mediacapture-extensions/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -1974,7 +1975,9 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/screen-capture/#dfn-browser"
+            "https://www.w3.org/TR/screen-capture/#dfn-browser",
+            "https://www.w3.org/TR/screen-capture/#dfn-display-surface",
+            "https://www.w3.org/TR/mediacapture-streams/#track-clone"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -4842,6 +4845,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 331)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24106,7 +24110,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "6 April 2022",
+      "date": "7 April 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -39144,7 +39148,7 @@
     {
       "title": "Media Capabilities",
       "shortname": "media-capabilities",
-      "date": "5 April 2022",
+      "date": "7 April 2022",
       "url": "https://www.w3.org/TR/media-capabilities/",
       "release": {
         "url": "https://www.w3.org/TR/media-capabilities/",
@@ -39370,6 +39374,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
             {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
@@ -49680,7 +49689,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "17 March 2022",
+      "date": "07 April 2022",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -49759,8 +49768,10 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#gains-focus",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#allowed-to-use"
           ],
@@ -52181,7 +52192,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "6 April 2022",
+      "date": "7 April 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -52366,7 +52377,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "05 April 2022",
+      "date": "07 April 2022",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",
@@ -63723,7 +63734,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 April 2022",
+      "date": "7 April 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63845,7 +63856,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 April 2022",
+      "date": "7 April 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

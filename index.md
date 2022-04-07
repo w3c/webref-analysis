@@ -645,7 +645,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 6 April 2022
+- Crawled version: 7 April 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -4423,7 +4423,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4436,25 +4436,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 331)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11312,7 +11302,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 6 April 2022
+- Crawled version: 7 April 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11388,7 +11378,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 6 April 2022
+- Crawled version: 7 April 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -12096,7 +12086,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/autoplay-detection/](https://www.w3.org/TR/autoplay-detection/)
 - Crawled URL: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
-- Crawled version: 2 February 2022
+- Crawled version: 7 April 2022
 - Editor's Draft: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
 - Latest published version: [https://www.w3.org/TR/autoplay-detection/](https://www.w3.org/TR/autoplay-detection/)
 - Shortname: autoplay-detection
@@ -12122,7 +12112,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#user-activation-data-model`](https://html.spec.whatwg.org/#user-activation-data-model)
      * [`https://html.spec.whatwg.org/#dom-media-play`](https://html.spec.whatwg.org/#dom-media-play)
      * [`https://html.spec.whatwg.org/#sticky-activation`](https://html.spec.whatwg.org/#sticky-activation)
-     * [`https://webaudio.github.io/web-audio-api/#audiocontext`](https://webaudio.github.io/web-audio-api/#audiocontext)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12137,7 +12126,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/media-capabilities/](https://www.w3.org/TR/media-capabilities/)
 - Crawled URL: [https://w3c.github.io/media-capabilities/](https://w3c.github.io/media-capabilities/)
-- Crawled version: 5 April 2022
+- Crawled version: 7 April 2022
 - Editor's Draft: [https://w3c.github.io/media-capabilities/](https://w3c.github.io/media-capabilities/)
 - Latest published version: [https://www.w3.org/TR/media-capabilities/](https://www.w3.org/TR/media-capabilities/)
 - Shortname: media-capabilities
@@ -20988,20 +20977,24 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Capture Handle - Bootstrapping Collaboration when Screensharing {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Capture Handle - Bootstrapping Collaboration when Screensharing {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
 - Crawled URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
-- Crawled version: 05 April 2022
+- Crawled version: 07 April 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
 - Shortname: mediacapture-handle-identity
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/)
 - External links to private terms:
      * [`https://www.w3.org/TR/screen-capture/#dfn-browser`](https://www.w3.org/TR/screen-capture/#dfn-browser)
+     * [`https://www.w3.org/TR/screen-capture/#dfn-display-surface`](https://www.w3.org/TR/screen-capture/#dfn-display-surface)
+     * [`https://www.w3.org/TR/mediacapture-streams/#track-clone`](https://www.w3.org/TR/mediacapture-streams/#track-clone)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -21204,6 +21197,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
@@ -21514,7 +21508,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
 - Crawled URL: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
-- Crawled version: 17 March 2022
+- Crawled version: 07 April 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
 - Latest published version: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
 - Shortname: screen-capture
@@ -21526,8 +21520,10 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
      * [`https://html.spec.whatwg.org/#gains-focus`](https://html.spec.whatwg.org/#gains-focus)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
 - External links to outdated specs:
@@ -21554,7 +21550,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
 - Crawled URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
-- Crawled version: 05 April 2022
+- Crawled version: 07 April 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
 - Shortname: mediacapture-handle-actions
 
@@ -22268,7 +22264,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 6 April 2022
+- Crawled version: 7 April 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
