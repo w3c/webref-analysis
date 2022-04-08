@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-08T00:54:47.153Z",
+  "date": "2022-04-08T06:37:46.055Z",
   "stats": {
     "crawled": 472,
     "errors": 2,
@@ -38415,7 +38415,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "4 April 2022",
+      "date": "8 April 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
