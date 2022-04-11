@@ -228,6 +228,7 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
@@ -1155,6 +1156,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -4231,6 +4233,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
@@ -4258,7 +4261,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4271,25 +4274,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 323)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5864,6 +5857,7 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
@@ -8799,6 +8793,7 @@ Normative references to this spec from:
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 Informative references to this spec from:
@@ -8916,6 +8911,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
@@ -11170,51 +11166,82 @@ No informative reference to this spec from other specs.
 
 ## EPUB 3 Working Group {#epub_3_working_group}
 
-### EPUB 3.3 {data-spec=true data-error=true}
+### EPUB 3.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
-- Crawled URL: [[object Object]]([object Object])
+- Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
+- Crawled version: 11 April 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: TypeError: Cannot read properties of null (reading 'textContent')
-    at https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:61:58
-    at Array.map (<anonymous>)
-    at extractTableDfn (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:55:6)
-    at Array.map (<anonymous>)
-    at extractDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:137:6)
-    at extractTableDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:168:3)
-    at Object.default [as extractCssdfn] (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:15:17)
-    at __puppeteer_evaluation_script__:8:63
-    at Array.forEach (<anonymous>)
-    at __puppeteer_evaluation_script__:7:25 Error: Evaluation failed: TypeError: Cannot read properties of null (reading 'textContent')
-    at https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:61:58
-    at Array.map (<anonymous>)
-    at extractTableDfn (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:55:6)
-    at Array.map (<anonymous>)
-    at extractDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:137:6)
-    at extractTableDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:168:3)
-    at Object.default [as extractCssdfn] (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:15:17)
-    at __puppeteer_evaluation_script__:8:63
-    at Array.forEach (<anonymous>)
-    at __puppeteer_evaluation_script__:7:25
-    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:658:25)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 333)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/)
+     * [`https://www.w3.org/TR/wcag2/`](https://www.w3.org/TR/wcag2/)
+- External links to private terms:
+     * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
+     * [`https://url.spec.whatwg.org/#percent-encode`](https://url.spec.whatwg.org/#percent-encode)
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/epub-rs-33/#confreq-zip-rootdir`](https://www.w3.org/TR/epub-rs-33/#confreq-zip-rootdir)
+     * [`https://www.w3.org/TR/epub-rs-33/#confreq-css-rs-fonts`](https://www.w3.org/TR/epub-rs-33/#confreq-css-rs-fonts)
+     * [`https://www.w3.org/TR/epub-rs-33/#sec-linked-records`](https://www.w3.org/TR/epub-rs-33/#sec-linked-records)
+     * [`https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-fxl-support`](https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-fxl-support)
+     * [`https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-scrolled`](https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-scrolled)
+     * [`https://www.w3.org/TR/epub-rs-33/#note-table-reading-mode`](https://www.w3.org/TR/epub-rs-33/#note-table-reading-mode)
+     * [`https://www.w3.org/TR/epub-rs-33/#sec-property-datatype`](https://www.w3.org/TR/epub-rs-33/#sec-property-datatype)
+     * [`https://www.w3.org/TR/css-text-3/#hyphens-property`](https://www.w3.org/TR/css-text-3/#hyphens-property)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
+     * [`https://html.spec.whatwg.org/#forms`](https://html.spec.whatwg.org/#forms)
+     * [`https://html.spec.whatwg.org/#the-xhtml-syntax`](https://html.spec.whatwg.org/#the-xhtml-syntax)
+     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
+     * [`https://html.spec.whatwg.org/#the-track-element`](https://html.spec.whatwg.org/#the-track-element)
+     * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
+     * [`https://html.spec.whatwg.org/#the-source-element`](https://html.spec.whatwg.org/#the-source-element)
+     * [`https://html.spec.whatwg.org/#embedded-content`](https://html.spec.whatwg.org/#embedded-content)
+     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
+     * [`https://html.spec.whatwg.org/#flow-content`](https://html.spec.whatwg.org/#flow-content)
+     * [`https://html.spec.whatwg.org/#the-audio-element`](https://html.spec.whatwg.org/#the-audio-element)
+     * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
+     * [`https://html.spec.whatwg.org/#resolving-urls`](https://html.spec.whatwg.org/#resolving-urls)
+     * [`https://html.spec.whatwg.org/#the-script-element`](https://html.spec.whatwg.org/#the-script-element)
+     * [`https://html.spec.whatwg.org/#the-area-element`](https://html.spec.whatwg.org/#the-area-element)
+     * [`https://html.spec.whatwg.org/#embedded-content-2`](https://html.spec.whatwg.org/#embedded-content-2)
+     * [`https://html.spec.whatwg.org/#extensibility-2`](https://html.spec.whatwg.org/#extensibility-2)
+     * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)
+     * [`https://html.spec.whatwg.org/#microdata`](https://html.spec.whatwg.org/#microdata)
+     * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
+     * [`https://html.spec.whatwg.org/#document-base-url`](https://html.spec.whatwg.org/#document-base-url)
+     * [`https://html.spec.whatwg.org/#the-rp-element`](https://html.spec.whatwg.org/#the-rp-element)
+     * [`https://html.spec.whatwg.org/#the-embed-element`](https://html.spec.whatwg.org/#the-embed-element)
+     * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
+     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
+     * [`https://html.spec.whatwg.org/#svg-0`](https://html.spec.whatwg.org/#svg-0)
+     * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
+     * [`https://html.spec.whatwg.org/#the-bdo-element`](https://html.spec.whatwg.org/#the-bdo-element)
+     * [`https://html.spec.whatwg.org/#data-block`](https://html.spec.whatwg.org/#data-block)
+     * [`https://html.spec.whatwg.org/#the-canvas-element`](https://html.spec.whatwg.org/#the-canvas-element)
+     * [`https://html.spec.whatwg.org/#the-nav-element`](https://html.spec.whatwg.org/#the-nav-element)
+     * [`https://html.spec.whatwg.org/#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements`](https://html.spec.whatwg.org/#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements)
+     * [`https://html.spec.whatwg.org/#the-ol-element`](https://html.spec.whatwg.org/#the-ol-element)
+     * [`https://html.spec.whatwg.org/#the-li-element`](https://html.spec.whatwg.org/#the-li-element)
+     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
+     * [`https://html.spec.whatwg.org/#phrasing-content`](https://html.spec.whatwg.org/#phrasing-content)
+     * [`https://html.spec.whatwg.org/#the-hidden-attribute`](https://html.spec.whatwg.org/#the-hidden-attribute)
+     * [`https://html.spec.whatwg.org/#palpable-content`](https://html.spec.whatwg.org/#palpable-content)
+     * [`https://html.spec.whatwg.org/#attr-aria-role`](https://html.spec.whatwg.org/#attr-aria-role)
+     * [`https://html.spec.whatwg.org/#global-attributes`](https://html.spec.whatwg.org/#global-attributes)
+     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
+     * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
+     * [`https://html.spec.whatwg.org/#link-type-alternate`](https://html.spec.whatwg.org/#link-type-alternate)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2013/NOTE-xmlsec-rngschema-20130411/`](https://www.w3.org/TR/2013/NOTE-xmlsec-rngschema-20130411/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11231,7 +11258,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 09 April 2022
+- Crawled version: 11 April 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -11242,112 +11269,35 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/)
      * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
 - External links to private terms:
+     * [`https://www.w3.org/TR/epub-33/#dfn-value`](https://www.w3.org/TR/epub-33/#dfn-value)
      * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
-- Broken external links:
-     * [`https://www.w3.org/TR/epub-33/#dfn-epub-publication`](https://www.w3.org/TR/epub-33/#dfn-epub-publication)
-     * [`https://www.w3.org/TR/epub-33/#sec-terminology`](https://www.w3.org/TR/epub-33/#sec-terminology)
-     * [`https://www.w3.org/TR/epub-33/#dfn-viewport`](https://www.w3.org/TR/epub-33/#dfn-viewport)
-     * [`https://www.w3.org/TR/epub-33/#dfn-epub-content-document`](https://www.w3.org/TR/epub-33/#dfn-epub-content-document)
-     * [`https://www.w3.org/TR/epub-33/#dfn-epub-reading-system`](https://www.w3.org/TR/epub-33/#dfn-epub-reading-system)
-     * [`https://www.w3.org/TR/epub-33/#dfn-synthetic-spread`](https://www.w3.org/TR/epub-33/#dfn-synthetic-spread)
-     * [`https://www.w3.org/TR/epub-33/#sec-publication-resources`](https://www.w3.org/TR/epub-33/#sec-publication-resources)
-     * [`https://www.w3.org/TR/epub-33/#dfn-foreign-resource`](https://www.w3.org/TR/epub-33/#dfn-foreign-resource)
-     * [`https://www.w3.org/TR/epub-33/#sec-foreign-restrictions`](https://www.w3.org/TR/epub-33/#sec-foreign-restrictions)
-     * [`https://www.w3.org/TR/epub-33/#dfn-remote-resource`](https://www.w3.org/TR/epub-33/#dfn-remote-resource)
-     * [`https://www.w3.org/TR/epub-33/#sec-resource-locations`](https://www.w3.org/TR/epub-33/#sec-resource-locations)
-     * [`https://www.w3.org/TR/epub-33/#dfn-top-level-content-document`](https://www.w3.org/TR/epub-33/#dfn-top-level-content-document)
+- External links that neither target definitions nor headings:
      * [`https://www.w3.org/TR/epub-33/#cmt-grp-image`](https://www.w3.org/TR/epub-33/#cmt-grp-image)
      * [`https://www.w3.org/TR/epub-33/#cmt-grp-audio`](https://www.w3.org/TR/epub-33/#cmt-grp-audio)
-     * [`https://www.w3.org/TR/epub-33/#dfn-publication-resource`](https://www.w3.org/TR/epub-33/#dfn-publication-resource)
-     * [`https://www.w3.org/TR/epub-33/#dfn-package-document`](https://www.w3.org/TR/epub-33/#dfn-package-document)
-     * [`https://www.w3.org/TR/epub-33/#dfn-xhtml-content-document`](https://www.w3.org/TR/epub-33/#dfn-xhtml-content-document)
-     * [`https://www.w3.org/TR/epub-33/#dfn-svg-content-document`](https://www.w3.org/TR/epub-33/#dfn-svg-content-document)
-     * [`https://www.w3.org/TR/epub-33/#dfn-media-overlay-document`](https://www.w3.org/TR/epub-33/#dfn-media-overlay-document)
-     * [`https://www.w3.org/TR/epub-33/#attrdef-dir`](https://www.w3.org/TR/epub-33/#attrdef-dir)
-     * [`https://www.w3.org/TR/epub-33/#attrdef-xml-lang`](https://www.w3.org/TR/epub-33/#attrdef-xml-lang)
      * [`https://www.w3.org/TR/epub-33/#attrdef-hreflang`](https://www.w3.org/TR/epub-33/#attrdef-hreflang)
-     * [`https://www.w3.org/TR/epub-33/#sec-link-elem`](https://www.w3.org/TR/epub-33/#sec-link-elem)
-     * [`https://www.w3.org/TR/epub-33/#sec-opf-dclanguage`](https://www.w3.org/TR/epub-33/#sec-opf-dclanguage)
-     * [`https://www.w3.org/TR/epub-33/#dfn-scripted-content-document`](https://www.w3.org/TR/epub-33/#dfn-scripted-content-document)
-     * [`https://www.w3.org/TR/epub-33/#sec-package-doc`](https://www.w3.org/TR/epub-33/#sec-package-doc)
-     * [`https://www.w3.org/TR/epub-33/#dfn-unique-identifier`](https://www.w3.org/TR/epub-33/#dfn-unique-identifier)
-     * [`https://www.w3.org/TR/epub-33/#sec-meta-elem`](https://www.w3.org/TR/epub-33/#sec-meta-elem)
-     * [`https://www.w3.org/TR/epub-33/#dfn-value`](https://www.w3.org/TR/epub-33/#dfn-value)
-     * [`https://www.w3.org/TR/epub-33/#sec-opf-dcidentifier`](https://www.w3.org/TR/epub-33/#sec-opf-dcidentifier)
      * [`https://www.w3.org/TR/epub-33/#identifier-type`](https://www.w3.org/TR/epub-33/#identifier-type)
-     * [`https://www.w3.org/TR/epub-33/#sec-opf-dctitle`](https://www.w3.org/TR/epub-33/#sec-opf-dctitle)
-     * [`https://www.w3.org/TR/epub-33/#sec-opf-dccreator`](https://www.w3.org/TR/epub-33/#sec-opf-dccreator)
      * [`https://www.w3.org/TR/epub-33/#attrdef-meta-property`](https://www.w3.org/TR/epub-33/#attrdef-meta-property)
      * [`https://www.w3.org/TR/epub-33/#property.ebnf.prefix`](https://www.w3.org/TR/epub-33/#property.ebnf.prefix)
      * [`https://www.w3.org/TR/epub-33/#attrdef-scheme`](https://www.w3.org/TR/epub-33/#attrdef-scheme)
      * [`https://www.w3.org/TR/epub-33/#record`](https://www.w3.org/TR/epub-33/#record)
      * [`https://www.w3.org/TR/epub-33/#attrdef-link-rel`](https://www.w3.org/TR/epub-33/#attrdef-link-rel)
-     * [`https://www.w3.org/TR/epub-33/#attrdef-properties`](https://www.w3.org/TR/epub-33/#attrdef-properties)
-     * [`https://www.w3.org/TR/epub-33/#sec-item-resource-properties`](https://www.w3.org/TR/epub-33/#sec-item-resource-properties)
-     * [`https://www.w3.org/TR/epub-33/#dfn-linked-resource`](https://www.w3.org/TR/epub-33/#dfn-linked-resource)
-     * [`https://www.w3.org/TR/epub-33/#sec-manifest-fallbacks`](https://www.w3.org/TR/epub-33/#sec-manifest-fallbacks)
      * [`https://www.w3.org/TR/epub-33/#attrdef-item-properties`](https://www.w3.org/TR/epub-33/#attrdef-item-properties)
-     * [`https://www.w3.org/TR/epub-33/#sec-spine-elem`](https://www.w3.org/TR/epub-33/#sec-spine-elem)
      * [`https://www.w3.org/TR/epub-33/#attrdef-itemref-linear`](https://www.w3.org/TR/epub-33/#attrdef-itemref-linear)
      * [`https://www.w3.org/TR/epub-33/#attrdef-spine-page-progression-direction`](https://www.w3.org/TR/epub-33/#attrdef-spine-page-progression-direction)
-     * [`https://www.w3.org/TR/epub-33/#sec-itemref-elem`](https://www.w3.org/TR/epub-33/#sec-itemref-elem)
-     * [`https://www.w3.org/TR/epub-33/#app-rendering-vocab`](https://www.w3.org/TR/epub-33/#app-rendering-vocab)
-     * [`https://www.w3.org/TR/epub-33/#layout-overrides`](https://www.w3.org/TR/epub-33/#layout-overrides)
-     * [`https://www.w3.org/TR/epub-33/#sec-collection-elem`](https://www.w3.org/TR/epub-33/#sec-collection-elem)
-     * [`https://www.w3.org/TR/epub-33/#sec-contentdocs`](https://www.w3.org/TR/epub-33/#sec-contentdocs)
-     * [`https://www.w3.org/TR/epub-33/#sec-css-req`](https://www.w3.org/TR/epub-33/#sec-css-req)
-     * [`https://www.w3.org/TR/epub-33/#sec-xhtml`](https://www.w3.org/TR/epub-33/#sec-xhtml)
-     * [`https://www.w3.org/TR/epub-33/#deprecated`](https://www.w3.org/TR/epub-33/#deprecated)
-     * [`https://www.w3.org/TR/epub-33/#sec-svg`](https://www.w3.org/TR/epub-33/#sec-svg)
-     * [`https://www.w3.org/TR/epub-33/#sec-css`](https://www.w3.org/TR/epub-33/#sec-css)
-     * [`https://www.w3.org/TR/epub-33/#sec-css-prefixed`](https://www.w3.org/TR/epub-33/#sec-css-prefixed)
-     * [`https://www.w3.org/TR/epub-33/#dfn-epub-creator`](https://www.w3.org/TR/epub-33/#dfn-epub-creator)
-     * [`https://www.w3.org/TR/epub-33/#sec-scripted-content`](https://www.w3.org/TR/epub-33/#sec-scripted-content)
-     * [`https://www.w3.org/TR/epub-33/#sec-scripted-container-constrained`](https://www.w3.org/TR/epub-33/#sec-scripted-container-constrained)
-     * [`https://www.w3.org/TR/epub-33/#sec-scripted-spine`](https://www.w3.org/TR/epub-33/#sec-scripted-spine)
-     * [`https://www.w3.org/TR/epub-33/#sec-fixed-layouts`](https://www.w3.org/TR/epub-33/#sec-fixed-layouts)
      * [`https://www.w3.org/TR/epub-33/#flow-scrolled-doc`](https://www.w3.org/TR/epub-33/#flow-scrolled-doc)
      * [`https://www.w3.org/TR/epub-33/#flow-scrolled-continuous`](https://www.w3.org/TR/epub-33/#flow-scrolled-continuous)
      * [`https://www.w3.org/TR/epub-33/#confreq-cd-scripted-flbk`](https://www.w3.org/TR/epub-33/#confreq-cd-scripted-flbk)
-     * [`https://www.w3.org/TR/epub-33/#sec-nav`](https://www.w3.org/TR/epub-33/#sec-nav)
      * [`https://www.w3.org/TR/epub-33/#confreq-nav-a`](https://www.w3.org/TR/epub-33/#confreq-nav-a)
-     * [`https://www.w3.org/TR/epub-33/#sec-nav-toc`](https://www.w3.org/TR/epub-33/#sec-nav-toc)
-     * [`https://www.w3.org/TR/epub-33/#sec-nav-pagelist`](https://www.w3.org/TR/epub-33/#sec-nav-pagelist)
-     * [`https://www.w3.org/TR/epub-33/#sec-nav-landmarks`](https://www.w3.org/TR/epub-33/#sec-nav-landmarks)
-     * [`https://www.w3.org/TR/epub-33/#sec-nav-def-types-other`](https://www.w3.org/TR/epub-33/#sec-nav-def-types-other)
-     * [`https://www.w3.org/TR/epub-33/#layout`](https://www.w3.org/TR/epub-33/#layout)
      * [`https://www.w3.org/TR/epub-33/#elemdef-opf-metadata`](https://www.w3.org/TR/epub-33/#elemdef-opf-metadata)
      * [`https://www.w3.org/TR/epub-33/#elemdef-spine-itemref`](https://www.w3.org/TR/epub-33/#elemdef-spine-itemref)
-     * [`https://www.w3.org/TR/epub-33/#orientation`](https://www.w3.org/TR/epub-33/#orientation)
-     * [`https://www.w3.org/TR/epub-33/#spread`](https://www.w3.org/TR/epub-33/#spread)
      * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-left`](https://www.w3.org/TR/epub-33/#fxl-page-spread-left)
      * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-right`](https://www.w3.org/TR/epub-33/#fxl-page-spread-right)
-     * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-center`](https://www.w3.org/TR/epub-33/#fxl-page-spread-center)
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-html`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-html)
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg)
-     * [`https://www.w3.org/TR/epub-33/#dfn-fixed-layout-document`](https://www.w3.org/TR/epub-33/#dfn-fixed-layout-document)
-     * [`https://www.w3.org/TR/epub-33/#sec-rendering-general`](https://www.w3.org/TR/epub-33/#sec-rendering-general)
-     * [`https://www.w3.org/TR/epub-33/#layout-property-flow-overrides`](https://www.w3.org/TR/epub-33/#layout-property-flow-overrides)
      * [`https://www.w3.org/TR/epub-33/#def-layout-pre-paginated`](https://www.w3.org/TR/epub-33/#def-layout-pre-paginated)
-     * [`https://www.w3.org/TR/epub-33/#sec-ocf`](https://www.w3.org/TR/epub-33/#sec-ocf)
-     * [`https://www.w3.org/TR/epub-33/#dfn-root-directory`](https://www.w3.org/TR/epub-33/#dfn-root-directory)
-     * [`https://www.w3.org/TR/epub-33/#dfn-ocf-abstract-container`](https://www.w3.org/TR/epub-33/#dfn-ocf-abstract-container)
-     * [`https://www.w3.org/TR/epub-33/#dfn-container-root-url`](https://www.w3.org/TR/epub-33/#dfn-container-root-url)
-     * [`https://www.w3.org/TR/epub-33/#dfn-content-url`](https://www.w3.org/TR/epub-33/#dfn-content-url)
      * [`https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints`](https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints)
-     * [`https://www.w3.org/TR/epub-33/#sec-parsing-urls-metainf`](https://www.w3.org/TR/epub-33/#sec-parsing-urls-metainf)
-     * [`https://www.w3.org/TR/epub-33/#sec-container-filenames`](https://www.w3.org/TR/epub-33/#sec-container-filenames)
-     * [`https://www.w3.org/TR/epub-33/#sec-container.xml-rootfile-elem`](https://www.w3.org/TR/epub-33/#sec-container.xml-rootfile-elem)
-     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-metadata.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-metadata.xml)
-     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-manifest.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-manifest.xml)
-     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml)
-     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-files`](https://www.w3.org/TR/epub-33/#sec-container-metainf-files)
-     * [`https://www.w3.org/TR/epub-33/#sec-font-obfuscation`](https://www.w3.org/TR/epub-33/#sec-font-obfuscation)
-     * [`https://www.w3.org/TR/epub-33/#sec-media-overlays`](https://www.w3.org/TR/epub-33/#sec-media-overlays)
      * [`https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay`](https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay)
-     * [`https://www.w3.org/TR/epub-33/#dfn-manifest`](https://www.w3.org/TR/epub-33/#dfn-manifest)
      * [`https://www.w3.org/TR/epub-33/#elemdef-package-item`](https://www.w3.org/TR/epub-33/#elemdef-package-item)
-     * [`https://www.w3.org/TR/epub-33/#dfn-spine`](https://www.w3.org/TR/epub-33/#dfn-spine)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-body`](https://www.w3.org/TR/epub-33/#elemdef-smil-body)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-seq`](https://www.w3.org/TR/epub-33/#elemdef-smil-seq)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-par`](https://www.w3.org/TR/epub-33/#elemdef-smil-par)
@@ -11357,23 +11307,14 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-text`](https://www.w3.org/TR/epub-33/#elemdef-smil-text)
      * [`https://www.w3.org/TR/epub-33/#active-class`](https://www.w3.org/TR/epub-33/#active-class)
      * [`https://www.w3.org/TR/epub-33/#playback-active-class`](https://www.w3.org/TR/epub-33/#playback-active-class)
-     * [`https://www.w3.org/TR/epub-33/#sec-docs-assoc-style`](https://www.w3.org/TR/epub-33/#sec-docs-assoc-style)
-     * [`https://www.w3.org/TR/epub-33/#sec-media-overlays-fragids`](https://www.w3.org/TR/epub-33/#sec-media-overlays-fragids)
-     * [`https://www.w3.org/TR/epub-33/#dfn-epub-navigation-document`](https://www.w3.org/TR/epub-33/#dfn-epub-navigation-document)
-     * [`https://www.w3.org/TR/epub-33/#sec-mo-nav-doc`](https://www.w3.org/TR/epub-33/#sec-mo-nav-doc)
      * [`https://www.w3.org/TR/epub-33/#duration`](https://www.w3.org/TR/epub-33/#duration)
-     * [`https://www.w3.org/TR/epub-33/#app-structural-semantics`](https://www.w3.org/TR/epub-33/#app-structural-semantics)
-     * [`https://www.w3.org/TR/epub-33/#sec-epub-type-attribute`](https://www.w3.org/TR/epub-33/#sec-epub-type-attribute)
-     * [`https://www.w3.org/TR/epub-33/#sec-vocab-assoc`](https://www.w3.org/TR/epub-33/#sec-vocab-assoc)
-     * [`https://www.w3.org/TR/epub-33/#sec-reserved-prefixes`](https://www.w3.org/TR/epub-33/#sec-reserved-prefixes)
-     * [`https://www.w3.org/TR/epub-33/#sec-property-datatype`](https://www.w3.org/TR/epub-33/#sec-property-datatype)
-     * [`https://www.w3.org/TR/epub-33/#sec-default-vocab`](https://www.w3.org/TR/epub-33/#sec-default-vocab)
      * [`https://www.w3.org/TR/epub-33/#attrdef-package-version`](https://www.w3.org/TR/epub-33/#attrdef-package-version)
      * [`https://www.w3.org/TR/epub-33/#confreq-nav-a-title`](https://www.w3.org/TR/epub-33/#confreq-nav-a-title)
-     * [`https://www.w3.org/TR/epub-33/#sec-security-privacy`](https://www.w3.org/TR/epub-33/#sec-security-privacy)
-     * [`https://www.w3.org/TR/epub-33/#epub-threat-model`](https://www.w3.org/TR/epub-33/#epub-threat-model)
-     * [`https://www.w3.org/TR/epub-33/#app-media-type-app-oebps-package`](https://www.w3.org/TR/epub-33/#app-media-type-app-oebps-package)
-     * [`https://www.w3.org/TR/epub-33/#app-media-type`](https://www.w3.org/TR/epub-33/#app-media-type)
+- Broken external links:
+     * [`https://www.w3.org/TR/epub-33/#sec-foreign-restrictions`](https://www.w3.org/TR/epub-33/#sec-foreign-restrictions)
+     * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-center`](https://www.w3.org/TR/epub-33/#fxl-page-spread-center)
+     * [`https://www.w3.org/TR/epub-33/#sec-rendering-general`](https://www.w3.org/TR/epub-33/#sec-rendering-general)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
      * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)
@@ -11393,7 +11334,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 
 No informative reference to this spec from other specs.
 
@@ -12453,7 +12396,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
 - Crawled URL: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
-- Crawled version: 30 August 2021
+- Crawled version: 11 April 2022
 - Editor's Draft: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
 - Latest published version: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
 - Shortname: picture-in-picture
@@ -12470,12 +12413,14 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/remote-playback/#dfn-local-playback-state`](https://w3c.github.io/remote-playback/#dfn-local-playback-state)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
+     * [`https://html.spec.whatwg.org/#same-origin-domain`](https://html.spec.whatwg.org/#same-origin-domain)
      * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
      * [`https://html.spec.whatwg.org/#dom-media-readystate`](https://html.spec.whatwg.org/#dom-media-readystate)
      * [`https://html.spec.whatwg.org/#dom-media-have_nothing`](https://html.spec.whatwg.org/#dom-media-have_nothing)
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#dom-media-paused`](https://html.spec.whatwg.org/#dom-media-paused)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#unloading-document-cleanup-steps`](https://html.spec.whatwg.org/#unloading-document-cleanup-steps)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -13369,6 +13314,7 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
@@ -14218,7 +14164,9 @@ Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 
 
 ## Tracking Protection Working Group {#tracking_protection_working_group}
@@ -16475,7 +16423,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 14 March 2022
+- Crawled version: 11 April 2022
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -16714,6 +16662,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 
@@ -22244,6 +22193,7 @@ Normative references to this spec from:
 - [EditContext API](https://w3c.github.io/edit-context/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
@@ -22550,6 +22500,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Push API](https://w3c.github.io/push-api/)
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
@@ -23267,6 +23218,7 @@ Normative references to this spec from:
 - [EditContext API](https://w3c.github.io/edit-context/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
@@ -23605,6 +23557,7 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
@@ -23657,6 +23610,7 @@ Normative references to this spec from:
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Portals](https://wicg.github.io/portals/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
@@ -24126,6 +24080,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
@@ -24352,6 +24307,7 @@ Normative references to this spec from:
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
@@ -24507,6 +24463,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Origin Policy](https://wicg.github.io/origin-policy/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
