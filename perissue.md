@@ -2,21 +2,75 @@
 % Strudy
 % April 11, 2022
 
-472 specifications were crawled in this report.
+467 specifications were crawled in this report.
 
 
 ## Specifications that could not be rendered
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+- [EPUB 3.3]([object Object]): `Error: Evaluation failed: TypeError: Cannot read properties of null (reading 'textContent')
+    at https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:61:58
+    at Array.map (<anonymous>)
+    at extractTableDfn (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:55:6)
+    at Array.map (<anonymous>)
+    at extractDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:137:6)
+    at extractTableDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:168:3)
+    at Object.default [as extractCssdfn] (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:15:17)
+    at __puppeteer_evaluation_script__:8:63
+    at Array.forEach (<anonymous>)
+    at __puppeteer_evaluation_script__:7:25 Error: Evaluation failed: TypeError: Cannot read properties of null (reading 'textContent')
+    at https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:61:58
+    at Array.map (<anonymous>)
+    at extractTableDfn (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:55:6)
+    at Array.map (<anonymous>)
+    at extractDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:137:6)
+    at extractTableDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:168:3)
+    at Object.default [as extractCssdfn] (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:15:17)
+    at __puppeteer_evaluation_script__:8:63
+    at Array.forEach (<anonymous>)
+    at __puppeteer_evaluation_script__:7:25
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:658:25)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 331)
+    at async Promise.all (index 333)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/): `Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (__puppeteer_evaluation_script__:20:27)
+    at isReady (__puppeteer_evaluation_script__:27:27)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at async isReady (__puppeteer_evaluation_script__:27:21)
+    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 351)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
 
-=> 1 specification found
+=> 2 specifications found
 
 
 ## Specifications without normative dependencies
@@ -25,14 +79,13 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
-- [Accessible `Object.hasOwnProperty`](https://tc39.es/proposal-accessible-object-hasownproperty/)
 - [Array Grouping](https://tc39.es/proposal-array-grouping/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
+- [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
-- [ECMAScript class static initialization blocks](https://tc39.es/proposal-class-static-block/)
+- [Decorators proposal](https://tc39.es/proposal-decorators/)
 - [ECMAScript® 2023 Internationalization API Specification](https://tc39.es/ecma402/)
 - [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/)
-- [Error Cause](https://tc39.es/proposal-error-cause/)
 - [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)
 - [import assertions](https://tc39.es/proposal-import-assertions/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
@@ -43,12 +96,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Method: Basic Card](https://w3c.github.io/payment-method-basic-card/)
-- [Private Fields in `in`](https://tc39.es/proposal-private-fields-in-in/)
-- [Private Methods and Accessors Proposal](https://tc39.es/proposal-private-methods/)
 - [Proposal-array-find-from-last](https://tc39.es/proposal-array-find-from-last/)
-- [Public and private instance fields proposal](https://tc39.es/proposal-class-fields/)
-- [RegExp Match Indices](https://tc39.es/proposal-regexp-match-indices/)
-- [Relative Indexing Method](https://tc39.es/proposal-relative-indexing-method/)
 - [Resizable ArrayBuffer and growable SharedArrayBuffer](https://tc39.es/proposal-resizablearraybuffer/)
 - [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
 - [RFC 4120: The Kerberos Network Authentication Service (V5)](https://www.rfc-editor.org/rfc/rfc4120)
@@ -59,9 +107,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [RFC 7469: Public Key Pinning Extension for HTTP](https://www.rfc-editor.org/rfc/rfc7469)
 - [RFC 7578: Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578)
 - [ShadowRealm API](https://tc39.es/proposal-shadowrealm/)
-- [Static class features](https://tc39.es/proposal-static-class-features/)
 - [Temporal proposal](https://tc39.es/proposal-temporal/)
-- [Top-Level Await](https://tc39.es/proposal-top-level-await/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
 - [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/)
@@ -106,7 +152,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 84 specifications found
+=> 76 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -782,7 +828,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Background Fetch](https://wicg.github.io/background-fetch/) links to:
     * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
-- [Badging API](https://w3c.github.io/badging/) links to [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/) but does not list it in its references
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html) links to:
     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but does not list it in its references
@@ -827,6 +872,12 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to:
     * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1370,6 +1421,9 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but does not list it in its references
     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/) links to:
+    * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/) but does not list it in its references
+    * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [File API](https://w3c.github.io/FileAPI/) links to [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/) but does not list it in its references
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
@@ -1641,7 +1695,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 739 missing references for links found in 199 specifications
+=> 745 missing references for links found in 200 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1698,6 +1752,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -2065,7 +2123,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 343 inconsistent references for links found in 182 specifications
+=> 346 inconsistent references for links found in 183 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2134,6 +2192,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
      * [`https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check`](https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check)
      * [`https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch`](https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -2436,6 +2496,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Digital Goods API](https://wicg.github.io/digital-goods/):
      * [`https://www.w3.org/TR/payment-request/#dfn-payment-permission`](https://www.w3.org/TR/payment-request/#dfn-payment-permission)
      * [`https://www.w3.org/TR/payment-request/#dfn-check-and-canonicalize-amount`](https://www.w3.org/TR/payment-request/#dfn-check-and-canonicalize-amount)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/):
+     * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
 - [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
      * [`https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry`](https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry)
@@ -3109,7 +3171,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 832 problematic external links found in 204 specifications
+=> 834 problematic external links found in 206 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3422,8 +3484,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-label`](https://www.w3.org/TR/wai-aria-1.2/#aria-label)
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
-     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://drafts.csswg.org/css2/#block-boxes%E2%91%A0`](https://drafts.csswg.org/css2/#block-boxes%E2%91%A0)
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
@@ -3999,7 +4059,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 829 problematic external links found in 55 specifications
+=> 828 problematic external links found in 54 specifications
 
 
 ## Broken external links
@@ -4706,6 +4766,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#coep-require-corp`](https://html.spec.whatwg.org/#coep-require-corp)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
      * [`https://drafts.csswg.org/web-animations#timing-function`](https://drafts.csswg.org/web-animations#timing-function)
      * [`https://drafts.csswg.org/web-animations#current-time`](https://drafts.csswg.org/web-animations#current-time)
@@ -5317,6 +5379,153 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://www.w3.org/TR/secure-contexts/#secure-context`](https://www.w3.org/TR/secure-contexts/#secure-context)
      * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/):
+     * [`https://www.w3.org/TR/epub-33/#dfn-epub-publication`](https://www.w3.org/TR/epub-33/#dfn-epub-publication)
+     * [`https://www.w3.org/TR/epub-33/#sec-terminology`](https://www.w3.org/TR/epub-33/#sec-terminology)
+     * [`https://www.w3.org/TR/epub-33/#dfn-viewport`](https://www.w3.org/TR/epub-33/#dfn-viewport)
+     * [`https://www.w3.org/TR/epub-33/#dfn-epub-content-document`](https://www.w3.org/TR/epub-33/#dfn-epub-content-document)
+     * [`https://www.w3.org/TR/epub-33/#dfn-epub-reading-system`](https://www.w3.org/TR/epub-33/#dfn-epub-reading-system)
+     * [`https://www.w3.org/TR/epub-33/#dfn-synthetic-spread`](https://www.w3.org/TR/epub-33/#dfn-synthetic-spread)
+     * [`https://www.w3.org/TR/epub-33/#sec-publication-resources`](https://www.w3.org/TR/epub-33/#sec-publication-resources)
+     * [`https://www.w3.org/TR/epub-33/#dfn-foreign-resource`](https://www.w3.org/TR/epub-33/#dfn-foreign-resource)
+     * [`https://www.w3.org/TR/epub-33/#sec-foreign-restrictions`](https://www.w3.org/TR/epub-33/#sec-foreign-restrictions)
+     * [`https://www.w3.org/TR/epub-33/#dfn-remote-resource`](https://www.w3.org/TR/epub-33/#dfn-remote-resource)
+     * [`https://www.w3.org/TR/epub-33/#sec-resource-locations`](https://www.w3.org/TR/epub-33/#sec-resource-locations)
+     * [`https://www.w3.org/TR/epub-33/#dfn-top-level-content-document`](https://www.w3.org/TR/epub-33/#dfn-top-level-content-document)
+     * [`https://www.w3.org/TR/epub-33/#cmt-grp-image`](https://www.w3.org/TR/epub-33/#cmt-grp-image)
+     * [`https://www.w3.org/TR/epub-33/#cmt-grp-audio`](https://www.w3.org/TR/epub-33/#cmt-grp-audio)
+     * [`https://www.w3.org/TR/epub-33/#dfn-publication-resource`](https://www.w3.org/TR/epub-33/#dfn-publication-resource)
+     * [`https://www.w3.org/TR/epub-33/#dfn-package-document`](https://www.w3.org/TR/epub-33/#dfn-package-document)
+     * [`https://www.w3.org/TR/epub-33/#dfn-xhtml-content-document`](https://www.w3.org/TR/epub-33/#dfn-xhtml-content-document)
+     * [`https://www.w3.org/TR/epub-33/#dfn-svg-content-document`](https://www.w3.org/TR/epub-33/#dfn-svg-content-document)
+     * [`https://www.w3.org/TR/epub-33/#dfn-media-overlay-document`](https://www.w3.org/TR/epub-33/#dfn-media-overlay-document)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-dir`](https://www.w3.org/TR/epub-33/#attrdef-dir)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-xml-lang`](https://www.w3.org/TR/epub-33/#attrdef-xml-lang)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-hreflang`](https://www.w3.org/TR/epub-33/#attrdef-hreflang)
+     * [`https://www.w3.org/TR/epub-33/#sec-link-elem`](https://www.w3.org/TR/epub-33/#sec-link-elem)
+     * [`https://www.w3.org/TR/epub-33/#sec-opf-dclanguage`](https://www.w3.org/TR/epub-33/#sec-opf-dclanguage)
+     * [`https://www.w3.org/TR/epub-33/#dfn-scripted-content-document`](https://www.w3.org/TR/epub-33/#dfn-scripted-content-document)
+     * [`https://www.w3.org/TR/epub-33/#sec-package-doc`](https://www.w3.org/TR/epub-33/#sec-package-doc)
+     * [`https://www.w3.org/TR/epub-33/#dfn-unique-identifier`](https://www.w3.org/TR/epub-33/#dfn-unique-identifier)
+     * [`https://www.w3.org/TR/epub-33/#sec-meta-elem`](https://www.w3.org/TR/epub-33/#sec-meta-elem)
+     * [`https://www.w3.org/TR/epub-33/#dfn-value`](https://www.w3.org/TR/epub-33/#dfn-value)
+     * [`https://www.w3.org/TR/epub-33/#sec-opf-dcidentifier`](https://www.w3.org/TR/epub-33/#sec-opf-dcidentifier)
+     * [`https://www.w3.org/TR/epub-33/#identifier-type`](https://www.w3.org/TR/epub-33/#identifier-type)
+     * [`https://www.w3.org/TR/epub-33/#sec-opf-dctitle`](https://www.w3.org/TR/epub-33/#sec-opf-dctitle)
+     * [`https://www.w3.org/TR/epub-33/#sec-opf-dccreator`](https://www.w3.org/TR/epub-33/#sec-opf-dccreator)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-meta-property`](https://www.w3.org/TR/epub-33/#attrdef-meta-property)
+     * [`https://www.w3.org/TR/epub-33/#property.ebnf.prefix`](https://www.w3.org/TR/epub-33/#property.ebnf.prefix)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-scheme`](https://www.w3.org/TR/epub-33/#attrdef-scheme)
+     * [`https://www.w3.org/TR/epub-33/#record`](https://www.w3.org/TR/epub-33/#record)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-link-rel`](https://www.w3.org/TR/epub-33/#attrdef-link-rel)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-properties`](https://www.w3.org/TR/epub-33/#attrdef-properties)
+     * [`https://www.w3.org/TR/epub-33/#sec-item-resource-properties`](https://www.w3.org/TR/epub-33/#sec-item-resource-properties)
+     * [`https://www.w3.org/TR/epub-33/#dfn-linked-resource`](https://www.w3.org/TR/epub-33/#dfn-linked-resource)
+     * [`https://www.w3.org/TR/epub-33/#sec-manifest-fallbacks`](https://www.w3.org/TR/epub-33/#sec-manifest-fallbacks)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-item-properties`](https://www.w3.org/TR/epub-33/#attrdef-item-properties)
+     * [`https://www.w3.org/TR/epub-33/#sec-spine-elem`](https://www.w3.org/TR/epub-33/#sec-spine-elem)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-itemref-linear`](https://www.w3.org/TR/epub-33/#attrdef-itemref-linear)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-spine-page-progression-direction`](https://www.w3.org/TR/epub-33/#attrdef-spine-page-progression-direction)
+     * [`https://www.w3.org/TR/epub-33/#sec-itemref-elem`](https://www.w3.org/TR/epub-33/#sec-itemref-elem)
+     * [`https://www.w3.org/TR/epub-33/#app-rendering-vocab`](https://www.w3.org/TR/epub-33/#app-rendering-vocab)
+     * [`https://www.w3.org/TR/epub-33/#layout-overrides`](https://www.w3.org/TR/epub-33/#layout-overrides)
+     * [`https://www.w3.org/TR/epub-33/#sec-collection-elem`](https://www.w3.org/TR/epub-33/#sec-collection-elem)
+     * [`https://www.w3.org/TR/epub-33/#sec-contentdocs`](https://www.w3.org/TR/epub-33/#sec-contentdocs)
+     * [`https://www.w3.org/TR/epub-33/#sec-css-req`](https://www.w3.org/TR/epub-33/#sec-css-req)
+     * [`https://www.w3.org/TR/epub-33/#sec-xhtml`](https://www.w3.org/TR/epub-33/#sec-xhtml)
+     * [`https://www.w3.org/TR/epub-33/#deprecated`](https://www.w3.org/TR/epub-33/#deprecated)
+     * [`https://www.w3.org/TR/epub-33/#sec-svg`](https://www.w3.org/TR/epub-33/#sec-svg)
+     * [`https://www.w3.org/TR/epub-33/#sec-css`](https://www.w3.org/TR/epub-33/#sec-css)
+     * [`https://www.w3.org/TR/epub-33/#sec-css-prefixed`](https://www.w3.org/TR/epub-33/#sec-css-prefixed)
+     * [`https://www.w3.org/TR/epub-33/#dfn-epub-creator`](https://www.w3.org/TR/epub-33/#dfn-epub-creator)
+     * [`https://www.w3.org/TR/epub-33/#sec-scripted-content`](https://www.w3.org/TR/epub-33/#sec-scripted-content)
+     * [`https://www.w3.org/TR/epub-33/#sec-scripted-container-constrained`](https://www.w3.org/TR/epub-33/#sec-scripted-container-constrained)
+     * [`https://www.w3.org/TR/epub-33/#sec-scripted-spine`](https://www.w3.org/TR/epub-33/#sec-scripted-spine)
+     * [`https://www.w3.org/TR/epub-33/#sec-fixed-layouts`](https://www.w3.org/TR/epub-33/#sec-fixed-layouts)
+     * [`https://www.w3.org/TR/epub-33/#flow-scrolled-doc`](https://www.w3.org/TR/epub-33/#flow-scrolled-doc)
+     * [`https://www.w3.org/TR/epub-33/#flow-scrolled-continuous`](https://www.w3.org/TR/epub-33/#flow-scrolled-continuous)
+     * [`https://www.w3.org/TR/epub-33/#confreq-cd-scripted-flbk`](https://www.w3.org/TR/epub-33/#confreq-cd-scripted-flbk)
+     * [`https://www.w3.org/TR/epub-33/#sec-nav`](https://www.w3.org/TR/epub-33/#sec-nav)
+     * [`https://www.w3.org/TR/epub-33/#confreq-nav-a`](https://www.w3.org/TR/epub-33/#confreq-nav-a)
+     * [`https://www.w3.org/TR/epub-33/#sec-nav-toc`](https://www.w3.org/TR/epub-33/#sec-nav-toc)
+     * [`https://www.w3.org/TR/epub-33/#sec-nav-pagelist`](https://www.w3.org/TR/epub-33/#sec-nav-pagelist)
+     * [`https://www.w3.org/TR/epub-33/#sec-nav-landmarks`](https://www.w3.org/TR/epub-33/#sec-nav-landmarks)
+     * [`https://www.w3.org/TR/epub-33/#sec-nav-def-types-other`](https://www.w3.org/TR/epub-33/#sec-nav-def-types-other)
+     * [`https://www.w3.org/TR/epub-33/#layout`](https://www.w3.org/TR/epub-33/#layout)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-opf-metadata`](https://www.w3.org/TR/epub-33/#elemdef-opf-metadata)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-spine-itemref`](https://www.w3.org/TR/epub-33/#elemdef-spine-itemref)
+     * [`https://www.w3.org/TR/epub-33/#orientation`](https://www.w3.org/TR/epub-33/#orientation)
+     * [`https://www.w3.org/TR/epub-33/#spread`](https://www.w3.org/TR/epub-33/#spread)
+     * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-left`](https://www.w3.org/TR/epub-33/#fxl-page-spread-left)
+     * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-right`](https://www.w3.org/TR/epub-33/#fxl-page-spread-right)
+     * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-center`](https://www.w3.org/TR/epub-33/#fxl-page-spread-center)
+     * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-html`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-html)
+     * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg)
+     * [`https://www.w3.org/TR/epub-33/#dfn-fixed-layout-document`](https://www.w3.org/TR/epub-33/#dfn-fixed-layout-document)
+     * [`https://www.w3.org/TR/epub-33/#sec-rendering-general`](https://www.w3.org/TR/epub-33/#sec-rendering-general)
+     * [`https://www.w3.org/TR/epub-33/#layout-property-flow-overrides`](https://www.w3.org/TR/epub-33/#layout-property-flow-overrides)
+     * [`https://www.w3.org/TR/epub-33/#def-layout-pre-paginated`](https://www.w3.org/TR/epub-33/#def-layout-pre-paginated)
+     * [`https://www.w3.org/TR/epub-33/#sec-ocf`](https://www.w3.org/TR/epub-33/#sec-ocf)
+     * [`https://www.w3.org/TR/epub-33/#dfn-root-directory`](https://www.w3.org/TR/epub-33/#dfn-root-directory)
+     * [`https://www.w3.org/TR/epub-33/#dfn-ocf-abstract-container`](https://www.w3.org/TR/epub-33/#dfn-ocf-abstract-container)
+     * [`https://www.w3.org/TR/epub-33/#dfn-container-root-url`](https://www.w3.org/TR/epub-33/#dfn-container-root-url)
+     * [`https://www.w3.org/TR/epub-33/#dfn-content-url`](https://www.w3.org/TR/epub-33/#dfn-content-url)
+     * [`https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints`](https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints)
+     * [`https://www.w3.org/TR/epub-33/#sec-parsing-urls-metainf`](https://www.w3.org/TR/epub-33/#sec-parsing-urls-metainf)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-filenames`](https://www.w3.org/TR/epub-33/#sec-container-filenames)
+     * [`https://www.w3.org/TR/epub-33/#sec-container.xml-rootfile-elem`](https://www.w3.org/TR/epub-33/#sec-container.xml-rootfile-elem)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-metadata.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-metadata.xml)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-manifest.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-manifest.xml)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-files`](https://www.w3.org/TR/epub-33/#sec-container-metainf-files)
+     * [`https://www.w3.org/TR/epub-33/#sec-font-obfuscation`](https://www.w3.org/TR/epub-33/#sec-font-obfuscation)
+     * [`https://www.w3.org/TR/epub-33/#sec-media-overlays`](https://www.w3.org/TR/epub-33/#sec-media-overlays)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay`](https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay)
+     * [`https://www.w3.org/TR/epub-33/#dfn-manifest`](https://www.w3.org/TR/epub-33/#dfn-manifest)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-package-item`](https://www.w3.org/TR/epub-33/#elemdef-package-item)
+     * [`https://www.w3.org/TR/epub-33/#dfn-spine`](https://www.w3.org/TR/epub-33/#dfn-spine)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-smil-body`](https://www.w3.org/TR/epub-33/#elemdef-smil-body)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-smil-seq`](https://www.w3.org/TR/epub-33/#elemdef-smil-seq)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-smil-par`](https://www.w3.org/TR/epub-33/#elemdef-smil-par)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-smil-audio`](https://www.w3.org/TR/epub-33/#elemdef-smil-audio)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-smil-clipBegin`](https://www.w3.org/TR/epub-33/#attrdef-smil-clipBegin)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-smil-clipEnd`](https://www.w3.org/TR/epub-33/#attrdef-smil-clipEnd)
+     * [`https://www.w3.org/TR/epub-33/#elemdef-smil-text`](https://www.w3.org/TR/epub-33/#elemdef-smil-text)
+     * [`https://www.w3.org/TR/epub-33/#active-class`](https://www.w3.org/TR/epub-33/#active-class)
+     * [`https://www.w3.org/TR/epub-33/#playback-active-class`](https://www.w3.org/TR/epub-33/#playback-active-class)
+     * [`https://www.w3.org/TR/epub-33/#sec-docs-assoc-style`](https://www.w3.org/TR/epub-33/#sec-docs-assoc-style)
+     * [`https://www.w3.org/TR/epub-33/#sec-media-overlays-fragids`](https://www.w3.org/TR/epub-33/#sec-media-overlays-fragids)
+     * [`https://www.w3.org/TR/epub-33/#dfn-epub-navigation-document`](https://www.w3.org/TR/epub-33/#dfn-epub-navigation-document)
+     * [`https://www.w3.org/TR/epub-33/#sec-mo-nav-doc`](https://www.w3.org/TR/epub-33/#sec-mo-nav-doc)
+     * [`https://www.w3.org/TR/epub-33/#duration`](https://www.w3.org/TR/epub-33/#duration)
+     * [`https://www.w3.org/TR/epub-33/#app-structural-semantics`](https://www.w3.org/TR/epub-33/#app-structural-semantics)
+     * [`https://www.w3.org/TR/epub-33/#sec-epub-type-attribute`](https://www.w3.org/TR/epub-33/#sec-epub-type-attribute)
+     * [`https://www.w3.org/TR/epub-33/#sec-vocab-assoc`](https://www.w3.org/TR/epub-33/#sec-vocab-assoc)
+     * [`https://www.w3.org/TR/epub-33/#sec-reserved-prefixes`](https://www.w3.org/TR/epub-33/#sec-reserved-prefixes)
+     * [`https://www.w3.org/TR/epub-33/#sec-property-datatype`](https://www.w3.org/TR/epub-33/#sec-property-datatype)
+     * [`https://www.w3.org/TR/epub-33/#sec-default-vocab`](https://www.w3.org/TR/epub-33/#sec-default-vocab)
+     * [`https://www.w3.org/TR/epub-33/#attrdef-package-version`](https://www.w3.org/TR/epub-33/#attrdef-package-version)
+     * [`https://www.w3.org/TR/epub-33/#confreq-nav-a-title`](https://www.w3.org/TR/epub-33/#confreq-nav-a-title)
+     * [`https://www.w3.org/TR/epub-33/#sec-security-privacy`](https://www.w3.org/TR/epub-33/#sec-security-privacy)
+     * [`https://www.w3.org/TR/epub-33/#epub-threat-model`](https://www.w3.org/TR/epub-33/#epub-threat-model)
+     * [`https://www.w3.org/TR/epub-33/#app-media-type-app-oebps-package`](https://www.w3.org/TR/epub-33/#app-media-type-app-oebps-package)
+     * [`https://www.w3.org/TR/epub-33/#app-media-type`](https://www.w3.org/TR/epub-33/#app-media-type)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
+     * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)
+     * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+     * [`https://html.spec.whatwg.org/#rendering`](https://html.spec.whatwg.org/#rendering)
+     * [`https://html.spec.whatwg.org/#the-navigator-object`](https://html.spec.whatwg.org/#the-navigator-object)
+     * [`https://html.spec.whatwg.org/#dom-document-cookie`](https://html.spec.whatwg.org/#dom-document-cookie)
+     * [`https://html.spec.whatwg.org/#webstorage`](https://html.spec.whatwg.org/#webstorage)
+     * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
+     * [`https://html.spec.whatwg.org/#the-video-element`](https://html.spec.whatwg.org/#the-video-element)
+     * [`https://html.spec.whatwg.org/#the-audio-element`](https://html.spec.whatwg.org/#the-audio-element)
+     * [`https://html.spec.whatwg.org/#attr-media-controls`](https://html.spec.whatwg.org/#attr-media-controls)
+     * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
+     * [`https://html.spec.whatwg.org/#the-end`](https://html.spec.whatwg.org/#the-end)
 - [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://w3c.github.io/hr-time/#dfn-performance`](https://w3c.github.io/hr-time/#dfn-performance)
      * [`https://html.spec.whatwg.org/#event-dnd-dragstart`](https://html.spec.whatwg.org/#event-dnd-dragstart)
@@ -7820,6 +8029,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-origin-port`](https://html.spec.whatwg.org/#concept-origin-port)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+- [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/):
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/):
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
@@ -9192,7 +9403,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4887 problematic external links found in 300 specifications
+=> 5035 problematic external links found in 303 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9240,9 +9451,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
-     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
-     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
@@ -9314,7 +9522,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 59 problematic external links found in 51 specifications
+=> 57 problematic external links found in 50 specifications
 
 
 ## External links that use a dated URL
@@ -9332,6 +9540,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -9569,7 +9782,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 187 problematic external links found in 62 specifications
+=> 191 problematic external links found in 63 specifications
 
 
 

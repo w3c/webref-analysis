@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-11T06:37:57.974Z",
+  "date": "2022-04-11T08:28:15.084Z",
   "stats": {
-    "crawled": 472,
-    "errors": 1,
-    "studied": 472
+    "crawled": 467,
+    "errors": 2,
+    "studied": 467
   },
   "results": [
     {
@@ -496,46 +496,6 @@
       }
     },
     {
-      "title": "Accessible `Object.hasOwnProperty`",
-      "shortname": "tc39-accessible-object-hasownproperty",
-      "date": "31 August 2021",
-      "url": "https://tc39.es/proposal-accessible-object-hasownproperty/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-accessible-object-hasownproperty/",
-        "repository": "https://github.com/tc39/proposal-accessible-object-hasownproperty",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-accessible-object-hasownproperty/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
       "date": "21 March 2022",
@@ -889,7 +849,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -1666,9 +1626,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://webidl.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -1992,6 +1950,46 @@
       }
     },
     {
+      "title": "Change Array by copy",
+      "shortname": "tc39-change-array-by-copy",
+      "date": "3 April 2022",
+      "url": "https://tc39.es/proposal-change-array-by-copy/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-change-array-by-copy/",
+        "repository": "https://github.com/tc39/proposal-change-array-by-copy",
+        "sourcePath": "spec.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-change-array-by-copy/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Clear Site Data",
       "shortname": "clear-site-data",
       "date": "18 February 2021",
@@ -2190,7 +2188,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -3426,7 +3424,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -4766,6 +4764,11 @@
               "crawled": "https://drafts.csswg.org/css-syntax/"
             },
             {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
               "url": "https://www.w3.org/TR/uievents/",
               "title": "UI Events",
               "crawled": "https://w3c.github.io/uievents/"
@@ -4845,7 +4848,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 331)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10751,6 +10753,11 @@
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -21060,6 +21067,53 @@
       }
     },
     {
+      "title": "Decorators proposal",
+      "shortname": "tc39-decorators",
+      "date": "7 February 2019",
+      "url": "https://tc39.es/proposal-decorators/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-decorators/",
+        "repository": "https://github.com/tc39/proposal-decorators",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-decorators/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Deprecation Reporting",
       "shortname": "deprecation-reporting",
       "date": "28 September 2020",
@@ -21910,6 +21964,11 @@
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
             {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
               "url": "https://w3c.github.io/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing/"
@@ -22200,7 +22259,7 @@
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-region/",
+              "url": "https://www.w3.org/TR/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
             },
@@ -22723,54 +22782,6 @@
           "outdatedSpecs": [
             "https://www.w3.org/TR/html5/"
           ],
-          "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "ECMAScript class static initialization blocks",
-      "shortname": "tc39-class-static-block",
-      "date": "31 August 2021",
-      "url": "https://tc39.es/proposal-class-static-block/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-class-static-block/",
-        "repository": "https://github.com/tc39/proposal-class-static-block",
-        "sourcePath": "spec/index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-class-static-block/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
           "datedUrls": []
         },
         "ok": false
@@ -23758,25 +23769,34 @@
       }
     },
     {
-      "title": "Error Cause",
-      "shortname": "tc39-error-cause",
-      "date": "26 October 2021",
-      "url": "https://tc39.es/proposal-error-cause/",
+      "title": "EPUB 3.3",
+      "shortname": "epub-33",
+      "url": "https://www.w3.org/TR/epub-33/",
+      "release": {
+        "url": "https://www.w3.org/TR/epub-33/",
+        "filename": "Overview.html"
+      },
       "nightly": {
-        "url": "https://tc39.es/proposal-error-cause/",
-        "repository": "https://github.com/tc39/proposal-error-cause",
-        "sourcePath": "index.html",
+        "url": "https://w3c.github.io/epub-specs/epub33/core/",
+        "sourcePath": "epub33/core/index.html",
+        "repository": "https://github.com/w3c/epub-specs",
         "filename": "index.html"
       },
-      "crawled": "https://tc39.es/proposal-error-cause/",
-      "organization": "Ecma International",
+      "crawled": {
+        "url": "https://w3c.github.io/epub-specs/epub33/core/",
+        "sourcePath": "epub33/core/index.html",
+        "repository": "https://github.com/w3c/epub-specs",
+        "filename": "index.html"
+      },
+      "organization": "W3C",
       "groups": [
         {
-          "name": "TC39",
-          "url": "https://tc39.es/"
+          "name": "EPUB 3 Working Group",
+          "url": "https://www.w3.org/publishing/groups/epub-wg/"
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: TypeError: Cannot read properties of null (reading 'textContent')\n    at https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:61:58\n    at Array.map (<anonymous>)\n    at extractTableDfn (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:55:6)\n    at Array.map (<anonymous>)\n    at extractDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:137:6)\n    at extractTableDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:168:3)\n    at Object.default [as extractCssdfn] (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:15:17)\n    at __puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at __puppeteer_evaluation_script__:7:25 Error: Evaluation failed: TypeError: Cannot read properties of null (reading 'textContent')\n    at https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:61:58\n    at Array.map (<anonymous>)\n    at extractTableDfn (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:55:6)\n    at Array.map (<anonymous>)\n    at extractDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:137:6)\n    at extractTableDfns (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:168:3)\n    at Object.default [as extractCssdfn] (https://w3c.github.io/epub-specs/epub33/core/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:15:17)\n    at __puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at __puppeteer_evaluation_script__:7:25\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:658:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 333)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23791,8 +23811,219 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "EPUB Reading Systems 3.3",
+      "shortname": "epub-rs-33",
+      "date": "09 April 2022",
+      "url": "https://www.w3.org/TR/epub-rs-33/",
+      "release": {
+        "url": "https://www.w3.org/TR/epub-rs-33/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/epub-specs/epub33/rs/",
+        "sourcePath": "epub33/rs/index.html",
+        "repository": "https://github.com/w3c/epub-specs",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/epub-specs/epub33/rs/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "EPUB 3 Working Group",
+          "url": "https://www.w3.org/publishing/groups/epub-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/epub-tests/",
+          "https://fetch.spec.whatwg.org/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://url.spec.whatwg.org/#concept-base-url"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://www.w3.org/TR/epub-33/#dfn-epub-publication",
+            "https://www.w3.org/TR/epub-33/#sec-terminology",
+            "https://www.w3.org/TR/epub-33/#dfn-viewport",
+            "https://www.w3.org/TR/epub-33/#dfn-epub-content-document",
+            "https://www.w3.org/TR/epub-33/#dfn-epub-reading-system",
+            "https://www.w3.org/TR/epub-33/#dfn-synthetic-spread",
+            "https://www.w3.org/TR/epub-33/#sec-publication-resources",
+            "https://www.w3.org/TR/epub-33/#dfn-foreign-resource",
+            "https://www.w3.org/TR/epub-33/#sec-foreign-restrictions",
+            "https://www.w3.org/TR/epub-33/#dfn-remote-resource",
+            "https://www.w3.org/TR/epub-33/#sec-resource-locations",
+            "https://www.w3.org/TR/epub-33/#dfn-top-level-content-document",
+            "https://www.w3.org/TR/epub-33/#cmt-grp-image",
+            "https://www.w3.org/TR/epub-33/#cmt-grp-audio",
+            "https://www.w3.org/TR/epub-33/#dfn-publication-resource",
+            "https://www.w3.org/TR/epub-33/#dfn-package-document",
+            "https://www.w3.org/TR/epub-33/#dfn-xhtml-content-document",
+            "https://www.w3.org/TR/epub-33/#dfn-svg-content-document",
+            "https://www.w3.org/TR/epub-33/#dfn-media-overlay-document",
+            "https://www.w3.org/TR/epub-33/#attrdef-dir",
+            "https://www.w3.org/TR/epub-33/#attrdef-xml-lang",
+            "https://www.w3.org/TR/epub-33/#attrdef-hreflang",
+            "https://www.w3.org/TR/epub-33/#sec-link-elem",
+            "https://www.w3.org/TR/epub-33/#sec-opf-dclanguage",
+            "https://www.w3.org/TR/epub-33/#dfn-scripted-content-document",
+            "https://www.w3.org/TR/epub-33/#sec-package-doc",
+            "https://www.w3.org/TR/epub-33/#dfn-unique-identifier",
+            "https://www.w3.org/TR/epub-33/#sec-meta-elem",
+            "https://www.w3.org/TR/epub-33/#dfn-value",
+            "https://www.w3.org/TR/epub-33/#sec-opf-dcidentifier",
+            "https://www.w3.org/TR/epub-33/#identifier-type",
+            "https://www.w3.org/TR/epub-33/#sec-opf-dctitle",
+            "https://www.w3.org/TR/epub-33/#sec-opf-dccreator",
+            "https://www.w3.org/TR/epub-33/#attrdef-meta-property",
+            "https://www.w3.org/TR/epub-33/#property.ebnf.prefix",
+            "https://www.w3.org/TR/epub-33/#attrdef-scheme",
+            "https://www.w3.org/TR/epub-33/#record",
+            "https://www.w3.org/TR/epub-33/#attrdef-link-rel",
+            "https://www.w3.org/TR/epub-33/#attrdef-properties",
+            "https://www.w3.org/TR/epub-33/#sec-item-resource-properties",
+            "https://www.w3.org/TR/epub-33/#dfn-linked-resource",
+            "https://www.w3.org/TR/epub-33/#sec-manifest-fallbacks",
+            "https://www.w3.org/TR/epub-33/#attrdef-item-properties",
+            "https://www.w3.org/TR/epub-33/#sec-spine-elem",
+            "https://www.w3.org/TR/epub-33/#attrdef-itemref-linear",
+            "https://www.w3.org/TR/epub-33/#attrdef-spine-page-progression-direction",
+            "https://www.w3.org/TR/epub-33/#sec-itemref-elem",
+            "https://www.w3.org/TR/epub-33/#app-rendering-vocab",
+            "https://www.w3.org/TR/epub-33/#layout-overrides",
+            "https://www.w3.org/TR/epub-33/#sec-collection-elem",
+            "https://www.w3.org/TR/epub-33/#sec-contentdocs",
+            "https://www.w3.org/TR/epub-33/#sec-css-req",
+            "https://www.w3.org/TR/epub-33/#sec-xhtml",
+            "https://www.w3.org/TR/epub-33/#deprecated",
+            "https://www.w3.org/TR/epub-33/#sec-svg",
+            "https://www.w3.org/TR/epub-33/#sec-css",
+            "https://www.w3.org/TR/epub-33/#sec-css-prefixed",
+            "https://www.w3.org/TR/epub-33/#dfn-epub-creator",
+            "https://www.w3.org/TR/epub-33/#sec-scripted-content",
+            "https://www.w3.org/TR/epub-33/#sec-scripted-container-constrained",
+            "https://www.w3.org/TR/epub-33/#sec-scripted-spine",
+            "https://www.w3.org/TR/epub-33/#sec-fixed-layouts",
+            "https://www.w3.org/TR/epub-33/#flow-scrolled-doc",
+            "https://www.w3.org/TR/epub-33/#flow-scrolled-continuous",
+            "https://www.w3.org/TR/epub-33/#confreq-cd-scripted-flbk",
+            "https://www.w3.org/TR/epub-33/#sec-nav",
+            "https://www.w3.org/TR/epub-33/#confreq-nav-a",
+            "https://www.w3.org/TR/epub-33/#sec-nav-toc",
+            "https://www.w3.org/TR/epub-33/#sec-nav-pagelist",
+            "https://www.w3.org/TR/epub-33/#sec-nav-landmarks",
+            "https://www.w3.org/TR/epub-33/#sec-nav-def-types-other",
+            "https://www.w3.org/TR/epub-33/#layout",
+            "https://www.w3.org/TR/epub-33/#elemdef-opf-metadata",
+            "https://www.w3.org/TR/epub-33/#elemdef-spine-itemref",
+            "https://www.w3.org/TR/epub-33/#orientation",
+            "https://www.w3.org/TR/epub-33/#spread",
+            "https://www.w3.org/TR/epub-33/#fxl-page-spread-left",
+            "https://www.w3.org/TR/epub-33/#fxl-page-spread-right",
+            "https://www.w3.org/TR/epub-33/#fxl-page-spread-center",
+            "https://www.w3.org/TR/epub-33/#sec-fxl-icb-html",
+            "https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg",
+            "https://www.w3.org/TR/epub-33/#dfn-fixed-layout-document",
+            "https://www.w3.org/TR/epub-33/#sec-rendering-general",
+            "https://www.w3.org/TR/epub-33/#layout-property-flow-overrides",
+            "https://www.w3.org/TR/epub-33/#def-layout-pre-paginated",
+            "https://www.w3.org/TR/epub-33/#sec-ocf",
+            "https://www.w3.org/TR/epub-33/#dfn-root-directory",
+            "https://www.w3.org/TR/epub-33/#dfn-ocf-abstract-container",
+            "https://www.w3.org/TR/epub-33/#dfn-container-root-url",
+            "https://www.w3.org/TR/epub-33/#dfn-content-url",
+            "https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints",
+            "https://www.w3.org/TR/epub-33/#sec-parsing-urls-metainf",
+            "https://www.w3.org/TR/epub-33/#sec-container-filenames",
+            "https://www.w3.org/TR/epub-33/#sec-container.xml-rootfile-elem",
+            "https://www.w3.org/TR/epub-33/#sec-container-metainf-metadata.xml",
+            "https://www.w3.org/TR/epub-33/#sec-container-metainf-manifest.xml",
+            "https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml",
+            "https://www.w3.org/TR/epub-33/#sec-container-metainf-files",
+            "https://www.w3.org/TR/epub-33/#sec-font-obfuscation",
+            "https://www.w3.org/TR/epub-33/#sec-media-overlays",
+            "https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay",
+            "https://www.w3.org/TR/epub-33/#dfn-manifest",
+            "https://www.w3.org/TR/epub-33/#elemdef-package-item",
+            "https://www.w3.org/TR/epub-33/#dfn-spine",
+            "https://www.w3.org/TR/epub-33/#elemdef-smil-body",
+            "https://www.w3.org/TR/epub-33/#elemdef-smil-seq",
+            "https://www.w3.org/TR/epub-33/#elemdef-smil-par",
+            "https://www.w3.org/TR/epub-33/#elemdef-smil-audio",
+            "https://www.w3.org/TR/epub-33/#attrdef-smil-clipBegin",
+            "https://www.w3.org/TR/epub-33/#attrdef-smil-clipEnd",
+            "https://www.w3.org/TR/epub-33/#elemdef-smil-text",
+            "https://www.w3.org/TR/epub-33/#active-class",
+            "https://www.w3.org/TR/epub-33/#playback-active-class",
+            "https://www.w3.org/TR/epub-33/#sec-docs-assoc-style",
+            "https://www.w3.org/TR/epub-33/#sec-media-overlays-fragids",
+            "https://www.w3.org/TR/epub-33/#dfn-epub-navigation-document",
+            "https://www.w3.org/TR/epub-33/#sec-mo-nav-doc",
+            "https://www.w3.org/TR/epub-33/#duration",
+            "https://www.w3.org/TR/epub-33/#app-structural-semantics",
+            "https://www.w3.org/TR/epub-33/#sec-epub-type-attribute",
+            "https://www.w3.org/TR/epub-33/#sec-vocab-assoc",
+            "https://www.w3.org/TR/epub-33/#sec-reserved-prefixes",
+            "https://www.w3.org/TR/epub-33/#sec-property-datatype",
+            "https://www.w3.org/TR/epub-33/#sec-default-vocab",
+            "https://www.w3.org/TR/epub-33/#attrdef-package-version",
+            "https://www.w3.org/TR/epub-33/#confreq-nav-a-title",
+            "https://www.w3.org/TR/epub-33/#sec-security-privacy",
+            "https://www.w3.org/TR/epub-33/#epub-threat-model",
+            "https://www.w3.org/TR/epub-33/#app-media-type-app-oebps-package",
+            "https://www.w3.org/TR/epub-33/#app-media-type",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#the-dir-attribute",
+            "https://html.spec.whatwg.org/#the-head-element",
+            "https://html.spec.whatwg.org/#the-object-element",
+            "https://html.spec.whatwg.org/#the-style-attribute",
+            "https://html.spec.whatwg.org/#rendering",
+            "https://html.spec.whatwg.org/#the-navigator-object",
+            "https://html.spec.whatwg.org/#dom-document-cookie",
+            "https://html.spec.whatwg.org/#webstorage",
+            "https://html.spec.whatwg.org/#dom-localstorage",
+            "https://html.spec.whatwg.org/#the-video-element",
+            "https://html.spec.whatwg.org/#the-audio-element",
+            "https://html.spec.whatwg.org/#attr-media-controls",
+            "https://html.spec.whatwg.org/#navigator",
+            "https://html.spec.whatwg.org/#workernavigator",
+            "https://html.spec.whatwg.org/#the-end"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
         },
         "ok": false
       }
@@ -24741,7 +24972,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -25807,7 +26038,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -25882,7 +26113,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -27478,6 +27709,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 351)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -34320,6 +34552,11 @@
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
             {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
               "url": "https://w3c.github.io/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing/"
@@ -34775,7 +35012,7 @@
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-region/",
+              "url": "https://www.w3.org/TR/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
             },
@@ -34853,6 +35090,11 @@
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
+            },
+            {
+              "url": "https://wicg.github.io/webcrypto-secure-curves/",
+              "title": "Secure Curves in the Web Cryptography API",
+              "crawled": "https://wicg.github.io/webcrypto-secure-curves/"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -36164,7 +36406,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -36451,7 +36693,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -36830,6 +37072,11 @@
               "url": "https://www.w3.org/TR/encoding/",
               "title": "Encoding Standard",
               "crawled": "https://encoding.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
               "url": "https://w3c.github.io/event-timing/",
@@ -37534,7 +37781,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -37684,7 +37931,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -39343,7 +39590,7 @@
               "crawled": "https://wicg.github.io/prefer-current-tab/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-region/",
+              "url": "https://www.w3.org/TR/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
             },
@@ -44024,7 +44271,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -44803,94 +45050,6 @@
       }
     },
     {
-      "title": "Private Fields in `in`",
-      "shortname": "tc39-private-fields-in-in",
-      "date": "14 July 2021",
-      "url": "https://tc39.es/proposal-private-fields-in-in/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-private-fields-in-in/",
-        "repository": "https://github.com/tc39/proposal-private-fields-in-in",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-private-fields-in-in/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Private Methods and Accessors Proposal",
-      "shortname": "tc39-private-methods",
-      "date": "14 April 2021",
-      "url": "https://tc39.es/proposal-private-methods/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-private-methods/",
-        "repository": "https://github.com/tc39/proposal-private-methods",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-private-methods/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Private Network Access",
       "shortname": "private-network-access",
       "date": "23 February 2022",
@@ -45154,54 +45313,6 @@
       }
     },
     {
-      "title": "Public and private instance fields proposal",
-      "shortname": "tc39-class-fields",
-      "date": "14 April 2021",
-      "url": "https://tc39.es/proposal-class-fields/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-class-fields/",
-        "repository": "https://github.com/tc39/proposal-class-fields",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-class-fields/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Push API",
       "shortname": "push-api",
       "date": "23 March 2022",
@@ -45221,7 +45332,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -45514,50 +45625,14 @@
       }
     },
     {
-      "title": "RegExp Match Indices",
-      "shortname": "tc39-regexp-match-indices",
-      "date": "15 January 2021",
-      "url": "https://tc39.es/proposal-regexp-match-indices/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-regexp-match-indices/",
-        "repository": "https://github.com/tc39/proposal-regexp-match-indices",
-        "sourcePath": "spec/index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-regexp-match-indices/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
       "date": "06 April 2022",
-      "url": "https://w3c.github.io/mediacapture-region/",
+      "url": "https://www.w3.org/TR/mediacapture-region/",
+      "release": {
+        "url": "https://www.w3.org/TR/mediacapture-region/",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-region/",
         "repository": "https://github.com/w3c/mediacapture-region",
@@ -45606,46 +45681,6 @@
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Relative Indexing Method",
-      "shortname": "tc39-relative-indexing-method",
-      "date": "24 January 2022",
-      "url": "https://tc39.es/proposal-relative-indexing-method/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-relative-indexing-method/",
-        "repository": "https://github.com/tc39/proposal-relative-indexing-method",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-relative-indexing-method/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
         },
         "ok": false
       }
@@ -46499,6 +46534,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
             {
               "url": "https://www.w3.org/TR/resource-timing-2/",
               "title": "Resource Timing Level 2",
@@ -49292,6 +49332,11 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -49747,7 +49792,7 @@
               "crawled": "https://wicg.github.io/prefer-current-tab/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-region/",
+              "url": "https://www.w3.org/TR/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
             },
@@ -50244,6 +50289,57 @@
       }
     },
     {
+      "title": "Secure Curves in the Web Cryptography API",
+      "shortname": "webcrypto-secure-curves",
+      "date": "31 March 2022",
+      "url": "https://wicg.github.io/webcrypto-secure-curves/",
+      "nightly": {
+        "url": "https://wicg.github.io/webcrypto-secure-curves/",
+        "repository": "https://github.com/WICG/webcrypto-secure-curves",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/webcrypto-secure-curves/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#concept-relevant-global"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
       "date": "7 April 2022",
@@ -50404,7 +50500,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -51310,54 +51406,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Static class features",
-      "shortname": "tc39-static-class-features",
-      "date": "14 April 2021",
-      "url": "https://tc39.es/proposal-static-class-features/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-static-class-features/",
-        "repository": "https://github.com/tc39/proposal-static-class-features",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-static-class-features/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -52463,7 +52511,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -52693,46 +52741,6 @@
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Top-Level Await",
-      "shortname": "tc39-top-level-await",
-      "date": "28 May 2021",
-      "url": "https://tc39.es/proposal-top-level-await/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-top-level-await/",
-        "repository": "https://github.com/tc39/proposal-top-level-await",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-top-level-await/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
         },
         "ok": false
       }
@@ -53095,7 +53103,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -53711,6 +53719,11 @@
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
               "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -54563,6 +54576,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
               "url": "https://www.w3.org/Consortium/Patent-Policy/",
               "title": "W3C Patent Policy",
               "crawled": "https://www.w3.org/Consortium/Patent-Policy/"
@@ -55018,7 +55036,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -55074,7 +55092,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -55729,6 +55747,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/webcrypto-secure-curves/",
+              "title": "Secure Curves in the Web Cryptography API",
+              "crawled": "https://wicg.github.io/webcrypto-secure-curves/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc/",
               "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
@@ -55858,6 +55881,11 @@
               "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
+            },
+            {
+              "url": "https://w3c.github.io/badging/",
+              "title": "Badging API",
+              "crawled": "https://w3c.github.io/badging/"
             },
             {
               "url": "https://www.w3.org/TR/battery-status/",
@@ -56088,6 +56116,11 @@
               "url": "https://www.w3.org/TR/encrypted-media/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
               "url": "https://w3c.github.io/event-timing/",
@@ -56390,7 +56423,7 @@
               "crawled": "https://w3c.github.io/push-api/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-region/",
+              "url": "https://www.w3.org/TR/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
             },
@@ -56438,6 +56471,11 @@
               "url": "https://drafts.csswg.org/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            },
+            {
+              "url": "https://wicg.github.io/webcrypto-secure-curves/",
+              "title": "Secure Curves in the Web Cryptography API",
+              "crawled": "https://wicg.github.io/webcrypto-secure-curves/"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -56822,7 +56860,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -57257,7 +57295,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/2019/webapps/"
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -57462,7 +57500,7 @@
       "groups": [
         {
           "name": "WebAssembly Working Group",
-          "url": "https://www.w3.org/wasm/"
+          "url": "https://www.w3.org/groups/wg/wasm"
         }
       ],
       "report": {
@@ -57518,7 +57556,7 @@
       "groups": [
         {
           "name": "WebAssembly Working Group",
-          "url": "https://www.w3.org/wasm/"
+          "url": "https://www.w3.org/groups/wg/wasm"
         }
       ],
       "report": {
@@ -57675,7 +57713,7 @@
       "groups": [
         {
           "name": "WebAssembly Working Group",
-          "url": "https://www.w3.org/wasm/"
+          "url": "https://www.w3.org/groups/wg/wasm"
         }
       ],
       "report": {
@@ -65934,6 +65972,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
             {
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
