@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-12T06:37:47.241Z",
+  "date": "2022-04-12T12:43:40.338Z",
   "stats": {
     "crawled": 467,
     "errors": 2,
@@ -2745,7 +2745,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "06 April 2022",
+      "date": "12 April 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2774,14 +2774,18 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/picture-in-picture/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://w3c.github.io/picture-in-picture/#initiators-of-active-picture-in-picture-sessions"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#concept-task",
@@ -23836,9 +23840,7 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/epub-tests/",
-          "https://www.w3.org/TR/wcag2/",
-          "https://www.w3.org/TR/geolocation/",
-          "https://www.w3.org/TR/push-api/"
+          "https://www.w3.org/TR/wcag2/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -23982,6 +23984,7 @@
             "https://www.w3.org/TR/epub-33/#cmt-grp-image",
             "https://www.w3.org/TR/epub-33/#cmt-grp-audio",
             "https://www.w3.org/TR/epub-33/#attrdef-hreflang",
+            "https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints",
             "https://www.w3.org/TR/epub-33/#identifier-type",
             "https://www.w3.org/TR/epub-33/#attrdef-meta-property",
             "https://www.w3.org/TR/epub-33/#property.ebnf.prefix",
@@ -24002,7 +24005,6 @@
             "https://www.w3.org/TR/epub-33/#sec-fxl-icb-html",
             "https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg",
             "https://www.w3.org/TR/epub-33/#def-layout-pre-paginated",
-            "https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints",
             "https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay",
             "https://www.w3.org/TR/epub-33/#elemdef-package-item",
             "https://www.w3.org/TR/epub-33/#elemdef-smil-body",
@@ -24020,9 +24022,9 @@
           ],
           "brokenLinks": [
             "https://www.w3.org/TR/epub-33/#sec-foreign-restrictions",
+            "https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml",
             "https://www.w3.org/TR/epub-33/#fxl-page-spread-center",
             "https://www.w3.org/TR/epub-33/#sec-rendering-general",
-            "https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#the-dir-attribute",
             "https://html.spec.whatwg.org/#the-head-element",
@@ -26369,6 +26371,11 @@
         "referencedBy": {
           "normative": [],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
             {
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
@@ -45408,6 +45415,11 @@
           "normative": [],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
@@ -52811,7 +52823,7 @@
     {
       "title": "Touch Events - Level 2",
       "shortname": "touch-events",
-      "date": "08 April 2022",
+      "date": "12 April 2022",
       "url": "https://www.w3.org/TR/touch-events/",
       "release": {
         "url": "https://www.w3.org/TR/touch-events/",

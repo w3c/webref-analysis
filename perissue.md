@@ -841,6 +841,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/) but does not list it in its references
     * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/) but does not list it in its references
     * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/) but does not list it in its references
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/) links to [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/) but does not list it in its references
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to:
     * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
     * [`https://www.w3.org/TR/wai-aria-implementation/`](https://www.w3.org/TR/wai-aria-implementation/) but does not list it in its references
@@ -1394,8 +1395,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/) links to:
     * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/) but does not list it in its references
     * [`https://www.w3.org/TR/wcag2/`](https://www.w3.org/TR/wcag2/) but does not list it in its references
-    * [`https://www.w3.org/TR/geolocation/`](https://www.w3.org/TR/geolocation/) but does not list it in its references
-    * [`https://www.w3.org/TR/push-api/`](https://www.w3.org/TR/push-api/) but does not list it in its references
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/) links to:
     * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/) but does not list it in its references
     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
@@ -1670,7 +1669,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 744 missing references for links found in 200 specifications
+=> 743 missing references for links found in 201 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2154,6 +2153,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/):
      * [`https://drafts.csswg.org/css2/#stacking-context`](https://drafts.csswg.org/css2/#stacking-context)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/):
+     * [`https://w3c.github.io/picture-in-picture/#initiators-of-active-picture-in-picture-sessions`](https://w3c.github.io/picture-in-picture/#initiators-of-active-picture-in-picture-sessions)
 - [Content Index](https://wicg.github.io/content-index/spec/):
      * [`https://w3c.github.io/image-resource/#dfn-src`](https://w3c.github.io/image-resource/#dfn-src)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/):
@@ -3145,7 +3146,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 836 problematic external links found in 206 specifications
+=> 837 problematic external links found in 207 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3452,6 +3453,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/epub-33/#cmt-grp-image`](https://www.w3.org/TR/epub-33/#cmt-grp-image)
      * [`https://www.w3.org/TR/epub-33/#cmt-grp-audio`](https://www.w3.org/TR/epub-33/#cmt-grp-audio)
      * [`https://www.w3.org/TR/epub-33/#attrdef-hreflang`](https://www.w3.org/TR/epub-33/#attrdef-hreflang)
+     * [`https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints`](https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints)
      * [`https://www.w3.org/TR/epub-33/#identifier-type`](https://www.w3.org/TR/epub-33/#identifier-type)
      * [`https://www.w3.org/TR/epub-33/#attrdef-meta-property`](https://www.w3.org/TR/epub-33/#attrdef-meta-property)
      * [`https://www.w3.org/TR/epub-33/#property.ebnf.prefix`](https://www.w3.org/TR/epub-33/#property.ebnf.prefix)
@@ -3472,7 +3474,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-html`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-html)
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg)
      * [`https://www.w3.org/TR/epub-33/#def-layout-pre-paginated`](https://www.w3.org/TR/epub-33/#def-layout-pre-paginated)
-     * [`https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints`](https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints)
      * [`https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay`](https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay)
      * [`https://www.w3.org/TR/epub-33/#elemdef-package-item`](https://www.w3.org/TR/epub-33/#elemdef-package-item)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-body`](https://www.w3.org/TR/epub-33/#elemdef-smil-body)
@@ -5447,9 +5448,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#link-type-alternate`](https://html.spec.whatwg.org/#link-type-alternate)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/):
      * [`https://www.w3.org/TR/epub-33/#sec-foreign-restrictions`](https://www.w3.org/TR/epub-33/#sec-foreign-restrictions)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml)
      * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-center`](https://www.w3.org/TR/epub-33/#fxl-page-spread-center)
      * [`https://www.w3.org/TR/epub-33/#sec-rendering-general`](https://www.w3.org/TR/epub-33/#sec-rendering-general)
-     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
      * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)

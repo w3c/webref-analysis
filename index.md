@@ -10851,6 +10851,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
 - [Permissions](https://w3c.github.io/permissions/)
@@ -11182,8 +11183,6 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/)
      * [`https://www.w3.org/TR/wcag2/`](https://www.w3.org/TR/wcag2/)
-     * [`https://www.w3.org/TR/geolocation/`](https://www.w3.org/TR/geolocation/)
-     * [`https://www.w3.org/TR/push-api/`](https://www.w3.org/TR/push-api/)
 - External links to private terms:
      * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
      * [`https://url.spec.whatwg.org/#percent-encode`](https://url.spec.whatwg.org/#percent-encode)
@@ -11277,6 +11276,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-33/#cmt-grp-image`](https://www.w3.org/TR/epub-33/#cmt-grp-image)
      * [`https://www.w3.org/TR/epub-33/#cmt-grp-audio`](https://www.w3.org/TR/epub-33/#cmt-grp-audio)
      * [`https://www.w3.org/TR/epub-33/#attrdef-hreflang`](https://www.w3.org/TR/epub-33/#attrdef-hreflang)
+     * [`https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints`](https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints)
      * [`https://www.w3.org/TR/epub-33/#identifier-type`](https://www.w3.org/TR/epub-33/#identifier-type)
      * [`https://www.w3.org/TR/epub-33/#attrdef-meta-property`](https://www.w3.org/TR/epub-33/#attrdef-meta-property)
      * [`https://www.w3.org/TR/epub-33/#property.ebnf.prefix`](https://www.w3.org/TR/epub-33/#property.ebnf.prefix)
@@ -11297,7 +11297,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-html`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-html)
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg)
      * [`https://www.w3.org/TR/epub-33/#def-layout-pre-paginated`](https://www.w3.org/TR/epub-33/#def-layout-pre-paginated)
-     * [`https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints`](https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints)
      * [`https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay`](https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay)
      * [`https://www.w3.org/TR/epub-33/#elemdef-package-item`](https://www.w3.org/TR/epub-33/#elemdef-package-item)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-body`](https://www.w3.org/TR/epub-33/#elemdef-smil-body)
@@ -11314,9 +11313,9 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-33/#confreq-nav-a-title`](https://www.w3.org/TR/epub-33/#confreq-nav-a-title)
 - Broken external links:
      * [`https://www.w3.org/TR/epub-33/#sec-foreign-restrictions`](https://www.w3.org/TR/epub-33/#sec-foreign-restrictions)
+     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml)
      * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-center`](https://www.w3.org/TR/epub-33/#fxl-page-spread-center)
      * [`https://www.w3.org/TR/epub-33/#sec-rendering-general`](https://www.w3.org/TR/epub-33/#sec-rendering-general)
-     * [`https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml`](https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
      * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)
@@ -15983,6 +15982,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Permissions](https://w3c.github.io/permissions/)
 
@@ -16589,7 +16589,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
 - Crawled URL: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
-- Crawled version: 08 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
 - Latest published version: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
 - Shortname: touch-events
@@ -18281,18 +18281,22 @@ Informative references to this spec from:
 - [Streams Standard](https://streams.spec.whatwg.org/)
 
 
-### Compute Pressure Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Compute Pressure Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 06 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/)
+- External links to private terms:
+     * [`https://w3c.github.io/picture-in-picture/#initiators-of-active-picture-in-picture-sessions`](https://w3c.github.io/picture-in-picture/#initiators-of-active-picture-in-picture-sessions)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
