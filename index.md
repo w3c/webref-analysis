@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 11, 2022
+% April 12, 2022
 
 # Ecma International {#ecma_international}
 
@@ -207,7 +207,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 10 April 2022
+- Crawled version: 11 April 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -436,7 +436,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
 - Crawled URL: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
-- Crawled version: 2 August 2021
+- Crawled version: 11 April 2022
 - Editor's Draft: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
 - Shortname: tc39-array-find-from-last
 
@@ -524,7 +524,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -553,7 +553,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -619,7 +619,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 10 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -642,7 +642,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1121,7 +1121,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1144,7 +1144,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1176,7 +1176,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1219,7 +1219,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1254,7 +1254,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1285,7 +1285,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 11 April 2022
+- Crawled version: 12 April 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -17217,6 +17217,7 @@ Normative references to this spec from:
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
@@ -19568,18 +19569,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Navigation API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Navigation API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
 - Crawled URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
-- Crawled version: 1 April 2022
+- Crawled version: 11 April 2022
 - Editor's Draft: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
 - Shortname: navigation-api
 
 #### Potential issue(s) {.anomalies}
 
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/), related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - External links that neither target definitions nor headings:
      * [`https://drafts.csswg.org/css2/#viewport%E2%91%A0`](https://drafts.csswg.org/css2/#viewport%E2%91%A0)
 - Broken external links:
@@ -19627,7 +19630,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#allowed-to-navigate`](https://html.spec.whatwg.org/#allowed-to-navigate)
      * [`https://html.spec.whatwg.org/#exceptions-enabled`](https://html.spec.whatwg.org/#exceptions-enabled)
      * [`https://html.spec.whatwg.org/#joint-session-history`](https://html.spec.whatwg.org/#joint-session-history)
-     * [`https://html.spec.whatwg.org/#enqueue-the-following-steps`](https://html.spec.whatwg.org/#enqueue-the-following-steps)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
@@ -19664,7 +19666,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#plan-to-navigate`](https://html.spec.whatwg.org/#plan-to-navigate)
      * [`https://html.spec.whatwg.org/#navigation-navigationtype`](https://html.spec.whatwg.org/#navigation-navigationtype)
      * [`https://html.spec.whatwg.org/#submit-body`](https://html.spec.whatwg.org/#submit-body)
-     * [`https://html.spec.whatwg.org/#traverse-the-history-by-a-delta`](https://html.spec.whatwg.org/#traverse-the-history-by-a-delta)
      * [`https://html.spec.whatwg.org/#following-hyperlinks-2`](https://html.spec.whatwg.org/#following-hyperlinks-2)
      * [`https://html.spec.whatwg.org/#providing-users-with-a-means-to-follow-hyperlinks-created-using-the-link-element`](https://html.spec.whatwg.org/#providing-users-with-a-means-to-follow-hyperlinks-created-using-the-link-element)
      * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)

@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 11, 2022
+% April 12, 2022
 
 467 specifications were crawled in this report.
 
@@ -1921,6 +1921,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/) but related reference "CSS-ROUND-DISPLAY-1" uses URL [`https://www.w3.org/TR/css-round-display-1/`](https://www.w3.org/TR/css-round-display-1/)
+- [Navigation API](https://wicg.github.io/navigation-api/) links to [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/) but related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/) links to:
     * [`https://w3c.github.io/presentation-api/`](https://w3c.github.io/presentation-api/) but related reference "PRESENTATION-API" uses URL [`https://www.w3.org/TR/presentation-api/`](https://www.w3.org/TR/presentation-api/)
     * [`https://w3c.github.io/remote-playback/`](https://w3c.github.io/remote-playback/) but related reference "REMOTE-PLAYBACK" uses URL [`https://www.w3.org/TR/remote-playback/`](https://www.w3.org/TR/remote-playback/)
@@ -2092,7 +2093,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 343 inconsistent references for links found in 182 specifications
+=> 344 inconsistent references for links found in 183 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -6947,7 +6948,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#allowed-to-navigate`](https://html.spec.whatwg.org/#allowed-to-navigate)
      * [`https://html.spec.whatwg.org/#exceptions-enabled`](https://html.spec.whatwg.org/#exceptions-enabled)
      * [`https://html.spec.whatwg.org/#joint-session-history`](https://html.spec.whatwg.org/#joint-session-history)
-     * [`https://html.spec.whatwg.org/#enqueue-the-following-steps`](https://html.spec.whatwg.org/#enqueue-the-following-steps)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
@@ -6984,7 +6984,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#plan-to-navigate`](https://html.spec.whatwg.org/#plan-to-navigate)
      * [`https://html.spec.whatwg.org/#navigation-navigationtype`](https://html.spec.whatwg.org/#navigation-navigationtype)
      * [`https://html.spec.whatwg.org/#submit-body`](https://html.spec.whatwg.org/#submit-body)
-     * [`https://html.spec.whatwg.org/#traverse-the-history-by-a-delta`](https://html.spec.whatwg.org/#traverse-the-history-by-a-delta)
      * [`https://html.spec.whatwg.org/#following-hyperlinks-2`](https://html.spec.whatwg.org/#following-hyperlinks-2)
      * [`https://html.spec.whatwg.org/#providing-users-with-a-means-to-follow-hyperlinks-created-using-the-link-element`](https://html.spec.whatwg.org/#providing-users-with-a-means-to-follow-hyperlinks-created-using-the-link-element)
      * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
@@ -9343,7 +9342,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4956 problematic external links found in 303 specifications
+=> 4954 problematic external links found in 303 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
