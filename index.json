@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-12T00:46:50.891Z",
+  "date": "2022-04-12T06:37:47.241Z",
   "stats": {
     "crawled": 467,
     "errors": 2,
@@ -23802,7 +23802,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "11 April 2022",
+      "date": "12 April 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23836,7 +23836,9 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/epub-tests/",
-          "https://www.w3.org/TR/wcag2/"
+          "https://www.w3.org/TR/wcag2/",
+          "https://www.w3.org/TR/geolocation/",
+          "https://www.w3.org/TR/push-api/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -23923,7 +23925,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "11 April 2022",
+      "date": "12 April 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -38708,7 +38710,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "8 April 2022",
+      "date": "12 April 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
