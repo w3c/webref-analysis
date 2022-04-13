@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-13T12:42:50.646Z",
+  "date": "2022-04-13T18:38:35.718Z",
   "stats": {
     "crawled": 467,
-    "errors": 2,
+    "errors": 1,
     "studied": 467
   },
   "results": [
@@ -3544,7 +3544,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "12 April 2022",
+      "date": "13 April 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3584,87 +3584,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#dom-document-cookie",
             "https://html.spec.whatwg.org/#same-site"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Cooperative Scheduling of Background Tasks",
-      "shortname": "requestidlecallback",
-      "date": "17 January 2022",
-      "url": "https://www.w3.org/TR/requestidlecallback/",
-      "release": {
-        "url": "https://www.w3.org/TR/requestidlecallback/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/requestidlecallback/",
-        "repository": "https://github.com/w3c/requestidlecallback",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/requestidlecallback/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Performance Working Group",
-          "url": "https://www.w3.org/webperf/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webxr/",
-              "title": "WebXR Device API",
-              "crawled": "https://immersive-web.github.io/webxr/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://wicg.github.io/scheduling-apis/",
-              "title": "Prioritized Task Scheduling",
-              "crawled": "https://wicg.github.io/scheduling-apis/"
-            }
-          ]
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
-            "https://html.spec.whatwg.org/#dom-settimeout",
-            "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#queue-a-task",
-            "https://html.spec.whatwg.org/#task-source",
-            "https://html.spec.whatwg.org/#event-loop",
-            "https://html.spec.whatwg.org/#event-loop-processing-model",
-            "https://html.spec.whatwg.org/#visibility-state",
-            "https://html.spec.whatwg.org/#report-the-exception",
-            "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4857,7 +4776,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8894,7 +8812,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "31 March 2022",
+      "date": "13 April 2022",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -20809,6 +20727,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
@@ -22601,11 +22524,6 @@
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
-              "url": "https://www.w3.org/TR/requestidlecallback/",
-              "title": "Cooperative Scheduling of Background Tasks",
-              "crawled": "https://w3c.github.io/requestidlecallback/"
-            },
-            {
               "url": "https://www.w3.org/TR/CSS21/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
@@ -22664,6 +22582,11 @@
               "url": "https://wicg.github.io/origin-policy/",
               "title": "Origin Policy",
               "crawled": "https://wicg.github.io/origin-policy/"
+            },
+            {
+              "url": "https://www.w3.org/TR/requestidlecallback/",
+              "title": "requestIdleCallback()",
+              "crawled": "https://w3c.github.io/requestidlecallback/"
             },
             {
               "url": "https://www.w3.org/TR/SVG11/",
@@ -26193,7 +26116,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "24 March 2022",
+      "date": "13 April 2022",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -26308,6 +26231,7 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#gains-focus",
             "https://html.spec.whatwg.org/#visibility-state",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#task-source",
@@ -26962,11 +26886,6 @@
               "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
-              "url": "https://www.w3.org/TR/requestidlecallback/",
-              "title": "Cooperative Scheduling of Background Tasks",
-              "crawled": "https://w3c.github.io/requestidlecallback/"
-            },
-            {
               "url": "https://dom.spec.whatwg.org/",
               "title": "DOM Standard",
               "crawled": "https://dom.spec.whatwg.org/"
@@ -27085,6 +27004,11 @@
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/requestidlecallback/",
+              "title": "requestIdleCallback()",
+              "crawled": "https://w3c.github.io/requestidlecallback/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing-2/",
@@ -34303,11 +34227,6 @@
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html"
             },
             {
-              "url": "https://www.w3.org/TR/requestidlecallback/",
-              "title": "Cooperative Scheduling of Background Tasks",
-              "crawled": "https://w3c.github.io/requestidlecallback/"
-            },
-            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -35071,6 +34990,11 @@
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
+            },
+            {
+              "url": "https://www.w3.org/TR/requestidlecallback/",
+              "title": "requestIdleCallback()",
+              "crawled": "https://w3c.github.io/requestidlecallback/"
             },
             {
               "url": "https://wicg.github.io/permissions-request/",
@@ -46050,6 +45974,87 @@
       }
     },
     {
+      "title": "requestIdleCallback()",
+      "shortname": "requestidlecallback",
+      "date": "13 April 2022",
+      "url": "https://www.w3.org/TR/requestidlecallback/",
+      "release": {
+        "url": "https://www.w3.org/TR/requestidlecallback/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/requestidlecallback/",
+        "repository": "https://github.com/w3c/requestidlecallback",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/requestidlecallback/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Performance Working Group",
+          "url": "https://www.w3.org/webperf/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webxr/",
+              "title": "WebXR Device API",
+              "crawled": "https://immersive-web.github.io/webxr/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://wicg.github.io/scheduling-apis/",
+              "title": "Prioritized Task Scheduling",
+              "crawled": "https://wicg.github.io/scheduling-apis/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
+            "https://html.spec.whatwg.org/#dom-settimeout",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#queue-a-task",
+            "https://html.spec.whatwg.org/#task-source",
+            "https://html.spec.whatwg.org/#event-loop",
+            "https://html.spec.whatwg.org/#event-loop-processing-model",
+            "https://html.spec.whatwg.org/#visibility-state",
+            "https://html.spec.whatwg.org/#report-the-exception",
+            "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Requesting Permissions",
       "shortname": "permissions-request",
       "date": "28 September 2017",
@@ -56018,11 +56023,6 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://www.w3.org/TR/requestidlecallback/",
-              "title": "Cooperative Scheduling of Background Tasks",
-              "crawled": "https://w3c.github.io/requestidlecallback/"
-            },
-            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -56521,6 +56521,11 @@
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
+            },
+            {
+              "url": "https://www.w3.org/TR/requestidlecallback/",
+              "title": "requestIdleCallback()",
+              "crawled": "https://w3c.github.io/requestidlecallback/"
             },
             {
               "url": "https://www.w3.org/TR/resize-observer-1/",
