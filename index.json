@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-14T12:45:29.395Z",
+  "date": "2022-04-14T18:37:35.517Z",
   "stats": {
     "crawled": 467,
-    "errors": 1,
+    "errors": 2,
     "studied": 467
   },
   "results": [
@@ -1894,7 +1894,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "mediacapture-handle-identity",
-      "date": "07 April 2022",
+      "date": "14 April 2022",
       "url": "https://w3c.github.io/mediacapture-handle/identity/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/identity/",
@@ -4776,6 +4776,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27798,7 +27799,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "12 April 2022",
+      "date": "14 April 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -45631,7 +45632,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "06 April 2022",
+      "date": "14 April 2022",
       "url": "https://www.w3.org/TR/mediacapture-region/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-region/",
@@ -45676,8 +45677,11 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#the-iframe-element",
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts",
             "https://html.spec.whatwg.org/#serializable",
             "https://html.spec.whatwg.org/#serialization-steps",
             "https://html.spec.whatwg.org/#deserialization-steps"
@@ -52526,7 +52530,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "07 April 2022",
+      "date": "14 April 2022",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",
@@ -55321,7 +55325,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "11 April 2022",
+      "date": "14 April 2022",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -55437,8 +55441,7 @@
             "https://html.spec.whatwg.org/#queue-a-media-element-task",
             "https://html.spec.whatwg.org/#htmlmediaelement",
             "https://html.spec.whatwg.org/#sticky-activation",
-            "https://html.spec.whatwg.org/#concept-current-everything",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#event",
             "https://html.spec.whatwg.org/#origin",
             "https://html.spec.whatwg.org/#cors-cross-origin",
@@ -55463,7 +55466,6 @@
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#task-queue",
             "https://html.spec.whatwg.org/#prepare-to-run-script",
-            "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#prepare-to-run-a-callback",
             "https://html.spec.whatwg.org/#clean-up-after-running-a-callback",
             "https://html.spec.whatwg.org/#clean-up-after-running-script",
@@ -64636,7 +64638,7 @@
     {
       "title": "WebSockets Standard",
       "shortname": "websockets",
-      "date": "21 March 2022",
+      "date": "14 April 2022",
       "url": "https://websockets.spec.whatwg.org/",
       "nightly": {
         "url": "https://websockets.spec.whatwg.org/",
