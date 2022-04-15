@@ -499,7 +499,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 14 April 2022
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -2727,7 +2727,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 21 March 2022
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2752,6 +2752,7 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#invalid-value-default`](https://html.spec.whatwg.org/#invalid-value-default)
      * [`https://html.spec.whatwg.org/#enumerated-attribute`](https://html.spec.whatwg.org/#enumerated-attribute)
      * [`https://html.spec.whatwg.org/#translatable-attributes`](https://html.spec.whatwg.org/#translatable-attributes)
+     * [`https://html.spec.whatwg.org/#attr-lang`](https://html.spec.whatwg.org/#attr-lang)
      * [`https://html.spec.whatwg.org/#reflect`](https://html.spec.whatwg.org/#reflect)
      * [`https://html.spec.whatwg.org/#keywords-and-enumerated-attributes`](https://html.spec.whatwg.org/#keywords-and-enumerated-attributes)
      * [`https://html.spec.whatwg.org/#floating-point-numbers`](https://html.spec.whatwg.org/#floating-point-numbers)
