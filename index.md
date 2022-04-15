@@ -11173,7 +11173,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 14 April 2022
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -11265,7 +11265,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 14 April 2022
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -13704,13 +13704,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Presentation API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true data-xrefs=true}
+### Presentation API {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
 - Crawled URL: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
-- Crawled version: 27 October 2021
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
 - Latest published version: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
 - Shortname: presentation-api
@@ -13718,8 +13718,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Unknown WebIDL names used: `ArrayBuffer`
-- Missing references for WebIDL names: 
-     * `BinaryType` defined in [WebSockets Standard](https://websockets.spec.whatwg.org/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#dom-location-reload`](https://html.spec.whatwg.org/#dom-location-reload)
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
@@ -13752,6 +13750,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#sandboxed-modals-flag`](https://html.spec.whatwg.org/#sandboxed-modals-flag)
      * [`https://html.spec.whatwg.org/#sandboxed-auxiliary-navigation-browsing-context-flag`](https://html.spec.whatwg.org/#sandboxed-auxiliary-navigation-browsing-context-flag)
      * [`https://html.spec.whatwg.org/#sandboxed-top-level-navigation-without-user-activation-browsing-context-flag`](https://html.spec.whatwg.org/#sandboxed-top-level-navigation-without-user-activation-browsing-context-flag)
+- External links to outdated specs:
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13770,7 +13770,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/remote-playback/](https://www.w3.org/TR/remote-playback/)
 - Crawled URL: [https://w3c.github.io/remote-playback/](https://w3c.github.io/remote-playback/)
-- Crawled version: 13 October 2021
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://w3c.github.io/remote-playback/](https://w3c.github.io/remote-playback/)
 - Latest published version: [https://www.w3.org/TR/remote-playback/](https://www.w3.org/TR/remote-playback/)
 - Shortname: remote-playback
@@ -21858,7 +21858,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 14 April 2022
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21883,7 +21883,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 14 April 2022
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-1/](https://www.w3.org/TR/wasm-js-api-1/)
 - Shortname: wasm-js-api-1
@@ -21927,7 +21927,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 14 April 2022
+- Crawled version: 15 April 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-1/](https://www.w3.org/TR/wasm-web-api-1/)
 - Shortname: wasm-web-api-1
@@ -23501,11 +23501,8 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
-
-Although they do not, the following specs should also normatively reference this spec because they use IDL terms it defines:
-
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 
 Informative references to this spec from:
 

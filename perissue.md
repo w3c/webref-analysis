@@ -269,7 +269,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) uses `DOMHighResTimeStamp` but does not reference [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/) uses `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-- [Presentation API](https://w3c.github.io/presentation-api/) uses `BinaryType` but does not reference [WebSockets Standard](https://websockets.spec.whatwg.org/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) uses `CSSPseudoElement` but does not reference [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) uses:
     * `AuthenticationExtensionsClientInputs` but does not reference [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
@@ -331,7 +330,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
     * `WebGLTexture` but does not reference [WebGL Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
 
-=> 57 missing references for IDL definitions found in 28 specifications
+=> 56 missing references for IDL definitions found in 27 specifications
 
 
 ## No definition for CSS properties
@@ -9424,6 +9423,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/workers/`](https://www.w3.org/TR/workers/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- [Presentation API](https://w3c.github.io/presentation-api/):
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [Resource Hints](https://w3c.github.io/resource-hints/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [RFC 6454: The Web Origin Concept](https://www.rfc-editor.org/rfc/rfc6454):
@@ -9476,7 +9477,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 50 specifications
+=> 58 problematic external links found in 51 specifications
 
 
 ## External links that use a dated URL

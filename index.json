@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-15T06:38:25.499Z",
+  "date": "2022-04-15T12:43:03.526Z",
   "stats": {
     "crawled": 467,
     "errors": 2,
@@ -23742,7 +23742,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23869,7 +23869,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -44739,7 +44739,7 @@
     {
       "title": "Presentation API",
       "shortname": "presentation-api",
-      "date": "27 October 2021",
+      "date": "15 April 2022",
       "url": "https://www.w3.org/TR/presentation-api/",
       "release": {
         "url": "https://www.w3.org/TR/presentation-api/",
@@ -44769,18 +44769,7 @@
           "ArrayBuffer"
         ],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "BinaryType",
-            "refs": [
-              {
-                "url": "https://websockets.spec.whatwg.org/",
-                "title": "WebSockets Standard",
-                "crawled": "https://websockets.spec.whatwg.org/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -44844,7 +44833,9 @@
             "https://html.spec.whatwg.org/#sandboxed-top-level-navigation-without-user-activation-browsing-context-flag"
           ],
           "evolvingLinks": [],
-          "outdatedSpecs": [],
+          "outdatedSpecs": [
+            "https://websockets.spec.whatwg.org/"
+          ],
           "datedUrls": []
         },
         "ok": false
@@ -45792,7 +45783,7 @@
     {
       "title": "Remote Playback API",
       "shortname": "remote-playback",
-      "date": "13 October 2021",
+      "date": "15 April 2022",
       "url": "https://www.w3.org/TR/remote-playback/",
       "release": {
         "url": "https://www.w3.org/TR/remote-playback/",
@@ -57628,7 +57619,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57684,7 +57675,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -57841,7 +57832,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -64704,6 +64695,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/presentation-api/",
+              "title": "Presentation API",
+              "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
