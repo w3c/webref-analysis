@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-14T18:37:35.517Z",
+  "date": "2022-04-15T00:48:34.549Z",
   "stats": {
     "crawled": 467,
-    "errors": 2,
+    "errors": 1,
     "studied": 467
   },
   "results": [
@@ -4776,7 +4776,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7011,7 +7010,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 3",
       "shortname": "css-cascade-3",
-      "date": "30 March 2022",
+      "date": "14 April 2022",
       "url": "https://www.w3.org/TR/css-cascade-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-3/",
@@ -7048,8 +7047,7 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/selectors/",
-          "https://www.w3.org/TR/css-style-attr/"
+          "https://www.w3.org/TR/selectors/"
         ],
         "inconsistentRef": [
           {
@@ -7141,7 +7139,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-4",
-      "date": "30 March 2022",
+      "date": "14 April 2022",
       "url": "https://www.w3.org/TR/css-cascade-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -7180,7 +7178,6 @@
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/selectors/",
-          "https://www.w3.org/TR/css-style-attr/",
           "https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/",
           "https://www.w3.org/TR/css-cascade-3/"
         ],
@@ -7259,7 +7256,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 5",
       "shortname": "css-cascade-5",
-      "date": "30 March 2022",
+      "date": "14 April 2022",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -7704,7 +7701,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "30 March 2022",
+      "date": "14 April 2022",
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -7737,7 +7734,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-style-attr/",
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/css-cascade-4/",
           "https://www.w3.org/TR/css-cascade-3/"
@@ -7910,7 +7906,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "30 March 2022",
+      "date": "14 April 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -16940,6 +16936,26 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-6/",
+              "title": "CSS Cascading and Inheritance Level 6",
+              "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -16951,11 +16967,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
             {
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
@@ -25331,7 +25342,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -39064,7 +39081,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "31 March 2022",
+      "date": "14 April 2022",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -39104,7 +39121,8 @@
             "https://www.w3.org/TR/appmanifest/#dfn-steps-for-determining-the-web-app-s-chosen-display-mode",
             "https://www.w3.org/TR/appmanifest/#dfn-ignore",
             "https://www.w3.org/TR/appmanifest/#dfn-manifest-url",
-            "https://www.w3.org/TR/appmanifest/#dfn-processed-manifest"
+            "https://www.w3.org/TR/appmanifest/#dfn-processed-manifest",
+            "https://www.w3.org/TR/appmanifest/#dfn-process-image-resources"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -39128,7 +39146,8 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#event-handler-idl-attributes"
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
+            "https://wicg.github.io/file-system-access/#valid-suffix-code-points"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41011,6 +41030,11 @@
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
+            },
+            {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
             },
             {
               "url": "https://www.w3.org/TR/media-capabilities/",
@@ -43579,6 +43603,11 @@
               "url": "https://www.w3.org/TR/magnetometer/",
               "title": "Magnetometer",
               "crawled": "https://w3c.github.io/magnetometer/"
+            },
+            {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -46594,7 +46623,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46669,7 +46698,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46885,7 +46914,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46989,7 +47018,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47073,7 +47102,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -47897,7 +47926,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -47935,7 +47964,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48133,7 +48162,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48447,7 +48476,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "14 April 2022",
+      "date": "15 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -52345,7 +52374,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "13 April 2022",
+      "date": "14 April 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -57329,6 +57358,7 @@
     {
       "title": "Web Serial API",
       "shortname": "serial",
+      "date": "14 April 2022",
       "url": "https://wicg.github.io/serial/",
       "nightly": {
         "url": "https://wicg.github.io/serial/",
@@ -57371,9 +57401,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#navigator",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#workernavigator",
-            "https://html.spec.whatwg.org/#dedicatedworkerglobalscope",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#concept-relevant-global",
