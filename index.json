@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-18T06:38:18.865Z",
+  "date": "2022-04-18T12:43:25.259Z",
   "stats": {
     "crawled": 467,
     "errors": 2,
@@ -34960,11 +34960,6 @@
               "crawled": "https://w3c.github.io/pointerlock/"
             },
             {
-              "url": "https://w3c.github.io/PNG-spec/",
-              "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
-              "crawled": "https://w3c.github.io/PNG-spec/"
-            },
-            {
               "url": "https://wicg.github.io/portals/",
               "title": "Portals",
               "crawled": "https://wicg.github.io/portals/"
@@ -44397,7 +44392,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "11 April 2022",
+      "date": "18 April 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -44442,9 +44437,7 @@
         "xrefs": {
           "notExported": [],
           "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-s-element"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [

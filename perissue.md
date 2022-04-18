@@ -7423,8 +7423,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#becomes-disconnected`](https://html.spec.whatwg.org/#becomes-disconnected)
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/):
-     * [`https://html.spec.whatwg.org/#the-s-element`](https://html.spec.whatwg.org/#the-s-element)
 - [Portals](https://wicg.github.io/portals/):
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#windows`](https://html.spec.whatwg.org/#windows)
@@ -9361,7 +9359,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4970 problematic external links found in 303 specifications
+=> 4969 problematic external links found in 302 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
