@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-19T12:44:16.871Z",
+  "date": "2022-04-19T18:40:11.272Z",
   "stats": {
     "crawled": 467,
-    "errors": 2,
+    "errors": 1,
     "studied": 467
   },
   "results": [
@@ -4778,7 +4778,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10170,7 +10169,7 @@
     {
       "title": "CSS Flexible Box Layout Module Level 1",
       "shortname": "css-flexbox-1",
-      "date": "31 March 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/css-flexbox-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -23989,10 +23988,7 @@
             "https://www.w3.org/TR/epub-33/#sec-rendering-general",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#attr-dir",
-            "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#concept-origin",
-            "https://html.spec.whatwg.org/#meta",
-            "https://html.spec.whatwg.org/#the-head-element",
             "https://html.spec.whatwg.org/#the-object-element",
             "https://html.spec.whatwg.org/#attr-style",
             "https://html.spec.whatwg.org/#rendering",
@@ -24001,7 +23997,6 @@
             "https://html.spec.whatwg.org/#webstorage",
             "https://html.spec.whatwg.org/#dom-localstorage",
             "https://html.spec.whatwg.org/#video",
-            "https://html.spec.whatwg.org/#audio",
             "https://html.spec.whatwg.org/#attr-media-controls",
             "https://html.spec.whatwg.org/#attr-video-poster",
             "https://html.spec.whatwg.org/#attr-media-autoplay",
@@ -24329,7 +24324,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "7 April 2022",
+      "date": "19 April 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24827,6 +24822,7 @@
             "https://html.spec.whatwg.org/#embedder-policy-value-2",
             "https://html.spec.whatwg.org/#coep-credentialless",
             "https://html.spec.whatwg.org/#concept-origin-host",
+            "https://html.spec.whatwg.org/#concept-origin-scheme",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#site",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
@@ -27839,7 +27835,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "18 April 2022",
+      "date": "19 April 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -56910,6 +56906,11 @@
               "crawled": "https://immersive-web.github.io/webxr-hand-input/"
             },
             {
+              "url": "https://www.w3.org/TR/webxr-hit-test-1/",
+              "title": "WebXR Hit Test Module",
+              "crawled": "https://immersive-web.github.io/hit-test/"
+            },
+            {
               "url": "https://www.w3.org/TR/webxrlayers-1/",
               "title": "WebXR Layers API Level 1",
               "crawled": "https://immersive-web.github.io/layers/"
@@ -65229,7 +65230,7 @@
     {
       "title": "WebXR Depth Sensing Module",
       "shortname": "webxr-depth-sensing-1",
-      "date": "23 February 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
@@ -65517,7 +65518,7 @@
     {
       "title": "WebXR DOM Overlays Module",
       "shortname": "webxr-dom-overlays-1",
-      "date": "15 February 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
@@ -65669,7 +65670,7 @@
     {
       "title": "WebXR Hand Input Module - Level 1",
       "shortname": "webxr-hand-input-1",
-      "date": "14 March 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/webxr-hand-input-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-hand-input-1/",
@@ -65755,7 +65756,7 @@
     {
       "title": "WebXR Hit Test Module",
       "shortname": "webxr-hit-test-1",
-      "date": "30 September 2021",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/webxr-hit-test-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-hit-test-1/",

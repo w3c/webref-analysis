@@ -4930,7 +4930,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-2-1" class="level3" data-spec="true" data-error="true">
+  <section id="css-2-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS 2</h3>
   <section id="spec-info-105" class="level4 info">
   <h4>Spec info</h4>
@@ -4945,8 +4945,37 @@
   </section>
   <section id="potential-issues-105" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 323)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/"><code>https://html.spec.whatwg.org/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-style-attribute"><code>https://html.spec.whatwg.org/#the-style-attribute</code></a></li>
+  </ul></li>
+  <li>External links that use a dated URL:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a></li>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-105" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -7168,7 +7197,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/css-flexbox-1/">https://www.w3.org/TR/css-flexbox-1/</a></li>
   <li>Crawled URL: <a href="https://drafts.csswg.org/css-flexbox-1/">https://drafts.csswg.org/css-flexbox-1/</a></li>
-  <li>Crawled version: 31 March 2022</li>
+  <li>Crawled version: 19 April 2022</li>
   <li>Editor’s Draft: <a href="https://drafts.csswg.org/css-flexbox-1/">https://drafts.csswg.org/css-flexbox-1/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/css-flexbox-1/">https://www.w3.org/TR/css-flexbox-1/</a></li>
   <li>Shortname: css-flexbox-1</li>
@@ -13404,10 +13433,7 @@
   <li><a href="https://www.w3.org/TR/epub-33/#sec-rendering-general"><code>https://www.w3.org/TR/epub-33/#sec-rendering-general</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-dir"><code>https://html.spec.whatwg.org/#attr-dir</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#the-link-element"><code>https://html.spec.whatwg.org/#the-link-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-origin"><code>https://html.spec.whatwg.org/#concept-origin</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#meta"><code>https://html.spec.whatwg.org/#meta</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#the-head-element"><code>https://html.spec.whatwg.org/#the-head-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#the-object-element"><code>https://html.spec.whatwg.org/#the-object-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-style"><code>https://html.spec.whatwg.org/#attr-style</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#rendering"><code>https://html.spec.whatwg.org/#rendering</code></a></li>
@@ -13416,7 +13442,6 @@
   <li><a href="https://html.spec.whatwg.org/#webstorage"><code>https://html.spec.whatwg.org/#webstorage</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-localstorage"><code>https://html.spec.whatwg.org/#dom-localstorage</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#video"><code>https://html.spec.whatwg.org/#video</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#audio"><code>https://html.spec.whatwg.org/#audio</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-media-controls"><code>https://html.spec.whatwg.org/#attr-media-controls</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-video-poster"><code>https://html.spec.whatwg.org/#attr-video-poster</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-media-autoplay"><code>https://html.spec.whatwg.org/#attr-media-autoplay</code></a></li>
@@ -13728,7 +13753,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webxr-depth-sensing-1/">https://www.w3.org/TR/webxr-depth-sensing-1/</a></li>
   <li>Crawled URL: <a href="https://immersive-web.github.io/depth-sensing/">https://immersive-web.github.io/depth-sensing/</a></li>
-  <li>Crawled version: 23 February 2022</li>
+  <li>Crawled version: 19 April 2022</li>
   <li>Editor’s Draft: <a href="https://immersive-web.github.io/depth-sensing/">https://immersive-web.github.io/depth-sensing/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webxr-depth-sensing-1/">https://www.w3.org/TR/webxr-depth-sensing-1/</a></li>
   <li>Shortname: webxr-depth-sensing-1</li>
@@ -13870,7 +13895,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webxr-dom-overlays-1/">https://www.w3.org/TR/webxr-dom-overlays-1/</a></li>
   <li>Crawled URL: <a href="https://immersive-web.github.io/dom-overlays/">https://immersive-web.github.io/dom-overlays/</a></li>
-  <li>Crawled version: 15 February 2022</li>
+  <li>Crawled version: 19 April 2022</li>
   <li>Editor’s Draft: <a href="https://immersive-web.github.io/dom-overlays/">https://immersive-web.github.io/dom-overlays/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webxr-dom-overlays-1/">https://www.w3.org/TR/webxr-dom-overlays-1/</a></li>
   <li>Shortname: webxr-dom-overlays-1</li>
@@ -13963,7 +13988,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webxr-hand-input-1/">https://www.w3.org/TR/webxr-hand-input-1/</a></li>
   <li>Crawled URL: <a href="https://immersive-web.github.io/webxr-hand-input/">https://immersive-web.github.io/webxr-hand-input/</a></li>
-  <li>Crawled version: 14 March 2022</li>
+  <li>Crawled version: 19 April 2022</li>
   <li>Editor’s Draft: <a href="https://immersive-web.github.io/webxr-hand-input/">https://immersive-web.github.io/webxr-hand-input/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webxr-hand-input-1/">https://www.w3.org/TR/webxr-hand-input-1/</a></li>
   <li>Shortname: webxr-hand-input-1</li>
@@ -14016,7 +14041,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webxr-hit-test-1/">https://www.w3.org/TR/webxr-hit-test-1/</a></li>
   <li>Crawled URL: <a href="https://immersive-web.github.io/hit-test/">https://immersive-web.github.io/hit-test/</a></li>
-  <li>Crawled version: 30 September 2021</li>
+  <li>Crawled version: 19 April 2022</li>
   <li>Editor’s Draft: <a href="https://immersive-web.github.io/hit-test/">https://immersive-web.github.io/hit-test/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webxr-hit-test-1/">https://www.w3.org/TR/webxr-hit-test-1/</a></li>
   <li>Shortname: webxr-hit-test-1</li>
@@ -26419,7 +26444,7 @@
   <ul>
   <li>Initial URL: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
   <li>Crawled URL: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
-  <li>Crawled version: 7 April 2022</li>
+  <li>Crawled version: 19 April 2022</li>
   <li>Editor’s Draft: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
   <li>Shortname: fetch</li>
   </ul>
@@ -26462,6 +26487,7 @@
   <li><a href="https://html.spec.whatwg.org/#embedder-policy-value-2"><code>https://html.spec.whatwg.org/#embedder-policy-value-2</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#coep-credentialless"><code>https://html.spec.whatwg.org/#coep-credentialless</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-origin-host"><code>https://html.spec.whatwg.org/#concept-origin-host</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#concept-origin-scheme"><code>https://html.spec.whatwg.org/#concept-origin-scheme</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#in-parallel"><code>https://html.spec.whatwg.org/#in-parallel</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#site"><code>https://html.spec.whatwg.org/#site</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#concept-environment-top-level-origin"><code>https://html.spec.whatwg.org/#concept-environment-top-level-origin</code></a></li>
@@ -26685,7 +26711,7 @@
   <ul>
   <li>Initial URL: <a href="https://html.spec.whatwg.org/multipage/">https://html.spec.whatwg.org/multipage/</a></li>
   <li>Crawled URL: <a href="https://html.spec.whatwg.org/multipage/">https://html.spec.whatwg.org/multipage/</a></li>
-  <li>Crawled version: 18 April 2022</li>
+  <li>Crawled version: 19 April 2022</li>
   <li>Editor’s Draft: <a href="https://html.spec.whatwg.org/multipage/">https://html.spec.whatwg.org/multipage/</a></li>
   <li>Shortname: html</li>
   </ul>
@@ -28601,6 +28627,7 @@
   <li><a href="https://immersive-web.github.io/dom-overlays/">WebXR DOM Overlays Module</a></li>
   <li><a href="https://immersive-web.github.io/webxr-gamepads-module/">WebXR Gamepads Module - Level 1</a></li>
   <li><a href="https://immersive-web.github.io/webxr-hand-input/">WebXR Hand Input Module - Level 1</a></li>
+  <li><a href="https://immersive-web.github.io/hit-test/">WebXR Hit Test Module</a></li>
   <li><a href="https://immersive-web.github.io/layers/">WebXR Layers API Level 1</a></li>
   <li><a href="https://immersive-web.github.io/lighting-estimation/">WebXR Lighting Estimation API Level 1</a></li>
   <li><a href="https://wicg.github.io/window-controls-overlay/">Window Controls Overlay</a></li>
