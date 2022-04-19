@@ -499,7 +499,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 16 April 2022
+- Crawled version: 19 April 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -4260,7 +4260,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4273,25 +4273,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 323)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11191,7 +11181,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 15 April 2022
+- Crawled version: 19 April 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -11218,14 +11208,12 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#the-form-element`](https://html.spec.whatwg.org/#the-form-element)
      * [`https://html.spec.whatwg.org/#the-xhtml-syntax`](https://html.spec.whatwg.org/#the-xhtml-syntax)
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
-     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
      * [`https://html.spec.whatwg.org/#the-track-element`](https://html.spec.whatwg.org/#the-track-element)
      * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
      * [`https://html.spec.whatwg.org/#the-source-element`](https://html.spec.whatwg.org/#the-source-element)
      * [`https://html.spec.whatwg.org/#embedded-content-category`](https://html.spec.whatwg.org/#embedded-content-category)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#flow-content-2`](https://html.spec.whatwg.org/#flow-content-2)
-     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
      * [`https://html.spec.whatwg.org/#attr-source-src`](https://html.spec.whatwg.org/#attr-source-src)
      * [`https://html.spec.whatwg.org/#attr-source-srcset`](https://html.spec.whatwg.org/#attr-source-srcset)
      * [`https://html.spec.whatwg.org/#attr-source-type`](https://html.spec.whatwg.org/#attr-source-type)
@@ -11238,14 +11226,12 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-hyperlink-href`](https://html.spec.whatwg.org/#attr-hyperlink-href)
      * [`https://html.spec.whatwg.org/#the-area-element`](https://html.spec.whatwg.org/#the-area-element)
      * [`https://html.spec.whatwg.org/#extensibility-2`](https://html.spec.whatwg.org/#extensibility-2)
-     * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)
      * [`https://html.spec.whatwg.org/#microdata`](https://html.spec.whatwg.org/#microdata)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
      * [`https://html.spec.whatwg.org/#document-base-url`](https://html.spec.whatwg.org/#document-base-url)
      * [`https://html.spec.whatwg.org/#the-rp-element`](https://html.spec.whatwg.org/#the-rp-element)
      * [`https://html.spec.whatwg.org/#the-embed-element`](https://html.spec.whatwg.org/#the-embed-element)
      * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
-     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#svg-0`](https://html.spec.whatwg.org/#svg-0)
      * [`https://html.spec.whatwg.org/#attr-dir`](https://html.spec.whatwg.org/#attr-dir)
      * [`https://html.spec.whatwg.org/#the-bdo-element`](https://html.spec.whatwg.org/#the-bdo-element)
@@ -11259,6 +11245,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
      * [`https://html.spec.whatwg.org/#phrasing-content-2`](https://html.spec.whatwg.org/#phrasing-content-2)
      * [`https://html.spec.whatwg.org/#attr-hidden`](https://html.spec.whatwg.org/#attr-hidden)
+     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
      * [`https://html.spec.whatwg.org/#palpable-content-2`](https://html.spec.whatwg.org/#palpable-content-2)
      * [`https://html.spec.whatwg.org/#attr-aria-role`](https://html.spec.whatwg.org/#attr-aria-role)
      * [`https://html.spec.whatwg.org/#global-attributes`](https://html.spec.whatwg.org/#global-attributes)
@@ -11283,7 +11270,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 15 April 2022
+- Crawled version: 19 April 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -11315,14 +11302,12 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-33/#confreq-cd-scripted-flbk`](https://www.w3.org/TR/epub-33/#confreq-cd-scripted-flbk)
      * [`https://www.w3.org/TR/epub-33/#confreq-nav-a`](https://www.w3.org/TR/epub-33/#confreq-nav-a)
      * [`https://www.w3.org/TR/epub-33/#elemdef-opf-metadata`](https://www.w3.org/TR/epub-33/#elemdef-opf-metadata)
-     * [`https://www.w3.org/TR/epub-33/#elemdef-spine-itemref`](https://www.w3.org/TR/epub-33/#elemdef-spine-itemref)
      * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-left`](https://www.w3.org/TR/epub-33/#fxl-page-spread-left)
      * [`https://www.w3.org/TR/epub-33/#fxl-page-spread-right`](https://www.w3.org/TR/epub-33/#fxl-page-spread-right)
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-html`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-html)
      * [`https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg`](https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg)
      * [`https://www.w3.org/TR/epub-33/#def-layout-pre-paginated`](https://www.w3.org/TR/epub-33/#def-layout-pre-paginated)
      * [`https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay`](https://www.w3.org/TR/epub-33/#attrdef-item-media-overlay)
-     * [`https://www.w3.org/TR/epub-33/#elemdef-package-item`](https://www.w3.org/TR/epub-33/#elemdef-package-item)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-body`](https://www.w3.org/TR/epub-33/#elemdef-smil-body)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-seq`](https://www.w3.org/TR/epub-33/#elemdef-smil-seq)
      * [`https://www.w3.org/TR/epub-33/#elemdef-smil-par`](https://www.w3.org/TR/epub-33/#elemdef-smil-par)
@@ -11342,7 +11327,9 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-33/#sec-rendering-general`](https://www.w3.org/TR/epub-33/#sec-rendering-general)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#attr-dir`](https://html.spec.whatwg.org/#attr-dir)
+     * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#meta`](https://html.spec.whatwg.org/#meta)
      * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)
      * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
      * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
