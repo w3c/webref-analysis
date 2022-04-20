@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-19T18:40:11.272Z",
+  "date": "2022-04-20T00:53:42.570Z",
   "stats": {
     "crawled": 467,
     "errors": 1,
@@ -9046,7 +9046,7 @@
     {
       "title": "CSS Custom Properties for Cascading Variables Module Level 1",
       "shortname": "css-variables-1",
-      "date": "10 March 2022",
+      "date": "24 January 2022",
       "url": "https://www.w3.org/TR/css-variables-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-variables-1/",
@@ -9080,7 +9080,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/css-cascade-4/"
@@ -15242,6 +15241,11 @@
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-pseudo-4/",
+              "title": "CSS Pseudo-Elements Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -15271,7 +15275,7 @@
     {
       "title": "CSS Pseudo-Elements Module Level 4",
       "shortname": "css-pseudo-4",
-      "date": "30 January 2022",
+      "date": "24 January 2022",
       "url": "https://www.w3.org/TR/css-pseudo-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -18880,7 +18884,7 @@
     {
       "title": "CSS Typed OM Level 1",
       "shortname": "css-typed-om-1",
-      "date": "15 April 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/css-typed-om-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -22850,7 +22854,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "15 April 2022",
+      "date": "19 April 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23986,6 +23990,7 @@
             "https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml",
             "https://www.w3.org/TR/epub-33/#fxl-page-spread-center",
             "https://www.w3.org/TR/epub-33/#sec-rendering-general",
+            "https://www.w3.org/TR/epub-33/#dfn-epub-spine",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#attr-dir",
             "https://html.spec.whatwg.org/#concept-origin",
@@ -39420,7 +39425,7 @@
     {
       "title": "Media Capabilities",
       "shortname": "media-capabilities",
-      "date": "7 April 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/media-capabilities/",
       "release": {
         "url": "https://www.w3.org/TR/media-capabilities/",
@@ -46626,7 +46631,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46701,7 +46706,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46917,7 +46922,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47021,7 +47026,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47105,7 +47110,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -47929,7 +47934,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -47967,7 +47972,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48165,7 +48170,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48479,7 +48484,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -48861,11 +48866,6 @@
               "url": "https://www.w3.org/TR/css-transforms-2/",
               "title": "CSS Transforms Module Level 2",
               "crawled": "https://drafts.csswg.org/css-transforms-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-typed-om-1/",
-              "title": "CSS Typed OM Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
@@ -55946,7 +55946,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "21 March 2022",
+      "date": "19 April 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -63929,7 +63929,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "12 April 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64051,7 +64051,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "12 April 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
