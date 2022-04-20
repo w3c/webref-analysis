@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-20T00:53:42.570Z",
+  "date": "2022-04-20T06:40:31.689Z",
   "stats": {
     "crawled": 467,
     "errors": 1,
@@ -9797,7 +9797,7 @@
       }
     },
     {
-      "title": "CSS Easing Functions Level 1",
+      "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-1",
       "date": "21 February 2022",
       "url": "https://www.w3.org/TR/css-easing-1/",
@@ -13959,7 +13959,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-easing-1/",
-              "title": "CSS Easing Functions Level 1",
+              "title": "CSS Easing Functions Level 2",
               "crawled": "https://drafts.csswg.org/css-easing/"
             },
             {
@@ -17778,7 +17778,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "1 March 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -18012,7 +18012,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "10 March 2022",
+      "date": "19 April 2022",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -19204,7 +19204,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-easing-1/",
-              "title": "CSS Easing Functions Level 1",
+              "title": "CSS Easing Functions Level 2",
               "crawled": "https://drafts.csswg.org/css-easing/"
             },
             {
@@ -19781,7 +19781,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-easing-1/",
-              "title": "CSS Easing Functions Level 1",
+              "title": "CSS Easing Functions Level 2",
               "crawled": "https://drafts.csswg.org/css-easing/"
             },
             {
@@ -22854,7 +22854,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23770,7 +23770,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23894,7 +23894,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -23990,7 +23990,6 @@
             "https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml",
             "https://www.w3.org/TR/epub-33/#fxl-page-spread-center",
             "https://www.w3.org/TR/epub-33/#sec-rendering-general",
-            "https://www.w3.org/TR/epub-33/#dfn-epub-spine",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#attr-dir",
             "https://html.spec.whatwg.org/#concept-origin",
@@ -54966,7 +54965,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-easing-1/",
-              "title": "CSS Easing Functions Level 1",
+              "title": "CSS Easing Functions Level 2",
               "crawled": "https://drafts.csswg.org/css-easing/"
             },
             {
