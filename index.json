@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-20T12:45:49.902Z",
+  "date": "2022-04-20T18:38:44.425Z",
   "stats": {
     "crawled": 467,
     "errors": 1,
@@ -498,7 +498,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "21 March 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -5783,7 +5783,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "6 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -5934,7 +5934,6 @@
             "https://html.spec.whatwg.org/#the-input-element",
             "https://html.spec.whatwg.org/#sequential-focus-navigation",
             "https://html.spec.whatwg.org/#attr-input-type",
-            "https://html.spec.whatwg.org/#drop-down-box",
             "https://html.spec.whatwg.org/#the-select-element",
             "https://html.spec.whatwg.org/#the-option-element",
             "https://html.spec.whatwg.org/#the-div-element",
@@ -12907,6 +12906,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-ui-4/",
+              "title": "CSS Basic User Interface Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
@@ -23777,8 +23781,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/epub-tests/",
-          "https://www.w3.org/TR/wcag2/"
+          "https://w3c.github.io/epub-tests/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -36527,7 +36530,7 @@
     {
       "title": "Import Maps",
       "shortname": "import-maps",
-      "date": "12 January 2021",
+      "date": "20 April 2022",
       "url": "https://wicg.github.io/import-maps/",
       "nightly": {
         "url": "https://wicg.github.io/import-maps/",
@@ -36583,7 +36586,6 @@
             "https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible",
             "https://html.spec.whatwg.org/#fetch-a-single-module-script",
             "https://html.spec.whatwg.org/#set-up-the-module-script-request",
-            "https://html.spec.whatwg.org/#cors-same-origin",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#spin-the-event-loop",
@@ -36602,7 +36604,8 @@
             "https://html.spec.whatwg.org/#settings-object",
             "https://html.spec.whatwg.org/#concept-script-base-url",
             "https://html.spec.whatwg.org/#js-hostresolveimportedmodule",
-            "https://html.spec.whatwg.org/#js-hostimportmoduledynamically"
+            "https://html.spec.whatwg.org/#js-hostimportmoduledynamically",
+            "https://html.spec.whatwg.org/#dom-script-supports"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -39398,7 +39401,7 @@
     {
       "title": "Media Capabilities",
       "shortname": "media-capabilities",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/media-capabilities/",
       "release": {
         "url": "https://www.w3.org/TR/media-capabilities/",
@@ -56352,6 +56355,11 @@
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
+            },
+            {
+              "url": "https://wicg.github.io/import-maps/",
+              "title": "Import Maps",
+              "crawled": "https://wicg.github.io/import-maps/"
             },
             {
               "url": "https://infra.spec.whatwg.org/",
