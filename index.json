@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-20T18:38:44.425Z",
+  "date": "2022-04-21T00:48:07.596Z",
   "stats": {
     "crawled": 467,
     "errors": 1,
@@ -7907,7 +7907,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "14 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -18862,7 +18862,7 @@
     {
       "title": "CSS Typed OM Level 1",
       "shortname": "css-typed-om-1",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/css-typed-om-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -23945,6 +23945,7 @@
             "https://www.w3.org/TR/epub-33/#elemdef-opf-metadata",
             "https://www.w3.org/TR/epub-33/#fxl-page-spread-left",
             "https://www.w3.org/TR/epub-33/#fxl-page-spread-right",
+            "https://www.w3.org/TR/epub-33/#page-spread-center",
             "https://www.w3.org/TR/epub-33/#sec-fxl-icb-html",
             "https://www.w3.org/TR/epub-33/#sec-fxl-icb-svg",
             "https://www.w3.org/TR/epub-33/#def-layout-pre-paginated",
@@ -23963,13 +23964,12 @@
             "https://www.w3.org/TR/epub-33/#confreq-nav-a-title"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/epub-33/#sec-foreign-restrictions",
-            "https://www.w3.org/TR/epub-33/#sec-container-metainf-signature.xml",
-            "https://www.w3.org/TR/epub-33/#fxl-page-spread-center",
-            "https://www.w3.org/TR/epub-33/#sec-rendering-general",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#attr-dir",
             "https://html.spec.whatwg.org/#concept-origin",
+            "https://html.spec.whatwg.org/#the-head-element",
+            "https://html.spec.whatwg.org/#encoding-microdata",
+            "https://html.spec.whatwg.org/#json",
             "https://html.spec.whatwg.org/#the-object-element",
             "https://html.spec.whatwg.org/#attr-style",
             "https://html.spec.whatwg.org/#rendering",
@@ -23978,6 +23978,7 @@
             "https://html.spec.whatwg.org/#webstorage",
             "https://html.spec.whatwg.org/#dom-localstorage",
             "https://html.spec.whatwg.org/#video",
+            "https://html.spec.whatwg.org/#audio",
             "https://html.spec.whatwg.org/#attr-media-controls",
             "https://html.spec.whatwg.org/#attr-video-poster",
             "https://html.spec.whatwg.org/#attr-media-autoplay",
@@ -46607,7 +46608,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46682,7 +46683,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46898,7 +46899,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47002,7 +47003,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47086,7 +47087,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -47910,7 +47911,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -47948,7 +47949,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48146,7 +48147,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48460,7 +48461,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -63910,7 +63911,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64032,7 +64033,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "19 April 2022",
+      "date": "20 April 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
