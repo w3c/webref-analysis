@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-21T12:43:33.157Z",
+  "date": "2022-04-21T18:44:49.975Z",
   "stats": {
-    "crawled": 467,
-    "errors": 2,
-    "studied": 467
+    "crawled": 468,
+    "errors": 0,
+    "studied": 468
   },
   "results": [
     {
@@ -4778,7 +4778,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20129,6 +20128,11 @@
               "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
               "title": "Non-element Selectors Module Level 1",
               "crawled": "https://drafts.csswg.org/selectors-nonelement/"
@@ -20810,6 +20814,11 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+            },
+            {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
             },
             {
               "url": "https://www.w3.org/TR/pointerevents3/",
@@ -22115,6 +22124,11 @@
               "url": "https://www.w3.org/TR/mixed-content/",
               "title": "Mixed Content",
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
+            },
+            {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
             },
             {
               "url": "https://wicg.github.io/navigation-api/",
@@ -25901,6 +25915,11 @@
               "crawled": "https://wicg.github.io/keyboard-lock/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
               "title": "Permissions Policy",
               "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
@@ -27699,7 +27718,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (__puppeteer_evaluation_script__:20:27)\n    at isReady (__puppeteer_evaluation_script__:27:27)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at async isReady (__puppeteer_evaluation_script__:27:21)\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 351)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27819,7 +27837,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "19 April 2022",
+      "date": "21 April 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -28157,7 +28175,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "dt"
               },
@@ -28259,7 +28277,7 @@
                   "id": "media-elements",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#media-elements",
                   "title": "Media elements",
-                  "number": "4.8.12"
+                  "number": "4.8.11"
                 },
                 "definedIn": "pre"
               }
@@ -28313,7 +28331,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28346,7 +28364,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "dt"
               },
@@ -28365,7 +28383,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28398,7 +28416,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "dt"
               },
@@ -28417,7 +28435,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28452,7 +28470,7 @@
                   "id": "the-track-element",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-track-element",
                   "title": "The track element",
-                  "number": "4.8.11"
+                  "number": "4.8.10"
                 },
                 "definedIn": "table"
               },
@@ -28471,7 +28489,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28506,7 +28524,7 @@
                   "id": "the-track-element",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-track-element",
                   "title": "The track element",
-                  "number": "4.8.11"
+                  "number": "4.8.10"
                 },
                 "definedIn": "table"
               },
@@ -28525,7 +28543,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28560,7 +28578,7 @@
                   "id": "the-track-element",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-track-element",
                   "title": "The track element",
-                  "number": "4.8.11"
+                  "number": "4.8.10"
                 },
                 "definedIn": "table"
               },
@@ -28579,7 +28597,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28614,7 +28632,7 @@
                   "id": "the-track-element",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-track-element",
                   "title": "The track element",
-                  "number": "4.8.11"
+                  "number": "4.8.10"
                 },
                 "definedIn": "table"
               },
@@ -28633,7 +28651,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28668,7 +28686,7 @@
                   "id": "the-track-element",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-track-element",
                   "title": "The track element",
-                  "number": "4.8.11"
+                  "number": "4.8.10"
                 },
                 "definedIn": "table"
               },
@@ -28687,7 +28705,7 @@
                   "id": "text-track-api",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#text-track-api",
                   "title": "Text track API",
-                  "number": "4.8.12.11.5"
+                  "number": "4.8.11.11.5"
                 },
                 "definedIn": "pre"
               }
@@ -28740,7 +28758,7 @@
                   "id": "the-trackevent-interface",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-trackevent-interface",
                   "title": "The TrackEvent interface",
-                  "number": "4.8.12.15"
+                  "number": "4.8.11.15"
                 },
                 "definedIn": "pre"
               }
@@ -28772,7 +28790,7 @@
                   "id": "the-track-element",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-track-element",
                   "title": "The track element",
-                  "number": "4.8.11"
+                  "number": "4.8.10"
                 },
                 "definedIn": "heading"
               },
@@ -28791,7 +28809,7 @@
                   "id": "the-trackevent-interface",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#the-trackevent-interface",
                   "title": "The TrackEvent interface",
-                  "number": "4.8.12.15"
+                  "number": "4.8.11.15"
                 },
                 "definedIn": "pre"
               }
@@ -32084,7 +32102,7 @@
                   "id": "error-codes",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#error-codes",
                   "title": "Error codes",
-                  "number": "4.8.12.1"
+                  "number": "4.8.11.1"
                 },
                 "definedIn": "prose"
               },
@@ -32294,7 +32312,7 @@
                   "id": "error-codes",
                   "href": "https://html.spec.whatwg.org/multipage/media.html#error-codes",
                   "title": "Error codes",
-                  "number": "4.8.12.1"
+                  "number": "4.8.11.1"
                 },
                 "definedIn": "prose"
               },
@@ -34842,6 +34860,11 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
@@ -35782,7 +35805,6 @@
             "https://w3c.github.io/html-aria/#el-iframe",
             "https://w3c.github.io/html-aria/#el-embed",
             "https://w3c.github.io/html-aria/#el-object",
-            "https://w3c.github.io/html-aria/#el-param",
             "https://w3c.github.io/html-aria/#el-video",
             "https://w3c.github.io/html-aria/#el-audio",
             "https://w3c.github.io/html-aria/#el-track",
@@ -35918,7 +35940,6 @@
             "https://w3c.github.io/html-aam/#el-iframe",
             "https://w3c.github.io/html-aam/#el-embed",
             "https://w3c.github.io/html-aam/#el-object",
-            "https://w3c.github.io/html-aam/#el-param",
             "https://w3c.github.io/html-aam/#el-video",
             "https://w3c.github.io/html-aam/#el-audio",
             "https://w3c.github.io/html-aam/#el-track",
@@ -37269,6 +37290,11 @@
               "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
@@ -37397,6 +37423,11 @@
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors/"
+            },
+            {
+              "url": "https://www.w3.org/TR/server-timing/",
+              "title": "Server Timing",
+              "crawled": "https://w3c.github.io/server-timing/"
             },
             {
               "url": "https://www.w3.org/TR/service-workers-1/",
@@ -39491,7 +39522,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "21 March 2022",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -41388,6 +41419,11 @@
               "crawled": "https://w3c.github.io/input-events/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
@@ -41674,6 +41710,101 @@
       }
     },
     {
+      "title": "Multi-Screen Window Placement",
+      "shortname": "window-placement",
+      "date": "14 April 2022",
+      "url": "https://w3c.github.io/window-placement/",
+      "nightly": {
+        "url": "https://w3c.github.io/window-placement/",
+        "repository": "https://github.com/w3c/window-placement",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/window-placement/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Second Screen Working Group",
+          "url": "https://www.w3.org/2014/secondscreen/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/cssom-view/",
+            "ref": {
+              "name": "CSSOM-VIEW",
+              "url": "https://www.w3.org/TR/cssom-view-1/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/permissions/",
+            "ref": {
+              "name": "PERMISSIONS",
+              "url": "https://www.w3.org/TR/permissions/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/webappsec-permissions-policy/",
+            "ref": {
+              "name": "PERMISSIONS-POLICY",
+              "url": "https://www.w3.org/TR/permissions-policy-1/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/fingerprinting-guidance/",
+            "ref": {
+              "name": "FINGERPRINTING-GUIDANCE",
+              "url": "https://www.w3.org/TR/fingerprinting-guidance/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://drafts.csswg.org/cssom-view-1/#page-zoom",
+            "https://www.w3.org/TR/fingerprinting-guidance/#dfn-active-fingerprinting"
+          ],
+          "notDfn": [
+            "https://w3c.github.io/fingerprinting-guidance/#active"
+          ],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#dom-open",
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
+            "https://html.spec.whatwg.org/#event-handler-event-type",
+            "https://html.spec.whatwg.org/#queue-a-global-task",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#active-document"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Navigation API",
       "shortname": "navigation-api",
       "date": "12 April 2022",
@@ -41903,11 +42034,6 @@
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/server-timing/",
-              "title": "Server Timing",
-              "crawled": "https://w3c.github.io/server-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -41933,6 +42059,11 @@
               "url": "https://www.w3.org/TR/performance-timeline/",
               "title": "Performance Timeline Level 2",
               "crawled": "https://w3c.github.io/performance-timeline/"
+            },
+            {
+              "url": "https://www.w3.org/TR/server-timing/",
+              "title": "Server Timing",
+              "crawled": "https://w3c.github.io/server-timing/"
             },
             {
               "url": "https://www.w3.org/TR/user-timing/",
@@ -43243,7 +43374,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request",
-      "date": "16 March 2022",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/payment-request/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request/",
@@ -43628,6 +43759,11 @@
               "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -43923,6 +44059,11 @@
               "url": "https://www.w3.org/TR/mediacapture-streams/",
               "title": "Media Capture and Streams",
               "crawled": "https://w3c.github.io/mediacapture-main/"
+            },
+            {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
             },
             {
               "url": "https://www.w3.org/TR/orientation-sensor/",
@@ -49850,7 +49991,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "07 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -49925,14 +50066,14 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#viewport",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#gains-focus",
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#allowed-to-use"
           ],
@@ -51042,7 +51183,7 @@
     {
       "title": "Server Timing",
       "shortname": "server-timing",
-      "date": "30 June 2021",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/server-timing/",
       "release": {
         "url": "https://www.w3.org/TR/server-timing/",
@@ -51083,19 +51224,14 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/navigation-timing-2/#dfn-current-document"
+            "https://www.w3.org/TR/resource-timing-2/#dfn-timing-info"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/resource-timing-2/#performanceresourcetiming",
-            "https://www.w3.org/TR/resource-timing-2/#step-create-object",
-            "https://www.w3.org/TR/resource-timing-2/#dfn-current-document",
-            "https://www.w3.org/TR/navigation-timing-2/#step-create-object",
-            "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#secure-context",
-            "https://html.spec.whatwg.org/#environment-settings-object",
-            "https://html.spec.whatwg.org/#non-secure-context",
-            "https://html.spec.whatwg.org/#same-origin"
+            "https://infra.spec.whatwg.org/#map",
+            "https://html.spec.whatwg.org/#rules-for-parsing-floating-point-number-values",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://www.w3.org/TR/resource-timing-2/#performanceresourcetiming"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -52673,7 +52809,13 @@
               "crawled": "https://w3c.github.io/manifest/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -56470,6 +56612,11 @@
               "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
@@ -57125,7 +57272,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "24 March 2022",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -57177,7 +57324,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://gpuweb.github.io/gpuweb/#security",
-            "https://gpuweb.github.io/gpuweb/#security-privacy",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#dedicatedworkerglobalscope",
             "https://html.spec.whatwg.org/#navigator",
@@ -63913,7 +64059,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64035,7 +64181,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "20 April 2022",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -65817,7 +65963,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "5 January 2022",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
@@ -65937,7 +66083,7 @@
     {
       "title": "WebXR Lighting Estimation API Level 1",
       "shortname": "webxr-lighting-estimation-1",
-      "date": "4 November 2021",
+      "date": "21 April 2022",
       "url": "https://www.w3.org/TR/webxr-lighting-estimation-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-lighting-estimation-1/",
