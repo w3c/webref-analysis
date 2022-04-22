@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-22T12:45:15.766Z",
+  "date": "2022-04-22T18:39:23.807Z",
   "stats": {
     "crawled": 468,
-    "errors": 1,
+    "errors": 0,
     "studied": 468
   },
   "results": [
@@ -4779,7 +4779,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7909,7 +7908,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "20 April 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7947,7 +7946,8 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://infra.spec.whatwg.org/",
-          "https://www.w3.org/TR/css-pseudo/"
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css3-conditional/"
         ],
         "inconsistentRef": [
           {
@@ -8232,7 +8232,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "30 March 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8329,7 +8329,7 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
+            "https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet"
           ],
           "notDfn": [],
           "brokenLinks": [],
@@ -9047,7 +9047,7 @@
     {
       "title": "CSS Custom Properties for Cascading Variables Module Level 1",
       "shortname": "css-variables-1",
-      "date": "24 January 2022",
+      "date": "22 April 2022",
       "url": "https://www.w3.org/TR/css-variables-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-variables-1/",
@@ -17500,6 +17500,11 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
@@ -17526,11 +17531,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
@@ -17646,11 +17646,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -36163,7 +36158,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "21 April 2022",
+      "date": "22 April 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -42418,7 +42413,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "24 January 2022",
+      "date": "22 April 2022",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -44877,7 +44872,7 @@
     {
       "title": "Presentation API",
       "shortname": "presentation-api",
-      "date": "15 April 2022",
+      "date": "22 April 2022",
       "url": "https://www.w3.org/TR/presentation-api/",
       "release": {
         "url": "https://www.w3.org/TR/presentation-api/",
@@ -45921,7 +45916,7 @@
     {
       "title": "Remote Playback API",
       "shortname": "remote-playback",
-      "date": "15 April 2022",
+      "date": "22 April 2022",
       "url": "https://www.w3.org/TR/remote-playback/",
       "release": {
         "url": "https://www.w3.org/TR/remote-playback/",
@@ -52494,7 +52489,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "19 April 2022",
+      "date": "22 April 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
