@@ -2129,6 +2129,7 @@ Links in the body of a specification should be to the same document as that poin
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/):
      * [`https://fetch.spec.whatwg.org/#concept-main-fetch`](https://fetch.spec.whatwg.org/#concept-main-fetch)
      * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
+     * [`https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited`](https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited)
      * [`https://w3c.github.io/reporting/#visible-to-reportingobservers`](https://w3c.github.io/reporting/#visible-to-reportingobservers)
 - [Cross-Origin-Embedder-Policy: credentialless](https://wicg.github.io/credentiallessness/):
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
@@ -3121,7 +3122,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 842 problematic external links found in 208 specifications
+=> 843 problematic external links found in 208 specifications
 
 
 ## External links that neither target definitions nor headings
