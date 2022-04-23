@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-23T00:48:44.852Z",
+  "date": "2022-04-23T06:38:53.114Z",
   "stats": {
     "crawled": 468,
     "errors": 0,
@@ -2454,7 +2454,7 @@
     {
       "title": "Compositing and Blending Level 1",
       "shortname": "compositing-1",
-      "date": "10 February 2022",
+      "date": "22 April 2022",
       "url": "https://www.w3.org/TR/compositing-1/",
       "release": {
         "url": "https://www.w3.org/TR/compositing-1/",
@@ -13052,6 +13052,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compositing-1/",
+              "title": "Compositing and Blending Level 1",
+              "crawled": "https://drafts.fxtf.org/compositing-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-3/",
