@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-26T12:44:27.164Z",
+  "date": "2022-04-26T18:40:12.764Z",
   "stats": {
     "crawled": 468,
     "errors": 2,
@@ -27840,7 +27840,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "25 April 2022",
+      "date": "26 April 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -52494,7 +52494,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "25 April 2022",
+      "date": "26 April 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -65970,7 +65970,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "21 April 2022",
+      "date": "26 April 2022",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
