@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-26T06:38:06.448Z",
+  "date": "2022-04-26T12:44:27.164Z",
   "stats": {
     "crawled": 468,
     "errors": 2,
@@ -4623,6 +4623,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
               "title": "Media Queries Level 4",
               "crawled": "https://drafts.csswg.org/mediaqueries-4/"
@@ -5598,6 +5603,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
@@ -6103,6 +6113,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/webvtt1/",
               "title": "WebVTT: The Web Video Text Tracks Format",
               "crawled": "https://w3c.github.io/webvtt/"
@@ -6235,6 +6250,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -6504,6 +6524,11 @@
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
               "crawled": "https://w3c.github.io/IntersectionObserver/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -6793,6 +6818,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://quirks.spec.whatwg.org/",
@@ -9656,6 +9686,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/paint-timing/",
               "title": "Paint Timing 1",
               "crawled": "https://w3c.github.io/paint-timing/"
@@ -10642,6 +10677,11 @@
               "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -10725,7 +10765,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://w3c.github.io/mathml-core/#the-math-script-level-property",
             "https://html.spec.whatwg.org/#font"
           ],
           "evolvingLinks": [],
@@ -12529,6 +12568,11 @@
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             }
           ]
         },
@@ -17685,6 +17729,11 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             }
           ]
         },
@@ -17837,6 +17886,11 @@
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
@@ -19408,6 +19462,11 @@
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
               "crawled": "https://w3c.github.io/IntersectionObserver/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -22033,6 +22092,11 @@
               "url": "https://wicg.github.io/manifest-incubations/",
               "title": "Manifest Incubations",
               "crawled": "https://wicg.github.io/manifest-incubations/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://wicg.github.io/performance-measure-memory/",
@@ -34714,6 +34778,11 @@
               "crawled": "https://w3c.github.io/mathml-aam/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://wicg.github.io/performance-measure-memory/",
               "title": "Measure Memory API",
               "crawled": "https://wicg.github.io/performance-measure-memory/"
@@ -37177,6 +37246,11 @@
               "crawled": "https://wicg.github.io/manifest-incubations/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://wicg.github.io/performance-measure-memory/",
               "title": "Measure Memory API",
               "crawled": "https://wicg.github.io/performance-measure-memory/"
@@ -38113,7 +38187,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "18 February 2022",
+      "date": "26 April 2022",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -39172,6 +39246,103 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#mathml",
             "https://w3c.github.io/core-aam/#role-map-math"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "MathML Core",
+      "shortname": "mathml-core",
+      "date": "26 April 2022",
+      "url": "https://www.w3.org/TR/mathml-core/",
+      "release": {
+        "url": "https://www.w3.org/TR/mathml-core/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/mathml-core/",
+        "repository": "https://github.com/w3c/mathml-core",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mathml-core/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Math Working Group",
+          "url": "https://www.w3.org/Math/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [
+            "https://www.w3.org/TR/css-writing-modes-3/#extent",
+            "https://www.w3.org/TR/css-backgrounds-3/#the-background-color"
+          ],
+          "brokenLinks": [
+            "https://www.w3.org/TR/css-color-3/#colorunits",
+            "https://www.w3.org/TR/css-color-3/#foreground",
+            "https://html.spec.whatwg.org/#the-id-attribute",
+            "https://html.spec.whatwg.org/#classes",
+            "https://html.spec.whatwg.org/#the-style-attribute",
+            "https://html.spec.whatwg.org/#embedding-custom-non-visible-data-with-the-data-*-attributes",
+            "https://html.spec.whatwg.org/#nonce-attributes",
+            "https://html.spec.whatwg.org/#attr-tabindex",
+            "https://html.spec.whatwg.org/#presentational-hints",
+            "https://html.spec.whatwg.org/#event-handler-content-attributes",
+            "https://html.spec.whatwg.org/#event-handlers-on-elements,-document-objects,-and-window-objects",
+            "https://html.spec.whatwg.org/#parsing",
+            "https://html.spec.whatwg.org/#html-integration-point",
+            "https://html.spec.whatwg.org/#mathml-text-integration-point",
+            "https://html.spec.whatwg.org/#tree-construction-dispatcher",
+            "https://html.spec.whatwg.org/#mathml",
+            "https://html.spec.whatwg.org/#svg-0",
+            "https://html.spec.whatwg.org/#flow-content-2",
+            "https://html.spec.whatwg.org/#phrasing-content-2",
+            "https://html.spec.whatwg.org/#webappapis",
+            "https://html.spec.whatwg.org/#globaleventhandlers",
+            "https://html.spec.whatwg.org/#documentandelementeventhandlers",
+            "https://html.spec.whatwg.org/#htmlorsvgelement",
+            "https://html.spec.whatwg.org/#reflect",
+            "https://html.spec.whatwg.org/#focus",
+            "https://html.spec.whatwg.org/#the-table-element",
+            "https://html.spec.whatwg.org/#the-tr-element",
+            "https://html.spec.whatwg.org/#the-td-element",
+            "https://html.spec.whatwg.org/#attr-tdth-colspan",
+            "https://html.spec.whatwg.org/#attr-tdth-rowspan",
+            "https://html.spec.whatwg.org/#the-canvas-element",
+            "https://html.spec.whatwg.org/#security-with-canvas-elements",
+            "https://html.spec.whatwg.org/#dom-context-2d-getimagedata",
+            "https://html.spec.whatwg.org/#element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -49445,6 +49616,11 @@
               "crawled": "https://w3c.github.io/image-resource/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
@@ -51596,56 +51772,6 @@
       }
     },
     {
-      "title": "Straw Man MathML Web Profile",
-      "shortname": "mathml-core",
-      "date": "Editors' Draft",
-      "url": "https://www.w3.org/TR/mathml-core/",
-      "release": {
-        "url": "https://www.w3.org/TR/mathml-core/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/mathml-core/",
-        "repository": "https://github.com/w3c/mathml-core",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/mathml-core/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Math Working Group",
-          "url": "https://www.w3.org/Math/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/cssom-1/",
-              "title": "CSS Object Model (CSSOM)",
-              "crawled": "https://drafts.csswg.org/cssom/"
-            }
-          ]
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Streams Standard",
       "shortname": "streams",
       "date": "18 April 2022",
@@ -53709,7 +53835,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "21 February 2022",
+      "date": "26 April 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -56443,6 +56569,11 @@
               "crawled": "https://wicg.github.io/manifest-incubations/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
@@ -57636,7 +57767,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "25 April 2022",
+      "date": "26 April 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57692,7 +57823,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "25 April 2022",
+      "date": "26 April 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -57849,7 +57980,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "25 April 2022",
+      "date": "26 April 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
@@ -65143,7 +65274,7 @@
     {
       "title": "WebXR Augmented Reality Module - Level 1",
       "shortname": "webxr-ar-module-1",
-      "date": "17 March 2022",
+      "date": "26 April 2022",
       "url": "https://www.w3.org/TR/webxr-ar-module-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-ar-module-1/",
@@ -65605,7 +65736,7 @@
     {
       "title": "WebXR Gamepads Module - Level 1",
       "shortname": "webxr-gamepads-module-1",
-      "date": "3 February 2022",
+      "date": "26 April 2022",
       "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
