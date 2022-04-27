@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-27T06:38:31.203Z",
+  "date": "2022-04-27T12:45:47.021Z",
   "stats": {
     "crawled": 468,
-    "errors": 2,
+    "errors": 1,
     "studied": 468
   },
   "results": [
@@ -4779,7 +4779,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -51245,7 +51244,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers-1",
-      "date": "5 April 2022",
+      "date": "27 April 2022",
       "url": "https://www.w3.org/TR/service-workers-1/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers-1/",
@@ -52494,7 +52493,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "26 April 2022",
+      "date": "27 April 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53003,7 +53002,7 @@
     {
       "title": "Touch Events - Level 2",
       "shortname": "touch-events",
-      "date": "12 April 2022",
+      "date": "27 April 2022",
       "url": "https://www.w3.org/TR/touch-events/",
       "release": {
         "url": "https://www.w3.org/TR/touch-events/",
@@ -53080,7 +53079,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://dom.spec.whatwg.org/#event-retargeting-steps",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
@@ -57767,7 +57765,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "26 April 2022",
+      "date": "27 April 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57823,7 +57821,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-1",
-      "date": "26 April 2022",
+      "date": "27 April 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-1/",
@@ -57980,7 +57978,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-1",
-      "date": "26 April 2022",
+      "date": "27 April 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-1/",
