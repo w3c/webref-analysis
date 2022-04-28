@@ -4260,7 +4260,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4273,25 +4273,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 324)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10069,6 +10059,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 
 
 ### Media Queries Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -11339,7 +11330,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 26 April 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11415,7 +11406,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 26 April 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -12386,7 +12377,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
 - Crawled URL: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
-- Crawled version: 11 April 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
 - Latest published version: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
 - Shortname: picture-in-picture
@@ -12537,21 +12528,19 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### MiniApp Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### MiniApp Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Crawled URL: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
-- Crawled version: 24 March 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
 - Latest published version: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Shortname: miniapp-manifest
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/miniapp-packaging/`](https://www.w3.org/TR/miniapp-packaging/), related reference "MINIAPP-PACKAGING" uses URL [`https://w3c.github.io/miniapp-packaging/`](https://w3c.github.io/miniapp-packaging/)
 - External links to private terms:
      * [`https://www.w3.org/TR/appmanifest/#dfn-text-directions`](https://www.w3.org/TR/appmanifest/#dfn-text-directions)
      * [`https://www.w3.org/TR/appmanifest/#dfn-ltr`](https://www.w3.org/TR/appmanifest/#dfn-ltr)
@@ -12563,20 +12552,18 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/appmanifest/#dfn-process-the-lang-member`](https://www.w3.org/TR/appmanifest/#dfn-process-the-lang-member)
      * [`https://www.w3.org/TR/appmanifest/#dfn-process-a-text-member`](https://www.w3.org/TR/appmanifest/#dfn-process-a-text-member)
      * [`https://www.w3.org/TR/appmanifest/#dfn-process-a-color-member`](https://www.w3.org/TR/appmanifest/#dfn-process-a-color-member)
-     * [`https://w3c.github.io/miniapp-packaging/#dfn-page`](https://w3c.github.io/miniapp-packaging/#dfn-page)
-     * [`https://w3c.github.io/miniapp-packaging/#dfn-package`](https://w3c.github.io/miniapp-packaging/#dfn-package)
+     * [`https://www.w3.org/TR/miniapp-packaging/#dfn-page`](https://www.w3.org/TR/miniapp-packaging/#dfn-page)
+     * [`https://www.w3.org/TR/miniapp-packaging/#dfn-package`](https://www.w3.org/TR/miniapp-packaging/#dfn-package)
      * [`https://www.w3.org/TR/image-resource/#dfn-src`](https://www.w3.org/TR/image-resource/#dfn-src)
      * [`https://www.w3.org/TR/image-resource/#dfn-label`](https://www.w3.org/TR/image-resource/#dfn-label)
      * [`https://www.w3.org/TR/image-resource/#dfn-sizes`](https://www.w3.org/TR/image-resource/#dfn-sizes)
-     * [`https://www.w3.org/TR/miniapp-packaging/#dfn-package`](https://www.w3.org/TR/miniapp-packaging/#dfn-package)
 - Broken external links:
      * [`https://www.w3.org/TR/appmanifest/#dfn-extension-point`](https://www.w3.org/TR/appmanifest/#dfn-extension-point)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-fullscreen`](https://www.w3.org/TR/appmanifest/#dfn-fullscreen)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-minimal-ui`](https://www.w3.org/TR/appmanifest/#dfn-minimal-ui)
      * [`https://html.spec.whatwg.org/#listing`](https://html.spec.whatwg.org/#listing)
      * [`https://html.spec.whatwg.org/#the-link-element`](https://html.spec.whatwg.org/#the-link-element)
      * [`https://html.spec.whatwg.org/#attr-link-sizes`](https://html.spec.whatwg.org/#attr-link-sizes)
      * [`https://html.spec.whatwg.org/#the-code-element`](https://html.spec.whatwg.org/#the-code-element)
+     * [`https://www.w3.org/TR/mediaqueries-4/#display-mode-minimal-ui`](https://www.w3.org/TR/mediaqueries-4/#display-mode-minimal-ui)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12593,7 +12580,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
 - Crawled URL: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
-- Crawled version: 24 March 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
 - Latest published version: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
 - Shortname: miniapp-packaging
@@ -16632,7 +16619,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
 - Crawled URL: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
-- Crawled version: 27 April 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
 - Latest published version: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
 - Shortname: touch-events
@@ -16876,40 +16863,29 @@ Informative references to this spec from:
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 
 
-### Payment Method Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
+### Payment Method Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/payment-method-manifest/](https://www.w3.org/TR/payment-method-manifest/)
 - Crawled URL: [https://w3c.github.io/payment-method-manifest/](https://w3c.github.io/payment-method-manifest/)
-- Crawled version: 20 May 2020
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://w3c.github.io/payment-method-manifest/](https://w3c.github.io/payment-method-manifest/)
 - Latest published version: [https://www.w3.org/TR/payment-method-manifest/](https://www.w3.org/TR/payment-method-manifest/)
 - Shortname: payment-method-manifest
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/), related reference "APPMANIFEST" uses URL [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/)
 - External links to private terms:
      * [`https://w3c.github.io/payment-request/#dfn-payment-method`](https://w3c.github.io/payment-request/#dfn-payment-method)
      * [`https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest`](https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-manifest-url`](https://www.w3.org/TR/appmanifest/#dfn-manifest-url)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-processed-manifest`](https://www.w3.org/TR/appmanifest/#dfn-processed-manifest)
+     * [`https://w3c.github.io/manifest/#dfn-manifest-url`](https://w3c.github.io/manifest/#dfn-manifest-url)
+     * [`https://w3c.github.io/manifest/#dfn-processed-manifest`](https://w3c.github.io/manifest/#dfn-processed-manifest)
 - Broken external links:
-     * [`https://w3c.github.io/payment-request/#dfn-payment-apps`](https://w3c.github.io/payment-request/#dfn-payment-apps)
-     * [`https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers)
-     * [`https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers)
-     * [`https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers`](https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers)
-     * [`https://www.w3.org/TR/appmanifest/#dfn-obtaining-the-manifest`](https://www.w3.org/TR/appmanifest/#dfn-obtaining-the-manifest)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
-     * [`https://infra.spec.whatwg.org/#parse-json-into-infra-values`](https://infra.spec.whatwg.org/#parse-json-into-infra-values)
-     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
-     * [`https://fetch.spec.whatwg.org/#concept-get-reader`](https://fetch.spec.whatwg.org/#concept-get-reader)
-     * [`https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream`](https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17121,7 +17097,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
 - Crawled URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
-- Crawled version: 9 March 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
 - Shortname: event-timing
 
@@ -19784,7 +19760,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Origin Policy {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### Origin Policy {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -19796,40 +19772,18 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- External links to private terms:
-     * [`https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch`](https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch)
-     * [`https://fetch.spec.whatwg.org/#concept-main-fetch`](https://fetch.spec.whatwg.org/#concept-main-fetch)
-     * [`https://w3c.github.io/webappsec-feature-policy/#policy-directive`](https://w3c.github.io/webappsec-feature-policy/#policy-directive)
-     * [`https://w3c.github.io/webappsec-feature-policy/#parse-policy-directive`](https://w3c.github.io/webappsec-feature-policy/#parse-policy-directive)
-     * [`https://w3c.github.io/ServiceWorker/#update`](https://w3c.github.io/ServiceWorker/#update)
-     * [`https://w3c.github.io/ServiceWorker/#run-service-worker`](https://w3c.github.io/ServiceWorker/#run-service-worker)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
-     * [`https://html.spec.whatwg.org/#meta`](https://html.spec.whatwg.org/#meta)
-     * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#concept-document-feature-policy`](https://html.spec.whatwg.org/#concept-document-feature-policy)
-     * [`https://html.spec.whatwg.org/#concept-document-csp-list`](https://html.spec.whatwg.org/#concept-document-csp-list)
-     * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
-     * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
-     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
-     * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
-     * [`https://html.spec.whatwg.org/#initialise-the-document-object`](https://html.spec.whatwg.org/#initialise-the-document-object)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
-     * [`https://html.spec.whatwg.org/#run-a-worker`](https://html.spec.whatwg.org/#run-a-worker)
-     * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
-     * [`https://html.spec.whatwg.org/#fetching-scripts-perform-fetch`](https://html.spec.whatwg.org/#fetching-scripts-perform-fetch)
-     * [`https://w3c.github.io/webappsec-csp/#set-response-csp-list`](https://w3c.github.io/webappsec-csp/#set-response-csp-list)
-     * [`https://xhr.spec.whatwg.org/#sync-xhr`](https://xhr.spec.whatwg.org/#sync-xhr)
-     * [`https://fetch.spec.whatwg.org/#concept-body-wait`](https://fetch.spec.whatwg.org/#concept-body-wait)
-     * [`https://fetch.spec.whatwg.org/#concept-response-csp-list`](https://fetch.spec.whatwg.org/#concept-response-csp-list)
-     * [`https://wicg.github.io/feature-policy/#serialized-feature-policy`](https://wicg.github.io/feature-policy/#serialized-feature-policy)
-     * [`https://wicg.github.io/feature-policy/#feature-policy-header`](https://wicg.github.io/feature-policy/#feature-policy-header)
-     * [`https://infra.spec.whatwg.org/#parse-json-into-infra-values`](https://infra.spec.whatwg.org/#parse-json-into-infra-values)
-     * [`https://w3c.github.io/webappsec-feature-policy/#merge-directive-with-declared-policy`](https://w3c.github.io/webappsec-feature-policy/#merge-directive-with-declared-policy)
-     * [`https://w3c.github.io/webappsec-feature-policy/#parse-header-from-value-and-origin`](https://w3c.github.io/webappsec-feature-policy/#parse-header-from-value-and-origin)
+The following network or parsing error occurred:
+`Error: Loading script from reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/reffy.mjs failed Error: Loading script from reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/reffy.mjs failed
+    at DOMWorld.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:177:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:652:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 122)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 

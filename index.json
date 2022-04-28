@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-04-28T12:45:42.393Z",
+  "date": "2022-04-28T18:38:38.835Z",
   "stats": {
     "crawled": 468,
-    "errors": 1,
+    "errors": 3,
     "studied": 468
   },
   "results": [
@@ -4779,6 +4779,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24013,7 +24014,7 @@
     {
       "title": "Event Timing API",
       "shortname": "event-timing",
-      "date": "9 March 2022",
+      "date": "28 April 2022",
       "url": "https://w3c.github.io/event-timing/",
       "nightly": {
         "url": "https://w3c.github.io/event-timing/",
@@ -40176,6 +40177,11 @@
               "url": "https://mimesniff.spec.whatwg.org/",
               "title": "MIME Sniffing Standard",
               "crawled": "https://mimesniff.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
             }
           ]
         },
@@ -41219,7 +41225,7 @@
     {
       "title": "MiniApp Manifest",
       "shortname": "miniapp-manifest",
-      "date": "24 March 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/miniapp-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -41252,15 +41258,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/miniapp-packaging/",
-            "ref": {
-              "name": "MINIAPP-PACKAGING",
-              "url": "https://w3c.github.io/miniapp-packaging/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -41283,22 +41281,20 @@
             "https://www.w3.org/TR/appmanifest/#dfn-process-the-lang-member",
             "https://www.w3.org/TR/appmanifest/#dfn-process-a-text-member",
             "https://www.w3.org/TR/appmanifest/#dfn-process-a-color-member",
-            "https://w3c.github.io/miniapp-packaging/#dfn-page",
-            "https://w3c.github.io/miniapp-packaging/#dfn-package",
+            "https://www.w3.org/TR/miniapp-packaging/#dfn-page",
+            "https://www.w3.org/TR/miniapp-packaging/#dfn-package",
             "https://www.w3.org/TR/image-resource/#dfn-src",
             "https://www.w3.org/TR/image-resource/#dfn-label",
-            "https://www.w3.org/TR/image-resource/#dfn-sizes",
-            "https://www.w3.org/TR/miniapp-packaging/#dfn-package"
+            "https://www.w3.org/TR/image-resource/#dfn-sizes"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://www.w3.org/TR/appmanifest/#dfn-extension-point",
-            "https://www.w3.org/TR/appmanifest/#dfn-fullscreen",
-            "https://www.w3.org/TR/appmanifest/#dfn-minimal-ui",
             "https://html.spec.whatwg.org/#listing",
             "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#attr-link-sizes",
-            "https://html.spec.whatwg.org/#the-code-element"
+            "https://html.spec.whatwg.org/#the-code-element",
+            "https://www.w3.org/TR/mediaqueries-4/#display-mode-minimal-ui"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41310,7 +41306,7 @@
     {
       "title": "MiniApp Packaging",
       "shortname": "miniapp-packaging",
-      "date": "24 March 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/miniapp-packaging/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -42670,6 +42666,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading script from reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/reffy.mjs failed Error: Loading script from reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/reffy.mjs failed\n    at DOMWorld.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:177:23)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:652:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 122)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -43239,7 +43236,7 @@
     {
       "title": "Payment Method Manifest",
       "shortname": "payment-method-manifest",
-      "date": "20 May 2020",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/payment-method-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/payment-method-manifest/",
@@ -43272,15 +43269,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/appmanifest/",
-            "ref": {
-              "name": "APPMANIFEST",
-              "url": "https://w3c.github.io/manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -43301,24 +43290,15 @@
           "notExported": [
             "https://w3c.github.io/payment-request/#dfn-payment-method",
             "https://w3c.github.io/payment-request/#dfn-paymentrequest-paymentrequest",
-            "https://www.w3.org/TR/appmanifest/#dfn-manifest-url",
-            "https://www.w3.org/TR/appmanifest/#dfn-processed-manifest"
+            "https://w3c.github.io/manifest/#dfn-manifest-url",
+            "https://w3c.github.io/manifest/#dfn-processed-manifest"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://w3c.github.io/payment-request/#dfn-payment-apps",
-            "https://w3c.github.io/payment-method-id/#dfn-payment-method-identifiers",
-            "https://w3c.github.io/payment-method-id/#dfn-url-based-payment-method-identifiers",
-            "https://w3c.github.io/payment-method-id/#dfn-standardized-payment-method-identifiers",
-            "https://www.w3.org/TR/appmanifest/#dfn-obtaining-the-manifest",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#environment-settings-object",
-            "https://infra.spec.whatwg.org/#parse-json-into-infra-values",
-            "https://fetch.spec.whatwg.org/#concept-fetch-terminate",
-            "https://fetch.spec.whatwg.org/#concept-get-reader",
-            "https://fetch.spec.whatwg.org/#concept-read-all-bytes-from-readablestream"
+            "https://html.spec.whatwg.org/#environment-settings-object"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -44229,7 +44209,7 @@
     {
       "title": "Picture-in-Picture",
       "shortname": "picture-in-picture",
-      "date": "11 April 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/picture-in-picture/",
       "release": {
         "url": "https://www.w3.org/TR/picture-in-picture/",
@@ -53002,7 +52982,7 @@
     {
       "title": "Touch Events - Level 2",
       "shortname": "touch-events",
-      "date": "27 April 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/touch-events/",
       "release": {
         "url": "https://www.w3.org/TR/touch-events/",
@@ -64059,7 +64039,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 April 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64181,7 +64161,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 April 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
