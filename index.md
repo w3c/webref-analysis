@@ -96,7 +96,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
 - Crawled URL: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
-- Crawled version: 4 January 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
 - Shortname: tc39-array-grouping
 
@@ -207,7 +207,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 28 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -259,6 +259,7 @@ Normative references to this spec from:
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
@@ -478,7 +479,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
 - Crawled URL: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
-- Crawled version: 4 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
 - Shortname: tc39-shadowrealm
 
@@ -499,7 +500,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 29 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -2993,7 +2994,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 29 April 2022
+- Crawled version: 02 May 2022
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -3265,7 +3266,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-fs-action`](https://html.spec.whatwg.org/#attr-fs-action)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
      * [`https://html.spec.whatwg.org/#attr-iframe-allowfullscreen`](https://html.spec.whatwg.org/#attr-iframe-allowfullscreen)
-     * [`https://html.spec.whatwg.org/#attr-iframe-allowpaymentrequest`](https://html.spec.whatwg.org/#attr-iframe-allowpaymentrequest)
      * [`https://html.spec.whatwg.org/#attr-area-alt`](https://html.spec.whatwg.org/#attr-area-alt)
      * [`https://html.spec.whatwg.org/#attr-input-alt`](https://html.spec.whatwg.org/#attr-input-alt)
      * [`https://html.spec.whatwg.org/#attr-link-as`](https://html.spec.whatwg.org/#attr-link-as)
@@ -3275,6 +3275,9 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-fe-autocomplete`](https://html.spec.whatwg.org/#attr-fe-autocomplete)
      * [`https://html.spec.whatwg.org/#attr-fe-autofocus`](https://html.spec.whatwg.org/#attr-fe-autofocus)
      * [`https://html.spec.whatwg.org/#attr-media-autoplay`](https://html.spec.whatwg.org/#attr-media-autoplay)
+     * [`https://html.spec.whatwg.org/#attr-link-blocking`](https://html.spec.whatwg.org/#attr-link-blocking)
+     * [`https://html.spec.whatwg.org/#attr-script-defer`](https://html.spec.whatwg.org/#attr-script-defer)
+     * [`https://html.spec.whatwg.org/#attr-style-media`](https://html.spec.whatwg.org/#attr-style-media)
      * [`https://html.spec.whatwg.org/#attr-meta-charset`](https://html.spec.whatwg.org/#attr-meta-charset)
      * [`https://html.spec.whatwg.org/#attr-input-checked`](https://html.spec.whatwg.org/#attr-input-checked)
      * [`https://html.spec.whatwg.org/#attr-blockquote-cite`](https://html.spec.whatwg.org/#attr-blockquote-cite)
@@ -3296,7 +3299,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-time-datetime`](https://html.spec.whatwg.org/#attr-time-datetime)
      * [`https://html.spec.whatwg.org/#attr-img-decoding`](https://html.spec.whatwg.org/#attr-img-decoding)
      * [`https://html.spec.whatwg.org/#attr-track-default`](https://html.spec.whatwg.org/#attr-track-default)
-     * [`https://html.spec.whatwg.org/#attr-script-defer`](https://html.spec.whatwg.org/#attr-script-defer)
      * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
      * [`https://html.spec.whatwg.org/#attr-fe-dirname`](https://html.spec.whatwg.org/#attr-fe-dirname)
      * [`https://html.spec.whatwg.org/#attr-fe-disabled`](https://html.spec.whatwg.org/#attr-fe-disabled)
@@ -3339,8 +3341,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-input-maxlength`](https://html.spec.whatwg.org/#attr-input-maxlength)
      * [`https://html.spec.whatwg.org/#attr-textarea-maxlength`](https://html.spec.whatwg.org/#attr-textarea-maxlength)
      * [`https://html.spec.whatwg.org/#attr-link-media`](https://html.spec.whatwg.org/#attr-link-media)
+     * [`https://html.spec.whatwg.org/#attr-meta-media`](https://html.spec.whatwg.org/#attr-meta-media)
      * [`https://html.spec.whatwg.org/#attr-source-media`](https://html.spec.whatwg.org/#attr-source-media)
-     * [`https://html.spec.whatwg.org/#attr-style-media`](https://html.spec.whatwg.org/#attr-style-media)
      * [`https://html.spec.whatwg.org/#attr-fs-method`](https://html.spec.whatwg.org/#attr-fs-method)
      * [`https://html.spec.whatwg.org/#attr-input-min`](https://html.spec.whatwg.org/#attr-input-min)
      * [`https://html.spec.whatwg.org/#attr-meter-min`](https://html.spec.whatwg.org/#attr-meter-min)
@@ -3438,7 +3440,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-li-value`](https://html.spec.whatwg.org/#attr-li-value)
      * [`https://html.spec.whatwg.org/#attr-meter-value`](https://html.spec.whatwg.org/#attr-meter-value)
      * [`https://html.spec.whatwg.org/#attr-progress-value`](https://html.spec.whatwg.org/#attr-progress-value)
-     * [`https://html.spec.whatwg.org/#attr-param-value`](https://html.spec.whatwg.org/#attr-param-value)
      * [`https://html.spec.whatwg.org/#attr-canvas-width`](https://html.spec.whatwg.org/#attr-canvas-width)
      * [`https://html.spec.whatwg.org/#attr-dim-width`](https://html.spec.whatwg.org/#attr-dim-width)
      * [`https://html.spec.whatwg.org/#attr-textarea-wrap`](https://html.spec.whatwg.org/#attr-textarea-wrap)
@@ -3595,7 +3596,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Crawled URL: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
-- Crawled version: 25 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
 - Latest published version: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Shortname: webaudio
@@ -5455,6 +5456,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
@@ -5504,6 +5506,7 @@ Normative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 
 Informative references to this spec from:
@@ -6162,7 +6165,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Crawled URL: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
-- Crawled version: 19 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
 - Latest published version: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Shortname: css-flexbox-1
@@ -6680,7 +6683,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Crawled URL: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
-- Crawled version: 14 March 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
 - Latest published version: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Shortname: css-grid-2
@@ -8133,7 +8136,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-ruby-1/](https://www.w3.org/TR/css-ruby-1/)
 - Crawled URL: [https://drafts.csswg.org/css-ruby-1/](https://drafts.csswg.org/css-ruby-1/)
-- Crawled version: 2 February 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-ruby-1/](https://drafts.csswg.org/css-ruby-1/)
 - Latest published version: [https://www.w3.org/TR/css-ruby-1/](https://www.w3.org/TR/css-ruby-1/)
 - Shortname: css-ruby-1
@@ -10769,7 +10772,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 13 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -12689,7 +12692,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 18 April 2022
+- Crawled version: 02 May 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -12827,6 +12830,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
@@ -14225,6 +14229,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
@@ -14431,6 +14436,7 @@ Normative references to this spec from:
 
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
@@ -14563,12 +14569,14 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 
 Informative references to this spec from:
 
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 
@@ -14750,6 +14758,7 @@ Normative references to this spec from:
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
@@ -14841,6 +14850,7 @@ Normative references to this spec from:
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
@@ -16268,6 +16278,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Badging API](https://w3c.github.io/badging/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
@@ -16663,7 +16674,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 27 April 2022
+- Crawled version: 28 April 2022
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -18803,6 +18814,41 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Federated Credential Management API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
+- Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
+- Crawled version: 30 March 2022
+- Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
+- Shortname: FedCM
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://w3c.github.io/privacy-considerations/`](https://w3c.github.io/privacy-considerations/)
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
+- External links to private terms:
+     * [`https://w3c.github.io/webappsec-credential-management/#same-origin-with-its-ancestors`](https://w3c.github.io/webappsec-credential-management/#same-origin-with-its-ancestors)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#same-site`](https://html.spec.whatwg.org/#same-site)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
+     * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#tracking-user-activation`](https://html.spec.whatwg.org/#tracking-user-activation)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21251,6 +21297,7 @@ Normative references to this spec from:
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
@@ -21604,6 +21651,7 @@ Normative references to this spec from:
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 - [Region Capture](https://w3c.github.io/mediacapture-region/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 
 Informative references to this spec from:
 
@@ -21637,6 +21685,47 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
      * [`https://html.spec.whatwg.org/#active-window`](https://html.spec.whatwg.org/#active-window)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Viewport Capture {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/mediacapture-viewport/](https://w3c.github.io/mediacapture-viewport/)
+- Crawled URL: [https://w3c.github.io/mediacapture-viewport/](https://w3c.github.io/mediacapture-viewport/)
+- Crawled version: 02 May 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-viewport/](https://w3c.github.io/mediacapture-viewport/)
+- Shortname: mediacapture-viewport
+
+#### Potential issue(s) {.anomalies}
+
+- External links to private terms:
+     * [`https://www.w3.org/TR/screen-capture/#dfn-display-surface`](https://www.w3.org/TR/screen-capture/#dfn-display-surface)
+     * [`https://www.w3.org/TR/screen-capture/#dfn-browser`](https://www.w3.org/TR/screen-capture/#dfn-browser)
+     * [`https://www.w3.org/TR/screen-capture/#dfn-floor-value`](https://www.w3.org/TR/screen-capture/#dfn-floor-value)
+     * [`https://wicg.github.io/document-policy/#required-document-policy`](https://wicg.github.io/document-policy/#required-document-policy)
+- External links that neither target definitions nor headings:
+     * [`https://www.w3.org/TR/screen-capture/#constrainable-properties`](https://www.w3.org/TR/screen-capture/#constrainable-properties)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#gains-focus`](https://html.spec.whatwg.org/#gains-focus)
+     * [`https://html.spec.whatwg.org/#viewport`](https://html.spec.whatwg.org/#viewport)
+     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
+     * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21713,6 +21802,7 @@ Informative references to this spec from:
 
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 
 
 ### WebRTC Encoded Transform {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
@@ -21970,7 +22060,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 8 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 
@@ -22186,6 +22276,7 @@ Normative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
@@ -22322,6 +22413,7 @@ Informative references to this spec from:
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Share API](https://w3c.github.io/web-share/)
 
 
@@ -22333,7 +22425,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 21 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -22435,6 +22527,7 @@ Normative references to this spec from:
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [Document Policy](https://wicg.github.io/document-policy/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
@@ -22577,7 +22670,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 27 April 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -23208,6 +23301,7 @@ Normative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -23337,6 +23431,7 @@ Normative references to this spec from:
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
@@ -23476,7 +23571,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Crawled URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
-- Crawled version: 17 January 2022
+- Crawled version: 2 May 2022
 - Editor's Draft: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Shortname: infra
 
@@ -23543,6 +23638,7 @@ Normative references to this spec from:
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -23623,6 +23719,7 @@ Normative references to this spec from:
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
@@ -24066,6 +24163,7 @@ Normative references to this spec from:
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
@@ -24238,6 +24336,7 @@ Normative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
@@ -24330,6 +24429,7 @@ Normative references to this spec from:
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)

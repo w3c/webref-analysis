@@ -2,7 +2,7 @@
 % Strudy
 % May 02, 2022
 
-467 specifications were crawled in this report.
+469 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -1359,6 +1359,11 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/) but does not list it in its references
     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to:
+    * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://w3c.github.io/privacy-considerations/`](https://w3c.github.io/privacy-considerations/) but does not list it in its references
+    * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
 - [File API](https://w3c.github.io/FileAPI/) links to [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/) but does not list it in its references
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1629,7 +1634,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 744 missing references for links found in 202 specifications
+=> 748 missing references for links found in 203 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2449,6 +2454,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Event Timing API](https://w3c.github.io/event-timing/):
      * [`https://wicg.github.io/element-timing/#get-an-element`](https://wicg.github.io/element-timing/#get-an-element)
      * [`https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry`](https://w3c.github.io/timing-entrytypes-registry/#dfn-should-add-entry)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/):
+     * [`https://w3c.github.io/webappsec-credential-management/#same-origin-with-its-ancestors`](https://w3c.github.io/webappsec-credential-management/#same-origin-with-its-ancestors)
 - [Fetch Standard](https://fetch.spec.whatwg.org/):
      * [`https://w3c.github.io/FileAPI/#readOperation`](https://w3c.github.io/FileAPI/#readOperation)
 - [File System Access](https://wicg.github.io/file-system-access/):
@@ -2828,6 +2835,11 @@ Links in the body of a specification should be to the same document as that poin
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/):
      * [`https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-passive-fingerprinting)
      * [`https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting`](https://w3c.github.io/fingerprinting-guidance/#dfn-active-fingerprinting)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/):
+     * [`https://www.w3.org/TR/screen-capture/#dfn-display-surface`](https://www.w3.org/TR/screen-capture/#dfn-display-surface)
+     * [`https://www.w3.org/TR/screen-capture/#dfn-browser`](https://www.w3.org/TR/screen-capture/#dfn-browser)
+     * [`https://www.w3.org/TR/screen-capture/#dfn-floor-value`](https://www.w3.org/TR/screen-capture/#dfn-floor-value)
+     * [`https://wicg.github.io/document-policy/#required-document-policy`](https://wicg.github.io/document-policy/#required-document-policy)
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
      * [`https://www.w3.org/TR/cssom-view-1/#pinch-zoom`](https://www.w3.org/TR/cssom-view-1/#pinch-zoom)
@@ -3115,7 +3127,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 837 problematic external links found in 208 specifications
+=> 842 problematic external links found in 210 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -4001,6 +4013,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp`](https://www.w3.org/TR/hr-time-2/#idl-def-domhighrestimestamp)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/):
      * [`https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases`](https://w3c.github.io/fingerprinting-guidance/#avoid-passive-increases)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/):
+     * [`https://www.w3.org/TR/screen-capture/#constrainable-properties`](https://www.w3.org/TR/screen-capture/#constrainable-properties)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/):
      * [`https://w3c.github.io/aria/#none`](https://w3c.github.io/aria/#none)
      * [`https://w3c.github.io/aria/#presentation`](https://w3c.github.io/aria/#presentation)
@@ -4050,7 +4064,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 871 problematic external links found in 58 specifications
+=> 872 problematic external links found in 59 specifications
 
 
 ## Broken external links
@@ -5455,6 +5469,14 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/):
+     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#same-site`](https://html.spec.whatwg.org/#same-site)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
+     * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#tracking-user-activation`](https://html.spec.whatwg.org/#tracking-user-activation)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/):
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
@@ -5994,7 +6016,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-fs-action`](https://html.spec.whatwg.org/#attr-fs-action)
      * [`https://html.spec.whatwg.org/#attr-iframe-allow`](https://html.spec.whatwg.org/#attr-iframe-allow)
      * [`https://html.spec.whatwg.org/#attr-iframe-allowfullscreen`](https://html.spec.whatwg.org/#attr-iframe-allowfullscreen)
-     * [`https://html.spec.whatwg.org/#attr-iframe-allowpaymentrequest`](https://html.spec.whatwg.org/#attr-iframe-allowpaymentrequest)
      * [`https://html.spec.whatwg.org/#attr-area-alt`](https://html.spec.whatwg.org/#attr-area-alt)
      * [`https://html.spec.whatwg.org/#attr-input-alt`](https://html.spec.whatwg.org/#attr-input-alt)
      * [`https://html.spec.whatwg.org/#attr-link-as`](https://html.spec.whatwg.org/#attr-link-as)
@@ -6004,6 +6025,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-fe-autocomplete`](https://html.spec.whatwg.org/#attr-fe-autocomplete)
      * [`https://html.spec.whatwg.org/#attr-fe-autofocus`](https://html.spec.whatwg.org/#attr-fe-autofocus)
      * [`https://html.spec.whatwg.org/#attr-media-autoplay`](https://html.spec.whatwg.org/#attr-media-autoplay)
+     * [`https://html.spec.whatwg.org/#attr-link-blocking`](https://html.spec.whatwg.org/#attr-link-blocking)
+     * [`https://html.spec.whatwg.org/#attr-script-defer`](https://html.spec.whatwg.org/#attr-script-defer)
+     * [`https://html.spec.whatwg.org/#attr-style-media`](https://html.spec.whatwg.org/#attr-style-media)
      * [`https://html.spec.whatwg.org/#attr-meta-charset`](https://html.spec.whatwg.org/#attr-meta-charset)
      * [`https://html.spec.whatwg.org/#attr-input-checked`](https://html.spec.whatwg.org/#attr-input-checked)
      * [`https://html.spec.whatwg.org/#attr-blockquote-cite`](https://html.spec.whatwg.org/#attr-blockquote-cite)
@@ -6025,7 +6049,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-time-datetime`](https://html.spec.whatwg.org/#attr-time-datetime)
      * [`https://html.spec.whatwg.org/#attr-img-decoding`](https://html.spec.whatwg.org/#attr-img-decoding)
      * [`https://html.spec.whatwg.org/#attr-track-default`](https://html.spec.whatwg.org/#attr-track-default)
-     * [`https://html.spec.whatwg.org/#attr-script-defer`](https://html.spec.whatwg.org/#attr-script-defer)
      * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
      * [`https://html.spec.whatwg.org/#attr-fe-dirname`](https://html.spec.whatwg.org/#attr-fe-dirname)
      * [`https://html.spec.whatwg.org/#attr-fe-disabled`](https://html.spec.whatwg.org/#attr-fe-disabled)
@@ -6068,8 +6091,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-input-maxlength`](https://html.spec.whatwg.org/#attr-input-maxlength)
      * [`https://html.spec.whatwg.org/#attr-textarea-maxlength`](https://html.spec.whatwg.org/#attr-textarea-maxlength)
      * [`https://html.spec.whatwg.org/#attr-link-media`](https://html.spec.whatwg.org/#attr-link-media)
+     * [`https://html.spec.whatwg.org/#attr-meta-media`](https://html.spec.whatwg.org/#attr-meta-media)
      * [`https://html.spec.whatwg.org/#attr-source-media`](https://html.spec.whatwg.org/#attr-source-media)
-     * [`https://html.spec.whatwg.org/#attr-style-media`](https://html.spec.whatwg.org/#attr-style-media)
      * [`https://html.spec.whatwg.org/#attr-fs-method`](https://html.spec.whatwg.org/#attr-fs-method)
      * [`https://html.spec.whatwg.org/#attr-input-min`](https://html.spec.whatwg.org/#attr-input-min)
      * [`https://html.spec.whatwg.org/#attr-meter-min`](https://html.spec.whatwg.org/#attr-meter-min)
@@ -6167,7 +6190,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-li-value`](https://html.spec.whatwg.org/#attr-li-value)
      * [`https://html.spec.whatwg.org/#attr-meter-value`](https://html.spec.whatwg.org/#attr-meter-value)
      * [`https://html.spec.whatwg.org/#attr-progress-value`](https://html.spec.whatwg.org/#attr-progress-value)
-     * [`https://html.spec.whatwg.org/#attr-param-value`](https://html.spec.whatwg.org/#attr-param-value)
      * [`https://html.spec.whatwg.org/#attr-canvas-width`](https://html.spec.whatwg.org/#attr-canvas-width)
      * [`https://html.spec.whatwg.org/#attr-dim-width`](https://html.spec.whatwg.org/#attr-dim-width)
      * [`https://html.spec.whatwg.org/#attr-textarea-wrap`](https://html.spec.whatwg.org/#attr-textarea-wrap)
@@ -8433,6 +8455,20 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#spin-the-event-loop`](https://html.spec.whatwg.org/#spin-the-event-loop)
      * [`https://html.spec.whatwg.org/#the-navigator-object`](https://html.spec.whatwg.org/#the-navigator-object)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/):
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#gains-focus`](https://html.spec.whatwg.org/#gains-focus)
+     * [`https://html.spec.whatwg.org/#viewport`](https://html.spec.whatwg.org/#viewport)
+     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
+     * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/):
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
@@ -9294,7 +9330,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4935 problematic external links found in 303 specifications
+=> 4955 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

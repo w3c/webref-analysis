@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-02T12:46:21.742Z",
+  "date": "2022-05-02T18:45:29.678Z",
   "stats": {
-    "crawled": 467,
+    "crawled": 469,
     "errors": 0,
-    "studied": 467
+    "studied": 469
   },
   "results": [
     {
@@ -1165,7 +1165,7 @@
     {
       "title": "Array Grouping",
       "shortname": "tc39-array-grouping",
-      "date": "4 January 2022",
+      "date": "2 May 2022",
       "url": "https://tc39.es/proposal-array-grouping/",
       "nightly": {
         "url": "https://tc39.es/proposal-array-grouping/",
@@ -2366,7 +2366,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "8 April 2022",
+      "date": "2 May 2022",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -3128,6 +3128,11 @@
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
+            },
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -3931,6 +3936,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
@@ -3947,6 +3957,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
             {
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
@@ -8112,6 +8127,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -8288,6 +8308,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -10139,7 +10164,7 @@
     {
       "title": "CSS Flexible Box Layout Module Level 1",
       "shortname": "css-flexbox-1",
-      "date": "19 April 2022",
+      "date": "2 May 2022",
       "url": "https://www.w3.org/TR/css-flexbox-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -11686,7 +11711,7 @@
     {
       "title": "CSS Grid Layout Module Level 2",
       "shortname": "css-grid-2",
-      "date": "14 March 2022",
+      "date": "2 May 2022",
       "url": "https://www.w3.org/TR/css-grid-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-2/",
@@ -15785,7 +15810,7 @@
     {
       "title": "CSS Ruby Annotation Layout Module Level 1",
       "shortname": "css-ruby-1",
-      "date": "2 February 2022",
+      "date": "2 May 2022",
       "url": "https://www.w3.org/TR/css-ruby-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-ruby-1/",
@@ -21959,6 +21984,11 @@
               "crawled": "https://wicg.github.io/eyedropper-api/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -22626,6 +22656,11 @@
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
@@ -22840,7 +22875,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "28 April 2022",
+      "date": "2 May 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23088,6 +23123,11 @@
               "url": "https://wicg.github.io/urlpattern/",
               "title": "URLPattern API",
               "crawled": "https://wicg.github.io/urlpattern/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -24218,6 +24258,70 @@
       }
     },
     {
+      "title": "Federated Credential Management API",
+      "shortname": "FedCM",
+      "date": "30 March 2022",
+      "url": "https://fedidcg.github.io/FedCM/",
+      "nightly": {
+        "url": "https://fedidcg.github.io/FedCM/",
+        "repository": "https://github.com/fedidcg/FedCM",
+        "sourcePath": "spec/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://fedidcg.github.io/FedCM/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/referrer-policy/",
+          "https://www.w3.org/TR/security-privacy-questionnaire/",
+          "https://w3c.github.io/privacy-considerations/",
+          "https://www.w3.org/TR/design-principles/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://w3c.github.io/webappsec-credential-management/#same-origin-with-its-ancestors"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#concept-origin",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#same-site",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-settings-object-origin",
+            "https://html.spec.whatwg.org/#environment-settings-object",
+            "https://html.spec.whatwg.org/#tracking-user-activation"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Fetch Metadata Request Headers",
       "shortname": "fetch-metadata",
       "date": "20 July 2021",
@@ -24309,7 +24413,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "21 April 2022",
+      "date": "2 May 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24473,6 +24577,11 @@
               "url": "https://wicg.github.io/document-policy/",
               "title": "Document Policy",
               "crawled": "https://wicg.github.io/document-policy/"
+            },
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
               "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -26169,7 +26278,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "13 April 2022",
+      "date": "2 May 2022",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -27164,7 +27273,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "29 April 2022",
+      "date": "02 May 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -27504,7 +27613,6 @@
             "https://html.spec.whatwg.org/#attr-fs-action",
             "https://html.spec.whatwg.org/#attr-iframe-allow",
             "https://html.spec.whatwg.org/#attr-iframe-allowfullscreen",
-            "https://html.spec.whatwg.org/#attr-iframe-allowpaymentrequest",
             "https://html.spec.whatwg.org/#attr-area-alt",
             "https://html.spec.whatwg.org/#attr-input-alt",
             "https://html.spec.whatwg.org/#attr-link-as",
@@ -27514,6 +27622,9 @@
             "https://html.spec.whatwg.org/#attr-fe-autocomplete",
             "https://html.spec.whatwg.org/#attr-fe-autofocus",
             "https://html.spec.whatwg.org/#attr-media-autoplay",
+            "https://html.spec.whatwg.org/#attr-link-blocking",
+            "https://html.spec.whatwg.org/#attr-script-defer",
+            "https://html.spec.whatwg.org/#attr-style-media",
             "https://html.spec.whatwg.org/#attr-meta-charset",
             "https://html.spec.whatwg.org/#attr-input-checked",
             "https://html.spec.whatwg.org/#attr-blockquote-cite",
@@ -27535,7 +27646,6 @@
             "https://html.spec.whatwg.org/#attr-time-datetime",
             "https://html.spec.whatwg.org/#attr-img-decoding",
             "https://html.spec.whatwg.org/#attr-track-default",
-            "https://html.spec.whatwg.org/#attr-script-defer",
             "https://html.spec.whatwg.org/#the-dir-attribute",
             "https://html.spec.whatwg.org/#attr-fe-dirname",
             "https://html.spec.whatwg.org/#attr-fe-disabled",
@@ -27578,8 +27688,8 @@
             "https://html.spec.whatwg.org/#attr-input-maxlength",
             "https://html.spec.whatwg.org/#attr-textarea-maxlength",
             "https://html.spec.whatwg.org/#attr-link-media",
+            "https://html.spec.whatwg.org/#attr-meta-media",
             "https://html.spec.whatwg.org/#attr-source-media",
-            "https://html.spec.whatwg.org/#attr-style-media",
             "https://html.spec.whatwg.org/#attr-fs-method",
             "https://html.spec.whatwg.org/#attr-input-min",
             "https://html.spec.whatwg.org/#attr-meter-min",
@@ -27677,7 +27787,6 @@
             "https://html.spec.whatwg.org/#attr-li-value",
             "https://html.spec.whatwg.org/#attr-meter-value",
             "https://html.spec.whatwg.org/#attr-progress-value",
-            "https://html.spec.whatwg.org/#attr-param-value",
             "https://html.spec.whatwg.org/#attr-canvas-width",
             "https://html.spec.whatwg.org/#attr-dim-width",
             "https://html.spec.whatwg.org/#attr-textarea-wrap",
@@ -27841,7 +27950,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 April 2022",
+      "date": "2 May 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34579,6 +34688,11 @@
               "crawled": "https://wicg.github.io/eyedropper-api/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://www.w3.org/TR/fetch-metadata/",
               "title": "Fetch Metadata Request Headers",
               "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
@@ -35222,6 +35336,11 @@
               "url": "https://www.w3.org/TR/vibration/",
               "title": "Vibration API (Second Edition)",
               "crawled": "https://w3c.github.io/vibration/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/virtual-keyboard/",
@@ -36638,7 +36757,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "27 April 2022",
+      "date": "28 April 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -36800,7 +36919,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "17 January 2022",
+      "date": "2 May 2022",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -37106,6 +37225,11 @@
               "url": "https://w3c.github.io/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing/"
+            },
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
               "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -37506,6 +37630,11 @@
               "url": "https://wicg.github.io/ua-client-hints/",
               "title": "User-Agent Client Hints",
               "crawled": "https://wicg.github.io/ua-client-hints/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -39650,6 +39779,11 @@
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
@@ -41441,6 +41575,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
             {
               "url": "https://www.w3.org/TR/gamepad/",
               "title": "Gamepad",
@@ -43720,6 +43859,11 @@
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -44025,6 +44169,11 @@
               "url": "https://wicg.github.io/ua-client-hints/",
               "title": "User-Agent Client Hints",
               "crawled": "https://wicg.github.io/ua-client-hints/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/webauthn-3/",
@@ -44426,7 +44575,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "18 April 2022",
+      "date": "02 May 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -49958,6 +50107,11 @@
               "url": "https://w3c.github.io/mediacapture-handle/actions/",
               "title": "The Capture-Handle Actions Mechanism",
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             }
           ],
           "informative": [
@@ -51516,7 +51670,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "4 April 2022",
+      "date": "2 May 2022",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
@@ -52388,7 +52542,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "29 April 2022",
+      "date": "2 May 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53033,6 +53187,11 @@
         "referencedBy": {
           "normative": [],
           "informative": [
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
             {
               "url": "https://www.w3.org/TR/fingerprinting-guidance/",
               "title": "Mitigating Browser Fingerprinting in Web Specifications",
@@ -53879,6 +54038,11 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://www.w3.org/TR/fetch-metadata/",
               "title": "Fetch Metadata Request Headers",
               "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
@@ -54483,6 +54647,76 @@
             "https://html.spec.whatwg.org/#spin-the-event-loop",
             "https://html.spec.whatwg.org/#the-navigator-object",
             "https://html.spec.whatwg.org/#navigator"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Viewport Capture",
+      "shortname": "mediacapture-viewport",
+      "date": "02 May 2022",
+      "url": "https://w3c.github.io/mediacapture-viewport/",
+      "nightly": {
+        "url": "https://w3c.github.io/mediacapture-viewport/",
+        "repository": "https://github.com/w3c/mediacapture-viewport",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mediacapture-viewport/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Real-Time Communications Working Group",
+          "url": "https://www.w3.org/groups/wg/webrtc"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/screen-capture/#dfn-display-surface",
+            "https://www.w3.org/TR/screen-capture/#dfn-browser",
+            "https://www.w3.org/TR/screen-capture/#dfn-floor-value",
+            "https://wicg.github.io/document-policy/#required-document-policy"
+          ],
+          "notDfn": [
+            "https://www.w3.org/TR/screen-capture/#constrainable-properties"
+          ],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#gains-focus",
+            "https://html.spec.whatwg.org/#viewport",
+            "https://html.spec.whatwg.org/#active-document",
+            "https://html.spec.whatwg.org/#nested-browsing-context",
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
+            "https://html.spec.whatwg.org/#allowed-to-use"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -55265,6 +55499,11 @@
               "crawled": "https://w3c.github.io/badging/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://wicg.github.io/get-installed-related-apps/spec/",
               "title": "Get Installed Related Apps API",
               "crawled": "https://wicg.github.io/get-installed-related-apps/spec/"
@@ -55368,7 +55607,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "25 April 2022",
+      "date": "2 May 2022",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -56282,6 +56521,11 @@
               "crawled": "https://wicg.github.io/eyedropper-api/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -56740,6 +56984,11 @@
               "url": "https://www.w3.org/TR/vibration/",
               "title": "Vibration API (Second Edition)",
               "crawled": "https://w3c.github.io/vibration/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/virtual-keyboard/",
@@ -64533,6 +64782,11 @@
               "url": "https://www.w3.org/TR/screen-capture/",
               "title": "Screen Capture",
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             }
           ]
         },
