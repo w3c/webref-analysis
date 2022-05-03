@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-03T12:45:55.576Z",
+  "date": "2022-05-03T18:44:03.116Z",
   "stats": {
-    "crawled": 469,
+    "crawled": 468,
     "errors": 0,
-    "studied": 469
+    "studied": 468
   },
   "results": [
     {
@@ -1245,7 +1245,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "2 March 2022",
+      "date": "3 May 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -1322,9 +1322,10 @@
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#site",
             "https://html.spec.whatwg.org/#environment-settings-object",
-            "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#obtain-a-site",
-            "https://html.spec.whatwg.org/#responsible-document",
+            "https://html.spec.whatwg.org/#concept-origin-opaque",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
             "https://html.spec.whatwg.org/#browsing-context",
@@ -3220,11 +3221,6 @@
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
@@ -22234,11 +22230,6 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
-            },
-            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -24707,11 +24698,6 @@
               "url": "https://wicg.github.io/portals/",
               "title": "Portals",
               "crawled": "https://wicg.github.io/portals/"
-            },
-            {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
             },
             {
               "url": "https://wicg.github.io/priority-hints/",
@@ -27950,7 +27936,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "2 May 2022",
+      "date": "3 May 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -35088,11 +35074,6 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
-            },
-            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -39244,7 +39225,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "02 May 2022",
+      "date": "03 May 2022",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -39390,7 +39371,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "26 April 2022",
+      "date": "03 May 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -41241,11 +41222,6 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
-            },
-            {
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -41702,11 +41678,6 @@
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
-            },
-            {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
             },
             {
               "url": "https://wicg.github.io/private-network-access/",
@@ -44837,97 +44808,6 @@
       }
     },
     {
-      "title": "Preload",
-      "shortname": "preload",
-      "date": "29 March 2022",
-      "url": "https://www.w3.org/TR/preload/",
-      "release": {
-        "url": "https://www.w3.org/TR/preload/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/preload/",
-        "repository": "https://github.com/w3c/preload",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/preload/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Performance Working Group",
-          "url": "https://www.w3.org/webperf/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "https://w3c.github.io/webappsec/specs/content-security-policy/"
-        ],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-hints/",
-              "title": "Resource Hints",
-              "crawled": "https://w3c.github.io/resource-hints/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://wicg.github.io/priority-hints/",
-              "title": "Priority Hints",
-              "crawled": "https://wicg.github.io/priority-hints/"
-            }
-          ]
-        },
-        "xrefs": {
-          "notExported": [
-            "https://www.w3.org/TR/resource-hints/#dfn-prefetch"
-          ],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-link-element",
-            "https://html.spec.whatwg.org/#link-type-preload%3EHTML%20spec",
-            "https://html.spec.whatwg.org/#insert-an-element-into-a-document",
-            "https://html.spec.whatwg.org/#resolve-a-url",
-            "https://html.spec.whatwg.org/#url",
-            "https://html.spec.whatwg.org/#attr-link-crossorigin",
-            "https://html.spec.whatwg.org/#origin-2",
-            "https://html.spec.whatwg.org/#delay-the-load-event",
-            "https://html.spec.whatwg.org/#external-resource-link",
-            "https://html.spec.whatwg.org/#valid-media-query-list",
-            "https://html.spec.whatwg.org/#queue-a-task",
-            "https://html.spec.whatwg.org/#fetch-and-process-the-linked-resource",
-            "https://html.spec.whatwg.org/#matches-the-environment",
-            "https://html.spec.whatwg.org/#process-the-linked-resource",
-            "https://html.spec.whatwg.org/#attr-link-as",
-            "https://html.spec.whatwg.org/#charset",
-            "https://mimesniff.spec.whatwg.org/#parsable-mime-type"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Presentation API",
       "shortname": "presentation-api",
       "date": "22 April 2022",
@@ -45781,13 +45661,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -45908,7 +45782,7 @@
     {
       "title": "Relinquishing Permissions",
       "shortname": "permissions-revoke",
-      "date": "21 September 2017",
+      "date": "3 May 2022",
       "url": "https://wicg.github.io/permissions-revoke/",
       "nightly": {
         "url": "https://wicg.github.io/permissions-revoke/",
@@ -45957,10 +45831,6 @@
             "https://w3c.github.io/permissions/#reacting-to-revocation"
           ],
           "brokenLinks": [
-            "https://w3c.github.io/permissions/#permissionstatus",
-            "https://w3c.github.io/permissions/#dictdef-permissiondescriptor",
-            "https://w3c.github.io/permissions/#permission-descriptor-type",
-            "https://w3c.github.io/permissions/#new-information-about-the-users-intent",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#queue-a-task"
           ],
@@ -46561,11 +46431,6 @@
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
             }
           ],
           "informative": []
@@ -48305,11 +48170,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
-            },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc7838",
               "title": "RFC 7838 - HTTP Alternative Services",
@@ -52035,11 +51895,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/preload/",
-              "title": "Preload",
-              "crawled": "https://w3c.github.io/preload/"
             }
           ],
           "informative": [
@@ -55607,7 +55462,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "2 May 2022",
+      "date": "3 May 2022",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -56834,6 +56689,11 @@
               "url": "https://www.w3.org/TR/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
+            },
+            {
+              "url": "https://wicg.github.io/permissions-revoke/",
+              "title": "Relinquishing Permissions",
+              "crawled": "https://wicg.github.io/permissions-revoke/"
             },
             {
               "url": "https://www.w3.org/TR/remote-playback/",
@@ -64198,7 +64058,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "28 April 2022",
+      "date": "3 May 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64318,7 +64178,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "28 April 2022",
+      "date": "3 May 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
