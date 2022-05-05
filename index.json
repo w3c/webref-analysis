@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-05T12:44:51.241Z",
+  "date": "2022-05-05T18:37:57.847Z",
   "stats": {
     "crawled": 468,
     "errors": 1,
@@ -1245,7 +1245,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "4 May 2022",
+      "date": "5 May 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -1897,7 +1897,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "mediacapture-handle-identity",
-      "date": "14 April 2022",
+      "date": "05 May 2022",
       "url": "https://w3c.github.io/mediacapture-handle/identity/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/identity/",
@@ -9050,7 +9050,9 @@
           "notExported": [
             "https://drafts.csswg.org/css-pseudo-4/#highlight-overlay"
           ],
-          "notDfn": [],
+          "notDfn": [
+            "https://webidl.spec.whatwg.org/#es-add-delete"
+          ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#concept-document-window"
@@ -20998,7 +21000,9 @@
         },
         "xrefs": {
           "notExported": [],
-          "notDfn": [],
+          "notDfn": [
+            "https://heycam.github.io/webidl/#es-add-delete"
+          ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#custom-element",
             "https://html.spec.whatwg.org/#elementinternals",
@@ -39372,7 +39376,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "03 May 2022",
+      "date": "05 May 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -39638,7 +39642,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "02 May 2022",
+      "date": "05 May 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -39833,7 +39837,6 @@
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#dom-workerglobalscope-closing",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#gains-focus",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#media-timeline",
@@ -49907,7 +49910,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "21 April 2022",
+      "date": "05 May 2022",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -50510,7 +50513,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "4 May 2022",
+      "date": "5 May 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -50635,7 +50638,9 @@
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
             "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
             "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#consume-user-activation",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://w3c.github.io/webdriver/#dfn-extension-command",
@@ -52583,7 +52588,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "14 April 2022",
+      "date": "05 May 2022",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",
@@ -52628,12 +52633,12 @@
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#consume-user-activation",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#active-window"
           ],
@@ -54514,7 +54519,7 @@
     {
       "title": "Viewport Capture",
       "shortname": "mediacapture-viewport",
-      "date": "02 May 2022",
+      "date": "05 May 2022",
       "url": "https://w3c.github.io/mediacapture-viewport/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-viewport/",
@@ -54562,9 +54567,9 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#gains-focus",
@@ -56052,7 +56057,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "29 April 2022",
+      "date": "5 May 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
