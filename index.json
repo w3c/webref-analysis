@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-05T18:37:57.847Z",
+  "date": "2022-05-06T01:10:54.402Z",
   "stats": {
     "crawled": 468,
-    "errors": 1,
+    "errors": 4,
     "studied": 468
   },
   "results": [
@@ -4595,6 +4595,11 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
@@ -4786,7 +4791,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6247,11 +6251,6 @@
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes/"
-            },
-            {
-              "url": "https://www.w3.org/TR/cssom-view-1/",
-              "title": "CSSOM View Module",
-              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -12120,11 +12119,6 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
             },
             {
-              "url": "https://www.w3.org/TR/cssom-view-1/",
-              "title": "CSSOM View Module",
-              "crawled": "https://drafts.csswg.org/cssom-view/"
-            },
-            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -14308,14 +14302,14 @@
             "https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area",
             "https://drafts.csswg.org/css-backgrounds-3/#outer-box-shadow",
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/cssom-view-1/#concept-instant-scroll",
-            "https://drafts.csswg.org/cssom-view-1/#concept-smooth-scroll"
+            "https://drafts.csswg.org/cssom-view-1/#concept-instant-scroll"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-html-element",
             "https://html.spec.whatwg.org/#html-vs-xhtml",
-            "https://html.spec.whatwg.org/#the-body-element"
+            "https://html.spec.whatwg.org/#the-body-element",
+            "https://drafts.csswg.org/cssom-view-1/#scrolling-box"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -14493,11 +14487,12 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/uievents/#default-action",
-            "https://drafts.csswg.org/cssom-view/#viewport",
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/cssom-view/#viewport"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -16142,6 +16137,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/cssom-view-1/#scrolling-box",
             "https://html.spec.whatwg.org/#dom-anchor",
             "https://html.spec.whatwg.org/#focused-area-of-the-document",
             "https://html.spec.whatwg.org/#editing-host",
@@ -17799,6 +17795,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 310)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18033,6 +18030,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 311)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18263,6 +18261,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transforms/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transforms/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 314)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18622,6 +18621,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transitions/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transitions/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 316)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20726,7 +20726,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "28 March 2022",
+      "date": "5 May 2022",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -20761,9 +20761,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/wai-aria-1.1/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -20923,14 +20921,17 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/css-display-3/#invisible",
             "https://dom.spec.whatwg.org/#event-listener-type",
             "https://dom.spec.whatwg.org/#event-listener-callback",
             "https://dom.spec.whatwg.org/#eventtarget-event-listener-list",
             "https://dom.spec.whatwg.org/#event-listener-capture"
           ],
-          "notDfn": [],
+          "notDfn": [
+            "https://drafts.csswg.org/css2/#viewport%E2%91%A0"
+          ],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#html-elements",
+            "https://html.spec.whatwg.org/#the-body-element-2",
             "https://html.spec.whatwg.org/#the-body-element",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-document-window",
@@ -20951,6 +20952,7 @@
             "https://html.spec.whatwg.org/#dom-document-defaultview",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#htmlelement",
+            "https://html.spec.whatwg.org/#html-elements",
             "https://html.spec.whatwg.org/#htmlimageelement"
           ],
           "evolvingLinks": [],
@@ -35780,11 +35782,7 @@
             "https://drafts.csswg.org/css-tables/#table-row",
             "https://drafts.csswg.org/css-tables/#table-caption",
             "https://drafts.csswg.org/css-tables/#table",
-            "https://drafts.csswg.org/cssom-view/#run-the-resize-steps",
-            "https://drafts.csswg.org/cssom-view/#run-the-scroll-steps",
-            "https://drafts.csswg.org/cssom-view/#evaluate-media-queries-and-report-changes",
             "https://drafts.csswg.org/cssom-view/#scroll-an-element-into-view",
-            "https://drafts.csswg.org/cssom-view/#scroll-to-the-beginning-of-the-document",
             "https://drafts.csswg.org/css-style-attr/#style-attribute",
             "https://drafts.csswg.org/css-font-loading/#font-source",
             "https://drafts.fxtf.org/geometry/#matrix-m11-element",
@@ -36121,6 +36119,8 @@
             "https://drafts.csswg.org/css-grid/#propdef-grid-column-gap",
             "https://drafts.csswg.org/css-grid/#propdef-grid-row-gap",
             "https://drafts.csswg.org/css-multicol/#propdef-column-gap",
+            "https://drafts.csswg.org/cssom-view/#run-the-resize-steps",
+            "https://drafts.csswg.org/cssom-view/#run-the-scroll-steps",
             "https://drafts.csswg.org/css-values/#vw",
             "https://drafts.csswg.org/css-values/#funcdef-attr",
             "https://w3c.github.io/webvtt/#webvtt-file-using-cue-text",
@@ -38678,8 +38678,7 @@
         "xrefs": {
           "notExported": [
             "https://wicg.github.io/element-timing/#get-an-element",
-            "https://wicg.github.io/event-timing#has-dispatched-input-event",
-            "https://drafts.csswg.org/cssom-view/#viewport"
+            "https://wicg.github.io/event-timing#has-dispatched-input-event"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -38693,7 +38692,8 @@
             "https://html.spec.whatwg.org/#dom-img-naturalheight",
             "https://html.spec.whatwg.org/#dom-img-width",
             "https://html.spec.whatwg.org/#dom-img-height",
-            "https://html.spec.whatwg.org/#concept-relevant-realm"
+            "https://html.spec.whatwg.org/#concept-relevant-realm",
+            "https://drafts.csswg.org/cssom-view/#viewport"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -38782,7 +38782,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/cssom-view-1/#viewport",
             "https://www.w3.org/TR/uievents/#keydown",
             "https://wicg.github.io/element-timing/#get-an-element",
             "https://www.w3.org/TR/geometry-1/#rectangle"
@@ -38802,6 +38801,7 @@
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-origin",
+            "https://www.w3.org/TR/cssom-view-1/#viewport",
             "https://www.w3.org/TR/css-values-4/#pixel-unit",
             "https://w3c.github.io/resource-timing/#sec-privacy-security"
           ],
@@ -40481,6 +40481,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -46675,7 +46680,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46750,7 +46755,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46966,7 +46971,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47070,7 +47075,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47154,7 +47159,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -47978,7 +47983,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -48016,7 +48021,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48209,7 +48214,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48523,7 +48528,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50236,11 +50241,12 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/cssom-view-1/#css-layout-box",
             "https://drafts.csswg.org/cssom-view-1/#overflow-directions"
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/cssom-view-1/#css-layout-box",
+            "https://drafts.csswg.org/cssom-view-1/#scrolling-box",
             "https://html.spec.whatwg.org/#concept-document-windowconcept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
@@ -54704,9 +54710,7 @@
         "xrefs": {
           "notExported": [
             "https://www.w3.org/TR/cssom-view-1/#page-zoom",
-            "https://www.w3.org/TR/cssom-view-1/#pinch-zoom",
-            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps",
-            "https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps"
+            "https://www.w3.org/TR/cssom-view-1/#pinch-zoom"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -54716,7 +54720,9 @@
             "https://html.spec.whatwg.org/#document",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://www.w3.org/TR/css-overflow-4/#classic-scrollbars"
+            "https://www.w3.org/TR/css-overflow-4/#classic-scrollbars",
+            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps",
+            "https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -64062,7 +64068,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64147,8 +64153,6 @@
             "https://html.spec.whatwg.org/#dedicatedworkerglobalscope",
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#workernavigator",
-            "https://html.spec.whatwg.org/#serializable-objects",
-            "https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability",
             "https://html.spec.whatwg.org/#htmlvideoelement",
             "https://html.spec.whatwg.org/#check-the-usability-of-the-image-argument",
             "https://html.spec.whatwg.org/#update-the-rendering",
@@ -64182,7 +64186,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -66222,13 +66226,12 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [
-            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps"
-          ],
+          "notExported": [],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#dom-window"
+            "https://html.spec.whatwg.org/#dom-window",
+            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
