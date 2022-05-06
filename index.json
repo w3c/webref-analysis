@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-06T12:44:28.677Z",
+  "date": "2022-05-06T18:45:50.131Z",
   "stats": {
     "crawled": 468,
-    "errors": 6,
+    "errors": 0,
     "studied": 468
   },
   "results": [
@@ -1245,7 +1245,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -4791,7 +4791,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5797,7 +5796,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "20 April 2022",
+      "date": "4 May 2022",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -9050,9 +9049,7 @@
           "notExported": [
             "https://drafts.csswg.org/css-pseudo-4/#highlight-overlay"
           ],
-          "notDfn": [
-            "https://webidl.spec.whatwg.org/#es-add-delete"
-          ],
+          "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#concept-document-window"
@@ -14309,8 +14306,7 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-html-element",
             "https://html.spec.whatwg.org/#html-vs-xhtml",
-            "https://html.spec.whatwg.org/#the-body-element",
-            "https://drafts.csswg.org/cssom-view-1/#scrolling-box"
+            "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -16138,7 +16134,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view-1/#scrolling-box",
             "https://html.spec.whatwg.org/#dom-anchor",
             "https://html.spec.whatwg.org/#focused-area-of-the-document",
             "https://html.spec.whatwg.org/#editing-host",
@@ -17465,7 +17460,7 @@
     {
       "title": "CSS Text Decoration Module Level 3",
       "shortname": "css-text-decor-3",
-      "date": "18 March 2022",
+      "date": "4 May 2022",
       "url": "https://www.w3.org/TR/css-text-decor-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-3/",
@@ -17593,13 +17588,13 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [
-            "https://www.w3.org/TR/css-ruby-1/#autohide",
-            "https://www.w3.org/TR/css-backgrounds-3/#the-border-style"
+            "https://www.w3.org/TR/css-backgrounds-3/#the-border-style",
+            "https://www.w3.org/TR/css-ruby-1/#autohide"
           ],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-ins-element",
             "https://html.spec.whatwg.org/#the-del-element",
-            "https://www.w3.org/TR/css-color-3/#color1"
+            "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17613,7 +17608,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "18 March 2022",
+      "date": "4 May 2022",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -17796,7 +17791,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 310)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18010,7 +18004,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "19 April 2022",
+      "date": "4 May 2022",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -18031,7 +18025,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 311)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18146,6 +18139,11 @@
               "crawled": "https://drafts.csswg.org/css-tables-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-text-decor-3/",
+              "title": "CSS Text Decoration Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-decor-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-text-decor-4/",
               "title": "CSS Text Decoration Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-decor-4/"
@@ -18229,7 +18227,8 @@
             "https://html.spec.whatwg.org/#language",
             "https://html.spec.whatwg.org/#the-wbr-element",
             "https://html.spec.whatwg.org/#newlines",
-            "https://html.spec.whatwg.org/#preprocessing-the-input-stream"
+            "https://html.spec.whatwg.org/#preprocessing-the-input-stream",
+            "https://html.spec.whatwg.org/#the-textarea-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -18262,7 +18261,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-transforms/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transforms/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 314)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18622,7 +18620,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-transitions/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-transitions/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 316)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18662,11 +18659,6 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-3/",
@@ -18717,11 +18709,6 @@
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -24518,6 +24505,11 @@
               "crawled": "https://wicg.github.io/credentiallessness/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
+              "title": "CSS Animation Worklet API",
+              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -24776,6 +24768,11 @@
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
+            },
+            {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -40172,7 +40169,7 @@
     {
       "title": "Media Queries Level 4",
       "shortname": "mediaqueries-4",
-      "date": "10 March 2022",
+      "date": "4 May 2022",
       "url": "https://www.w3.org/TR/mediaqueries-4/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -40327,7 +40324,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "10 February 2022",
+      "date": "4 May 2022",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -43641,7 +43638,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "17 March 2022",
+      "date": "06 May 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -50235,7 +50232,15 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/security-privacy-questionnaire/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/cssom-view/",
+            "ref": {
+              "name": "CSSOM-VIEW-1",
+              "url": "https://www.w3.org/TR/cssom-view-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -50246,12 +50251,11 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/cssom-view-1/#css-layout-box",
-            "https://drafts.csswg.org/cssom-view-1/#scrolling-box",
             "https://html.spec.whatwg.org/#concept-document-windowconcept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe"
+            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
+            "https://www.w3.org/TR/cssom-view/#css-layout-box"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -50783,7 +50787,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "4 March 2022",
+      "date": "5 May 2022",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -50804,7 +50808,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at __puppeteer_evaluation_script__:7:23\n    at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 414)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -51066,6 +51069,7 @@
             "https://html.spec.whatwg.org/#meta",
             "https://html.spec.whatwg.org/#the-q-element",
             "https://html.spec.whatwg.org/#the-area-element",
+            "https://html.spec.whatwg.org/#attr-hyperlink-href",
             "https://html.spec.whatwg.org/#selector-hover",
             "https://html.spec.whatwg.org/#the-label-element",
             "https://html.spec.whatwg.org/#selector-active",
