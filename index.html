@@ -4856,7 +4856,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-2-1" class="level3" data-spec="true" data-error="true">
+  <section id="css-2-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS 2</h3>
   <section id="spec-info-105" class="level4 info">
   <h4>Spec info</h4>
@@ -4871,8 +4871,37 @@
   </section>
   <section id="potential-issues-105" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 325)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/"><code>https://html.spec.whatwg.org/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-style-attribute"><code>https://html.spec.whatwg.org/#the-style-attribute</code></a></li>
+  </ul></li>
+  <li>External links that use a dated URL:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a></li>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-105" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -9838,10 +9867,6 @@
   <ul>
   <li><a href="https://drafts.csswg.org/selectors-4/#structural-pseudo-classes"><code>https://drafts.csswg.org/selectors-4/#structural-pseudo-classes</code></a></li>
   </ul></li>
-  <li>Broken external links:
-  <ul>
-  <li><a href="https://www.w3.org/TR/selectors-4/#live-profile"><code>https://www.w3.org/TR/selectors-4/#live-profile</code></a></li>
-  </ul></li>
   </ul>
   </section>
   <section id="known-dependencies-on-this-specification-182" class="level4 dependencies">
@@ -10309,7 +10334,7 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-text-decoration-module-level-3" class="level3" data-spec="true" data-error="true">
+  <section id="css-text-decoration-module-level-3" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS Text Decoration Module Level 3</h3>
   <section id="spec-info-190" class="level4 info">
   <h4>Spec info</h4>
@@ -10324,8 +10349,43 @@
   </section>
   <section id="potential-issues-190" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 312)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations-1/"><code>https://www.w3.org/TR/web-animations-1/</code></a></li>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-text-3/#grapheme-cluster"><code>https://www.w3.org/TR/css-text-3/#grapheme-cluster</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-text-3/#letter"><code>https://www.w3.org/TR/css-text-3/#letter</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-text-3/#word-separator"><code>https://www.w3.org/TR/css-text-3/#word-separator</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>External links that neither target definitions nor headings:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-backgrounds-3/#the-border-style"><code>https://www.w3.org/TR/css-backgrounds-3/#the-border-style</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-ruby-1/#autohide"><code>https://www.w3.org/TR/css-ruby-1/#autohide</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-ins-element"><code>https://html.spec.whatwg.org/#the-ins-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-del-element"><code>https://html.spec.whatwg.org/#the-del-element</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-color-3/#color0"><code>https://drafts.csswg.org/css-color-3/#color0</code></a></li>
+  </ul></li>
+  <li>External links that use a dated URL:
+  <ul>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-190" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -10350,7 +10410,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-text-decoration-module-level-4" class="level3" data-spec="true" data-error="true">
+  <section id="css-text-decoration-module-level-4" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS Text Decoration Module Level 4</h3>
   <section id="spec-info-191" class="level4 info">
   <h4>Spec info</h4>
@@ -10365,8 +10425,33 @@
   </section>
   <section id="potential-issues-191" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 313)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-text/"><code>https://www.w3.org/TR/css-text/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations-1/"><code>https://www.w3.org/TR/web-animations-1/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-text-3/#word-separator"><code>https://www.w3.org/TR/css-text-3/#word-separator</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-text/#word-separator"><code>https://www.w3.org/TR/css-text/#word-separator</code></a></li>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-3/#spread-distance"><code>https://drafts.csswg.org/css-backgrounds-3/#spread-distance</code></a></li>
+  </ul></li>
+  <li>External links that neither target definitions nor headings:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-backgrounds-3/#the-border-style"><code>https://www.w3.org/TR/css-backgrounds-3/#the-border-style</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-ruby-1/#autohide"><code>https://www.w3.org/TR/css-ruby-1/#autohide</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-191" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -10395,7 +10480,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-text-module-level-3" class="level3" data-spec="true" data-error="true">
+  <section id="css-text-module-level-3" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS Text Module Level 3</h3>
   <section id="spec-info-192" class="level4 info">
   <h4>Spec info</h4>
@@ -10410,8 +10495,30 @@
   </section>
   <section id="potential-issues-192" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 310)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-fonts-3/#feature-precedence"><code>https://www.w3.org/TR/css-fonts-3/#feature-precedence</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#language"><code>https://html.spec.whatwg.org/#language</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#newlines"><code>https://html.spec.whatwg.org/#newlines</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#preprocessing-the-input-stream"><code>https://html.spec.whatwg.org/#preprocessing-the-input-stream</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-wbr-element"><code>https://html.spec.whatwg.org/#the-wbr-element</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-192" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -10455,7 +10562,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-text-module-level-4" class="level3" data-spec="true" data-error="true">
+  <section id="css-text-module-level-4" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS Text Module Level 4</h3>
   <section id="spec-info-193" class="level4 info">
   <h4>Spec info</h4>
@@ -10470,8 +10577,32 @@
   </section>
   <section id="potential-issues-193" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 311)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-text/"><code>https://www.w3.org/TR/css-text/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-fonts-3/#feature-precedence"><code>https://www.w3.org/TR/css-fonts-3/#feature-precedence</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#language"><code>https://html.spec.whatwg.org/#language</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-wbr-element"><code>https://html.spec.whatwg.org/#the-wbr-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#newlines"><code>https://html.spec.whatwg.org/#newlines</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#preprocessing-the-input-stream"><code>https://html.spec.whatwg.org/#preprocessing-the-input-stream</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-textarea-element"><code>https://html.spec.whatwg.org/#the-textarea-element</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-193" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -10515,7 +10646,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-transforms-module-level-1" class="level3" data-spec="true" data-error="true">
+  <section id="css-transforms-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS Transforms Module Level 1</h3>
   <section id="spec-info-194" class="level4 info">
   <h4>Spec info</h4>
@@ -10530,8 +10661,38 @@
   </section>
   <section id="potential-issues-194" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 314)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/"><code>https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/"><code>https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-transitions/"><code>https://www.w3.org/TR/css3-transitions/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-animations/"><code>https://www.w3.org/TR/css3-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/cssom-view/"><code>https://www.w3.org/TR/cssom-view/</code></a>, related reference “CSSOM-VIEW” uses URL <a href="https://www.w3.org/TR/cssom-view-1/"><code>https://www.w3.org/TR/cssom-view-1/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-SVG11-20110816/"><code>https://www.w3.org/TR/2011/REC-SVG11-20110816/</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-div-element"><code>https://html.spec.whatwg.org/#the-div-element</code></a></li>
+  </ul></li>
+  <li>External links that use a dated URL:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/"><code>https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/"><code>https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-SVG11-20110816/"><code>https://www.w3.org/TR/2011/REC-SVG11-20110816/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-194" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -12000,7 +12161,7 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="selectors-level-4" class="level3" data-spec="true" data-error="true">
+  <section id="selectors-level-4" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>Selectors Level 4</h3>
   <section id="spec-info-217" class="level4 info">
   <h4>Spec info</h4>
@@ -12015,8 +12176,79 @@
   </section>
   <section id="potential-issues-217" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Evaluation failed: Error: CSS server issue detected     at __puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected     at __puppeteer_evaluation_script__:7:23     at ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:221:19)     at runMicrotasks (&lt;anonymous&gt;)     at processTicksAndRejections (internal/process/task_queues.js:95:5)     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 414)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css3-selectors/"><code>https://www.w3.org/TR/css3-selectors/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2013/WD-selectors4-20130502/"><code>https://www.w3.org/TR/2013/WD-selectors4-20130502/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2012/WD-selectors4-20120823/"><code>https://www.w3.org/TR/2012/WD-selectors4-20120823/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/WD-selectors4-20110929/"><code>https://www.w3.org/TR/2011/WD-selectors4-20110929/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://w3c.github.io/mediacapture-main/"><code>https://w3c.github.io/mediacapture-main/</code></a>, related reference “MEDIACAPTURE-STREAMS” uses URL <a href="https://www.w3.org/TR/mediacapture-streams/"><code>https://www.w3.org/TR/mediacapture-streams/</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-a-element"><code>https://html.spec.whatwg.org/#the-a-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selectors"><code>https://html.spec.whatwg.org/#selectors</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-ol-element"><code>https://html.spec.whatwg.org/#the-ol-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-button-element"><code>https://html.spec.whatwg.org/#the-button-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-h1-element"><code>https://html.spec.whatwg.org/#the-h1-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#custom-element"><code>https://html.spec.whatwg.org/#custom-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#element-definition"><code>https://html.spec.whatwg.org/#element-definition</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-span-element"><code>https://html.spec.whatwg.org/#the-span-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-object-element"><code>https://html.spec.whatwg.org/#the-object-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-p-element"><code>https://html.spec.whatwg.org/#the-p-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-div-element"><code>https://html.spec.whatwg.org/#the-div-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-directionality"><code>https://html.spec.whatwg.org/#the-directionality</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#meta"><code>https://html.spec.whatwg.org/#meta</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-q-element"><code>https://html.spec.whatwg.org/#the-q-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-area-element"><code>https://html.spec.whatwg.org/#the-area-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#attr-hyperlink-href"><code>https://html.spec.whatwg.org/#attr-hyperlink-href</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selector-hover"><code>https://html.spec.whatwg.org/#selector-hover</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-label-element"><code>https://html.spec.whatwg.org/#the-label-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selector-active"><code>https://html.spec.whatwg.org/#selector-active</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#focusable-area"><code>https://html.spec.whatwg.org/#focusable-area</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-input-element"><code>https://html.spec.whatwg.org/#the-input-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#audio"><code>https://html.spec.whatwg.org/#audio</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#video"><code>https://html.spec.whatwg.org/#video</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#seeking"><code>https://html.spec.whatwg.org/#seeking</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#media-data"><code>https://html.spec.whatwg.org/#media-data</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#stall-timeout"><code>https://html.spec.whatwg.org/#stall-timeout</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#effective-media-volume"><code>https://html.spec.whatwg.org/#effective-media-volume</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-dialog-element"><code>https://html.spec.whatwg.org/#the-dialog-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#dom-dialog-showmodal"><code>https://html.spec.whatwg.org/#dom-dialog-showmodal</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selector-enabled"><code>https://html.spec.whatwg.org/#selector-enabled</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selector-read-only"><code>https://html.spec.whatwg.org/#selector-read-only</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#attr-input-placeholder"><code>https://html.spec.whatwg.org/#attr-input-placeholder</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-option-element"><code>https://html.spec.whatwg.org/#the-option-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-select-element"><code>https://html.spec.whatwg.org/#the-select-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selector-default"><code>https://html.spec.whatwg.org/#selector-default</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selector-checked"><code>https://html.spec.whatwg.org/#selector-checked</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#selector-indeterminate"><code>https://html.spec.whatwg.org/#selector-indeterminate</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-textarea-element"><code>https://html.spec.whatwg.org/#the-textarea-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#a-form-control%E2%80%99s-value"><code>https://html.spec.whatwg.org/#a-form-control%E2%80%99s-value</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#attr-input-value"><code>https://html.spec.whatwg.org/#attr-input-value</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-html-element"><code>https://html.spec.whatwg.org/#the-html-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-img-element"><code>https://html.spec.whatwg.org/#the-img-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-em-element"><code>https://html.spec.whatwg.org/#the-em-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-li-element"><code>https://html.spec.whatwg.org/#the-li-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-pre-element"><code>https://html.spec.whatwg.org/#the-pre-element</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-scoping-1/#selectordef-shadow"><code>https://www.w3.org/TR/css-scoping-1/#selectordef-shadow</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-scoping-1/#selectordef-content"><code>https://www.w3.org/TR/css-scoping-1/#selectordef-content</code></a></li>
+  </ul></li>
+  <li>External links to outdated specs:
+  <ul>
+  <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a></li>
+  </ul></li>
+  <li>External links that use a dated URL:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2013/WD-selectors4-20130502/"><code>https://www.w3.org/TR/2013/WD-selectors4-20130502/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2012/WD-selectors4-20120823/"><code>https://www.w3.org/TR/2012/WD-selectors4-20120823/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/WD-selectors4-20110929/"><code>https://www.w3.org/TR/2011/WD-selectors4-20110929/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-217" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
