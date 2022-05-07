@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-06T18:45:50.131Z",
+  "date": "2022-05-07T00:59:50.879Z",
   "stats": {
     "crawled": 468,
-    "errors": 0,
+    "errors": 6,
     "studied": 468
   },
   "results": [
@@ -17481,6 +17481,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 312)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17629,6 +17630,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 313)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17791,6 +17793,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 310)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18025,6 +18028,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 311)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18261,6 +18265,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 314)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18661,6 +18666,11 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
+              "title": "CSS Animation Worklet API",
+              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -18709,6 +18719,11 @@
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -18897,6 +18912,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 317)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19554,7 +19570,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "27 April 2022",
+      "date": "6 May 2022",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -24505,11 +24521,6 @@
               "crawled": "https://wicg.github.io/credentiallessness/"
             },
             {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -24768,11 +24779,6 @@
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
-            },
-            {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -26079,6 +26085,11 @@
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
+            },
+            {
+              "url": "https://www.w3.org/TR/selectors-4/",
+              "title": "Selectors Level 4",
+              "crawled": "https://drafts.csswg.org/selectors/"
             }
           ]
         },
@@ -36654,7 +36665,7 @@
     {
       "title": "Import Maps",
       "shortname": "import-maps",
-      "date": "20 April 2022",
+      "date": "6 May 2022",
       "url": "https://wicg.github.io/import-maps/",
       "nightly": {
         "url": "https://wicg.github.io/import-maps/",
@@ -36903,7 +36914,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "2 May 2022",
+      "date": "6 May 2022",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -41835,7 +41846,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "4 May 2022",
+      "date": "6 May 2022",
       "url": "https://w3c.github.io/window-placement/",
       "nightly": {
         "url": "https://w3c.github.io/window-placement/",
@@ -44313,7 +44324,13 @@
         ],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/selectors-4/",
+              "title": "Selectors Level 4",
+              "crawled": "https://drafts.csswg.org/selectors/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [
@@ -46678,7 +46695,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46753,7 +46770,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46969,7 +46986,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47073,7 +47090,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47157,7 +47174,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -47981,7 +47998,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -48019,7 +48036,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48212,7 +48229,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48526,7 +48543,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "6 May 2022",
+      "date": "7 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50787,7 +50804,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "5 May 2022",
+      "date": "6 May 2022",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -51081,6 +51098,8 @@
             "https://html.spec.whatwg.org/#media-data",
             "https://html.spec.whatwg.org/#stall-timeout",
             "https://html.spec.whatwg.org/#effective-media-volume",
+            "https://html.spec.whatwg.org/#the-dialog-element",
+            "https://html.spec.whatwg.org/#dom-dialog-showmodal",
             "https://html.spec.whatwg.org/#selector-enabled",
             "https://html.spec.whatwg.org/#selector-read-only",
             "https://html.spec.whatwg.org/#attr-input-placeholder",
