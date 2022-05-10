@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-10T06:38:20.044Z",
+  "date": "2022-05-10T12:46:14.549Z",
   "stats": {
     "crawled": 468,
-    "errors": 1,
+    "errors": 0,
     "studied": 468
   },
   "results": [
@@ -4792,7 +4792,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40632,7 +40631,7 @@
     {
       "title": "Media Source Extensions™",
       "shortname": "media-source-2",
-      "date": "29 September 2021",
+      "date": "10 May 2022",
       "url": "https://www.w3.org/TR/media-source-2/",
       "release": {
         "url": "https://www.w3.org/TR/media-source-2/",
@@ -40660,18 +40659,7 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "BufferSource",
-            "refs": [
-              {
-                "url": "https://webidl.spec.whatwg.org/",
-                "title": "Web IDL Standard",
-                "crawled": "https://webidl.spec.whatwg.org/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -40719,7 +40707,6 @@
             "https://html.spec.whatwg.org/#normalised-timeranges-object",
             "https://html.spec.whatwg.org/#dom-media-seekable",
             "https://html.spec.whatwg.org/#dedicatedworkerglobalscope",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#dom-media-have_metadata",
             "https://html.spec.whatwg.org/#queue-a-task",
@@ -40729,11 +40716,13 @@
             "https://html.spec.whatwg.org/#trackevent",
             "https://html.spec.whatwg.org/#dom-trackevent-track",
             "https://html.spec.whatwg.org/#event-media-change",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#videotracklist",
             "https://html.spec.whatwg.org/#videotrack",
             "https://html.spec.whatwg.org/#texttracklist",
             "https://html.spec.whatwg.org/#texttrack",
             "https://html.spec.whatwg.org/#dom-texttrack-mode",
+            "https://html.spec.whatwg.org/#dom-media-srcobject",
             "https://html.spec.whatwg.org/#transferable",
             "https://html.spec.whatwg.org/#messageport",
             "https://html.spec.whatwg.org/#messagechannel",
@@ -40759,6 +40748,8 @@
             "https://html.spec.whatwg.org/#dom-media-duration",
             "https://html.spec.whatwg.org/#durationChange",
             "https://html.spec.whatwg.org/#fatal-decode-error",
+            "https://html.spec.whatwg.org/#transfer-steps",
+            "https://html.spec.whatwg.org/#transfer-receiving-steps",
             "https://html.spec.whatwg.org/#dom-media-error",
             "https://html.spec.whatwg.org/#dom-audiotrack-id",
             "https://html.spec.whatwg.org/#dom-audiotrack-language",
@@ -50020,7 +50011,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "26 January 2022",
+      "date": "10 May 2022",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
@@ -56075,7 +56066,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "5 May 2022",
+      "date": "10 May 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -56608,6 +56599,11 @@
               "url": "https://w3c.github.io/media-playback-quality/",
               "title": "Media Playback Quality",
               "crawled": "https://w3c.github.io/media-playback-quality/"
+            },
+            {
+              "url": "https://www.w3.org/TR/media-source-2/",
+              "title": "Media Source Extensions™",
+              "crawled": "https://w3c.github.io/media-source/"
             },
             {
               "url": "https://www.w3.org/TR/mst-content-hint/",
@@ -57796,7 +57792,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "6 May 2022",
+      "date": "10 May 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57852,7 +57848,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "6 May 2022",
+      "date": "10 May 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -58009,7 +58005,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "6 May 2022",
+      "date": "10 May 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -64559,7 +64555,7 @@
     {
       "title": "WebSockets Standard",
       "shortname": "websockets",
-      "date": "14 April 2022",
+      "date": "10 May 2022",
       "url": "https://websockets.spec.whatwg.org/",
       "nightly": {
         "url": "https://websockets.spec.whatwg.org/",

@@ -4208,7 +4208,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4221,15 +4221,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 325)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11034,7 +11044,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Crawled URL: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
-- Crawled version: 26 January 2022
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
 - Latest published version: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Shortname: screen-wake-lock
@@ -12194,21 +12204,19 @@ Informative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 
 
-### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Crawled URL: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
-- Crawled version: 29 September 2021
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
 - Latest published version: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Shortname: media-source-2
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for WebIDL names: 
-     * `BufferSource` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Missing references for links: 
      * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/)
      * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/)
@@ -12232,7 +12240,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#normalised-timeranges-object`](https://html.spec.whatwg.org/#normalised-timeranges-object)
      * [`https://html.spec.whatwg.org/#dom-media-seekable`](https://html.spec.whatwg.org/#dom-media-seekable)
      * [`https://html.spec.whatwg.org/#dedicatedworkerglobalscope`](https://html.spec.whatwg.org/#dedicatedworkerglobalscope)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#dom-media-have_metadata`](https://html.spec.whatwg.org/#dom-media-have_metadata)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
@@ -12242,11 +12249,13 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#trackevent`](https://html.spec.whatwg.org/#trackevent)
      * [`https://html.spec.whatwg.org/#dom-trackevent-track`](https://html.spec.whatwg.org/#dom-trackevent-track)
      * [`https://html.spec.whatwg.org/#event-media-change`](https://html.spec.whatwg.org/#event-media-change)
+     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#videotracklist`](https://html.spec.whatwg.org/#videotracklist)
      * [`https://html.spec.whatwg.org/#videotrack`](https://html.spec.whatwg.org/#videotrack)
      * [`https://html.spec.whatwg.org/#texttracklist`](https://html.spec.whatwg.org/#texttracklist)
      * [`https://html.spec.whatwg.org/#texttrack`](https://html.spec.whatwg.org/#texttrack)
      * [`https://html.spec.whatwg.org/#dom-texttrack-mode`](https://html.spec.whatwg.org/#dom-texttrack-mode)
+     * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
      * [`https://html.spec.whatwg.org/#transferable`](https://html.spec.whatwg.org/#transferable)
      * [`https://html.spec.whatwg.org/#messageport`](https://html.spec.whatwg.org/#messageport)
      * [`https://html.spec.whatwg.org/#messagechannel`](https://html.spec.whatwg.org/#messagechannel)
@@ -12272,6 +12281,8 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dom-media-duration`](https://html.spec.whatwg.org/#dom-media-duration)
      * [`https://html.spec.whatwg.org/#durationChange`](https://html.spec.whatwg.org/#durationChange)
      * [`https://html.spec.whatwg.org/#fatal-decode-error`](https://html.spec.whatwg.org/#fatal-decode-error)
+     * [`https://html.spec.whatwg.org/#transfer-steps`](https://html.spec.whatwg.org/#transfer-steps)
+     * [`https://html.spec.whatwg.org/#transfer-receiving-steps`](https://html.spec.whatwg.org/#transfer-receiving-steps)
      * [`https://html.spec.whatwg.org/#dom-media-error`](https://html.spec.whatwg.org/#dom-media-error)
      * [`https://html.spec.whatwg.org/#dom-audiotrack-id`](https://html.spec.whatwg.org/#dom-audiotrack-id)
      * [`https://html.spec.whatwg.org/#dom-audiotrack-language`](https://html.spec.whatwg.org/#dom-audiotrack-language)
@@ -21775,7 +21786,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 6 May 2022
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21800,7 +21811,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 6 May 2022
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -21844,7 +21855,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 6 May 2022
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -23387,7 +23398,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Crawled URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
-- Crawled version: 14 April 2022
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Shortname: websockets
 
@@ -24097,7 +24108,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 5 May 2022
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
@@ -24240,6 +24251,7 @@ Normative references to this spec from:
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
 - [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
@@ -24342,7 +24354,6 @@ Although they do not, the following specs should also normatively reference this
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
-- [Media Source Extensions™](https://w3c.github.io/media-source/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 
 Informative references to this spec from:

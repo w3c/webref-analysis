@@ -4856,7 +4856,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-2-1" class="level3" data-spec="true" data-error="true">
+  <section id="css-2-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true" data-xrefs="true">
   <h3>CSS 2</h3>
   <section id="spec-info-105" class="level4 info">
   <h4>Spec info</h4>
@@ -4871,8 +4871,37 @@
   </section>
   <section id="potential-issues-105" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)     at async Promise.all (index 325)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/"><code>https://html.spec.whatwg.org/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  </ul></li>
+  <li>External links to private terms:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
+  <li>Broken external links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-style-attribute"><code>https://html.spec.whatwg.org/#the-style-attribute</code></a></li>
+  </ul></li>
+  <li>External links that use a dated URL:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a></li>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-105" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -13090,7 +13119,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/screen-wake-lock/">https://www.w3.org/TR/screen-wake-lock/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/screen-wake-lock/">https://w3c.github.io/screen-wake-lock/</a></li>
-  <li>Crawled version: 26 January 2022</li>
+  <li>Crawled version: 10 May 2022</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/screen-wake-lock/">https://w3c.github.io/screen-wake-lock/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/screen-wake-lock/">https://www.w3.org/TR/screen-wake-lock/</a></li>
   <li>Shortname: screen-wake-lock</li>
@@ -14463,14 +14492,14 @@
   </ul>
   </section>
   </section>
-  <section id="media-source-extensions" class="level3" data-spec="true" data-anomaly="true" data-missingWebIdlRef="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
+  <section id="media-source-extensions" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-xrefs="true">
   <h3>Media Source Extensions™</h3>
   <section id="spec-info-257" class="level4 info">
   <h4>Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/media-source-2/">https://www.w3.org/TR/media-source-2/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/media-source/">https://w3c.github.io/media-source/</a></li>
-  <li>Crawled version: 29 September 2021</li>
+  <li>Crawled version: 10 May 2022</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/media-source/">https://w3c.github.io/media-source/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/media-source-2/">https://www.w3.org/TR/media-source-2/</a></li>
   <li>Shortname: media-source-2</li>
@@ -14479,10 +14508,6 @@
   <section id="potential-issues-257" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
   <ul>
-  <li>Missing references for WebIDL names:
-  <ul>
-  <li><code>BufferSource</code> defined in <a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
-  </ul></li>
   <li>Missing references for links:
   <ul>
   <li><a href="https://www.w3.org/TR/2016/REC-media-source-20161117/"><code>https://www.w3.org/TR/2016/REC-media-source-20161117/</code></a></li>
@@ -14509,7 +14534,6 @@
   <li><a href="https://html.spec.whatwg.org/#normalised-timeranges-object"><code>https://html.spec.whatwg.org/#normalised-timeranges-object</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-media-seekable"><code>https://html.spec.whatwg.org/#dom-media-seekable</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dedicatedworkerglobalscope"><code>https://html.spec.whatwg.org/#dedicatedworkerglobalscope</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#eventhandler"><code>https://html.spec.whatwg.org/#eventhandler</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-media-have_metadata"><code>https://html.spec.whatwg.org/#dom-media-have_metadata</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#queue-a-task"><code>https://html.spec.whatwg.org/#queue-a-task</code></a></li>
@@ -14519,11 +14543,13 @@
   <li><a href="https://html.spec.whatwg.org/#trackevent"><code>https://html.spec.whatwg.org/#trackevent</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-trackevent-track"><code>https://html.spec.whatwg.org/#dom-trackevent-track</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#event-media-change"><code>https://html.spec.whatwg.org/#event-media-change</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#window"><code>https://html.spec.whatwg.org/#window</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#videotracklist"><code>https://html.spec.whatwg.org/#videotracklist</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#videotrack"><code>https://html.spec.whatwg.org/#videotrack</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#texttracklist"><code>https://html.spec.whatwg.org/#texttracklist</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#texttrack"><code>https://html.spec.whatwg.org/#texttrack</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-texttrack-mode"><code>https://html.spec.whatwg.org/#dom-texttrack-mode</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#dom-media-srcobject"><code>https://html.spec.whatwg.org/#dom-media-srcobject</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#transferable"><code>https://html.spec.whatwg.org/#transferable</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#messageport"><code>https://html.spec.whatwg.org/#messageport</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#messagechannel"><code>https://html.spec.whatwg.org/#messagechannel</code></a></li>
@@ -14549,6 +14575,8 @@
   <li><a href="https://html.spec.whatwg.org/#dom-media-duration"><code>https://html.spec.whatwg.org/#dom-media-duration</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#durationChange"><code>https://html.spec.whatwg.org/#durationChange</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#fatal-decode-error"><code>https://html.spec.whatwg.org/#fatal-decode-error</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#transfer-steps"><code>https://html.spec.whatwg.org/#transfer-steps</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#transfer-receiving-steps"><code>https://html.spec.whatwg.org/#transfer-receiving-steps</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-media-error"><code>https://html.spec.whatwg.org/#dom-media-error</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-audiotrack-id"><code>https://html.spec.whatwg.org/#dom-audiotrack-id</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-audiotrack-language"><code>https://html.spec.whatwg.org/#dom-audiotrack-language</code></a></li>
@@ -25770,7 +25798,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/wasm-core-1/">https://www.w3.org/TR/wasm-core-1/</a></li>
   <li>Crawled URL: <a href="https://webassembly.github.io/spec/core/bikeshed/">https://webassembly.github.io/spec/core/bikeshed/</a></li>
-  <li>Crawled version: 6 May 2022</li>
+  <li>Crawled version: 10 May 2022</li>
   <li>Editor’s Draft: <a href="https://webassembly.github.io/spec/core/bikeshed/">https://webassembly.github.io/spec/core/bikeshed/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/wasm-core-1/">https://www.w3.org/TR/wasm-core-1/</a></li>
   <li>Shortname: wasm-core-1</li>
@@ -25800,7 +25828,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/wasm-js-api-2/">https://www.w3.org/TR/wasm-js-api-2/</a></li>
   <li>Crawled URL: <a href="https://webassembly.github.io/spec/js-api/">https://webassembly.github.io/spec/js-api/</a></li>
-  <li>Crawled version: 6 May 2022</li>
+  <li>Crawled version: 10 May 2022</li>
   <li>Editor’s Draft: <a href="https://webassembly.github.io/spec/js-api/">https://webassembly.github.io/spec/js-api/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/wasm-js-api-2/">https://www.w3.org/TR/wasm-js-api-2/</a></li>
   <li>Shortname: wasm-js-api-2</li>
@@ -25855,7 +25883,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/wasm-web-api-2/">https://www.w3.org/TR/wasm-web-api-2/</a></li>
   <li>Crawled URL: <a href="https://webassembly.github.io/spec/web-api/">https://webassembly.github.io/spec/web-api/</a></li>
-  <li>Crawled version: 6 May 2022</li>
+  <li>Crawled version: 10 May 2022</li>
   <li>Editor’s Draft: <a href="https://webassembly.github.io/spec/web-api/">https://webassembly.github.io/spec/web-api/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/wasm-web-api-2/">https://www.w3.org/TR/wasm-web-api-2/</a></li>
   <li>Shortname: wasm-web-api-2</li>
@@ -27501,7 +27529,7 @@
   <ul>
   <li>Initial URL: <a href="https://websockets.spec.whatwg.org/">https://websockets.spec.whatwg.org/</a></li>
   <li>Crawled URL: <a href="https://websockets.spec.whatwg.org/">https://websockets.spec.whatwg.org/</a></li>
-  <li>Crawled version: 14 April 2022</li>
+  <li>Crawled version: 10 May 2022</li>
   <li>Editor’s Draft: <a href="https://websockets.spec.whatwg.org/">https://websockets.spec.whatwg.org/</a></li>
   <li>Shortname: websockets</li>
   </ul>
@@ -28298,7 +28326,7 @@
   <ul>
   <li>Initial URL: <a href="https://webidl.spec.whatwg.org/">https://webidl.spec.whatwg.org/</a></li>
   <li>Crawled URL: <a href="https://webidl.spec.whatwg.org/">https://webidl.spec.whatwg.org/</a></li>
-  <li>Crawled version: 5 May 2022</li>
+  <li>Crawled version: 10 May 2022</li>
   <li>Editor’s Draft: <a href="https://webidl.spec.whatwg.org/">https://webidl.spec.whatwg.org/</a></li>
   <li>Shortname: webidl</li>
   </ul>
@@ -28450,6 +28478,7 @@
   <li><a href="https://w3c.github.io/mediacapture-automation/">Media Capture Automation</a></li>
   <li><a href="https://w3c.github.io/mediacapture-fromelement/">Media Capture from DOM Elements</a></li>
   <li><a href="https://w3c.github.io/media-playback-quality/">Media Playback Quality</a></li>
+  <li><a href="https://w3c.github.io/media-source/">Media Source Extensions™</a></li>
   <li><a href="https://w3c.github.io/mst-content-hint/">MediaStreamTrack Content Hints</a></li>
   <li><a href="https://w3c.github.io/mediacapture-transform/">MediaStreamTrack Insertable Media Processing using Streams</a></li>
   <li><a href="https://w3c.github.io/miniapp-manifest/">MiniApp Manifest</a></li>
@@ -28552,7 +28581,6 @@
   <li><a href="https://wicg.github.io/entries-api/">File and Directory Entries API</a></li>
   <li><a href="https://w3c.github.io/FileAPI/">File API</a></li>
   <li><a href="https://w3c.github.io/IndexedDB/">Indexed Database API 3.0</a></li>
-  <li><a href="https://w3c.github.io/media-source/">Media Source Extensions™</a></li>
   <li><a href="https://w3c.github.io/mediacapture-record/">MediaStream Recording</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
