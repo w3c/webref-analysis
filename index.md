@@ -13534,7 +13534,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Crawled URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
-- Crawled version: 9 May 2022
+- Crawled version: 10 May 2022
 - Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Shortname: window-placement
 

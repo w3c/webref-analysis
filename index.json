@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-10T00:47:48.750Z",
+  "date": "2022-05-10T06:38:20.044Z",
   "stats": {
     "crawled": 468,
     "errors": 1,
@@ -41841,7 +41841,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "9 May 2022",
+      "date": "10 May 2022",
       "url": "https://w3c.github.io/window-placement/",
       "nightly": {
         "url": "https://w3c.github.io/window-placement/",
