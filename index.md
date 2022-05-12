@@ -17043,7 +17043,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
 - Crawled URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
-- Crawled version: 28 April 2022
+- Crawled version: 12 May 2022
 - Editor's Draft: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
 - Shortname: event-timing
 
@@ -17180,7 +17180,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
 - Crawled URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
-- Crawled version: 9 March 2022
+- Crawled version: 12 May 2022
 - Editor's Draft: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
 - Shortname: largest-contentful-paint
 
@@ -24363,7 +24363,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 21 February 2022
+- Crawled version: 12 May 2022
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 
@@ -24374,18 +24374,17 @@ Informative references to this spec from:
 - External links to private terms:
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 - Broken external links:
-     * [`https://fetch.spec.whatwg.org/#concept-fetch-terminate`](https://fetch.spec.whatwg.org/#concept-fetch-terminate)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#responsible-document`](https://html.spec.whatwg.org/#responsible-document)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
+     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#api-url-character-encoding`](https://html.spec.whatwg.org/#api-url-character-encoding)
-     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#pause`](https://html.spec.whatwg.org/#pause)
      * [`https://html.spec.whatwg.org/#prescan-a-byte-stream-to-determine-its-encoding`](https://html.spec.whatwg.org/#prescan-a-byte-stream-to-determine-its-encoding)
