@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-14T00:50:04.942Z",
+  "date": "2022-05-14T06:45:13.805Z",
   "stats": {
     "crawled": 468,
     "errors": 0,
@@ -23791,7 +23791,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "13 May 2022",
+      "date": "14 May 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23914,7 +23914,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "13 May 2022",
+      "date": "14 May 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
