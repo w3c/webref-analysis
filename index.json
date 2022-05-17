@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-17T12:47:46.364Z",
+  "date": "2022-05-17T18:39:35.697Z",
   "stats": {
     "crawled": 468,
     "errors": 0,
@@ -498,7 +498,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "11 May 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -611,7 +611,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "03 May 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -1245,7 +1245,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "16 May 2022",
+      "date": "17 May 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -2826,7 +2826,7 @@
     {
       "title": "Console Standard",
       "shortname": "console",
-      "date": "23 March 2021",
+      "date": "17 May 2022",
       "url": "https://console.spec.whatwg.org/",
       "nightly": {
         "url": "https://console.spec.whatwg.org/",
@@ -7916,7 +7916,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "28 April 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7954,8 +7954,7 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://infra.spec.whatwg.org/",
-          "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css3-conditional/"
+          "https://www.w3.org/TR/css-pseudo/"
         ],
         "inconsistentRef": [
           {
@@ -8245,7 +8244,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "28 April 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8347,7 +8346,7 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet"
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
           ],
           "notDfn": [],
           "brokenLinks": [],
@@ -17516,11 +17515,6 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
@@ -17547,6 +17541,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
@@ -17662,6 +17661,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -22953,6 +22957,11 @@
               "url": "https://www.w3.org/TR/battery-status/",
               "title": "Battery Status API",
               "crawled": "https://w3c.github.io/battery/"
+            },
+            {
+              "url": "https://console.spec.whatwg.org/",
+              "title": "Console Standard",
+              "crawled": "https://console.spec.whatwg.org/"
             },
             {
               "url": "https://dom.spec.whatwg.org/",
@@ -36753,7 +36762,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "28 April 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -52419,7 +52428,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 May 2022",
+      "date": "17 May 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -56196,6 +56205,11 @@
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
               "crawled": "https://wicg.github.io/compute-pressure/"
+            },
+            {
+              "url": "https://console.spec.whatwg.org/",
+              "title": "Console Standard",
+              "crawled": "https://console.spec.whatwg.org/"
             },
             {
               "url": "https://w3c.github.io/contact-api/spec/",

@@ -225,6 +225,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Battery Status API](https://w3c.github.io/battery/)
+- [Console Standard](https://console.spec.whatwg.org/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
@@ -500,7 +501,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 16 May 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -2624,7 +2625,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 11 May 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -2674,7 +2675,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 03 May 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -5345,7 +5346,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
-- Crawled version: 28 April 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color/](https://drafts.csswg.org/css-color/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5359,7 +5360,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
@@ -5433,7 +5433,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 28 April 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -5441,7 +5441,7 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - External links to private terms:
-     * [`https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet)
+     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8748,7 +8748,6 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -8757,6 +8756,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
@@ -8801,6 +8801,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
@@ -16617,7 +16618,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 28 April 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -17902,7 +17903,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Crawled URL: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
-- Crawled version: 16 May 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://wicg.github.io/conversion-measurement-api/](https://wicg.github.io/conversion-measurement-api/)
 - Shortname: conversion-measurement-api
 
@@ -21996,7 +21997,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Crawled URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
-- Crawled version: 23 March 2021
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Shortname: console
 
@@ -24178,6 +24179,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compression Streams](https://wicg.github.io/compression/)
 - [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Console Standard](https://console.spec.whatwg.org/)
 - [Contact Picker API](https://w3c.github.io/contact-api/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
