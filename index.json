@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-17T00:50:06.391Z",
+  "date": "2022-05-17T06:45:54.178Z",
   "stats": {
     "crawled": 468,
-    "errors": 0,
+    "errors": 2,
     "studied": 468
   },
   "results": [
@@ -3544,7 +3544,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "15 May 2022",
+      "date": "17 May 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -6200,6 +6200,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 245)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6321,6 +6322,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 246)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41353,7 +41355,7 @@
     {
       "title": "MiniApp Manifest",
       "shortname": "miniapp-manifest",
-      "date": "28 April 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/miniapp-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -63870,6 +63872,8 @@
         },
         "xrefs": {
           "notExported": [
+            "https://gpuweb.github.io/gpuweb/wgsl/#attribute-binding",
+            "https://gpuweb.github.io/gpuweb/wgsl/#attribute-group",
             "https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable",
             "https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed",
             "https://gpuweb.github.io/gpuweb/wgsl/#store-type",

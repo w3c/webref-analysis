@@ -620,7 +620,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 15 May 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -4759,7 +4759,7 @@ Informative references to this spec from:
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 
 
-### CSS Box Model Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Box Model Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4772,22 +4772,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
-     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
-     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
-     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
-     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
-     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 245)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4807,7 +4800,7 @@ Informative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 
 
-### CSS Box Model Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS Box Model Module Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4820,25 +4813,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
-     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
-     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
-     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
-     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
-     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
-     * [`https://www.w3.org/TR/css-logical-1/`](https://www.w3.org/TR/css-logical-1/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
-     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 246)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11307,6 +11290,8 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/)
 - External links to private terms:
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#attribute-binding`](https://gpuweb.github.io/gpuweb/wgsl/#attribute-binding)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#attribute-group`](https://gpuweb.github.io/gpuweb/wgsl/#attribute-group)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable`](https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed`](https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#store-type`](https://gpuweb.github.io/gpuweb/wgsl/#store-type)
@@ -12487,7 +12472,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Crawled URL: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
-- Crawled version: 28 April 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
 - Latest published version: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Shortname: miniapp-manifest
