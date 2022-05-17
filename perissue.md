@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 16, 2022
+% May 17, 2022
 
 468 specifications were crawled in this report.
 
@@ -9031,6 +9031,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-canvas-todataurl`](https://html.spec.whatwg.org/#dom-canvas-todataurl)
      * [`https://html.spec.whatwg.org/#dom-canvas-toblob`](https://html.spec.whatwg.org/#dom-canvas-toblob)
      * [`https://html.spec.whatwg.org/#offscreencanvas-placeholder`](https://html.spec.whatwg.org/#offscreencanvas-placeholder)
+     * [`https://html.spec.whatwg.org/#dom-canvas-width`](https://html.spec.whatwg.org/#dom-canvas-width)
+     * [`https://html.spec.whatwg.org/#dom-offscreencanvas-width`](https://html.spec.whatwg.org/#dom-offscreencanvas-width)
+     * [`https://html.spec.whatwg.org/#dom-canvas-height`](https://html.spec.whatwg.org/#dom-canvas-height)
+     * [`https://html.spec.whatwg.org/#dom-offscreencanvas-height`](https://html.spec.whatwg.org/#dom-offscreencanvas-height)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
@@ -9273,7 +9277,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4940 problematic external links found in 304 specifications
+=> 4944 problematic external links found in 304 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
