@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-17T18:39:35.697Z",
+  "date": "2022-05-18T00:53:45.844Z",
   "stats": {
-    "crawled": 468,
+    "crawled": 467,
     "errors": 0,
-    "studied": 468
+    "studied": 467
   },
   "results": [
     {
@@ -575,6 +575,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/core-aam-1.2/",
+              "title": "Core Accessibility API Mappings 1.2",
+              "crawled": "https://w3c.github.io/core-aam/"
+            },
+            {
               "url": "https://www.w3.org/TR/manifest-app-info/",
               "title": "Web App Manifest - Application Information",
               "crawled": "https://w3c.github.io/manifest-app-info/"
@@ -594,13 +599,12 @@
             "https://w3c.github.io/aria/#range",
             "https://w3c.github.io/aria/#spinbutton",
             "https://w3c.github.io/aria/#slider",
-            "https://w3c.github.io/aria/#checkbox"
-          ],
-          "brokenLinks": [
+            "https://w3c.github.io/aria/#checkbox",
             "https://w3c.github.io/core-aam/#ariaLabel",
             "https://w3c.github.io/core-aam/#ariaLabelledBy",
             "https://w3c.github.io/core-aam/#ariaDescribedBy"
           ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -1895,17 +1899,21 @@
       }
     },
     {
-      "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-      "shortname": "mediacapture-handle-identity",
-      "date": "09 May 2022",
-      "url": "https://w3c.github.io/mediacapture-handle/identity/",
+      "title": "Capture Handle - Landing Page",
+      "shortname": "capture-handle-identity",
+      "date": "9 May 2022",
+      "url": "https://www.w3.org/TR/capture-handle-identity/",
+      "release": {
+        "url": "https://www.w3.org/TR/capture-handle-identity/",
+        "filename": "Overview.html"
+      },
       "nightly": {
-        "url": "https://w3c.github.io/mediacapture-handle/identity/",
+        "url": "https://w3c.github.io/mediacapture-handle/",
         "sourcePath": "identity/index.html",
         "repository": "https://github.com/w3c/mediacapture-handle",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/mediacapture-handle/identity/",
+      "crawled": "https://w3c.github.io/mediacapture-handle/",
       "organization": "W3C",
       "groups": [
         {
@@ -1914,10 +1922,9 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
-        "hasObsoleteIdl": false,
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
@@ -1926,28 +1933,11 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/mediacapture-extensions/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "xrefs": {
-          "notExported": [
-            "https://www.w3.org/TR/screen-capture/#dfn-browser",
-            "https://www.w3.org/TR/screen-capture/#dfn-display-surface",
-            "https://www.w3.org/TR/mediacapture-streams/#track-clone"
-          ],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#eventhandler"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
         },
         "ok": false
       }
@@ -3595,7 +3585,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "02 March 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -3629,8 +3619,7 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/wai-aria-practices/",
-          "https://www.w3.org/TR/wai-aria-implementation/",
-          "https://w3c.github.io/accname/"
+          "https://www.w3.org/TR/wai-aria-implementation/"
         ],
         "inconsistentRef": [
           {
@@ -3638,6 +3627,13 @@
             "ref": {
               "name": "WAI-ARIA-1.2",
               "url": "https://www.w3.org/TR/wai-aria-1.2/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/accname/",
+            "ref": {
+              "name": "accname-1.2",
+              "url": "https://www.w3.org/TR/accname-1.2/"
             }
           }
         ],
@@ -13530,11 +13526,6 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
-              "url": "https://www.w3.org/TR/selectors-nonelement-1/",
-              "title": "Non-element Selectors Module Level 1",
-              "crawled": "https://drafts.csswg.org/selectors-nonelement/"
-            },
-            {
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors/"
@@ -17312,11 +17303,6 @@
               "url": "https://www.w3.org/TR/css-gcpm-3/",
               "title": "CSS Generated Content for Paged Media Module",
               "crawled": "https://drafts.csswg.org/css-gcpm/"
-            },
-            {
-              "url": "https://www.w3.org/TR/selectors-nonelement-1/",
-              "title": "Non-element Selectors Module Level 1",
-              "crawled": "https://drafts.csswg.org/selectors-nonelement/"
             }
           ]
         },
@@ -20156,11 +20142,6 @@
               "crawled": "https://w3c.github.io/window-placement/"
             },
             {
-              "url": "https://www.w3.org/TR/selectors-nonelement-1/",
-              "title": "Non-element Selectors Module Level 1",
-              "crawled": "https://drafts.csswg.org/selectors-nonelement/"
-            },
-            {
               "url": "https://www.w3.org/TR/picture-in-picture/",
               "title": "Picture-in-Picture",
               "crawled": "https://w3c.github.io/picture-in-picture/"
@@ -21738,11 +21719,6 @@
               "crawled": "https://w3c.github.io/beacon/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-handle/identity/",
-              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
-            },
-            {
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
@@ -22638,11 +22614,6 @@
               "url": "https://infra.spec.whatwg.org/",
               "title": "Infra Standard",
               "crawled": "https://infra.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/selectors-nonelement-1/",
-              "title": "Non-element Selectors Module Level 1",
-              "crawled": "https://drafts.csswg.org/selectors-nonelement/"
             },
             {
               "url": "https://www.w3.org/TR/requestidlecallback/",
@@ -27284,7 +27255,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "12 May 2022",
+      "date": "17 May 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -27368,12 +27339,6 @@
         "xrefs": {
           "notExported": [],
           "notDfn": [
-            "https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable",
-            "https://www.w3.org/TR/wai-aria-1.2/#aria-label",
-            "https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby",
-            "https://www.w3.org/TR/wai-aria-1.2/#aria-describedby"
-          ],
-          "brokenLinks": [
             "https://w3c.github.io/core-aam/#role-map-generic",
             "https://w3c.github.io/core-aam/#ariaRoleDescription",
             "https://w3c.github.io/core-aam/#role-map-link",
@@ -27461,6 +27426,14 @@
             "https://w3c.github.io/core-aam/#ariaRequiredTrue",
             "https://w3c.github.io/core-aam/#ariaRowSpan",
             "https://w3c.github.io/core-aam/#ariaInvalidSpellingGrammar",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-label",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby",
+            "https://www.w3.org/TR/wai-aria-1.2/#aria-describedby",
+            "https://www.w3.org/TR/core-aam-1.1/#ariaSetsize",
+            "https://www.w3.org/TR/core-aam-1.1/#ariaPosinset"
+          ],
+          "brokenLinks": [
             "https://html.spec.whatwg.org/#category-label",
             "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#hyperlink",
@@ -27805,8 +27778,6 @@
             "https://html.spec.whatwg.org/#sections",
             "https://html.spec.whatwg.org/#grouping-content",
             "https://html.spec.whatwg.org/#the-sub-and-sup-elements",
-            "https://www.w3.org/TR/core-aam-1.1/#ariaSetsize",
-            "https://www.w3.org/TR/core-aam-1.1/#ariaPosinset",
             "https://www.w3.org/TR/html/#element-attrdef-label-for"
           ],
           "evolvingLinks": [],
@@ -34325,11 +34296,6 @@
               "crawled": "https://wicg.github.io/capability-delegation/spec.html"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-handle/identity/",
-              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
-            },
-            {
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
@@ -39379,11 +39345,11 @@
             "https://w3c.github.io/aria/#aria-multiline",
             "https://w3c.github.io/aria/#aria-activedescendant",
             "https://w3c.github.io/aria/#aria-valuenow",
-            "https://w3c.github.io/aria/#aria-valuetext"
+            "https://w3c.github.io/aria/#aria-valuetext",
+            "https://w3c.github.io/core-aam/#role-map-math"
           ],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#mathml",
-            "https://w3c.github.io/core-aam/#role-map-math"
+            "https://html.spec.whatwg.org/#mathml"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -39704,11 +39670,6 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-handle/identity/",
-              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
-            },
-            {
               "url": "https://www.w3.org/TR/html-media-capture/",
               "title": "HTML Media Capture",
               "crawled": "https://w3c.github.io/html-media-capture/"
@@ -39805,11 +39766,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://w3c.github.io/mediacapture-handle/identity/",
-              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
-            },
             {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
@@ -42389,60 +42345,6 @@
             "https://html.spec.whatwg.org/#networking-task-source",
             "https://html.spec.whatwg.org/#queue-a-task"
           ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Non-element Selectors Module Level 1",
-      "shortname": "selectors-nonelement-1",
-      "date": "6 February 2021",
-      "url": "https://www.w3.org/TR/selectors-nonelement-1/",
-      "release": {
-        "url": "https://www.w3.org/TR/selectors-nonelement-1/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://drafts.csswg.org/selectors-nonelement/",
-        "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "selectors-nonelement-1/Overview.bs",
-        "filename": "Overview.html"
-      },
-      "crawled": "https://drafts.csswg.org/selectors-nonelement/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Cascading Style Sheets (CSS) Working Group",
-          "url": "https://www.w3.org/Style/CSS/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/its20/"
-        ],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -46689,7 +46591,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46764,7 +46666,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46980,7 +46882,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47084,7 +46986,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47168,7 +47070,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -47992,7 +47894,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -48030,7 +47932,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48223,7 +48125,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48537,7 +48439,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -49962,11 +49864,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/mediacapture-handle/identity/",
-              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
-            },
-            {
               "url": "https://w3c.github.io/mediacapture-automation/",
               "title": "Media Capture Automation",
               "crawled": "https://w3c.github.io/mediacapture-automation/"
@@ -51008,11 +50905,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://www.w3.org/TR/selectors-nonelement-1/",
-              "title": "Non-element Selectors Module Level 1",
-              "crawled": "https://drafts.csswg.org/selectors-nonelement/"
-            },
-            {
               "url": "https://www.w3.org/TR/paint-timing/",
               "title": "Paint Timing 1",
               "crawled": "https://w3c.github.io/paint-timing/"
@@ -52050,6 +51942,11 @@
         "xrefs": {
           "notExported": [],
           "notDfn": [
+            "https://w3c.github.io/core-aam/#role-map-link",
+            "https://w3c.github.io/core-aam/#role-map-application",
+            "https://w3c.github.io/core-aam/#role-map-group",
+            "https://w3c.github.io/core-aam/#role-map-document",
+            "https://w3c.github.io/core-aam/#role-map-img",
             "https://w3c.github.io/accname/#step2A",
             "https://w3c.github.io/accname/#step2D",
             "https://w3c.github.io/accname/#step2F",
@@ -52083,11 +51980,6 @@
             "https://w3c.github.io/core-aam/#keyboard-focus",
             "https://w3c.github.io/core-aam/#exclude_elements2",
             "https://w3c.github.io/core-aam/#include_elements",
-            "https://w3c.github.io/core-aam/#role-map-link",
-            "https://w3c.github.io/core-aam/#role-map-application",
-            "https://w3c.github.io/core-aam/#role-map-group",
-            "https://w3c.github.io/core-aam/#role-map-document",
-            "https://w3c.github.io/core-aam/#role-map-img",
             "https://w3c.github.io/core-aam/#mapping_additional_widget-value",
             "https://w3c.github.io/core-aam/#document-handling",
             "https://w3c.github.io/graphics-aam/#role-map-graphics-symbol",
@@ -56175,11 +56067,6 @@
               "url": "https://www.w3.org/TR/beacon/",
               "title": "Beacon",
               "crawled": "https://w3c.github.io/beacon/"
-            },
-            {
-              "url": "https://w3c.github.io/mediacapture-handle/identity/",
-              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
             },
             {
               "url": "https://www.w3.org/TR/clipboard-apis/",

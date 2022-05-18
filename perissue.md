@@ -1,8 +1,8 @@
 % Reffy crawl
 % Strudy
-% May 17, 2022
+% May 18, 2022
 
-468 specifications were crawled in this report.
+467 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -13,6 +13,7 @@
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - [Array Grouping](https://tc39.es/proposal-array-grouping/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
+- [Capture Handle - Landing Page](https://w3c.github.io/mediacapture-handle/)
 - [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
 - [Decorators proposal](https://tc39.es/proposal-decorators/)
@@ -84,7 +85,7 @@
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 76 specifications found
+=> 77 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -735,7 +736,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html) links to:
     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but does not list it in its references
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/) links to [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/) but does not list it in its references
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/) links to [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/) but does not list it in its references
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/) links to:
     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
@@ -775,7 +775,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to:
     * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
     * [`https://www.w3.org/TR/wai-aria-implementation/`](https://www.w3.org/TR/wai-aria-implementation/) but does not list it in its references
-    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but does not list it in its references
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to:
     * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/) but does not list it in its references
@@ -1411,7 +1410,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Network Information API](https://wicg.github.io/netinfo/) links to:
     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/) but does not list it in its references
     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/) links to [`https://www.w3.org/TR/its20/`](https://www.w3.org/TR/its20/) but does not list it in its references
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/) links to:
     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/) but does not list it in its references
     * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
@@ -1602,7 +1600,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 746 missing references for links found in 201 specifications
+=> 743 missing references for links found in 199 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1653,7 +1651,9 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/) links to [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "Service-Workers" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
-- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to:
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
 - [Crash Reporting](https://wicg.github.io/crash-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to:
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
@@ -2036,7 +2036,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 351 inconsistent references for links found in 184 specifications
+=> 352 inconsistent references for links found in 184 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2077,10 +2077,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webdriver/#dfn-url-variables`](https://w3c.github.io/webdriver/#dfn-url-variables)
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html):
      * [`https://w3c.github.io/webappsec-permissions-policy/#supported-features`](https://w3c.github.io/webappsec-permissions-policy/#supported-features)
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/):
-     * [`https://www.w3.org/TR/screen-capture/#dfn-browser`](https://www.w3.org/TR/screen-capture/#dfn-browser)
-     * [`https://www.w3.org/TR/screen-capture/#dfn-display-surface`](https://www.w3.org/TR/screen-capture/#dfn-display-surface)
-     * [`https://www.w3.org/TR/mediacapture-streams/#track-clone`](https://www.w3.org/TR/mediacapture-streams/#track-clone)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/):
      * [`https://fetch.spec.whatwg.org/#concept-http-network-fetch`](https://fetch.spec.whatwg.org/#concept-http-network-fetch)
      * [`https://w3c.github.io/IndexedDB/#database`](https://w3c.github.io/IndexedDB/#database)
@@ -3084,7 +3080,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 832 problematic external links found in 208 specifications
+=> 829 problematic external links found in 207 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3101,6 +3097,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/aria/#spinbutton`](https://w3c.github.io/aria/#spinbutton)
      * [`https://w3c.github.io/aria/#slider`](https://w3c.github.io/aria/#slider)
      * [`https://w3c.github.io/aria/#checkbox`](https://w3c.github.io/aria/#checkbox)
+     * [`https://w3c.github.io/core-aam/#ariaLabel`](https://w3c.github.io/core-aam/#ariaLabel)
+     * [`https://w3c.github.io/core-aam/#ariaLabelledBy`](https://w3c.github.io/core-aam/#ariaLabelledBy)
+     * [`https://w3c.github.io/core-aam/#ariaDescribedBy`](https://w3c.github.io/core-aam/#ariaDescribedBy)
 - [ARIA in HTML](https://w3c.github.io/html-aria/):
      * [`https://www.w3.org/TR/wai-aria-1.2/#generic`](https://www.w3.org/TR/wai-aria-1.2/#generic)
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-hidden`](https://www.w3.org/TR/wai-aria-1.2/#aria-hidden)
@@ -3443,10 +3442,99 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/graphics-aria/#graphics-object`](https://w3c.github.io/graphics-aria/#graphics-object)
      * [`https://w3c.github.io/graphics-aria/#graphics-symbol`](https://w3c.github.io/graphics-aria/#graphics-symbol)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
+     * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
+     * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
+     * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
+     * [`https://w3c.github.io/core-aam/#role-map-article`](https://w3c.github.io/core-aam/#role-map-article)
+     * [`https://w3c.github.io/core-aam/#role-map-complementary`](https://w3c.github.io/core-aam/#role-map-complementary)
+     * [`https://w3c.github.io/core-aam/#role-map-button`](https://w3c.github.io/core-aam/#role-map-button)
+     * [`https://w3c.github.io/core-aam/#role-map-slider`](https://w3c.github.io/core-aam/#role-map-slider)
+     * [`https://w3c.github.io/core-aam/#role-map-toolbar`](https://w3c.github.io/core-aam/#role-map-toolbar)
+     * [`https://w3c.github.io/core-aam/#role-map-blockquote`](https://w3c.github.io/core-aam/#role-map-blockquote)
+     * [`https://w3c.github.io/core-aam/#role-map-button-pressed`](https://w3c.github.io/core-aam/#role-map-button-pressed)
+     * [`https://w3c.github.io/core-aam/#role-map-button-haspopup`](https://w3c.github.io/core-aam/#role-map-button-haspopup)
+     * [`https://w3c.github.io/core-aam/#role-map-caption`](https://w3c.github.io/core-aam/#role-map-caption)
+     * [`https://w3c.github.io/core-aam/#role-map-code`](https://w3c.github.io/core-aam/#role-map-code)
+     * [`https://w3c.github.io/core-aam/#role-map-listbox`](https://w3c.github.io/core-aam/#role-map-listbox)
+     * [`https://w3c.github.io/core-aam/#ariaMultiselectableFalse`](https://w3c.github.io/core-aam/#ariaMultiselectableFalse)
+     * [`https://w3c.github.io/core-aam/#role-map-definition`](https://w3c.github.io/core-aam/#role-map-definition)
+     * [`https://w3c.github.io/core-aam/#role-map-deletion`](https://w3c.github.io/core-aam/#role-map-deletion)
+     * [`https://w3c.github.io/core-aam/#role-map-term`](https://w3c.github.io/core-aam/#role-map-term)
+     * [`https://w3c.github.io/core-aam/#role-map-dialog`](https://w3c.github.io/core-aam/#role-map-dialog)
+     * [`https://w3c.github.io/core-aam/#role-map-emphasis`](https://w3c.github.io/core-aam/#role-map-emphasis)
+     * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
+     * [`https://w3c.github.io/core-aam/#role-map-figure`](https://w3c.github.io/core-aam/#role-map-figure)
+     * [`https://w3c.github.io/core-aam/#role-map-contentinfo`](https://w3c.github.io/core-aam/#role-map-contentinfo)
+     * [`https://w3c.github.io/core-aam/#role-map-form`](https://w3c.github.io/core-aam/#role-map-form)
+     * [`https://w3c.github.io/core-aam/#role-map-form-nameless`](https://w3c.github.io/core-aam/#role-map-form-nameless)
+     * [`https://w3c.github.io/core-aam/#role-map-heading`](https://w3c.github.io/core-aam/#role-map-heading)
+     * [`https://w3c.github.io/core-aam/#ariaLevel`](https://w3c.github.io/core-aam/#ariaLevel)
+     * [`https://w3c.github.io/core-aam/#role-map-banner`](https://w3c.github.io/core-aam/#role-map-banner)
+     * [`https://w3c.github.io/core-aam/#role-map-separator`](https://w3c.github.io/core-aam/#role-map-separator)
+     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
+     * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
+     * [`https://w3c.github.io/core-aam/#role-map-presentation`](https://w3c.github.io/core-aam/#role-map-presentation)
+     * [`https://w3c.github.io/core-aam/#role-map-checkbox`](https://w3c.github.io/core-aam/#role-map-checkbox)
+     * [`https://w3c.github.io/core-aam/#ariaCheckedMixed`](https://w3c.github.io/core-aam/#ariaCheckedMixed)
+     * [`https://w3c.github.io/core-aam/#role-map-textbox`](https://w3c.github.io/core-aam/#role-map-textbox)
+     * [`https://w3c.github.io/core-aam/#role-map-spinbutton`](https://w3c.github.io/core-aam/#role-map-spinbutton)
+     * [`https://w3c.github.io/core-aam/#role-map-radio`](https://w3c.github.io/core-aam/#role-map-radio)
+     * [`https://w3c.github.io/core-aam/#ariaCheckedTrue`](https://w3c.github.io/core-aam/#ariaCheckedTrue)
+     * [`https://w3c.github.io/core-aam/#role-map-searchbox`](https://w3c.github.io/core-aam/#role-map-searchbox)
+     * [`https://w3c.github.io/core-aam/#role-map-combobox`](https://w3c.github.io/core-aam/#role-map-combobox)
+     * [`https://w3c.github.io/core-aam/#ariaControls`](https://w3c.github.io/core-aam/#ariaControls)
+     * [`https://w3c.github.io/core-aam/#role-map-insertion`](https://w3c.github.io/core-aam/#role-map-insertion)
+     * [`https://w3c.github.io/core-aam/#role-map-listitem`](https://w3c.github.io/core-aam/#role-map-listitem)
+     * [`https://w3c.github.io/core-aam/#role-map-main`](https://w3c.github.io/core-aam/#role-map-main)
+     * [`https://w3c.github.io/core-aam/#role-map-mark`](https://w3c.github.io/core-aam/#role-map-mark)
+     * [`https://w3c.github.io/core-aam/#role-map-list`](https://w3c.github.io/core-aam/#role-map-list)
+     * [`https://w3c.github.io/core-aam/#role-map-menu`](https://w3c.github.io/core-aam/#role-map-menu)
+     * [`https://w3c.github.io/core-aam/#role-map-meter`](https://w3c.github.io/core-aam/#role-map-meter)
+     * [`https://w3c.github.io/core-aam/#role-map-navigation`](https://w3c.github.io/core-aam/#role-map-navigation)
+     * [`https://w3c.github.io/core-aam/#role-map-option`](https://w3c.github.io/core-aam/#role-map-option)
+     * [`https://w3c.github.io/core-aam/#ariaSelectedTrue`](https://w3c.github.io/core-aam/#ariaSelectedTrue)
+     * [`https://w3c.github.io/core-aam/#role-map-status`](https://w3c.github.io/core-aam/#role-map-status)
+     * [`https://w3c.github.io/core-aam/#role-map-paragraph`](https://w3c.github.io/core-aam/#role-map-paragraph)
+     * [`https://w3c.github.io/core-aam/#role-map-progressbar`](https://w3c.github.io/core-aam/#role-map-progressbar)
+     * [`https://w3c.github.io/core-aam/#ariaValueMax`](https://w3c.github.io/core-aam/#ariaValueMax)
+     * [`https://w3c.github.io/core-aam/#ariaValueMin`](https://w3c.github.io/core-aam/#ariaValueMin)
+     * [`https://w3c.github.io/core-aam/#ariaValueNow`](https://w3c.github.io/core-aam/#ariaValueNow)
+     * [`https://w3c.github.io/core-aam/#role-map-region`](https://w3c.github.io/core-aam/#role-map-region)
+     * [`https://w3c.github.io/core-aam/#role-map-strong`](https://w3c.github.io/core-aam/#role-map-strong)
+     * [`https://w3c.github.io/core-aam/#role-map-subscript`](https://w3c.github.io/core-aam/#role-map-subscript)
+     * [`https://w3c.github.io/core-aam/#role-map-superscript`](https://w3c.github.io/core-aam/#role-map-superscript)
+     * [`https://w3c.github.io/core-aam/#role-map-table`](https://w3c.github.io/core-aam/#role-map-table)
+     * [`https://w3c.github.io/core-aam/#role-map-rowgroup`](https://w3c.github.io/core-aam/#role-map-rowgroup)
+     * [`https://w3c.github.io/core-aam/#role-map-cell`](https://w3c.github.io/core-aam/#role-map-cell)
+     * [`https://w3c.github.io/core-aam/#role-map-grid`](https://w3c.github.io/core-aam/#role-map-grid)
+     * [`https://w3c.github.io/core-aam/#role-map-treegrid`](https://w3c.github.io/core-aam/#role-map-treegrid)
+     * [`https://w3c.github.io/core-aam/#role-map-gridcell`](https://w3c.github.io/core-aam/#role-map-gridcell)
+     * [`https://w3c.github.io/core-aam/#ariaMultilineTrue`](https://w3c.github.io/core-aam/#ariaMultilineTrue)
+     * [`https://w3c.github.io/core-aam/#role-map-columnheader`](https://w3c.github.io/core-aam/#role-map-columnheader)
+     * [`https://w3c.github.io/core-aam/#role-map-rowheader`](https://w3c.github.io/core-aam/#role-map-rowheader)
+     * [`https://w3c.github.io/core-aam/#role-map-time`](https://w3c.github.io/core-aam/#role-map-time)
+     * [`https://w3c.github.io/core-aam/#role-map-row`](https://w3c.github.io/core-aam/#role-map-row)
+     * [`https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth`](https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth)
+     * [`https://w3c.github.io/core-aam/#ariaFlowto`](https://w3c.github.io/core-aam/#ariaFlowto)
+     * [`https://w3c.github.io/core-aam/#ariaCheckedFalse`](https://w3c.github.io/core-aam/#ariaCheckedFalse)
+     * [`https://w3c.github.io/core-aam/#ariaColSpan`](https://w3c.github.io/core-aam/#ariaColSpan)
+     * [`https://w3c.github.io/core-aam/#ariaDisabledTrue`](https://w3c.github.io/core-aam/#ariaDisabledTrue)
+     * [`https://w3c.github.io/core-aam/#ariaHiddenTrue`](https://w3c.github.io/core-aam/#ariaHiddenTrue)
+     * [`https://w3c.github.io/core-aam/#ariaExpandedTrue`](https://w3c.github.io/core-aam/#ariaExpandedTrue)
+     * [`https://w3c.github.io/core-aam/#ariaModalTrue`](https://w3c.github.io/core-aam/#ariaModalTrue)
+     * [`https://w3c.github.io/core-aam/#ariaHiddenFalse`](https://w3c.github.io/core-aam/#ariaHiddenFalse)
+     * [`https://w3c.github.io/core-aam/#ariaModalFalse`](https://w3c.github.io/core-aam/#ariaModalFalse)
+     * [`https://w3c.github.io/core-aam/#ariaPlaceholder`](https://w3c.github.io/core-aam/#ariaPlaceholder)
+     * [`https://w3c.github.io/core-aam/#ariaReadonlyTrue`](https://w3c.github.io/core-aam/#ariaReadonlyTrue)
+     * [`https://w3c.github.io/core-aam/#ariaRequiredTrue`](https://w3c.github.io/core-aam/#ariaRequiredTrue)
+     * [`https://w3c.github.io/core-aam/#ariaRowSpan`](https://w3c.github.io/core-aam/#ariaRowSpan)
+     * [`https://w3c.github.io/core-aam/#ariaInvalidSpellingGrammar`](https://w3c.github.io/core-aam/#ariaInvalidSpellingGrammar)
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable`](https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable)
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-label`](https://www.w3.org/TR/wai-aria-1.2/#aria-label)
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby)
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby)
+     * [`https://www.w3.org/TR/core-aam-1.1/#ariaSetsize`](https://www.w3.org/TR/core-aam-1.1/#ariaSetsize)
+     * [`https://www.w3.org/TR/core-aam-1.1/#ariaPosinset`](https://www.w3.org/TR/core-aam-1.1/#ariaPosinset)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/):
      * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
@@ -3757,6 +3845,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/aria/#aria-activedescendant`](https://w3c.github.io/aria/#aria-activedescendant)
      * [`https://w3c.github.io/aria/#aria-valuenow`](https://w3c.github.io/aria/#aria-valuenow)
      * [`https://w3c.github.io/aria/#aria-valuetext`](https://w3c.github.io/aria/#aria-valuetext)
+     * [`https://w3c.github.io/core-aam/#role-map-math`](https://w3c.github.io/core-aam/#role-map-math)
 - [MathML Core](https://w3c.github.io/mathml-core/):
      * [`https://www.w3.org/TR/css-writing-modes-3/#extent`](https://www.w3.org/TR/css-writing-modes-3/#extent)
      * [`https://www.w3.org/TR/css-backgrounds-3/#the-background-color`](https://www.w3.org/TR/css-backgrounds-3/#the-background-color)
@@ -3841,6 +3930,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css3-images/#intrinsic-height`](https://www.w3.org/TR/css3-images/#intrinsic-height)
      * [`https://www.w3.org/TR/css3-images/#intrinsic-aspect-ratio`](https://www.w3.org/TR/css3-images/#intrinsic-aspect-ratio)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/):
+     * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
+     * [`https://w3c.github.io/core-aam/#role-map-application`](https://w3c.github.io/core-aam/#role-map-application)
+     * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
+     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
+     * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
      * [`https://w3c.github.io/accname/#step2A`](https://w3c.github.io/accname/#step2A)
      * [`https://w3c.github.io/accname/#step2D`](https://w3c.github.io/accname/#step2D)
      * [`https://w3c.github.io/accname/#step2F`](https://w3c.github.io/accname/#step2F)
@@ -4024,7 +4118,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 873 problematic external links found in 61 specifications
+=> 971 problematic external links found in 61 specifications
 
 
 ## Broken external links
@@ -4052,10 +4146,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html):
      * [`https://html.spec.whatwg.org/#imagebitmapsource`](https://html.spec.whatwg.org/#imagebitmapsource)
      * [`https://w3c.github.io/mediacapture-image/#Point2D`](https://w3c.github.io/mediacapture-image/#Point2D)
-- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/):
-     * [`https://w3c.github.io/core-aam/#ariaLabel`](https://w3c.github.io/core-aam/#ariaLabel)
-     * [`https://w3c.github.io/core-aam/#ariaLabelledBy`](https://w3c.github.io/core-aam/#ariaLabelledBy)
-     * [`https://w3c.github.io/core-aam/#ariaDescribedBy`](https://w3c.github.io/core-aam/#ariaDescribedBy)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/):
      * [`https://www.w3.org/TR/html/#the-div-element`](https://www.w3.org/TR/html/#the-div-element)
      * [`https://www.w3.org/TR/html/#the-span-element`](https://www.w3.org/TR/html/#the-span-element)
@@ -4382,9 +4472,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
      * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/):
-     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/):
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
      * [`https://html.spec.whatwg.org/#dom-sessionstorage`](https://html.spec.whatwg.org/#dom-sessionstorage)
@@ -5732,93 +5819,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
-     * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
-     * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
-     * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
-     * [`https://w3c.github.io/core-aam/#role-map-article`](https://w3c.github.io/core-aam/#role-map-article)
-     * [`https://w3c.github.io/core-aam/#role-map-complementary`](https://w3c.github.io/core-aam/#role-map-complementary)
-     * [`https://w3c.github.io/core-aam/#role-map-button`](https://w3c.github.io/core-aam/#role-map-button)
-     * [`https://w3c.github.io/core-aam/#role-map-slider`](https://w3c.github.io/core-aam/#role-map-slider)
-     * [`https://w3c.github.io/core-aam/#role-map-toolbar`](https://w3c.github.io/core-aam/#role-map-toolbar)
-     * [`https://w3c.github.io/core-aam/#role-map-blockquote`](https://w3c.github.io/core-aam/#role-map-blockquote)
-     * [`https://w3c.github.io/core-aam/#role-map-button-pressed`](https://w3c.github.io/core-aam/#role-map-button-pressed)
-     * [`https://w3c.github.io/core-aam/#role-map-button-haspopup`](https://w3c.github.io/core-aam/#role-map-button-haspopup)
-     * [`https://w3c.github.io/core-aam/#role-map-caption`](https://w3c.github.io/core-aam/#role-map-caption)
-     * [`https://w3c.github.io/core-aam/#role-map-code`](https://w3c.github.io/core-aam/#role-map-code)
-     * [`https://w3c.github.io/core-aam/#role-map-listbox`](https://w3c.github.io/core-aam/#role-map-listbox)
-     * [`https://w3c.github.io/core-aam/#ariaMultiselectableFalse`](https://w3c.github.io/core-aam/#ariaMultiselectableFalse)
-     * [`https://w3c.github.io/core-aam/#role-map-definition`](https://w3c.github.io/core-aam/#role-map-definition)
-     * [`https://w3c.github.io/core-aam/#role-map-deletion`](https://w3c.github.io/core-aam/#role-map-deletion)
-     * [`https://w3c.github.io/core-aam/#role-map-term`](https://w3c.github.io/core-aam/#role-map-term)
-     * [`https://w3c.github.io/core-aam/#role-map-dialog`](https://w3c.github.io/core-aam/#role-map-dialog)
-     * [`https://w3c.github.io/core-aam/#role-map-emphasis`](https://w3c.github.io/core-aam/#role-map-emphasis)
-     * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
-     * [`https://w3c.github.io/core-aam/#role-map-figure`](https://w3c.github.io/core-aam/#role-map-figure)
-     * [`https://w3c.github.io/core-aam/#role-map-contentinfo`](https://w3c.github.io/core-aam/#role-map-contentinfo)
-     * [`https://w3c.github.io/core-aam/#role-map-form`](https://w3c.github.io/core-aam/#role-map-form)
-     * [`https://w3c.github.io/core-aam/#role-map-form-nameless`](https://w3c.github.io/core-aam/#role-map-form-nameless)
-     * [`https://w3c.github.io/core-aam/#role-map-heading`](https://w3c.github.io/core-aam/#role-map-heading)
-     * [`https://w3c.github.io/core-aam/#ariaLevel`](https://w3c.github.io/core-aam/#ariaLevel)
-     * [`https://w3c.github.io/core-aam/#role-map-banner`](https://w3c.github.io/core-aam/#role-map-banner)
-     * [`https://w3c.github.io/core-aam/#role-map-separator`](https://w3c.github.io/core-aam/#role-map-separator)
-     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
-     * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
-     * [`https://w3c.github.io/core-aam/#role-map-presentation`](https://w3c.github.io/core-aam/#role-map-presentation)
-     * [`https://w3c.github.io/core-aam/#role-map-checkbox`](https://w3c.github.io/core-aam/#role-map-checkbox)
-     * [`https://w3c.github.io/core-aam/#ariaCheckedMixed`](https://w3c.github.io/core-aam/#ariaCheckedMixed)
-     * [`https://w3c.github.io/core-aam/#role-map-textbox`](https://w3c.github.io/core-aam/#role-map-textbox)
-     * [`https://w3c.github.io/core-aam/#role-map-spinbutton`](https://w3c.github.io/core-aam/#role-map-spinbutton)
-     * [`https://w3c.github.io/core-aam/#role-map-radio`](https://w3c.github.io/core-aam/#role-map-radio)
-     * [`https://w3c.github.io/core-aam/#ariaCheckedTrue`](https://w3c.github.io/core-aam/#ariaCheckedTrue)
-     * [`https://w3c.github.io/core-aam/#role-map-searchbox`](https://w3c.github.io/core-aam/#role-map-searchbox)
-     * [`https://w3c.github.io/core-aam/#role-map-combobox`](https://w3c.github.io/core-aam/#role-map-combobox)
-     * [`https://w3c.github.io/core-aam/#ariaControls`](https://w3c.github.io/core-aam/#ariaControls)
-     * [`https://w3c.github.io/core-aam/#role-map-insertion`](https://w3c.github.io/core-aam/#role-map-insertion)
-     * [`https://w3c.github.io/core-aam/#role-map-listitem`](https://w3c.github.io/core-aam/#role-map-listitem)
-     * [`https://w3c.github.io/core-aam/#role-map-main`](https://w3c.github.io/core-aam/#role-map-main)
-     * [`https://w3c.github.io/core-aam/#role-map-mark`](https://w3c.github.io/core-aam/#role-map-mark)
-     * [`https://w3c.github.io/core-aam/#role-map-list`](https://w3c.github.io/core-aam/#role-map-list)
-     * [`https://w3c.github.io/core-aam/#role-map-menu`](https://w3c.github.io/core-aam/#role-map-menu)
-     * [`https://w3c.github.io/core-aam/#role-map-meter`](https://w3c.github.io/core-aam/#role-map-meter)
-     * [`https://w3c.github.io/core-aam/#role-map-navigation`](https://w3c.github.io/core-aam/#role-map-navigation)
-     * [`https://w3c.github.io/core-aam/#role-map-option`](https://w3c.github.io/core-aam/#role-map-option)
-     * [`https://w3c.github.io/core-aam/#ariaSelectedTrue`](https://w3c.github.io/core-aam/#ariaSelectedTrue)
-     * [`https://w3c.github.io/core-aam/#role-map-status`](https://w3c.github.io/core-aam/#role-map-status)
-     * [`https://w3c.github.io/core-aam/#role-map-paragraph`](https://w3c.github.io/core-aam/#role-map-paragraph)
-     * [`https://w3c.github.io/core-aam/#role-map-progressbar`](https://w3c.github.io/core-aam/#role-map-progressbar)
-     * [`https://w3c.github.io/core-aam/#ariaValueMax`](https://w3c.github.io/core-aam/#ariaValueMax)
-     * [`https://w3c.github.io/core-aam/#ariaValueMin`](https://w3c.github.io/core-aam/#ariaValueMin)
-     * [`https://w3c.github.io/core-aam/#ariaValueNow`](https://w3c.github.io/core-aam/#ariaValueNow)
-     * [`https://w3c.github.io/core-aam/#role-map-region`](https://w3c.github.io/core-aam/#role-map-region)
-     * [`https://w3c.github.io/core-aam/#role-map-strong`](https://w3c.github.io/core-aam/#role-map-strong)
-     * [`https://w3c.github.io/core-aam/#role-map-subscript`](https://w3c.github.io/core-aam/#role-map-subscript)
-     * [`https://w3c.github.io/core-aam/#role-map-superscript`](https://w3c.github.io/core-aam/#role-map-superscript)
-     * [`https://w3c.github.io/core-aam/#role-map-table`](https://w3c.github.io/core-aam/#role-map-table)
-     * [`https://w3c.github.io/core-aam/#role-map-rowgroup`](https://w3c.github.io/core-aam/#role-map-rowgroup)
-     * [`https://w3c.github.io/core-aam/#role-map-cell`](https://w3c.github.io/core-aam/#role-map-cell)
-     * [`https://w3c.github.io/core-aam/#role-map-grid`](https://w3c.github.io/core-aam/#role-map-grid)
-     * [`https://w3c.github.io/core-aam/#role-map-treegrid`](https://w3c.github.io/core-aam/#role-map-treegrid)
-     * [`https://w3c.github.io/core-aam/#role-map-gridcell`](https://w3c.github.io/core-aam/#role-map-gridcell)
-     * [`https://w3c.github.io/core-aam/#ariaMultilineTrue`](https://w3c.github.io/core-aam/#ariaMultilineTrue)
-     * [`https://w3c.github.io/core-aam/#role-map-columnheader`](https://w3c.github.io/core-aam/#role-map-columnheader)
-     * [`https://w3c.github.io/core-aam/#role-map-rowheader`](https://w3c.github.io/core-aam/#role-map-rowheader)
-     * [`https://w3c.github.io/core-aam/#role-map-time`](https://w3c.github.io/core-aam/#role-map-time)
-     * [`https://w3c.github.io/core-aam/#role-map-row`](https://w3c.github.io/core-aam/#role-map-row)
-     * [`https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth`](https://w3c.github.io/core-aam/#ariaAutocompleteInlineListBoth)
-     * [`https://w3c.github.io/core-aam/#ariaFlowto`](https://w3c.github.io/core-aam/#ariaFlowto)
-     * [`https://w3c.github.io/core-aam/#ariaCheckedFalse`](https://w3c.github.io/core-aam/#ariaCheckedFalse)
-     * [`https://w3c.github.io/core-aam/#ariaColSpan`](https://w3c.github.io/core-aam/#ariaColSpan)
-     * [`https://w3c.github.io/core-aam/#ariaDisabledTrue`](https://w3c.github.io/core-aam/#ariaDisabledTrue)
-     * [`https://w3c.github.io/core-aam/#ariaHiddenTrue`](https://w3c.github.io/core-aam/#ariaHiddenTrue)
-     * [`https://w3c.github.io/core-aam/#ariaExpandedTrue`](https://w3c.github.io/core-aam/#ariaExpandedTrue)
-     * [`https://w3c.github.io/core-aam/#ariaModalTrue`](https://w3c.github.io/core-aam/#ariaModalTrue)
-     * [`https://w3c.github.io/core-aam/#ariaHiddenFalse`](https://w3c.github.io/core-aam/#ariaHiddenFalse)
-     * [`https://w3c.github.io/core-aam/#ariaModalFalse`](https://w3c.github.io/core-aam/#ariaModalFalse)
-     * [`https://w3c.github.io/core-aam/#ariaPlaceholder`](https://w3c.github.io/core-aam/#ariaPlaceholder)
-     * [`https://w3c.github.io/core-aam/#ariaReadonlyTrue`](https://w3c.github.io/core-aam/#ariaReadonlyTrue)
-     * [`https://w3c.github.io/core-aam/#ariaRequiredTrue`](https://w3c.github.io/core-aam/#ariaRequiredTrue)
-     * [`https://w3c.github.io/core-aam/#ariaRowSpan`](https://w3c.github.io/core-aam/#ariaRowSpan)
-     * [`https://w3c.github.io/core-aam/#ariaInvalidSpellingGrammar`](https://w3c.github.io/core-aam/#ariaInvalidSpellingGrammar)
      * [`https://html.spec.whatwg.org/#category-label`](https://html.spec.whatwg.org/#category-label)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#hyperlink`](https://html.spec.whatwg.org/#hyperlink)
@@ -6163,8 +6163,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#sections`](https://html.spec.whatwg.org/#sections)
      * [`https://html.spec.whatwg.org/#grouping-content`](https://html.spec.whatwg.org/#grouping-content)
      * [`https://html.spec.whatwg.org/#the-sub-and-sup-elements`](https://html.spec.whatwg.org/#the-sub-and-sup-elements)
-     * [`https://www.w3.org/TR/core-aam-1.1/#ariaSetsize`](https://www.w3.org/TR/core-aam-1.1/#ariaSetsize)
-     * [`https://www.w3.org/TR/core-aam-1.1/#ariaPosinset`](https://www.w3.org/TR/core-aam-1.1/#ariaPosinset)
      * [`https://www.w3.org/TR/html/#element-attrdef-label-for`](https://www.w3.org/TR/html/#element-attrdef-label-for)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/):
      * [`https://dom.spec.whatwg.org/#widl-Element-innerHTML`](https://dom.spec.whatwg.org/#widl-Element-innerHTML)
@@ -6532,7 +6530,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://wicg.github.io/file-system-access/#valid-suffix-code-points`](https://wicg.github.io/file-system-access/#valid-suffix-code-points)
 - [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/):
      * [`https://html.spec.whatwg.org/#mathml`](https://html.spec.whatwg.org/#mathml)
-     * [`https://w3c.github.io/core-aam/#role-map-math`](https://w3c.github.io/core-aam/#role-map-math)
 - [MathML Core](https://w3c.github.io/mathml-core/):
      * [`https://www.w3.org/TR/css-color-3/#colorunits`](https://www.w3.org/TR/css-color-3/#colorunits)
      * [`https://www.w3.org/TR/css-color-3/#foreground`](https://www.w3.org/TR/css-color-3/#foreground)
@@ -8143,11 +8140,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/core-aam/#keyboard-focus`](https://w3c.github.io/core-aam/#keyboard-focus)
      * [`https://w3c.github.io/core-aam/#exclude_elements2`](https://w3c.github.io/core-aam/#exclude_elements2)
      * [`https://w3c.github.io/core-aam/#include_elements`](https://w3c.github.io/core-aam/#include_elements)
-     * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
-     * [`https://w3c.github.io/core-aam/#role-map-application`](https://w3c.github.io/core-aam/#role-map-application)
-     * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
-     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
-     * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
      * [`https://w3c.github.io/core-aam/#mapping_additional_widget-value`](https://w3c.github.io/core-aam/#mapping_additional_widget-value)
      * [`https://w3c.github.io/core-aam/#document-handling`](https://w3c.github.io/core-aam/#document-handling)
      * [`https://w3c.github.io/graphics-aam/#role-map-graphics-symbol`](https://w3c.github.io/graphics-aam/#role-map-graphics-symbol)
@@ -9281,7 +9273,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4947 problematic external links found in 304 specifications
+=> 4847 problematic external links found in 302 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

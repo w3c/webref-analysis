@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 17, 2022
+% May 18, 2022
 
 # Ecma International {#ecma_international}
 
@@ -526,7 +526,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -555,7 +555,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -644,7 +644,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1122,7 +1122,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1145,7 +1145,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1177,7 +1177,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1220,7 +1220,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1255,7 +1255,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1286,7 +1286,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 17 May 2022
+- Crawled version: 18 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2650,7 +2650,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/aria/#spinbutton`](https://w3c.github.io/aria/#spinbutton)
      * [`https://w3c.github.io/aria/#slider`](https://w3c.github.io/aria/#slider)
      * [`https://w3c.github.io/aria/#checkbox`](https://w3c.github.io/aria/#checkbox)
-- Broken external links:
      * [`https://w3c.github.io/core-aam/#ariaLabel`](https://w3c.github.io/core-aam/#ariaLabel)
      * [`https://w3c.github.io/core-aam/#ariaLabelledBy`](https://w3c.github.io/core-aam/#ariaLabelledBy)
      * [`https://w3c.github.io/core-aam/#ariaDescribedBy`](https://w3c.github.io/core-aam/#ariaDescribedBy)
@@ -2666,6 +2665,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 
 
@@ -2733,7 +2733,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Crawled URL: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
-- Crawled version: 02 March 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
 - Latest published version: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Shortname: core-aam-1.2
@@ -2743,9 +2743,9 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/)
      * [`https://www.w3.org/TR/wai-aria-implementation/`](https://www.w3.org/TR/wai-aria-implementation/)
-     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/aria/#aria-flowto`](https://w3c.github.io/aria/#aria-flowto)
      * [`https://w3c.github.io/aria/#aria-live`](https://w3c.github.io/aria/#aria-live)
@@ -2941,7 +2941,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 12 May 2022
+- Crawled version: 17 May 2022
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -2958,11 +2958,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/html/`](https://www.w3.org/TR/html/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
 - External links that neither target definitions nor headings:
-     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable`](https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-label`](https://www.w3.org/TR/wai-aria-1.2/#aria-label)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby)
-- Broken external links:
      * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
      * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
      * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
@@ -3050,6 +3045,13 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/#ariaRequiredTrue`](https://w3c.github.io/core-aam/#ariaRequiredTrue)
      * [`https://w3c.github.io/core-aam/#ariaRowSpan`](https://w3c.github.io/core-aam/#ariaRowSpan)
      * [`https://w3c.github.io/core-aam/#ariaInvalidSpellingGrammar`](https://w3c.github.io/core-aam/#ariaInvalidSpellingGrammar)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable`](https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-label`](https://www.w3.org/TR/wai-aria-1.2/#aria-label)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby`](https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby)
+     * [`https://www.w3.org/TR/core-aam-1.1/#ariaSetsize`](https://www.w3.org/TR/core-aam-1.1/#ariaSetsize)
+     * [`https://www.w3.org/TR/core-aam-1.1/#ariaPosinset`](https://www.w3.org/TR/core-aam-1.1/#ariaPosinset)
+- Broken external links:
      * [`https://html.spec.whatwg.org/#category-label`](https://html.spec.whatwg.org/#category-label)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#hyperlink`](https://html.spec.whatwg.org/#hyperlink)
@@ -3394,8 +3396,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#sections`](https://html.spec.whatwg.org/#sections)
      * [`https://html.spec.whatwg.org/#grouping-content`](https://html.spec.whatwg.org/#grouping-content)
      * [`https://html.spec.whatwg.org/#the-sub-and-sup-elements`](https://html.spec.whatwg.org/#the-sub-and-sup-elements)
-     * [`https://www.w3.org/TR/core-aam-1.1/#ariaSetsize`](https://www.w3.org/TR/core-aam-1.1/#ariaSetsize)
-     * [`https://www.w3.org/TR/core-aam-1.1/#ariaPosinset`](https://www.w3.org/TR/core-aam-1.1/#ariaPosinset)
      * [`https://www.w3.org/TR/html/#element-attrdef-label-for`](https://www.w3.org/TR/html/#element-attrdef-label-for)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
@@ -3434,9 +3434,9 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/aria/#aria-activedescendant`](https://w3c.github.io/aria/#aria-activedescendant)
      * [`https://w3c.github.io/aria/#aria-valuenow`](https://w3c.github.io/aria/#aria-valuenow)
      * [`https://w3c.github.io/aria/#aria-valuetext`](https://w3c.github.io/aria/#aria-valuetext)
+     * [`https://w3c.github.io/core-aam/#role-map-math`](https://w3c.github.io/core-aam/#role-map-math)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#mathml`](https://html.spec.whatwg.org/#mathml)
-     * [`https://w3c.github.io/core-aam/#role-map-math`](https://w3c.github.io/core-aam/#role-map-math)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7300,7 +7300,6 @@ Normative references to this spec from:
 
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
 
 Informative references to this spec from:
@@ -8658,7 +8657,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/)
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
 
 
 ### CSS Table Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -9540,7 +9538,6 @@ Normative references to this spec from:
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
@@ -10130,29 +10127,6 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Non-element Selectors Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/selectors-nonelement-1/](https://www.w3.org/TR/selectors-nonelement-1/)
-- Crawled URL: [https://drafts.csswg.org/selectors-nonelement/](https://drafts.csswg.org/selectors-nonelement/)
-- Crawled version: 6 February 2021
-- Editor's Draft: [https://drafts.csswg.org/selectors-nonelement/](https://drafts.csswg.org/selectors-nonelement/)
-- Latest published version: [https://www.w3.org/TR/selectors-nonelement-1/](https://www.w3.org/TR/selectors-nonelement-1/)
-- Shortname: selectors-nonelement-1
-
-#### Potential issue(s) {.anomalies}
-
-- Missing references for links: 
-     * [`https://www.w3.org/TR/its20/`](https://www.w3.org/TR/its20/)
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
 ### Proposals for the future of CSS Paged Media {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
@@ -10358,7 +10332,6 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
@@ -13313,6 +13286,11 @@ Informative references to this spec from:
      * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/), related reference "GRAPHICS-AAM" uses URL [`https://www.w3.org/TR/graphics-aam-1.0/`](https://www.w3.org/TR/graphics-aam-1.0/)
      * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/), related reference "HTML-AAM" uses URL [`https://www.w3.org/TR/html-aam-1.0/`](https://www.w3.org/TR/html-aam-1.0/)
 - External links that neither target definitions nor headings:
+     * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
+     * [`https://w3c.github.io/core-aam/#role-map-application`](https://w3c.github.io/core-aam/#role-map-application)
+     * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
+     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
+     * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
      * [`https://w3c.github.io/accname/#step2A`](https://w3c.github.io/accname/#step2A)
      * [`https://w3c.github.io/accname/#step2D`](https://w3c.github.io/accname/#step2D)
      * [`https://w3c.github.io/accname/#step2F`](https://w3c.github.io/accname/#step2F)
@@ -13345,11 +13323,6 @@ Informative references to this spec from:
      * [`https://w3c.github.io/core-aam/#keyboard-focus`](https://w3c.github.io/core-aam/#keyboard-focus)
      * [`https://w3c.github.io/core-aam/#exclude_elements2`](https://w3c.github.io/core-aam/#exclude_elements2)
      * [`https://w3c.github.io/core-aam/#include_elements`](https://w3c.github.io/core-aam/#include_elements)
-     * [`https://w3c.github.io/core-aam/#role-map-link`](https://w3c.github.io/core-aam/#role-map-link)
-     * [`https://w3c.github.io/core-aam/#role-map-application`](https://w3c.github.io/core-aam/#role-map-application)
-     * [`https://w3c.github.io/core-aam/#role-map-group`](https://w3c.github.io/core-aam/#role-map-group)
-     * [`https://w3c.github.io/core-aam/#role-map-document`](https://w3c.github.io/core-aam/#role-map-document)
-     * [`https://w3c.github.io/core-aam/#role-map-img`](https://w3c.github.io/core-aam/#role-map-img)
      * [`https://w3c.github.io/core-aam/#mapping_additional_widget-value`](https://w3c.github.io/core-aam/#mapping_additional_widget-value)
      * [`https://w3c.github.io/core-aam/#document-handling`](https://w3c.github.io/core-aam/#document-handling)
      * [`https://w3c.github.io/graphics-aam/#role-map-graphics-symbol`](https://w3c.github.io/graphics-aam/#role-map-graphics-symbol)
@@ -20972,27 +20945,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Capture Handle - Bootstrapping Collaboration when Screensharing {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Capture Handle - Landing Page {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
-- Crawled URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
-- Crawled version: 09 May 2022
-- Editor's Draft: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
-- Shortname: mediacapture-handle-identity
+- Initial URL: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
+- Crawled URL: [https://w3c.github.io/mediacapture-handle/](https://w3c.github.io/mediacapture-handle/)
+- Crawled version: 9 May 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-handle/](https://w3c.github.io/mediacapture-handle/)
+- Latest published version: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
+- Shortname: capture-handle-identity
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/screen-capture/#dfn-browser`](https://www.w3.org/TR/screen-capture/#dfn-browser)
-     * [`https://www.w3.org/TR/screen-capture/#dfn-display-surface`](https://www.w3.org/TR/screen-capture/#dfn-display-surface)
-     * [`https://www.w3.org/TR/mediacapture-streams/#track-clone`](https://www.w3.org/TR/mediacapture-streams/#track-clone)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21169,7 +21135,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
@@ -21192,7 +21157,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
@@ -21534,7 +21498,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 - [Region Capture](https://w3c.github.io/mediacapture-region/)
@@ -22113,7 +22076,6 @@ Normative references to this spec from:
 - [Badging API](https://w3c.github.io/badging/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
@@ -22296,7 +22258,6 @@ Informative references to this spec from:
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
@@ -23111,7 +23072,6 @@ Normative references to this spec from:
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
@@ -24173,7 +24133,6 @@ Normative references to this spec from:
 - [Badging API](https://w3c.github.io/badging/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
-- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
