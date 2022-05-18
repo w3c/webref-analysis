@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-18T12:44:38.723Z",
+  "date": "2022-05-18T18:41:25.292Z",
   "stats": {
     "crawled": 467,
-    "errors": 1,
+    "errors": 0,
     "studied": 467
   },
   "results": [
@@ -1249,7 +1249,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -1321,7 +1321,6 @@
             "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#process-a-navigate-fetch",
             "https://html.spec.whatwg.org/#initialise-the-document-object",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#site",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#obtain-a-site",
@@ -1824,7 +1823,7 @@
     {
       "title": "Capability Delegation",
       "shortname": "capability-delegation",
-      "date": "20 April 2022",
+      "date": "18 May 2022",
       "url": "https://wicg.github.io/capability-delegation/spec.html",
       "nightly": {
         "url": "https://wicg.github.io/capability-delegation/spec.html",
@@ -1886,6 +1885,7 @@
             "https://html.spec.whatwg.org/#window-post-message-steps",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#dom-windowpostmessageoptions-targetorigin",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#consume-user-activation",
@@ -4788,7 +4788,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -25981,6 +25980,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
               "url": "https://wicg.github.io/close-watcher/",
               "title": "Close Watcher API",
               "crawled": "https://wicg.github.io/close-watcher/"
@@ -26042,11 +26046,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://wicg.github.io/capability-delegation/spec.html",
-              "title": "Capability Delegation",
-              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
-            },
             {
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
@@ -27933,7 +27932,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -52570,7 +52569,7 @@
     {
       "title": "The Screen Orientation API",
       "shortname": "screen-orientation",
-      "date": "06 September 2021",
+      "date": "18 May 2022",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
@@ -63708,7 +63707,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63837,7 +63836,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "17 May 2022",
+      "date": "18 May 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
