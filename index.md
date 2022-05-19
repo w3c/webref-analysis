@@ -20951,7 +20951,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
 - Crawled URL: [https://w3c.github.io/mediacapture-handle/](https://w3c.github.io/mediacapture-handle/)
-- Crawled version: 9 May 2022
+- Crawled version: 19 May 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-handle/](https://w3c.github.io/mediacapture-handle/)
 - Latest published version: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
 - Shortname: capture-handle-identity
@@ -21515,7 +21515,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
 - Crawled URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
-- Crawled version: 09 May 2022
+- Crawled version: 19 May 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
 - Shortname: mediacapture-handle-actions
 
