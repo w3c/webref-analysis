@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 23, 2022
+% May 24, 2022
 
 467 specifications were crawled in this report.
 
@@ -7614,7 +7614,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-document-bc`](https://html.spec.whatwg.org/#concept-document-bc)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#concept-environment-creation-url`](https://html.spec.whatwg.org/#concept-environment-creation-url)
-     * [`https://html.spec.whatwg.org/#concept-url-fragment`](https://html.spec.whatwg.org/#concept-url-fragment)
 - [Region Capture](https://w3c.github.io/mediacapture-region/):
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
@@ -9283,7 +9282,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4852 problematic external links found in 303 specifications
+=> 4851 problematic external links found in 303 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
