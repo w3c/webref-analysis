@@ -621,7 +621,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 23 May 2022
+- Crawled version: 24 May 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -4696,7 +4696,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Crawled URL: [https://drafts.csswg.org/css-align/](https://drafts.csswg.org/css-align/)
-- Crawled version: 31 January 2022
+- Crawled version: 23 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-align/](https://drafts.csswg.org/css-align/)
 - Latest published version: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Shortname: css-align-3
@@ -7457,7 +7457,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
-- Crawled version: 28 February 2022
+- Crawled version: 23 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
 - Latest published version: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Shortname: css-overflow-3
