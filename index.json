@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-25T12:46:22.386Z",
+  "date": "2022-05-25T18:39:04.383Z",
   "stats": {
     "crawled": 467,
-    "errors": 0,
+    "errors": 1,
     "studied": 467
   },
   "results": [
@@ -1249,7 +1249,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "24 May 2022",
+      "date": "25 May 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -4807,6 +4807,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22874,7 +22875,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "23 May 2022",
+      "date": "25 May 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23795,7 +23796,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "24 May 2022",
+      "date": "25 May 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23921,7 +23922,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "24 May 2022",
+      "date": "25 May 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -44319,7 +44320,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "21 March 2022",
+      "date": "25 May 2022",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -52405,7 +52406,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "24 May 2022",
+      "date": "25 May 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -58545,12 +58546,14 @@
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#shared-workers",
             "https://html.spec.whatwg.org/#settings-object",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#concept-realm-global",
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
             "https://html.spec.whatwg.org/#browsing-context",
-            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#windowproxy",
             "https://html.spec.whatwg.org/#navigation-id",
             "https://html.spec.whatwg.org/#parent-browsing-context",
