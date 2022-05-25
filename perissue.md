@@ -2911,7 +2911,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webdriver/#dfn-matched-capability-serialization-algorithm`](https://w3c.github.io/webdriver/#dfn-matched-capability-serialization-algorithm)
      * [`https://w3c.github.io/webdriver/#dfn-set-a-property`](https://w3c.github.io/webdriver/#dfn-set-a-property)
      * [`https://w3c.github.io/webdriver/#dfn-try`](https://w3c.github.io/webdriver/#dfn-try)
-     * [`https://w3c.github.io/webdriver/#dfn-web-element-reference`](https://w3c.github.io/webdriver/#dfn-web-element-reference)
      * [`https://w3c.github.io/webdriver/#dfn-readiness-state`](https://w3c.github.io/webdriver/#dfn-readiness-state)
      * [`https://w3c.github.io/webdriver/#dfn-session-not-created`](https://w3c.github.io/webdriver/#dfn-session-not-created)
      * [`https://w3c.github.io/webdriver/#dfn-no-such-frame`](https://w3c.github.io/webdriver/#dfn-no-such-frame)
@@ -3085,7 +3084,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 832 problematic external links found in 208 specifications
+=> 831 problematic external links found in 208 specifications
 
 
 ## External links that neither target definitions nor headings

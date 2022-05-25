@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-25T06:40:51.656Z",
+  "date": "2022-05-25T12:46:22.386Z",
   "stats": {
     "crawled": 467,
     "errors": 0,
@@ -24419,7 +24419,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "24 May 2022",
+      "date": "25 May 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -27957,7 +27957,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "23 May 2022",
+      "date": "25 May 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -46676,6 +46676,11 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-timing-2/",
               "title": "Resource Timing Level 2",
               "crawled": "https://w3c.github.io/resource-timing/"
@@ -46796,6 +46801,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-streams/",
               "title": "Media Capture and Streams",
               "crawled": "https://w3c.github.io/mediacapture-main/"
@@ -46911,7 +46921,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.rfc-editor.org/rfc/rfc7231",
@@ -46992,6 +47008,11 @@
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/fingerprinting-guidance/",
@@ -47158,6 +47179,11 @@
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
               "title": "Cookies: HTTP State Management Mechanism",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ]
         },
@@ -47224,6 +47250,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/IFT/",
@@ -48205,6 +48236,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ],
           "informative": []
@@ -58170,7 +58206,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "01 April 2022",
+      "date": "25 May 2022",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -58442,7 +58478,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "11 May 2022",
+      "date": "25 May 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -58498,7 +58534,6 @@
             "https://w3c.github.io/webdriver/#dfn-matched-capability-serialization-algorithm",
             "https://w3c.github.io/webdriver/#dfn-set-a-property",
             "https://w3c.github.io/webdriver/#dfn-try",
-            "https://w3c.github.io/webdriver/#dfn-web-element-reference",
             "https://w3c.github.io/webdriver/#dfn-readiness-state",
             "https://w3c.github.io/webdriver/#dfn-session-not-created",
             "https://w3c.github.io/webdriver/#dfn-no-such-frame",
@@ -63893,7 +63928,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "24 May 2022",
+      "date": "25 May 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

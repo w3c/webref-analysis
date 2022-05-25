@@ -543,6 +543,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 No informative reference to this spec from other specs.
 
@@ -593,6 +594,7 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
@@ -728,7 +730,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
@@ -756,6 +760,7 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
@@ -1159,6 +1164,7 @@ Normative references to this spec from:
 
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
@@ -1209,6 +1215,7 @@ Informative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [URL Standard](https://url.spec.whatwg.org/)
@@ -1278,6 +1285,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
 ### RFC 7469: Public Key Pinning Extension for HTTP {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -3661,7 +3669,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Crawled URL: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
-- Crawled version: 01 April 2022
+- Crawled version: 25 May 2022
 - Editor's Draft: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
 - Latest published version: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Shortname: webdriver2
@@ -3855,7 +3863,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 11 May 2022
+- Crawled version: 25 May 2022
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -3876,7 +3884,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/webdriver/#dfn-matched-capability-serialization-algorithm`](https://w3c.github.io/webdriver/#dfn-matched-capability-serialization-algorithm)
      * [`https://w3c.github.io/webdriver/#dfn-set-a-property`](https://w3c.github.io/webdriver/#dfn-set-a-property)
      * [`https://w3c.github.io/webdriver/#dfn-try`](https://w3c.github.io/webdriver/#dfn-try)
-     * [`https://w3c.github.io/webdriver/#dfn-web-element-reference`](https://w3c.github.io/webdriver/#dfn-web-element-reference)
      * [`https://w3c.github.io/webdriver/#dfn-readiness-state`](https://w3c.github.io/webdriver/#dfn-readiness-state)
      * [`https://w3c.github.io/webdriver/#dfn-session-not-created`](https://w3c.github.io/webdriver/#dfn-session-not-created)
      * [`https://w3c.github.io/webdriver/#dfn-no-such-frame`](https://w3c.github.io/webdriver/#dfn-no-such-frame)
@@ -11356,7 +11363,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 24 May 2022
+- Crawled version: 25 May 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -22290,7 +22297,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 24 May 2022
+- Crawled version: 25 May 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -22535,7 +22542,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 23 May 2022
+- Crawled version: 25 May 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
