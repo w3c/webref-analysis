@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-25T00:51:27.061Z",
+  "date": "2022-05-25T06:40:51.656Z",
   "stats": {
     "crawled": 467,
     "errors": 0,
@@ -3553,7 +3553,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "24 May 2022",
+      "date": "25 May 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -38830,7 +38830,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "23 May 2022",
+      "date": "25 May 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -42299,6 +42299,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://wicg.github.io/webpackage/loading.html",
+              "title": "Loading Signed Exchanges",
+              "crawled": "https://wicg.github.io/webpackage/loading.html"
+            },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",

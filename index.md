@@ -621,7 +621,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 24 May 2022
+- Crawled version: 25 May 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -17376,6 +17376,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Reporting API](https://w3c.github.io/reporting/)
 
 
@@ -19306,7 +19307,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 23 May 2022
+- Crawled version: 25 May 2022
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
