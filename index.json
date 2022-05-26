@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-26T12:44:29.236Z",
+  "date": "2022-05-26T18:39:44.381Z",
   "stats": {
     "crawled": 467,
     "errors": 2,
@@ -3605,7 +3605,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "24 May 2022",
+      "date": "26 May 2022",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -4876,6 +4876,11 @@
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/visual-viewport/",
+              "title": "Visual Viewport API",
+              "crawled": "https://wicg.github.io/visual-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -20183,6 +20188,11 @@
               "crawled": "https://drafts.csswg.org/selectors/"
             },
             {
+              "url": "https://wicg.github.io/visual-viewport/",
+              "title": "Visual Viewport API",
+              "crawled": "https://wicg.github.io/visual-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -22881,7 +22891,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "25 May 2022",
+      "date": "26 May 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -27969,7 +27979,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "25 May 2022",
+      "date": "26 May 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -41310,7 +41320,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "24 March 2022",
+      "date": "26 May 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",
@@ -51554,7 +51564,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "2 May 2022",
+      "date": "26 May 2022",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
@@ -54678,7 +54688,7 @@
     {
       "title": "Visual Viewport API",
       "shortname": "visual-viewport",
-      "date": "20 May 2022",
+      "date": "26 May 2022",
       "url": "https://wicg.github.io/visual-viewport/",
       "nightly": {
         "url": "https://wicg.github.io/visual-viewport/",
@@ -54721,20 +54731,20 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/cssom-view-1/#page-zoom",
-            "https://www.w3.org/TR/cssom-view-1/#pinch-zoom"
+            "https://www.w3.org/TR/cssom-view-1/#scrolling-area",
+            "https://www.w3.org/TR/cssom-view-1/#page-zoom"
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps",
+            "https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#document",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://www.w3.org/TR/css-overflow-4/#classic-scrollbars",
-            "https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps",
-            "https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps"
+            "https://www.w3.org/TR/css-overflow-4/#classic-scrollbars"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -63814,7 +63824,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "24 May 2022",
+      "date": "26 May 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63915,9 +63925,6 @@
             "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
             "https://html.spec.whatwg.org/#serializable",
             "https://html.spec.whatwg.org/#imagebitmap",
-            "https://html.spec.whatwg.org/#imagebitmapoptions",
-            "https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context",
-            "https://html.spec.whatwg.org/#webglcontextattributes",
             "https://html.spec.whatwg.org/#htmlcanvaselement",
             "https://html.spec.whatwg.org/#offscreencanvas",
             "https://html.spec.whatwg.org/#dom-canvas-getcontext",
@@ -63925,7 +63932,6 @@
             "https://html.spec.whatwg.org/#dom-context-2d-drawimage",
             "https://html.spec.whatwg.org/#dom-canvas-todataurl",
             "https://html.spec.whatwg.org/#dom-canvas-toblob",
-            "https://html.spec.whatwg.org/#offscreencanvas-placeholder",
             "https://html.spec.whatwg.org/#dom-canvas-width",
             "https://html.spec.whatwg.org/#dom-offscreencanvas-width",
             "https://html.spec.whatwg.org/#dom-canvas-height",

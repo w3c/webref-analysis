@@ -2802,8 +2802,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/screen-capture/#dfn-floor-value`](https://www.w3.org/TR/screen-capture/#dfn-floor-value)
      * [`https://wicg.github.io/document-policy/#required-document-policy`](https://wicg.github.io/document-policy/#required-document-policy)
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
+     * [`https://www.w3.org/TR/cssom-view-1/#scrolling-area`](https://www.w3.org/TR/cssom-view-1/#scrolling-area)
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
-     * [`https://www.w3.org/TR/cssom-view-1/#pinch-zoom`](https://www.w3.org/TR/cssom-view-1/#pinch-zoom)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/):
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation)
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate)
@@ -8395,6 +8395,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#reflect`](https://html.spec.whatwg.org/#reflect)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
+     * [`https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps)
+     * [`https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#fully-active`](https://html.spec.whatwg.org/#fully-active)
@@ -8402,8 +8404,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://www.w3.org/TR/css-overflow-4/#classic-scrollbars`](https://www.w3.org/TR/css-overflow-4/#classic-scrollbars)
-     * [`https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-resize-steps)
-     * [`https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps`](https://www.w3.org/TR/cssom-view-1/#run-the-scroll-steps)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/):
      * [`https://html.spec.whatwg.org/#animation-frames`](https://html.spec.whatwg.org/#animation-frames)
      * [`https://html.spec.whatwg.org/#document`](https://html.spec.whatwg.org/#document)
@@ -8990,9 +8990,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
      * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
-     * [`https://html.spec.whatwg.org/#imagebitmapoptions`](https://html.spec.whatwg.org/#imagebitmapoptions)
-     * [`https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context`](https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context)
-     * [`https://html.spec.whatwg.org/#webglcontextattributes`](https://html.spec.whatwg.org/#webglcontextattributes)
      * [`https://html.spec.whatwg.org/#htmlcanvaselement`](https://html.spec.whatwg.org/#htmlcanvaselement)
      * [`https://html.spec.whatwg.org/#offscreencanvas`](https://html.spec.whatwg.org/#offscreencanvas)
      * [`https://html.spec.whatwg.org/#dom-canvas-getcontext`](https://html.spec.whatwg.org/#dom-canvas-getcontext)
@@ -9000,7 +8997,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-context-2d-drawimage`](https://html.spec.whatwg.org/#dom-context-2d-drawimage)
      * [`https://html.spec.whatwg.org/#dom-canvas-todataurl`](https://html.spec.whatwg.org/#dom-canvas-todataurl)
      * [`https://html.spec.whatwg.org/#dom-canvas-toblob`](https://html.spec.whatwg.org/#dom-canvas-toblob)
-     * [`https://html.spec.whatwg.org/#offscreencanvas-placeholder`](https://html.spec.whatwg.org/#offscreencanvas-placeholder)
      * [`https://html.spec.whatwg.org/#dom-canvas-width`](https://html.spec.whatwg.org/#dom-canvas-width)
      * [`https://html.spec.whatwg.org/#dom-offscreencanvas-width`](https://html.spec.whatwg.org/#dom-offscreencanvas-width)
      * [`https://html.spec.whatwg.org/#dom-canvas-height`](https://html.spec.whatwg.org/#dom-canvas-height)
@@ -9247,7 +9243,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4817 problematic external links found in 301 specifications
+=> 4813 problematic external links found in 301 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
