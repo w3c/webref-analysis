@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-26T18:39:44.381Z",
+  "date": "2022-05-27T00:47:50.310Z",
   "stats": {
     "crawled": 467,
     "errors": 2,
@@ -2295,7 +2295,7 @@
     {
       "title": "Close Watcher API",
       "shortname": "close-watcher",
-      "date": "7 March 2022",
+      "date": "26 May 2022",
       "url": "https://wicg.github.io/close-watcher/",
       "nightly": {
         "url": "https://wicg.github.io/close-watcher/",
@@ -2362,7 +2362,6 @@
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#dom-dialog-showmodal",
-            "https://html.spec.whatwg.org/#blocked-by-a-modal-dialog",
             "https://html.spec.whatwg.org/#close-the-dialog",
             "https://html.spec.whatwg.org/#activation-consuming-api",
             "https://html.spec.whatwg.org/#event-popstate"
@@ -26772,6 +26771,11 @@
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "DeviceOrientation Event Specification",
               "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webxr/",
+              "title": "WebXR Device API",
+              "crawled": "https://immersive-web.github.io/webxr/"
             }
           ]
         },
@@ -41320,7 +41324,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",
@@ -46661,7 +46665,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46741,7 +46745,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46968,7 +46972,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47077,7 +47081,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47161,7 +47165,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -47995,7 +47999,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -48033,7 +48037,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48226,7 +48230,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48545,7 +48549,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "26 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -49087,7 +49091,7 @@
     {
       "title": "Scalable Vector Graphics (SVG) 2",
       "shortname": "SVG2",
-      "date": "21 March 2022",
+      "date": "26 May 2022",
       "url": "https://www.w3.org/TR/SVG2/",
       "release": {
         "url": "https://www.w3.org/TR/SVG2/",
@@ -52112,7 +52116,7 @@
     {
       "title": "SVG Animations",
       "shortname": "svg-animations",
-      "date": "21 March 2022",
+      "date": "26 May 2022",
       "url": "https://svgwg.org/specs/animations/",
       "nightly": {
         "url": "https://svgwg.org/specs/animations/",
@@ -52305,7 +52309,7 @@
     {
       "title": "SVG Integration",
       "shortname": "svg-integration",
-      "date": "21 March 2022",
+      "date": "26 May 2022",
       "url": "https://www.w3.org/TR/svg-integration/",
       "release": {
         "url": "https://www.w3.org/TR/svg-integration/",
@@ -52376,7 +52380,7 @@
     {
       "title": "SVG Strokes",
       "shortname": "svg-strokes",
-      "date": "21 March 2022",
+      "date": "26 May 2022",
       "url": "https://www.w3.org/TR/svg-strokes/",
       "release": {
         "url": "https://www.w3.org/TR/svg-strokes/",
@@ -61339,6 +61343,11 @@
               "crawled": "https://www.khronos.org/registry/webgl/specs/latest/2.0/"
             },
             {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
+            },
+            {
               "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
               "title": "WebXR Depth Sensing Module",
               "crawled": "https://immersive-web.github.io/depth-sensing/"
@@ -63912,6 +63921,11 @@
             "https://html.spec.whatwg.org/#media-elements",
             "https://html.spec.whatwg.org/#htmlmediaelement",
             "https://html.spec.whatwg.org/#predefinedcolorspace",
+            "https://html.spec.whatwg.org/#imagebitmap",
+            "https://html.spec.whatwg.org/#dom-imagebitmapoptions-premultiplyalpha",
+            "https://html.spec.whatwg.org/#dom-imagebitmapoptions-colorspaceconversion",
+            "https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context",
+            "https://html.spec.whatwg.org/#dom-canvasrenderingcontext2dsettings-colorspace",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#dedicatedworkerglobalscope",
             "https://html.spec.whatwg.org/#navigator",
@@ -63924,7 +63938,6 @@
             "https://html.spec.whatwg.org/#update-the-rendering",
             "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
             "https://html.spec.whatwg.org/#serializable",
-            "https://html.spec.whatwg.org/#imagebitmap",
             "https://html.spec.whatwg.org/#htmlcanvaselement",
             "https://html.spec.whatwg.org/#offscreencanvas",
             "https://html.spec.whatwg.org/#dom-canvas-getcontext",

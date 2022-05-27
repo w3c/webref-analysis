@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 26, 2022
+% May 27, 2022
 
 # Ecma International {#ecma_international}
 
@@ -526,7 +526,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -556,7 +556,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -646,7 +646,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1127,7 +1127,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1150,7 +1150,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1183,7 +1183,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1227,7 +1227,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1262,7 +1262,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1294,7 +1294,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2105,6 +2105,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
 - [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
@@ -9974,6 +9975,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
 ### Media Queries Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -11306,6 +11308,11 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#media-elements`](https://html.spec.whatwg.org/#media-elements)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#predefinedcolorspace`](https://html.spec.whatwg.org/#predefinedcolorspace)
+     * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
+     * [`https://html.spec.whatwg.org/#dom-imagebitmapoptions-premultiplyalpha`](https://html.spec.whatwg.org/#dom-imagebitmapoptions-premultiplyalpha)
+     * [`https://html.spec.whatwg.org/#dom-imagebitmapoptions-colorspaceconversion`](https://html.spec.whatwg.org/#dom-imagebitmapoptions-colorspaceconversion)
+     * [`https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context`](https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context)
+     * [`https://html.spec.whatwg.org/#dom-canvasrenderingcontext2dsettings-colorspace`](https://html.spec.whatwg.org/#dom-canvasrenderingcontext2dsettings-colorspace)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#dedicatedworkerglobalscope`](https://html.spec.whatwg.org/#dedicatedworkerglobalscope)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
@@ -11318,7 +11325,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
-     * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
      * [`https://html.spec.whatwg.org/#htmlcanvaselement`](https://html.spec.whatwg.org/#htmlcanvaselement)
      * [`https://html.spec.whatwg.org/#offscreencanvas`](https://html.spec.whatwg.org/#offscreencanvas)
      * [`https://html.spec.whatwg.org/#dom-canvas-getcontext`](https://html.spec.whatwg.org/#dom-canvas-getcontext)
@@ -12439,7 +12445,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
 - Crawled URL: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
-- Crawled version: 26 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
 - Latest published version: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
 - Shortname: miniapp-lifecycle
@@ -12972,7 +12978,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
 - Crawled URL: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
-- Crawled version: 21 March 2022
+- Crawled version: 26 May 2022
 - Editor's Draft: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
 - Latest published version: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
 - Shortname: SVG2
@@ -13356,7 +13362,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
 - Crawled URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
-- Crawled version: 21 March 2022
+- Crawled version: 26 May 2022
 - Editor's Draft: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
 - Shortname: svg-animations
 
@@ -13467,7 +13473,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
 - Crawled URL: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
-- Crawled version: 21 March 2022
+- Crawled version: 26 May 2022
 - Editor's Draft: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
 - Latest published version: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
 - Shortname: svg-integration
@@ -13503,7 +13509,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
 - Crawled URL: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
-- Crawled version: 21 March 2022
+- Crawled version: 26 May 2022
 - Editor's Draft: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
 - Latest published version: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
 - Shortname: svg-strokes
@@ -18092,7 +18098,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
 - Crawled URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
-- Crawled version: 7 March 2022
+- Crawled version: 26 May 2022
 - Editor's Draft: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
 - Shortname: close-watcher
 
@@ -18121,7 +18127,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#dom-dialog-showmodal`](https://html.spec.whatwg.org/#dom-dialog-showmodal)
-     * [`https://html.spec.whatwg.org/#blocked-by-a-modal-dialog`](https://html.spec.whatwg.org/#blocked-by-a-modal-dialog)
      * [`https://html.spec.whatwg.org/#close-the-dialog`](https://html.spec.whatwg.org/#close-the-dialog)
      * [`https://html.spec.whatwg.org/#activation-consuming-api`](https://html.spec.whatwg.org/#activation-consuming-api)
      * [`https://html.spec.whatwg.org/#event-popstate`](https://html.spec.whatwg.org/#event-popstate)

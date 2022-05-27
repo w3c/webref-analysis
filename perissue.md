@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 26, 2022
+% May 27, 2022
 
 467 specifications were crawled in this report.
 
@@ -4522,7 +4522,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#dom-dialog-showmodal`](https://html.spec.whatwg.org/#dom-dialog-showmodal)
-     * [`https://html.spec.whatwg.org/#blocked-by-a-modal-dialog`](https://html.spec.whatwg.org/#blocked-by-a-modal-dialog)
      * [`https://html.spec.whatwg.org/#close-the-dialog`](https://html.spec.whatwg.org/#close-the-dialog)
      * [`https://html.spec.whatwg.org/#activation-consuming-api`](https://html.spec.whatwg.org/#activation-consuming-api)
      * [`https://html.spec.whatwg.org/#event-popstate`](https://html.spec.whatwg.org/#event-popstate)
@@ -8977,6 +8976,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#media-elements`](https://html.spec.whatwg.org/#media-elements)
      * [`https://html.spec.whatwg.org/#htmlmediaelement`](https://html.spec.whatwg.org/#htmlmediaelement)
      * [`https://html.spec.whatwg.org/#predefinedcolorspace`](https://html.spec.whatwg.org/#predefinedcolorspace)
+     * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
+     * [`https://html.spec.whatwg.org/#dom-imagebitmapoptions-premultiplyalpha`](https://html.spec.whatwg.org/#dom-imagebitmapoptions-premultiplyalpha)
+     * [`https://html.spec.whatwg.org/#dom-imagebitmapoptions-colorspaceconversion`](https://html.spec.whatwg.org/#dom-imagebitmapoptions-colorspaceconversion)
+     * [`https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context`](https://html.spec.whatwg.org/#premultiplied-alpha-and-the-2d-rendering-context)
+     * [`https://html.spec.whatwg.org/#dom-canvasrenderingcontext2dsettings-colorspace`](https://html.spec.whatwg.org/#dom-canvasrenderingcontext2dsettings-colorspace)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#dedicatedworkerglobalscope`](https://html.spec.whatwg.org/#dedicatedworkerglobalscope)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
@@ -8989,7 +8993,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#update-the-rendering`](https://html.spec.whatwg.org/#update-the-rendering)
      * [`https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe`](https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe)
      * [`https://html.spec.whatwg.org/#serializable`](https://html.spec.whatwg.org/#serializable)
-     * [`https://html.spec.whatwg.org/#imagebitmap`](https://html.spec.whatwg.org/#imagebitmap)
      * [`https://html.spec.whatwg.org/#htmlcanvaselement`](https://html.spec.whatwg.org/#htmlcanvaselement)
      * [`https://html.spec.whatwg.org/#offscreencanvas`](https://html.spec.whatwg.org/#offscreencanvas)
      * [`https://html.spec.whatwg.org/#dom-canvas-getcontext`](https://html.spec.whatwg.org/#dom-canvas-getcontext)
@@ -9243,7 +9246,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4813 problematic external links found in 301 specifications
+=> 4816 problematic external links found in 301 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
