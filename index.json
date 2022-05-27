@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-27T00:47:50.310Z",
+  "date": "2022-05-27T06:40:18.504Z",
   "stats": {
     "crawled": 467,
-    "errors": 2,
+    "errors": 1,
     "studied": 467
   },
   "results": [
@@ -4807,7 +4807,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14000,7 +13999,7 @@
           "brokenLinks": [
             "https://drafts.csswg.org/selectors-3/#sel-before",
             "https://drafts.csswg.org/selectors-3/#sel-after",
-            "https://html.spec.whatwg.org/#concept-script-base-url",
+            "https://html.spec.whatwg.org/#link-options-base-url",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#the-style-element:concept-css-style-sheet-title",
@@ -39271,7 +39270,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "13 May 2022",
+      "date": "27 May 2022",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -43617,7 +43616,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "23 May 2022",
+      "date": "27 May 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -43886,7 +43885,6 @@
             "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#concept-document-window",
-            "https://html.spec.whatwg.org/#realms-settings-objects-global-objects",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#concept-realm-settings-object",
