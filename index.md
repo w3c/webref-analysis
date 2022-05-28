@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 27, 2022
+% May 28, 2022
 
 # Ecma International {#ecma_international}
 
@@ -526,7 +526,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -556,7 +556,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -646,7 +646,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -807,6 +807,7 @@ Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
@@ -1127,7 +1128,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1150,7 +1151,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1183,7 +1184,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1227,7 +1228,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1262,7 +1263,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1294,7 +1295,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2647,6 +2648,8 @@ No informative reference to this spec from other specs.
 - Inconsistent references for links: 
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/aria/#aria-label`](https://w3c.github.io/aria/#aria-label)
      * [`https://w3c.github.io/aria/#aria-labelledby`](https://w3c.github.io/aria/#aria-labelledby)
@@ -2662,6 +2665,10 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/#ariaLabel`](https://w3c.github.io/core-aam/#ariaLabel)
      * [`https://w3c.github.io/core-aam/#ariaLabelledBy`](https://w3c.github.io/core-aam/#ariaLabelledBy)
      * [`https://w3c.github.io/core-aam/#ariaDescribedBy`](https://w3c.github.io/core-aam/#ariaDescribedBy)
+- Broken external links:
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent`](https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-text-node`](https://www.w3.org/TR/wai-aria-1.2/#dfn-text-node)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2684,7 +2691,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 24 May 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2755,6 +2762,12 @@ Informative references to this spec from:
 - Inconsistent references for links: 
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-object`](https://www.w3.org/TR/wai-aria-1.2/#dfn-object)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-owned-element`](https://www.w3.org/TR/wai-aria/#dfn-owned-element)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/aria/#aria-flowto`](https://w3c.github.io/aria/#aria-flowto)
      * [`https://w3c.github.io/aria/#aria-live`](https://w3c.github.io/aria/#aria-live)
@@ -2893,8 +2906,19 @@ Informative references to this spec from:
      * [`https://w3c.github.io/aria/#aria-valuenow`](https://w3c.github.io/aria/#aria-valuenow)
      * [`https://w3c.github.io/aria/#aria-valuetext`](https://w3c.github.io/aria/#aria-valuetext)
 - Broken external links:
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent`](https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-element`](https://www.w3.org/TR/wai-aria-1.2/#dfn-element)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-attribute`](https://www.w3.org/TR/wai-aria-1.2/#dfn-attribute)
      * [`https://w3c.github.io/aria/#label`](https://w3c.github.io/aria/#label)
      * [`https://w3c.github.io/aria/#legend`](https://w3c.github.io/aria/#legend)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-normative`](https://www.w3.org/TR/wai-aria/#dfn-normative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-informative`](https://www.w3.org/TR/wai-aria/#dfn-informative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-node`](https://www.w3.org/TR/wai-aria/#dfn-node)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-element`](https://www.w3.org/TR/wai-aria/#dfn-element)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-attribute`](https://www.w3.org/TR/wai-aria/#dfn-attribute)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria/#dfn-assistive-technology)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2928,10 +2952,17 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/), related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/graphics-aria/#graphics-document`](https://w3c.github.io/graphics-aria/#graphics-document)
      * [`https://w3c.github.io/graphics-aria/#graphics-object`](https://w3c.github.io/graphics-aria/#graphics-object)
      * [`https://w3c.github.io/graphics-aria/#graphics-symbol`](https://w3c.github.io/graphics-aria/#graphics-symbol)
+- Broken external links:
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-normative`](https://www.w3.org/TR/wai-aria/#dfn-normative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-informative`](https://www.w3.org/TR/wai-aria/#dfn-informative)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 
@@ -2967,6 +2998,8 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
      * [`https://www.w3.org/TR/html/`](https://www.w3.org/TR/html/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
      * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
@@ -3062,6 +3095,9 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/core-aam-1.1/#ariaSetsize`](https://www.w3.org/TR/core-aam-1.1/#ariaSetsize)
      * [`https://www.w3.org/TR/core-aam-1.1/#ariaPosinset`](https://www.w3.org/TR/core-aam-1.1/#ariaPosinset)
 - Broken external links:
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-element`](https://www.w3.org/TR/wai-aria/#dfn-element)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-node`](https://www.w3.org/TR/wai-aria/#dfn-node)
      * [`https://html.spec.whatwg.org/#category-label`](https://html.spec.whatwg.org/#category-label)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#hyperlink`](https://html.spec.whatwg.org/#hyperlink)
@@ -3470,6 +3506,8 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/aria/#none`](https://w3c.github.io/aria/#none)
      * [`https://w3c.github.io/aria/#presentation`](https://w3c.github.io/aria/#presentation)
@@ -3504,6 +3542,12 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/aria/#group`](https://w3c.github.io/aria/#group)
      * [`https://w3c.github.io/aria/#list`](https://w3c.github.io/aria/#list)
      * [`https://w3c.github.io/aria/#aria-activedescendant`](https://w3c.github.io/aria/#aria-activedescendant)
+- Broken external links:
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-normative`](https://www.w3.org/TR/wai-aria/#dfn-normative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-informative`](https://www.w3.org/TR/wai-aria/#dfn-informative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-taxonomy`](https://www.w3.org/TR/wai-aria/#dfn-taxonomy)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 
@@ -14871,6 +14915,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Navigation API](https://wicg.github.io/navigation-api/)
@@ -15712,6 +15757,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#attr-link-rel`](https://html.spec.whatwg.org/#attr-link-rel)
      * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-accessible-name`](https://www.w3.org/TR/wai-aria/#dfn-accessible-name)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18684,23 +18730,18 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Federated Credential Management API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Federated Credential Management API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 30 March 2022
+- Crawled version: 27 May 2022
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
-     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
-     * [`https://w3c.github.io/privacy-considerations/`](https://w3c.github.io/privacy-considerations/)
-     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
 - External links to private terms:
      * [`https://w3c.github.io/webappsec-credential-management/#same-origin-with-its-ancestors`](https://w3c.github.io/webappsec-credential-management/#same-origin-with-its-ancestors)
 - Broken external links:
@@ -18710,6 +18751,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
      * [`https://html.spec.whatwg.org/#tracking-user-activation`](https://html.spec.whatwg.org/#tracking-user-activation)
 
 #### Known dependencies on this specification {.dependencies}
@@ -23047,6 +23089,7 @@ Informative references to this spec from:
      * [`https://drafts.csswg.org/css-values/#vw`](https://drafts.csswg.org/css-values/#vw)
      * [`https://drafts.csswg.org/css-values/#funcdef-attr`](https://drafts.csswg.org/css-values/#funcdef-attr)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-cue-text`](https://w3c.github.io/webvtt/#webvtt-file-using-cue-text)
+     * [`https://w3c.github.io/aria/#dfn-accessible-name`](https://w3c.github.io/aria/#dfn-accessible-name)
      * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status)
      * [`https://www.w3.org/TR/css3-color/#css2-system`](https://www.w3.org/TR/css3-color/#css2-system)
 - External links to outdated specs:
@@ -23430,6 +23473,7 @@ Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
 - [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
 - [Attribution Reporting](https://wicg.github.io/conversion-measurement-api/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
@@ -23630,6 +23674,7 @@ Normative references to this spec from:
 
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)

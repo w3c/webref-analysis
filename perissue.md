@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 27, 2022
+% May 28, 2022
 
 467 specifications were crawled in this report.
 
@@ -1341,11 +1341,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://w3c.github.io/epub-tests/`](https://w3c.github.io/epub-tests/) but does not list it in its references
     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
-- [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to:
-    * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/) but does not list it in its references
-    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
-    * [`https://w3c.github.io/privacy-considerations/`](https://w3c.github.io/privacy-considerations/) but does not list it in its references
-    * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
 - [File API](https://w3c.github.io/FileAPI/) links to [`https://w3c.github.io/media-source/`](https://w3c.github.io/media-source/) but does not list it in its references
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1615,7 +1610,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 745 missing references for links found in 200 specifications
+=> 741 missing references for links found in 199 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2064,6 +2059,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
      * [`https://www.w3.org/TR/screen-orientation/#dom-screen`](https://www.w3.org/TR/screen-orientation/#dom-screen)
      * [`https://www.w3.org/TR/screen-orientation/#dfn-current-orientation-type`](https://www.w3.org/TR/screen-orientation/#dfn-current-orientation-type)
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/):
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/):
      * [`https://w3c.github.io/sensors/#sensor-reading`](https://w3c.github.io/sensors/#sensor-reading)
      * [`https://w3c.github.io/sensors/#limit-max-frequency`](https://w3c.github.io/sensors/#limit-max-frequency)
@@ -2112,6 +2109,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
      * [`https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited`](https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited)
      * [`https://w3c.github.io/reporting/#visible-to-reportingobservers`](https://w3c.github.io/reporting/#visible-to-reportingobservers)
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/):
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-object`](https://www.w3.org/TR/wai-aria-1.2/#dfn-object)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-owned-element`](https://www.w3.org/TR/wai-aria/#dfn-owned-element)
 - [Cross-Origin-Embedder-Policy: credentialless](https://wicg.github.io/credentiallessness/):
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
      * [`https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check`](https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check)
@@ -2473,12 +2476,16 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/):
      * [`https://drafts.csswg.org/css-values-4/#absolute-length`](https://drafts.csswg.org/css-values-4/#absolute-length)
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/):
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - [Gyroscope](https://w3c.github.io/gyroscope/):
      * [`https://w3c.github.io/sensors/#sensor-reading`](https://w3c.github.io/sensors/#sensor-reading)
      * [`https://w3c.github.io/sensors/#sensor-type`](https://w3c.github.io/sensors/#sensor-type)
      * [`https://w3c.github.io/sensors/#latest-reading`](https://w3c.github.io/sensors/#latest-reading)
      * [`https://w3c.github.io/sensors/#get-value-from-latest-reading`](https://w3c.github.io/sensors/#get-value-from-latest-reading)
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-parsing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-parsing-algorithm)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
@@ -2810,6 +2817,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
      * [`https://www.w3.org/TR/cssom-view-1/#scrolling-area`](https://www.w3.org/TR/cssom-view-1/#scrolling-area)
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
+- [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/):
+     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/):
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation)
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate)
@@ -3091,7 +3100,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 829 problematic external links found in 207 specifications
+=> 838 problematic external links found in 212 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -4157,6 +4166,10 @@ Links in the body of a specification should be to the same document as that poin
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html):
      * [`https://html.spec.whatwg.org/#imagebitmapsource`](https://html.spec.whatwg.org/#imagebitmapsource)
      * [`https://w3c.github.io/mediacapture-image/#Point2D`](https://w3c.github.io/mediacapture-image/#Point2D)
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/):
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent`](https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-text-node`](https://www.w3.org/TR/wai-aria-1.2/#dfn-text-node)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/):
      * [`https://www.w3.org/TR/html/#the-div-element`](https://www.w3.org/TR/html/#the-div-element)
      * [`https://www.w3.org/TR/html/#the-span-element`](https://www.w3.org/TR/html/#the-span-element)
@@ -4738,8 +4751,19 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-document-cookie`](https://html.spec.whatwg.org/#dom-document-cookie)
      * [`https://html.spec.whatwg.org/#same-site`](https://html.spec.whatwg.org/#same-site)
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/):
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent`](https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-element`](https://www.w3.org/TR/wai-aria-1.2/#dfn-element)
+     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-attribute`](https://www.w3.org/TR/wai-aria-1.2/#dfn-attribute)
      * [`https://w3c.github.io/aria/#label`](https://w3c.github.io/aria/#label)
      * [`https://w3c.github.io/aria/#legend`](https://w3c.github.io/aria/#legend)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-normative`](https://www.w3.org/TR/wai-aria/#dfn-normative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-informative`](https://www.w3.org/TR/wai-aria/#dfn-informative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-node`](https://www.w3.org/TR/wai-aria/#dfn-node)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-element`](https://www.w3.org/TR/wai-aria/#dfn-element)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-attribute`](https://www.w3.org/TR/wai-aria/#dfn-attribute)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria/#dfn-assistive-technology)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/):
      * [`https://html.spec.whatwg.org/#attr-fe-autocomplete`](https://html.spec.whatwg.org/#attr-fe-autocomplete)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
@@ -5508,6 +5532,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
      * [`https://html.spec.whatwg.org/#tracking-user-activation`](https://html.spec.whatwg.org/#tracking-user-activation)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/):
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
@@ -5784,6 +5809,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://dom.spec.whatwg.org/#context-object`](https://dom.spec.whatwg.org/#context-object)
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/):
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-normative`](https://www.w3.org/TR/wai-aria/#dfn-normative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-informative`](https://www.w3.org/TR/wai-aria/#dfn-informative)
 - [High Resolution Time](https://w3c.github.io/hr-time/):
      * [`https://html.spec.whatwg.org/#worker`](https://html.spec.whatwg.org/#worker)
      * [`https://html.spec.whatwg.org/#sharedworker`](https://html.spec.whatwg.org/#sharedworker)
@@ -5798,6 +5828,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-element`](https://www.w3.org/TR/wai-aria/#dfn-element)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-node`](https://www.w3.org/TR/wai-aria/#dfn-node)
      * [`https://html.spec.whatwg.org/#category-label`](https://html.spec.whatwg.org/#category-label)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#hyperlink`](https://html.spec.whatwg.org/#hyperlink)
@@ -6192,6 +6225,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-values/#vw`](https://drafts.csswg.org/css-values/#vw)
      * [`https://drafts.csswg.org/css-values/#funcdef-attr`](https://drafts.csswg.org/css-values/#funcdef-attr)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-cue-text`](https://w3c.github.io/webvtt/#webvtt-file-using-cue-text)
+     * [`https://w3c.github.io/aria/#dfn-accessible-name`](https://w3c.github.io/aria/#dfn-accessible-name)
      * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status)
      * [`https://www.w3.org/TR/css3-color/#css2-system`](https://www.w3.org/TR/css3-color/#css2-system)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/):
@@ -6237,6 +6271,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
      * [`https://html.spec.whatwg.org/#attr-link-rel`](https://html.spec.whatwg.org/#attr-link-rel)
      * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-accessible-name`](https://www.w3.org/TR/wai-aria/#dfn-accessible-name)
 - [import assertions](https://tc39.es/proposal-import-assertions/):
      * [`https://html.spec.whatwg.org/#module-script`](https://html.spec.whatwg.org/#module-script)
      * [`https://html.spec.whatwg.org/#fetch-a-single-module-script`](https://html.spec.whatwg.org/#fetch-a-single-module-script)
@@ -8412,6 +8447,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://www.w3.org/TR/css-overflow-4/#classic-scrollbars`](https://www.w3.org/TR/css-overflow-4/#classic-scrollbars)
+- [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/):
+     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria/#dfn-assistive-technology)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-normative`](https://www.w3.org/TR/wai-aria/#dfn-normative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-informative`](https://www.w3.org/TR/wai-aria/#dfn-informative)
+     * [`https://www.w3.org/TR/wai-aria/#dfn-taxonomy`](https://www.w3.org/TR/wai-aria/#dfn-taxonomy)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/):
      * [`https://html.spec.whatwg.org/#animation-frames`](https://html.spec.whatwg.org/#animation-frames)
      * [`https://html.spec.whatwg.org/#document`](https://html.spec.whatwg.org/#document)
@@ -9255,7 +9296,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4818 problematic external links found in 302 specifications
+=> 4847 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
