@@ -2648,8 +2648,6 @@ No informative reference to this spec from other specs.
 - Inconsistent references for links: 
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/aria/#aria-label`](https://w3c.github.io/aria/#aria-label)
      * [`https://w3c.github.io/aria/#aria-labelledby`](https://w3c.github.io/aria/#aria-labelledby)
@@ -2691,7 +2689,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2763,10 +2761,8 @@ Informative references to this spec from:
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
 - External links to private terms:
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
      * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-object`](https://www.w3.org/TR/wai-aria-1.2/#dfn-object)
      * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
      * [`https://www.w3.org/TR/wai-aria/#dfn-owned-element`](https://www.w3.org/TR/wai-aria/#dfn-owned-element)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/aria/#aria-flowto`](https://w3c.github.io/aria/#aria-flowto)
@@ -2952,8 +2948,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/), related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/graphics-aria/#graphics-document`](https://w3c.github.io/graphics-aria/#graphics-document)
      * [`https://w3c.github.io/graphics-aria/#graphics-object`](https://w3c.github.io/graphics-aria/#graphics-object)
@@ -2998,8 +2992,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
      * [`https://www.w3.org/TR/html/`](https://www.w3.org/TR/html/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/core-aam/#role-map-generic`](https://w3c.github.io/core-aam/#role-map-generic)
      * [`https://w3c.github.io/core-aam/#ariaRoleDescription`](https://w3c.github.io/core-aam/#ariaRoleDescription)
@@ -3506,8 +3498,6 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - External links that neither target definitions nor headings:
      * [`https://w3c.github.io/aria/#none`](https://w3c.github.io/aria/#none)
      * [`https://w3c.github.io/aria/#presentation`](https://w3c.github.io/aria/#presentation)

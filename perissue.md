@@ -2055,8 +2055,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
      * [`https://www.w3.org/TR/screen-orientation/#dom-screen`](https://www.w3.org/TR/screen-orientation/#dom-screen)
      * [`https://www.w3.org/TR/screen-orientation/#dfn-current-orientation-type`](https://www.w3.org/TR/screen-orientation/#dfn-current-orientation-type)
-- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/):
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/):
      * [`https://w3c.github.io/sensors/#sensor-reading`](https://w3c.github.io/sensors/#sensor-reading)
      * [`https://w3c.github.io/sensors/#limit-max-frequency`](https://w3c.github.io/sensors/#limit-max-frequency)
@@ -2106,10 +2104,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited`](https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited)
      * [`https://w3c.github.io/reporting/#visible-to-reportingobservers`](https://w3c.github.io/reporting/#visible-to-reportingobservers)
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/):
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-property`](https://www.w3.org/TR/wai-aria-1.2/#dfn-property)
      * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-object`](https://www.w3.org/TR/wai-aria-1.2/#dfn-object)
      * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
      * [`https://www.w3.org/TR/wai-aria/#dfn-owned-element`](https://www.w3.org/TR/wai-aria/#dfn-owned-element)
 - [Cross-Origin-Embedder-Policy: credentialless](https://wicg.github.io/credentiallessness/):
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
@@ -2470,16 +2466,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/):
      * [`https://drafts.csswg.org/css-values-4/#absolute-length`](https://drafts.csswg.org/css-values-4/#absolute-length)
-- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/):
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - [Gyroscope](https://w3c.github.io/gyroscope/):
      * [`https://w3c.github.io/sensors/#sensor-reading`](https://w3c.github.io/sensors/#sensor-reading)
      * [`https://w3c.github.io/sensors/#sensor-type`](https://w3c.github.io/sensors/#sensor-type)
      * [`https://w3c.github.io/sensors/#latest-reading`](https://w3c.github.io/sensors/#latest-reading)
      * [`https://w3c.github.io/sensors/#get-value-from-latest-reading`](https://w3c.github.io/sensors/#get-value-from-latest-reading)
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
-- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-parsing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-parsing-algorithm)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
@@ -2811,8 +2803,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/):
      * [`https://www.w3.org/TR/cssom-view-1/#scrolling-area`](https://www.w3.org/TR/cssom-view-1/#scrolling-area)
      * [`https://www.w3.org/TR/cssom-view-1/#page-zoom`](https://www.w3.org/TR/cssom-view-1/#page-zoom)
-- [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/):
-     * [`https://www.w3.org/TR/wai-aria/#dfn-property`](https://www.w3.org/TR/wai-aria/#dfn-property)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/):
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation)
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate)
@@ -3094,7 +3084,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 837 problematic external links found in 211 specifications
+=> 831 problematic external links found in 207 specifications
 
 
 ## External links that neither target definitions nor headings
