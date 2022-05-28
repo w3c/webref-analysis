@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-28T00:49:38.511Z",
+  "date": "2022-05-28T06:39:50.696Z",
   "stats": {
     "crawled": 467,
     "errors": 1,
@@ -41368,7 +41368,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "27 May 2022",
+      "date": "28 May 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",

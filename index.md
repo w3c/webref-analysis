@@ -12501,7 +12501,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
 - Crawled URL: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
-- Crawled version: 27 May 2022
+- Crawled version: 28 May 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
 - Latest published version: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
 - Shortname: miniapp-lifecycle
