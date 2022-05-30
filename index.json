@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-30T12:45:57.713Z",
+  "date": "2022-05-30T18:40:31.426Z",
   "stats": {
     "crawled": 467,
-    "errors": 1,
+    "errors": 0,
     "studied": 467
   },
   "results": [
@@ -1253,7 +1253,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "conversion-measurement-api",
-      "date": "25 May 2022",
+      "date": "26 May 2022",
       "url": "https://wicg.github.io/conversion-measurement-api/",
       "nightly": {
         "url": "https://wicg.github.io/conversion-measurement-api/",
@@ -1261,7 +1261,7 @@
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://wicg.github.io/conversion-measurement-api/",
+      "crawled": "https://wicg.github.io/attribution-reporting-api/",
       "organization": "W3C",
       "groups": [
         {
@@ -1270,7 +1270,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://wicg.github.io/conversion-measurement-api/ triggered HTTP status 404 Error: Loading https://wicg.github.io/conversion-measurement-api/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 92)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -1306,7 +1305,6 @@
         },
         "xrefs": {
           "notExported": [
-            "https://fetch.spec.whatwg.org/#concept-main-fetch",
             "https://storage.spec.whatwg.org/#storage-bottle"
           ],
           "notDfn": [],
@@ -1337,13 +1335,8 @@
             "https://html.spec.whatwg.org/#navigation-params-origin",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#same-origin",
-            "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
-            "https://html.spec.whatwg.org/#concept-origin-opaque",
-            "https://html.spec.whatwg.org/#concept-relevant-global",
-            "https://html.spec.whatwg.org/#concept-document-window",
-            "https://html.spec.whatwg.org/#allowed-to-use",
-            "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#serialization-of-a-site",
             "https://html.spec.whatwg.org/#concept-origin-host",
             "https://html.spec.whatwg.org/#concept-origin-port"
@@ -8282,7 +8275,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "17 May 2022",
+      "date": "30 May 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -24450,7 +24443,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "25 May 2022",
+      "date": "30 May 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24493,7 +24486,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://wicg.github.io/background-fetch/",
@@ -34332,7 +34325,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://www.w3.org/TR/audio-output/",
@@ -37026,7 +37019,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://wicg.github.io/background-fetch/",
@@ -44010,7 +44003,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://www.w3.org/TR/audio-output/",
@@ -50078,7 +50071,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "27 May 2022",
+      "date": "30 May 2022",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
@@ -50381,7 +50374,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://www.w3.org/TR/orientation-event/",
@@ -51710,7 +51703,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://www.w3.org/TR/clear-site-data/",
@@ -53862,7 +53855,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://wicg.github.io/background-fetch/",
@@ -56201,7 +56194,7 @@
             {
               "url": "https://wicg.github.io/conversion-measurement-api/",
               "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/conversion-measurement-api/"
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
               "url": "https://www.w3.org/TR/audio-output/",
