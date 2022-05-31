@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-05-31T06:40:27.304Z",
+  "date": "2022-05-31T12:43:56.509Z",
   "stats": {
     "crawled": 467,
-    "errors": 0,
+    "errors": 1,
     "studied": 467
   },
   "results": [
@@ -2754,7 +2754,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "24 May 2022",
+      "date": "31 May 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2801,26 +2801,29 @@
             "https://html.spec.whatwg.org/#concept-task",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#global-object",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#transient-activation",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#queue-a-global-task",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#fully-active",
-            "https://html.spec.whatwg.org/#same-origin-domain",
-            "https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context",
             "https://html.spec.whatwg.org/#active-needed-worker",
+            "https://html.spec.whatwg.org/#same-origin-domain",
+            "https://html.spec.whatwg.org/#focused",
             "https://html.spec.whatwg.org/#window",
-            "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#workerglobalscope",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#tlbc-system-focus",
+            "https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context",
             "https://html.spec.whatwg.org/#task-source",
             "https://html.spec.whatwg.org/#report-the-exception",
             "https://html.spec.whatwg.org/#dom-workerglobalscope-closing",
             "https://html.spec.whatwg.org/#unloading-document-cleanup-steps",
             "https://html.spec.whatwg.org/#same-origin",
-            "https://html.spec.whatwg.org/#active-window",
-            "https://html.spec.whatwg.org/#browsing-context"
+            "https://html.spec.whatwg.org/#active-window"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4818,6 +4821,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23821,7 +23825,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "27 May 2022",
+      "date": "31 May 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23949,7 +23953,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "27 May 2022",
+      "date": "31 May 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -44021,6 +44025,11 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
+              "url": "https://wicg.github.io/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://wicg.github.io/compute-pressure/"
+            },
+            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -45747,7 +45756,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "20 May 2022",
+      "date": "31 May 2022",
       "url": "https://www.w3.org/TR/mediacapture-region/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-region/",
@@ -47304,6 +47313,11 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -48630,7 +48644,7 @@
     {
       "title": "Save Data API",
       "shortname": "savedata",
-      "date": "24 March 2022",
+      "date": "31 May 2022",
       "url": "https://wicg.github.io/savedata/",
       "nightly": {
         "url": "https://wicg.github.io/savedata/",
@@ -58527,7 +58541,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "30 May 2022",
+      "date": "31 May 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
