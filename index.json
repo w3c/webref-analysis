@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-01T12:46:19.400Z",
+  "date": "2022-06-01T18:40:20.551Z",
   "stats": {
     "crawled": 467,
-    "errors": 0,
+    "errors": 1,
     "studied": 467
   },
   "results": [
@@ -4821,6 +4821,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23829,7 +23830,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "31 May 2022",
+      "date": "01 June 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23957,7 +23958,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "31 May 2022",
+      "date": "01 June 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24451,7 +24452,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "30 May 2022",
+      "date": "1 June 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -26787,11 +26788,6 @@
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "DeviceOrientation Event Specification",
               "crawled": "https://w3c.github.io/deviceorientation/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webxr/",
-              "title": "WebXR Device API",
-              "crawled": "https://immersive-web.github.io/webxr/"
             }
           ]
         },
@@ -28003,7 +27999,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "31 May 2022",
+      "date": "1 June 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -44380,7 +44376,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "25 May 2022",
+      "date": "01 June 2022",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -50593,7 +50589,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "30 May 2022",
+      "date": "1 June 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -63811,7 +63807,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "31 May 2022",
+      "date": "1 June 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63943,7 +63939,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "31 May 2022",
+      "date": "1 June 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
