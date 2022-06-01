@@ -21,14 +21,6 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>467 specifications were crawled in this report.</p>
-  <section id="specifications-that-could-not-be-rendered" class="level2">
-  <h2>Specifications that could not be rendered</h2>
-  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
-  <ul>
-  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)   at async Promise.all (index 325)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)</code></li>
-  </ul>
-  <p>=&gt; 1 specification found</p>
-  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -909,6 +901,14 @@
   <ul>
   <li><a href="https://w3c.github.io/webappsec/usecases/credentialmanagement/"><code>https://w3c.github.io/webappsec/usecases/credentialmanagement/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/webauthn/"><code>https://w3c.github.io/webauthn/</code></a> but does not list it in its references</li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
+  <li><a href="https://html.spec.whatwg.org/"><code>https://html.spec.whatwg.org/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
   <ul>
@@ -1891,9 +1891,6 @@
   <li><a href="https://w3c.github.io/touch-events/">Touch Events - Level 2</a> links to <a href="https://www.w3.org/TR/touch-events-extensions/"><code>https://www.w3.org/TR/touch-events-extensions/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/webappsec-trusted-types/dist/spec/">Trusted Types</a> links to:
   <ul>
-  <li><a href="https://mimesniff.spec.whatwg.org/"><code>https://mimesniff.spec.whatwg.org/</code></a> but does not list it in its references</li>
-  <li><a href="https://xhr.spec.whatwg.org/"><code>https://xhr.spec.whatwg.org/</code></a> but does not list it in its references</li>
-  <li><a href="https://encoding.spec.whatwg.org/"><code>https://encoding.spec.whatwg.org/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/editing/docs/execCommand/"><code>https://w3c.github.io/editing/docs/execCommand/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/webcomponents/spec/imports/"><code>https://w3c.github.io/webcomponents/spec/imports/</code></a> but does not list it in its references</li>
   </ul></li>
@@ -1971,7 +1968,7 @@
   <li><a href="https://immersive-web.github.io/lighting-estimation/">WebXR Lighting Estimation API Level 1</a> links to <a href="https://www.w3.org/TR/webxrlayers-1/"><code>https://www.w3.org/TR/webxrlayers-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 735 missing references for links found in 198 specifications</p>
+  <p>=&gt; 737 missing references for links found in 199 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -2049,6 +2046,12 @@
   <li><a href="https://w3c.github.io/webappsec-mixed-content/"><code>https://w3c.github.io/webappsec-mixed-content/</code></a> but related reference “MIXED-CONTENT” uses URL <a href="https://www.w3.org/TR/mixed-content/"><code>https://www.w3.org/TR/mixed-content/</code></a></li>
   <li><a href="https://w3c.github.io/webappsec-permissions-policy/"><code>https://w3c.github.io/webappsec-permissions-policy/</code></a> but related reference “PERMISSIONS-POLICY-1” uses URL <a href="https://www.w3.org/TR/permissions-policy-1/"><code>https://www.w3.org/TR/permissions-policy-1/</code></a></li>
   <li><a href="https://w3c.github.io/webappsec-csp/"><code>https://w3c.github.io/webappsec-csp/</code></a> but related reference “CSP” uses URL <a href="https://www.w3.org/TR/CSP3/"><code>https://www.w3.org/TR/CSP3/</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a> but related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
   <ul>
@@ -2546,7 +2549,7 @@
   <li><a href="https://immersive-web.github.io/dom-overlays/">WebXR DOM Overlays Module</a> links to <a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a> but related reference “UIEVENTS” uses URL <a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a></li>
   <li><a href="https://immersive-web.github.io/webxr-hand-input/">WebXR Hand Input Module - Level 1</a> links to <a href="https://w3c.github.io/ServiceWorker/"><code>https://w3c.github.io/ServiceWorker/</code></a> but related reference “SERVICE-WORKERS-1” uses URL <a href="https://www.w3.org/TR/service-workers-1/"><code>https://www.w3.org/TR/service-workers-1/</code></a></li>
   </ul>
-  <p>=&gt; 348 inconsistent references for links found in 183 specifications</p>
+  <p>=&gt; 351 inconsistent references for links found in 184 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
@@ -2656,6 +2659,10 @@
   <li><a href="https://fetch.spec.whatwg.org/#concept-cors-check"><code>https://fetch.spec.whatwg.org/#concept-cors-check</code></a></li>
   <li><a href="https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check"><code>https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check</code></a></li>
   <li><a href="https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch"><code>https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
   <ul>
@@ -4008,7 +4015,7 @@
   <li><a href="https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm"><code>https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 831 problematic external links found in 208 specifications</p>
+  <p>=&gt; 832 problematic external links found in 209 specifications</p>
   </section>
   <section id="external-links-that-neither-target-definitions-nor-headings" class="level2">
   <h2>External links that neither target definitions nor headings</h2>
@@ -5940,6 +5947,10 @@
   <li><a href="https://html.spec.whatwg.org/#same-origin"><code>https://html.spec.whatwg.org/#same-origin</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#coep-unsafe-none"><code>https://html.spec.whatwg.org/#coep-unsafe-none</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#coep-require-corp"><code>https://html.spec.whatwg.org/#coep-require-corp</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-style-attribute"><code>https://html.spec.whatwg.org/#the-style-attribute</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
   <ul>
@@ -9834,65 +9845,12 @@
   <li><a href="https://html.spec.whatwg.org/#windoworworkerglobalscope"><code>https://html.spec.whatwg.org/#windoworworkerglobalscope</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#cereactions"><code>https://html.spec.whatwg.org/#cereactions</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#dom-innertext"><code>https://html.spec.whatwg.org/#dom-innertext</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#prepare-a-script"><code>https://html.spec.whatwg.org/#prepare-a-script</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#the-script-element"><code>https://html.spec.whatwg.org/#the-script-element</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#prepare-the-script-element"><code>https://html.spec.whatwg.org/#prepare-the-script-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#already-started"><code>https://html.spec.whatwg.org/#already-started</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#parser-inserted"><code>https://html.spec.whatwg.org/#parser-inserted</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#parser-document"><code>https://html.spec.whatwg.org/#parser-document</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#the-script-element"><code>https://html.spec.whatwg.org/#the-script-element</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#attr-script-async"><code>https://html.spec.whatwg.org/#attr-script-async</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#non-blocking"><code>https://html.spec.whatwg.org/#non-blocking</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-type"><code>https://html.spec.whatwg.org/#attr-script-type</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-language"><code>https://html.spec.whatwg.org/#attr-script-language</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-type"><code>https://html.spec.whatwg.org/#concept-script-type</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#document"><code>https://html.spec.whatwg.org/#document</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-n-noscript"><code>https://html.spec.whatwg.org/#concept-n-noscript</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#xsltprocessor"><code>https://html.spec.whatwg.org/#xsltprocessor</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#dom-xsltprocessor-transformtodocument"><code>https://html.spec.whatwg.org/#dom-xsltprocessor-transformtodocument</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#refsXHR"><code>https://html.spec.whatwg.org/#refsXHR</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#refsDOMPARSING"><code>https://html.spec.whatwg.org/#refsDOMPARSING</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#refsXSLTP"><code>https://html.spec.whatwg.org/#refsXSLTP</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#refsDOM"><code>https://html.spec.whatwg.org/#refsDOM</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-nomodule"><code>https://html.spec.whatwg.org/#attr-script-nomodule</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#module-script"><code>https://html.spec.whatwg.org/#module-script</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#refsCSP"><code>https://html.spec.whatwg.org/#refsCSP</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-event"><code>https://html.spec.whatwg.org/#attr-script-event</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-for"><code>https://html.spec.whatwg.org/#attr-script-for</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-charset"><code>https://html.spec.whatwg.org/#attr-script-charset</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-crossorigin"><code>https://html.spec.whatwg.org/#attr-script-crossorigin</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#module-script-credentials-mode"><code>https://html.spec.whatwg.org/#module-script-credentials-mode</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#cryptographicnonce"><code>https://html.spec.whatwg.org/#cryptographicnonce</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-integrity"><code>https://html.spec.whatwg.org/#attr-script-integrity</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-referrerpolicy"><code>https://html.spec.whatwg.org/#attr-script-referrerpolicy</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#script-fetch-options"><code>https://html.spec.whatwg.org/#script-fetch-options</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-fetch-options-nonce"><code>https://html.spec.whatwg.org/#concept-script-fetch-options-nonce</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-fetch-options-integrity"><code>https://html.spec.whatwg.org/#concept-script-fetch-options-integrity</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-fetch-options-parser"><code>https://html.spec.whatwg.org/#concept-script-fetch-options-parser</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-fetch-options-credentials"><code>https://html.spec.whatwg.org/#concept-script-fetch-options-credentials</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-fetch-options-referrer-policy"><code>https://html.spec.whatwg.org/#concept-script-fetch-options-referrer-policy</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#relevant-settings-object"><code>https://html.spec.whatwg.org/#relevant-settings-object</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#queue-a-task"><code>https://html.spec.whatwg.org/#queue-a-task</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#event-error"><code>https://html.spec.whatwg.org/#event-error</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-external"><code>https://html.spec.whatwg.org/#concept-script-external</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#parse-a-url"><code>https://html.spec.whatwg.org/#parse-a-url</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#resulting-url-record"><code>https://html.spec.whatwg.org/#resulting-url-record</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#fetch-a-classic-script"><code>https://html.spec.whatwg.org/#fetch-a-classic-script</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#fetch-a-module-script-tree"><code>https://html.spec.whatwg.org/#fetch-a-module-script-tree</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#concept-script-script"><code>https://html.spec.whatwg.org/#concept-script-script</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#the-script-is-ready"><code>https://html.spec.whatwg.org/#the-script-is-ready</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#insert-an-element-into-a-document"><code>https://html.spec.whatwg.org/#insert-an-element-into-a-document</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#document-base-url"><code>https://html.spec.whatwg.org/#document-base-url</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#creating-a-classic-script"><code>https://html.spec.whatwg.org/#creating-a-classic-script</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#fetch-an-inline-module-script-graph"><code>https://html.spec.whatwg.org/#fetch-an-inline-module-script-graph</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#attr-script-defer"><code>https://html.spec.whatwg.org/#attr-script-defer</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#ready-to-be-parser-executed"><code>https://html.spec.whatwg.org/#ready-to-be-parser-executed</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#pending-parsing-blocking-script"><code>https://html.spec.whatwg.org/#pending-parsing-blocking-script</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible"><code>https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#execute-the-script-block"><code>https://html.spec.whatwg.org/#execute-the-script-block</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#set-of-scripts-that-will-execute-as-soon-as-possible"><code>https://html.spec.whatwg.org/#set-of-scripts-that-will-execute-as-soon-as-possible</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#xml-parser"><code>https://html.spec.whatwg.org/#xml-parser</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#html-parser"><code>https://html.spec.whatwg.org/#html-parser</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#script-nesting-level"><code>https://html.spec.whatwg.org/#script-nesting-level</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#has-a-style-sheet-that-is-blocking-scripts"><code>https://html.spec.whatwg.org/#has-a-style-sheet-that-is-blocking-scripts</code></a></li>
-  <li><a href="https://html.spec.whatwg.org/#immediately"><code>https://html.spec.whatwg.org/#immediately</code></a></li>
+  <li><a href="https://html.spec.whatwg.org/#script-force-async"><code>https://html.spec.whatwg.org/#script-force-async</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#htmliframeelement"><code>https://html.spec.whatwg.org/#htmliframeelement</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#htmlembedelement"><code>https://html.spec.whatwg.org/#htmlembedelement</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#htmlobjectelement"><code>https://html.spec.whatwg.org/#htmlobjectelement</code></a></li>
@@ -10969,7 +10927,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 4880 problematic external links found in 305 specifications</p>
+  <p>=&gt; 4828 problematic external links found in 306 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>
@@ -11220,6 +11178,13 @@
   <li><a href="https://www.w3.org/TR/2014/CR-compositing-1-20140220/"><code>https://www.w3.org/TR/2014/CR-compositing-1-20140220/</code></a></li>
   <li><a href="https://www.w3.org/TR/2013/WD-compositing-1-20131010/"><code>https://www.w3.org/TR/2013/WD-compositing-1-20131010/</code></a></li>
   <li><a href="https://www.w3.org/TR/2013/WD-compositing-1-20130625/"><code>https://www.w3.org/TR/2013/WD-compositing-1-20130625/</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a></li>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
   <ul>
@@ -11578,7 +11543,7 @@
   <li><a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 188 problematic external links found in 63 specifications</p>
+  <p>=&gt; 192 problematic external links found in 64 specifications</p>
   </section>
   </body>
 </html>

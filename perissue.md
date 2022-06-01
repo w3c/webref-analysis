@@ -5,20 +5,6 @@
 467 specifications were crawled in this report.
 
 
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 325)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-=> 1 specification found
-
-
 ## Specifications without normative dependencies
 
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
@@ -795,6 +781,12 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/) links to:
     * [`https://w3c.github.io/html/infrastructure.html`](https://w3c.github.io/html/infrastructure.html) but does not list it in its references
     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/) but does not list it in its references
@@ -1541,9 +1533,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [The Storage Access API](https://privacycg.github.io/storage-access/) links to [`https://w3c.github.io/webdriver/webdriver-spec.html`](https://w3c.github.io/webdriver/webdriver-spec.html) but does not list it in its references
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/) links to [`https://www.w3.org/TR/touch-events-extensions/`](https://www.w3.org/TR/touch-events-extensions/) but does not list it in its references
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/) links to:
-    * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/) but does not list it in its references
-    * [`https://xhr.spec.whatwg.org/`](https://xhr.spec.whatwg.org/) but does not list it in its references
-    * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
     * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/) but does not list it in its references
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/) but does not list it in its references
@@ -1600,7 +1589,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 735 missing references for links found in 198 specifications
+=> 737 missing references for links found in 199 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1659,6 +1648,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -2031,7 +2024,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 348 inconsistent references for links found in 183 specifications
+=> 351 inconsistent references for links found in 184 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2105,6 +2098,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://fetch.spec.whatwg.org/#concept-cors-check`](https://fetch.spec.whatwg.org/#concept-cors-check)
      * [`https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check`](https://fetch.spec.whatwg.org/#cross-origin-resource-policy-internal-check)
      * [`https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch`](https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -3078,7 +3073,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 831 problematic external links found in 208 specifications
+=> 832 problematic external links found in 209 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -4823,6 +4818,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#same-origin`](https://html.spec.whatwg.org/#same-origin)
      * [`https://html.spec.whatwg.org/#coep-unsafe-none`](https://html.spec.whatwg.org/#coep-unsafe-none)
      * [`https://html.spec.whatwg.org/#coep-require-corp`](https://html.spec.whatwg.org/#coep-require-corp)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -8285,65 +8282,12 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
      * [`https://html.spec.whatwg.org/#dom-innertext`](https://html.spec.whatwg.org/#dom-innertext)
-     * [`https://html.spec.whatwg.org/#prepare-a-script`](https://html.spec.whatwg.org/#prepare-a-script)
-     * [`https://html.spec.whatwg.org/#the-script-element`](https://html.spec.whatwg.org/#the-script-element)
+     * [`https://html.spec.whatwg.org/#prepare-the-script-element`](https://html.spec.whatwg.org/#prepare-the-script-element)
      * [`https://html.spec.whatwg.org/#already-started`](https://html.spec.whatwg.org/#already-started)
-     * [`https://html.spec.whatwg.org/#parser-inserted`](https://html.spec.whatwg.org/#parser-inserted)
+     * [`https://html.spec.whatwg.org/#parser-document`](https://html.spec.whatwg.org/#parser-document)
+     * [`https://html.spec.whatwg.org/#the-script-element`](https://html.spec.whatwg.org/#the-script-element)
      * [`https://html.spec.whatwg.org/#attr-script-async`](https://html.spec.whatwg.org/#attr-script-async)
-     * [`https://html.spec.whatwg.org/#non-blocking`](https://html.spec.whatwg.org/#non-blocking)
-     * [`https://html.spec.whatwg.org/#attr-script-type`](https://html.spec.whatwg.org/#attr-script-type)
-     * [`https://html.spec.whatwg.org/#attr-script-language`](https://html.spec.whatwg.org/#attr-script-language)
-     * [`https://html.spec.whatwg.org/#concept-script-type`](https://html.spec.whatwg.org/#concept-script-type)
-     * [`https://html.spec.whatwg.org/#document`](https://html.spec.whatwg.org/#document)
-     * [`https://html.spec.whatwg.org/#concept-n-noscript`](https://html.spec.whatwg.org/#concept-n-noscript)
-     * [`https://html.spec.whatwg.org/#xsltprocessor`](https://html.spec.whatwg.org/#xsltprocessor)
-     * [`https://html.spec.whatwg.org/#dom-xsltprocessor-transformtodocument`](https://html.spec.whatwg.org/#dom-xsltprocessor-transformtodocument)
-     * [`https://html.spec.whatwg.org/#refsXHR`](https://html.spec.whatwg.org/#refsXHR)
-     * [`https://html.spec.whatwg.org/#refsDOMPARSING`](https://html.spec.whatwg.org/#refsDOMPARSING)
-     * [`https://html.spec.whatwg.org/#refsXSLTP`](https://html.spec.whatwg.org/#refsXSLTP)
-     * [`https://html.spec.whatwg.org/#refsDOM`](https://html.spec.whatwg.org/#refsDOM)
-     * [`https://html.spec.whatwg.org/#attr-script-nomodule`](https://html.spec.whatwg.org/#attr-script-nomodule)
-     * [`https://html.spec.whatwg.org/#module-script`](https://html.spec.whatwg.org/#module-script)
-     * [`https://html.spec.whatwg.org/#refsCSP`](https://html.spec.whatwg.org/#refsCSP)
-     * [`https://html.spec.whatwg.org/#attr-script-event`](https://html.spec.whatwg.org/#attr-script-event)
-     * [`https://html.spec.whatwg.org/#attr-script-for`](https://html.spec.whatwg.org/#attr-script-for)
-     * [`https://html.spec.whatwg.org/#attr-script-charset`](https://html.spec.whatwg.org/#attr-script-charset)
-     * [`https://html.spec.whatwg.org/#attr-script-crossorigin`](https://html.spec.whatwg.org/#attr-script-crossorigin)
-     * [`https://html.spec.whatwg.org/#module-script-credentials-mode`](https://html.spec.whatwg.org/#module-script-credentials-mode)
-     * [`https://html.spec.whatwg.org/#cryptographicnonce`](https://html.spec.whatwg.org/#cryptographicnonce)
-     * [`https://html.spec.whatwg.org/#attr-script-integrity`](https://html.spec.whatwg.org/#attr-script-integrity)
-     * [`https://html.spec.whatwg.org/#attr-script-referrerpolicy`](https://html.spec.whatwg.org/#attr-script-referrerpolicy)
-     * [`https://html.spec.whatwg.org/#script-fetch-options`](https://html.spec.whatwg.org/#script-fetch-options)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-nonce`](https://html.spec.whatwg.org/#concept-script-fetch-options-nonce)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-integrity`](https://html.spec.whatwg.org/#concept-script-fetch-options-integrity)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-parser`](https://html.spec.whatwg.org/#concept-script-fetch-options-parser)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-credentials`](https://html.spec.whatwg.org/#concept-script-fetch-options-credentials)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-referrer-policy`](https://html.spec.whatwg.org/#concept-script-fetch-options-referrer-policy)
-     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
-     * [`https://html.spec.whatwg.org/#event-error`](https://html.spec.whatwg.org/#event-error)
-     * [`https://html.spec.whatwg.org/#concept-script-external`](https://html.spec.whatwg.org/#concept-script-external)
-     * [`https://html.spec.whatwg.org/#parse-a-url`](https://html.spec.whatwg.org/#parse-a-url)
-     * [`https://html.spec.whatwg.org/#resulting-url-record`](https://html.spec.whatwg.org/#resulting-url-record)
-     * [`https://html.spec.whatwg.org/#fetch-a-classic-script`](https://html.spec.whatwg.org/#fetch-a-classic-script)
-     * [`https://html.spec.whatwg.org/#fetch-a-module-script-tree`](https://html.spec.whatwg.org/#fetch-a-module-script-tree)
-     * [`https://html.spec.whatwg.org/#concept-script-script`](https://html.spec.whatwg.org/#concept-script-script)
-     * [`https://html.spec.whatwg.org/#the-script-is-ready`](https://html.spec.whatwg.org/#the-script-is-ready)
-     * [`https://html.spec.whatwg.org/#insert-an-element-into-a-document`](https://html.spec.whatwg.org/#insert-an-element-into-a-document)
-     * [`https://html.spec.whatwg.org/#document-base-url`](https://html.spec.whatwg.org/#document-base-url)
-     * [`https://html.spec.whatwg.org/#creating-a-classic-script`](https://html.spec.whatwg.org/#creating-a-classic-script)
-     * [`https://html.spec.whatwg.org/#fetch-an-inline-module-script-graph`](https://html.spec.whatwg.org/#fetch-an-inline-module-script-graph)
-     * [`https://html.spec.whatwg.org/#attr-script-defer`](https://html.spec.whatwg.org/#attr-script-defer)
-     * [`https://html.spec.whatwg.org/#ready-to-be-parser-executed`](https://html.spec.whatwg.org/#ready-to-be-parser-executed)
-     * [`https://html.spec.whatwg.org/#pending-parsing-blocking-script`](https://html.spec.whatwg.org/#pending-parsing-blocking-script)
-     * [`https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible`](https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible)
-     * [`https://html.spec.whatwg.org/#execute-the-script-block`](https://html.spec.whatwg.org/#execute-the-script-block)
-     * [`https://html.spec.whatwg.org/#set-of-scripts-that-will-execute-as-soon-as-possible`](https://html.spec.whatwg.org/#set-of-scripts-that-will-execute-as-soon-as-possible)
-     * [`https://html.spec.whatwg.org/#xml-parser`](https://html.spec.whatwg.org/#xml-parser)
-     * [`https://html.spec.whatwg.org/#html-parser`](https://html.spec.whatwg.org/#html-parser)
-     * [`https://html.spec.whatwg.org/#script-nesting-level`](https://html.spec.whatwg.org/#script-nesting-level)
-     * [`https://html.spec.whatwg.org/#has-a-style-sheet-that-is-blocking-scripts`](https://html.spec.whatwg.org/#has-a-style-sheet-that-is-blocking-scripts)
-     * [`https://html.spec.whatwg.org/#immediately`](https://html.spec.whatwg.org/#immediately)
+     * [`https://html.spec.whatwg.org/#script-force-async`](https://html.spec.whatwg.org/#script-force-async)
      * [`https://html.spec.whatwg.org/#htmliframeelement`](https://html.spec.whatwg.org/#htmliframeelement)
      * [`https://html.spec.whatwg.org/#htmlembedelement`](https://html.spec.whatwg.org/#htmlembedelement)
      * [`https://html.spec.whatwg.org/#htmlobjectelement`](https://html.spec.whatwg.org/#htmlobjectelement)
@@ -9307,7 +9251,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4880 problematic external links found in 305 specifications
+=> 4828 problematic external links found in 306 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9449,6 +9393,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -9688,7 +9637,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 188 problematic external links found in 63 specifications
+=> 192 problematic external links found in 64 specifications
 
 
 

@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-01T06:40:48.312Z",
+  "date": "2022-06-01T12:46:19.400Z",
   "stats": {
     "crawled": 467,
-    "errors": 1,
+    "errors": 0,
     "studied": 467
   },
   "results": [
@@ -4821,7 +4821,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35785,11 +35784,6 @@
               "crawled": "https://drafts.csswg.org/selectors/"
             },
             {
-              "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
-              "title": "Trusted Types",
-              "crawled": "https://w3c.github.io/webappsec-trusted-types/dist/spec/"
-            },
-            {
               "url": "https://www.w3.org/TR/graphics-aria-1.0/",
               "title": "WAI-ARIA Graphics Module",
               "crawled": "https://w3c.github.io/graphics-aria/"
@@ -53142,7 +53136,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "17 November 2021",
+      "date": "1 June 2022",
       "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
       "nightly": {
         "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
@@ -53172,9 +53166,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://mimesniff.spec.whatwg.org/",
-          "https://xhr.spec.whatwg.org/",
-          "https://encoding.spec.whatwg.org/",
           "https://w3c.github.io/editing/docs/execCommand/",
           "https://w3c.github.io/webcomponents/spec/imports/"
         ],
@@ -53234,65 +53225,12 @@
             "https://html.spec.whatwg.org/#windoworworkerglobalscope",
             "https://html.spec.whatwg.org/#cereactions",
             "https://html.spec.whatwg.org/#dom-innertext",
-            "https://html.spec.whatwg.org/#prepare-a-script",
-            "https://html.spec.whatwg.org/#the-script-element",
+            "https://html.spec.whatwg.org/#prepare-the-script-element",
             "https://html.spec.whatwg.org/#already-started",
-            "https://html.spec.whatwg.org/#parser-inserted",
+            "https://html.spec.whatwg.org/#parser-document",
+            "https://html.spec.whatwg.org/#the-script-element",
             "https://html.spec.whatwg.org/#attr-script-async",
-            "https://html.spec.whatwg.org/#non-blocking",
-            "https://html.spec.whatwg.org/#attr-script-type",
-            "https://html.spec.whatwg.org/#attr-script-language",
-            "https://html.spec.whatwg.org/#concept-script-type",
-            "https://html.spec.whatwg.org/#document",
-            "https://html.spec.whatwg.org/#concept-n-noscript",
-            "https://html.spec.whatwg.org/#xsltprocessor",
-            "https://html.spec.whatwg.org/#dom-xsltprocessor-transformtodocument",
-            "https://html.spec.whatwg.org/#refsXHR",
-            "https://html.spec.whatwg.org/#refsDOMPARSING",
-            "https://html.spec.whatwg.org/#refsXSLTP",
-            "https://html.spec.whatwg.org/#refsDOM",
-            "https://html.spec.whatwg.org/#attr-script-nomodule",
-            "https://html.spec.whatwg.org/#module-script",
-            "https://html.spec.whatwg.org/#refsCSP",
-            "https://html.spec.whatwg.org/#attr-script-event",
-            "https://html.spec.whatwg.org/#attr-script-for",
-            "https://html.spec.whatwg.org/#attr-script-charset",
-            "https://html.spec.whatwg.org/#attr-script-crossorigin",
-            "https://html.spec.whatwg.org/#module-script-credentials-mode",
-            "https://html.spec.whatwg.org/#cryptographicnonce",
-            "https://html.spec.whatwg.org/#attr-script-integrity",
-            "https://html.spec.whatwg.org/#attr-script-referrerpolicy",
-            "https://html.spec.whatwg.org/#script-fetch-options",
-            "https://html.spec.whatwg.org/#concept-script-fetch-options-nonce",
-            "https://html.spec.whatwg.org/#concept-script-fetch-options-integrity",
-            "https://html.spec.whatwg.org/#concept-script-fetch-options-parser",
-            "https://html.spec.whatwg.org/#concept-script-fetch-options-credentials",
-            "https://html.spec.whatwg.org/#concept-script-fetch-options-referrer-policy",
-            "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#queue-a-task",
-            "https://html.spec.whatwg.org/#event-error",
-            "https://html.spec.whatwg.org/#concept-script-external",
-            "https://html.spec.whatwg.org/#parse-a-url",
-            "https://html.spec.whatwg.org/#resulting-url-record",
-            "https://html.spec.whatwg.org/#fetch-a-classic-script",
-            "https://html.spec.whatwg.org/#fetch-a-module-script-tree",
-            "https://html.spec.whatwg.org/#concept-script-script",
-            "https://html.spec.whatwg.org/#the-script-is-ready",
-            "https://html.spec.whatwg.org/#insert-an-element-into-a-document",
-            "https://html.spec.whatwg.org/#document-base-url",
-            "https://html.spec.whatwg.org/#creating-a-classic-script",
-            "https://html.spec.whatwg.org/#fetch-an-inline-module-script-graph",
-            "https://html.spec.whatwg.org/#attr-script-defer",
-            "https://html.spec.whatwg.org/#ready-to-be-parser-executed",
-            "https://html.spec.whatwg.org/#pending-parsing-blocking-script",
-            "https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible",
-            "https://html.spec.whatwg.org/#execute-the-script-block",
-            "https://html.spec.whatwg.org/#set-of-scripts-that-will-execute-as-soon-as-possible",
-            "https://html.spec.whatwg.org/#xml-parser",
-            "https://html.spec.whatwg.org/#html-parser",
-            "https://html.spec.whatwg.org/#script-nesting-level",
-            "https://html.spec.whatwg.org/#has-a-style-sheet-that-is-blocking-scripts",
-            "https://html.spec.whatwg.org/#immediately",
+            "https://html.spec.whatwg.org/#script-force-async",
             "https://html.spec.whatwg.org/#htmliframeelement",
             "https://html.spec.whatwg.org/#htmlembedelement",
             "https://html.spec.whatwg.org/#htmlobjectelement",
@@ -57860,7 +57798,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "31 May 2022",
+      "date": "1 June 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57916,7 +57854,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "31 May 2022",
+      "date": "1 June 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -58073,7 +58011,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "31 May 2022",
+      "date": "1 June 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",

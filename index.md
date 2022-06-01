@@ -4250,7 +4250,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4263,15 +4263,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 325)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15015,16 +15025,13 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - Crawled URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
-- Crawled version: 17 November 2021
+- Crawled version: 1 June 2022
 - Editor's Draft: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - Shortname: trusted-types
 
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/)
-     * [`https://xhr.spec.whatwg.org/`](https://xhr.spec.whatwg.org/)
-     * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
      * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
      * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/)
 - Inconsistent references for links: 
@@ -15051,65 +15058,12 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#cereactions`](https://html.spec.whatwg.org/#cereactions)
      * [`https://html.spec.whatwg.org/#dom-innertext`](https://html.spec.whatwg.org/#dom-innertext)
-     * [`https://html.spec.whatwg.org/#prepare-a-script`](https://html.spec.whatwg.org/#prepare-a-script)
-     * [`https://html.spec.whatwg.org/#the-script-element`](https://html.spec.whatwg.org/#the-script-element)
+     * [`https://html.spec.whatwg.org/#prepare-the-script-element`](https://html.spec.whatwg.org/#prepare-the-script-element)
      * [`https://html.spec.whatwg.org/#already-started`](https://html.spec.whatwg.org/#already-started)
-     * [`https://html.spec.whatwg.org/#parser-inserted`](https://html.spec.whatwg.org/#parser-inserted)
+     * [`https://html.spec.whatwg.org/#parser-document`](https://html.spec.whatwg.org/#parser-document)
+     * [`https://html.spec.whatwg.org/#the-script-element`](https://html.spec.whatwg.org/#the-script-element)
      * [`https://html.spec.whatwg.org/#attr-script-async`](https://html.spec.whatwg.org/#attr-script-async)
-     * [`https://html.spec.whatwg.org/#non-blocking`](https://html.spec.whatwg.org/#non-blocking)
-     * [`https://html.spec.whatwg.org/#attr-script-type`](https://html.spec.whatwg.org/#attr-script-type)
-     * [`https://html.spec.whatwg.org/#attr-script-language`](https://html.spec.whatwg.org/#attr-script-language)
-     * [`https://html.spec.whatwg.org/#concept-script-type`](https://html.spec.whatwg.org/#concept-script-type)
-     * [`https://html.spec.whatwg.org/#document`](https://html.spec.whatwg.org/#document)
-     * [`https://html.spec.whatwg.org/#concept-n-noscript`](https://html.spec.whatwg.org/#concept-n-noscript)
-     * [`https://html.spec.whatwg.org/#xsltprocessor`](https://html.spec.whatwg.org/#xsltprocessor)
-     * [`https://html.spec.whatwg.org/#dom-xsltprocessor-transformtodocument`](https://html.spec.whatwg.org/#dom-xsltprocessor-transformtodocument)
-     * [`https://html.spec.whatwg.org/#refsXHR`](https://html.spec.whatwg.org/#refsXHR)
-     * [`https://html.spec.whatwg.org/#refsDOMPARSING`](https://html.spec.whatwg.org/#refsDOMPARSING)
-     * [`https://html.spec.whatwg.org/#refsXSLTP`](https://html.spec.whatwg.org/#refsXSLTP)
-     * [`https://html.spec.whatwg.org/#refsDOM`](https://html.spec.whatwg.org/#refsDOM)
-     * [`https://html.spec.whatwg.org/#attr-script-nomodule`](https://html.spec.whatwg.org/#attr-script-nomodule)
-     * [`https://html.spec.whatwg.org/#module-script`](https://html.spec.whatwg.org/#module-script)
-     * [`https://html.spec.whatwg.org/#refsCSP`](https://html.spec.whatwg.org/#refsCSP)
-     * [`https://html.spec.whatwg.org/#attr-script-event`](https://html.spec.whatwg.org/#attr-script-event)
-     * [`https://html.spec.whatwg.org/#attr-script-for`](https://html.spec.whatwg.org/#attr-script-for)
-     * [`https://html.spec.whatwg.org/#attr-script-charset`](https://html.spec.whatwg.org/#attr-script-charset)
-     * [`https://html.spec.whatwg.org/#attr-script-crossorigin`](https://html.spec.whatwg.org/#attr-script-crossorigin)
-     * [`https://html.spec.whatwg.org/#module-script-credentials-mode`](https://html.spec.whatwg.org/#module-script-credentials-mode)
-     * [`https://html.spec.whatwg.org/#cryptographicnonce`](https://html.spec.whatwg.org/#cryptographicnonce)
-     * [`https://html.spec.whatwg.org/#attr-script-integrity`](https://html.spec.whatwg.org/#attr-script-integrity)
-     * [`https://html.spec.whatwg.org/#attr-script-referrerpolicy`](https://html.spec.whatwg.org/#attr-script-referrerpolicy)
-     * [`https://html.spec.whatwg.org/#script-fetch-options`](https://html.spec.whatwg.org/#script-fetch-options)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-nonce`](https://html.spec.whatwg.org/#concept-script-fetch-options-nonce)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-integrity`](https://html.spec.whatwg.org/#concept-script-fetch-options-integrity)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-parser`](https://html.spec.whatwg.org/#concept-script-fetch-options-parser)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-credentials`](https://html.spec.whatwg.org/#concept-script-fetch-options-credentials)
-     * [`https://html.spec.whatwg.org/#concept-script-fetch-options-referrer-policy`](https://html.spec.whatwg.org/#concept-script-fetch-options-referrer-policy)
-     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
-     * [`https://html.spec.whatwg.org/#event-error`](https://html.spec.whatwg.org/#event-error)
-     * [`https://html.spec.whatwg.org/#concept-script-external`](https://html.spec.whatwg.org/#concept-script-external)
-     * [`https://html.spec.whatwg.org/#parse-a-url`](https://html.spec.whatwg.org/#parse-a-url)
-     * [`https://html.spec.whatwg.org/#resulting-url-record`](https://html.spec.whatwg.org/#resulting-url-record)
-     * [`https://html.spec.whatwg.org/#fetch-a-classic-script`](https://html.spec.whatwg.org/#fetch-a-classic-script)
-     * [`https://html.spec.whatwg.org/#fetch-a-module-script-tree`](https://html.spec.whatwg.org/#fetch-a-module-script-tree)
-     * [`https://html.spec.whatwg.org/#concept-script-script`](https://html.spec.whatwg.org/#concept-script-script)
-     * [`https://html.spec.whatwg.org/#the-script-is-ready`](https://html.spec.whatwg.org/#the-script-is-ready)
-     * [`https://html.spec.whatwg.org/#insert-an-element-into-a-document`](https://html.spec.whatwg.org/#insert-an-element-into-a-document)
-     * [`https://html.spec.whatwg.org/#document-base-url`](https://html.spec.whatwg.org/#document-base-url)
-     * [`https://html.spec.whatwg.org/#creating-a-classic-script`](https://html.spec.whatwg.org/#creating-a-classic-script)
-     * [`https://html.spec.whatwg.org/#fetch-an-inline-module-script-graph`](https://html.spec.whatwg.org/#fetch-an-inline-module-script-graph)
-     * [`https://html.spec.whatwg.org/#attr-script-defer`](https://html.spec.whatwg.org/#attr-script-defer)
-     * [`https://html.spec.whatwg.org/#ready-to-be-parser-executed`](https://html.spec.whatwg.org/#ready-to-be-parser-executed)
-     * [`https://html.spec.whatwg.org/#pending-parsing-blocking-script`](https://html.spec.whatwg.org/#pending-parsing-blocking-script)
-     * [`https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible`](https://html.spec.whatwg.org/#list-of-scripts-that-will-execute-in-order-as-soon-as-possible)
-     * [`https://html.spec.whatwg.org/#execute-the-script-block`](https://html.spec.whatwg.org/#execute-the-script-block)
-     * [`https://html.spec.whatwg.org/#set-of-scripts-that-will-execute-as-soon-as-possible`](https://html.spec.whatwg.org/#set-of-scripts-that-will-execute-as-soon-as-possible)
-     * [`https://html.spec.whatwg.org/#xml-parser`](https://html.spec.whatwg.org/#xml-parser)
-     * [`https://html.spec.whatwg.org/#html-parser`](https://html.spec.whatwg.org/#html-parser)
-     * [`https://html.spec.whatwg.org/#script-nesting-level`](https://html.spec.whatwg.org/#script-nesting-level)
-     * [`https://html.spec.whatwg.org/#has-a-style-sheet-that-is-blocking-scripts`](https://html.spec.whatwg.org/#has-a-style-sheet-that-is-blocking-scripts)
-     * [`https://html.spec.whatwg.org/#immediately`](https://html.spec.whatwg.org/#immediately)
+     * [`https://html.spec.whatwg.org/#script-force-async`](https://html.spec.whatwg.org/#script-force-async)
      * [`https://html.spec.whatwg.org/#htmliframeelement`](https://html.spec.whatwg.org/#htmliframeelement)
      * [`https://html.spec.whatwg.org/#htmlembedelement`](https://html.spec.whatwg.org/#htmlembedelement)
      * [`https://html.spec.whatwg.org/#htmlobjectelement`](https://html.spec.whatwg.org/#htmlobjectelement)
@@ -21802,7 +21756,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 31 May 2022
+- Crawled version: 1 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21827,7 +21781,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 31 May 2022
+- Crawled version: 1 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -21871,7 +21825,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 31 May 2022
+- Crawled version: 1 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -23405,7 +23359,6 @@ Informative references to this spec from:
 - [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [Selectors Level 4](https://drafts.csswg.org/selectors/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
