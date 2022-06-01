@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-01T00:48:54.906Z",
+  "date": "2022-06-01T06:40:48.312Z",
   "stats": {
     "crawled": 467,
     "errors": 1,
@@ -38889,7 +38889,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "31 May 2022",
+      "date": "1 June 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -45447,7 +45447,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "23 March 2022",
+      "date": "01 June 2022",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",
@@ -54516,7 +54516,7 @@
     {
       "title": "Vibration API (Second Edition)",
       "shortname": "vibration",
-      "date": "13 January 2021",
+      "date": "01 June 2022",
       "url": "https://www.w3.org/TR/vibration/",
       "release": {
         "url": "https://www.w3.org/TR/vibration/",
@@ -54567,10 +54567,11 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#top-level-browsing-context",
-            "https://html.spec.whatwg.org/#spin-the-event-loop",
-            "https://html.spec.whatwg.org/#the-navigator-object",
-            "https://html.spec.whatwg.org/#navigator"
+            "https://html.spec.whatwg.org/#navigator",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#global-object",
+            "https://html.spec.whatwg.org/#sticky-activation",
+            "https://html.spec.whatwg.org/#top-level-browsing-context"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],

@@ -8411,10 +8411,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/):
-     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#spin-the-event-loop`](https://html.spec.whatwg.org/#spin-the-event-loop)
-     * [`https://html.spec.whatwg.org/#the-navigator-object`](https://html.spec.whatwg.org/#the-navigator-object)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
+     * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
+     * [`https://html.spec.whatwg.org/#global-object`](https://html.spec.whatwg.org/#global-object)
+     * [`https://html.spec.whatwg.org/#sticky-activation`](https://html.spec.whatwg.org/#sticky-activation)
+     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/):
      * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability`](https://html.spec.whatwg.org/#concept-settings-object-cross-origin-isolated-capability)
@@ -9306,7 +9307,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4879 problematic external links found in 305 specifications
+=> 4880 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
