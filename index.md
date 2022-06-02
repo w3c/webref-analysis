@@ -2975,7 +2975,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 31 May 2022
+- Crawled version: 02 June 2022
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -3311,6 +3311,11 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#attr-meta-http-equiv`](https://html.spec.whatwg.org/#attr-meta-http-equiv)
      * [`https://html.spec.whatwg.org/#the-id-attribute`](https://html.spec.whatwg.org/#the-id-attribute)
      * [`https://html.spec.whatwg.org/#attr-img-ismap`](https://html.spec.whatwg.org/#attr-img-ismap)
+     * [`https://html.spec.whatwg.org/#attr-itemid`](https://html.spec.whatwg.org/#attr-itemid)
+     * [`https://html.spec.whatwg.org/#attr-itemprop`](https://html.spec.whatwg.org/#attr-itemprop)
+     * [`https://html.spec.whatwg.org/#attr-itemref`](https://html.spec.whatwg.org/#attr-itemref)
+     * [`https://html.spec.whatwg.org/#attr-itemscope`](https://html.spec.whatwg.org/#attr-itemscope)
+     * [`https://html.spec.whatwg.org/#attr-itemtype`](https://html.spec.whatwg.org/#attr-itemtype)
      * [`https://html.spec.whatwg.org/#attr-track-kind`](https://html.spec.whatwg.org/#attr-track-kind)
      * [`https://html.spec.whatwg.org/#attr-optgroup-label`](https://html.spec.whatwg.org/#attr-optgroup-label)
      * [`https://html.spec.whatwg.org/#attr-option-label`](https://html.spec.whatwg.org/#attr-option-label)
@@ -11317,7 +11322,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 1 June 2022
+- Crawled version: 2 June 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11399,7 +11404,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 1 June 2022
+- Crawled version: 2 June 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -15914,7 +15919,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
 - Crawled URL: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
-- Crawled version: 01 June 2022
+- Crawled version: 02 June 2022
 - Editor's Draft: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
 - Latest published version: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
 - Shortname: push-api
@@ -15925,7 +15930,6 @@ Informative references to this spec from:
 - Broken external links:
      * [`https://html.spec.whatwg.org/#network`](https://html.spec.whatwg.org/#network)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
-     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
@@ -19284,7 +19288,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 1 June 2022
+- Crawled version: 2 June 2022
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
@@ -23538,6 +23542,7 @@ Normative references to this spec from:
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
+- [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)

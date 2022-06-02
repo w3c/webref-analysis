@@ -6055,6 +6055,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-meta-http-equiv`](https://html.spec.whatwg.org/#attr-meta-http-equiv)
      * [`https://html.spec.whatwg.org/#the-id-attribute`](https://html.spec.whatwg.org/#the-id-attribute)
      * [`https://html.spec.whatwg.org/#attr-img-ismap`](https://html.spec.whatwg.org/#attr-img-ismap)
+     * [`https://html.spec.whatwg.org/#attr-itemid`](https://html.spec.whatwg.org/#attr-itemid)
+     * [`https://html.spec.whatwg.org/#attr-itemprop`](https://html.spec.whatwg.org/#attr-itemprop)
+     * [`https://html.spec.whatwg.org/#attr-itemref`](https://html.spec.whatwg.org/#attr-itemref)
+     * [`https://html.spec.whatwg.org/#attr-itemscope`](https://html.spec.whatwg.org/#attr-itemscope)
+     * [`https://html.spec.whatwg.org/#attr-itemtype`](https://html.spec.whatwg.org/#attr-itemtype)
      * [`https://html.spec.whatwg.org/#attr-track-kind`](https://html.spec.whatwg.org/#attr-track-kind)
      * [`https://html.spec.whatwg.org/#attr-optgroup-label`](https://html.spec.whatwg.org/#attr-optgroup-label)
      * [`https://html.spec.whatwg.org/#attr-option-label`](https://html.spec.whatwg.org/#attr-option-label)
@@ -7567,7 +7572,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Push API](https://w3c.github.io/push-api/):
      * [`https://html.spec.whatwg.org/#network`](https://html.spec.whatwg.org/#network)
      * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
-     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
@@ -9245,7 +9249,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4827 problematic external links found in 305 specifications
+=> 4831 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

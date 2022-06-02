@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-02T00:50:18.449Z",
+  "date": "2022-06-02T06:42:44.554Z",
   "stats": {
     "crawled": 467,
     "errors": 0,
@@ -27335,7 +27335,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "31 May 2022",
+      "date": "02 June 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -27739,6 +27739,11 @@
             "https://html.spec.whatwg.org/#attr-meta-http-equiv",
             "https://html.spec.whatwg.org/#the-id-attribute",
             "https://html.spec.whatwg.org/#attr-img-ismap",
+            "https://html.spec.whatwg.org/#attr-itemid",
+            "https://html.spec.whatwg.org/#attr-itemprop",
+            "https://html.spec.whatwg.org/#attr-itemref",
+            "https://html.spec.whatwg.org/#attr-itemscope",
+            "https://html.spec.whatwg.org/#attr-itemtype",
             "https://html.spec.whatwg.org/#attr-track-kind",
             "https://html.spec.whatwg.org/#attr-optgroup-label",
             "https://html.spec.whatwg.org/#attr-option-label",
@@ -37570,6 +37575,11 @@
               "crawled": "https://w3c.github.io/proximity/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/referrer-policy/",
               "title": "Referrer Policy",
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
@@ -38892,7 +38902,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "1 June 2022",
+      "date": "2 June 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -45450,7 +45460,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "01 June 2022",
+      "date": "02 June 2022",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",
@@ -45513,7 +45523,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#network",
             "https://html.spec.whatwg.org/#secure-context",
-            "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#event-handler-event-type"
@@ -63820,7 +63829,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "1 June 2022",
+      "date": "2 June 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -63952,7 +63961,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "1 June 2022",
+      "date": "2 June 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
