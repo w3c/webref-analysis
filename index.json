@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-02T12:44:32.436Z",
+  "date": "2022-06-02T18:45:24.086Z",
   "stats": {
-    "crawled": 467,
-    "errors": 2,
-    "studied": 467
+    "crawled": 469,
+    "errors": 0,
+    "studied": 469
   },
   "results": [
     {
@@ -1252,12 +1252,12 @@
     },
     {
       "title": "Attribution Reporting",
-      "shortname": "conversion-measurement-api",
-      "date": "31 May 2022",
-      "url": "https://wicg.github.io/conversion-measurement-api/",
+      "shortname": "attribution-reporting-api",
+      "date": "2 June 2022",
+      "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
-        "url": "https://wicg.github.io/conversion-measurement-api/",
-        "repository": "https://github.com/WICG/conversion-measurement-api",
+        "url": "https://wicg.github.io/attribution-reporting-api/",
+        "repository": "https://github.com/WICG/attribution-reporting-api",
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
@@ -1309,14 +1309,15 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://html.spec.whatwg.org/#cereactions",
+            "https://html.spec.whatwg.org/#htmlanchorelement",
+            "https://html.spec.whatwg.org/#htmlimageelement",
+            "https://html.spec.whatwg.org/#htmlscriptelement",
             "https://html.spec.whatwg.org/#concept-element-attributes",
             "https://html.spec.whatwg.org/#the-a-element",
-            "https://html.spec.whatwg.org/#concept-element-dom",
-            "https://html.spec.whatwg.org/#htmlanchorelement",
-            "https://html.spec.whatwg.org/#cereactions",
-            "https://html.spec.whatwg.org/#reflect",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#htmlimageelement",
+            "https://html.spec.whatwg.org/#script",
+            "https://html.spec.whatwg.org/#reflect",
             "https://html.spec.whatwg.org/#same-site",
             "https://html.spec.whatwg.org/#navigation-params",
             "https://html.spec.whatwg.org/#navigate",
@@ -4821,7 +4822,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10808,6 +10808,11 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/WOFF/",
+              "title": "WOFF File Format 1.0",
+              "crawled": "https://w3c.github.io/woff/woff1/spec/Overview.html"
             }
           ]
         },
@@ -20851,7 +20856,7 @@
               "crawled": "https://w3c.github.io/IntersectionObserver/"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -22032,9 +22037,9 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://wicg.github.io/eyedropper-api/",
@@ -22152,7 +22157,7 @@
               "crawled": "https://wicg.github.io/keyboard-map/"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -22704,7 +22709,7 @@
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -22853,7 +22858,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "19 May 2022",
+      "date": "2 June 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -23178,7 +23183,7 @@
               "crawled": "https://wicg.github.io/urlpattern/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -23458,12 +23463,12 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -23503,7 +23508,8 @@
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#concept-document-window",
-            "https://w3c.github.io/resource-timing/#dfn-timing-allow-check"
+            "https://w3c.github.io/resource-timing/#dfn-timing-allow-check",
+            "https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -24097,14 +24103,18 @@
       "title": "Event Timing API",
       "shortname": "event-timing",
       "date": "12 May 2022",
-      "url": "https://w3c.github.io/event-timing/",
+      "url": "https://www.w3.org/TR/event-timing/",
+      "release": {
+        "url": "https://www.w3.org/TR/event-timing/",
+        "filename": "Overview.html"
+      },
       "nightly": {
-        "url": "https://w3c.github.io/event-timing/",
+        "url": "https://w3c.github.io/event-timing",
         "repository": "https://github.com/w3c/event-timing",
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/event-timing/",
+      "crawled": "https://w3c.github.io/event-timing",
       "organization": "W3C",
       "groups": [
         {
@@ -24175,7 +24185,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -24507,7 +24517,7 @@
               "crawled": "https://w3c.github.io/webappsec-change-password-url/"
             },
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -24677,7 +24687,7 @@
               "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -26722,7 +26732,7 @@
               "crawled": "https://w3c.github.io/IntersectionObserver/"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -27121,9 +27131,9 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -27171,7 +27181,7 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -28018,7 +28028,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "1 June 2022",
+      "date": "2 June 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34342,7 +34352,7 @@
               "crawled": "https://w3c.github.io/html-aria/"
             },
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -34747,9 +34757,9 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://wicg.github.io/eyedropper-api/",
@@ -34927,7 +34937,7 @@
               "crawled": "https://wicg.github.io/keyboard-map/"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -35402,7 +35412,7 @@
               "crawled": "https://w3c.github.io/vibration/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -36607,9 +36617,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/wai-aria/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -36656,8 +36664,7 @@
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#attr-link-rel",
-            "https://html.spec.whatwg.org/#the-object-element",
-            "https://www.w3.org/TR/wai-aria/#dfn-accessible-name"
+            "https://html.spec.whatwg.org/#the-object-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -37031,7 +37038,7 @@
               "crawled": "https://w3c.github.io/html-aria/"
             },
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -37286,9 +37293,9 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://fedidcg.github.io/FedCM/",
@@ -37416,7 +37423,7 @@
               "crawled": "https://wicg.github.io/keyboard-lock/"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -37701,7 +37708,7 @@
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -38703,10 +38710,14 @@
       "title": "Largest Contentful Paint",
       "shortname": "largest-contentful-paint",
       "date": "30 May 2022",
-      "url": "https://w3c.github.io/largest-contentful-paint/",
+      "url": "https://www.w3.org/TR/largest-contentful-paint/",
+      "release": {
+        "url": "https://www.w3.org/TR/largest-contentful-paint/",
+        "filename": "Overview.html"
+      },
       "nightly": {
-        "url": "https://w3c.github.io/largest-contentful-paint/",
-        "repository": "https://github.com/w3c/largest-contentful-paint",
+        "url": "https://wicg.github.io/largest-contentful-paint",
+        "repository": "https://github.com/WICG/largest-contentful-paint",
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
@@ -38749,18 +38760,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
-              "title": "Timing Entry Names Registry",
-              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "xrefs": {
@@ -39853,7 +39853,7 @@
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -43070,9 +43070,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -43581,12 +43581,12 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -43863,7 +43863,7 @@
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -44025,7 +44025,7 @@
               "crawled": "https://w3c.github.io/ambient-light/"
             },
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -44185,7 +44185,7 @@
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -44456,9 +44456,9 @@
               "crawled": "https://wicg.github.io/is-input-pending/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -44600,7 +44600,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "30 May 2022",
+      "date": "02 June 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -44864,7 +44864,7 @@
     {
       "title": "Presentation API",
       "shortname": "presentation-api",
-      "date": "22 April 2022",
+      "date": "02 June 2022",
       "url": "https://www.w3.org/TR/presentation-api/",
       "release": {
         "url": "https://www.w3.org/TR/presentation-api/",
@@ -45775,7 +45775,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "31 May 2022",
+      "date": "02 June 2022",
       "url": "https://www.w3.org/TR/mediacapture-region/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-region/",
@@ -50064,7 +50064,7 @@
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             }
@@ -50405,7 +50405,7 @@
               "crawled": "https://w3c.github.io/webappsec-change-password-url/"
             },
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -51650,6 +51650,50 @@
       }
     },
     {
+      "title": "Source Map Revision 3 Proposal",
+      "shortname": "sourcemap",
+      "date": "4 November 2020",
+      "url": "https://sourcemaps.info/spec.html",
+      "nightly": {
+        "url": "https://sourcemaps.info/spec.html",
+        "filename": "spec.html"
+      },
+      "crawled": "https://sourcemaps.info/spec.html",
+      "organization": "sourcemaps.info",
+      "groups": [
+        {
+          "name": "sourcemaps.info",
+          "url": "https://sourcemaps.info/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Storage Standard",
       "shortname": "storage",
       "date": "4 March 2022",
@@ -51713,7 +51757,7 @@
           ],
           "informative": [
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -52977,7 +53021,9 @@
             "https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -53038,9 +53084,9 @@
               "crawled": "https://wicg.github.io/is-input-pending/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -53344,9 +53390,9 @@
               "crawled": "https://wicg.github.io/is-input-pending/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -53809,7 +53855,7 @@
               "crawled": "https://w3c.github.io/webappsec-change-password-url/"
             },
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -54541,7 +54587,11 @@
       "title": "Viewport Capture",
       "shortname": "mediacapture-viewport",
       "date": "05 May 2022",
-      "url": "https://w3c.github.io/mediacapture-viewport/",
+      "url": "https://www.w3.org/TR/mediacapture-viewport/",
+      "release": {
+        "url": "https://www.w3.org/TR/mediacapture-viewport/",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-viewport/",
         "repository": "https://github.com/w3c/mediacapture-viewport",
@@ -54631,7 +54681,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/virtual-keyboard/ triggered HTTP status 503 Error: Loading https://w3c.github.io/virtual-keyboard/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 432)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -55657,7 +55706,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "18 May 2022",
+      "date": "2 June 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -56150,7 +56199,7 @@
               "crawled": "https://w3c.github.io/ambient-light/"
             },
             {
-              "url": "https://wicg.github.io/conversion-measurement-api/",
+              "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
@@ -56405,9 +56454,9 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
-              "url": "https://w3c.github.io/event-timing/",
+              "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing/"
+              "crawled": "https://w3c.github.io/event-timing"
             },
             {
               "url": "https://wicg.github.io/eyedropper-api/",
@@ -56560,7 +56609,7 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
-              "url": "https://w3c.github.io/largest-contentful-paint/",
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
@@ -56895,7 +56944,7 @@
               "crawled": "https://w3c.github.io/vibration/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
@@ -64429,7 +64478,7 @@
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
             },
             {
-              "url": "https://w3c.github.io/mediacapture-viewport/",
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             }
@@ -65941,6 +65990,90 @@
           "datedUrls": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "WOFF File Format 1.0",
+      "shortname": "WOFF",
+      "date": "Table of Contents",
+      "url": "https://www.w3.org/TR/WOFF/",
+      "release": {
+        "url": "https://www.w3.org/TR/WOFF/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/woff/woff1/spec/Overview.html",
+        "sourcePath": "woff1/spec/Overview.html",
+        "repository": "https://github.com/w3c/woff",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://w3c.github.io/woff/woff1/spec/Overview.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Fonts Working Group",
+          "url": "https://www.w3.org/Fonts/WG/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/SVG2/",
+              "title": "Scalable Vector Graphics (SVG) 2",
+              "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://www.w3.org/TR/WOFF2/",
+              "title": "WOFF File Format 2.0",
+              "crawled": "https://w3c.github.io/woff/woff2/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://wicg.github.io/local-font-access/",
+              "title": "Local Font Access API",
+              "crawled": "https://wicg.github.io/local-font-access/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": true
       }
     },
     {
