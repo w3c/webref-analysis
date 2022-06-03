@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-03T00:49:06.533Z",
+  "date": "2022-06-03T06:37:16.769Z",
   "stats": {
     "crawled": 469,
-    "errors": 0,
+    "errors": 1,
     "studied": 469
   },
   "results": [
@@ -4822,6 +4822,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26203,7 +26204,7 @@
     {
       "title": "Gamepad",
       "shortname": "gamepad",
-      "date": "12 May 2022",
+      "date": "03 June 2022",
       "url": "https://www.w3.org/TR/gamepad/",
       "release": {
         "url": "https://www.w3.org/TR/gamepad/",
@@ -26282,7 +26283,7 @@
     {
       "title": "Gamepad Extensions",
       "shortname": "gamepad-extensions",
-      "date": "12 May 2022",
+      "date": "03 June 2022",
       "url": "https://w3c.github.io/gamepad/extensions.html",
       "nightly": {
         "url": "https://w3c.github.io/gamepad/extensions.html",
