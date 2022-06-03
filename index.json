@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-03T06:37:16.769Z",
+  "date": "2022-06-03T12:43:43.099Z",
   "stats": {
     "crawled": 469,
     "errors": 1,
@@ -2755,7 +2755,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "31 May 2022",
+      "date": "03 June 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2799,7 +2799,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#concept-task",
             "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#relevant-settings-object",
@@ -36298,7 +36297,7 @@
     {
       "title": "IceTransport Extensions for WebRTC",
       "shortname": "webrtc-ice",
-      "date": "17 November 2021",
+      "date": "03 June 2022",
       "url": "https://w3c.github.io/webrtc-ice/",
       "nightly": {
         "url": "https://w3c.github.io/webrtc-ice/",
@@ -38907,7 +38906,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "2 June 2022",
+      "date": "3 June 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
