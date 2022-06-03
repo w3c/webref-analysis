@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-03T12:43:43.099Z",
+  "date": "2022-06-03T18:38:11.693Z",
   "stats": {
     "crawled": 469,
-    "errors": 1,
+    "errors": 0,
     "studied": 469
   },
   "results": [
@@ -1253,7 +1253,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "2 June 2022",
+      "date": "3 June 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2293,7 +2293,7 @@
     {
       "title": "Close Watcher API",
       "shortname": "close-watcher",
-      "date": "26 May 2022",
+      "date": "3 June 2022",
       "url": "https://wicg.github.io/close-watcher/",
       "nightly": {
         "url": "https://wicg.github.io/close-watcher/",
@@ -4821,7 +4821,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5027,7 +5026,7 @@
     {
       "title": "CSS Animations Level 1",
       "shortname": "css-animations-1",
-      "date": "15 July 2021",
+      "date": "3 June 2022",
       "url": "https://www.w3.org/TR/css-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-1/",
@@ -26349,7 +26348,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "2 May 2022",
+      "date": "3 June 2022",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -36826,7 +36825,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "17 May 2022",
+      "date": "2 June 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -53037,7 +53036,7 @@
     {
       "title": "Touch Events - Level 2",
       "shortname": "touch-events",
-      "date": "10 May 2022",
+      "date": "03 June 2022",
       "url": "https://www.w3.org/TR/touch-events/",
       "release": {
         "url": "https://www.w3.org/TR/touch-events/",
@@ -53071,7 +53070,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/touch-events-extensions/"
+          "https://www.w3.org/TR/touch-events-extensions/",
+          "https://w3c.github.io/pointerevents/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
