@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-04T00:52:33.315Z",
+  "date": "2022-06-04T06:37:57.680Z",
   "stats": {
     "crawled": 469,
-    "errors": 5,
+    "errors": 0,
     "studied": 469
   },
   "results": [
@@ -4249,11 +4249,6 @@
               "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-align-3/",
-              "title": "CSS Box Alignment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-align/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
@@ -4642,11 +4637,6 @@
               "url": "https://www.w3.org/TR/mediaqueries-4/",
               "title": "Media Queries Level 4",
               "crawled": "https://drafts.csswg.org/mediaqueries-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediaqueries-5/",
-              "title": "Media Queries Level 5",
-              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -5247,7 +5237,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-writing-modes-4/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
@@ -6008,7 +5997,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css3-writing-modes/",
-          "https://www.w3.org/TR/cssom-1/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
@@ -6074,6 +6062,11 @@
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-layout-api-1/",
+              "title": "CSS Layout API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-line-grid-1/",
@@ -6346,10 +6339,8 @@
           "https://www.w3.org/TR/css-grid/",
           "https://www.w3.org/TR/css-position/",
           "https://www.w3.org/TR/css-tables/",
-          "https://www.w3.org/TR/css-logical-1/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
-          "https://www.w3.org/TR/css-grid-1/",
           "https://www.w3.org/TR/css-box-3/"
         ],
         "inconsistentRef": [
@@ -7213,6 +7204,11 @@
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-cascade-6/",
+              "title": "CSS Cascading and Inheritance Level 6",
+              "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-contain-3/"
@@ -7221,6 +7217,11 @@
               "url": "https://www.w3.org/TR/css-nesting-1/",
               "title": "CSS Nesting Module",
               "crawled": "https://drafts.csswg.org/css-nesting/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -7770,7 +7771,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/selectors/",
-          "https://www.w3.org/TR/css-cascade-4/",
           "https://www.w3.org/TR/css-cascade-3/"
         ],
         "inconsistentRef": [],
@@ -8649,8 +8649,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css3-conditional/",
-          "https://www.w3.org/TR/mediaqueries-4/"
+          "https://www.w3.org/TR/css3-conditional/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -10614,6 +10613,11 @@
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Device Adaptation Module Level 1",
               "crawled": "https://drafts.csswg.org/css-device-adapt/"
@@ -10755,11 +10759,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
             {
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
@@ -12607,8 +12606,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-values-3/",
-          "https://www.w3.org/TR/css-align-3/"
+          "https://www.w3.org/TR/css-values-3/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -12968,6 +12966,11 @@
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-4/",
+              "title": "CSS Box Model Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-box-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-sizing-3/",
@@ -13996,6 +13999,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-align-3/",
+              "title": "CSS Box Alignment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-align/"
+            },
             {
               "url": "https://www.w3.org/TR/css-easing-1/",
               "title": "CSS Easing Functions Level 2",
@@ -15261,9 +15269,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css-cascade-4/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -15281,6 +15287,11 @@
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -16050,6 +16061,11 @@
               "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view/"
@@ -16075,11 +16091,6 @@
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
             }
           ]
         },
@@ -18970,9 +18981,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css-properties-values-api-1/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -20488,6 +20497,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
@@ -40307,7 +40321,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 372)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40349,6 +40362,11 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
@@ -40463,7 +40481,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 373)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -46390,7 +46407,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/resize-observer/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/resize-observer/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 406)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -50905,7 +50921,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/selectors/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/selectors/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 415)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -55074,7 +55089,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 438)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
