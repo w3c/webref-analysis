@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-04T12:40:53.164Z",
+  "date": "2022-06-04T18:35:36.261Z",
   "stats": {
     "crawled": 469,
     "errors": 1,
@@ -45822,7 +45822,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "02 June 2022",
+      "date": "04 June 2022",
       "url": "https://www.w3.org/TR/mediacapture-region/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-region/",
