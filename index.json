@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-07T00:49:36.314Z",
+  "date": "2022-06-07T06:39:22.108Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -8188,11 +8188,6 @@
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webgpu/",
-              "title": "WebGPU",
-              "crawled": "https://gpuweb.github.io/gpuweb/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -23770,6 +23765,11 @@
               "url": "https://streams.spec.whatwg.org/",
               "title": "Streams Standard",
               "crawled": "https://streams.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             }
           ]
         },
@@ -39781,7 +39781,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "30 May 2022",
+      "date": "07 June 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -40343,6 +40343,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/css3-mediaqueries/",
           "https://www.w3.org/TR/security-privacy-questionnaire/"
         ],
         "inconsistentRef": [],
@@ -57717,7 +57718,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "30 May 2022",
+      "date": "07 June 2022",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
@@ -57781,8 +57782,6 @@
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#queue-a-global-task",
             "https://html.spec.whatwg.org/#user-interaction-task-source",
-            "https://html.spec.whatwg.org/#dom-base-href",
-            "https://html.spec.whatwg.org/#the-a-element",
             "https://html.spec.whatwg.org/#secure-context"
           ],
           "evolvingLinks": [],
@@ -63937,7 +63936,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 June 2022",
+      "date": "7 June 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64049,6 +64048,7 @@
             "https://html.spec.whatwg.org/#dom-context-2d-drawimage",
             "https://html.spec.whatwg.org/#dom-canvas-todataurl",
             "https://html.spec.whatwg.org/#dom-canvas-toblob",
+            "https://html.spec.whatwg.org/#dom-predefinedcolorspace-srgb",
             "https://html.spec.whatwg.org/#dom-canvas-width",
             "https://html.spec.whatwg.org/#dom-offscreencanvas-width",
             "https://html.spec.whatwg.org/#dom-canvas-height",
@@ -64069,7 +64069,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 June 2022",
+      "date": "7 June 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -64285,7 +64285,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "30 May 2022",
+      "date": "07 June 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
