@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-08T12:45:52.861Z",
+  "date": "2022-06-08T18:38:27.714Z",
   "stats": {
     "crawled": 469,
-    "errors": 0,
+    "errors": 1,
     "studied": 469
   },
   "results": [
@@ -4785,6 +4785,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24515,7 +24516,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "1 June 2022",
+      "date": "8 June 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -27245,6 +27246,11 @@
               "crawled": "https://w3c.github.io/mediacapture-record/"
             },
             {
+              "url": "https://w3c.github.io/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
@@ -28062,7 +28068,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "7 June 2022",
+      "date": "8 June 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36913,7 +36919,7 @@
     {
       "title": "Indexed Database API 3.0",
       "shortname": "IndexedDB-3",
-      "date": "6 October 2021",
+      "date": "8 June 2022",
       "url": "https://www.w3.org/TR/IndexedDB-3/",
       "release": {
         "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -36941,18 +36947,7 @@
         "unknownExposedNames": [],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
-        "missingWebIdlRef": [
-          {
-            "name": "DOMException",
-            "refs": [
-              {
-                "url": "https://webidl.spec.whatwg.org/",
-                "title": "Web IDL Standard",
-                "crawled": "https://webidl.spec.whatwg.org/"
-              }
-            ]
-          }
-        ],
+        "missingWebIdlRef": [],
         "missingDfns": {
           "css": [],
           "idl": []
@@ -36988,12 +36983,12 @@
         },
         "xrefs": {
           "notExported": [
+            "https://storage.spec.whatwg.org/#storage-key",
             "https://storage.spec.whatwg.org/#storage-bucket"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#domstringlist",
-            "https://html.spec.whatwg.org/#concept-origin",
             "https://html.spec.whatwg.org/#document",
             "https://html.spec.whatwg.org/#dom-document-domain",
             "https://html.spec.whatwg.org/#serializable-objects",
@@ -37008,11 +37003,9 @@
             "https://html.spec.whatwg.org/#event-handler-event-type",
             "https://html.spec.whatwg.org/#windoworworkerglobalscope",
             "https://html.spec.whatwg.org/#relevant-settings-object",
-            "https://html.spec.whatwg.org/#concept-settings-object-origin",
-            "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#in-parallel",
-            "https://html.spec.whatwg.org/#event-close",
-            "https://html.spec.whatwg.org/#structureddeserialize"
+            "https://html.spec.whatwg.org/#structureddeserialize",
+            "https://html.spec.whatwg.org/#concept-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -41972,7 +41965,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "7 June 2022",
+      "date": "8 June 2022",
       "url": "https://w3c.github.io/window-placement/",
       "nightly": {
         "url": "https://w3c.github.io/window-placement/",
@@ -42008,6 +42001,13 @@
             "ref": {
               "name": "PERMISSIONS",
               "url": "https://www.w3.org/TR/permissions/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/hr-time/",
+            "ref": {
+              "name": "HR-TIME-2",
+              "url": "https://www.w3.org/TR/hr-time-2/"
             }
           },
           {
@@ -42047,6 +42047,9 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#last-activation-timestamp",
+            "https://html.spec.whatwg.org/#user-activation-gated-apis",
+            "https://html.spec.whatwg.org/#consume-user-activation",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#active-document"
           ],
@@ -44439,7 +44442,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "01 June 2022",
+      "date": "08 June 2022",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -47377,11 +47380,6 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -47542,11 +47540,6 @@
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
-            },
-            {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/IFT/",
@@ -47741,11 +47734,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
-            },
-            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -47857,13 +47845,7 @@
               "crawled": "https://httpwg.org/specs/rfc7540.html"
             }
           ],
-          "informative": [
-            {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
-            }
-          ]
+          "informative": []
         },
         "ok": true
       }
@@ -47907,11 +47889,6 @@
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
-            },
-            {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -48044,11 +48021,6 @@
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
-            },
-            {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/presentation-api/",
@@ -56615,6 +56587,11 @@
               "crawled": "https://wicg.github.io/import-maps/"
             },
             {
+              "url": "https://www.w3.org/TR/IndexedDB-3/",
+              "title": "Indexed Database API 3.0",
+              "crawled": "https://w3c.github.io/IndexedDB/"
+            },
+            {
               "url": "https://infra.spec.whatwg.org/",
               "title": "Infra Standard",
               "crawled": "https://infra.spec.whatwg.org/"
@@ -57896,7 +57873,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "7 June 2022",
+      "date": "8 June 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57952,7 +57929,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "7 June 2022",
+      "date": "8 June 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -58109,7 +58086,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "7 June 2022",
+      "date": "8 June 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",

@@ -760,7 +760,6 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
@@ -808,7 +807,6 @@ Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
@@ -862,7 +860,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
 - [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
@@ -900,9 +897,7 @@ Normative references to this spec from:
 - [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 
-Informative references to this spec from:
-
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
+No informative reference to this spec from other specs.
 
 
 ### RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching {data-spec=true data-missingDfns=true data-ok=true}
@@ -924,7 +919,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
@@ -966,7 +960,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
 - [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
@@ -4245,7 +4238,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4258,24 +4251,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- External links to private terms:
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- Broken external links:
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-- External links that use a dated URL:
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 323)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12612,7 +12596,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 01 June 2022
+- Crawled version: 08 June 2022
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -13568,7 +13552,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Crawled URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
-- Crawled version: 7 June 2022
+- Crawled version: 8 June 2022
 - Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Shortname: window-placement
 
@@ -13576,6 +13560,7 @@ No informative reference to this spec from other specs.
 
 - Inconsistent references for links: 
      * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
      * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
      * [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
 - External links to private terms:
@@ -13593,6 +13578,9 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#concept-relevant-global`](https://html.spec.whatwg.org/#concept-relevant-global)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#transient-activation`](https://html.spec.whatwg.org/#transient-activation)
+     * [`https://html.spec.whatwg.org/#last-activation-timestamp`](https://html.spec.whatwg.org/#last-activation-timestamp)
+     * [`https://html.spec.whatwg.org/#user-activation-gated-apis`](https://html.spec.whatwg.org/#user-activation-gated-apis)
+     * [`https://html.spec.whatwg.org/#consume-user-activation`](https://html.spec.whatwg.org/#consume-user-activation)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
 
@@ -15686,31 +15674,29 @@ Informative references to this spec from:
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 
 
-### Indexed Database API 3.0 {data-spec=true data-anomaly=true data-missingWebIdlRef=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
+### Indexed Database API 3.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/IndexedDB-3/](https://www.w3.org/TR/IndexedDB-3/)
 - Crawled URL: [https://w3c.github.io/IndexedDB/](https://w3c.github.io/IndexedDB/)
-- Crawled version: 6 October 2021
+- Crawled version: 8 June 2022
 - Editor's Draft: [https://w3c.github.io/IndexedDB/](https://w3c.github.io/IndexedDB/)
 - Latest published version: [https://www.w3.org/TR/IndexedDB-3/](https://www.w3.org/TR/IndexedDB-3/)
 - Shortname: IndexedDB-3
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for WebIDL names: 
-     * `DOMException` defined in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - Missing references for links: 
      * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/)
      * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - External links to private terms:
+     * [`https://storage.spec.whatwg.org/#storage-key`](https://storage.spec.whatwg.org/#storage-key)
      * [`https://storage.spec.whatwg.org/#storage-bucket`](https://storage.spec.whatwg.org/#storage-bucket)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#domstringlist`](https://html.spec.whatwg.org/#domstringlist)
-     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#document`](https://html.spec.whatwg.org/#document)
      * [`https://html.spec.whatwg.org/#dom-document-domain`](https://html.spec.whatwg.org/#dom-document-domain)
      * [`https://html.spec.whatwg.org/#serializable-objects`](https://html.spec.whatwg.org/#serializable-objects)
@@ -15725,11 +15711,9 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
      * [`https://html.spec.whatwg.org/#windoworworkerglobalscope`](https://html.spec.whatwg.org/#windoworworkerglobalscope)
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
-     * [`https://html.spec.whatwg.org/#concept-origin-opaque`](https://html.spec.whatwg.org/#concept-origin-opaque)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://html.spec.whatwg.org/#event-close`](https://html.spec.whatwg.org/#event-close)
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
+     * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
 - External links to outdated specs:
      * [`https://www.w3.org/TR/webstorage/`](https://www.w3.org/TR/webstorage/)
 - External links that use a dated URL:
@@ -17138,6 +17122,7 @@ Normative references to this spec from:
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
 - [Navigation API](https://wicg.github.io/navigation-api/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
@@ -21774,7 +21759,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 7 June 2022
+- Crawled version: 8 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21799,7 +21784,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 7 June 2022
+- Crawled version: 8 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -21843,7 +21828,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 7 June 2022
+- Crawled version: 8 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -22293,7 +22278,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 1 June 2022
+- Crawled version: 8 June 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -22538,7 +22523,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 7 June 2022
+- Crawled version: 8 June 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -24231,6 +24216,7 @@ Normative references to this spec from:
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Import Maps](https://wicg.github.io/import-maps/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -24351,7 +24337,6 @@ Although they do not, the following specs should also normatively reference this
 
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File API](https://w3c.github.io/FileAPI/)
-- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 
 Informative references to this spec from:
