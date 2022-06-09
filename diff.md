@@ -2,21 +2,12 @@
 % Strudy
 % June 09, 2022
 
-## DeviceOrientation Event Specification
+## DOM Standard
 
-- Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
+- Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css-transforms-2/, https://www.w3.org/TR/motion-sensors/
-
-
-## Identifiers for WebRTC's Statistics API
-
-- Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Spec is OK: *INS* true / *DEL* false
-- Missing references for links: *DEL* https://w3c.github.io/webrtc-extensions/
+- Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
+- Inconsistent references for links: *INS* https://www.w3.org/TR/selectors-4/
 
 
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-09T12:44:26.652Z",
+  "date": "2022-06-09T18:37:35.906Z",
   "stats": {
     "crawled": 469,
     "errors": 1,
@@ -4654,6 +4654,11 @@
               "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
+              "url": "https://wicg.github.io/page-lifecycle/",
+              "title": "Page Lifecycle",
+              "crawled": "https://wicg.github.io/page-lifecycle/"
+            },
+            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -4847,6 +4852,11 @@
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
+            },
+            {
+              "url": "https://wicg.github.io/page-lifecycle/",
+              "title": "Page Lifecycle",
+              "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
               "url": "https://quirks.spec.whatwg.org/",
@@ -21731,7 +21741,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "12 May 2022",
+      "date": "9 June 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -21771,6 +21781,13 @@
             "ref": {
               "name": "UIEVENTS",
               "url": "https://w3c.github.io/uievents/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/selectors-4/",
+            "ref": {
+              "name": "SELECTORS4",
+              "url": "https://drafts.csswg.org/selectors/"
             }
           }
         ],
@@ -22756,7 +22773,6 @@
             "https://w3c.github.io/touch-events/#idl-def-touchevent"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/selectors-4/#scope-element",
             "https://html.spec.whatwg.org/#dom-click",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#concept-relevant-global",
@@ -22817,6 +22833,7 @@
             "https://html.spec.whatwg.org/#htmlunknownelement",
             "https://html.spec.whatwg.org/#valid-custom-element-name",
             "https://html.spec.whatwg.org/#concept-custom-element-definition-disable-shadow",
+            "https://www.w3.org/TR/selectors-4/#scope-element",
             "https://w3c.github.io/DOM-Parsing/#dfn-createcontextualfragment-fragment"
           ],
           "evolvingLinks": [],
@@ -42966,7 +42983,7 @@
     {
       "title": "Page Lifecycle",
       "shortname": "page-lifecycle",
-      "date": "9 September 2019",
+      "date": "9 June 2022",
       "url": "https://wicg.github.io/page-lifecycle/",
       "nightly": {
         "url": "https://wicg.github.io/page-lifecycle/",
@@ -43008,7 +43025,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://dom.spec.whatwg.org/#context-object",
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
@@ -44173,6 +44189,11 @@
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
+            },
+            {
+              "url": "https://wicg.github.io/page-lifecycle/",
+              "title": "Page Lifecycle",
+              "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
               "url": "https://www.w3.org/TR/payment-request/",
@@ -45811,7 +45832,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "06 June 2022",
+      "date": "09 June 2022",
       "url": "https://www.w3.org/TR/mediacapture-region/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-region/",
@@ -54732,7 +54753,7 @@
     {
       "title": "Visual Viewport API",
       "shortname": "visual-viewport",
-      "date": "26 May 2022",
+      "date": "09 June 2022",
       "url": "https://wicg.github.io/visual-viewport/",
       "nightly": {
         "url": "https://wicg.github.io/visual-viewport/",
@@ -55702,7 +55723,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "2 June 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -56723,6 +56744,11 @@
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/page-lifecycle/",
+              "title": "Page Lifecycle",
+              "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
               "url": "https://www.w3.org/TR/payment-handler/",
@@ -63884,7 +63910,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "8 June 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64017,7 +64043,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "8 June 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -64513,7 +64539,12 @@
             "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype"
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
