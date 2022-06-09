@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-09T06:37:25.618Z",
+  "date": "2022-06-09T12:44:26.652Z",
   "stats": {
     "crawled": 469,
     "errors": 1,
@@ -18629,6 +18629,11 @@
               "url": "https://www.w3.org/TR/css-transforms-1/",
               "title": "CSS Transforms Module Level 1",
               "crawled": "https://drafts.csswg.org/css-transforms/"
+            },
+            {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "DeviceOrientation Event Specification",
+              "crawled": "https://w3c.github.io/deviceorientation/"
             }
           ]
         },
@@ -21372,7 +21377,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "13 July 2021",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -21418,8 +21423,6 @@
         },
         "missingLinkRef": [
           "https://compat.spec.whatwg.org/",
-          "https://www.w3.org/TR/css-transforms-2/",
-          "https://www.w3.org/TR/motion-sensors/",
           "https://www.w3.org/TR/page-visibility-2/"
         ],
         "inconsistentRef": [],
@@ -24140,7 +24143,7 @@
     {
       "title": "Event Timing API",
       "shortname": "event-timing",
-      "date": "12 May 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/event-timing/",
       "release": {
         "url": "https://www.w3.org/TR/event-timing/",
@@ -36395,7 +36398,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "17 May 2022",
+      "date": "09 June 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -36428,9 +36431,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/webrtc-extensions/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -36448,21 +36449,13 @@
             }
           ]
         },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
+        "ok": true
       }
     },
     {
       "title": "Identity for WebRTC 1.0",
       "shortname": "webrtc-identity",
-      "date": "03 February 2022",
+      "date": "09 June 2022",
       "url": "https://www.w3.org/TR/webrtc-identity/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-identity/",
@@ -44344,7 +44337,7 @@
     {
       "title": "Picture-in-Picture",
       "shortname": "picture-in-picture",
-      "date": "28 April 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/picture-in-picture/",
       "release": {
         "url": "https://www.w3.org/TR/picture-in-picture/",
@@ -55929,7 +55922,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "13 April 2022",
+      "date": "9 June 2022",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",
@@ -56415,6 +56408,11 @@
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "DeviceOrientation Event Specification",
+              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://wicg.github.io/digital-goods/",
@@ -57873,7 +57871,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "8 June 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -57929,7 +57927,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "8 June 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -58086,7 +58084,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "8 June 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -64514,7 +64512,8 @@
             "https://html.spec.whatwg.org/#serializable",
             "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
             "https://html.spec.whatwg.org/#messageevent",
-            "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin"
+            "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [

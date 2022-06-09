@@ -9088,6 +9088,7 @@ Informative references to this spec from:
 
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 
 
 ### CSS Transitions {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -10664,7 +10665,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 13 July 2021
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -10675,8 +10676,6 @@ Informative references to this spec from:
     * `PermissionState` also defined in [Permissions](https://w3c.github.io/permissions/)
 - Missing references for links: 
      * [`https://compat.spec.whatwg.org/`](https://compat.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css-transforms-2/`](https://www.w3.org/TR/css-transforms-2/)
-     * [`https://www.w3.org/TR/motion-sensors/`](https://www.w3.org/TR/motion-sensors/)
      * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 - External links to private terms:
      * [`https://compat.spec.whatwg.org/#event-orientationchange`](https://compat.spec.whatwg.org/#event-orientationchange)
@@ -12337,7 +12336,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
 - Crawled URL: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
-- Crawled version: 28 April 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
 - Latest published version: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
 - Shortname: picture-in-picture
@@ -16345,7 +16344,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 13 April 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -17020,7 +17019,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
 - Crawled URL: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
-- Crawled version: 12 May 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
 - Latest published version: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
 - Shortname: event-timing
@@ -20985,21 +20984,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Identifiers for WebRTC's Statistics API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Identifiers for WebRTC's Statistics API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Crawled version: 17 May 2022
+- Crawled version: 09 June 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21018,7 +21016,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webrtc-identity/](https://www.w3.org/TR/webrtc-identity/)
 - Crawled URL: [https://w3c.github.io/webrtc-identity/](https://w3c.github.io/webrtc-identity/)
-- Crawled version: 03 February 2022
+- Crawled version: 09 June 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-identity/](https://w3c.github.io/webrtc-identity/)
 - Latest published version: [https://www.w3.org/TR/webrtc-identity/](https://www.w3.org/TR/webrtc-identity/)
 - Shortname: webrtc-identity
@@ -21627,6 +21625,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-messageport-postmessage-options`](https://html.spec.whatwg.org/#dom-messageport-postmessage-options)
      * [`https://html.spec.whatwg.org/#messageevent`](https://html.spec.whatwg.org/#messageevent)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
+     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype)
 - External links to outdated specs:
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 
@@ -21759,7 +21758,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 8 June 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21784,7 +21783,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 8 June 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -21828,7 +21827,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 8 June 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -24182,6 +24181,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)

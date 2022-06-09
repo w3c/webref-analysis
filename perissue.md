@@ -1291,8 +1291,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/) links to:
     * [`https://compat.spec.whatwg.org/`](https://compat.spec.whatwg.org/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-transforms-2/`](https://www.w3.org/TR/css-transforms-2/) but does not list it in its references
-    * [`https://www.w3.org/TR/motion-sensors/`](https://www.w3.org/TR/motion-sensors/) but does not list it in its references
     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
 - [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html) but does not list it in its references
 - [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
@@ -1340,7 +1338,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) links to:
     * [`https://spec.whatwg.org/`](https://spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
-- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/) links to [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
 - [import assertions](https://tc39.es/proposal-import-assertions/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html) links to [`https://w3c.github.io/IFT/`](https://w3c.github.io/IFT/) but does not list it in its references
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to:
@@ -1573,7 +1570,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 708 missing references for links found in 194 specifications
+=> 705 missing references for links found in 193 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -9052,6 +9049,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-messageport-postmessage-options`](https://html.spec.whatwg.org/#dom-messageport-postmessage-options)
      * [`https://html.spec.whatwg.org/#messageevent`](https://html.spec.whatwg.org/#messageevent)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
+     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/):
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
@@ -9241,7 +9239,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4838 problematic external links found in 305 specifications
+=> 4839 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
