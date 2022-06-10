@@ -2491,7 +2491,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.fxtf.org/geometry/#matrix-m41-element`](https://drafts.fxtf.org/geometry/#matrix-m41-element)
      * [`https://drafts.fxtf.org/geometry/#matrix-m42-element`](https://drafts.fxtf.org/geometry/#matrix-m42-element)
      * [`https://drafts.fxtf.org/geometry/#create-a-dommatrix-from-the-dictionary`](https://drafts.fxtf.org/geometry/#create-a-dommatrix-from-the-dictionary)
-     * [`https://w3c.github.io/IntersectionObserver/#run-the-update-intersection-observations-steps`](https://w3c.github.io/IntersectionObserver/#run-the-update-intersection-observations-steps)
      * [`https://w3c.github.io/webvtt/#webvtt-file`](https://w3c.github.io/webvtt/#webvtt-file)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-only-nested-cues`](https://w3c.github.io/webvtt/#webvtt-file-using-only-nested-cues)
      * [`https://w3c.github.io/webvtt/#webvtt-parser`](https://w3c.github.io/webvtt/#webvtt-parser)
@@ -2881,6 +2880,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webdriver/#dfn-session-not-created`](https://w3c.github.io/webdriver/#dfn-session-not-created)
      * [`https://w3c.github.io/webdriver/#dfn-no-such-frame`](https://w3c.github.io/webdriver/#dfn-no-such-frame)
      * [`https://w3c.github.io/webdriver/#dfn-unknown-error`](https://w3c.github.io/webdriver/#dfn-unknown-error)
+     * [`https://w3c.github.io/webdriver/#dfn-unsupported-operation`](https://w3c.github.io/webdriver/#dfn-unsupported-operation)
+     * [`https://w3c.github.io/webdriver/#dfn-draw-a-bounding-box-from-the-framebuffer`](https://w3c.github.io/webdriver/#dfn-draw-a-bounding-box-from-the-framebuffer)
+     * [`https://w3c.github.io/webdriver/#dfn-encoding-a-canvas-as-base64`](https://w3c.github.io/webdriver/#dfn-encoding-a-canvas-as-base64)
+     * [`https://drafts.fxtf.org/geometry/#rectangle`](https://drafts.fxtf.org/geometry/#rectangle)
 - [WebGPU](https://gpuweb.github.io/gpuweb/):
      * [`https://gpuweb.github.io/gpuweb/wgsl/#attribute-binding`](https://gpuweb.github.io/gpuweb/wgsl/#attribute-binding)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#attribute-group`](https://gpuweb.github.io/gpuweb/wgsl/#attribute-group)
@@ -3050,7 +3053,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 832 problematic external links found in 209 specifications
+=> 835 problematic external links found in 209 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -6364,7 +6367,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dfn-callback-this-value`](https://html.spec.whatwg.org/#dfn-callback-this-value)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
-     * [`https://html.spec.whatwg.org/#run-the-animation-frame-callbacks`](https://html.spec.whatwg.org/#run-the-animation-frame-callbacks)
      * [`https://html.spec.whatwg.org/#event-loop-processing-model`](https://html.spec.whatwg.org/#event-loop-processing-model)
      * [`https://html.spec.whatwg.org/#lazy-loading-attributes`](https://html.spec.whatwg.org/#lazy-loading-attributes)
      * [`https://html.spec.whatwg.org/#find-in-page`](https://html.spec.whatwg.org/#find-in-page)
@@ -8915,6 +8917,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#source-browsing-context`](https://html.spec.whatwg.org/#source-browsing-context)
      * [`https://html.spec.whatwg.org/#history-handling-behavior`](https://html.spec.whatwg.org/#history-handling-behavior)
+     * [`https://html.spec.whatwg.org/#run-the-animation-frame-callbacks`](https://html.spec.whatwg.org/#run-the-animation-frame-callbacks)
      * [`https://html.spec.whatwg.org/#close-a-browsing-context`](https://html.spec.whatwg.org/#close-a-browsing-context)
      * [`https://html.spec.whatwg.org/#window-open-steps`](https://html.spec.whatwg.org/#window-open-steps)
      * [`https://html.spec.whatwg.org/#focusing-steps`](https://html.spec.whatwg.org/#focusing-steps)

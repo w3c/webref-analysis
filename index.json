@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-10T12:45:35.921Z",
+  "date": "2022-06-10T18:42:51.670Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -1968,7 +1968,7 @@
     {
       "title": "Change Array by copy",
       "shortname": "tc39-change-array-by-copy",
-      "date": "7 June 2022",
+      "date": "10 June 2022",
       "url": "https://tc39.es/proposal-change-array-by-copy/",
       "nightly": {
         "url": "https://tc39.es/proposal-change-array-by-copy/",
@@ -8286,7 +8286,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "31 May 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8816,6 +8816,11 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view/"
+            },
+            {
+              "url": "https://www.w3.org/TR/intersection-observer/",
+              "title": "Intersection Observer",
+              "crawled": "https://w3c.github.io/IntersectionObserver/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -17670,7 +17675,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "4 May 2022",
+      "date": "19 May 2022",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -19644,7 +19649,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "6 May 2022",
+      "date": "9 June 2022",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -22980,7 +22985,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "26 May 2022",
+      "date": "10 June 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -28092,7 +28097,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "9 June 2022",
+      "date": "10 June 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -35947,7 +35952,6 @@
             "https://drafts.fxtf.org/geometry/#matrix-m41-element",
             "https://drafts.fxtf.org/geometry/#matrix-m42-element",
             "https://drafts.fxtf.org/geometry/#create-a-dommatrix-from-the-dictionary",
-            "https://w3c.github.io/IntersectionObserver/#run-the-update-intersection-observations-steps",
             "https://w3c.github.io/webvtt/#webvtt-file",
             "https://w3c.github.io/webvtt/#webvtt-file-using-only-nested-cues",
             "https://w3c.github.io/webvtt/#webvtt-parser",
@@ -38209,7 +38213,7 @@
     {
       "title": "Intersection Observer",
       "shortname": "intersection-observer",
-      "date": "1 April 2022",
+      "date": "10 June 2022",
       "url": "https://www.w3.org/TR/intersection-observer/",
       "release": {
         "url": "https://www.w3.org/TR/intersection-observer/",
@@ -38302,7 +38306,6 @@
             "https://html.spec.whatwg.org/#dfn-callback-this-value",
             "https://html.spec.whatwg.org/#report-the-exception",
             "https://html.spec.whatwg.org/#browsing-context-container",
-            "https://html.spec.whatwg.org/#run-the-animation-frame-callbacks",
             "https://html.spec.whatwg.org/#event-loop-processing-model",
             "https://html.spec.whatwg.org/#lazy-loading-attributes",
             "https://html.spec.whatwg.org/#find-in-page",
@@ -39515,7 +39518,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "19 May 2022",
+      "date": "10 June 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -39781,7 +39784,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "07 June 2022",
+      "date": "10 June 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -58648,7 +58651,11 @@
             "https://w3c.github.io/webdriver/#dfn-readiness-state",
             "https://w3c.github.io/webdriver/#dfn-session-not-created",
             "https://w3c.github.io/webdriver/#dfn-no-such-frame",
-            "https://w3c.github.io/webdriver/#dfn-unknown-error"
+            "https://w3c.github.io/webdriver/#dfn-unknown-error",
+            "https://w3c.github.io/webdriver/#dfn-unsupported-operation",
+            "https://w3c.github.io/webdriver/#dfn-draw-a-bounding-box-from-the-framebuffer",
+            "https://w3c.github.io/webdriver/#dfn-encoding-a-canvas-as-base64",
+            "https://drafts.fxtf.org/geometry/#rectangle"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -58672,6 +58679,7 @@
             "https://html.spec.whatwg.org/#navigate",
             "https://html.spec.whatwg.org/#source-browsing-context",
             "https://html.spec.whatwg.org/#history-handling-behavior",
+            "https://html.spec.whatwg.org/#run-the-animation-frame-callbacks",
             "https://html.spec.whatwg.org/#close-a-browsing-context",
             "https://html.spec.whatwg.org/#window-open-steps",
             "https://html.spec.whatwg.org/#focusing-steps",

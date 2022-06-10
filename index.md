@@ -138,7 +138,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
 - Crawled URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
-- Crawled version: 7 June 2022
+- Crawled version: 10 June 2022
 - Editor's Draft: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
 - Shortname: tc39-change-array-by-copy
 
@@ -207,7 +207,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 26 May 2022
+- Crawled version: 10 June 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -3916,6 +3916,10 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/webdriver/#dfn-session-not-created`](https://w3c.github.io/webdriver/#dfn-session-not-created)
      * [`https://w3c.github.io/webdriver/#dfn-no-such-frame`](https://w3c.github.io/webdriver/#dfn-no-such-frame)
      * [`https://w3c.github.io/webdriver/#dfn-unknown-error`](https://w3c.github.io/webdriver/#dfn-unknown-error)
+     * [`https://w3c.github.io/webdriver/#dfn-unsupported-operation`](https://w3c.github.io/webdriver/#dfn-unsupported-operation)
+     * [`https://w3c.github.io/webdriver/#dfn-draw-a-bounding-box-from-the-framebuffer`](https://w3c.github.io/webdriver/#dfn-draw-a-bounding-box-from-the-framebuffer)
+     * [`https://w3c.github.io/webdriver/#dfn-encoding-a-canvas-as-base64`](https://w3c.github.io/webdriver/#dfn-encoding-a-canvas-as-base64)
+     * [`https://drafts.fxtf.org/geometry/#rectangle`](https://drafts.fxtf.org/geometry/#rectangle)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -3937,6 +3941,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#navigate`](https://html.spec.whatwg.org/#navigate)
      * [`https://html.spec.whatwg.org/#source-browsing-context`](https://html.spec.whatwg.org/#source-browsing-context)
      * [`https://html.spec.whatwg.org/#history-handling-behavior`](https://html.spec.whatwg.org/#history-handling-behavior)
+     * [`https://html.spec.whatwg.org/#run-the-animation-frame-callbacks`](https://html.spec.whatwg.org/#run-the-animation-frame-callbacks)
      * [`https://html.spec.whatwg.org/#close-a-browsing-context`](https://html.spec.whatwg.org/#close-a-browsing-context)
      * [`https://html.spec.whatwg.org/#window-open-steps`](https://html.spec.whatwg.org/#window-open-steps)
      * [`https://html.spec.whatwg.org/#focusing-steps`](https://html.spec.whatwg.org/#focusing-steps)
@@ -5471,7 +5476,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 31 May 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -5660,6 +5665,7 @@ Normative references to this spec from:
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 Informative references to this spec from:
@@ -8797,7 +8803,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
-- Crawled version: 4 May 2022
+- Crawled version: 19 May 2022
 - Editor's Draft: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
 - Shortname: css-text-decor-4
@@ -9427,7 +9433,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 6 May 2022
+- Crawled version: 9 June 2022
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -12025,7 +12031,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 19 May 2022
+- Crawled version: 10 June 2022
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -15795,7 +15801,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/intersection-observer/](https://www.w3.org/TR/intersection-observer/)
 - Crawled URL: [https://w3c.github.io/IntersectionObserver/](https://w3c.github.io/IntersectionObserver/)
-- Crawled version: 1 April 2022
+- Crawled version: 10 June 2022
 - Editor's Draft: [https://w3c.github.io/IntersectionObserver/](https://w3c.github.io/IntersectionObserver/)
 - Latest published version: [https://www.w3.org/TR/intersection-observer/](https://www.w3.org/TR/intersection-observer/)
 - Shortname: intersection-observer
@@ -15828,7 +15834,6 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#dfn-callback-this-value`](https://html.spec.whatwg.org/#dfn-callback-this-value)
      * [`https://html.spec.whatwg.org/#report-the-exception`](https://html.spec.whatwg.org/#report-the-exception)
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
-     * [`https://html.spec.whatwg.org/#run-the-animation-frame-callbacks`](https://html.spec.whatwg.org/#run-the-animation-frame-callbacks)
      * [`https://html.spec.whatwg.org/#event-loop-processing-model`](https://html.spec.whatwg.org/#event-loop-processing-model)
      * [`https://html.spec.whatwg.org/#lazy-loading-attributes`](https://html.spec.whatwg.org/#lazy-loading-attributes)
      * [`https://html.spec.whatwg.org/#find-in-page`](https://html.spec.whatwg.org/#find-in-page)
@@ -21081,7 +21086,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Crawled URL: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
-- Crawled version: 07 June 2022
+- Crawled version: 10 June 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Shortname: mediacapture-streams
@@ -22544,7 +22549,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 9 June 2022
+- Crawled version: 10 June 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -22743,7 +22748,6 @@ Informative references to this spec from:
      * [`https://drafts.fxtf.org/geometry/#matrix-m41-element`](https://drafts.fxtf.org/geometry/#matrix-m41-element)
      * [`https://drafts.fxtf.org/geometry/#matrix-m42-element`](https://drafts.fxtf.org/geometry/#matrix-m42-element)
      * [`https://drafts.fxtf.org/geometry/#create-a-dommatrix-from-the-dictionary`](https://drafts.fxtf.org/geometry/#create-a-dommatrix-from-the-dictionary)
-     * [`https://w3c.github.io/IntersectionObserver/#run-the-update-intersection-observations-steps`](https://w3c.github.io/IntersectionObserver/#run-the-update-intersection-observations-steps)
      * [`https://w3c.github.io/webvtt/#webvtt-file`](https://w3c.github.io/webvtt/#webvtt-file)
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-only-nested-cues`](https://w3c.github.io/webvtt/#webvtt-file-using-only-nested-cues)
      * [`https://w3c.github.io/webvtt/#webvtt-parser`](https://w3c.github.io/webvtt/#webvtt-parser)
