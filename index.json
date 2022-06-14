@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-14T12:44:55.117Z",
+  "date": "2022-06-14T18:39:30.826Z",
   "stats": {
     "crawled": 469,
-    "errors": 1,
+    "errors": 0,
     "studied": 469
   },
   "results": [
@@ -4729,7 +4729,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8221,7 +8220,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "13 June 2022",
+      "date": "14 June 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -36388,7 +36387,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "09 June 2022",
+      "date": "14 June 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -47952,6 +47951,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
             {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
@@ -63876,7 +63880,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 June 2022",
+      "date": "14 June 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64009,7 +64013,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 June 2022",
+      "date": "14 June 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -64510,6 +64514,8 @@
             "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid",
             "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid",
             "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats",
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier",
             "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver"
           ],
           "evolvingLinks": [],
