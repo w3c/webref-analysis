@@ -195,6 +195,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 Informative references to this spec from:
 
@@ -483,6 +484,27 @@ No informative reference to this spec from other specs.
 - Crawled version: 7 June 2022
 - Editor's Draft: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
 - Shortname: tc39-shadowrealm
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Symbol as WeakMap Keys Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
+- Crawled URL: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
+- Crawled version: 7 June 2022
+- Editor's Draft: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
+- Shortname: tc39-symbols-as-weakmap-keys
 
 #### Potential issue(s) {.anomalies}
 
@@ -3699,7 +3721,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Crawled URL: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
-- Crawled version: 25 May 2022
+- Crawled version: 15 June 2022
 - Editor's Draft: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
 - Latest published version: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Shortname: webdriver2
@@ -4246,7 +4268,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -4259,15 +4281,24 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 323)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- External links to private terms:
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5464,7 +5495,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 14 June 2022
+- Crawled version: 15 June 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -17171,7 +17202,7 @@ Informative references to this spec from:
 - Initial URL: [https://www.w3.org/TR/largest-contentful-paint/](https://www.w3.org/TR/largest-contentful-paint/)
 - Crawled URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
 - Crawled version: 30 May 2022
-- Editor's Draft: [https://wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint)
+- Editor's Draft: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
 - Latest published version: [https://www.w3.org/TR/largest-contentful-paint/](https://www.w3.org/TR/largest-contentful-paint/)
 - Shortname: largest-contentful-paint
 
@@ -17199,7 +17230,10 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
 
@@ -17744,8 +17778,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/performance-timeline/#dfn-options-list`](https://www.w3.org/TR/performance-timeline/#dfn-options-list)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-observer`](https://www.w3.org/TR/performance-timeline/#dfn-observer)
      * [`https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer`](https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer)
-- Broken external links:
-     * [`https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint`](https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18028,7 +18060,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
 - Crawled URL: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
-- Crawled version: 9 June 2022
+- Crawled version: 15 June 2022
 - Editor's Draft: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
 - Shortname: capability-delegation
 
@@ -18626,7 +18658,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://w3c.github.io/resource-timing/#dfn-timing-allow-check`](https://w3c.github.io/resource-timing/#dfn-timing-allow-check)
-     * [`https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry`](https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18893,39 +18924,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#rcdata-state`](https://html.spec.whatwg.org/#rcdata-state)
      * [`https://html.spec.whatwg.org/#htmlslotelement`](https://html.spec.whatwg.org/#htmlslotelement)
      * [`https://html.spec.whatwg.org/#htmldataelement`](https://html.spec.whatwg.org/#htmldataelement)
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### HTML Standard {data-spec=true data-error=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/credentiallessness/](https://wicg.github.io/credentiallessness/)
-- Crawled URL: [https://html.spec.whatwg.org/C/#coep-credentialless](https://html.spec.whatwg.org/C/#coep-credentialless)
-- Crawled version: 10 June 2022
-- Editor's Draft: [https://wicg.github.io/credentiallessness/](https://wicg.github.io/credentiallessness/)
-- Shortname: credentiallessness
-
-#### Potential issue(s) {.anomalies}
-
-The following network or parsing error occurred:
-`Error: Execution context was destroyed, most likely because of a navigation. Error: Execution context was destroyed, most likely because of a navigation.
-    at rewriteError (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:260:23)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:219:60)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 93)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19529,7 +19527,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
 - Crawled URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
-- Crawled version: 2 June 2022
+- Crawled version: 15 June 2022
 - Editor's Draft: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
 - Shortname: navigation-api
 
@@ -21632,14 +21630,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#dom-messageport-postmessage-options`](https://html.spec.whatwg.org/#dom-messageport-postmessage-options)
      * [`https://html.spec.whatwg.org/#messageevent`](https://html.spec.whatwg.org/#messageevent)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype`](https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded`](https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid`](https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender)
      * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats)
      * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier`](https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier)
-     * [`https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver`](https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver)
 - External links to outdated specs:
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 
@@ -22536,7 +22528,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 10 June 2022
+- Crawled version: 15 June 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -24100,7 +24092,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 10 May 2022
+- Crawled version: 15 June 2022
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 

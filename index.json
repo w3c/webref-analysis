@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-15T12:43:59.364Z",
+  "date": "2022-06-15T18:44:34.524Z",
   "stats": {
     "crawled": 469,
-    "errors": 2,
+    "errors": 0,
     "studied": 469
   },
   "results": [
@@ -1833,7 +1833,7 @@
     {
       "title": "Capability Delegation",
       "shortname": "capability-delegation",
-      "date": "9 June 2022",
+      "date": "15 June 2022",
       "url": "https://wicg.github.io/capability-delegation/spec.html",
       "nightly": {
         "url": "https://wicg.github.io/capability-delegation/spec.html",
@@ -4736,7 +4736,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8228,7 +8227,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "14 June 2022",
+      "date": "15 June 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -22908,6 +22907,11 @@
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
+            },
+            {
+              "url": "https://webidl.spec.whatwg.org/",
+              "title": "Web IDL Standard",
+              "crawled": "https://webidl.spec.whatwg.org/"
             }
           ],
           "informative": [
@@ -23512,8 +23516,7 @@
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#concept-document-window",
-            "https://w3c.github.io/resource-timing/#dfn-timing-allow-check",
-            "https://wicg.github.io/largest-contentful-paint/#potentially-add-a-largestcontentfulpaint-entry"
+            "https://w3c.github.io/resource-timing/#dfn-timing-allow-check"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -28037,7 +28040,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "10 June 2022",
+      "date": "15 June 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36235,47 +36238,6 @@
       }
     },
     {
-      "title": "HTML Standard",
-      "shortname": "credentiallessness",
-      "date": "10 June 2022",
-      "url": "https://wicg.github.io/credentiallessness/",
-      "nightly": {
-        "url": "https://wicg.github.io/credentiallessness/",
-        "repository": "https://github.com/WICG/credentiallessness",
-        "sourcePath": "index.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://html.spec.whatwg.org/C/#coep-credentialless",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "error": "Error: Execution context was destroyed, most likely because of a navigation. Error: Execution context was destroyed, most likely because of a navigation.\n    at rewriteError (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:260:23)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext._evaluateInternal (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:219:60)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 93)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "HTMLVideoElement.requestVideoFrameCallback()",
       "shortname": "video-rvfc",
       "date": "25 January 2021",
@@ -38746,8 +38708,8 @@
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://wicg.github.io/largest-contentful-paint",
-        "repository": "https://github.com/WICG/largest-contentful-paint",
+        "url": "https://w3c.github.io/largest-contentful-paint/",
+        "repository": "https://github.com/w3c/largest-contentful-paint",
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
@@ -38790,7 +38752,18 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/element-timing/",
+              "title": "Element Timing API",
+              "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
+              "title": "Timing Entry Names Registry",
+              "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -42056,7 +42029,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "2 June 2022",
+      "date": "15 June 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -52524,6 +52497,54 @@
       }
     },
     {
+      "title": "Symbol as WeakMap Keys Proposal",
+      "shortname": "tc39-symbols-as-weakmap-keys",
+      "date": "7 June 2022",
+      "url": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
+        "sourcePath": "spec.emu",
+        "repository": "https://github.com/tc39/proposal-symbols-as-weakmap-keys",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
       "date": "14 June 2022",
@@ -53024,9 +53045,7 @@
             "https://www.w3.org/TR/performance-timeline/#dfn-observer-buffer"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://w3c.github.io/largest-contentful-paint/#largestcontentfulpaint"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -55561,7 +55580,7 @@
       "groups": [
         {
           "name": "Audio Working Group",
-          "url": "https://www.w3.org/2011/audio/"
+          "url": "https://www.w3.org/groups/wg/audio"
         }
       ],
       "report": {
@@ -56133,7 +56152,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "10 May 2022",
+      "date": "15 June 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -57340,7 +57359,7 @@
       "groups": [
         {
           "name": "Audio Working Group",
-          "url": "https://www.w3.org/2011/audio/"
+          "url": "https://www.w3.org/groups/wg/audio"
         }
       ],
       "report": {
@@ -58295,7 +58314,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "25 May 2022",
+      "date": "15 June 2022",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -64526,14 +64545,8 @@
             "https://html.spec.whatwg.org/#dom-messageport-postmessage-options",
             "https://html.spec.whatwg.org/#messageevent",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtccodecstats-codectype",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcreceivedrtpstreamstats-packetsdiscarded",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcinboundrtpstreamstats-receiverid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcoutboundrtpstreamstats-senderid",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-sender",
             "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier",
-            "https://www.w3.org/TR/webrtc-stats/#dom-rtcstatstype-receiver"
+            "https://www.w3.org/TR/webrtc-stats/#dom-rtcmediahandlerstats-trackidentifier"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
