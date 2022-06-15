@@ -157,7 +157,7 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## List of [Exposed] names not defined in the specifications crawled
 
-- `*` used in [Compression Streams](https://wicg.github.io/compression/), [DOM Standard](https://dom.spec.whatwg.org/), [Encoding Standard](https://encoding.spec.whatwg.org/), [High Resolution Time](https://w3c.github.io/hr-time/), [HTML Standard](https://html.spec.whatwg.org/multipage/), [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/), [Streams Standard](https://streams.spec.whatwg.org/), [URL Standard](https://url.spec.whatwg.org/), [User Timing Level 3](https://w3c.github.io/user-timing/)
+- `*` used in [Compression Streams](https://wicg.github.io/compression/), [Console Standard](https://console.spec.whatwg.org/), [DOM Standard](https://dom.spec.whatwg.org/), [Encoding Standard](https://encoding.spec.whatwg.org/), [High Resolution Time](https://w3c.github.io/hr-time/), [HTML Standard](https://html.spec.whatwg.org/multipage/), [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/), [Streams Standard](https://streams.spec.whatwg.org/), [URL Standard](https://url.spec.whatwg.org/), [User Timing Level 3](https://w3c.github.io/user-timing/)
 
 => 1 [Exposed] name found
 

@@ -21964,13 +21964,13 @@ Informative references to this spec from:
 
 ## Console Workstream {#console_workstream}
 
-### Console Standard {data-spec=true data-missingDfns=true data-xrefs=true data-ok=true}
+### Console Standard {data-spec=true data-unknownExposedNames=true data-missingDfns=true data-xrefs=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Crawled URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
-- Crawled version: 17 May 2022
+- Crawled version: 14 June 2022
 - Editor's Draft: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Shortname: console
 

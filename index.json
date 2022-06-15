@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-15T00:48:44.117Z",
+  "date": "2022-06-15T06:46:08.471Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -2845,7 +2845,7 @@
     {
       "title": "Console Standard",
       "shortname": "console",
-      "date": "17 May 2022",
+      "date": "14 June 2022",
       "url": "https://console.spec.whatwg.org/",
       "nightly": {
         "url": "https://console.spec.whatwg.org/",
@@ -2866,7 +2866,9 @@
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "hasObsoleteIdl": false,
-        "unknownExposedNames": [],
+        "unknownExposedNames": [
+          "*"
+        ],
         "unknownIdlNames": [],
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],

@@ -1,13 +1,13 @@
-% Diff between report from "June 15, 2022" and reference report from "June 14, 2022"
+% Diff between report from "June 15, 2022" and reference report from "June 15, 2022"
 % Strudy
 % June 15, 2022
 
-## Federated Credential Management API
+## Console Standard
 
-- Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
+- Initial URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Missing references for links: *DEL* https://www.w3.org/TR/appmanifest/
+- Editor's Draft: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
+- Unknown [Exposed] names used: *INS* *
 
 
 
