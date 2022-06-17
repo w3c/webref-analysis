@@ -9,6 +9,330 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
+- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 323)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/): `Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 316)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/): `Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 302)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/): `Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 303)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/): `Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 270)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing/): `Error: Loading https://drafts.csswg.org/css-easing/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-easing/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 263)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/): `Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 264)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/): `Error: Loading https://drafts.csswg.org/css-font-loading/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-font-loading/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 265)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/): `Error: Loading https://drafts.csswg.org/css-fonts-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-fonts-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 266)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/): `Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 267)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/): `Error: Loading https://drafts.csswg.org/css-gcpm/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-gcpm/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 268)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/): `Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 269)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/): `Error: Loading https://drafts.csswg.org/css-images-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-images-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 271)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/): `Error: Loading https://drafts.csswg.org/css-images-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-images-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 272)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/): `Error: Loading https://drafts.csswg.org/css-inline-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-inline-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 273)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/): `Error: Loading https://drafts.csswg.org/css-line-grid/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-line-grid/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 275)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/): `Error: Loading https://drafts.csswg.org/css-lists-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-lists-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 276)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/): `Error: Loading https://drafts.csswg.org/css-logical-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-logical-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 277)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/): `Error: Loading https://drafts.csswg.org/css-multicol/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-multicol/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 279)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/): `Error: Loading https://drafts.csswg.org/css-namespaces/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-namespaces/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 280)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting/): `Error: Loading https://drafts.csswg.org/css-nesting/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-nesting/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 282)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/): `Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 283)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/): `Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 284)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/): `Error: Loading https://drafts.csswg.org/css-overscroll-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-overscroll-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 285)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats/): `Error: Loading https://drafts.csswg.org/css-page-floats/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-page-floats/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 287)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/): `Error: Loading https://drafts.csswg.org/css-page-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-page-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 286)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/): `Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 288)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/): `Error: Loading https://drafts.csswg.org/css-position/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-position/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 289)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/): `Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 290)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/): `Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 291)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/): `Error: Loading https://drafts.csswg.org/css-regions/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-regions/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 292)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/): `Error: Loading https://drafts.csswg.org/css-rhythm/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-rhythm/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 293)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/): `Error: Loading https://drafts.csswg.org/css-round-display/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-round-display/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 294)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/): `Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 295)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/): `Error: Loading https://drafts.csswg.org/css-scoping/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scoping/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 296)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/): `Error: Loading https://drafts.csswg.org/css-scroll-anchoring/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scroll-anchoring/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 297)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/): `Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 298)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/): `Error: Loading https://drafts.csswg.org/css-scrollbars/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scrollbars/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 299)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts/): `Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 300)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/): `Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 301)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/): `Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 281)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/): `Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 304)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/): `Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 306)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/): `Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 307)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/): `Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 310)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/): `Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 311)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/): `Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 308)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/): `Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 309)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/): `Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 312)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/): `Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 313)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Transitions](https://drafts.csswg.org/css-transitions/): `Error: Loading https://drafts.csswg.org/css-transitions/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transitions/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 314)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 315)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/): `Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 400 Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 400
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 317)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/): `Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 318)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/): `Error: Evaluation failed: WebIDLParseError: Syntax error at line 2, since `interface SVGElement`:
            attribute DOMString id setraises(DOMException);
                                   ^ Unterminated attribute, expected `;`
@@ -78,7 +402,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async Promise.all (index 194)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
 
-=> 2 specifications found
+=> 56 specifications found
 
 
 ## Specifications without normative dependencies
@@ -242,10 +566,10 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 
 ## List of WebIDL names not defined in the specifications crawled
 
-- `ArrayBuffer` used in [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- `ArrayBuffer` used in [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
 - `BigInt64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `BigUint64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - `DOMTimeStamp` used in [Cookie Store API](https://wicg.github.io/cookie-store/)
 - `DataView` used in [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web NFC](https://w3c.github.io/web-nfc/), [WebHID API](https://wicg.github.io/webhid/), [WebUSB API](https://wicg.github.io/webusb/)
 - `Float32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebXR Device API](https://immersive-web.github.io/webxr/), [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/), [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
@@ -338,11 +662,8 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 
 ## No definition for CSS properties
 
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
-    * `<feature-value-block>`
-    * `<font-feature-value-type>`
 
-=> 2 properties without definition found in 1 specification
+=> 0 property without definition found in 0 specification
 
 
 ## No definition for IDL properties
@@ -857,11 +1178,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
-- [CSS 2](https://drafts.csswg.org/css2/) links to:
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/) links to:
     * [`https://w3c.github.io/html/infrastructure.html`](https://w3c.github.io/html/infrastructure.html) but does not list it in its references
     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/) but does not list it in its references
@@ -902,14 +1218,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/) links to:
-    * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but does not list it in its references
-    * [`https://w3c.github.io/contentEditable/`](https://w3c.github.io/contentEditable/) but does not list it in its references
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/) links to:
     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -942,19 +1250,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/) but does not list it in its references
-- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to:
-    * [`https://www.w3.org/TR/css2/`](https://www.w3.org/TR/css2/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
-- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/) links to:
-    * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/) links to:
     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1024,7 +1319,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
     * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/) but does not list it in its references
     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
-- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions/) links to:
     * [`https://www.w3.org/TR/css3-box/`](https://www.w3.org/TR/css3-box/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1037,32 +1331,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to:
-    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-align/`](https://www.w3.org/TR/css-align/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-speech/`](https://www.w3.org/TR/css-speech/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-align/`](https://www.w3.org/TR/css3-align/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-break/`](https://www.w3.org/TR/css-break/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/`](https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/) but does not list it in its references
-    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
-- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/) but does not list it in its references
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/) links to:
     * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
@@ -1083,13 +1351,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/) links to:
-    * [`https://w3c.github.io/dpub-pagination/`](https://w3c.github.io/dpub-pagination/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
-    * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/) but does not list it in its references
-    * [`https://books.spec.whatwg.org/`](https://books.spec.whatwg.org/) but does not list it in its references
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
@@ -1098,59 +1359,11 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
-    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-align/`](https://www.w3.org/TR/css-align/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-break/`](https://www.w3.org/TR/css-break/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/) links to:
-    * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/) but does not list it in its references
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/) links to:
-    * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/) but does not list it in its references
-- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/) links to:
-    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but does not list it in its references
-- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/) links to:
-    * [`https://www.w3.org/TR/css-writing-modes/`](https://www.w3.org/TR/css-writing-modes/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
@@ -1164,89 +1377,10 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/2011/CR-css3-multicol-20110412/`](https://www.w3.org/TR/2011/CR-css3-multicol-20110412/) but does not list it in its references
 - [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/) links to:
     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/) links to [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/) but does not list it in its references
-- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/) links to:
-    * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
-- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Page Floats](https://drafts.csswg.org/css-page-floats/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/) links to:
-    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
-    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/) but does not list it in its references
-- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/) but does not list it in its references
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
-    * [`https://www.w3.org/TR/2014/WD-css3-regions-20140218/`](https://www.w3.org/TR/2014/WD-css3-regions-20140218/) but does not list it in its references
-    * [`https://www.w3.org/TR/2013/WD-css3-regions-20130528/`](https://www.w3.org/TR/2013/WD-css3-regions-20130528/) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/WD-css3-regions-20120823/`](https://www.w3.org/TR/2012/WD-css3-regions-20120823/) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/WD-css3-regions-20120503/`](https://www.w3.org/TR/2012/WD-css3-regions-20120503/) but does not list it in its references
-- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/) links to:
-    * [`https://www.w3.org/TR/css3-text/`](https://www.w3.org/TR/css3-text/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/) links to:
-    * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/) links to:
@@ -1254,94 +1388,11 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/) links to:
-    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/) links to:
     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/) links to:
-    * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/) but does not list it in its references
-- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/) links to:
-    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/) but does not list it in its references
-- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/) links to:
-    * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512) but does not list it in its references
-- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but does not list it in its references
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
-- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/) links to:
-    * [`https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/`](https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/) but does not list it in its references
-    * [`https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/`](https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-animations/`](https://www.w3.org/TR/css3-animations/) but does not list it in its references
-- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Transitions](https://drafts.csswg.org/css-transitions/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
-    * [`https://w3c.github.io/dom/`](https://w3c.github.io/dom/) but does not list it in its references
-    * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/) but does not list it in its references
-    * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog) but does not list it in its references
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to:
-    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/) but does not list it in its references
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
-    * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/) but does not list it in its references
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
@@ -1624,7 +1675,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 696 missing references for links found in 192 specifications
+=> 469 missing references for links found in 146 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1687,18 +1738,11 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- [CSS 2](https://drafts.csswg.org/css2/) links to:
-    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -1713,87 +1757,16 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/) links to [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/) but related reference "PFE-report" uses URL [`https://www.w3.org/TR/PFE-evaluation/`](https://www.w3.org/TR/PFE-evaluation/)
-    * [`https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/`](https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/) but related reference "CSS-FONTS-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
-    * [`https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/`](https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/) but related reference "CSS-FONTS-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
-    * [`https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/`](https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/) but related reference "CSS-FONTS-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
-    * [`https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/`](https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/) but related reference "CSS-FONTS-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
-    * [`https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/`](https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/) but related reference "CSS-FONTS-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
-    * [`https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/`](https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/) but related reference "CSS-FONTS-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
-- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/) links to:
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/`](https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/) but related reference "DPUB-LATINREQ" uses URL [`https://www.w3.org/TR/dpub-latinreq/`](https://www.w3.org/TR/dpub-latinreq/)
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/) links to:
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Page Floats](https://drafts.csswg.org/css-page-floats/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/) links to:
-    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/) links to:
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but related reference "CSSOM-VIEW" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
-- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/) links to:
-    * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/) links to:
-    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/) but related reference "CSS3-EXCLUSIONS" uses URL [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
-    * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/) but related reference "CSS3-EXCLUSIONS" uses URL [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/) links to:
-    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/) links to:
-    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but related reference "CSSOM-VIEW" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Transitions](https://drafts.csswg.org/css-transitions/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to:
-    * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/) but related reference "CSS-SYNTAX-3" uses URL [`https://www.w3.org/TR/css-syntax-3/`](https://www.w3.org/TR/css-syntax-3/)
-    * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
-    * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/) but related reference "CSS-SYNTAX-3" uses URL [`https://www.w3.org/TR/css-syntax-3/`](https://www.w3.org/TR/css-syntax-3/)
-    * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/)
-    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
@@ -2049,7 +2022,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
 
-=> 340 inconsistent references for links found in 183 specifications
+=> 273 inconsistent references for links found in 140 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2121,8 +2094,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS 2](https://drafts.csswg.org/css2/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
      * [`https://drafts.csswg.org/web-animations#animation-effect`](https://drafts.csswg.org/web-animations#animation-effect)
      * [`https://drafts.csswg.org/web-animations#local-time`](https://drafts.csswg.org/web-animations#local-time)
@@ -2179,9 +2150,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://www.w3.org/TR/css-style-attr/#style-attribute`](https://www.w3.org/TR/css-style-attr/#style-attribute)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/):
      * [`https://drafts.csswg.org/css2/#line-box`](https://drafts.csswg.org/css2/#line-box)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -2190,10 +2158,6 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/):
      * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
@@ -2223,8 +2187,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/web-animations-1/#effect-value`](https://drafts.csswg.org/web-animations-1/#effect-value)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/):
      * [`https://drafts.csswg.org/css-text-3/#grapheme-cluster`](https://drafts.csswg.org/css-text-3/#grapheme-cluster)
-- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/):
-     * [`https://drafts.csswg.org/css-pseudo-4/#highlight-overlay`](https://drafts.csswg.org/css-pseudo-4/#highlight-overlay)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag`](https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag)
@@ -2234,53 +2196,17 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
-     * [`https://drafts.csswg.org/css-inline-3/#ascent-metric`](https://drafts.csswg.org/css-inline-3/#ascent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#descent-metric`](https://drafts.csswg.org/css-inline-3/#descent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#line-gap-metric`](https://drafts.csswg.org/css-inline-3/#line-gap-metric)
-- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/css-inline-3/#ascent-metric`](https://drafts.csswg.org/css-inline-3/#ascent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#descent-metric`](https://drafts.csswg.org/css-inline-3/#descent-metric)
-     * [`https://drafts.csswg.org/css-inline-3/#line-gap-metric`](https://drafts.csswg.org/css-inline-3/#line-gap-metric)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://www.w3.org/TR/css3-background/#background-positioning-area`](https://www.w3.org/TR/css3-background/#background-positioning-area)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/):
      * [`https://drafts.csswg.org/css-grid-2/#computed-track-list`](https://drafts.csswg.org/css-grid-2/#computed-track-list)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
-     * [`https://www.w3.org/TR/css3-background/#border-image-area`](https://www.w3.org/TR/css3-background/#border-image-area)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/):
-     * [`https://drafts.csswg.org/css2/#stacking-context`](https://drafts.csswg.org/css2/#stacking-context)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/):
-     * [`https://drafts.csswg.org/css-break-3/#monolithic`](https://drafts.csswg.org/css-break-3/#monolithic)
-     * [`https://drafts.csswg.org/css-text-3/#hang`](https://drafts.csswg.org/css-text-3/#hang)
-     * [`https://drafts.csswg.org/css-text-4/#word-separator`](https://drafts.csswg.org/css-text-4/#word-separator)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/css-inline/#text-over-edge`](https://drafts.csswg.org/css-inline/#text-over-edge)
-     * [`https://drafts.csswg.org/css-inline/#text-under-edge`](https://drafts.csswg.org/css-inline/#text-under-edge)
-- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/):
      * [`https://drafts.csswg.org/css-backgrounds-3/#background-painting-area`](https://drafts.csswg.org/css-backgrounds-3/#background-painting-area)
@@ -2289,98 +2215,14 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Nesting Module](https://drafts.csswg.org/css-nesting/):
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-child-css-rules`](https://drafts.csswg.org/cssom-1/#concept-css-rule-child-css-rules)
-     * [`https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order`](https://drafts.csswg.org/cssom-1/#concept-declarations-specified-order)
-- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/):
-     * [`https://drafts.csswg.org/css-transforms-2/#3d-rendering-context`](https://drafts.csswg.org/css-transforms-2/#3d-rendering-context)
-     * [`https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area`](https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area)
-     * [`https://drafts.csswg.org/css-backgrounds-3/#outer-box-shadow`](https://drafts.csswg.org/css-backgrounds-3/#outer-box-shadow)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/cssom-view-1/#concept-instant-scroll`](https://drafts.csswg.org/cssom-view-1/#concept-instant-scroll)
-- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Page Floats](https://drafts.csswg.org/css-page-floats/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/):
-     * [`https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area`](https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/):
-     * [`https://webidl.spec.whatwg.org/#web-idl-arguments-list-converting`](https://webidl.spec.whatwg.org/#web-idl-arguments-list-converting)
-- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/):
-     * [`https://drafts.csswg.org/css-syntax-3/#input-stream`](https://drafts.csswg.org/css-syntax-3/#input-stream)
-     * [`https://drafts.csswg.org/css-syntax-3/#check-if-three-code-points-would-start-an-ident-sequence`](https://drafts.csswg.org/css-syntax-3/#check-if-three-code-points-would-start-an-ident-sequence)
-     * [`https://drafts.csswg.org/css-syntax-3/#consume-an-ident-sequence`](https://drafts.csswg.org/css-syntax-3/#consume-an-ident-sequence)
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/):
-     * [`https://drafts.csswg.org/css-text-3/#word-separator`](https://drafts.csswg.org/css-text-3/#word-separator)
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/):
-     * [`https://drafts.csswg.org/css-inline-3/#line-relative-shift-values`](https://drafts.csswg.org/css-inline-3/#line-relative-shift-values)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts/):
-     * [`https://drafts.csswg.org/selectors-4/#structural-pseudo-classes`](https://drafts.csswg.org/selectors-4/#structural-pseudo-classes)
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/):
      * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
      * [`https://www.w3.org/TR/css3-exclusions/#wrapping-context`](https://www.w3.org/TR/css3-exclusions/#wrapping-context)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
-     * [`https://w3c.github.io/uievents/#keydown`](https://w3c.github.io/uievents/#keydown)
-     * [`https://w3c.github.io/uievents/#event-target`](https://w3c.github.io/uievents/#event-target)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/cssom-view-1/#scroll-an-element`](https://drafts.csswg.org/cssom-view-1/#scroll-an-element)
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/):
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location)
-- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/):
-     * [`https://www.w3.org/TR/css-text-3/#grapheme-cluster`](https://www.w3.org/TR/css-text-3/#grapheme-cluster)
-     * [`https://www.w3.org/TR/css-text-3/#letter`](https://www.w3.org/TR/css-text-3/#letter)
-     * [`https://www.w3.org/TR/css-text-3/#word-separator`](https://www.w3.org/TR/css-text-3/#word-separator)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://www.w3.org/TR/css-text-3/#word-separator`](https://www.w3.org/TR/css-text-3/#word-separator)
-     * [`https://www.w3.org/TR/css-text/#word-separator`](https://www.w3.org/TR/css-text/#word-separator)
-     * [`https://drafts.csswg.org/css-backgrounds-3/#spread-distance`](https://drafts.csswg.org/css-backgrounds-3/#spread-distance)
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/):
-     * [`https://drafts.csswg.org/css-transforms-1/#reference-box`](https://drafts.csswg.org/css-transforms-1/#reference-box)
-     * [`https://drafts.csswg.org/css2/#stacking-context`](https://drafts.csswg.org/css2/#stacking-context)
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-- [CSS Transitions](https://drafts.csswg.org/css-transitions/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
-     * [`https://drafts.csswg.org/css-easing/#input-progress-value`](https://drafts.csswg.org/css-easing/#input-progress-value)
-     * [`https://drafts.csswg.org/css-easing/#output-progress-value`](https://drafts.csswg.org/css-easing/#output-progress-value)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/):
      * [`https://drafts.csswg.org/web-animations-1/#iteration-duration`](https://drafts.csswg.org/web-animations-1/#iteration-duration)
      * [`https://drafts.csswg.org/web-animations-1/#animation-effect`](https://drafts.csswg.org/web-animations-1/#animation-effect)
@@ -2397,17 +2239,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/web-animations-1/#iteration-start`](https://drafts.csswg.org/web-animations-1/#iteration-start)
      * [`https://drafts.csswg.org/web-animations-1/#active-time`](https://drafts.csswg.org/web-animations-1/#active-time)
      * [`https://drafts.csswg.org/web-animations-1/#fill-mode`](https://drafts.csswg.org/web-animations-1/#fill-mode)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/):
-     * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag)
-     * [`https://drafts.csswg.org/css-values-4/#relative-length`](https://drafts.csswg.org/css-values-4/#relative-length)
-     * [`https://www.w3.org/TR/geometry-1/#dommatrixreadonly-stringification-behavior`](https://www.w3.org/TR/geometry-1/#dommatrixreadonly-stringification-behavior)
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/):
-     * [`https://drafts.csswg.org/css-syntax-3/#consume-a-url-token`](https://drafts.csswg.org/css-syntax-3/#consume-a-url-token)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/):
-     * [`https://www.w3.org/TR/css-syntax-3/#consume-a-url-token`](https://www.w3.org/TR/css-syntax-3/#consume-a-url-token)
-     * [`https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-stylesheet-base-url`](https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-stylesheet-base-url)
-     * [`https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-location`](https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-location)
-     * [`https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-origin-clean-flag`](https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-origin-clean-flag)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/):
@@ -3098,7 +2929,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 833 problematic external links found in 208 specifications
+=> 741 problematic external links found in 158 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3354,42 +3185,16 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/aria/#aria-valuemin`](https://w3c.github.io/aria/#aria-valuemin)
      * [`https://w3c.github.io/aria/#aria-valuenow`](https://w3c.github.io/aria/#aria-valuenow)
      * [`https://w3c.github.io/aria/#aria-valuetext`](https://w3c.github.io/aria/#aria-valuetext)
-- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/):
-     * [`https://www.w3.org/TR/css-ui-3/#box-sizing`](https://www.w3.org/TR/css-ui-3/#box-sizing)
-- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/):
-     * [`https://www.w3.org/TR/css-flexbox-1/#algo-main-item`](https://www.w3.org/TR/css-flexbox-1/#algo-main-item)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/):
      * [`https://drafts.csswg.org/css-ui-3/#propdef-text-overflow`](https://drafts.csswg.org/css-ui-3/#propdef-text-overflow)
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
-     * [`https://www.w3.org/TR/css3-break/#btw-blocks`](https://www.w3.org/TR/css3-break/#btw-blocks)
-     * [`https://www.w3.org/TR/css3-break/#end-block`](https://www.w3.org/TR/css3-break/#end-block)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/):
      * [`https://www.w3.org/TR/css3-page/#left-right-first`](https://www.w3.org/TR/css3-page/#left-right-first)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/):
      * [`https://www.w3.org/TR/css-page-3/#left-right-first`](https://www.w3.org/TR/css-page-3/#left-right-first)
-- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/):
-     * [`https://www.w3.org/TR/css-flexbox-1/#order-accessibility`](https://www.w3.org/TR/css-flexbox-1/#order-accessibility)
-     * [`https://www.w3.org/TR/css3-break/#btw-blocks`](https://www.w3.org/TR/css3-break/#btw-blocks)
-     * [`https://www.w3.org/TR/css3-break/#end-block`](https://www.w3.org/TR/css3-break/#end-block)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/):
      * [`https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order`](https://drafts.csswg.org/css-flexbox-1/#order-modified-document-order)
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
-     * [`https://www.w3.org/TR/css3-background/#the-background-size`](https://www.w3.org/TR/css3-background/#the-background-size)
-     * [`https://www.w3.org/TR/css3-background/#the-border-image-slice`](https://www.w3.org/TR/css3-background/#the-border-image-slice)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/):
      * [`https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0`](https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0)
-- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/):
-     * [`https://www.w3.org/TR/css3-break/#btw-blocks`](https://www.w3.org/TR/css3-break/#btw-blocks)
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
-     * [`https://drafts.csswg.org/css3-multicol/#multi-column-element`](https://drafts.csswg.org/css3-multicol/#multi-column-element)
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/):
-     * [`https://www.w3.org/TR/css-backgrounds-3/#the-border-style`](https://www.w3.org/TR/css-backgrounds-3/#the-border-style)
-     * [`https://www.w3.org/TR/css-ruby-1/#autohide`](https://www.w3.org/TR/css-ruby-1/#autohide)
-- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/):
-     * [`https://www.w3.org/TR/css-backgrounds-3/#the-border-style`](https://www.w3.org/TR/css-backgrounds-3/#the-border-style)
-     * [`https://www.w3.org/TR/css-ruby-1/#autohide`](https://www.w3.org/TR/css-ruby-1/#autohide)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/):
-     * [`https://drafts.fxtf.org/compositing-2/#propdef-mix`](https://drafts.fxtf.org/compositing-2/#propdef-mix)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/):
      * [`https://drafts.csswg.org/css2/#viewport%E2%91%A0`](https://drafts.csswg.org/css2/#viewport%E2%91%A0)
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/):
@@ -4136,7 +3941,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 971 problematic external links found in 61 specifications
+=> 955 problematic external links found in 51 specifications
 
 
 ## Broken external links
@@ -4841,8 +4646,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#worker`](https://html.spec.whatwg.org/#worker)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
-- [CSS 2](https://drafts.csswg.org/css2/):
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
      * [`https://drafts.csswg.org/web-animations#timing-function`](https://drafts.csswg.org/web-animations#timing-function)
      * [`https://drafts.csswg.org/web-animations#current-time`](https://drafts.csswg.org/web-animations#current-time)
@@ -4886,41 +4689,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-color-3/#color1`](https://www.w3.org/TR/css-color-3/#color1)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/):
      * [`https://www.w3.org/TR/css3-transitions/#animtype-color`](https://www.w3.org/TR/css3-transitions/#animtype-color)
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/):
-     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-     * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
-     * [`https://html.spec.whatwg.org/#the-object-element`](https://html.spec.whatwg.org/#the-object-element)
-     * [`https://html.spec.whatwg.org/#canvas`](https://html.spec.whatwg.org/#canvas)
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#image-maps-2`](https://html.spec.whatwg.org/#image-maps-2)
-     * [`https://html.spec.whatwg.org/#concept-fe-mutable`](https://html.spec.whatwg.org/#concept-fe-mutable)
-     * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
-     * [`https://html.spec.whatwg.org/#sequential-focus-navigation`](https://html.spec.whatwg.org/#sequential-focus-navigation)
-     * [`https://html.spec.whatwg.org/#attr-input-type`](https://html.spec.whatwg.org/#attr-input-type)
-     * [`https://html.spec.whatwg.org/#the-select-element`](https://html.spec.whatwg.org/#the-select-element)
-     * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
-     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
-     * [`https://html.spec.whatwg.org/#attr-input-type-password-keyword`](https://html.spec.whatwg.org/#attr-input-type-password-keyword)
-     * [`https://w3c.github.io/contentEditable/#dfn-editing-host`](https://w3c.github.io/contentEditable/#dfn-editing-host)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/):
      * [`https://drafts.csswg.org/selectors-3/#first-formatted-line0`](https://drafts.csswg.org/selectors-3/#first-formatted-line0)
-- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/):
-     * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
-     * [`https://html.spec.whatwg.org/#concept-textarea-raw-value`](https://html.spec.whatwg.org/#concept-textarea-raw-value)
-     * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#concept-fe-value`](https://html.spec.whatwg.org/#concept-fe-value)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#the-select-element`](https://html.spec.whatwg.org/#the-select-element)
-     * [`https://html.spec.whatwg.org/#replaced-elements`](https://html.spec.whatwg.org/#replaced-elements)
-     * [`https://html.spec.whatwg.org/#attr-input-type`](https://html.spec.whatwg.org/#attr-input-type)
-     * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
-     * [`https://html.spec.whatwg.org/#the-meter-element`](https://html.spec.whatwg.org/#the-meter-element)
-     * [`https://html.spec.whatwg.org/#the-marquee-element`](https://html.spec.whatwg.org/#the-marquee-element)
-- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/):
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/):
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
      * [`https://html.spec.whatwg.org/#quirks-mode`](https://html.spec.whatwg.org/#quirks-mode)
@@ -4973,9 +4743,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-innertext`](https://html.spec.whatwg.org/#dom-innertext)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/):
      * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
-- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/):
-     * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
-     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
 - [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt/):
      * [`https://www.w3.org/TR/css3-syntax/#property-defs`](https://www.w3.org/TR/css3-syntax/#property-defs)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/):
@@ -5004,36 +4771,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#the-details-element`](https://html.spec.whatwg.org/#the-details-element)
      * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
-     * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
-- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/):
-     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
-     * [`https://html.spec.whatwg.org/#workerglobalscope`](https://html.spec.whatwg.org/#workerglobalscope)
-     * [`https://html.spec.whatwg.org/#offscreencanvas`](https://html.spec.whatwg.org/#offscreencanvas)
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
-     * [`https://html.spec.whatwg.org/#font`](https://html.spec.whatwg.org/#font)
-- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/):
-     * [`https://www.w3.org/TR/css3-selectors/#first-letter`](https://www.w3.org/TR/css3-selectors/#first-letter)
-     * [`https://drafts.csswg.org/css-color/#cmyk-colors`](https://drafts.csswg.org/css-color/#cmyk-colors)
-     * [`https://drafts.csswg.org/css-overflow-3/#paginated-overflow`](https://drafts.csswg.org/css-overflow-3/#paginated-overflow)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/):
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/):
-     * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
-     * [`https://html.spec.whatwg.org/#concept-imagebitmap-good`](https://html.spec.whatwg.org/#concept-imagebitmap-good)
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-     * [`https://html.spec.whatwg.org/#attr-img-src`](https://html.spec.whatwg.org/#attr-img-src)
-     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/):
-     * [`https://html.spec.whatwg.org/#the-picture-element`](https://html.spec.whatwg.org/#the-picture-element)
-     * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
-     * [`https://html.spec.whatwg.org/#canvas`](https://html.spec.whatwg.org/#canvas)
-     * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
-     * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
-- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/):
-     * [`https://html.spec.whatwg.org/#textmetrics`](https://html.spec.whatwg.org/#textmetrics)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/):
      * [`https://html.spec.whatwg.org/#worklet`](https://html.spec.whatwg.org/#worklet)
      * [`https://html.spec.whatwg.org/#worklet-global-scope-type`](https://html.spec.whatwg.org/#worklet-global-scope-type)
@@ -5047,18 +4786,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#concept-global-object-realm`](https://html.spec.whatwg.org/#concept-global-object-realm)
      * [`https://html.spec.whatwg.org/#structureddeserialize`](https://html.spec.whatwg.org/#structureddeserialize)
      * [`https://html.spec.whatwg.org/#perform-a-microtask-checkpoint`](https://html.spec.whatwg.org/#perform-a-microtask-checkpoint)
-- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/):
-     * [`https://drafts.csswg.org/css-inline/#central`](https://drafts.csswg.org/css-inline/#central)
-- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/):
-     * [`https://html.spec.whatwg.org/#the-li-element`](https://html.spec.whatwg.org/#the-li-element)
-     * [`https://html.spec.whatwg.org/#the-ul-element`](https://html.spec.whatwg.org/#the-ul-element)
-     * [`https://html.spec.whatwg.org/#the-ol-element`](https://html.spec.whatwg.org/#the-ol-element)
-     * [`https://html.spec.whatwg.org/#the-option-element`](https://html.spec.whatwg.org/#the-option-element)
-     * [`https://html.spec.whatwg.org/#lists`](https://html.spec.whatwg.org/#lists)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/):
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
-- [CSS Nesting Module](https://drafts.csswg.org/css-nesting/):
-     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/):
      * [`https://drafts.csswg.org/selectors-3/#sel-before`](https://drafts.csswg.org/selectors-3/#sel-before)
      * [`https://drafts.csswg.org/selectors-3/#sel-after`](https://drafts.csswg.org/selectors-3/#sel-after)
@@ -5085,171 +4814,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
      * [`https://drafts.csswg.org/css-color-3/#alphavalue-def`](https://drafts.csswg.org/css-color-3/#alphavalue-def)
-- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/):
-     * [`https://html.spec.whatwg.org/#the-html-element`](https://html.spec.whatwg.org/#the-html-element)
-     * [`https://html.spec.whatwg.org/#html-vs-xhtml`](https://html.spec.whatwg.org/#html-vs-xhtml)
-     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
-- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/):
-     * [`https://drafts.csswg.org/selectors-3/#subject`](https://drafts.csswg.org/selectors-3/#subject)
-     * [`https://www.w3.org/TR/css3-transitions/#animatable-types`](https://www.w3.org/TR/css3-transitions/#animatable-types)
-     * [`https://html.spec.whatwg.org/#dom-dir`](https://html.spec.whatwg.org/#dom-dir)
-- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/):
-     * [`https://html.spec.whatwg.org/#worklet`](https://html.spec.whatwg.org/#worklet)
-     * [`https://html.spec.whatwg.org/#worklet-global-scope-type`](https://html.spec.whatwg.org/#worklet-global-scope-type)
-     * [`https://html.spec.whatwg.org/#worklet-destination-type`](https://html.spec.whatwg.org/#worklet-destination-type)
-     * [`https://html.spec.whatwg.org/#workletglobalscope`](https://html.spec.whatwg.org/#workletglobalscope)
-     * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
-     * [`https://html.spec.whatwg.org/#canvasstate`](https://html.spec.whatwg.org/#canvasstate)
-     * [`https://html.spec.whatwg.org/#canvastransform`](https://html.spec.whatwg.org/#canvastransform)
-     * [`https://html.spec.whatwg.org/#canvascompositing`](https://html.spec.whatwg.org/#canvascompositing)
-     * [`https://html.spec.whatwg.org/#canvasimagesmoothing`](https://html.spec.whatwg.org/#canvasimagesmoothing)
-     * [`https://html.spec.whatwg.org/#canvasfillstrokestyles`](https://html.spec.whatwg.org/#canvasfillstrokestyles)
-     * [`https://html.spec.whatwg.org/#canvasshadowstyles`](https://html.spec.whatwg.org/#canvasshadowstyles)
-     * [`https://html.spec.whatwg.org/#canvasrect`](https://html.spec.whatwg.org/#canvasrect)
-     * [`https://html.spec.whatwg.org/#canvasdrawpath`](https://html.spec.whatwg.org/#canvasdrawpath)
-     * [`https://html.spec.whatwg.org/#canvasdrawimage`](https://html.spec.whatwg.org/#canvasdrawimage)
-     * [`https://html.spec.whatwg.org/#canvaspathdrawingstyles`](https://html.spec.whatwg.org/#canvaspathdrawingstyles)
-     * [`https://html.spec.whatwg.org/#canvaspath`](https://html.spec.whatwg.org/#canvaspath)
-     * [`https://html.spec.whatwg.org/#canvasrenderingcontext2d`](https://html.spec.whatwg.org/#canvasrenderingcontext2d)
-     * [`https://html.spec.whatwg.org/#canvasimagedata`](https://html.spec.whatwg.org/#canvasimagedata)
-     * [`https://html.spec.whatwg.org/#canvasuserinterface`](https://html.spec.whatwg.org/#canvasuserinterface)
-     * [`https://html.spec.whatwg.org/#canvastext`](https://html.spec.whatwg.org/#canvastext)
-     * [`https://html.spec.whatwg.org/#canvastextdrawingstyles`](https://html.spec.whatwg.org/#canvastextdrawingstyles)
-     * [`https://html.spec.whatwg.org/#concept-canvas-set-bitmap-dimensions`](https://html.spec.whatwg.org/#concept-canvas-set-bitmap-dimensions)
-     * [`https://html.spec.whatwg.org/#reset-the-rendering-context-to-its-default-state`](https://html.spec.whatwg.org/#reset-the-rendering-context-to-its-default-state)
-     * [`https://html.spec.whatwg.org/#canvasimagesource`](https://html.spec.whatwg.org/#canvasimagesource)
-     * [`https://html.spec.whatwg.org/#dom-context-2d-drawimage`](https://html.spec.whatwg.org/#dom-context-2d-drawimage)
-     * [`https://html.spec.whatwg.org/#concept-worklet-global-scopes`](https://html.spec.whatwg.org/#concept-worklet-global-scopes)
-     * [`https://html.spec.whatwg.org/#create-a-worklet-global-scope`](https://html.spec.whatwg.org/#create-a-worklet-global-scope)
-     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
-     * [`https://html.spec.whatwg.org/#worklets-idempotent`](https://html.spec.whatwg.org/#worklets-idempotent)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/):
      * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/):
-     * [`https://www.w3.org/TR/css-scoping-1/#host-element0`](https://www.w3.org/TR/css-scoping-1/#host-element0)
-     * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
-     * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/):
-     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
-     * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
-- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/):
-     * [`https://html.spec.whatwg.org/#rtc`](https://html.spec.whatwg.org/#rtc)
-     * [`https://html.spec.whatwg.org/#the-rp-element`](https://html.spec.whatwg.org/#the-rp-element)
-     * [`https://html.spec.whatwg.org/#the-ruby-element`](https://html.spec.whatwg.org/#the-ruby-element)
-- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/):
-     * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
-     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
-- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/):
-     * [`https://html.spec.whatwg.org/#dom-anchor`](https://html.spec.whatwg.org/#dom-anchor)
-     * [`https://html.spec.whatwg.org/#focused-area-of-the-document`](https://html.spec.whatwg.org/#focused-area-of-the-document)
-     * [`https://html.spec.whatwg.org/#editing-host`](https://html.spec.whatwg.org/#editing-host)
-     * [`https://html.spec.whatwg.org/#concept-fe-mutable`](https://html.spec.whatwg.org/#concept-fe-mutable)
-     * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-     * [`https://html.spec.whatwg.org/#the-input-element`](https://html.spec.whatwg.org/#the-input-element)
-     * [`https://html.spec.whatwg.org/#fip-active-match`](https://html.spec.whatwg.org/#fip-active-match)
-     * [`https://html.spec.whatwg.org/#processing-model-8`](https://html.spec.whatwg.org/#processing-model-8)
-- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/):
-     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
-     * [`https://html.spec.whatwg.org/#the-section-element`](https://html.spec.whatwg.org/#the-section-element)
-- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/):
-     * [`https://html.spec.whatwg.org/#the-body-element`](https://html.spec.whatwg.org/#the-body-element)
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
-     * [`https://www.w3.org/TR/css3-transitions/#animatable-types`](https://www.w3.org/TR/css3-transitions/#animatable-types)
-     * [`https://www.w3.org/TR/css3-transitions/#animtype-simple-list`](https://www.w3.org/TR/css3-transitions/#animtype-simple-list)
-     * [`https://www.w3.org/TR/css3-transitions/#animtype-lpcalc`](https://www.w3.org/TR/css3-transitions/#animtype-lpcalc)
-     * [`https://www.w3.org/TR/css-box-3/#the-css-box-model`](https://www.w3.org/TR/css-box-3/#the-css-box-model)
-- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
-     * [`https://html.spec.whatwg.org/#dom-focus`](https://html.spec.whatwg.org/#dom-focus)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#the-body-element-2`](https://html.spec.whatwg.org/#the-body-element-2)
-     * [`https://html.spec.whatwg.org/#concept-request-origin`](https://html.spec.whatwg.org/#concept-request-origin)
-     * [`https://html.spec.whatwg.org/#active-document`](https://html.spec.whatwg.org/#active-document)
-     * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#focusable-area`](https://html.spec.whatwg.org/#focusable-area)
-     * [`https://html.spec.whatwg.org/#browsing-context`](https://html.spec.whatwg.org/#browsing-context)
-     * [`https://html.spec.whatwg.org/#sequential-focus-navigation-starting-point`](https://html.spec.whatwg.org/#sequential-focus-navigation-starting-point)
-     * [`https://html.spec.whatwg.org/#focusing-steps`](https://html.spec.whatwg.org/#focusing-steps)
-     * [`https://html.spec.whatwg.org/#nested-browsing-context`](https://html.spec.whatwg.org/#nested-browsing-context)
-     * [`https://html.spec.whatwg.org/#browsing-context-container`](https://html.spec.whatwg.org/#browsing-context-container)
-     * [`https://html.spec.whatwg.org/#dom-anchor`](https://html.spec.whatwg.org/#dom-anchor)
-     * [`https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context`](https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#concept-element-disabled`](https://html.spec.whatwg.org/#concept-element-disabled)
-     * [`https://html.spec.whatwg.org/#expressly-inert`](https://html.spec.whatwg.org/#expressly-inert)
-     * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
-     * [`https://html.spec.whatwg.org/#nodes-are-removed`](https://html.spec.whatwg.org/#nodes-are-removed)
-     * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
-     * [`https://html.spec.whatwg.org/#sequential-focus-navigation-order`](https://html.spec.whatwg.org/#sequential-focus-navigation-order)
-     * [`https://drafts.csswg.org/css2/box.html#x14`](https://drafts.csswg.org/css2/box.html#x14)
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/):
-     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
-- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/):
-     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
-     * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
-     * [`https://html.spec.whatwg.org/#link-type-stylesheet`](https://html.spec.whatwg.org/#link-type-stylesheet)
-     * [`https://html.spec.whatwg.org/#valid-custom-element-name`](https://html.spec.whatwg.org/#valid-custom-element-name)
-     * [`https://html.spec.whatwg.org/#attr-img-sizes`](https://html.spec.whatwg.org/#attr-img-sizes)
-- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/):
-     * [`https://drafts.csswg.org/css-transforms/#grouping-property-values`](https://drafts.csswg.org/css-transforms/#grouping-property-values)
-     * [`https://html.spec.whatwg.org/#tables-2`](https://html.spec.whatwg.org/#tables-2)
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/):
-     * [`https://html.spec.whatwg.org/#the-ins-element`](https://html.spec.whatwg.org/#the-ins-element)
-     * [`https://html.spec.whatwg.org/#the-del-element`](https://html.spec.whatwg.org/#the-del-element)
-     * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/):
-     * [`https://www.w3.org/TR/css-fonts-3/#feature-precedence`](https://www.w3.org/TR/css-fonts-3/#feature-precedence)
-     * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
-     * [`https://html.spec.whatwg.org/#newlines`](https://html.spec.whatwg.org/#newlines)
-     * [`https://html.spec.whatwg.org/#preprocessing-the-input-stream`](https://html.spec.whatwg.org/#preprocessing-the-input-stream)
-     * [`https://html.spec.whatwg.org/#the-wbr-element`](https://html.spec.whatwg.org/#the-wbr-element)
-- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/):
-     * [`https://www.w3.org/TR/css-fonts-3/#feature-precedence`](https://www.w3.org/TR/css-fonts-3/#feature-precedence)
-     * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
-     * [`https://html.spec.whatwg.org/#the-wbr-element`](https://html.spec.whatwg.org/#the-wbr-element)
-     * [`https://html.spec.whatwg.org/#newlines`](https://html.spec.whatwg.org/#newlines)
-     * [`https://html.spec.whatwg.org/#preprocessing-the-input-stream`](https://html.spec.whatwg.org/#preprocessing-the-input-stream)
-     * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
-- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/):
-     * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
-- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/):
-     * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
-- [CSS Transitions](https://drafts.csswg.org/css-transitions/):
-     * [`https://drafts.csswg.org/css-color-3/#opacity`](https://drafts.csswg.org/css-color-3/#opacity)
-     * [`https://html.spec.whatwg.org/#concept-event-dispatch`](https://html.spec.whatwg.org/#concept-event-dispatch)
-     * [`https://html.spec.whatwg.org/#event-handlers`](https://html.spec.whatwg.org/#event-handlers)
-     * [`https://html.spec.whatwg.org/#event-handler-event-type`](https://html.spec.whatwg.org/#event-handler-event-type)
-     * [`https://html.spec.whatwg.org/#html-elements`](https://html.spec.whatwg.org/#html-elements)
-     * [`https://html.spec.whatwg.org/#event-handler-content-attributes`](https://html.spec.whatwg.org/#event-handler-content-attributes)
-     * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
-     * [`https://html.spec.whatwg.org/#document`](https://html.spec.whatwg.org/#document)
-     * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
-     * [`https://html.spec.whatwg.org/#globaleventhandlers`](https://html.spec.whatwg.org/#globaleventhandlers)
-     * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/):
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/):
-     * [`https://html.spec.whatwg.org/#htmlelement`](https://html.spec.whatwg.org/#htmlelement)
-     * [`https://html.spec.whatwg.org/#the-style-element`](https://html.spec.whatwg.org/#the-style-element)
-     * [`https://html.spec.whatwg.org/#attr-style`](https://html.spec.whatwg.org/#attr-style)
-     * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
-     * [`https://drafts.csswg.org/css-fonts-3/#absolute-size-value`](https://drafts.csswg.org/css-fonts-3/#absolute-size-value)
-     * [`https://drafts.csswg.org/css-fonts-3/#relative-size-value`](https://drafts.csswg.org/css-fonts-3/#relative-size-value)
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/):
-     * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
-     * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
-     * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
-     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/):
-     * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
-     * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
-     * [`https://html.spec.whatwg.org/#dom-history-pushstate`](https://html.spec.whatwg.org/#dom-history-pushstate)
-     * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
-     * [`https://html.spec.whatwg.org/#concept-settings-object-global`](https://html.spec.whatwg.org/#concept-settings-object-global)
-     * [`https://html.spec.whatwg.org/#api-base-url`](https://html.spec.whatwg.org/#api-base-url)
-     * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
-     * [`https://www.w3.org/TR/css-values-3/#acknowledgements`](https://www.w3.org/TR/css-values-3/#acknowledgements)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/):
      * [`https://www.w3.org/TR/css-values-4/#acknowledgements`](https://www.w3.org/TR/css-values-4/#acknowledgements)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/):
@@ -9271,7 +8839,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4826 problematic external links found in 303 specifications
+=> 4630 problematic external links found in 262 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9291,20 +8859,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/):
      * [`https://www.w3.org/TR/eventsource/`](https://www.w3.org/TR/eventsource/)
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
-- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/):
-     * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
-- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/):
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/):
@@ -9391,7 +8945,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 57 problematic external links found in 51 specifications
+=> 50 problematic external links found in 44 specifications
 
 
 ## External links that use a dated URL
@@ -9414,11 +8968,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
      * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
      * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-- [CSS 2](https://drafts.csswg.org/css2/):
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds/):
      * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -9429,8 +8978,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/)
      * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
      * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/)
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/):
-     * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/):
      * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/):
@@ -9441,67 +8988,19 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/)
 - [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt/):
      * [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/)
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
-     * [`https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/`](https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/)
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
-     * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/)
-     * [`https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/`](https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/)
-- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/):
-     * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break/):
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
      * [`https://www.w3.org/TR/2015/WD-css3-break-20150129/`](https://www.w3.org/TR/2015/WD-css3-break-20150129/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/):
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm/):
-     * [`https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/`](https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/)
-     * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
-     * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/)
-     * [`https://www.w3.org/TR/1998/REC-smil-19980615/`](https://www.w3.org/TR/1998/REC-smil-19980615/)
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/):
-     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
-     * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/)
-     * [`https://www.w3.org/TR/1998/REC-smil-19980615/`](https://www.w3.org/TR/1998/REC-smil-19980615/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/):
      * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/)
      * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/)
      * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
-- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/):
-     * [`https://www.w3.org/TR/2011/CR-css3-multicol-20110412/`](https://www.w3.org/TR/2011/CR-css3-multicol-20110412/)
-- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/):
-     * [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/)
-- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/):
-     * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/)
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/)
-     * [`https://www.w3.org/TR/2014/WD-css3-regions-20140218/`](https://www.w3.org/TR/2014/WD-css3-regions-20140218/)
-     * [`https://www.w3.org/TR/2013/WD-css3-regions-20130528/`](https://www.w3.org/TR/2013/WD-css3-regions-20130528/)
-     * [`https://www.w3.org/TR/2012/WD-css3-regions-20120823/`](https://www.w3.org/TR/2012/WD-css3-regions-20120823/)
-     * [`https://www.w3.org/TR/2012/WD-css3-regions-20120503/`](https://www.w3.org/TR/2012/WD-css3-regions-20120503/)
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
-     * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/)
-     * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/)
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/):
-     * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
 - [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/):
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607`](https://www.w3.org/TR/2011/REC-CSS2-20110607)
      * [`https://www.w3.org/TR/1999/REC-html401-19991224`](https://www.w3.org/TR/1999/REC-html401-19991224)
      * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/)
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/):
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
-- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/):
-     * [`https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/`](https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/)
-     * [`https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/`](https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/)
-- [CSS Transitions](https://drafts.csswg.org/css-transitions/):
-     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/)
-     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog)
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/):
-     * [`https://www.w3.org/TR/2013/CR-css3-values-20130730/`](https://www.w3.org/TR/2013/CR-css3-values-20130730/)
-     * [`https://www.w3.org/TR/2012/CR-css3-values-20120828/`](https://www.w3.org/TR/2012/CR-css3-values-20120828/)
-     * [`https://www.w3.org/TR/2013/CR-css3-values-20130404/`](https://www.w3.org/TR/2013/CR-css3-values-20130404/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/):
      * [`https://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/`](https://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/):
@@ -9612,7 +9111,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 152 problematic external links found in 63 specifications
+=> 115 problematic external links found in 45 specifications
 
 
 
