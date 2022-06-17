@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 16, 2022
+% June 17, 2022
 
 469 specifications were crawled in this report.
 
@@ -2550,6 +2550,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webappsec-feature-policy/#process-permissions-policy-attributes`](https://w3c.github.io/webappsec-feature-policy/#process-permissions-policy-attributes)
      * [`https://drafts.fxtf.org/filter-effects/#filter-primitive-attributes`](https://drafts.fxtf.org/filter-effects/#filter-primitive-attributes)
      * [`https://storage.spec.whatwg.org/#storage-proxy-map`](https://storage.spec.whatwg.org/#storage-proxy-map)
+     * [`https://w3c.github.io/webauthn/#public-key-credential`](https://w3c.github.io/webauthn/#public-key-credential)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
      * [`https://www.w3.org/TR/webrtc/#set-pc-configuration`](https://www.w3.org/TR/webrtc/#set-pc-configuration)
      * [`https://w3c.github.io/webrtc-pc/#dfn-offerer-s-system-state`](https://w3c.github.io/webrtc-pc/#dfn-offerer-s-system-state)
@@ -3097,7 +3098,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 832 problematic external links found in 208 specifications
+=> 833 problematic external links found in 208 specifications
 
 
 ## External links that neither target definitions nor headings
