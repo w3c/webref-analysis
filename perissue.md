@@ -4149,10 +4149,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html):
      * [`https://html.spec.whatwg.org/#imagebitmapsource`](https://html.spec.whatwg.org/#imagebitmapsource)
      * [`https://w3c.github.io/mediacapture-image/#Point2D`](https://w3c.github.io/mediacapture-image/#Point2D)
-- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/):
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent`](https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-text-node`](https://www.w3.org/TR/wai-aria-1.2/#dfn-text-node)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/):
      * [`https://www.w3.org/TR/html/#the-div-element`](https://www.w3.org/TR/html/#the-div-element)
      * [`https://www.w3.org/TR/html/#the-span-element`](https://www.w3.org/TR/html/#the-span-element)
@@ -5439,10 +5435,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-source-type`](https://html.spec.whatwg.org/#attr-source-type)
      * [`https://html.spec.whatwg.org/#attr-img-src`](https://html.spec.whatwg.org/#attr-img-src)
      * [`https://html.spec.whatwg.org/#attr-img-srcset`](https://html.spec.whatwg.org/#attr-img-srcset)
+     * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
+     * [`https://html.spec.whatwg.org/#data-block`](https://html.spec.whatwg.org/#data-block)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#the-iframe-element`](https://html.spec.whatwg.org/#the-iframe-element)
      * [`https://html.spec.whatwg.org/#resolving-urls`](https://html.spec.whatwg.org/#resolving-urls)
-     * [`https://html.spec.whatwg.org/#script`](https://html.spec.whatwg.org/#script)
      * [`https://html.spec.whatwg.org/#attr-hyperlink-href`](https://html.spec.whatwg.org/#attr-hyperlink-href)
      * [`https://html.spec.whatwg.org/#the-area-element`](https://html.spec.whatwg.org/#the-area-element)
      * [`https://html.spec.whatwg.org/#extensibility-2`](https://html.spec.whatwg.org/#extensibility-2)
@@ -5457,7 +5454,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#svg-0`](https://html.spec.whatwg.org/#svg-0)
      * [`https://html.spec.whatwg.org/#attr-dir`](https://html.spec.whatwg.org/#attr-dir)
      * [`https://html.spec.whatwg.org/#the-bdo-element`](https://html.spec.whatwg.org/#the-bdo-element)
-     * [`https://html.spec.whatwg.org/#data-block`](https://html.spec.whatwg.org/#data-block)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#canvas`](https://html.spec.whatwg.org/#canvas)
      * [`https://html.spec.whatwg.org/#the-nav-element`](https://html.spec.whatwg.org/#the-nav-element)
@@ -5477,7 +5473,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#link-type-alternate`](https://html.spec.whatwg.org/#link-type-alternate)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/):
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
-     * [`https://html.spec.whatwg.org/#attr-dir`](https://html.spec.whatwg.org/#attr-dir)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
      * [`https://html.spec.whatwg.org/#the-head-element`](https://html.spec.whatwg.org/#the-head-element)
      * [`https://html.spec.whatwg.org/#encoding-microdata`](https://html.spec.whatwg.org/#encoding-microdata)
@@ -9236,7 +9231,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4808 problematic external links found in 301 specifications
+=> 4804 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
