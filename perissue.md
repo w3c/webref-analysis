@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 17, 2022
+% June 18, 2022
 
 469 specifications were crawled in this report.
 
@@ -6219,6 +6219,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webvtt/#webvtt-file-using-cue-text`](https://w3c.github.io/webvtt/#webvtt-file-using-cue-text)
      * [`https://w3c.github.io/aria/#dfn-accessible-name`](https://w3c.github.io/aria/#dfn-accessible-name)
      * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-navigation-status)
+     * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-user-prompt-closed`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-user-prompt-closed)
+     * [`https://w3c.github.io/webdriver-bidi/#webdriver-bidi-user-prompt-opened`](https://w3c.github.io/webdriver-bidi/#webdriver-bidi-user-prompt-opened)
      * [`https://www.w3.org/TR/css3-color/#css2-system`](https://www.w3.org/TR/css3-color/#css2-system)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/):
      * [`https://html.spec.whatwg.org/#htmlvideoelement`](https://html.spec.whatwg.org/#htmlvideoelement)
@@ -9231,7 +9233,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 4804 problematic external links found in 300 specifications
+=> 4806 problematic external links found in 300 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
