@@ -645,7 +645,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 19 June 2022
+- Crawled version: 20 June 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -11975,7 +11975,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/encoding/](https://www.w3.org/TR/encoding/)
 - Crawled URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
-- Crawled version: 24 January 2022
+- Crawled version: 20 June 2022
 - Editor's Draft: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Latest published version: [https://www.w3.org/TR/encoding/](https://www.w3.org/TR/encoding/)
 - Shortname: encoding
@@ -21900,7 +21900,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 18 June 2022
+- Crawled version: 20 June 2022
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 
@@ -21979,7 +21979,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 9 June 2022
+- Crawled version: 20 June 2022
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
@@ -22267,7 +22267,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 17 June 2022
+- Crawled version: 20 June 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
