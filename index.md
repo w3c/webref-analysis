@@ -523,7 +523,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 20 June 2022
+- Crawled version: 21 June 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -9483,7 +9483,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 17 June 2022
+- Crawled version: 19 June 2022
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -19295,7 +19295,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 20 June 2022
+- Crawled version: 21 June 2022
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
@@ -21547,7 +21547,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-viewport/](https://www.w3.org/TR/mediacapture-viewport/)
 - Crawled URL: [https://w3c.github.io/mediacapture-viewport/](https://w3c.github.io/mediacapture-viewport/)
-- Crawled version: 05 May 2022
+- Crawled version: 21 June 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-viewport/](https://w3c.github.io/mediacapture-viewport/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-viewport/](https://www.w3.org/TR/mediacapture-viewport/)
 - Shortname: mediacapture-viewport
@@ -21960,7 +21960,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Crawled URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
-- Crawled version: 14 June 2022
+- Crawled version: 20 June 2022
 - Editor's Draft: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Shortname: console
 

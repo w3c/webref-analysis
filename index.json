@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-21T00:48:43.717Z",
+  "date": "2022-06-21T12:46:16.768Z",
   "stats": {
     "crawled": 469,
     "errors": 2,
@@ -2841,7 +2841,7 @@
     {
       "title": "Console Standard",
       "shortname": "console",
-      "date": "14 June 2022",
+      "date": "20 June 2022",
       "url": "https://console.spec.whatwg.org/",
       "nightly": {
         "url": "https://console.spec.whatwg.org/",
@@ -19602,7 +19602,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "17 June 2022",
+      "date": "19 June 2022",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -38921,7 +38921,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "20 June 2022",
+      "date": "21 June 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -52551,7 +52551,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "20 June 2022",
+      "date": "21 June 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54608,7 +54608,7 @@
     {
       "title": "Viewport Capture",
       "shortname": "mediacapture-viewport",
-      "date": "05 May 2022",
+      "date": "21 June 2022",
       "url": "https://www.w3.org/TR/mediacapture-viewport/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-viewport/",
