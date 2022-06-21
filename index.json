@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-21T12:46:16.768Z",
+  "date": "2022-06-21T18:40:56.207Z",
   "stats": {
     "crawled": 469,
     "errors": 2,
@@ -7905,7 +7905,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "17 June 2022",
+      "date": "21 June 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7942,8 +7942,8 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
-          "https://infra.spec.whatwg.org/",
-          "https://www.w3.org/TR/css-pseudo/"
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://infra.spec.whatwg.org/"
         ],
         "inconsistentRef": [
           {
@@ -8228,7 +8228,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "15 June 2022",
+      "date": "21 June 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -36839,7 +36839,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "16 June 2022",
+      "date": "28 June 2022",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -36871,15 +36871,21 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/IFT/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": true
       }
     },
     {
@@ -41934,7 +41940,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "17 June 2022",
+      "date": "21 June 2022",
       "url": "https://w3c.github.io/window-placement/",
       "nightly": {
         "url": "https://w3c.github.io/window-placement/",
@@ -41963,7 +41969,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://https//html.spec.whatwg.org/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/permissions/",
@@ -47352,11 +47360,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
@@ -47507,11 +47510,6 @@
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
-            },
-            {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -47782,11 +47780,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc7230",
               "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
               "crawled": "https://httpwg.org/specs/rfc7230.html"
@@ -47939,11 +47932,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
             {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
@@ -58602,7 +58590,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "20 June 2022",
+      "date": "21 June 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
