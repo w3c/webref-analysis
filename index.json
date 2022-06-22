@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-22T12:44:21.223Z",
+  "date": "2022-06-22T18:43:27.177Z",
   "stats": {
     "crawled": 469,
-    "errors": 3,
+    "errors": 6,
     "studied": 469
   },
   "results": [
@@ -3561,7 +3561,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "21 June 2022",
+      "date": "22 June 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -7892,6 +7892,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:282:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 251)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8161,6 +8162,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:282:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 252)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20732,6 +20734,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:282:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23815,7 +23818,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "20 June 2022",
+      "date": "22 June 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23943,7 +23946,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "20 June 2022",
+      "date": "22 June 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24003,10 +24006,8 @@
             "https://www.w3.org/TR/epub-33/#urls-in-ocf-constraints",
             "https://www.w3.org/TR/epub-33/#identifier-type",
             "https://www.w3.org/TR/epub-33/#attrdef-meta-property",
-            "https://www.w3.org/TR/epub-33/#property.ebnf.prefix",
             "https://www.w3.org/TR/epub-33/#attrdef-scheme",
             "https://www.w3.org/TR/epub-33/#record",
-            "https://www.w3.org/TR/epub-33/#attrdef-link-rel",
             "https://www.w3.org/TR/epub-33/#attrdef-item-properties",
             "https://www.w3.org/TR/epub-33/#attrdef-itemref-linear",
             "https://www.w3.org/TR/epub-33/#attrdef-spine-page-progression-direction",
@@ -24031,6 +24032,7 @@
             "https://www.w3.org/TR/epub-33/#active-class",
             "https://www.w3.org/TR/epub-33/#playback-active-class",
             "https://www.w3.org/TR/epub-33/#duration",
+            "https://www.w3.org/TR/epub-33/#attrdef-link-rel",
             "https://www.w3.org/TR/epub-33/#attrdef-package-version",
             "https://www.w3.org/TR/epub-33/#confreq-nav-a-title"
           ],
@@ -41988,7 +41990,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "15 June 2022",
+      "date": "22 June 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -50528,7 +50530,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "1 June 2022",
+      "date": "22 June 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -51335,6 +51337,11 @@
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
+            },
+            {
+              "url": "https://wicg.github.io/webhid/",
+              "title": "WebHID API",
+              "crawled": "https://wicg.github.io/webhid/"
             },
             {
               "url": "https://www.w3.org/TR/webxr-hand-input-1/",
@@ -58533,7 +58540,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "21 June 2022",
+      "date": "22 June 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -64066,7 +64073,7 @@
     {
       "title": "WebHID API",
       "shortname": "webhid",
-      "date": "24 March 2022",
+      "date": "22 June 2022",
       "url": "https://wicg.github.io/webhid/",
       "nightly": {
         "url": "https://wicg.github.io/webhid/",
@@ -64108,11 +64115,15 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#navigator",
+            "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#eventhandler",
-            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
+            "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#queue-a-global-task",
+            "https://html.spec.whatwg.org/#dom-window",
             "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#global-object",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#transient-activation"
