@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-23T12:46:24.290Z",
+  "date": "2022-06-23T18:40:09.388Z",
   "stats": {
     "crawled": 469,
     "errors": 2,
@@ -1254,7 +1254,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "16 June 2022",
+      "date": "23 June 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1338,10 +1338,10 @@
             "https://html.spec.whatwg.org/#rules-for-parsing-integers",
             "https://html.spec.whatwg.org/#rules-for-parsing-non-negative-integers",
             "https://html.spec.whatwg.org/#concept-origin-scheme",
+            "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#navigation-params-origin",
             "https://html.spec.whatwg.org/#queue-a-task",
-            "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#serialization-of-a-site",
@@ -17023,7 +17023,7 @@
     {
       "title": "CSS Syntax Module Level 3",
       "shortname": "css-syntax-3",
-      "date": "1 April 2022",
+      "date": "23 June 2022",
       "url": "https://www.w3.org/TR/css-syntax-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -25369,7 +25369,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "11 April 2022",
+      "date": "23 June 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -44605,7 +44605,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "17 June 2022",
+      "date": "23 June 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -58572,7 +58572,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "22 June 2022",
+      "date": "23 June 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
