@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-27T12:46:21.700Z",
+  "date": "2022-06-27T18:41:09.716Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -9853,7 +9853,7 @@
     {
       "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-1",
-      "date": "27 June 2022",
+      "date": "21 February 2022",
       "url": "https://www.w3.org/TR/css-easing-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-easing-1/",
@@ -11439,7 +11439,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module",
       "shortname": "css-gcpm-3",
-      "date": "17 May 2021",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/css-gcpm-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-gcpm-3/",
@@ -11475,6 +11475,7 @@
           "https://w3c.github.io/dpub-pagination/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/css3-selectors/",
           "https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/",
           "https://books.spec.whatwg.org/"
@@ -11549,7 +11550,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module Level 4",
       "shortname": "css-gcpm-4",
-      "date": "18 September 2020",
+      "date": "27 June 2022",
       "url": "https://drafts.csswg.org/css-gcpm-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-gcpm-4/",
@@ -11579,7 +11580,8 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/cssom/"
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
@@ -11616,7 +11618,7 @@
     {
       "title": "CSS Generated Content Module Level 3",
       "shortname": "css-content-3",
-      "date": "30 December 2021",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/css-content-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-content-3/",
@@ -25529,7 +25531,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "23 June 2022",
+      "date": "27 June 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -37312,11 +37314,6 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-easing-1/",
-              "title": "CSS Easing Functions Level 2",
-              "crawled": "https://drafts.csswg.org/css-easing/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",

@@ -6031,7 +6031,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-easing-1/](https://www.w3.org/TR/css-easing-1/)
 - Crawled URL: [https://drafts.csswg.org/css-easing/](https://drafts.csswg.org/css-easing/)
-- Crawled version: 27 June 2022
+- Crawled version: 21 February 2022
 - Editor's Draft: [https://drafts.csswg.org/css-easing/](https://drafts.csswg.org/css-easing/)
 - Latest published version: [https://www.w3.org/TR/css-easing-1/](https://www.w3.org/TR/css-easing-1/)
 - Shortname: css-easing-1
@@ -6573,7 +6573,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-gcpm-3/](https://www.w3.org/TR/css-gcpm-3/)
 - Crawled URL: [https://drafts.csswg.org/css-gcpm/](https://drafts.csswg.org/css-gcpm/)
-- Crawled version: 17 May 2021
+- Crawled version: 27 June 2022
 - Editor's Draft: [https://drafts.csswg.org/css-gcpm/](https://drafts.csswg.org/css-gcpm/)
 - Latest published version: [https://www.w3.org/TR/css-gcpm-3/](https://www.w3.org/TR/css-gcpm-3/)
 - Shortname: css-gcpm-3
@@ -6584,6 +6584,7 @@ Informative references to this spec from:
      * [`https://w3c.github.io/dpub-pagination/`](https://w3c.github.io/dpub-pagination/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
      * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
      * [`https://books.spec.whatwg.org/`](https://books.spec.whatwg.org/)
@@ -6620,7 +6621,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
 - Crawled URL: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
-- Crawled version: 18 September 2020
+- Crawled version: 27 June 2022
 - Editor's Draft: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
 - Shortname: css-gcpm-4
 
@@ -6629,6 +6630,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
@@ -6649,7 +6651,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-content-3/](https://www.w3.org/TR/css-content-3/)
 - Crawled URL: [https://drafts.csswg.org/css-content-3/](https://drafts.csswg.org/css-content-3/)
-- Crawled version: 30 December 2021
+- Crawled version: 27 June 2022
 - Editor's Draft: [https://drafts.csswg.org/css-content-3/](https://drafts.csswg.org/css-content-3/)
 - Latest published version: [https://www.w3.org/TR/css-content-3/](https://www.w3.org/TR/css-content-3/)
 - Shortname: css-content-3
@@ -18790,7 +18792,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Crawled URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
-- Crawled version: 23 June 2022
+- Crawled version: 27 June 2022
 - Editor's Draft: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Shortname: file-system-access
 
@@ -23482,7 +23484,6 @@ Normative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
-- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
