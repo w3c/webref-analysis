@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-27T00:50:28.172Z",
+  "date": "2022-06-27T06:41:06.671Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -39640,7 +39640,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "20 June 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
