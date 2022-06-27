@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-27T06:41:06.671Z",
+  "date": "2022-06-27T12:46:21.700Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -9853,7 +9853,7 @@
     {
       "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-1",
-      "date": "24 June 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/css-easing-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-easing-1/",
@@ -28196,7 +28196,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 June 2022",
+      "date": "27 June 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -39906,7 +39906,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "16 June 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -46300,7 +46300,7 @@
     {
       "title": "requestIdleCallback()",
       "shortname": "requestidlecallback",
-      "date": "29 April 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/requestidlecallback/",
       "release": {
         "url": "https://www.w3.org/TR/requestidlecallback/",
@@ -50218,7 +50218,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "30 May 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
@@ -52690,7 +52690,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "26 June 2022",
+      "date": "27 June 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -58048,7 +58048,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "13 June 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -58104,7 +58104,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "13 June 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -58261,7 +58261,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "13 June 2022",
+      "date": "27 June 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
