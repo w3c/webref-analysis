@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-28T12:45:29.434Z",
+  "date": "2022-06-28T18:43:23.794Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -1254,7 +1254,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "23 June 2022",
+      "date": "28 June 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4648,6 +4648,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-cascade-6/",
+              "title": "CSS Cascading and Inheritance Level 6",
+              "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax/"
@@ -5780,6 +5785,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://www.w3.org/TR/css3-transitions/#animtype-color"
           ],
           "evolvingLinks": [],
@@ -7124,6 +7130,8 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-3/#color0",
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#quirks-mode",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7266,6 +7274,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#cors-same-origin",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7712,6 +7721,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-p-element",
@@ -8000,19 +8010,9 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
-              "url": "https://drafts.csswg.org/css-backgrounds-4/",
-              "title": "CSS Backgrounds and Borders Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -8068,11 +8068,6 @@
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -8170,6 +8165,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -9808,7 +9808,7 @@
     {
       "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-1",
-      "date": "21 February 2022",
+      "date": "28 June 2022",
       "url": "https://www.w3.org/TR/css-easing-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-easing-1/",
@@ -15291,7 +15291,8 @@
           "brokenLinks": [
             "https://www.w3.org/TR/css-scoping-1/#host-element0",
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#concept-document-window"
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -19046,6 +19047,8 @@
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
+            "https://drafts.csswg.org/css-color-3/#opacity",
+            "https://drafts.csswg.org/css-color-3/#valuea-def-color",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://drafts.csswg.org/css-fonts-3/#absolute-size-value",
             "https://drafts.csswg.org/css-fonts-3/#relative-size-value"
@@ -37308,6 +37311,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://www.w3.org/TR/css-easing-1/",
+              "title": "CSS Easing Functions Level 2",
+              "crawled": "https://drafts.csswg.org/css-easing/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
@@ -38553,7 +38561,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "23 May 2022",
+      "date": "28 June 2022",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -57544,7 +57552,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "17 June 2022",
+      "date": "28 June 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
