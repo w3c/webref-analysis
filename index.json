@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-29T00:48:14.177Z",
+  "date": "2022-06-29T06:37:50.305Z",
   "stats": {
     "crawled": 469,
-    "errors": 0,
+    "errors": 1,
     "studied": 469
   },
   "results": [
@@ -2096,7 +2096,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "2 February 2022",
+      "date": "29 June 2022",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -2125,11 +2125,18 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://dom.spec.whatwg.org/",
-          "https://www.w3.org/TR/permissions-policy/",
+          "https://w3c.github.io/webappsec-permissions-policy/",
           "https://w3c.github.io/device-memory/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/ServiceWorker/",
+            "ref": {
+              "name": "SERVICE-WORKERS-1",
+              "url": "https://www.w3.org/TR/service-workers-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -2157,21 +2164,24 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
+          "notExported": [
+            "https://fetch.spec.whatwg.org/#concept-main-fetch"
+          ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
-            "https://html.spec.whatwg.org/#secure-context",
+            "https://html.spec.whatwg.org/#non-secure-context",
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#window-bc",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#meta",
-            "https://html.spec.whatwg.org/#the-head-element",
-            "https://html.spec.whatwg.org/#attr-meta-content",
             "https://html.spec.whatwg.org/#the-link-element",
+            "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#script",
+            "https://html.spec.whatwg.org/#attr-meta-name",
+            "https://html.spec.whatwg.org/#attr-meta-content",
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#process-a-navigate-response",
@@ -4737,6 +4747,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23019,7 +23030,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "2 June 2022",
+      "date": "29 June 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -24495,7 +24506,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "28 June 2022",
+      "date": "29 June 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -39081,7 +39092,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "28 June 2022",
+      "date": "29 June 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -44210,11 +44221,6 @@
               "url": "https://www.w3.org/TR/battery-status/",
               "title": "Battery Status API",
               "crawled": "https://w3c.github.io/battery/"
-            },
-            {
-              "url": "https://wicg.github.io/client-hints-infrastructure/",
-              "title": "Client Hints Infrastructure",
-              "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
               "url": "https://wicg.github.io/compute-pressure/",
@@ -51435,6 +51441,11 @@
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
+            },
+            {
+              "url": "https://wicg.github.io/client-hints-infrastructure/",
+              "title": "Client Hints Infrastructure",
+              "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
