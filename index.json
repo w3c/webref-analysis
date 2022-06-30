@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-30T06:40:31.782Z",
+  "date": "2022-06-30T12:44:38.617Z",
   "stats": {
     "crawled": 469,
     "errors": 1,
@@ -21705,7 +21705,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "20 June 2022",
+      "date": "30 June 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -22737,6 +22737,7 @@
             "https://html.spec.whatwg.org/#concept-relevant-global",
             "https://html.spec.whatwg.org/#the-area-element",
             "https://html.spec.whatwg.org/#the-input-element",
+            "https://html.spec.whatwg.org/#the-body-element-2",
             "https://html.spec.whatwg.org/#event-handlers",
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#concept-document-window",
@@ -36366,7 +36367,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "14 June 2022",
+      "date": "30 June 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -36399,7 +36400,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/webrtc-extensions/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -36417,7 +36420,15 @@
             }
           ]
         },
-        "ok": true
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
       }
     },
     {
@@ -38413,7 +38424,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "28 June 2022",
+      "date": "30 June 2022",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -57483,7 +57494,7 @@
     {
       "title": "Web NFC",
       "shortname": "web-nfc",
-      "date": "29 June 2022",
+      "date": "30 June 2022",
       "url": "https://w3c.github.io/web-nfc/",
       "nightly": {
         "url": "https://w3c.github.io/web-nfc/",
