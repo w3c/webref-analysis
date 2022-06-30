@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-06-30T00:51:16.447Z",
+  "date": "2022-06-30T06:40:31.782Z",
   "stats": {
     "crawled": 469,
-    "errors": 0,
+    "errors": 1,
     "studied": 469
   },
   "results": [
@@ -1969,7 +1969,7 @@
     {
       "title": "Change Array by copy",
       "shortname": "tc39-change-array-by-copy",
-      "date": "29 June 2022",
+      "date": "30 June 2022",
       "url": "https://tc39.es/proposal-change-array-by-copy/",
       "nightly": {
         "url": "https://tc39.es/proposal-change-array-by-copy/",
@@ -3102,7 +3102,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "3 May 2022",
+      "date": "30 June 2022",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -3298,7 +3298,7 @@
             "https://html.spec.whatwg.org/#policy-container-csp-list",
             "https://html.spec.whatwg.org/#policy-container",
             "https://html.spec.whatwg.org/#initialise-the-document-object",
-            "https://html.spec.whatwg.org/#prepare-a-script",
+            "https://html.spec.whatwg.org/#prepare-the-script-element",
             "https://html.spec.whatwg.org/#update-a-style-block",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#set-the-frozen-base-url",
@@ -3571,7 +3571,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "29 June 2022",
+      "date": "30 June 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4747,6 +4747,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24340,7 +24341,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "29 June 2022",
+      "date": "30 June 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -26209,7 +26210,7 @@
     {
       "title": "Gamepad",
       "shortname": "gamepad",
-      "date": "07 June 2022",
+      "date": "30 June 2022",
       "url": "https://www.w3.org/TR/gamepad/",
       "release": {
         "url": "https://www.w3.org/TR/gamepad/",
@@ -26288,7 +26289,7 @@
     {
       "title": "Gamepad Extensions",
       "shortname": "gamepad-extensions",
-      "date": "07 June 2022",
+      "date": "30 June 2022",
       "url": "https://w3c.github.io/gamepad/extensions.html",
       "nightly": {
         "url": "https://w3c.github.io/gamepad/extensions.html",
@@ -28043,7 +28044,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 June 2022",
+      "date": "30 June 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -45468,7 +45469,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "02 June 2022",
+      "date": "30 June 2022",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",
@@ -45532,6 +45533,11 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#network",
             "https://html.spec.whatwg.org/#secure-context",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#queue-a-global-task",
+            "https://html.spec.whatwg.org/#networking-task-source",
+            "https://html.spec.whatwg.org/#user-interaction-task-source",
             "https://html.spec.whatwg.org/#eventhandler",
             "https://html.spec.whatwg.org/#event-handler-idl-attributes",
             "https://html.spec.whatwg.org/#event-handler-event-type"
@@ -47333,11 +47339,6 @@
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSP3/",
-              "title": "Content Security Policy Level 3",
-              "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
               "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -52538,7 +52539,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "27 June 2022",
+      "date": "30 June 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54112,6 +54113,11 @@
               "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
+            },
+            {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
             },
             {
               "url": "https://www.w3.org/TR/referrer-policy/",
@@ -63918,7 +63924,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "29 June 2022",
+      "date": "30 June 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64051,7 +64057,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "29 June 2022",
+      "date": "30 June 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
