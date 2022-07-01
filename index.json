@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-01T12:50:32.178Z",
+  "date": "2022-07-01T14:04:05.842Z",
   "stats": {
     "crawled": 469,
-    "errors": 0,
+    "errors": 1,
     "studied": 469
   },
   "results": [
@@ -11612,6 +11612,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'trim')\n    at normalize (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:40:34)\n    at parseProductionRule (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:222:27)\n    at https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:18\n    at Array.map (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25 Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'trim')\n    at normalize (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:40:34)\n    at parseProductionRule (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:222:27)\n    at https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:18\n    at Array.map (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:658:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 259)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36315,7 +36316,7 @@
     {
       "title": "IceTransport Extensions for WebRTC",
       "shortname": "webrtc-ice",
-      "date": "03 June 2022",
+      "date": "01 July 2022",
       "url": "https://w3c.github.io/webrtc-ice/",
       "nightly": {
         "url": "https://w3c.github.io/webrtc-ice/",
@@ -53335,7 +53336,7 @@
     {
       "title": "UI Events",
       "shortname": "uievents",
-      "date": "29 June 2022",
+      "date": "1 July 2022",
       "url": "https://www.w3.org/TR/uievents/",
       "release": {
         "url": "https://www.w3.org/TR/uievents/",
