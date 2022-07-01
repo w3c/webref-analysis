@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-01T06:39:53.813Z",
+  "date": "2022-07-01T12:50:32.178Z",
   "stats": {
     "crawled": 469,
-    "errors": 1,
+    "errors": 0,
     "studied": 469
   },
   "results": [
@@ -4747,7 +4747,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23872,7 +23871,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "24 June 2022",
+      "date": "01 July 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24000,7 +23999,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "24 June 2022",
+      "date": "01 July 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24489,7 +24488,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "28 June 2022",
+      "date": "1 July 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -38939,7 +38938,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "29 June 2022",
+      "date": "1 July 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -39500,7 +39499,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "27 June 2022",
+      "date": "01 July 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -41550,7 +41549,7 @@
     {
       "title": "MiniApp Packaging",
       "shortname": "miniapp-packaging",
-      "date": "28 April 2022",
+      "date": "01 July 2022",
       "url": "https://www.w3.org/TR/miniapp-packaging/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -54466,7 +54465,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "30 June 2022",
+      "date": "1 July 2022",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
