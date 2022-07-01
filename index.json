@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-01T15:55:49.843Z",
+  "date": "2022-07-01T18:40:35.584Z",
   "stats": {
     "crawled": 469,
-    "errors": 2,
+    "errors": 1,
     "studied": 469
   },
   "results": [
@@ -4747,7 +4747,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8829,7 +8828,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "17 June 2022",
+      "date": "1 July 2022",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -24343,7 +24342,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "30 June 2022",
+      "date": "1 July 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
