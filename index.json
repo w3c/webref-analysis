@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-01T00:50:25.280Z",
+  "date": "2022-07-01T06:39:53.813Z",
   "stats": {
     "crawled": 469,
-    "errors": 0,
+    "errors": 1,
     "studied": 469
   },
   "results": [
@@ -4747,6 +4747,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -28044,7 +28045,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "30 June 2022",
+      "date": "1 July 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36082,10 +36083,10 @@
             "https://w3c.github.io/html-aam/#el-aside",
             "https://w3c.github.io/html-aam/#el-h1-h6",
             "https://w3c.github.io/html-aam/#el-hgroup",
-            "https://w3c.github.io/html-aam/#el-header-ancestorbody",
             "https://w3c.github.io/html-aam/#el-header",
-            "https://w3c.github.io/html-aam/#el-footer-ancestorbody",
+            "https://w3c.github.io/html-aam/#el-header-ancestorbody",
             "https://w3c.github.io/html-aam/#el-footer",
+            "https://w3c.github.io/html-aam/#el-footer-ancestorbody",
             "https://w3c.github.io/html-aam/#el-address",
             "https://w3c.github.io/html-aam/#el-p",
             "https://w3c.github.io/html-aam/#el-hr",
@@ -41405,7 +41406,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "28 May 2022",
+      "date": "01 July 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",
@@ -41468,7 +41469,7 @@
     {
       "title": "MiniApp Manifest",
       "shortname": "miniapp-manifest",
-      "date": "17 May 2022",
+      "date": "01 July 2022",
       "url": "https://www.w3.org/TR/miniapp-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -52544,7 +52545,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "30 June 2022",
+      "date": "1 July 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -57706,7 +57707,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "08 June 2022",
+      "date": "01 July 2022",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
