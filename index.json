@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-05T06:39:41.694Z",
+  "date": "2022-07-05T12:45:15.926Z",
   "stats": {
     "crawled": 469,
-    "errors": 31,
+    "errors": 30,
     "studied": 469
   },
   "results": [
@@ -3231,6 +3231,11 @@
               "url": "https://www.w3.org/TR/webtransport/",
               "title": "WebTransport",
               "crawled": "https://w3c.github.io/webtransport/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
+              "title": "WebXR DOM Overlays Module",
+              "crawled": "https://immersive-web.github.io/dom-overlays/"
             }
           ],
           "informative": [
@@ -38762,7 +38767,7 @@
     {
       "title": "Largest Contentful Paint",
       "shortname": "largest-contentful-paint",
-      "date": "30 May 2022",
+      "date": "5 July 2022",
       "url": "https://www.w3.org/TR/largest-contentful-paint/",
       "release": {
         "url": "https://www.w3.org/TR/largest-contentful-paint/",
@@ -52575,7 +52580,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "4 July 2022",
+      "date": "5 July 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -55088,7 +55093,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 438)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -64314,7 +64318,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "04 July 2022",
+      "date": "05 July 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -65528,7 +65532,7 @@
     {
       "title": "WebXR DOM Overlays Module",
       "shortname": "webxr-dom-overlays-1",
-      "date": "3 June 2022",
+      "date": "5 July 2022",
       "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
