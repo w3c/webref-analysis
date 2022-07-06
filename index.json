@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-06T06:41:05.620Z",
+  "date": "2022-07-06T12:53:50.522Z",
   "stats": {
     "crawled": 469,
-    "errors": 1,
+    "errors": 0,
     "studied": 469
   },
   "results": [
@@ -1907,7 +1907,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "capture-handle-identity",
-      "date": "19 May 2022",
+      "date": "06 July 2022",
       "url": "https://www.w3.org/TR/capture-handle-identity/",
       "release": {
         "url": "https://www.w3.org/TR/capture-handle-identity/",
@@ -2096,7 +2096,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "29 June 2022",
+      "date": "6 July 2022",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -11618,7 +11618,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'trim')\n    at normalize (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:40:34)\n    at parseProductionRule (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:222:27)\n    at https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:18\n    at Array.map (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25 Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'trim')\n    at normalize (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:40:34)\n    at parseProductionRule (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:222:27)\n    at https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:18\n    at Array.map (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:328:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-content-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:658:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 259)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -28051,7 +28050,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "3 July 2022",
+      "date": "6 July 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36228,8 +36227,6 @@
             "https://drafts.csswg.org/css-grid/#propdef-grid-column-gap",
             "https://drafts.csswg.org/css-grid/#propdef-grid-row-gap",
             "https://drafts.csswg.org/css-multicol/#propdef-column-gap",
-            "https://drafts.csswg.org/cssom-view/#run-the-resize-steps",
-            "https://drafts.csswg.org/cssom-view/#run-the-scroll-steps",
             "https://drafts.csswg.org/css-values/#vw",
             "https://drafts.csswg.org/css-values/#funcdef-attr",
             "https://w3c.github.io/webvtt/#webvtt-file-using-cue-text",
@@ -44431,7 +44428,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "29 June 2022",
+      "date": "06 July 2022",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -50309,16 +50306,12 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-phase",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-inactive-phase",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-before-phase",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-after-phase",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-active-phase",
             "https://html.spec.whatwg.org/#concept-document-windowconcept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
             "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
-            "https://www.w3.org/TR/cssom-view/#css-layout-box"
+            "https://www.w3.org/TR/cssom-view/#css-layout-box",
+            "https://www.w3.org/TR/web-animations-1/#timeline-phase"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -52741,7 +52734,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "19 May 2022",
+      "date": "06 July 2022",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",
@@ -55158,6 +55151,11 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -55347,14 +55345,12 @@
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/web-animations-1/#current-time",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-phase",
             "https://drafts.csswg.org/web-animations-1/#target-effect",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-active-phase",
             "https://drafts.csswg.org/web-animations-1/#active-phase",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-before-phase",
-            "https://drafts.csswg.org/web-animations-1/#timeline-timeline-after-phase",
             "https://drafts.csswg.org/web-animations-1/#animation-playback-rate",
             "https://drafts.csswg.org/web-animations-1/#before-flag",
+            "https://www.w3.org/TR/web-animations-1/#timeline-phase",
+            "https://www.w3.org/TR/web-animations-1/#timeline-active-phase",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint"
           ],
@@ -64591,7 +64587,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "19 May 2022",
+      "date": "6 July 2022",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
