@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-07T06:39:55.517Z",
+  "date": "2022-07-07T12:45:15.683Z",
   "stats": {
     "crawled": 469,
     "errors": 0,
@@ -24875,6 +24875,11 @@
               "crawled": "https://w3c.github.io/webauthn/"
             },
             {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
+            },
+            {
               "url": "https://w3c.github.io/web-share-target/",
               "title": "Web Share Target API",
               "crawled": "https://w3c.github.io/web-share-target/"
@@ -43463,7 +43468,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request",
-      "date": "06 July 2022",
+      "date": "07 July 2022",
       "url": "https://www.w3.org/TR/payment-request/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request/",
@@ -46537,7 +46542,7 @@
     {
       "title": "Resource Timing Level 2",
       "shortname": "resource-timing-2",
-      "date": "06 July 2022",
+      "date": "07 July 2022",
       "url": "https://www.w3.org/TR/resource-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing-2/",
@@ -57787,7 +57792,7 @@
             "https://html.spec.whatwg.org/#in-parallel",
             "https://html.spec.whatwg.org/#queue-a-global-task",
             "https://html.spec.whatwg.org/#user-interaction-task-source",
-            "https://html.spec.whatwg.org/#secure-context"
+            "https://html.spec.whatwg.org/#safelisted-scheme"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],

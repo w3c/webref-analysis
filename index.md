@@ -16296,7 +16296,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
      * [`https://html.spec.whatwg.org/#user-interaction-task-source`](https://html.spec.whatwg.org/#user-interaction-task-source)
-     * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
+     * [`https://html.spec.whatwg.org/#safelisted-scheme`](https://html.spec.whatwg.org/#safelisted-scheme)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16897,7 +16897,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/payment-request/](https://www.w3.org/TR/payment-request/)
 - Crawled URL: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
-- Crawled version: 06 July 2022
+- Crawled version: 07 July 2022
 - Editor's Draft: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
 - Latest published version: [https://www.w3.org/TR/payment-request/](https://www.w3.org/TR/payment-request/)
 - Shortname: payment-request
@@ -17670,7 +17670,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/resource-timing-2/](https://www.w3.org/TR/resource-timing-2/)
 - Crawled URL: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
-- Crawled version: 06 July 2022
+- Crawled version: 07 July 2022
 - Editor's Draft: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
 - Latest published version: [https://www.w3.org/TR/resource-timing-2/](https://www.w3.org/TR/resource-timing-2/)
 - Shortname: resource-timing-2
@@ -22436,6 +22436,7 @@ Normative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
 - [WebDriver](https://w3c.github.io/webdriver/)

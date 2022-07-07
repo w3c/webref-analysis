@@ -8651,7 +8651,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://html.spec.whatwg.org/#queue-a-global-task`](https://html.spec.whatwg.org/#queue-a-global-task)
      * [`https://html.spec.whatwg.org/#user-interaction-task-source`](https://html.spec.whatwg.org/#user-interaction-task-source)
-     * [`https://html.spec.whatwg.org/#secure-context`](https://html.spec.whatwg.org/#secure-context)
+     * [`https://html.spec.whatwg.org/#safelisted-scheme`](https://html.spec.whatwg.org/#safelisted-scheme)
 - [Web Share Target API](https://w3c.github.io/web-share-target/):
      * [`https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler`](https://html.spec.whatwg.org/#dom-navigator-registerprotocolhandler)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
