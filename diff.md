@@ -1,4 +1,4 @@
-% Diff between report from "July 07, 2022" and reference report from "July 06, 2022"
+% Diff between report from "July 07, 2022" and reference report from "July 07, 2022"
 % Strudy
 % July 07, 2022
 
