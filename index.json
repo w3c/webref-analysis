@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-07T18:44:06.401Z",
+  "date": "2022-07-08T01:03:49.770Z",
   "stats": {
-    "crawled": 469,
-    "errors": 0,
-    "studied": 469
+    "crawled": 472,
+    "errors": 7,
+    "studied": 472
   },
   "results": [
     {
@@ -1394,7 +1394,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -2257,6 +2263,11 @@
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
               "crawled": "https://w3c.github.io/input-events/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -3193,6 +3204,16 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
@@ -3258,6 +3279,11 @@
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             },
             {
               "url": "https://webbluetoothcg.github.io/web-bluetooth/",
@@ -3990,6 +4016,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -7835,6 +7866,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 256)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7934,6 +7966,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-color/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-color/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:538:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 254)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8258,6 +8291,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-color-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-color-5/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 255)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8379,6 +8413,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-conditional-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-conditional-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 257)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8558,6 +8593,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-conditional-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-conditional-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 258)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8581,7 +8617,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -8608,6 +8644,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-conditional-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-conditional-5/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 259)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8683,6 +8720,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-contain-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-contain-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 260)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14046,7 +14084,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "22 June 2022",
+      "date": "7 July 2022",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -22313,6 +22351,16 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -22411,6 +22459,11 @@
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             },
             {
               "url": "https://streams.spec.whatwg.org/",
@@ -22881,7 +22934,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "29 June 2022",
+      "date": "7 July 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -23850,6 +23903,11 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": [
@@ -24357,7 +24415,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "5 July 2022",
+      "date": "7 July 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -24803,6 +24861,16 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://wicg.github.io/priority-hints/",
               "title": "Priority Hints",
               "crawled": "https://wicg.github.io/priority-hints/"
@@ -24851,6 +24919,11 @@
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             },
             {
               "url": "https://www.w3.org/TR/SRI/",
@@ -25571,6 +25644,11 @@
               "url": "https://wicg.github.io/manifest-incubations/",
               "title": "Manifest Incubations",
               "crawled": "https://wicg.github.io/manifest-incubations/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": []
@@ -26147,6 +26225,11 @@
               "crawled": "https://w3c.github.io/pointerlock/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/screen-orientation/",
               "title": "The Screen Orientation API",
               "crawled": "https://w3c.github.io/screen-orientation/"
@@ -26268,6 +26351,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
             {
               "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
               "title": "WebXR Gamepads Module - Level 1",
@@ -26453,6 +26541,11 @@
               "crawled": "https://w3c.github.io/orientation-sensor/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/proximity/",
               "title": "Proximity Sensor",
               "crawled": "https://w3c.github.io/proximity/"
@@ -26559,6 +26652,11 @@
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": [
@@ -27276,6 +27374,16 @@
               "url": "https://www.w3.org/TR/performance-timeline/",
               "title": "Performance Timeline Level 2",
               "crawled": "https://w3c.github.io/performance-timeline/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -35219,6 +35327,16 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -35372,6 +35490,11 @@
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             },
             {
               "url": "https://storage.spec.whatwg.org/",
@@ -36598,7 +36721,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -37606,6 +37735,16 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
@@ -37679,6 +37818,11 @@
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             },
             {
               "url": "https://storage.spec.whatwg.org/",
@@ -38652,6 +38796,11 @@
               "url": "https://wicg.github.io/keyboard-map/",
               "title": "Keyboard Map",
               "crawled": "https://wicg.github.io/keyboard-map/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": []
@@ -39889,6 +40038,11 @@
               "url": "https://wicg.github.io/prefer-current-tab/",
               "title": "preferCurrentTab",
               "crawled": "https://wicg.github.io/prefer-current-tab/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-region/",
@@ -42308,6 +42462,11 @@
               "crawled": "https://w3c.github.io/navigation-timing/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-timing-2/",
               "title": "Resource Timing Level 2",
               "crawled": "https://w3c.github.io/resource-timing/"
@@ -42579,6 +42738,11 @@
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -43561,6 +43725,11 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
@@ -44417,7 +44586,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/selectors-4/",
@@ -44620,6 +44795,11 @@
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/webxr/",
@@ -44926,6 +45106,434 @@
       }
     },
     {
+      "title": "Prefetch",
+      "shortname": "prefetch",
+      "date": "8 June 2022",
+      "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+      "nightly": {
+        "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+        "repository": "https://github.com/WICG/nav-speculation",
+        "sourcePath": "prefetch.bs",
+        "filename": "prefetch.html"
+      },
+      "crawled": "https://wicg.github.io/nav-speculation/prefetch.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/webappsec-referrer-policy/",
+            "ref": {
+              "name": "REFERRER-POLICY",
+              "url": "https://www.w3.org/TR/referrer-policy/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/webappsec-csp/",
+            "ref": {
+              "name": "CSP",
+              "url": "https://www.w3.org/TR/CSP3/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/webappsec-secure-contexts/",
+            "ref": {
+              "name": "SECURE-CONTEXTS",
+              "url": "https://www.w3.org/TR/secure-contexts/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://fetch.spec.whatwg.org/#network-partition-key"
+          ],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#sandboxing-flag-set",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#navigation-id",
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#policy-container",
+            "https://html.spec.whatwg.org/#concept-origin",
+            "https://html.spec.whatwg.org/#history-handling-behavior",
+            "https://html.spec.whatwg.org/#active-document",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#coop-enforcement-result",
+            "https://html.spec.whatwg.org/#coop-enforcement-bcg-switch",
+            "https://html.spec.whatwg.org/#coop-enforcement-bcg-switch-report-only",
+            "https://html.spec.whatwg.org/#coop-enforcement-url",
+            "https://html.spec.whatwg.org/#coop-enforcement-origin",
+            "https://html.spec.whatwg.org/#coop-enforcement-coop",
+            "https://html.spec.whatwg.org/#concept-document-coop",
+            "https://html.spec.whatwg.org/#coop-enforcement-source",
+            "https://html.spec.whatwg.org/#concept-bc-sandboxing-flags",
+            "https://html.spec.whatwg.org/#forced-sandboxing-flag-set",
+            "https://html.spec.whatwg.org/#determining-the-origin",
+            "https://html.spec.whatwg.org/#concept-environment-creation-url",
+            "https://html.spec.whatwg.org/#environment-discarding-steps",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#bc-container",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#concept-environment-top-level-creation-url",
+            "https://html.spec.whatwg.org/#concept-environment-top-level-origin",
+            "https://html.spec.whatwg.org/#environment",
+            "https://html.spec.whatwg.org/#concept-environment-id",
+            "https://html.spec.whatwg.org/#concept-environment-target-browsing-context",
+            "https://html.spec.whatwg.org/#obtain-coop",
+            "https://html.spec.whatwg.org/#coop-struct-value",
+            "https://html.spec.whatwg.org/#coop-enforce",
+            "https://html.spec.whatwg.org/#creating-a-policy-container-from-a-fetch-response",
+            "https://html.spec.whatwg.org/#determining-navigation-params-policy-container",
+            "https://html.spec.whatwg.org/#navigation-pparams",
+            "https://html.spec.whatwg.org/#navigation-params-id",
+            "https://html.spec.whatwg.org/#navigation-params-request",
+            "https://html.spec.whatwg.org/#navigation-params-response",
+            "https://html.spec.whatwg.org/#navigation-params-origin",
+            "https://html.spec.whatwg.org/#navigation-params-policy-container",
+            "https://html.spec.whatwg.org/#navigation-params-sandboxing",
+            "https://html.spec.whatwg.org/#navigation-params-coop",
+            "https://html.spec.whatwg.org/#navigation-params-coop-enforcement-result",
+            "https://html.spec.whatwg.org/#navigation-params-reserved-environment",
+            "https://html.spec.whatwg.org/#navigation-params-browsing-context",
+            "https://html.spec.whatwg.org/#navigation-params-hh",
+            "https://html.spec.whatwg.org/#navigation-params-has-cross-origin-redirects",
+            "https://html.spec.whatwg.org/#process-a-navigate-fetch",
+            "https://html.spec.whatwg.org/#concept-environment-active-service-worker",
+            "https://html.spec.whatwg.org/#concept-task",
+            "https://html.spec.whatwg.org/#networking-task-source",
+            "https://html.spec.whatwg.org/#child-browsing-context",
+            "https://html.spec.whatwg.org/#bc-container-document",
+            "https://html.spec.whatwg.org/#parent-browsing-context",
+            "https://html.spec.whatwg.org/#browsing-context-scope-origin",
+            "https://html.spec.whatwg.org/#dom-document-cookie",
+            "https://html.spec.whatwg.org/#process-a-navigate-response",
+            "https://html.spec.whatwg.org/#process-a-navigate-url-scheme",
+            "https://html.spec.whatwg.org/#concept-document-bc",
+            "https://html.spec.whatwg.org/#determining-the-creation-sandboxing-flags",
+            "https://html.spec.whatwg.org/#concept-origin-opaque",
+            "https://html.spec.whatwg.org/#obtain-a-site",
+            "https://html.spec.whatwg.org/#concept-origin-tuple",
+            "https://html.spec.whatwg.org/#nested-browsing-context"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Prerendering Revamped",
+      "shortname": "prerendering-revamped",
+      "date": "8 June 2022",
+      "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+      "nightly": {
+        "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+        "repository": "https://github.com/WICG/nav-speculation",
+        "sourcePath": "prerendering.bs",
+        "filename": "prerendering.html"
+      },
+      "crawled": "https://wicg.github.io/nav-speculation/prerendering.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "hasObsoleteIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/battery/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/webappsec-referrer-policy/",
+            "ref": {
+              "name": "REFERRER-POLICY",
+              "url": "https://www.w3.org/TR/referrer-policy/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/webappsec-csp/",
+            "ref": {
+              "name": "CSP3",
+              "url": "https://www.w3.org/TR/CSP3/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/navigation-timing/",
+            "ref": {
+              "name": "NAVIGATION-TIMING",
+              "url": "https://www.w3.org/TR/navigation-timing/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/ServiceWorker/",
+            "ref": {
+              "name": "SERVICE-WORKERS-1",
+              "url": "https://www.w3.org/TR/service-workers-1/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/geolocation-api/",
+            "ref": {
+              "name": "GEOLOCATION",
+              "url": "https://www.w3.org/TR/geolocation/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/sensors/",
+            "ref": {
+              "name": "GENERIC-SENSOR",
+              "url": "https://www.w3.org/TR/generic-sensor/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/screen-orientation/",
+            "ref": {
+              "name": "SCREEN-ORIENTATION",
+              "url": "https://www.w3.org/TR/screen-orientation/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/gamepad/",
+            "ref": {
+              "name": "GAMEPAD",
+              "url": "https://www.w3.org/TR/gamepad/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/encrypted-media/",
+            "ref": {
+              "name": "ENCRYPTED-MEDIA",
+              "url": "https://www.w3.org/TR/encrypted-media/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/mediacapture-main/",
+            "ref": {
+              "name": "MEDIACAPTURE-STREAMS",
+              "url": "https://www.w3.org/TR/mediacapture-streams/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/mediacapture-output/",
+            "ref": {
+              "name": "AUDIO-OUTPUT",
+              "url": "https://www.w3.org/TR/audio-output/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/push-api/",
+            "ref": {
+              "name": "PUSH-API",
+              "url": "https://www.w3.org/TR/push-api/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/mediacapture-screen-share/",
+            "ref": {
+              "name": "SCREEN-CAPTURE",
+              "url": "https://www.w3.org/TR/screen-capture/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/webappsec-credential-management/",
+            "ref": {
+              "name": "CREDENTIAL-MANAGEMENT-1",
+              "url": "https://www.w3.org/TR/credential-management-1/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/presentation-api/",
+            "ref": {
+              "name": "PRESENTATION-API",
+              "url": "https://www.w3.org/TR/presentation-api/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/pointerlock/",
+            "ref": {
+              "name": "POINTERLOCK",
+              "url": "https://www.w3.org/TR/pointerlock/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/clipboard-apis/",
+            "ref": {
+              "name": "CLIPBOARD-APIS",
+              "url": "https://www.w3.org/TR/clipboard-apis/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/screen-wake-lock/",
+            "ref": {
+              "name": "SCREEN-WAKE-LOCK",
+              "url": "https://www.w3.org/TR/screen-wake-lock/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/picture-in-picture/",
+            "ref": {
+              "name": "PICTURE-IN-PICTURE",
+              "url": "https://www.w3.org/TR/picture-in-picture/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://w3c.github.io/navigation-timing/#dfn-current-document",
+            "https://notifications.spec.whatwg.org/#get-the-notifications-permission-state",
+            "https://w3c.github.io/screen-orientation/#dfn-apply-an-orientation-lock",
+            "https://w3c.github.io/screen-orientation/#dfn-pre-lock-conditions",
+            "https://w3c.github.io/mediacapture-main/#dfn-device-change-notification-steps",
+            "https://w3c.github.io/picture-in-picture/#request-picture-in-picture-algorithm"
+          ],
+          "notDfn": [
+            "https://w3c.github.io/encrypted-media/#requestMediaKeySystemAccess"
+          ],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#linkTypes",
+            "https://html.spec.whatwg.org/#the-link-element",
+            "https://html.spec.whatwg.org/#external-resource-link",
+            "https://html.spec.whatwg.org/#body-ok",
+            "https://html.spec.whatwg.org/#fetch-and-process-the-linked-resource",
+            "https://html.spec.whatwg.org/#browsing-context-connected",
+            "https://html.spec.whatwg.org/#becomes-browsing-context-connected",
+            "https://html.spec.whatwg.org/#attr-link-href",
+            "https://html.spec.whatwg.org/#attr-link-referrerpolicy",
+            "https://html.spec.whatwg.org/#parse-a-url",
+            "https://html.spec.whatwg.org/#resulting-url-record",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#delay-the-load-event",
+            "https://html.spec.whatwg.org/#event-error",
+            "https://html.spec.whatwg.org/#event-load",
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#event-handler-idl-attributes",
+            "https://html.spec.whatwg.org/#event-handler-event-type",
+            "https://html.spec.whatwg.org/#handler-onreadystatechange",
+            "https://html.spec.whatwg.org/#windows",
+            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#concept-document-bc",
+            "https://html.spec.whatwg.org/#session-history",
+            "https://html.spec.whatwg.org/#navigate",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#window",
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://html.spec.whatwg.org/#prompt-to-unload-a-document",
+            "https://html.spec.whatwg.org/#active-document",
+            "https://html.spec.whatwg.org/#creating-a-new-top-level-browsing-context",
+            "https://html.spec.whatwg.org/#a-browsing-context-is-discarded",
+            "https://html.spec.whatwg.org/#source-browsing-context",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#history-handling-behavior",
+            "https://html.spec.whatwg.org/#concept-navigate-mature",
+            "https://html.spec.whatwg.org/#initialise-the-document-object",
+            "https://html.spec.whatwg.org/#abort-a-document",
+            "https://html.spec.whatwg.org/#refused-to-allow-the-document-to-be-unloaded",
+            "https://html.spec.whatwg.org/#cross-origin-opener-policy-2",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#concept-origin",
+            "https://html.spec.whatwg.org/#list-of-the-descendant-browsing-contexts",
+            "https://html.spec.whatwg.org/#queue-a-global-task",
+            "https://html.spec.whatwg.org/#networking-task-source",
+            "https://html.spec.whatwg.org/#active-window",
+            "https://html.spec.whatwg.org/#event-loop",
+            "https://html.spec.whatwg.org/#bcg-remove",
+            "https://html.spec.whatwg.org/#nested-browsing-context",
+            "https://html.spec.whatwg.org/#creating-a-new-nested-browsing-context",
+            "https://html.spec.whatwg.org/#process-a-navigate-fetch",
+            "https://html.spec.whatwg.org/#bc-container",
+            "https://html.spec.whatwg.org/#traverse-the-history",
+            "https://html.spec.whatwg.org/#she-document",
+            "https://html.spec.whatwg.org/#url-and-history-update-steps",
+            "https://html.spec.whatwg.org/#process-a-navigate-response",
+            "https://html.spec.whatwg.org/#navigation-params-request",
+            "https://html.spec.whatwg.org/#environment-discarding-steps",
+            "https://html.spec.whatwg.org/#navigation-params-reserved-environment",
+            "https://html.spec.whatwg.org/#process-a-navigate-url-scheme",
+            "https://html.spec.whatwg.org/#the-worker's-lifetime",
+            "https://html.spec.whatwg.org/#active-needed-worker",
+            "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#discard-a-document",
+            "https://html.spec.whatwg.org/#visibility-state",
+            "https://html.spec.whatwg.org/#tlbc-system-focus",
+            "https://html.spec.whatwg.org/#script-closable",
+            "https://html.spec.whatwg.org/#auxiliary-browsing-context",
+            "https://html.spec.whatwg.org/#downloading-hyperlinks",
+            "https://html.spec.whatwg.org/#cannot-show-simple-dialogs",
+            "https://html.spec.whatwg.org/#window-bc",
+            "https://html.spec.whatwg.org/#dom-print",
+            "https://html.spec.whatwg.org/#event-loop-for-spec-authors",
+            "https://html.spec.whatwg.org/#concept-relevant-realm",
+            "https://html.spec.whatwg.org/#concept-realm-global",
+            "https://html.spec.whatwg.org/#dom-broadcastchannel-postmessage",
+            "https://html.spec.whatwg.org/#dedicatedworkerglobalscope",
+            "https://html.spec.whatwg.org/#current-global-object",
+            "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#active-sandboxing-flag-set",
+            "https://html.spec.whatwg.org/#sandboxed-orientation-lock-browsing-context-flag",
+            "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
+            "https://html.spec.whatwg.org/#secure-context",
+            "https://html.spec.whatwg.org/#playing-the-media-resource",
+            "https://html.spec.whatwg.org/#current-playback-position",
+            "https://html.spec.whatwg.org/#htmlmediaelement",
+            "https://html.spec.whatwg.org/#sticky-activation",
+            "https://html.spec.whatwg.org/#dom-open",
+            "https://html.spec.whatwg.org/#event-beforeunload",
+            "https://w3c.github.io/geolocation-api/#dfn-watch-process",
+            "https://wicg.github.io/serial/#dom-serial-requestPort",
+            "https://w3c.github.io/battery/#dfn-battery-promise",
+            "https://w3c.github.io/pointerlock/#dfn-requestpointerlock-pointerlockoptions-options"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Presentation API",
       "shortname": "presentation-api",
       "date": "02 June 2022",
@@ -44976,6 +45584,11 @@
               "url": "https://www.w3.org/TR/openscreenprotocol/",
               "title": "Open Screen Protocol",
               "crawled": "https://w3c.github.io/openscreenprotocol/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/remote-playback/",
@@ -45562,6 +46175,11 @@
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": [
@@ -45773,6 +46391,16 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-hints/",
               "title": "Resource Hints",
               "crawled": "https://w3c.github.io/resource-hints/"
@@ -45781,6 +46409,11 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             }
           ],
           "informative": []
@@ -46546,7 +47179,13 @@
               "crawled": "https://w3c.github.io/navigation-timing/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -46784,7 +47423,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -46864,7 +47503,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -46958,6 +47597,11 @@
               "url": "https://www.w3.org/TR/mediacapture-streams/",
               "title": "Media Capture and Streams",
               "crawled": "https://w3c.github.io/mediacapture-main/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
             },
             {
               "url": "https://www.w3.org/TR/presentation-api/",
@@ -47091,7 +47735,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47200,7 +47844,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47284,7 +47928,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -48067,7 +48711,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -48105,7 +48749,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48298,7 +48942,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -48617,7 +49261,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "7 July 2022",
+      "date": "8 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50057,6 +50701,11 @@
               "crawled": "https://wicg.github.io/prefer-current-tab/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-region/",
               "title": "Region Capture",
               "crawled": "https://w3c.github.io/mediacapture-region/"
@@ -50143,7 +50792,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -50452,6 +51107,11 @@
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
             },
             {
               "url": "https://www.w3.org/TR/presentation-api/",
@@ -51397,6 +52057,11 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -51710,6 +52375,84 @@
       }
     },
     {
+      "title": "Speculation Rules",
+      "shortname": "speculation-rules",
+      "date": "8 June 2022",
+      "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+      "nightly": {
+        "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+        "repository": "https://github.com/WICG/nav-speculation",
+        "sourcePath": "speculation-rules.bs",
+        "filename": "speculation-rules.html"
+      },
+      "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/webappsec-referrer-policy/",
+            "ref": {
+              "name": "REFERRER-POLICY",
+              "url": "https://www.w3.org/TR/referrer-policy/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#script",
+            "https://html.spec.whatwg.org/#concept-script-type",
+            "https://html.spec.whatwg.org/#concept-script-result",
+            "https://html.spec.whatwg.org/#prepare-the-script-element",
+            "https://html.spec.whatwg.org/#execute-the-script-element",
+            "https://html.spec.whatwg.org/#dom-script-src",
+            "https://html.spec.whatwg.org/#event-error",
+            "https://html.spec.whatwg.org/#event-load",
+            "https://html.spec.whatwg.org/#dom-script-supports",
+            "https://html.spec.whatwg.org/#html-element-removing-steps",
+            "https://html.spec.whatwg.org/#already-started",
+            "https://html.spec.whatwg.org/#document-base-url",
+            "https://html.spec.whatwg.org/#mark-as-ready",
+            "https://html.spec.whatwg.org/#queue-a-global-task",
+            "https://html.spec.whatwg.org/#dom-manipulation-task-source",
+            "https://html.spec.whatwg.org/#concept-relevant-global",
+            "https://html.spec.whatwg.org/#await-a-stable-state",
+            "https://html.spec.whatwg.org/#synchronous-section",
+            "https://html.spec.whatwg.org/#fully-active",
+            "https://html.spec.whatwg.org/#in-parallel",
+            "https://html.spec.whatwg.org/#same-origin"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Storage Standard",
       "shortname": "storage",
       "date": "4 March 2022",
@@ -51764,6 +52507,11 @@
               "url": "https://www.w3.org/TR/IndexedDB-3/",
               "title": "Indexed Database API 3.0",
               "crawled": "https://w3c.github.io/IndexedDB/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/service-workers-1/",
@@ -52897,6 +53645,11 @@
               "url": "https://www.w3.org/TR/miniapp-manifest/",
               "title": "MiniApp Manifest",
               "crawled": "https://w3c.github.io/miniapp-manifest/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -54148,6 +54901,16 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -54206,6 +54969,11 @@
               "url": "https://www.w3.org/TR/service-workers-1/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             },
             {
               "url": "https://storage.spec.whatwg.org/",
@@ -56069,7 +56837,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/secure-contexts/",
@@ -56874,6 +57648,11 @@
               "crawled": "https://wicg.github.io/prefer-current-tab/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -57461,7 +58240,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -57587,7 +58372,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -57811,6 +58602,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://w3c.github.io/web-share-target/",
               "title": "Web Share Target API",
               "crawled": "https://w3c.github.io/web-share-target/"
@@ -57949,7 +58745,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/autoplay-detection/",
@@ -58909,7 +59711,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/",
@@ -59021,7 +59823,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/",
@@ -59101,7 +59903,7 @@
     {
       "title": "WebGL EXT_clip_cull_distance Extension Draft Specification",
       "shortname": "EXT_clip_cull_distance",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/",
@@ -59298,7 +60100,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/",
@@ -59352,7 +60154,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/",
@@ -59458,7 +60260,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/",
@@ -59734,7 +60536,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -59866,7 +60668,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/",
@@ -59920,7 +60722,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/",
@@ -59974,7 +60776,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/",
@@ -60028,7 +60830,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/",
@@ -60134,7 +60936,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/",
@@ -60240,7 +61042,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -60346,7 +61148,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -60426,7 +61228,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/",
@@ -60584,7 +61386,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/",
@@ -60651,7 +61453,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/",
@@ -60800,7 +61602,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/",
@@ -60854,7 +61656,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/",
@@ -60908,7 +61710,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/",
@@ -60975,7 +61777,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float/",
@@ -61029,7 +61831,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/",
@@ -61083,7 +61885,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/",
@@ -61150,7 +61952,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/",
@@ -61204,7 +62006,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/",
@@ -61338,7 +62140,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/",
@@ -61560,7 +62362,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -61809,7 +62611,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/",
@@ -61902,7 +62704,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -62333,7 +63135,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -62517,7 +63319,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -62584,7 +63386,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -62690,7 +63492,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -62796,7 +63598,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -62902,7 +63704,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -62982,7 +63784,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/",
@@ -63051,7 +63853,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/",
@@ -63118,7 +63920,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/",
@@ -63629,7 +64431,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -63715,7 +64517,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/",
@@ -63795,7 +64597,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/",
@@ -63907,7 +64709,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "2 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -64991,7 +65793,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://wicg.github.io/serial/",
@@ -65469,6 +66277,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
             {
               "url": "https://immersive-web.github.io/anchors/",
               "title": "WebXR Anchors Module",
