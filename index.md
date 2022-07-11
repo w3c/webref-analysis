@@ -646,7 +646,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 10 July 2022
+- Crawled version: 11 July 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -18947,7 +18947,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Crawled URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
-- Crawled version: 8 July 2022
+- Crawled version: 11 July 2022
 - Editor's Draft: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Shortname: sanitizer-api
 
@@ -18973,6 +18973,7 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#htmlformelement`](https://html.spec.whatwg.org/#htmlformelement)
      * [`https://html.spec.whatwg.org/#htmlinputelement`](https://html.spec.whatwg.org/#htmlinputelement)
      * [`https://html.spec.whatwg.org/#htmlbuttonelement`](https://html.spec.whatwg.org/#htmlbuttonelement)
+     * [`https://html.spec.whatwg.org/#foreign-elements`](https://html.spec.whatwg.org/#foreign-elements)
      * [`https://html.spec.whatwg.org/#valid-custom-element-name`](https://html.spec.whatwg.org/#valid-custom-element-name)
      * [`https://html.spec.whatwg.org/#htmlunknownelement`](https://html.spec.whatwg.org/#htmlunknownelement)
      * [`https://html.spec.whatwg.org/#htmlscriptelement`](https://html.spec.whatwg.org/#htmlscriptelement)
@@ -19362,7 +19363,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 1 July 2022
+- Crawled version: 11 July 2022
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 

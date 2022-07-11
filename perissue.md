@@ -6224,6 +6224,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#htmlformelement`](https://html.spec.whatwg.org/#htmlformelement)
      * [`https://html.spec.whatwg.org/#htmlinputelement`](https://html.spec.whatwg.org/#htmlinputelement)
      * [`https://html.spec.whatwg.org/#htmlbuttonelement`](https://html.spec.whatwg.org/#htmlbuttonelement)
+     * [`https://html.spec.whatwg.org/#foreign-elements`](https://html.spec.whatwg.org/#foreign-elements)
      * [`https://html.spec.whatwg.org/#valid-custom-element-name`](https://html.spec.whatwg.org/#valid-custom-element-name)
      * [`https://html.spec.whatwg.org/#htmlunknownelement`](https://html.spec.whatwg.org/#htmlunknownelement)
      * [`https://html.spec.whatwg.org/#htmlscriptelement`](https://html.spec.whatwg.org/#htmlscriptelement)
@@ -9473,7 +9474,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5017 problematic external links found in 305 specifications
+=> 5018 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
