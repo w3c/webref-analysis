@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-15T06:38:40.324Z",
+  "date": "2022-07-15T12:46:11.742Z",
   "stats": {
     "crawled": 472,
-    "errors": 5,
+    "errors": 3,
     "studied": 472
   },
   "results": [
@@ -4786,7 +4786,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5012,6 +5011,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 243)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5217,7 +5217,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "11 February 2022",
+      "date": "14 July 2022",
       "url": "https://drafts.csswg.org/css-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-animations-2/",
@@ -5234,7 +5234,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 6)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5299,6 +5298,7 @@
             "https://drafts.csswg.org/web-animations-1/#start-delay",
             "https://drafts.csswg.org/web-animations-1/#fill-mode",
             "https://drafts.csswg.org/web-animations-1/#composite-operation",
+            "https://drafts.csswg.org/web-animations-1/#animation-playback-events",
             "https://drafts.csswg.org/web-animations-1/#unresolved",
             "https://drafts.csswg.org/web-animations-1/#active-duration",
             "https://drafts.csswg.org/web-animations-1/#current-iteration",
@@ -18992,7 +18992,7 @@
     {
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
-      "date": "11 February 2022",
+      "date": "14 July 2022",
       "url": "https://drafts.csswg.org/css-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
@@ -19009,7 +19009,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 17)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19049,6 +19048,7 @@
             "https://drafts.csswg.org/web-animations-1/#cancel-an-animation",
             "https://drafts.csswg.org/web-animations-1/#animation-class",
             "https://drafts.csswg.org/web-animations-1/#idle-play-state",
+            "https://drafts.csswg.org/web-animations-1/#animation-playback-events",
             "https://drafts.csswg.org/web-animations-1/#unresolved",
             "https://drafts.csswg.org/web-animations-1/#pending-play-task",
             "https://drafts.csswg.org/web-animations-1/#pending-pause-task",
