@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-15T12:46:11.742Z",
+  "date": "2022-07-15T18:40:55.189Z",
   "stats": {
     "crawled": 472,
-    "errors": 3,
+    "errors": 2,
     "studied": 472
   },
   "results": [
@@ -1975,7 +1975,7 @@
     {
       "title": "Change Array by copy",
       "shortname": "tc39-change-array-by-copy",
-      "date": "30 June 2022",
+      "date": "15 July 2022",
       "url": "https://tc39.es/proposal-change-array-by-copy/",
       "nightly": {
         "url": "https://tc39.es/proposal-change-array-by-copy/",
@@ -4834,6 +4834,201 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds and Borders Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-4/",
+              "title": "CSS Box Model Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-box-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-adjust-1/",
+              "title": "CSS Color Adjustment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-3/",
+              "title": "CSS Conditional Rules Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-counter-styles-3/",
+              "title": "CSS Counter Styles Level 3",
+              "crawled": "https://drafts.csswg.org/css-counter-styles/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "title": "CSS Device Adaptation Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-device-adapt/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css3-exclusions/",
+              "title": "CSS Exclusions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-exclusions/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-flexbox-1/",
+              "title": "CSS Flexible Box Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-flexbox-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-5/",
+              "title": "CSS Fonts Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-fonts-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-4/",
+              "title": "CSS Fragmentation Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-break-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-gcpm-3/",
+              "title": "CSS Generated Content for Paged Media Module",
+              "crawled": "https://drafts.csswg.org/css-gcpm/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-gcpm-4/",
+              "title": "CSS Generated Content for Paged Media Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-gcpm-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-content-3/",
+              "title": "CSS Generated Content Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-content-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-grid-3/",
+              "title": "CSS Grid Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-grid-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "CSS Images Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-line-grid-1/",
+              "title": "CSS Line Grid Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-line-grid/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-lists-3/",
+              "title": "CSS Lists and Counters Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-logical-1/",
+              "title": "CSS Logical Properties and Values Level 1",
+              "crawled": "https://drafts.csswg.org/css-logical-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-namespaces-3/",
+              "title": "CSS Namespaces Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-namespaces/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overscroll-1/",
+              "title": "CSS Overscroll Behavior Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-overscroll-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-page-floats-3/",
+              "title": "CSS Page Floats",
+              "crawled": "https://drafts.csswg.org/css-page-floats/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-page-3/",
+              "title": "CSS Paged Media Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-page-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-position-3/",
+              "title": "CSS Positioned Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-position/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nav-1/",
+              "title": "CSS Spatial Navigation Level 1",
+              "crawled": "https://drafts.csswg.org/css-nav-1/"
+            },
+            {
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
@@ -5011,7 +5206,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 243)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5034,10 +5228,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -6027,10 +6228,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-sizing-3/",
+            "ref": {
+              "name": "CSS-SIZING-3",
+              "url": "https://drafts.csswg.org/css-sizing-3/"
             }
           }
         ],
@@ -6178,9 +6393,9 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css2/#line-box",
+            "https://drafts.csswg.org/css-writing-modes-3/#dominant-baseline",
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/css-grid-1/#collapsed-gutter",
-            "https://drafts.csswg.org/css-writing-modes-3/#dominant-baseline"
+            "https://drafts.csswg.org/css-grid-1/#collapsed-gutter"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -6241,10 +6456,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -6363,10 +6585,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -7076,6 +7305,7 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/css-writing-modes-3/",
           "https://www.w3.org/TR/selectors/"
         ],
         "inconsistentRef": [
@@ -7083,7 +7313,14 @@
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-style-attr/",
+            "ref": {
+              "name": "CSSSTYLEATTR",
+              "url": "https://drafts.csswg.org/css-style-attr/"
             }
           }
         ],
@@ -7206,16 +7443,52 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/css-writing-modes-3/",
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/",
           "https://www.w3.org/TR/css-cascade-3/"
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-conditional-3/",
+            "ref": {
+              "name": "CSS-CONDITIONAL-3",
+              "url": "https://drafts.csswg.org/css-conditional-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/mediaqueries-4/",
+            "ref": {
+              "name": "MEDIAQ",
+              "url": "https://drafts.csswg.org/mediaqueries-4/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/selectors-4/",
+            "ref": {
+              "name": "SELECTORS-4",
+              "url": "https://drafts.csswg.org/selectors/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-scoping-1/",
+            "ref": {
+              "name": "CSS-SCOPING-1",
+              "url": "https://drafts.csswg.org/css-scoping/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-style-attr/",
+            "ref": {
+              "name": "CSSSTYLEATTR",
+              "url": "https://drafts.csswg.org/css-style-attr/"
             }
           }
         ],
@@ -7361,15 +7634,51 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/css-writing-modes-3/",
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/css-cascade-3/"
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-conditional-3/",
+            "ref": {
+              "name": "CSS-CONDITIONAL-3",
+              "url": "https://drafts.csswg.org/css-conditional-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/mediaqueries-4/",
+            "ref": {
+              "name": "MEDIAQ",
+              "url": "https://drafts.csswg.org/mediaqueries-4/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/selectors-4/",
+            "ref": {
+              "name": "SELECTORS-4",
+              "url": "https://drafts.csswg.org/selectors/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-style-attr/",
+            "ref": {
+              "name": "CSS-STYLE-ATTR",
+              "url": "https://drafts.csswg.org/css-style-attr/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-cascade-4/",
+            "ref": {
+              "name": "CSS-CASCADE-4",
+              "url": "https://drafts.csswg.org/css-cascade-4/"
             }
           }
         ],
@@ -7806,7 +8115,22 @@
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/css-cascade-3/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-style-attr/",
+            "ref": {
+              "name": "CSSSTYLEATTR",
+              "url": "https://drafts.csswg.org/css-style-attr/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/selectors-4/",
+            "ref": {
+              "name": "SELECTORS-4",
+              "url": "https://drafts.csswg.org/selectors/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -7922,10 +8246,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -7958,7 +8289,6 @@
           "notExported": [
             "https://drafts.csswg.org/css-color-4/#css-system-colors",
             "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://www.w3.org/TR/css-color-4/#css-system-colors",
             "https://drafts.csswg.org/css2/#canvas"
           ],
           "notDfn": [],
@@ -8023,10 +8353,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/compositing-1/",
+            "ref": {
+              "name": "Compositing",
+              "url": "https://drafts.fxtf.org/compositing-1/"
             }
           }
         ],
@@ -8309,7 +8653,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "28 June 2022",
+      "date": "15 July 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8416,7 +8760,7 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/cssom-1/#concept-css-rule-parent-css-style-sheet"
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
           ],
           "notDfn": [],
           "brokenLinks": [],
@@ -8647,7 +8991,15 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-conditional-3/",
+            "ref": {
+              "name": "CSS-CONDITIONAL-3",
+              "url": "https://drafts.csswg.org/css-conditional-3/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -8658,7 +9010,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -8775,21 +9127,22 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
-          "https://www.w3.org/TR/security-privacy-questionnaire/"
+          "https://www.w3.org/TR/security-privacy-questionnaire/",
+          "https://www.w3.org/TR/css-contain-1/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/IntersectionObserver/",
-            "ref": {
-              "name": "INTERSECTION-OBSERVER",
-              "url": "https://www.w3.org/TR/intersection-observer/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -8956,10 +9309,17 @@
             }
           },
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -9022,7 +9382,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/predefined-counter-styles/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -9529,10 +9891,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-speech-1/",
+            "ref": {
+              "name": "CSS-SPEECH-1",
+              "url": "https://drafts.csswg.org/css-speech-1/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -9999,13 +10375,31 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css3-transitions/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds and Borders Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
@@ -10118,10 +10512,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -10356,10 +10757,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -10646,10 +11054,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           },
           {
@@ -10658,62 +11073,10 @@
               "name": "PFE-report",
               "url": "https://www.w3.org/TR/PFE-evaluation/"
             }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
-            "ref": {
-              "name": "CSS-FONTS-3",
-              "url": "https://www.w3.org/TR/css-fonts-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/",
-            "ref": {
-              "name": "CSS-FONTS-3",
-              "url": "https://www.w3.org/TR/css-fonts-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/",
-            "ref": {
-              "name": "CSS-FONTS-3",
-              "url": "https://www.w3.org/TR/css-fonts-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/",
-            "ref": {
-              "name": "CSS-FONTS-3",
-              "url": "https://www.w3.org/TR/css-fonts-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
-            "ref": {
-              "name": "CSS-FONTS-3",
-              "url": "https://www.w3.org/TR/css-fonts-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
-            "ref": {
-              "name": "CSS-FONTS-3",
-              "url": "https://www.w3.org/TR/css-fonts-3/"
-            }
           }
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-align-3/",
-              "title": "CSS Box Alignment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-align/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-cascade-4/",
               "title": "CSS Cascading and Inheritance Level 4",
@@ -10738,11 +11101,6 @@
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -10887,11 +11245,6 @@
               "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
-              "url": "https://www.w3.org/TR/css-lists-3/",
-              "title": "CSS Lists and Counters Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-lists-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -10993,10 +11346,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -11141,6 +11501,7 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/css-grid-1/",
           "https://www.w3.org/TR/2011/REC-CSS2-20110607/",
           "https://www.w3.org/TR/css3-writing-modes/",
           "https://www.w3.org/TR/css-pseudo/",
@@ -11149,10 +11510,31 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-multicol-1/",
+            "ref": {
+              "name": "CSS3COL",
+              "url": "https://drafts.csswg.org/css-multicol/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-flexbox-1/",
+            "ref": {
+              "name": "CSS-FLEXBOX-1",
+              "url": "https://drafts.csswg.org/css-flexbox-1/"
             }
           }
         ],
@@ -11372,15 +11754,44 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/css-grid-1/",
           "https://www.w3.org/TR/2011/REC-CSS2-20110607/",
           "https://www.w3.org/TR/css-pseudo/"
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-multicol-1/",
+            "ref": {
+              "name": "CSS-MULTICOL-1",
+              "url": "https://drafts.csswg.org/css-multicol/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-page-3/",
+            "ref": {
+              "name": "CSS-PAGE-3",
+              "url": "https://drafts.csswg.org/css-page-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-flexbox-1/",
+            "ref": {
+              "name": "CSS-FLEXBOX-1",
+              "url": "https://drafts.csswg.org/css-flexbox-1/"
             }
           }
         ],
@@ -11593,27 +12004,34 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/dpub-pagination/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
           "https://www.w3.org/TR/css3-selectors/",
+          "https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/",
           "https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/",
           "https://books.spec.whatwg.org/"
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-values/",
+            "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           },
           {
-            "link": "https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/",
+            "link": "https://www.w3.org/TR/css-values/",
             "ref": {
-              "name": "DPUB-LATINREQ",
-              "url": "https://www.w3.org/TR/dpub-latinreq/"
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-content-3/",
+            "ref": {
+              "name": "CSS3-CONTENT",
+              "url": "https://drafts.csswg.org/css-content-3/"
             }
           }
         ],
@@ -11700,10 +12118,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -11773,10 +12198,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -11909,10 +12341,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-break-3/",
+            "ref": {
+              "name": "CSS3-BREAK",
+              "url": "https://drafts.csswg.org/css-break/"
             }
           }
         ],
@@ -12074,10 +12520,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-grid-2/",
+            "ref": {
+              "name": "CSS-GRID-2",
+              "url": "https://drafts.csswg.org/css-grid-2/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -12290,6 +12750,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -12369,10 +12834,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/svg-integration/",
+            "ref": {
+              "name": "SVG-INTEGRATION",
+              "url": "https://svgwg.org/specs/integration/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -12513,17 +12992,26 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-text/",
+          "https://www.w3.org/TR/css-writing-modes-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/ilreq/",
           "https://html.spec.whatwg.org/"
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -12807,10 +13295,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -12900,10 +13395,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -13000,6 +13502,11 @@
               "url": "https://www.w3.org/TR/css-gcpm-3/",
               "title": "CSS Generated Content for Paged Media Module",
               "crawled": "https://drafts.csswg.org/css-gcpm/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-content-3/",
+              "title": "CSS Generated Content Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-content-3/"
             }
           ]
         },
@@ -13059,16 +13566,24 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-writing-modes/",
+          "https://www.w3.org/TR/css-writing-modes-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -13462,10 +13977,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-break-3/",
+            "ref": {
+              "name": "CSS3-BREAK",
+              "url": "https://drafts.csswg.org/css-break/"
             }
           }
         ],
@@ -14127,6 +14656,21 @@
               "crawled": "https://drafts.csswg.org/css-align/"
             },
             {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-easing-1/",
               "title": "CSS Easing Functions Level 2",
               "crawled": "https://drafts.csswg.org/css-easing/"
@@ -14225,6 +14769,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css-backgrounds/",
           "https://www.w3.org/TR/css-text-decor-3/",
+          "https://www.w3.org/TR/css-ui-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/",
@@ -14232,10 +14777,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-text-3/",
+            "ref": {
+              "name": "CSS-TEXT-3",
+              "url": "https://drafts.csswg.org/css-text-3/"
             }
           }
         ],
@@ -14526,10 +15085,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -14628,10 +15194,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -14694,10 +15267,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -14795,17 +15375,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css3-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           },
           {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -15138,10 +15725,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-flexbox-1/",
+            "ref": {
+              "name": "CSS-FLEXBOX-1",
+              "url": "https://drafts.csswg.org/css-flexbox-1/"
             }
           }
         ],
@@ -16917,17 +17518,24 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/uievents/",
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/uievents/",
             "ref": {
               "name": "UIEVENTS",
-              "url": "https://www.w3.org/TR/uievents/"
+              "url": "https://w3c.github.io/uievents/"
             }
           },
           {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -18124,6 +18732,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-3/",
@@ -45004,8 +45617,20 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
-          "informative": []
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
