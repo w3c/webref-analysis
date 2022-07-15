@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-11T12:46:44.727Z",
+  "date": "2022-07-15T00:56:11.592Z",
   "stats": {
-    "crawled": 471,
-    "errors": 1,
-    "studied": 471
+    "crawled": 472,
+    "errors": 2,
+    "studied": 472
   },
   "results": [
     {
@@ -842,7 +842,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "31 May 2022",
+      "date": "13 July 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -3600,7 +3600,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "11 July 2022",
+      "date": "14 July 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4308,6 +4308,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
@@ -5083,6 +5088,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom/"
@@ -5664,6 +5674,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-round-display-1/",
               "title": "CSS Round Display Level 1",
               "crawled": "https://drafts.csswg.org/css-round-display/"
@@ -5794,7 +5809,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "4 May 2022",
+      "date": "14 July 2022",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -6381,6 +6396,11 @@
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-contain-3/"
@@ -6551,6 +6571,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://drafts.csswg.org/css-grid-3/",
@@ -7242,6 +7267,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -7437,6 +7467,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
@@ -7813,6 +7848,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -8213,6 +8253,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -8471,6 +8516,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Device Adaptation Module Level 1",
               "crawled": "https://drafts.csswg.org/css-device-adapt/"
@@ -8687,7 +8737,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "18 April 2022",
+      "date": "15 June 2022",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -9249,6 +9299,69 @@
               "crawled": "https://drafts.csswg.org/css-syntax/"
             }
           ]
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/css-cascade/#applies-to",
+            "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag"
+          ],
+          "notDfn": [],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+      "shortname": "css-variables-2",
+      "date": "29 June 2022",
+      "url": "https://drafts.csswg.org/css-variables-2/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-variables-2/",
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-variables-2/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-variables-2/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://www.w3.org/TR/css-values-3/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -10767,6 +10880,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -10938,6 +11056,11 @@
               "url": "https://www.w3.org/TR/css-cascade-4/",
               "title": "CSS Cascading and Inheritance Level 4",
               "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -11493,13 +11616,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://drafts.csswg.org/css-gcpm-4/",
@@ -13816,6 +13933,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Device Adaptation Module Level 1",
               "crawled": "https://drafts.csswg.org/css-device-adapt/"
@@ -15265,6 +15387,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
@@ -16868,7 +16995,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:658:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 306)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
+        "error": "Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:63\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:25\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 306)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17175,6 +17302,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Device Adaptation Module Level 1",
               "crawled": "https://drafts.csswg.org/css-device-adapt/"
@@ -17382,7 +17514,7 @@
     {
       "title": "CSS Table Module Level 3",
       "shortname": "css-tables-3",
-      "date": "17 May 2021",
+      "date": "13 July 2022",
       "url": "https://www.w3.org/TR/css-tables-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-tables-3/",
@@ -18767,11 +18899,6 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/webvtt1/",
               "title": "WebVTT: The Web Video Text Tracks Format",
               "crawled": "https://w3c.github.io/webvtt/"
@@ -19248,6 +19375,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
@@ -19822,6 +19954,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Device Adaptation Module Level 1",
               "crawled": "https://drafts.csswg.org/css-device-adapt/"
@@ -20202,7 +20339,7 @@
               "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -20727,6 +20864,11 @@
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
+              "url": "https://www.w3.org/TR/selection-api/",
+              "title": "Selection API",
+              "crawled": "https://w3c.github.io/selection-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -20891,9 +21033,14 @@
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
+            },
+            {
+              "url": "https://wicg.github.io/navigation-api/",
+              "title": "Navigation API",
+              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://www.w3.org/TR/pointerevents3/",
@@ -22063,6 +22210,11 @@
               "crawled": "https://wicg.github.io/eyedropper-api/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -22228,7 +22380,7 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -22961,7 +23113,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "7 July 2022",
+      "date": "13 July 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23897,7 +24049,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "05 July 2022",
+      "date": "12 July 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24005,12 +24157,12 @@
             "https://html.spec.whatwg.org/#phrasing-content-2",
             "https://html.spec.whatwg.org/#attr-hidden",
             "https://html.spec.whatwg.org/#palpable-content-2",
+            "https://html.spec.whatwg.org/#the-html-element",
             "https://html.spec.whatwg.org/#dom-document-cookie",
             "https://html.spec.whatwg.org/#webstorage",
             "https://html.spec.whatwg.org/#attr-aria-role",
             "https://html.spec.whatwg.org/#global-attributes",
             "https://html.spec.whatwg.org/#the-div-element",
-            "https://html.spec.whatwg.org/#the-html-element",
             "https://html.spec.whatwg.org/#link-type-alternate"
           ],
           "evolvingLinks": [],
@@ -24025,7 +24177,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "05 July 2022",
+      "date": "12 July 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24367,7 +24519,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "7 July 2022",
+      "date": "13 July 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -24396,7 +24548,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/appmanifest/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -24413,6 +24567,8 @@
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#environment-settings-object",
+            "https://html.spec.whatwg.org/#dom-settimeout",
+            "https://html.spec.whatwg.org/#concept-task",
             "https://html.spec.whatwg.org/#content-type"
           ],
           "evolvingLinks": [],
@@ -26157,7 +26313,7 @@
               "crawled": "https://wicg.github.io/keyboard-lock/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -27293,7 +27449,7 @@
               "crawled": "https://w3c.github.io/mediacapture-record/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -27443,7 +27599,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "11 July 2022",
+      "date": "14 July 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -27973,6 +28129,7 @@
             "https://html.spec.whatwg.org/#sections",
             "https://html.spec.whatwg.org/#grouping-content",
             "https://html.spec.whatwg.org/#the-sub-and-sup-elements",
+            "https://www.w3.org/TR/html/#local-date-and-time-state-typedatetimelocal",
             "https://www.w3.org/TR/html/#element-attrdef-label-for"
           ],
           "evolvingLinks": [],
@@ -28008,6 +28165,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 354)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -28045,7 +28203,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "11 July 2022",
+      "date": "13 July 2022",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -28128,7 +28286,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "8 July 2022",
+      "date": "14 July 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -35167,7 +35325,7 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -35978,6 +36136,7 @@
             "https://drafts.csswg.org/css-tables/#table-caption",
             "https://drafts.csswg.org/css-tables/#table",
             "https://drafts.csswg.org/cssom-view/#scroll-an-element-into-view",
+            "https://drafts.csswg.org/selectors/#indicate-focus",
             "https://drafts.csswg.org/css-style-attr/#style-attribute",
             "https://drafts.csswg.org/css-font-loading/#font-source",
             "https://drafts.fxtf.org/geometry/#matrix-m11-element",
@@ -37275,6 +37434,11 @@
               "crawled": "https://drafts.csswg.org/css-variables/"
             },
             {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
@@ -37610,7 +37774,7 @@
               "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -37748,6 +37912,11 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/selection-api/",
+              "title": "Selection API",
+              "crawled": "https://w3c.github.io/selection-api/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-4/",
@@ -39055,7 +39224,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "11 July 2022",
+      "date": "13 July 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -40416,7 +40585,7 @@
     {
       "title": "Media Queries Level 4",
       "shortname": "mediaqueries-4",
-      "date": "22 June 2022",
+      "date": "14 July 2022",
       "url": "https://www.w3.org/TR/mediaqueries-4/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -40586,7 +40755,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "4 May 2022",
+      "date": "14 July 2022",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -41688,7 +41857,7 @@
     {
       "title": "MiniApp Packaging",
       "shortname": "miniapp-packaging",
-      "date": "01 July 2022",
+      "date": "12 July 2022",
       "url": "https://www.w3.org/TR/miniapp-packaging/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -41802,7 +41971,7 @@
               "crawled": "https://w3c.github.io/input-events/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -42085,8 +42254,12 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "21 June 2022",
-      "url": "https://w3c.github.io/window-placement/",
+      "date": "14 July 2022",
+      "url": "https://www.w3.org/TR/window-placement/",
+      "release": {
+        "url": "https://www.w3.org/TR/window-placement/",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/window-placement/",
         "repository": "https://github.com/w3c/window-placement",
@@ -42185,7 +42358,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "22 June 2022",
+      "date": "12 July 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -42294,6 +42467,10 @@
             "https://html.spec.whatwg.org/#structureddeserialize",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#entry-list",
+            "https://html.spec.whatwg.org/#prepare-to-run-script",
+            "https://html.spec.whatwg.org/#javascript-execution-context-stack",
+            "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint",
+            "https://html.spec.whatwg.org/#javascript-execution-context",
             "https://html.spec.whatwg.org/#errorevent",
             "https://html.spec.whatwg.org/#dom-errorevent-error",
             "https://html.spec.whatwg.org/#dom-errorevent-message",
@@ -42301,6 +42478,7 @@
             "https://html.spec.whatwg.org/#dom-errorevent-lineno",
             "https://html.spec.whatwg.org/#dom-errorevent-colno",
             "https://html.spec.whatwg.org/#report-the-exception",
+            "https://html.spec.whatwg.org/#clean-up-after-running-script",
             "https://html.spec.whatwg.org/#dom-window-stop",
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#active-window",
@@ -43997,7 +44175,7 @@
               "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -44303,7 +44481,7 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -44789,7 +44967,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "04 July 2022",
+      "date": "14 July 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -44806,7 +44984,7 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -44822,13 +45000,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://w3c.github.io/PNG-spec/",
-              "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
-              "crawled": "https://w3c.github.io/PNG-spec/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "xrefs": {
@@ -47368,7 +47540,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -47448,7 +47620,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -47680,7 +47852,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47789,7 +47961,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -47873,7 +48045,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -48656,7 +48828,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -48694,7 +48866,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48887,7 +49059,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -49206,7 +49378,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "11 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -51221,7 +51393,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "7 July 2022",
+      "date": "11 July 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -51345,7 +51517,7 @@
     {
       "title": "Selection API",
       "shortname": "selection-api",
-      "date": "24 July 2021",
+      "date": "13 July 2022",
       "url": "https://www.w3.org/TR/selection-api/",
       "release": {
         "url": "https://www.w3.org/TR/selection-api/",
@@ -51448,6 +51620,7 @@
             "https://html.spec.whatwg.org/#html-elements",
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#queue-a-task",
+            "https://html.spec.whatwg.org/#user-interaction-task-source",
             "https://html.spec.whatwg.org/#the-input-element",
             "https://html.spec.whatwg.org/#the-textarea-element"
           ],
@@ -53604,7 +53777,7 @@
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             }
@@ -55724,7 +55897,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "4 July 2022",
+      "date": "11 July 2022",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -55797,6 +55970,11 @@
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -55916,7 +56094,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "11 February 2022",
+      "date": "14 July 2022",
       "url": "https://drafts.csswg.org/web-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/web-animations-2/",
@@ -56000,18 +56178,29 @@
             "https://drafts.csswg.org/web-animations-1/#animation-effect",
             "https://drafts.csswg.org/web-animations-1/#iteration-duration",
             "https://drafts.csswg.org/web-animations-1/#end-delay",
+            "https://drafts.csswg.org/web-animations-1/#play-state",
+            "https://drafts.csswg.org/web-animations-1/#apply-any-pending-playback-rate",
+            "https://drafts.csswg.org/web-animations-1/#playback-rate",
+            "https://drafts.csswg.org/web-animations-1/#associated-effect-end",
             "https://drafts.csswg.org/web-animations-1/#unresolved",
             "https://drafts.csswg.org/web-animations-1/#finished-play-state",
+            "https://drafts.csswg.org/web-animations-1/#update-an-animations-finished-state",
             "https://drafts.csswg.org/web-animations-1/#iteration-progress",
             "https://drafts.csswg.org/web-animations-1/#keyframe-effect",
             "https://drafts.csswg.org/web-animations-1/#time-value",
+            "https://drafts.csswg.org/web-animations-1/#pending-pause-task",
+            "https://drafts.csswg.org/web-animations-1/#current-ready-promise",
+            "https://drafts.csswg.org/web-animations-1/#effective-playback-rate",
+            "https://drafts.csswg.org/web-animations-1/#pending-playback-rate",
             "https://drafts.csswg.org/web-animations-1/#ready",
             "https://drafts.csswg.org/web-animations-1/#current-finished-promise",
             "https://drafts.csswg.org/web-animations-1/#pause-an-animation",
-            "https://drafts.csswg.org/web-animations-1/#cancel-an-animation",
             "https://drafts.csswg.org/web-animations-1/#active-interval",
             "https://drafts.csswg.org/web-animations-1/#active-time",
             "https://drafts.csswg.org/web-animations-1/#fill-mode",
+            "https://drafts.csswg.org/web-animations-1/#before-active-boundary-time",
+            "https://drafts.csswg.org/web-animations-1/#animation-direction",
+            "https://drafts.csswg.org/web-animations-1/#active-after-boundary-time",
             "https://drafts.csswg.org/web-animations-1/#iteration-count",
             "https://drafts.csswg.org/web-animations-1/#iteration-start",
             "https://drafts.csswg.org/web-animations-1/#overall-progress",
@@ -56023,17 +56212,20 @@
             "https://drafts.csswg.org/web-animations-1/#current-iteration",
             "https://drafts.csswg.org/web-animations-1/#in-effect",
             "https://drafts.csswg.org/web-animations-1/#target-element",
-            "https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect"
+            "https://drafts.csswg.org/web-animations-1/#update-the-timing-properties-of-an-animation-effect",
+            "https://drafts.csswg.org/web-animations-1/#idle-play-state"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/web-animations-1/#current-time",
+            "https://drafts.csswg.org/web-animations-1/#monotonically-increasing",
             "https://drafts.csswg.org/web-animations-1/#target-effect",
             "https://drafts.csswg.org/web-animations-1/#active-phase",
+            "https://drafts.csswg.org/web-animations-1/#before-phase",
+            "https://drafts.csswg.org/web-animations-1/#after-phase",
             "https://drafts.csswg.org/web-animations-1/#animation-playback-rate",
             "https://drafts.csswg.org/web-animations-1/#before-flag",
-            "https://www.w3.org/TR/web-animations-1/#timeline-phase",
-            "https://www.w3.org/TR/web-animations-1/#timeline-active-phase",
+            "https://heycam.github.io/webidl/#dfn-present",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://html.spec.whatwg.org/#perform-a-microtask-checkpoint"
           ],
@@ -56145,11 +56337,6 @@
               "url": "https://w3c.github.io/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
-            },
-            {
-              "url": "https://fedidcg.github.io/FedCM/",
-              "title": "Federated Credential Management API",
-              "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
               "url": "https://wicg.github.io/get-installed-related-apps/spec/",
@@ -56416,7 +56603,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "11 July 2022",
+      "date": "13 July 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -57444,7 +57631,7 @@
               "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
-              "url": "https://w3c.github.io/window-placement/",
+              "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
             },
@@ -58423,7 +58610,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "07 July 2022",
+      "date": "12 July 2022",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
@@ -58480,6 +58667,8 @@
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#transient-activation",
+            "https://html.spec.whatwg.org/#the-iframe-element",
+            "https://html.spec.whatwg.org/#attr-iframe-allow",
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#current-settings-object",
             "https://html.spec.whatwg.org/#concept-relevant-global",
@@ -58639,7 +58828,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "28 June 2022",
+      "date": "11 July 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -58695,7 +58884,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "28 June 2022",
+      "date": "11 July 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -58852,7 +59041,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "28 June 2022",
+      "date": "11 July 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -59327,7 +59516,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "7 July 2022",
+      "date": "13 July 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -59572,7 +59761,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/",
@@ -59684,7 +59873,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/",
@@ -59764,7 +59953,7 @@
     {
       "title": "WebGL EXT_clip_cull_distance Extension Draft Specification",
       "shortname": "EXT_clip_cull_distance",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/",
@@ -59961,7 +60150,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/",
@@ -60015,7 +60204,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/",
@@ -60121,7 +60310,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/",
@@ -60397,7 +60586,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -60529,7 +60718,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/",
@@ -60583,7 +60772,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/",
@@ -60637,7 +60826,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/",
@@ -60691,7 +60880,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/",
@@ -60797,7 +60986,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/",
@@ -60903,7 +61092,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -61009,7 +61198,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -61089,7 +61278,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/",
@@ -61247,7 +61436,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/",
@@ -61314,7 +61503,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/",
@@ -61463,7 +61652,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/",
@@ -61517,7 +61706,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/",
@@ -61571,7 +61760,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/",
@@ -61638,7 +61827,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float/",
@@ -61692,7 +61881,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/",
@@ -61746,7 +61935,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/",
@@ -61813,7 +62002,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/",
@@ -61867,7 +62056,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/",
@@ -62001,7 +62190,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/",
@@ -62125,7 +62314,7 @@
     {
       "title": "WebGL Specification",
       "shortname": "webgl1",
-      "date": "7 May 2022",
+      "date": "30 June 2022",
       "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/",
@@ -62223,7 +62412,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -62472,7 +62661,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/",
@@ -62565,7 +62754,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -62996,7 +63185,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -63180,7 +63369,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -63247,7 +63436,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -63353,7 +63542,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -63459,7 +63648,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -63565,7 +63754,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -63645,7 +63834,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/",
@@ -63714,7 +63903,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/",
@@ -63781,7 +63970,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/",
@@ -64292,7 +64481,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -64378,7 +64567,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/",
@@ -64458,7 +64647,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/",
@@ -64570,7 +64759,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "11 July 2022",
+      "date": "12 January 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -64620,7 +64809,7 @@
             {
               "expected": {
                 "linkingText": [
-                  "multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawcount)"
+                  "multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawCount)"
                 ],
                 "type": "method",
                 "for": [
@@ -64633,7 +64822,7 @@
             {
               "expected": {
                 "linkingText": [
-                  "multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawcount)"
+                  "multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawCount)"
                 ],
                 "type": "method",
                 "for": [
@@ -64657,7 +64846,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "10 July 2022",
+      "date": "14 July 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -64790,7 +64979,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "10 July 2022",
+      "date": "14 July 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -66235,7 +66424,7 @@
     {
       "title": "WebXR DOM Overlays Module",
       "shortname": "webxr-dom-overlays-1",
-      "date": "5 July 2022",
+      "date": "12 July 2022",
       "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
@@ -66550,7 +66739,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "26 April 2022",
+      "date": "12 July 2022",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
