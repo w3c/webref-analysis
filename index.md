@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 15, 2022
+% July 16, 2022
 
 # Ecma International {#ecma_international}
 
@@ -548,7 +548,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -578,7 +578,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -646,7 +646,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 14 July 2022
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -669,7 +669,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1139,7 +1139,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1162,7 +1162,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1195,7 +1195,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1239,7 +1239,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1274,7 +1274,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1306,7 +1306,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 15 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -4306,10 +4306,14 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
@@ -4319,6 +4323,8 @@ Normative references to this spec from:
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions/)
@@ -4333,26 +4339,62 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol/)
 - [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Page Floats](https://drafts.csswg.org/css-page-floats/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Navigation API](https://wicg.github.io/navigation-api/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 
 
 ### CSS Animation Worklet API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
@@ -4361,7 +4403,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-animation-worklet-1/](https://www.w3.org/TR/css-animation-worklet-1/)
 - Crawled URL: [https://drafts.css-houdini.org/css-animationworklet-1/](https://drafts.css-houdini.org/css-animationworklet-1/)
-- Crawled version: 18 August 2020
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.css-houdini.org/css-animationworklet-1/](https://drafts.css-houdini.org/css-animationworklet-1/)
 - Latest published version: [https://www.w3.org/TR/css-animation-worklet-1/](https://www.w3.org/TR/css-animation-worklet-1/)
 - Shortname: css-animation-worklet-1
@@ -4430,7 +4472,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/css-animations/](https://drafts.csswg.org/css-animations/)
-- Crawled version: 3 July 2022
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.csswg.org/css-animations/](https://drafts.csswg.org/css-animations/)
 - Latest published version: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
 - Shortname: css-animations-1
@@ -4741,7 +4783,8 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
      * [`https://w3c.github.io/contentEditable/`](https://w3c.github.io/contentEditable/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://www.w3.org/TR/css-style-attr/#style-attribute`](https://www.w3.org/TR/css-style-attr/#style-attribute)
@@ -4763,8 +4806,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
      * [`https://html.spec.whatwg.org/#attr-input-type-password-keyword`](https://html.spec.whatwg.org/#attr-input-type-password-keyword)
      * [`https://w3c.github.io/contentEditable/#dfn-editing-host`](https://w3c.github.io/contentEditable/#dfn-editing-host)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216)
 
@@ -5019,11 +5060,12 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - External links that neither target definitions nor headings:
-     * [`https://www.w3.org/TR/css-ui-3/#box-sizing`](https://www.w3.org/TR/css-ui-3/#box-sizing)
+     * [`https://drafts.csswg.org/css-ui-3/#box-sizing`](https://drafts.csswg.org/css-ui-3/#box-sizing)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#concept-textarea-raw-value`](https://html.spec.whatwg.org/#concept-textarea-raw-value)
@@ -5112,7 +5154,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - External links that neither target definitions nor headings:
@@ -5887,7 +5930,8 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag`](https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag)
@@ -5938,7 +5982,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag`](https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag)
@@ -6155,10 +6200,14 @@ Normative references to this spec from:
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions/)
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
 ### CSS Environment Variables Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
@@ -6465,7 +6514,6 @@ Informative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
@@ -7115,7 +7163,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-layout-api-1/](https://www.w3.org/TR/css-layout-api-1/)
 - Crawled URL: [https://drafts.css-houdini.org/css-layout-api-1/](https://drafts.css-houdini.org/css-layout-api-1/)
-- Crawled version: 16 December 2021
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.css-houdini.org/css-layout-api-1/](https://drafts.css-houdini.org/css-layout-api-1/)
 - Latest published version: [https://www.w3.org/TR/css-layout-api-1/](https://www.w3.org/TR/css-layout-api-1/)
 - Shortname: css-layout-api-1
@@ -7154,7 +7202,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
 - Crawled URL: [https://drafts.csswg.org/css-line-grid/](https://drafts.csswg.org/css-line-grid/)
-- Crawled version: 18 September 2020
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.csswg.org/css-line-grid/](https://drafts.csswg.org/css-line-grid/)
 - Latest published version: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
 - Shortname: css-line-grid-1
@@ -7317,8 +7365,10 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/)
      * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-backgrounds-3/#background-painting-area`](https://drafts.csswg.org/css-backgrounds-3/#background-painting-area)
      * [`https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area`](https://drafts.csswg.org/css-backgrounds-3/#background-positioning-area)
@@ -7376,7 +7426,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
@@ -8100,8 +8151,6 @@ No informative reference to this spec from other specs.
      * [`https://drafts.csswg.org/css-text-3/#word-separator`](https://drafts.csswg.org/css-text-3/#word-separator)
 - Broken external links:
      * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8174,10 +8223,11 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2012/WD-css3-regions-20120823/`](https://www.w3.org/TR/2012/WD-css3-regions-20120823/)
      * [`https://www.w3.org/TR/2012/WD-css3-regions-20120503/`](https://www.w3.org/TR/2012/WD-css3-regions-20120503/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
      * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW" uses URL [`https://drafts.csswg.org/cssom-view/`](https://drafts.csswg.org/cssom-view/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - External links that neither target definitions nor headings:
@@ -8227,7 +8277,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
@@ -8262,7 +8313,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
@@ -8291,13 +8343,19 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
      * [`https://www.w3.org/TR/css3-text/`](https://www.w3.org/TR/css3-text/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/simple-ruby/`](https://www.w3.org/TR/simple-ruby/)
 - Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/), related reference "CSS-DISPLAY-3" uses URL [`https://drafts.csswg.org/css-display/`](https://drafts.csswg.org/css-display/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-inline-3/#line-relative-shift-values`](https://drafts.csswg.org/css-inline-3/#line-relative-shift-values)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -8388,7 +8446,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
@@ -8431,7 +8490,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
@@ -8562,11 +8622,14 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-     * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/), related reference "CSS3-EXCLUSIONS" uses URL [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
-     * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/), related reference "CSS3-EXCLUSIONS" uses URL [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/), related reference "CSS3BOX" uses URL [`https://drafts.csswg.org/css-box-3/`](https://drafts.csswg.org/css-box-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/), related reference "CSS3-EXCLUSIONS" uses URL [`https://drafts.csswg.org/css-exclusions/`](https://drafts.csswg.org/css-exclusions/)
+     * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/), related reference "CSS3-EXCLUSIONS" uses URL [`https://drafts.csswg.org/css-exclusions/`](https://drafts.csswg.org/css-exclusions/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
@@ -8618,7 +8681,9 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/), related reference "CSS3-EXCLUSIONS" uses URL [`https://drafts.csswg.org/css-exclusions/`](https://drafts.csswg.org/css-exclusions/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
      * [`https://www.w3.org/TR/css3-exclusions/#wrapping-context`](https://www.w3.org/TR/css3-exclusions/#wrapping-context)
@@ -8897,7 +8962,9 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/), related reference "CSS-DISPLAY-3" uses URL [`https://drafts.csswg.org/css-display/`](https://drafts.csswg.org/css-display/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
@@ -8943,7 +9010,11 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/)
      * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/), related reference "CSS-BACKGROUNDS-3" uses URL [`https://drafts.csswg.org/css-backgrounds/`](https://drafts.csswg.org/css-backgrounds/)
+     * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/), related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-text-3/#grapheme-cluster`](https://www.w3.org/TR/css-text-3/#grapheme-cluster)
      * [`https://www.w3.org/TR/css-text-3/#letter`](https://www.w3.org/TR/css-text-3/#letter)
@@ -9002,7 +9073,12 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
      * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/), related reference "CSS-BACKGROUNDS-3" uses URL [`https://drafts.csswg.org/css-backgrounds/`](https://drafts.csswg.org/css-backgrounds/)
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/), related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://www.w3.org/TR/css-text-3/#word-separator`](https://www.w3.org/TR/css-text-3/#word-separator)
@@ -9053,19 +9129,24 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
-     * [`https://www.w3.org/TR/css-fonts-3/#feature-precedence`](https://www.w3.org/TR/css-fonts-3/#feature-precedence)
      * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
      * [`https://html.spec.whatwg.org/#newlines`](https://html.spec.whatwg.org/#newlines)
      * [`https://html.spec.whatwg.org/#preprocessing-the-input-stream`](https://html.spec.whatwg.org/#preprocessing-the-input-stream)
      * [`https://html.spec.whatwg.org/#the-wbr-element`](https://html.spec.whatwg.org/#the-wbr-element)
+     * [`https://drafts.csswg.org/css-fonts-3/#feature-precedence`](https://drafts.csswg.org/css-fonts-3/#feature-precedence)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9123,21 +9204,26 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
-     * [`https://www.w3.org/TR/css-fonts-3/#feature-precedence`](https://www.w3.org/TR/css-fonts-3/#feature-precedence)
      * [`https://html.spec.whatwg.org/#language`](https://html.spec.whatwg.org/#language)
      * [`https://html.spec.whatwg.org/#the-wbr-element`](https://html.spec.whatwg.org/#the-wbr-element)
      * [`https://html.spec.whatwg.org/#newlines`](https://html.spec.whatwg.org/#newlines)
      * [`https://html.spec.whatwg.org/#preprocessing-the-input-stream`](https://html.spec.whatwg.org/#preprocessing-the-input-stream)
      * [`https://html.spec.whatwg.org/#the-textarea-element`](https://html.spec.whatwg.org/#the-textarea-element)
+     * [`https://drafts.csswg.org/css-fonts-3/#feature-precedence`](https://drafts.csswg.org/css-fonts-3/#feature-precedence)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9202,8 +9288,11 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
      * [`https://www.w3.org/TR/css3-animations/`](https://www.w3.org/TR/css3-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW" uses URL [`https://drafts.csswg.org/cssom-view/`](https://drafts.csswg.org/cssom-view/)
+     * [`https://www.w3.org/TR/css-overflow-3/`](https://www.w3.org/TR/css-overflow-3/), related reference "CSS-OVERFLOW-3" uses URL [`https://drafts.csswg.org/css-overflow-3/`](https://drafts.csswg.org/css-overflow-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/), related reference "CSS3BG" uses URL [`https://drafts.csswg.org/css-backgrounds/`](https://drafts.csswg.org/css-backgrounds/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
@@ -9273,7 +9362,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-transforms-1/#reference-box`](https://drafts.csswg.org/css-transforms-1/#reference-box)
      * [`https://drafts.csswg.org/css2/#stacking-context`](https://drafts.csswg.org/css2/#stacking-context)
@@ -9305,7 +9395,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-transitions-1/](https://www.w3.org/TR/css-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-transitions/](https://drafts.csswg.org/css-transitions/)
-- Crawled version: 23 June 2022
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.csswg.org/css-transitions/](https://drafts.csswg.org/css-transitions/)
 - Latest published version: [https://www.w3.org/TR/css-transitions-1/](https://www.w3.org/TR/css-transitions-1/)
 - Shortname: css-transitions-1
@@ -9323,7 +9413,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/)
      * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/css-easing/#input-progress-value`](https://drafts.csswg.org/css-easing/#input-progress-value)
@@ -9419,7 +9510,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9432,6 +9523,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 - External links to private terms:
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag)
      * [`https://drafts.csswg.org/css-values-4/#relative-length`](https://drafts.csswg.org/css-values-4/#relative-length)
@@ -9503,8 +9597,9 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
      * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/), related reference "CSS-SYNTAX-3" uses URL [`https://www.w3.org/TR/css-syntax-3/`](https://www.w3.org/TR/css-syntax-3/)
-     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/)
+     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/), related reference "CSS-SYNTAX-3" uses URL [`https://drafts.csswg.org/css-syntax/`](https://drafts.csswg.org/css-syntax/)
+     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/), related reference "CSSOM" uses URL [`https://drafts.csswg.org/cssom/`](https://drafts.csswg.org/cssom/)
+     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-syntax-3/#consume-a-url-token`](https://drafts.csswg.org/css-syntax-3/#consume-a-url-token)
 - Broken external links:
@@ -9610,6 +9705,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
 
 
@@ -9776,7 +9872,7 @@ Informative references to this spec from:
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 
 
-### CSS Values and Units Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Values and Units Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9788,14 +9884,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
 - Broken external links:
      * [`https://www.w3.org/TR/css-values-4/#acknowledgements`](https://www.w3.org/TR/css-values-4/#acknowledgements)
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
 
-No informative reference to this spec from other specs.
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+
+Informative references to this spec from:
+
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 
 
 ### CSS Will Change Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -9817,7 +9919,8 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 
@@ -9858,7 +9961,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/`](https://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/)
      * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
@@ -9930,7 +10034,7 @@ Informative references to this spec from:
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 
 
-### CSSOM View Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### CSSOM View Module {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -9944,6 +10048,8 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Unknown WebIDL names used: `CSSOMString`
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/), related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-display-3/#invisible`](https://drafts.csswg.org/css-display-3/#invisible)
      * [`https://dom.spec.whatwg.org/#event-listener-type`](https://dom.spec.whatwg.org/#event-listener-type)
@@ -10040,8 +10146,9 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
      * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/web-animations-1/#composite-operation-replace`](https://drafts.csswg.org/web-animations-1/#composite-operation-replace)
@@ -10050,9 +10157,9 @@ Informative references to this spec from:
      * [`https://html.spec.whatwg.org/#attr-img-crossorigin`](https://html.spec.whatwg.org/#attr-img-crossorigin)
      * [`https://html.spec.whatwg.org/#the-img-element`](https://html.spec.whatwg.org/#the-img-element)
      * [`https://www.w3.org/TR/css-values-3/#typedef-number-percentage`](https://www.w3.org/TR/css-values-3/#typedef-number-percentage)
-     * [`https://www.w3.org/TR/css-transitions-1/#animtype-length`](https://www.w3.org/TR/css-transitions-1/#animtype-length)
-     * [`https://www.w3.org/TR/css-transitions-1/#animtype-number`](https://www.w3.org/TR/css-transitions-1/#animtype-number)
-     * [`https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list`](https://www.w3.org/TR/css-transitions-1/#animtype-shadow-list)
+     * [`https://drafts.csswg.org/css-transitions/#animtype-length`](https://drafts.csswg.org/css-transitions/#animtype-length)
+     * [`https://drafts.csswg.org/css-transitions/#animtype-number`](https://drafts.csswg.org/css-transitions/#animtype-number)
+     * [`https://drafts.csswg.org/css-transitions/#animtype-shadow-list`](https://drafts.csswg.org/css-transitions/#animtype-shadow-list)
      * [`https://drafts.csswg.org/css-color-3/#color0`](https://drafts.csswg.org/css-color-3/#color0)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/`](https://www.w3.org/TR/2011/REC-SVG11-20110816/)
@@ -10214,7 +10321,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW-1" uses URL [`https://drafts.csswg.org/cssom-view/`](https://drafts.csswg.org/cssom-view/)
+     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-values-3/#relative-length`](https://drafts.csswg.org/css-values-3/#relative-length)
      * [`https://drafts.csswg.org/cssom-view-1/#page-zoom`](https://drafts.csswg.org/cssom-view-1/#page-zoom)
@@ -10264,7 +10372,10 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
+     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW-1" uses URL [`https://drafts.csswg.org/cssom-view/`](https://drafts.csswg.org/cssom-view/)
+     * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/), related reference "APPMANIFEST" uses URL [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/)
+     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/), related reference "MEDIAQUERIES-4" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-values-4/#relative-length`](https://drafts.csswg.org/css-values-4/#relative-length)
      * [`https://drafts.csswg.org/cssom-view-1/#page-zoom`](https://drafts.csswg.org/cssom-view-1/#page-zoom)
@@ -10336,8 +10447,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
      * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/), related reference "CSS-ROUND-DISPLAY-1" uses URL [`https://www.w3.org/TR/css-round-display-1/`](https://www.w3.org/TR/css-round-display-1/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/), related reference "CSS-ROUND-DISPLAY-1" uses URL [`https://drafts.csswg.org/css-round-display/`](https://drafts.csswg.org/css-round-display/)
 - External links to private terms:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - Broken external links:
@@ -10385,7 +10496,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Resize Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Resize Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -10403,6 +10514,8 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
      * [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
      * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/), related reference "CSSOM-VIEW-1" uses URL [`https://drafts.csswg.org/cssom-view/`](https://drafts.csswg.org/cssom-view/)
 - Broken external links:
      * [`https://www.w3.org/TR/css3-positioning/#viewport`](https://www.w3.org/TR/css3-positioning/#viewport)
      * [`https://html.spec.whatwg.org/#being-rendered`](https://html.spec.whatwg.org/#being-rendered)
@@ -10425,7 +10538,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 21 February 2022
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Shortname: scroll-animations-1
 
@@ -10435,7 +10548,9 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/), related reference "CSSOM-VIEW-1" uses URL [`https://drafts.csswg.org/cssom-view/`](https://drafts.csswg.org/cssom-view/)
+     * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/), related reference "WEB-ANIMATIONS-1" uses URL [`https://drafts.csswg.org/web-animations-1/`](https://drafts.csswg.org/web-animations-1/)
 - External links to private terms:
      * [`https://drafts.csswg.org/cssom-view-1/#overflow-directions`](https://drafts.csswg.org/cssom-view-1/#overflow-directions)
 - Broken external links:
@@ -10471,8 +10586,11 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
      * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
      * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/)
+     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/)
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+     * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/), related reference "CSS-SCOPING-1" uses URL [`https://drafts.csswg.org/css-scoping/`](https://drafts.csswg.org/css-scoping/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#selectors`](https://html.spec.whatwg.org/#selectors)
@@ -10521,8 +10639,6 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#the-pre-element`](https://html.spec.whatwg.org/#the-pre-element)
      * [`https://www.w3.org/TR/css-scoping-1/#selectordef-shadow`](https://www.w3.org/TR/css-scoping-1/#selectordef-shadow)
      * [`https://www.w3.org/TR/css-scoping-1/#selectordef-content`](https://www.w3.org/TR/css-scoping-1/#selectordef-content)
-- External links to outdated specs:
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
      * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
@@ -10584,7 +10700,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/web-animations-1/](https://www.w3.org/TR/web-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/web-animations-1/](https://drafts.csswg.org/web-animations-1/)
-- Crawled version: 11 July 2022
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.csswg.org/web-animations-1/](https://drafts.csswg.org/web-animations-1/)
 - Latest published version: [https://www.w3.org/TR/web-animations-1/](https://www.w3.org/TR/web-animations-1/)
 - Shortname: web-animations-1
@@ -10593,8 +10709,7 @@ Informative references to this spec from:
 
 - Unknown WebIDL names used: `CSSOMString`
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
-     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
+     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - External links to private terms:
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation)
      * [`https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate`](https://drafts.csswg.org/web-animations-2/#iteration-composite-operation-accumulate)
@@ -10664,7 +10779,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
-- Crawled version: 14 July 2022
+- Crawled version: 15 July 2022
 - Editor's Draft: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
 - Shortname: web-animations-2
 
@@ -12918,6 +13033,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 
 Informative references to this spec from:
@@ -14284,7 +14400,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -14297,6 +14413,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 - External links to private terms:
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag)
      * [`https://drafts.csswg.org/css-values-4/#relative-length`](https://drafts.csswg.org/css-values-4/#relative-length)
@@ -23681,7 +23800,6 @@ Normative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
@@ -23892,7 +24010,6 @@ Informative references to this spec from:
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
@@ -23900,7 +24017,6 @@ Informative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
@@ -23921,7 +24037,6 @@ Informative references to this spec from:
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
-- [Selectors Level 4](https://drafts.csswg.org/selectors/)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
