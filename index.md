@@ -12175,13 +12175,13 @@ Although they do not, the following specs should also normatively reference this
 No informative reference to this spec from other specs.
 
 
-### WebXR Layers API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-xrefs=true}
+### WebXR Layers API Level 1 {data-spec=true data-anomaly=true data-unknownIdlNames=true data-missingDfns=true data-inconsistentRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Crawled URL: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
-- Crawled version: 12 July 2022
+- Crawled version: 16 July 2022
 - Editor's Draft: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
 - Latest published version: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Shortname: webxrlayers-1
@@ -12189,6 +12189,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Unknown WebIDL names used: `GLenum`, `WebGLTexture`
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
 - External links to private terms:
      * [`https://immersive-web.github.io/webxr/#feature-requirements`](https://immersive-web.github.io/webxr/#feature-requirements)
      * [`https://immersive-web.github.io/webxr/#active-immersive-session`](https://immersive-web.github.io/webxr/#active-immersive-session)
