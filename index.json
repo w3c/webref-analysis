@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-17T06:36:55.549Z",
+  "date": "2022-07-17T12:44:42.424Z",
   "stats": {
     "crawled": 472,
-    "errors": 3,
+    "errors": 2,
     "studied": 472
   },
   "results": [
@@ -4786,7 +4786,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10580,7 +10579,7 @@
     {
       "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-1",
-      "date": "6 July 2022",
+      "date": "17 July 2022",
       "url": "https://www.w3.org/TR/css-easing-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-easing-1/",
@@ -38590,6 +38589,11 @@
               "url": "https://drafts.csswg.org/css-variables-2/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 2",
               "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-easing-1/",
+              "title": "CSS Easing Functions Level 2",
+              "crawled": "https://drafts.csswg.org/css-easing/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
