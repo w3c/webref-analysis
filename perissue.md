@@ -9,6 +9,12 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
+- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 325)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/): `Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format
     at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17
     at Array.forEach (<anonymous>)
@@ -63,8 +69,496 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
     at async Promise.all (index 354)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 154)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 155)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 156)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 157)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_color_buffer_half_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 158)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 160)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 159)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_float_blend Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 161)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_frag_depth Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 162)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 163)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_sRGB Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 164)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_texture_compression_bptc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 165)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_texture_compression_rgtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 166)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 167)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 168)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 169)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 170)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 171)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 172)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 173)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_texture_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 175)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_texture_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 174)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_texture_half_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 177)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 176)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 178)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 179)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 180)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 181)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_compressed_texture_astc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 182)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_compressed_texture_etc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 183)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_compressed_texture_etc1 Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 184)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_compressed_texture_pvrtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 185)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 187)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 186)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 188)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 189)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_depth_texture Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 190)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 191)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 192)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 193)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 195)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+- [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/): `Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
+    at pptr://__puppeteer_evaluation_script__:7:23
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async Promise.all (index 194)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
 
-=> 2 specifications found
+=> 45 specifications found
 
 
 ## Specifications without normative dependencies
@@ -106,50 +600,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [Symbol as WeakMap Keys Proposal](https://tc39.es/proposal-symbols-as-weakmap-keys/)
 - [Temporal proposal](https://tc39.es/proposal-temporal/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
-- [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
-- [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/)
-- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/)
-- [WebGL EXT_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/)
-- [WebGL EXT_color_buffer_half_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/)
-- [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/)
-- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- [WebGL EXT_float_blend Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/)
-- [WebGL EXT_frag_depth Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/)
-- [WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/)
-- [WebGL EXT_sRGB Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/)
-- [WebGL EXT_texture_compression_bptc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/)
-- [WebGL EXT_texture_compression_rgtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/)
-- [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
-- [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
-- [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
-- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
-- [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
-- [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
-- [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
-- [WebGL OES_texture_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/)
-- [WebGL OES_texture_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/)
-- [WebGL OES_texture_half_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/)
-- [WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/)
-- [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
-- [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/)
-- [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- [WebGL WEBGL_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/)
-- [WebGL WEBGL_compressed_texture_astc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/)
-- [WebGL WEBGL_compressed_texture_etc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/)
-- [WebGL WEBGL_compressed_texture_etc1 Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- [WebGL WEBGL_compressed_texture_pvrtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- [WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- [WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- [WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/)
-- [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
-- [WebGL WEBGL_depth_texture Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/)
-- [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/)
-- [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/)
-- [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
-- [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 79 specifications found
+=> 37 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -170,51 +622,9 @@ Basically all specifications have normative dependencies on some other specifica
 
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [SVG Animations](https://svgwg.org/specs/animations/)
-- [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
-- [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/)
-- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/)
-- [WebGL EXT_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/)
-- [WebGL EXT_color_buffer_half_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/)
-- [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/)
-- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- [WebGL EXT_float_blend Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/)
-- [WebGL EXT_frag_depth Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/)
-- [WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/)
-- [WebGL EXT_sRGB Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/)
-- [WebGL EXT_texture_compression_bptc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/)
-- [WebGL EXT_texture_compression_rgtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/)
-- [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
-- [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
-- [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
-- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
-- [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
-- [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
-- [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
-- [WebGL OES_texture_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/)
-- [WebGL OES_texture_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/)
-- [WebGL OES_texture_half_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/)
-- [WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/)
-- [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
-- [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/)
-- [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- [WebGL WEBGL_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/)
-- [WebGL WEBGL_compressed_texture_astc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/)
-- [WebGL WEBGL_compressed_texture_etc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/)
-- [WebGL WEBGL_compressed_texture_etc1 Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- [WebGL WEBGL_compressed_texture_pvrtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- [WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- [WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- [WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/)
-- [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
-- [WebGL WEBGL_depth_texture Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/)
-- [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/)
-- [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/)
-- [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
-- [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebRTC Priority Control API](https://w3c.github.io/webrtc-priority/)
 
-=> 45 specifications found
+=> 3 specifications found
 
 
 
@@ -238,22 +648,22 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `Float32List` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `Float64Array` used in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `GLbitfield` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `GLboolean` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/), [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
-- `GLenum` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/), [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/), [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+- `GLboolean` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- `GLenum` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - `GLfloat` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `GLint` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- `GLintptr` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- `GLsizei` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- `GLint` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- `GLintptr` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- `GLsizei` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `GLsizeiptr` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `GLuint` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- `GLuint` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `Int16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `Int32Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- `Int32Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `Int32List` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `Int8Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `PostMessageOptions` used in [Portals](https://wicg.github.io/portals/)
 - `TexImageSource` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `Uint16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebGPU](https://gpuweb.github.io/gpuweb/)
+- `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGPU](https://gpuweb.github.io/gpuweb/)
 - `Uint8Array` used in [Encoding Standard](https://encoding.spec.whatwg.org/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - `Uint8ClampedArray` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - `VisibilityState` used in [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
@@ -262,17 +672,16 @@ Please keep in mind that Strudy only knows about IDL terms defined in the specif
 - `WebGLBuffer` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `WebGLContextAttributes` used in [WebXR Device API](https://immersive-web.github.io/webxr/)
 - `WebGLFramebuffer` used in [WebXR Device API](https://immersive-web.github.io/webxr/)
-- `WebGLObject` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/), [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
+- `WebGLObject` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `WebGLProgram` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `WebGLRenderingContext` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [WebXR Device API](https://immersive-web.github.io/webxr/)
 - `WebGLRenderingContextBase` used in [WebXR Device API](https://immersive-web.github.io/webxr/)
-- `WebGLShader` used in [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
-- `WebGLTexture` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/), [WebXR Layers API Level 1](https://immersive-web.github.io/layers/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- `WebGLTexture` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/), [WebXR Layers API Level 1](https://immersive-web.github.io/layers/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 - `WebGLUniformLocation` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
 - `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 42 WebIDL names found
+=> 41 WebIDL names found
 
 Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
 Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
@@ -314,11 +723,10 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) uses `DOMHighResTimeStamp` but does not reference [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) uses `CSSPseudoElement` but does not reference [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
-- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/) uses `WebGLQuery` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
 - [WebXR Anchors Module](https://immersive-web.github.io/anchors/) uses `XRHitTestResult` but does not reference [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) uses `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 
-=> 14 missing references for IDL definitions found in 12 specifications
+=> 13 missing references for IDL definitions found in 11 specifications
 
 
 ## No definition for CSS properties
@@ -448,297 +856,8 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
     * `queryCommandValue(commandId)` with type `method`, but found [`queryCommandValue()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandvalue) with type `dfn`
 - [Selection API](https://w3c.github.io/selection-api/):
     * `stringification behavior` with type `dfn` for [`Selection`](https://w3c.github.io/selection-api/#dom-selection)
-- [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/):
-    * `ANGLE_instanced_arrays` with type `interface`
-    * `VERTEX_ATTRIB_ARRAY_DIVISOR_ANGLE` with type `const`
-    * `drawArraysInstancedANGLE(mode, first, count, primcount)` with type `method`
-    * `drawElementsInstancedANGLE(mode, count, type, offset, primcount)` with type `method`
-    * `vertexAttribDivisorANGLE(index, divisor)` with type `method`
-- [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/):
-    * `EXT_blend_minmax` with type `interface`
-    * `MIN_EXT` with type `const`
-    * `MAX_EXT` with type `const`
-- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/):
-    * `EXT_clip_cull_distance` with type `interface`
-    * `MAX_CLIP_DISTANCES_EXT` with type `const`
-    * `MAX_CULL_DISTANCES_EXT` with type `const`
-    * `MAX_COMBINED_CLIP_AND_CULL_DISTANCES_EXT` with type `const`
-    * `CLIP_DISTANCE0_EXT` with type `const`
-    * `CLIP_DISTANCE1_EXT` with type `const`
-    * `CLIP_DISTANCE2_EXT` with type `const`
-    * `CLIP_DISTANCE3_EXT` with type `const`
-    * `CLIP_DISTANCE4_EXT` with type `const`
-    * `CLIP_DISTANCE5_EXT` with type `const`
-    * `CLIP_DISTANCE6_EXT` with type `const`
-    * `CLIP_DISTANCE7_EXT` with type `const`
-- [WebGL EXT_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/):
-    * `EXT_color_buffer_float` with type `interface`
-- [WebGL EXT_color_buffer_half_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/):
-    * `EXT_color_buffer_half_float` with type `interface`
-    * `RGBA16F_EXT` with type `const`
-    * `RGB16F_EXT` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE_EXT` with type `const`
-    * `UNSIGNED_NORMALIZED_EXT` with type `const`
-- [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/):
-    * `GLuint64EXT` with type `typedef`
-    * `WebGLTimerQueryEXT` with type `interface`
-    * `EXT_disjoint_timer_query` with type `interface`
-    * `QUERY_COUNTER_BITS_EXT` with type `const`
-    * `CURRENT_QUERY_EXT` with type `const`
-    * `QUERY_RESULT_EXT` with type `const`
-    * `QUERY_RESULT_AVAILABLE_EXT` with type `const`
-    * `TIME_ELAPSED_EXT` with type `const`
-    * `TIMESTAMP_EXT` with type `const`
-    * `GPU_DISJOINT_EXT` with type `const`
-    * `createQueryEXT()` with type `method`
-    * `deleteQueryEXT(query)` with type `method`
-    * `isQueryEXT(query)` with type `method`
-    * `beginQueryEXT(target, query)` with type `method`
-    * `endQueryEXT(target)` with type `method`
-    * `queryCounterEXT(query, target)` with type `method`
-    * `getQueryEXT(target, pname)` with type `method`
-    * `getQueryObjectEXT(query, pname)` with type `method`
-- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/):
-    * `EXT_disjoint_timer_query_webgl2` with type `interface`
-    * `QUERY_COUNTER_BITS_EXT` with type `const`
-    * `TIME_ELAPSED_EXT` with type `const`
-    * `TIMESTAMP_EXT` with type `const`
-    * `GPU_DISJOINT_EXT` with type `const`
-    * `queryCounterEXT(query, target)` with type `method`
-- [WebGL EXT_float_blend Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/):
-    * `EXT_float_blend` with type `interface`
-- [WebGL EXT_frag_depth Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/):
-    * `EXT_frag_depth` with type `interface`
-- [WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/):
-    * `EXT_shader_texture_lod` with type `interface`
-- [WebGL EXT_sRGB Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/):
-    * `EXT_sRGB` with type `interface`
-    * `SRGB_EXT` with type `const`
-    * `SRGB_ALPHA_EXT` with type `const`
-    * `SRGB8_ALPHA8_EXT` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING_EXT` with type `const`
-- [WebGL EXT_texture_compression_bptc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/):
-    * `EXT_texture_compression_bptc` with type `interface`
-    * `COMPRESSED_RGBA_BPTC_UNORM_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_BPTC_UNORM_EXT` with type `const`
-    * `COMPRESSED_RGB_BPTC_SIGNED_FLOAT_EXT` with type `const`
-    * `COMPRESSED_RGB_BPTC_UNSIGNED_FLOAT_EXT` with type `const`
-- [WebGL EXT_texture_compression_rgtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/):
-    * `EXT_texture_compression_rgtc` with type `interface`
-    * `COMPRESSED_RED_RGTC1_EXT` with type `const`
-    * `COMPRESSED_SIGNED_RED_RGTC1_EXT` with type `const`
-    * `COMPRESSED_RED_GREEN_RGTC2_EXT` with type `const`
-    * `COMPRESSED_SIGNED_RED_GREEN_RGTC2_EXT` with type `const`
-- [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/):
-    * `EXT_texture_filter_anisotropic` with type `interface`
-    * `TEXTURE_MAX_ANISOTROPY_EXT` with type `const`
-    * `MAX_TEXTURE_MAX_ANISOTROPY_EXT` with type `const`
-- [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/):
-    * `EXT_texture_norm16` with type `interface`
-    * `R16_EXT` with type `const`
-    * `RG16_EXT` with type `const`
-    * `RGB16_EXT` with type `const`
-    * `RGBA16_EXT` with type `const`
-    * `R16_SNORM_EXT` with type `const`
-    * `RG16_SNORM_EXT` with type `const`
-    * `RGB16_SNORM_EXT` with type `const`
-    * `RGBA16_SNORM_EXT` with type `const`
-- [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/):
-    * `KHR_parallel_shader_compile` with type `interface`
-    * `COMPLETION_STATUS_KHR` with type `const`
-- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/):
-    * `OES_draw_buffers_indexed` with type `interface`
-    * `enableiOES(target, index)` with type `method`
-    * `disableiOES(target, index)` with type `method`
-    * `blendEquationiOES(buf, mode)` with type `method`
-    * `blendEquationSeparateiOES(buf, modeRGB, modeAlpha)` with type `method`
-    * `blendFunciOES(buf, src, dst)` with type `method`
-    * `blendFuncSeparateiOES(buf, srcRGB, dstRGB, srcAlpha, dstAlpha)` with type `method`
-    * `colorMaskiOES(buf, r, g, b, a)` with type `method`
-- [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/):
-    * `OES_element_index_uint` with type `interface`
-- [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/):
-    * `OES_fbo_render_mipmap` with type `interface`
-- [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/):
-    * `OES_standard_derivatives` with type `interface`
-    * `FRAGMENT_SHADER_DERIVATIVE_HINT_OES` with type `const`
-- [WebGL OES_texture_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/):
-    * `OES_texture_float` with type `interface`
-- [WebGL OES_texture_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/):
-    * `OES_texture_float_linear` with type `interface`
-- [WebGL OES_texture_half_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/):
-    * `OES_texture_half_float` with type `interface`
-    * `HALF_FLOAT_OES` with type `const`
-- [WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/):
-    * `OES_texture_half_float_linear` with type `interface`
-- [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/):
-    * `WebGLVertexArrayObjectOES` with type `interface`
-    * `OES_vertex_array_object` with type `interface`
-    * `VERTEX_ARRAY_BINDING_OES` with type `const`
-    * `createVertexArrayOES()` with type `method`
-    * `deleteVertexArrayOES(arrayObject)` with type `method`
-    * `isVertexArrayOES(arrayObject)` with type `method`
-    * `bindVertexArrayOES(arrayObject)` with type `method`
-- [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/):
-    * `OVR_multiview2` with type `interface`
-    * `FRAMEBUFFER_ATTACHMENT_TEXTURE_NUM_VIEWS_OVR` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_TEXTURE_BASE_VIEW_INDEX_OVR` with type `const`
-    * `MAX_VIEWS_OVR` with type `const`
-    * `FRAMEBUFFER_INCOMPLETE_VIEW_TARGETS_OVR` with type `const`
-    * `framebufferTextureMultiviewOVR(target, attachment, texture, level, baseViewIndex, numViews)` with type `method`
-- [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/):
-    * `WEBGL_blend_equation_advanced_coherent` with type `interface`
-    * `MULTIPLY` with type `const`
-    * `SCREEN` with type `const`
-    * `OVERLAY` with type `const`
-    * `DARKEN` with type `const`
-    * `LIGHTEN` with type `const`
-    * `COLORDODGE` with type `const`
-    * `COLORBURN` with type `const`
-    * `HARDLIGHT` with type `const`
-    * `SOFTLIGHT` with type `const`
-    * `DIFFERENCE` with type `const`
-    * `EXCLUSION` with type `const`
-    * `HSL_HUE` with type `const`
-    * `HSL_SATURATION` with type `const`
-    * `HSL_COLOR` with type `const`
-    * `HSL_LUMINOSITY` with type `const`
-- [WebGL WEBGL_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/):
-    * `WEBGL_color_buffer_float` with type `interface`
-    * `RGBA32F_EXT` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE_EXT` with type `const`
-    * `UNSIGNED_NORMALIZED_EXT` with type `const`
-- [WebGL WEBGL_compressed_texture_astc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/):
-    * `WEBGL_compressed_texture_astc` with type `interface`
-    * `COMPRESSED_RGBA_ASTC_4x4_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_5x4_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_5x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_6x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_6x6_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_8x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_8x6_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_8x8_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x6_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x8_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x10_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_12x10_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_12x12_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_4x4_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_5x4_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_5x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_6x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_6x6_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x6_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x8_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x6_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x8_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x10_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_12x10_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_12x12_KHR` with type `const`
-    * `getSupportedProfiles()` with type `method`
-- [WebGL WEBGL_compressed_texture_etc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/):
-    * `WEBGL_compressed_texture_etc` with type `interface`
-    * `COMPRESSED_R11_EAC` with type `const`
-    * `COMPRESSED_SIGNED_R11_EAC` with type `const`
-    * `COMPRESSED_RG11_EAC` with type `const`
-    * `COMPRESSED_SIGNED_RG11_EAC` with type `const`
-    * `COMPRESSED_RGB8_ETC2` with type `const`
-    * `COMPRESSED_SRGB8_ETC2` with type `const`
-    * `COMPRESSED_RGB8_PUNCHTHROUGH_ALPHA1_ETC2` with type `const`
-    * `COMPRESSED_SRGB8_PUNCHTHROUGH_ALPHA1_ETC2` with type `const`
-    * `COMPRESSED_RGBA8_ETC2_EAC` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ETC2_EAC` with type `const`
-- [WebGL WEBGL_compressed_texture_etc1 Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/):
-    * `WEBGL_compressed_texture_etc1` with type `interface`
-    * `COMPRESSED_RGB_ETC1_WEBGL` with type `const`
-- [WebGL WEBGL_compressed_texture_pvrtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/):
-    * `WEBGL_compressed_texture_pvrtc` with type `interface`
-    * `COMPRESSED_RGB_PVRTC_4BPPV1_IMG` with type `const`
-    * `COMPRESSED_RGB_PVRTC_2BPPV1_IMG` with type `const`
-    * `COMPRESSED_RGBA_PVRTC_4BPPV1_IMG` with type `const`
-    * `COMPRESSED_RGBA_PVRTC_2BPPV1_IMG` with type `const`
-- [WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/):
-    * `WEBGL_compressed_texture_s3tc` with type `interface`
-    * `COMPRESSED_RGB_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_RGBA_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_RGBA_S3TC_DXT3_EXT` with type `const`
-    * `COMPRESSED_RGBA_S3TC_DXT5_EXT` with type `const`
-- [WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/):
-    * `WEBGL_compressed_texture_s3tc_srgb` with type `interface`
-    * `COMPRESSED_SRGB_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_S3TC_DXT3_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_S3TC_DXT5_EXT` with type `const`
-- [WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/):
-    * `WEBGL_debug_renderer_info` with type `interface`
-    * `UNMASKED_VENDOR_WEBGL` with type `const`
-    * `UNMASKED_RENDERER_WEBGL` with type `const`
-- [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/):
-    * `WEBGL_debug_shaders` with type `interface`
-    * `getTranslatedShaderSource(shader)` with type `method`
-- [WebGL WEBGL_depth_texture Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/):
-    * `WEBGL_depth_texture` with type `interface`
-    * `UNSIGNED_INT_24_8_WEBGL` with type `const`
-- [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/):
-    * `WEBGL_draw_buffers` with type `interface`
-    * `COLOR_ATTACHMENT0_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT1_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT2_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT3_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT4_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT5_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT6_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT7_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT8_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT9_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT10_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT11_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT12_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT13_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT14_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT15_WEBGL` with type `const`
-    * `DRAW_BUFFER0_WEBGL` with type `const`
-    * `DRAW_BUFFER1_WEBGL` with type `const`
-    * `DRAW_BUFFER2_WEBGL` with type `const`
-    * `DRAW_BUFFER3_WEBGL` with type `const`
-    * `DRAW_BUFFER4_WEBGL` with type `const`
-    * `DRAW_BUFFER5_WEBGL` with type `const`
-    * `DRAW_BUFFER6_WEBGL` with type `const`
-    * `DRAW_BUFFER7_WEBGL` with type `const`
-    * `DRAW_BUFFER8_WEBGL` with type `const`
-    * `DRAW_BUFFER9_WEBGL` with type `const`
-    * `DRAW_BUFFER10_WEBGL` with type `const`
-    * `DRAW_BUFFER11_WEBGL` with type `const`
-    * `DRAW_BUFFER12_WEBGL` with type `const`
-    * `DRAW_BUFFER13_WEBGL` with type `const`
-    * `DRAW_BUFFER14_WEBGL` with type `const`
-    * `DRAW_BUFFER15_WEBGL` with type `const`
-    * `MAX_COLOR_ATTACHMENTS_WEBGL` with type `const`
-    * `MAX_DRAW_BUFFERS_WEBGL` with type `const`
-    * `drawBuffersWEBGL(buffers)` with type `method`
-- [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/):
-    * `WEBGL_draw_instanced_base_vertex_base_instance` with type `interface`
-    * `drawArraysInstancedBaseInstanceWEBGL(mode, first, count, instanceCount, baseInstance)` with type `method`
-    * `drawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, count, type, offset, instanceCount, baseVertex, baseInstance)` with type `method`
-- [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/):
-    * `WEBGL_lose_context` with type `interface`
-    * `loseContext()` with type `method`
-    * `restoreContext()` with type `method`
-- [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/):
-    * `WEBGL_multi_draw` with type `interface`
-    * `multiDrawArraysWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, drawcount)` with type `method`
-    * `multiDrawElementsWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, drawcount)` with type `method`
-    * `multiDrawArraysInstancedWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, drawcount)` with type `method`
-    * `multiDrawElementsInstancedWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, drawcount)` with type `method`
-- [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/):
-    * `WEBGL_multi_draw_instanced_base_vertex_base_instance` with type `interface`
-    * `multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawCount)` with type `method`
-    * `multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawCount)` with type `method`
 
-=> 361 properties without definition found in 44 specifications
+=> 114 properties without definition found in 2 specifications
 
 
 ## Possibly no definition for CSS properties
@@ -836,11 +955,6 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to:
     * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/) but does not list it in its references
-- [CSS 2](https://drafts.csswg.org/css2/) links to:
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1650,7 +1764,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 737 missing references for links found in 197 specifications
+=> 733 missing references for links found in 196 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1710,10 +1824,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
-- [CSS 2](https://drafts.csswg.org/css2/) links to:
-    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -2281,7 +2391,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
 
-=> 489 inconsistent references for links found in 199 specifications
+=> 486 inconsistent references for links found in 198 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2353,8 +2463,6 @@ Links in the body of a specification should be to the same document as that poin
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/):
      * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-object`](https://www.w3.org/TR/wai-aria-1.2/#dfn-object)
      * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
-- [CSS 2](https://drafts.csswg.org/css2/):
-     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -3354,7 +3462,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 855 problematic external links found in 210 specifications
+=> 854 problematic external links found in 209 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -5086,8 +5194,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#worker`](https://html.spec.whatwg.org/#worker)
-- [CSS 2](https://drafts.csswg.org/css2/):
-     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -9729,7 +9835,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5032 problematic external links found in 305 specifications
+=> 5031 problematic external links found in 304 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9862,11 +9968,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
-- [CSS 2](https://drafts.csswg.org/css2/):
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -10104,7 +10205,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 191 problematic external links found in 63 specifications
+=> 187 problematic external links found in 62 specifications
 
 
 
