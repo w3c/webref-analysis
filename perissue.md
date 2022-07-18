@@ -9,36 +9,30 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 325)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/): `Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format
     at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17
     at Array.forEach (<anonymous>)
     at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)
     at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)
-    at pptr://__puppeteer_evaluation_script__:8:63
+    at pptr://__puppeteer_evaluation_script__:8:67
     at Array.forEach (<anonymous>)
-    at pptr://__puppeteer_evaluation_script__:7:25 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format
+    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format
     at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17
     at Array.forEach (<anonymous>)
     at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)
     at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)
-    at pptr://__puppeteer_evaluation_script__:8:63
+    at pptr://__puppeteer_evaluation_script__:8:67
     at Array.forEach (<anonymous>)
-    at pptr://__puppeteer_evaluation_script__:7:25
+    at pptr://__puppeteer_evaluation_script__:7:29
     at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
     at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
     at async Promise.all (index 306)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/): `Error: Evaluation failed: Error: Respec generation took too long
     at isReady (pptr://__puppeteer_evaluation_script__:20:27)
     at isReady (pptr://__puppeteer_evaluation_script__:30:27)
@@ -65,12 +59,12 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
     at async Promise.all (index 354)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
 
-=> 3 specifications found
+=> 2 specifications found
 
 
 ## Specifications without normative dependencies
@@ -174,157 +168,32 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## Specifications that use WebIDL but do not reference the WebIDL spec
 
-- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
-- [SVG Animations](https://svgwg.org/specs/animations/)
-- [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
-- [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/)
-- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/)
-- [WebGL EXT_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/)
-- [WebGL EXT_color_buffer_half_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/)
-- [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/)
-- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- [WebGL EXT_float_blend Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/)
-- [WebGL EXT_frag_depth Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/)
-- [WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/)
-- [WebGL EXT_sRGB Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/)
-- [WebGL EXT_texture_compression_bptc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/)
-- [WebGL EXT_texture_compression_rgtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/)
-- [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
-- [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
-- [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
-- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
-- [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
-- [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
-- [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
-- [WebGL OES_texture_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/)
-- [WebGL OES_texture_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/)
-- [WebGL OES_texture_half_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/)
-- [WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/)
-- [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
-- [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/)
-- [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- [WebGL WEBGL_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/)
-- [WebGL WEBGL_compressed_texture_astc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/)
-- [WebGL WEBGL_compressed_texture_etc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/)
-- [WebGL WEBGL_compressed_texture_etc1 Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- [WebGL WEBGL_compressed_texture_pvrtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- [WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- [WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- [WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/)
-- [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
-- [WebGL WEBGL_depth_texture Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/)
-- [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/)
-- [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/)
-- [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
-- [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- [WebRTC Priority Control API](https://w3c.github.io/webrtc-priority/)
 
-=> 45 specifications found
-
+=> 0 specification found
 
 
 ## List of [Exposed] names not defined in the specifications crawled
 
-- `*` used in [Compression Streams](https://wicg.github.io/compression/), [Console Standard](https://console.spec.whatwg.org/), [DOM Standard](https://dom.spec.whatwg.org/), [Encoding Standard](https://encoding.spec.whatwg.org/), [High Resolution Time](https://w3c.github.io/hr-time/), [HTML Standard](https://html.spec.whatwg.org/multipage/), [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/), [Streams Standard](https://streams.spec.whatwg.org/), [URL Standard](https://url.spec.whatwg.org/), [User Timing Level 3](https://w3c.github.io/user-timing/)
 
-=> 1 [Exposed] name found
-
-Please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
+=> 0 [Exposed] name found
 
 
 ## List of WebIDL names not defined in the specifications crawled
 
-- `ArrayBuffer` used in [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/), [Fetch Standard](https://fetch.spec.whatwg.org/), [File API](https://w3c.github.io/FileAPI/), [Presentation API](https://w3c.github.io/presentation-api/), [Push API](https://w3c.github.io/push-api/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/), [WebGPU](https://gpuweb.github.io/gpuweb/), [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/), [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
-- `BigInt64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `BigUint64Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `CSSOMString` used in [CSS Animations Level 1](https://drafts.csswg.org/css-animations/), [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/), [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/), [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/), [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/), [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/), [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/), [CSS Nesting Module](https://drafts.csswg.org/css-nesting/), [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/), [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/), [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/), [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/), [CSS Transitions](https://drafts.csswg.org/css-transitions/), [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/), [CSSOM View Module](https://drafts.csswg.org/cssom-view/), [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/), [Web Animations](https://drafts.csswg.org/web-animations-1/)
-- `DataView` used in [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web NFC](https://w3c.github.io/web-nfc/), [WebHID API](https://wicg.github.io/webhid/), [WebUSB API](https://wicg.github.io/webusb/)
-- `Float32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebXR Device API](https://immersive-web.github.io/webxr/), [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/), [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
-- `Float32List` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `Float64Array` used in [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry/), [Orientation Sensor](https://w3c.github.io/orientation-sensor/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `GLbitfield` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `GLboolean` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/), [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
-- `GLenum` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/), [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/), [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
-- `GLfloat` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `GLint` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- `GLintptr` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- `GLsizei` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- `GLsizeiptr` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `GLuint` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/), [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/), [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- `Int16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `Int32Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- `Int32List` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `Int8Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `PostMessageOptions` used in [Portals](https://wicg.github.io/portals/)
-- `TexImageSource` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `Uint16Array` used in [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `Uint32Array` used in [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html), [Web IDL Standard](https://webidl.spec.whatwg.org/), [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/), [WebGPU](https://gpuweb.github.io/gpuweb/)
-- `Uint8Array` used in [Encoding Standard](https://encoding.spec.whatwg.org/), [Web Audio API](https://webaudio.github.io/web-audio-api/), [Web Cryptography API](https://w3c.github.io/webcrypto/), [Web IDL Standard](https://webidl.spec.whatwg.org/), [Web MIDI API](https://webaudio.github.io/web-midi-api/)
-- `Uint8ClampedArray` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- `VisibilityState` used in [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- `WebAppManifest` used in [Web Share Target API](https://w3c.github.io/web-share-target/)
-- `WebGLActiveInfo` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `WebGLBuffer` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `WebGLContextAttributes` used in [WebXR Device API](https://immersive-web.github.io/webxr/)
-- `WebGLFramebuffer` used in [WebXR Device API](https://immersive-web.github.io/webxr/)
-- `WebGLObject` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/), [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
-- `WebGLProgram` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `WebGLRenderingContext` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [WebXR Device API](https://immersive-web.github.io/webxr/)
-- `WebGLRenderingContextBase` used in [WebXR Device API](https://immersive-web.github.io/webxr/)
-- `WebGLShader` used in [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
-- `WebGLTexture` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/), [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/), [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/), [WebXR Layers API Level 1](https://immersive-web.github.io/layers/), [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
-- `WebGLUniformLocation` used in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- `WindowProxy` used in [HTML Standard](https://html.spec.whatwg.org/multipage/), [Portals](https://wicg.github.io/portals/), [SVG Animations](https://svgwg.org/specs/animations/), [UI Events](https://w3c.github.io/uievents/)
-- `bigint` used in [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
-=> 42 WebIDL names found
-
-Some of them may be type errors in specs (e.g. "int" does not exist, "Array" cannot be used on its own, etc.)
-Also, please keep in mind that Strudy only knows about IDL terms defined in the specifications that were crawled **and** that do not have invalid IDL content.
+=> 0 WebIDL name found
 
 
 ## List of WebIDL names defined in more than one spec
 
-- `FileSystemCreateWritableOptions` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemDirectoryHandle` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemFileHandle` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemGetDirectoryOptions` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemGetFileOptions` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemHandle` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemHandleKind` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemRemoveOptions` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemWritableFileStream` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `FileSystemWriteChunkType` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `MessageEventSource` defined in [HTML Standard](https://html.spec.whatwg.org/multipage/) and [Portals](https://wicg.github.io/portals/)
-- `PermissionState` defined in [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/) and [Permissions](https://w3c.github.io/permissions/)
-- `WriteCommandType` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
-- `WriteParams` defined in [File System Access](https://wicg.github.io/file-system-access/) and [File System Standard](https://fs.spec.whatwg.org/)
 
-=> 14 WebIDL names found
-
-"There can be only one"...
+=> 0 WebIDL name found
 
 
 ## Missing references for WebIDL names
 
-- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
-- [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html) uses `Point2D` but does not reference [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
-- [File and Directory Entries API](https://wicg.github.io/entries-api/) uses `DOMException` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
-- [File API](https://w3c.github.io/FileAPI/) uses:
-    * `BufferSource` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
-    * `DOMException` but does not reference [Web IDL Standard](https://webidl.spec.whatwg.org/)
-    * `MediaSource` but does not reference [Media Source Extensions™](https://w3c.github.io/media-source/)
-- [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) uses `Gamepad` but does not reference [Gamepad](https://w3c.github.io/gamepad/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/) uses `WebGL2RenderingContext` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- [Intersection Observer](https://w3c.github.io/IntersectionObserver/) uses `DOMHighResTimeStamp` but does not reference [High Resolution Time](https://w3c.github.io/hr-time/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/) uses `PerformanceEntry` but does not reference [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) uses `CSSPseudoElement` but does not reference [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
-- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/) uses `WebGLQuery` but does not reference [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
-- [WebXR Anchors Module](https://immersive-web.github.io/anchors/) uses `XRHitTestResult` but does not reference [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
-- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) uses `XRWebGLBinding` but does not reference [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 
-=> 14 missing references for IDL definitions found in 12 specifications
+=> 0 missing reference for IDL definitions found in 0 specification
 
 
 ## No definition for CSS properties
@@ -338,413 +207,8 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 
 ## No definition for IDL properties
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/):
-    * `"loading"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate), but found [`loading`](https://html.spec.whatwg.org/multipage/embedded-content.html#attr-img-loading) with type `element-attr` for `img`
-    * `"interactive"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate)
-    * `"complete"` with type `enum-value` for [`DocumentReadyState`](https://html.spec.whatwg.org/multipage/dom.html#documentreadystate), but found [`complete`](https://html.spec.whatwg.org/multipage/embedded-content.html#dom-img-complete) with type `attribute` for `HTMLImageElement`
-    * `"visible"` with type `enum-value` for [`DocumentVisibilityState`](https://html.spec.whatwg.org/multipage/dom.html#documentvisibilitystate), but found [`visible`](https://html.spec.whatwg.org/multipage/window-object.html#dom-barprop-visible) with type `attribute` for `BarProp`
-    * `"hidden"` with type `enum-value` for [`DocumentVisibilityState`](https://html.spec.whatwg.org/multipage/dom.html#documentvisibilitystate), but found [`hidden`](https://html.spec.whatwg.org/multipage/media.html#dom-texttrack-hidden) with type `dfn`
-    * `inert` with type `attribute` for [`HTMLElement`](https://html.spec.whatwg.org/multipage/dom.html#htmlelement), but found [`inert`](https://html.spec.whatwg.org/multipage/interaction.html#inert) with type `dfn`
-    * `""` with type `enum-value` for [`CanPlayTypeResult`](https://html.spec.whatwg.org/multipage/media.html#canplaytyperesult)
-    * `"disabled"` with type `enum-value` for [`TextTrackMode`](https://html.spec.whatwg.org/multipage/media.html#texttrackmode), but found [`disabled`](https://html.spec.whatwg.org/multipage/semantics.html#attr-link-disabled) with type `element-attr` for `link`
-    * `"hidden"` with type `enum-value` for [`TextTrackMode`](https://html.spec.whatwg.org/multipage/media.html#texttrackmode), but found [`hidden`](https://html.spec.whatwg.org/multipage/media.html#dom-texttrack-hidden) with type `dfn`
-    * `"showing"` with type `enum-value` for [`TextTrackMode`](https://html.spec.whatwg.org/multipage/media.html#texttrackmode), but found [`showing`](https://html.spec.whatwg.org/multipage/media.html#dom-texttrack-showing) with type `dfn`
-    * `"subtitles"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`subtitles`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-subtitles) with type `attr-value` for `track/kind`
-    * `"captions"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`captions`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-captions) with type `attr-value` for `track/kind`
-    * `"descriptions"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`descriptions`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-descriptions) with type `attr-value` for `track/kind`
-    * `"chapters"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`chapters`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-chapters) with type `attr-value` for `track/kind`
-    * `"metadata"` with type `enum-value` for [`TextTrackKind`](https://html.spec.whatwg.org/multipage/media.html#texttrackkind), but found [`metadata`](https://html.spec.whatwg.org/multipage/media.html#attr-track-kind-keyword-metadata) with type `attr-value` for `track/kind`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`TrackEvent`](https://html.spec.whatwg.org/multipage/media.html#trackevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `track` with type `dict-member` for [`TrackEventInit`](https://html.spec.whatwg.org/multipage/media.html#trackeventinit), but found [`track`](https://html.spec.whatwg.org/multipage/media.html#the-track-element) with type `element`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`SubmitEvent`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#submitevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `submitter` with type `dict-member` for [`SubmitEventInit`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#submiteventinit), but found [`submitter`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-submitevent-submitter) with type `attribute` for `SubmitEvent`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`FormDataEvent`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#formdataevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `formData` with type `dict-member` for [`FormDataEventInit`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#formdataeventinit), but found [`formData`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-formdataevent-formdata) with type `attribute` for `FormDataEvent`
-    * `flatten` with type `dict-member` for [`AssignedNodesOptions`](https://html.spec.whatwg.org/multipage/scripting.html#assignednodesoptions), but found [`flatten`](https://html.spec.whatwg.org/multipage/scripting.html#dom-assignednodesoptions-flatten) with type `dict-member` for `AssignedNodeOptions`
-    * `CanvasImageSource` with type `typedef`, but found [`CanvasImageSource`](https://html.spec.whatwg.org/multipage/canvas.html#canvasimagesource) with type `dfn`
-    * `CanvasFilterInput` with type `typedef`, but found [`CanvasFilterInput`](https://html.spec.whatwg.org/multipage/canvas.html#canvasfilterinput) with type `dfn`
-    * `constructor(filters)` with type `constructor` for [`CanvasFilter`](https://html.spec.whatwg.org/multipage/canvas.html#canvasfilter), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `"butt"` with type `enum-value` for [`CanvasLineCap`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinecap)
-    * `"round"` with type `enum-value` for [`CanvasLineCap`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinecap)
-    * `"square"` with type `enum-value` for [`CanvasLineCap`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinecap)
-    * `"round"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
-    * `"bevel"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
-    * `"miter"` with type `enum-value` for [`CanvasLineJoin`](https://html.spec.whatwg.org/multipage/canvas.html#canvaslinejoin)
-    * `letterSpacing` with type `attribute` for [`CanvasTextDrawingStyles`](https://html.spec.whatwg.org/multipage/canvas.html#canvastextdrawingstyles), but found [`letterSpacing`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-letterspacing) with type `dfn`
-    * `wordSpacing` with type `attribute` for [`CanvasTextDrawingStyles`](https://html.spec.whatwg.org/multipage/canvas.html#canvastextdrawingstyles), but found [`wordSpacing`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-wordspacing) with type `dfn`
-    * `constructor(sw, sh, settings)` with type `constructor` for [`ImageData`](https://html.spec.whatwg.org/multipage/canvas.html#imagedata), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(data, sw, sh, settings)` with type `constructor` for [`ImageData`](https://html.spec.whatwg.org/multipage/canvas.html#imagedata), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(path)` with type `constructor` for [`Path2D`](https://html.spec.whatwg.org/multipage/canvas.html#path2d), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `type` with type `dict-member` for [`ImageEncodeOptions`](https://html.spec.whatwg.org/multipage/canvas.html#imageencodeoptions), but found [`type`](https://html.spec.whatwg.org/multipage/infrastructure.html#concept-response-type) with type `dfn`
-    * `quality` with type `dict-member` for [`ImageEncodeOptions`](https://html.spec.whatwg.org/multipage/canvas.html#imageencodeoptions), but found [`quality`](https://html.spec.whatwg.org/multipage/canvas.html#image-encode-options-quality) with type `dfn`
-    * `"2d"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`2d`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-2d) with type `dfn`
-    * `"bitmaprenderer"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`bitmaprenderer`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-bitmaprenderer) with type `dfn`
-    * `"webgl"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`webgl`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-webgl) with type `dfn`
-    * `"webgl2"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`webgl2`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-webgl2) with type `dfn`
-    * `"webgpu"` with type `enum-value` for [`OffscreenRenderingContextId`](https://html.spec.whatwg.org/multipage/canvas.html#offscreenrenderingcontextid), but found [`webgpu`](https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-webgpu) with type `dfn`
-    * `constructor(width, height)` with type `constructor` for [`OffscreenCanvas`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencanvas), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `commit()` with type `method` for [`OffscreenCanvasRenderingContext2D`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencanvasrenderingcontext2d), but found [`commit()`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencontext-commit) with type `dfn`
-    * `canvas` with type `attribute` for [`OffscreenCanvasRenderingContext2D`](https://html.spec.whatwg.org/multipage/canvas.html#offscreencanvasrenderingcontext2d), but found [`canvas`](https://html.spec.whatwg.org/multipage/canvas.html#canvas) with type `element`
-    * `extends` with type `dict-member` for [`ElementDefinitionOptions`](https://html.spec.whatwg.org/multipage/custom-elements.html#elementdefinitionoptions)
-    * `valueMissing` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`valueMissing`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-valuemissing) with type `attribute` for `ValidityState`
-    * `typeMismatch` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`typeMismatch`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-typemismatch) with type `attribute` for `ValidityState`
-    * `patternMismatch` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`patternMismatch`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-patternmismatch) with type `attribute` for `ValidityState`
-    * `tooLong` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`tooLong`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-toolong) with type `attribute` for `ValidityState`
-    * `tooShort` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`tooShort`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-tooshort) with type `attribute` for `ValidityState`
-    * `rangeUnderflow` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`rangeUnderflow`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-rangeunderflow) with type `attribute` for `ValidityState`
-    * `rangeOverflow` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`rangeOverflow`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-rangeoverflow) with type `attribute` for `ValidityState`
-    * `stepMismatch` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`stepMismatch`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-stepmismatch) with type `attribute` for `ValidityState`
-    * `badInput` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`badInput`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-badinput) with type `attribute` for `ValidityState`
-    * `customError` with type `dict-member` for [`ValidityStateFlags`](https://html.spec.whatwg.org/multipage/custom-elements.html#validitystateflags), but found [`customError`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-validitystate-customerror) with type `attribute` for `ValidityState`
-    * `constructor()` with type `constructor` for [`DataTransfer`](https://html.spec.whatwg.org/multipage/dnd.html#datatransfer), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`DragEvent`](https://html.spec.whatwg.org/multipage/dnd.html#dragevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `dataTransfer` with type `dict-member` for [`DragEventInit`](https://html.spec.whatwg.org/multipage/dnd.html#drageventinit), but found [`dataTransfer`](https://html.spec.whatwg.org/multipage/dnd.html#dom-dragevent-datatransfer) with type `attribute` for `DragEvent`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`PopStateEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#popstateevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `state` with type `dict-member` for [`PopStateEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#popstateeventinit), but found [`state`](https://html.spec.whatwg.org/multipage/images.html#img-req-state) with type `dfn` for `image request`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`HashChangeEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `oldURL` with type `dict-member` for [`HashChangeEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeeventinit), but found [`oldURL`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-hashchangeevent-oldurl) with type `attribute` for `HashChangeEvent`
-    * `newURL` with type `dict-member` for [`HashChangeEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#hashchangeeventinit), but found [`newURL`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-hashchangeevent-newurl) with type `attribute` for `HashChangeEvent`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`PageTransitionEvent`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#pagetransitionevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `persisted` with type `dict-member` for [`PageTransitionEventInit`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#pagetransitioneventinit), but found [`persisted`](https://html.spec.whatwg.org/multipage/browsing-the-web.html#dom-pagetransitionevent-persisted) with type `attribute` for `PageTransitionEvent`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`ErrorEvent`](https://html.spec.whatwg.org/multipage/webappapis.html#errorevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `message` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`message`](https://html.spec.whatwg.org/multipage/media.html#concept-mediaerror-message) with type `dfn`
-    * `filename` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`filename`](https://html.spec.whatwg.org/multipage/input.html#dom-input-value-filename) with type `dfn`
-    * `lineno` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`lineno`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-errorevent-lineno) with type `attribute` for `ErrorEvent`
-    * `colno` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`colno`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-errorevent-colno) with type `attribute` for `ErrorEvent`
-    * `error` with type `dict-member` for [`ErrorEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#erroreventinit), but found [`error`](https://html.spec.whatwg.org/multipage/media.html#dom-media-error) with type `attribute` for `HTMLMediaElement`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`PromiseRejectionEvent`](https://html.spec.whatwg.org/multipage/webappapis.html#promiserejectionevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `promise` with type `dict-member` for [`PromiseRejectionEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#promiserejectioneventinit), but found [`promise`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-promise) with type `attribute` for `PromiseRejectionEvent`
-    * `reason` with type `dict-member` for [`PromiseRejectionEventInit`](https://html.spec.whatwg.org/multipage/webappapis.html#promiserejectioneventinit), but found [`reason`](https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-reason) with type `attribute` for `PromiseRejectionEvent`
-    * `constructor()` with type `constructor` for [`DOMParser`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparser), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `"text/html"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`text/html`](https://html.spec.whatwg.org/multipage/iana.html#text/html) with type `dfn`
-    * `"text/xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`text/xml`](https://html.spec.whatwg.org/multipage/indices.html#text/xml) with type `dfn`
-    * `"application/xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`application/xml`](https://html.spec.whatwg.org/multipage/indices.html#application/xml) with type `dfn`
-    * `"application/xhtml+xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`application/xhtml+xml`](https://html.spec.whatwg.org/multipage/iana.html#application/xhtml+xml) with type `dfn`
-    * `"image/svg+xml"` with type `enum-value` for [`DOMParserSupportedType`](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#domparsersupportedtype), but found [`image/svg+xml`](https://html.spec.whatwg.org/multipage/indices.html#image/svg+xml) with type `dfn`
-    * `NavigatorPlugins` with type `interface`, but found [`NavigatorPlugins`](https://html.spec.whatwg.org/multipage/system-state.html#navigatorplugins) with type `dfn`
-    * `PluginArray` with type `interface`, but found [`PluginArray`](https://html.spec.whatwg.org/multipage/system-state.html#pluginarray) with type `dfn`
-    * `MimeTypeArray` with type `interface`, but found [`MimeTypeArray`](https://html.spec.whatwg.org/multipage/system-state.html#mimetypearray) with type `dfn`
-    * `Plugin` with type `interface`, but found [`Plugin`](https://html.spec.whatwg.org/multipage/system-state.html#dom-plugin) with type `dfn`
-    * `MimeType` with type `interface`, but found [`MimeType`](https://html.spec.whatwg.org/multipage/system-state.html#mimetype) with type `dfn`
-    * `constructor(type, eventInitDict)` with type `constructor` for [`MessageEvent`](https://html.spec.whatwg.org/multipage/comms.html#messageevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(url, eventSourceInitDict)` with type `constructor` for [`EventSource`](https://html.spec.whatwg.org/multipage/server-sent-events.html#eventsource), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor()` with type `constructor` for [`MessageChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#messagechannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(name)` with type `constructor` for [`BroadcastChannel`](https://html.spec.whatwg.org/multipage/web-messaging.html#broadcastchannel), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `constructor(scriptURL, options)` with type `constructor` for [`Worker`](https://html.spec.whatwg.org/multipage/workers.html#worker), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `type` with type `dict-member` for [`WorkerOptions`](https://html.spec.whatwg.org/multipage/workers.html#workeroptions), but found [`type`](https://html.spec.whatwg.org/multipage/infrastructure.html#concept-response-type) with type `dfn`
-    * `credentials` with type `dict-member` for [`WorkerOptions`](https://html.spec.whatwg.org/multipage/workers.html#workeroptions), but found [`credentials`](https://html.spec.whatwg.org/multipage/workers.html#concept-sharedworkerglobalscope-credentials) with type `dfn` for `SharedWorkerGlobalScope`
-    * `name` with type `dict-member` for [`WorkerOptions`](https://html.spec.whatwg.org/multipage/workers.html#workeroptions), but found [`name`](https://html.spec.whatwg.org/multipage/infrastructure.html#slot-name) with type `dfn`
-    * `"classic"` with type `enum-value` for [`WorkerType`](https://html.spec.whatwg.org/multipage/workers.html#workertype)
-    * `"module"` with type `enum-value` for [`WorkerType`](https://html.spec.whatwg.org/multipage/workers.html#workertype)
-    * `constructor(scriptURL, options)` with type `constructor` for [`SharedWorker`](https://html.spec.whatwg.org/multipage/workers.html#sharedworker), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `hardwareConcurrency` with type `attribute` for [`NavigatorConcurrentHardware`](https://html.spec.whatwg.org/multipage/workers.html#navigatorconcurrenthardware)
-    * `constructor(type, eventInitDict)` with type `constructor` for [`StorageEvent`](https://html.spec.whatwg.org/multipage/webstorage.html#storageevent), but found [`constructor`](https://html.spec.whatwg.org/multipage/custom-elements.html#concept-custom-element-definition-constructor) with type `dfn` for `custom element definition`
-    * `key` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`key`](https://html.spec.whatwg.org/multipage/infrastructure.html#map-key) with type `dfn`
-    * `oldValue` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`oldValue`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-oldvalue) with type `attribute` for `StorageEvent`
-    * `newValue` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`newValue`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-newvalue) with type `attribute` for `StorageEvent`
-    * `url` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`url`](https://html.spec.whatwg.org/multipage/infrastructure.html#basic-url-parser-url) with type `dfn`
-    * `storageArea` with type `dict-member` for [`StorageEventInit`](https://html.spec.whatwg.org/multipage/webstorage.html#storageeventinit), but found [`storageArea`](https://html.spec.whatwg.org/multipage/webstorage.html#dom-storageevent-storagearea) with type `attribute` for `StorageEvent`
-    * `write(...text)` with type `method`
-    * `writeln(...text)` with type `method`
-    * `execCommand(commandId, showUI, value)` with type `method`, but found [`execCommand()`](https://html.spec.whatwg.org/multipage/interaction.html#execCommand) with type `dfn`
-    * `queryCommandEnabled(commandId)` with type `method`, but found [`queryCommandEnabled()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandenabled) with type `dfn`
-    * `queryCommandIndeterm(commandId)` with type `method`, but found [`queryCommandIndeterm()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandindeterm) with type `dfn`
-    * `queryCommandState(commandId)` with type `method`, but found [`queryCommandState()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandstate) with type `dfn`
-    * `queryCommandSupported(commandId)` with type `method`, but found [`queryCommandSupported()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandsupported) with type `dfn`
-    * `queryCommandValue(commandId)` with type `method`, but found [`queryCommandValue()`](https://html.spec.whatwg.org/multipage/interaction.html#dom-document-querycommandvalue) with type `dfn`
-- [Selection API](https://w3c.github.io/selection-api/):
-    * `stringification behavior` with type `dfn` for [`Selection`](https://w3c.github.io/selection-api/#dom-selection)
-- [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/):
-    * `ANGLE_instanced_arrays` with type `interface`
-    * `VERTEX_ATTRIB_ARRAY_DIVISOR_ANGLE` with type `const`
-    * `drawArraysInstancedANGLE(mode, first, count, primcount)` with type `method`
-    * `drawElementsInstancedANGLE(mode, count, type, offset, primcount)` with type `method`
-    * `vertexAttribDivisorANGLE(index, divisor)` with type `method`
-- [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/):
-    * `EXT_blend_minmax` with type `interface`
-    * `MIN_EXT` with type `const`
-    * `MAX_EXT` with type `const`
-- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/):
-    * `EXT_clip_cull_distance` with type `interface`
-    * `MAX_CLIP_DISTANCES_EXT` with type `const`
-    * `MAX_CULL_DISTANCES_EXT` with type `const`
-    * `MAX_COMBINED_CLIP_AND_CULL_DISTANCES_EXT` with type `const`
-    * `CLIP_DISTANCE0_EXT` with type `const`
-    * `CLIP_DISTANCE1_EXT` with type `const`
-    * `CLIP_DISTANCE2_EXT` with type `const`
-    * `CLIP_DISTANCE3_EXT` with type `const`
-    * `CLIP_DISTANCE4_EXT` with type `const`
-    * `CLIP_DISTANCE5_EXT` with type `const`
-    * `CLIP_DISTANCE6_EXT` with type `const`
-    * `CLIP_DISTANCE7_EXT` with type `const`
-- [WebGL EXT_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/):
-    * `EXT_color_buffer_float` with type `interface`
-- [WebGL EXT_color_buffer_half_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/):
-    * `EXT_color_buffer_half_float` with type `interface`
-    * `RGBA16F_EXT` with type `const`
-    * `RGB16F_EXT` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE_EXT` with type `const`
-    * `UNSIGNED_NORMALIZED_EXT` with type `const`
-- [WebGL EXT_disjoint_timer_query Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/):
-    * `GLuint64EXT` with type `typedef`
-    * `WebGLTimerQueryEXT` with type `interface`
-    * `EXT_disjoint_timer_query` with type `interface`
-    * `QUERY_COUNTER_BITS_EXT` with type `const`
-    * `CURRENT_QUERY_EXT` with type `const`
-    * `QUERY_RESULT_EXT` with type `const`
-    * `QUERY_RESULT_AVAILABLE_EXT` with type `const`
-    * `TIME_ELAPSED_EXT` with type `const`
-    * `TIMESTAMP_EXT` with type `const`
-    * `GPU_DISJOINT_EXT` with type `const`
-    * `createQueryEXT()` with type `method`
-    * `deleteQueryEXT(query)` with type `method`
-    * `isQueryEXT(query)` with type `method`
-    * `beginQueryEXT(target, query)` with type `method`
-    * `endQueryEXT(target)` with type `method`
-    * `queryCounterEXT(query, target)` with type `method`
-    * `getQueryEXT(target, pname)` with type `method`
-    * `getQueryObjectEXT(query, pname)` with type `method`
-- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/):
-    * `EXT_disjoint_timer_query_webgl2` with type `interface`
-    * `QUERY_COUNTER_BITS_EXT` with type `const`
-    * `TIME_ELAPSED_EXT` with type `const`
-    * `TIMESTAMP_EXT` with type `const`
-    * `GPU_DISJOINT_EXT` with type `const`
-    * `queryCounterEXT(query, target)` with type `method`
-- [WebGL EXT_float_blend Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/):
-    * `EXT_float_blend` with type `interface`
-- [WebGL EXT_frag_depth Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/):
-    * `EXT_frag_depth` with type `interface`
-- [WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/):
-    * `EXT_shader_texture_lod` with type `interface`
-- [WebGL EXT_sRGB Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/):
-    * `EXT_sRGB` with type `interface`
-    * `SRGB_EXT` with type `const`
-    * `SRGB_ALPHA_EXT` with type `const`
-    * `SRGB8_ALPHA8_EXT` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING_EXT` with type `const`
-- [WebGL EXT_texture_compression_bptc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/):
-    * `EXT_texture_compression_bptc` with type `interface`
-    * `COMPRESSED_RGBA_BPTC_UNORM_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_BPTC_UNORM_EXT` with type `const`
-    * `COMPRESSED_RGB_BPTC_SIGNED_FLOAT_EXT` with type `const`
-    * `COMPRESSED_RGB_BPTC_UNSIGNED_FLOAT_EXT` with type `const`
-- [WebGL EXT_texture_compression_rgtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/):
-    * `EXT_texture_compression_rgtc` with type `interface`
-    * `COMPRESSED_RED_RGTC1_EXT` with type `const`
-    * `COMPRESSED_SIGNED_RED_RGTC1_EXT` with type `const`
-    * `COMPRESSED_RED_GREEN_RGTC2_EXT` with type `const`
-    * `COMPRESSED_SIGNED_RED_GREEN_RGTC2_EXT` with type `const`
-- [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/):
-    * `EXT_texture_filter_anisotropic` with type `interface`
-    * `TEXTURE_MAX_ANISOTROPY_EXT` with type `const`
-    * `MAX_TEXTURE_MAX_ANISOTROPY_EXT` with type `const`
-- [WebGL EXT_texture_norm16 Extension Specification](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/):
-    * `EXT_texture_norm16` with type `interface`
-    * `R16_EXT` with type `const`
-    * `RG16_EXT` with type `const`
-    * `RGB16_EXT` with type `const`
-    * `RGBA16_EXT` with type `const`
-    * `R16_SNORM_EXT` with type `const`
-    * `RG16_SNORM_EXT` with type `const`
-    * `RGB16_SNORM_EXT` with type `const`
-    * `RGBA16_SNORM_EXT` with type `const`
-- [WebGL KHR_parallel_shader_compile Extension Specification](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/):
-    * `KHR_parallel_shader_compile` with type `interface`
-    * `COMPLETION_STATUS_KHR` with type `const`
-- [WebGL OES_draw_buffers_indexed Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/):
-    * `OES_draw_buffers_indexed` with type `interface`
-    * `enableiOES(target, index)` with type `method`
-    * `disableiOES(target, index)` with type `method`
-    * `blendEquationiOES(buf, mode)` with type `method`
-    * `blendEquationSeparateiOES(buf, modeRGB, modeAlpha)` with type `method`
-    * `blendFunciOES(buf, src, dst)` with type `method`
-    * `blendFuncSeparateiOES(buf, srcRGB, dstRGB, srcAlpha, dstAlpha)` with type `method`
-    * `colorMaskiOES(buf, r, g, b, a)` with type `method`
-- [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/):
-    * `OES_element_index_uint` with type `interface`
-- [WebGL OES_fbo_render_mipmap Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/):
-    * `OES_fbo_render_mipmap` with type `interface`
-- [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/):
-    * `OES_standard_derivatives` with type `interface`
-    * `FRAGMENT_SHADER_DERIVATIVE_HINT_OES` with type `const`
-- [WebGL OES_texture_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/):
-    * `OES_texture_float` with type `interface`
-- [WebGL OES_texture_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/):
-    * `OES_texture_float_linear` with type `interface`
-- [WebGL OES_texture_half_float Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/):
-    * `OES_texture_half_float` with type `interface`
-    * `HALF_FLOAT_OES` with type `const`
-- [WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/):
-    * `OES_texture_half_float_linear` with type `interface`
-- [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/):
-    * `WebGLVertexArrayObjectOES` with type `interface`
-    * `OES_vertex_array_object` with type `interface`
-    * `VERTEX_ARRAY_BINDING_OES` with type `const`
-    * `createVertexArrayOES()` with type `method`
-    * `deleteVertexArrayOES(arrayObject)` with type `method`
-    * `isVertexArrayOES(arrayObject)` with type `method`
-    * `bindVertexArrayOES(arrayObject)` with type `method`
-- [WebGL OVR_multiview2 Extension Specification](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/):
-    * `OVR_multiview2` with type `interface`
-    * `FRAMEBUFFER_ATTACHMENT_TEXTURE_NUM_VIEWS_OVR` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_TEXTURE_BASE_VIEW_INDEX_OVR` with type `const`
-    * `MAX_VIEWS_OVR` with type `const`
-    * `FRAMEBUFFER_INCOMPLETE_VIEW_TARGETS_OVR` with type `const`
-    * `framebufferTextureMultiviewOVR(target, attachment, texture, level, baseViewIndex, numViews)` with type `method`
-- [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/):
-    * `WEBGL_blend_equation_advanced_coherent` with type `interface`
-    * `MULTIPLY` with type `const`
-    * `SCREEN` with type `const`
-    * `OVERLAY` with type `const`
-    * `DARKEN` with type `const`
-    * `LIGHTEN` with type `const`
-    * `COLORDODGE` with type `const`
-    * `COLORBURN` with type `const`
-    * `HARDLIGHT` with type `const`
-    * `SOFTLIGHT` with type `const`
-    * `DIFFERENCE` with type `const`
-    * `EXCLUSION` with type `const`
-    * `HSL_HUE` with type `const`
-    * `HSL_SATURATION` with type `const`
-    * `HSL_COLOR` with type `const`
-    * `HSL_LUMINOSITY` with type `const`
-- [WebGL WEBGL_color_buffer_float Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/):
-    * `WEBGL_color_buffer_float` with type `interface`
-    * `RGBA32F_EXT` with type `const`
-    * `FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE_EXT` with type `const`
-    * `UNSIGNED_NORMALIZED_EXT` with type `const`
-- [WebGL WEBGL_compressed_texture_astc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/):
-    * `WEBGL_compressed_texture_astc` with type `interface`
-    * `COMPRESSED_RGBA_ASTC_4x4_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_5x4_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_5x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_6x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_6x6_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_8x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_8x6_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_8x8_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x5_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x6_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x8_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_10x10_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_12x10_KHR` with type `const`
-    * `COMPRESSED_RGBA_ASTC_12x12_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_4x4_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_5x4_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_5x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_6x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_6x6_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x6_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x8_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x5_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x6_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x8_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x10_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_12x10_KHR` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ASTC_12x12_KHR` with type `const`
-    * `getSupportedProfiles()` with type `method`
-- [WebGL WEBGL_compressed_texture_etc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/):
-    * `WEBGL_compressed_texture_etc` with type `interface`
-    * `COMPRESSED_R11_EAC` with type `const`
-    * `COMPRESSED_SIGNED_R11_EAC` with type `const`
-    * `COMPRESSED_RG11_EAC` with type `const`
-    * `COMPRESSED_SIGNED_RG11_EAC` with type `const`
-    * `COMPRESSED_RGB8_ETC2` with type `const`
-    * `COMPRESSED_SRGB8_ETC2` with type `const`
-    * `COMPRESSED_RGB8_PUNCHTHROUGH_ALPHA1_ETC2` with type `const`
-    * `COMPRESSED_SRGB8_PUNCHTHROUGH_ALPHA1_ETC2` with type `const`
-    * `COMPRESSED_RGBA8_ETC2_EAC` with type `const`
-    * `COMPRESSED_SRGB8_ALPHA8_ETC2_EAC` with type `const`
-- [WebGL WEBGL_compressed_texture_etc1 Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/):
-    * `WEBGL_compressed_texture_etc1` with type `interface`
-    * `COMPRESSED_RGB_ETC1_WEBGL` with type `const`
-- [WebGL WEBGL_compressed_texture_pvrtc Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/):
-    * `WEBGL_compressed_texture_pvrtc` with type `interface`
-    * `COMPRESSED_RGB_PVRTC_4BPPV1_IMG` with type `const`
-    * `COMPRESSED_RGB_PVRTC_2BPPV1_IMG` with type `const`
-    * `COMPRESSED_RGBA_PVRTC_4BPPV1_IMG` with type `const`
-    * `COMPRESSED_RGBA_PVRTC_2BPPV1_IMG` with type `const`
-- [WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/):
-    * `WEBGL_compressed_texture_s3tc` with type `interface`
-    * `COMPRESSED_RGB_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_RGBA_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_RGBA_S3TC_DXT3_EXT` with type `const`
-    * `COMPRESSED_RGBA_S3TC_DXT5_EXT` with type `const`
-- [WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/):
-    * `WEBGL_compressed_texture_s3tc_srgb` with type `interface`
-    * `COMPRESSED_SRGB_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_S3TC_DXT1_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_S3TC_DXT3_EXT` with type `const`
-    * `COMPRESSED_SRGB_ALPHA_S3TC_DXT5_EXT` with type `const`
-- [WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/):
-    * `WEBGL_debug_renderer_info` with type `interface`
-    * `UNMASKED_VENDOR_WEBGL` with type `const`
-    * `UNMASKED_RENDERER_WEBGL` with type `const`
-- [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/):
-    * `WEBGL_debug_shaders` with type `interface`
-    * `getTranslatedShaderSource(shader)` with type `method`
-- [WebGL WEBGL_depth_texture Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/):
-    * `WEBGL_depth_texture` with type `interface`
-    * `UNSIGNED_INT_24_8_WEBGL` with type `const`
-- [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/):
-    * `WEBGL_draw_buffers` with type `interface`
-    * `COLOR_ATTACHMENT0_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT1_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT2_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT3_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT4_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT5_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT6_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT7_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT8_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT9_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT10_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT11_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT12_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT13_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT14_WEBGL` with type `const`
-    * `COLOR_ATTACHMENT15_WEBGL` with type `const`
-    * `DRAW_BUFFER0_WEBGL` with type `const`
-    * `DRAW_BUFFER1_WEBGL` with type `const`
-    * `DRAW_BUFFER2_WEBGL` with type `const`
-    * `DRAW_BUFFER3_WEBGL` with type `const`
-    * `DRAW_BUFFER4_WEBGL` with type `const`
-    * `DRAW_BUFFER5_WEBGL` with type `const`
-    * `DRAW_BUFFER6_WEBGL` with type `const`
-    * `DRAW_BUFFER7_WEBGL` with type `const`
-    * `DRAW_BUFFER8_WEBGL` with type `const`
-    * `DRAW_BUFFER9_WEBGL` with type `const`
-    * `DRAW_BUFFER10_WEBGL` with type `const`
-    * `DRAW_BUFFER11_WEBGL` with type `const`
-    * `DRAW_BUFFER12_WEBGL` with type `const`
-    * `DRAW_BUFFER13_WEBGL` with type `const`
-    * `DRAW_BUFFER14_WEBGL` with type `const`
-    * `DRAW_BUFFER15_WEBGL` with type `const`
-    * `MAX_COLOR_ATTACHMENTS_WEBGL` with type `const`
-    * `MAX_DRAW_BUFFERS_WEBGL` with type `const`
-    * `drawBuffersWEBGL(buffers)` with type `method`
-- [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/):
-    * `WEBGL_draw_instanced_base_vertex_base_instance` with type `interface`
-    * `drawArraysInstancedBaseInstanceWEBGL(mode, first, count, instanceCount, baseInstance)` with type `method`
-    * `drawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, count, type, offset, instanceCount, baseVertex, baseInstance)` with type `method`
-- [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/):
-    * `WEBGL_lose_context` with type `interface`
-    * `loseContext()` with type `method`
-    * `restoreContext()` with type `method`
-- [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/):
-    * `WEBGL_multi_draw` with type `interface`
-    * `multiDrawArraysWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, drawcount)` with type `method`
-    * `multiDrawElementsWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, drawcount)` with type `method`
-    * `multiDrawArraysInstancedWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, drawcount)` with type `method`
-    * `multiDrawElementsInstancedWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, drawcount)` with type `method`
-- [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/):
-    * `WEBGL_multi_draw_instanced_base_vertex_base_instance` with type `interface`
-    * `multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawcount)` with type `method`
-    * `multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawcount)` with type `method`
 
-=> 361 properties without definition found in 44 specifications
+=> 0 property without definition found in 0 specification
 
 
 ## Possibly no definition for CSS properties
@@ -755,27 +219,8 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 
 ## Possibly no definition for IDL properties
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/):
-    * `setRangeText(replacement)` with type `method` for [`HTMLInputElement`](https://html.spec.whatwg.org/multipage/input.html#htmlinputelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-    * `setRangeText(replacement, start, end, selectionMode)` with type `method` for [`HTMLInputElement`](https://html.spec.whatwg.org/multipage/input.html#htmlinputelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-    * `remove(index)` with type `method` for [`HTMLSelectElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmlselectelement), but found [`remove()`](https://html.spec.whatwg.org/multipage/form-elements.html#dom-select-remove) with type `method` for `HTMLSelectElement`
-    * `setRangeText(replacement)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-    * `setRangeText(replacement, start, end, selectionMode)` with type `method` for [`HTMLTextAreaElement`](https://html.spec.whatwg.org/multipage/form-elements.html#htmltextareaelement), but found [`setRangeText(replacement, start, end, selectMode)`](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-textarea/input-setrangetext) with type `method` for `HTMLInputElement`,`HTMLTextAreaElement`
-    * `drawFocusIfNeeded(path, element)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`drawFocusIfNeeded(element)`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawfocusifneeded) with type `method` for `CanvasUserInterface`
-    * `scrollPathIntoView(path)` with type `method` for [`CanvasUserInterface`](https://html.spec.whatwg.org/multipage/canvas.html#canvasuserinterface), but found [`scrollPathIntoView()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-scrollpathintoview) with type `method` for `CanvasUserInterface`
-    * `drawImage(image, dx, dy)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
-    * `drawImage(image, dx, dy, dw, dh)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
-    * `drawImage(image, sx, sy, sw, sh, dx, dy, dw, dh)` with type `method` for [`CanvasDrawImage`](https://html.spec.whatwg.org/multipage/canvas.html#canvasdrawimage), but found [`drawImage`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-drawimage) with type `method` for `CanvasDrawImage`
-    * `putImageData(imagedata, dx, dy)` with type `method` for [`CanvasImageData`](https://html.spec.whatwg.org/multipage/canvas.html#canvasimagedata), but found [`putImageData()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-putimagedata) with type `method` for `CanvasImageData`
-    * `putImageData(imagedata, dx, dy, dirtyX, dirtyY, dirtyWidth, dirtyHeight)` with type `method` for [`CanvasImageData`](https://html.spec.whatwg.org/multipage/canvas.html#canvasimagedata), but found [`putImageData()`](https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-putimagedata) with type `method` for `CanvasImageData`
-    * `add(data, type)` with type `method` for [`DataTransferItemList`](https://html.spec.whatwg.org/multipage/dnd.html#datatransferitemlist), but found [`add()`](https://html.spec.whatwg.org/multipage/dnd.html#dom-datatransferitemlist-add) with type `method` for `DataTransferItemList`
-    * `add(data)` with type `method` for [`DataTransferItemList`](https://html.spec.whatwg.org/multipage/dnd.html#datatransferitemlist), but found [`add()`](https://html.spec.whatwg.org/multipage/dnd.html#dom-datatransferitemlist-add) with type `method` for `DataTransferItemList`
-    * `createImageBitmap(image, sx, sy, sw, sh, options)` with type `method` for [`WindowOrWorkerGlobalScope`](https://html.spec.whatwg.org/multipage/webappapis.html#windoworworkerglobalscope), but found [`createImageBitmap(image, options)`](https://html.spec.whatwg.org/multipage/imagebitmap-and-animations.html#dom-createimagebitmap) with type `method` for `WindowOrWorkerGlobalScope`
-- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/):
-    * `setStreams(...streams)` with type `method` for [`RTCRtpSender`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender), but found [`setStreams()`](https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams) with type `method` for `RTCRtpSender`
-    * `addTrack(track, ...streams)` with type `method` for [`RTCPeerConnection`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection), but found [`addTrack()`](https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack) with type `method` for `RTCPeerConnection`
 
-=> 17 properties without definition found in 2 specifications
+=> 0 property without definition found in 0 specification
 
 
 ## Missing references based on document links
@@ -842,6 +287,11 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to:
     * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1651,7 +1101,7 @@ Also, please keep in mind that Strudy only knows about IDL terms defined in the 
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 733 missing references for links found in 196 specifications
+=> 737 missing references for links found in 197 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1711,6 +1161,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -2032,10 +1486,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
     * [`https://w3c.github.io/network-error-logging/`](https://w3c.github.io/network-error-logging/) but related reference "NETWORK-ERROR-LOGGING-1" uses URL [`https://www.w3.org/TR/network-error-logging-1/`](https://www.w3.org/TR/network-error-logging-1/)
-- [Local Font Access API](https://wicg.github.io/local-font-access/) links to:
-    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
-    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
-    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - [Long Tasks API](https://w3c.github.io/longtasks/) links to:
     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
@@ -2350,6 +1800,8 @@ Links in the body of a specification should be to the same document as that poin
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/):
      * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-object`](https://www.w3.org/TR/wai-aria-1.2/#dfn-object)
      * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -3349,7 +2801,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 854 problematic external links found in 209 specifications
+=> 855 problematic external links found in 210 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -5081,6 +4533,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
      * [`https://html.spec.whatwg.org/#worker`](https://html.spec.whatwg.org/#worker)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://html.spec.whatwg.org/#the-style-attribute`](https://html.spec.whatwg.org/#the-style-attribute)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/):
@@ -9722,7 +9176,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5031 problematic external links found in 304 specifications
+=> 5032 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9855,6 +9309,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
      * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
+- [CSS 2](https://drafts.csswg.org/css2/):
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/`](https://www.w3.org/TR/2003/REC-SVG11-20030114/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
@@ -10092,7 +9551,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 187 problematic external links found in 62 specifications
+=> 191 problematic external links found in 63 specifications
 
 
 
