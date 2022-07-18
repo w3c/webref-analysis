@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-18T00:46:55.817Z",
+  "date": "2022-07-18T06:39:29.030Z",
   "stats": {
     "crawled": 472,
-    "errors": 45,
+    "errors": 3,
     "studied": 472
   },
   "results": [
@@ -48869,7 +48869,7 @@
     {
       "title": "RFC 6265 - HTTP State Management Mechanism",
       "shortname": "rfc6265",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6265",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6265.html",
@@ -49011,7 +49011,7 @@
     {
       "title": "RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)",
       "shortname": "rfc6266",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6266",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6266.html",
@@ -49325,7 +49325,7 @@
     {
       "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
       "shortname": "rfc7230",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7230",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7230.html",
@@ -49482,7 +49482,7 @@
     {
       "title": "RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
       "shortname": "rfc7231",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7231",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7231.html",
@@ -49674,7 +49674,7 @@
     {
       "title": "RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
       "shortname": "rfc7232",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7232",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7232.html",
@@ -49755,7 +49755,7 @@
     {
       "title": "RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests",
       "shortname": "rfc7233",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7233",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7233.html",
@@ -49821,7 +49821,7 @@
     {
       "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
       "shortname": "rfc7234",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7234",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7234.html",
@@ -49953,7 +49953,7 @@
     {
       "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
       "shortname": "rfc7235",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7235",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7235.html",
@@ -50143,7 +50143,7 @@
     {
       "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
       "shortname": "rfc7538",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7538",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7538.html",
@@ -50203,7 +50203,7 @@
     {
       "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
       "shortname": "rfc7540",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7540",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7540.html",
@@ -50331,7 +50331,7 @@
     {
       "title": "RFC 7616 - HTTP Digest Access Authentication",
       "shortname": "rfc7616",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7616",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7616.html",
@@ -50377,7 +50377,7 @@
     {
       "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
       "shortname": "rfc7617",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7617",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7617.html",
@@ -50423,7 +50423,7 @@
     {
       "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
       "shortname": "rfc7725",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7725",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7725.html",
@@ -50463,7 +50463,7 @@
     {
       "title": "RFC 7838 - HTTP Alternative Services",
       "shortname": "rfc7838",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7838",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7838.html",
@@ -50503,7 +50503,7 @@
     {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8246",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8246.html",
@@ -50543,7 +50543,7 @@
     {
       "title": "RFC 8470 - Using Early Data in HTTP",
       "shortname": "rfc8470",
-      "date": "20 June 2022",
+      "date": "18 July 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8470",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8470.html",
@@ -60986,7 +60986,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/",
@@ -61003,7 +61003,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 154)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -61099,7 +61098,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/",
@@ -61116,7 +61115,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 155)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -61180,7 +61178,7 @@
     {
       "title": "WebGL EXT_clip_cull_distance Extension Draft Specification",
       "shortname": "EXT_clip_cull_distance",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/",
@@ -61197,7 +61195,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 156)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -61378,7 +61375,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/",
@@ -61395,7 +61392,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 157)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -61433,7 +61429,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/",
@@ -61450,7 +61446,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 158)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -61540,7 +61535,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/",
@@ -61557,7 +61552,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 160)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -61817,7 +61811,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -61834,7 +61828,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 159)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -61950,7 +61943,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/",
@@ -61967,7 +61960,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 161)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62005,7 +61997,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/",
@@ -62022,7 +62014,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 162)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62060,7 +62051,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/",
@@ -62077,7 +62068,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 163)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62115,7 +62105,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/",
@@ -62132,7 +62122,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 164)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62222,7 +62211,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/",
@@ -62239,7 +62228,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 165)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62329,7 +62317,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -62346,7 +62334,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 166)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62436,7 +62423,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -62453,7 +62440,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 167)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62517,7 +62503,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/",
@@ -62534,7 +62520,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 168)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62676,7 +62661,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/",
@@ -62693,7 +62678,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 169)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62744,7 +62728,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/",
@@ -62761,7 +62745,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 170)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62894,7 +62877,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/",
@@ -62911,7 +62894,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 171)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -62949,7 +62931,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/",
@@ -62966,7 +62948,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 172)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63004,7 +62985,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/",
@@ -63021,7 +63002,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 173)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63072,7 +63052,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float/",
@@ -63089,7 +63069,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 175)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63127,7 +63106,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/",
@@ -63144,7 +63123,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 174)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63182,7 +63160,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/",
@@ -63199,7 +63177,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 177)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63250,7 +63227,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/",
@@ -63267,7 +63244,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 176)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63305,7 +63281,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/",
@@ -63322,7 +63298,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 178)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63440,7 +63415,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/",
@@ -63457,7 +63432,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 179)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63663,7 +63637,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -63680,7 +63654,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 180)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -63913,7 +63886,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/",
@@ -63930,7 +63903,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 181)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -64007,7 +63979,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -64024,7 +63996,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 182)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -64439,7 +64410,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -64456,7 +64427,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 183)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -64624,7 +64594,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -64641,7 +64611,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 184)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -64692,7 +64661,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -64709,7 +64678,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 185)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -64799,7 +64767,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -64816,7 +64784,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 187)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -64906,7 +64873,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -64923,7 +64890,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 186)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -65013,7 +64979,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -65030,7 +64996,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 188)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -65094,7 +65059,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/",
@@ -65111,7 +65076,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 189)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -65164,7 +65128,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/",
@@ -65181,7 +65145,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 190)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -65232,7 +65195,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/",
@@ -65249,7 +65212,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 191)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -65744,7 +65706,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -65761,7 +65723,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 192)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -65831,7 +65792,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/",
@@ -65848,7 +65809,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 193)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -65912,7 +65872,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/",
@@ -65929,7 +65889,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 195)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -66025,7 +65984,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "12 January 2022",
+      "date": "18 July 2022",
       "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -66042,7 +66001,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)\n    at async Promise.all (index 194)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": true,
         "hasInvalidIdl": false,
@@ -66076,7 +66034,7 @@
             {
               "expected": {
                 "linkingText": [
-                  "multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawCount)"
+                  "multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawcount)"
                 ],
                 "type": "method",
                 "for": [
@@ -66089,7 +66047,7 @@
             {
               "expected": {
                 "linkingText": [
-                  "multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawCount)"
+                  "multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawcount)"
                 ],
                 "type": "method",
                 "for": [

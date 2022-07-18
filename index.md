@@ -601,7 +601,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6265](https://www.rfc-editor.org/rfc/rfc6265)
 - Crawled URL: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
 - Shortname: rfc6265
 
@@ -695,7 +695,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
 - Crawled URL: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
 - Shortname: rfc7616
 
@@ -718,7 +718,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
 - Crawled URL: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
 - Shortname: rfc7617
 
@@ -743,7 +743,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
 - Crawled URL: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
 - Shortname: rfc6266
 
@@ -768,7 +768,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7230](https://www.rfc-editor.org/rfc/rfc7230)
 - Crawled URL: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
 - Shortname: rfc7230
 
@@ -814,7 +814,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7231](https://www.rfc-editor.org/rfc/rfc7231)
 - Crawled URL: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
 - Shortname: rfc7231
 
@@ -867,7 +867,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
 - Crawled URL: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
 - Shortname: rfc7232
 
@@ -897,7 +897,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
 - Crawled URL: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
 - Shortname: rfc7233
 
@@ -924,7 +924,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
 - Crawled URL: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
 - Shortname: rfc7234
 
@@ -965,7 +965,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
 - Crawled URL: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
 - Shortname: rfc7235
 
@@ -996,7 +996,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7538](https://www.rfc-editor.org/rfc/rfc7538)
 - Crawled URL: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
 - Shortname: rfc7538
 
@@ -1022,7 +1022,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7540](https://www.rfc-editor.org/rfc/rfc7540)
 - Crawled URL: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
 - Shortname: rfc7540
 
@@ -1051,7 +1051,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
 - Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
 - Shortname: rfc7725
 
@@ -1072,7 +1072,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
 - Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
 - Shortname: rfc7838
 
@@ -1093,7 +1093,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
 - Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
 - Shortname: rfc8246
 
@@ -1114,7 +1114,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
 - Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
-- Crawled version: 20 June 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
 - Shortname: rfc8470
 
@@ -1370,32 +1370,27 @@ Informative references to this spec from:
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
-### WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/](https://www.khronos.org/registry/webgl/extensions/ANGLE_instanced_arrays/)
 - Shortname: ANGLE_instanced_arrays
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 154)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`, `GLint`, `GLintptr`, `GLsizei`, `GLuint`
+- No definition for IDL properties: 
+     * `ANGLE_instanced_arrays` with type `interface`
+     * `VERTEX_ATTRIB_ARRAY_DIVISOR_ANGLE` with type `const`
+     * `drawArraysInstancedANGLE(mode, first, count, primcount)` with type `method`
+     * `drawElementsInstancedANGLE(mode, count, type, offset, primcount)` with type `method`
+     * `vertexAttribDivisorANGLE(index, divisor)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1404,32 +1399,24 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_blend_minmax Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_blend_minmax Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/](https://www.khronos.org/registry/webgl/extensions/EXT_blend_minmax/)
 - Shortname: EXT_blend_minmax
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 155)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_blend_minmax` with type `interface`
+     * `MIN_EXT` with type `const`
+     * `MAX_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1438,32 +1425,33 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_clip_cull_distance Extension Draft Specification {data-spec=true data-error=true}
+### WebGL EXT_clip_cull_distance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/](https://www.khronos.org/registry/webgl/extensions/EXT_clip_cull_distance/)
 - Shortname: EXT_clip_cull_distance
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 156)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_clip_cull_distance` with type `interface`
+     * `MAX_CLIP_DISTANCES_EXT` with type `const`
+     * `MAX_CULL_DISTANCES_EXT` with type `const`
+     * `MAX_COMBINED_CLIP_AND_CULL_DISTANCES_EXT` with type `const`
+     * `CLIP_DISTANCE0_EXT` with type `const`
+     * `CLIP_DISTANCE1_EXT` with type `const`
+     * `CLIP_DISTANCE2_EXT` with type `const`
+     * `CLIP_DISTANCE3_EXT` with type `const`
+     * `CLIP_DISTANCE4_EXT` with type `const`
+     * `CLIP_DISTANCE5_EXT` with type `const`
+     * `CLIP_DISTANCE6_EXT` with type `const`
+     * `CLIP_DISTANCE7_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1472,32 +1460,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_color_buffer_float Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_float/)
 - Shortname: EXT_color_buffer_float
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 157)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_color_buffer_float` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1506,32 +1484,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_color_buffer_half_float Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_color_buffer_half_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/](https://www.khronos.org/registry/webgl/extensions/EXT_color_buffer_half_float/)
 - Shortname: EXT_color_buffer_half_float
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 158)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_color_buffer_half_float` with type `interface`
+     * `RGBA16F_EXT` with type `const`
+     * `RGB16F_EXT` with type `const`
+     * `FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE_EXT` with type `const`
+     * `UNSIGNED_NORMALIZED_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1540,32 +1512,40 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_disjoint_timer_query Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_disjoint_timer_query Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/)
 - Shortname: EXT_disjoint_timer_query
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 160)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`, `WebGLObject`
+- No definition for IDL properties: 
+     * `GLuint64EXT` with type `typedef`
+     * `WebGLTimerQueryEXT` with type `interface`
+     * `EXT_disjoint_timer_query` with type `interface`
+     * `QUERY_COUNTER_BITS_EXT` with type `const`
+     * `CURRENT_QUERY_EXT` with type `const`
+     * `QUERY_RESULT_EXT` with type `const`
+     * `QUERY_RESULT_AVAILABLE_EXT` with type `const`
+     * `TIME_ELAPSED_EXT` with type `const`
+     * `TIMESTAMP_EXT` with type `const`
+     * `GPU_DISJOINT_EXT` with type `const`
+     * `createQueryEXT()` with type `method`
+     * `deleteQueryEXT(query)` with type `method`
+     * `isQueryEXT(query)` with type `method`
+     * `beginQueryEXT(target, query)` with type `method`
+     * `endQueryEXT(target)` with type `method`
+     * `queryCounterEXT(query, target)` with type `method`
+     * `getQueryEXT(target, pname)` with type `method`
+     * `getQueryObjectEXT(query, pname)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1574,32 +1554,30 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_disjoint_timer_query_webgl2 Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_disjoint_timer_query_webgl2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingWebIdlRef=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Shortname: EXT_disjoint_timer_query_webgl2
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 159)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`
+- Missing references for WebIDL names: 
+     * `WebGLQuery` defined in [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- No definition for IDL properties: 
+     * `EXT_disjoint_timer_query_webgl2` with type `interface`
+     * `QUERY_COUNTER_BITS_EXT` with type `const`
+     * `TIME_ELAPSED_EXT` with type `const`
+     * `TIMESTAMP_EXT` with type `const`
+     * `GPU_DISJOINT_EXT` with type `const`
+     * `queryCounterEXT(query, target)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1608,32 +1586,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_float_blend Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_float_blend Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/](https://www.khronos.org/registry/webgl/extensions/EXT_float_blend/)
 - Shortname: EXT_float_blend
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 161)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_float_blend` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1642,32 +1610,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_frag_depth Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_frag_depth Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/](https://www.khronos.org/registry/webgl/extensions/EXT_frag_depth/)
 - Shortname: EXT_frag_depth
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 162)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_frag_depth` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1676,32 +1634,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/](https://www.khronos.org/registry/webgl/extensions/EXT_shader_texture_lod/)
 - Shortname: EXT_shader_texture_lod
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 163)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_shader_texture_lod` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1710,32 +1658,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_sRGB Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_sRGB Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/](https://www.khronos.org/registry/webgl/extensions/EXT_sRGB/)
 - Shortname: EXT_sRGB
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 164)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_sRGB` with type `interface`
+     * `SRGB_EXT` with type `const`
+     * `SRGB_ALPHA_EXT` with type `const`
+     * `SRGB8_ALPHA8_EXT` with type `const`
+     * `FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1744,32 +1686,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_compression_bptc Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_texture_compression_bptc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_bptc/)
 - Shortname: EXT_texture_compression_bptc
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 165)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_texture_compression_bptc` with type `interface`
+     * `COMPRESSED_RGBA_BPTC_UNORM_EXT` with type `const`
+     * `COMPRESSED_SRGB_ALPHA_BPTC_UNORM_EXT` with type `const`
+     * `COMPRESSED_RGB_BPTC_SIGNED_FLOAT_EXT` with type `const`
+     * `COMPRESSED_RGB_BPTC_UNSIGNED_FLOAT_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1778,32 +1714,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_compression_rgtc Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_texture_compression_rgtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_compression_rgtc/)
 - Shortname: EXT_texture_compression_rgtc
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 166)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_texture_compression_rgtc` with type `interface`
+     * `COMPRESSED_RED_RGTC1_EXT` with type `const`
+     * `COMPRESSED_SIGNED_RED_RGTC1_EXT` with type `const`
+     * `COMPRESSED_RED_GREEN_RGTC2_EXT` with type `const`
+     * `COMPRESSED_SIGNED_RED_GREEN_RGTC2_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1812,32 +1742,24 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Shortname: EXT_texture_filter_anisotropic
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 167)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_texture_filter_anisotropic` with type `interface`
+     * `TEXTURE_MAX_ANISOTROPY_EXT` with type `const`
+     * `MAX_TEXTURE_MAX_ANISOTROPY_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1846,32 +1768,30 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_texture_norm16 Extension Specification {data-spec=true data-error=true}
+### WebGL EXT_texture_norm16 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/](https://www.khronos.org/registry/webgl/extensions/EXT_texture_norm16/)
 - Shortname: EXT_texture_norm16
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 168)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `EXT_texture_norm16` with type `interface`
+     * `R16_EXT` with type `const`
+     * `RG16_EXT` with type `const`
+     * `RGB16_EXT` with type `const`
+     * `RGBA16_EXT` with type `const`
+     * `R16_SNORM_EXT` with type `const`
+     * `RG16_SNORM_EXT` with type `const`
+     * `RGB16_SNORM_EXT` with type `const`
+     * `RGBA16_SNORM_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1880,32 +1800,23 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL KHR_parallel_shader_compile Extension Specification {data-spec=true data-error=true}
+### WebGL KHR_parallel_shader_compile Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/](https://www.khronos.org/registry/webgl/extensions/KHR_parallel_shader_compile/)
 - Shortname: KHR_parallel_shader_compile
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 169)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `KHR_parallel_shader_compile` with type `interface`
+     * `COMPLETION_STATUS_KHR` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1914,33 +1825,30 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_draw_buffers_indexed Extension Specification {data-spec=true data-error=true}
+### WebGL OES_draw_buffers_indexed Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/](https://www.khronos.org/registry/webgl/extensions/OES_draw_buffers_indexed/)
 - Shortname: OES_draw_buffers_indexed
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 170)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLboolean`, `GLenum`, `GLuint`
+- No definition for IDL properties: 
+     * `OES_draw_buffers_indexed` with type `interface`
+     * `enableiOES(target, index)` with type `method`
+     * `disableiOES(target, index)` with type `method`
+     * `blendEquationiOES(buf, mode)` with type `method`
+     * `blendEquationSeparateiOES(buf, modeRGB, modeAlpha)` with type `method`
+     * `blendFunciOES(buf, src, dst)` with type `method`
+     * `blendFuncSeparateiOES(buf, srcRGB, dstRGB, srcAlpha, dstAlpha)` with type `method`
+     * `colorMaskiOES(buf, r, g, b, a)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1949,33 +1857,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_element_index_uint Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL OES_element_index_uint Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/](https://www.khronos.org/registry/webgl/extensions/OES_element_index_uint/)
 - Shortname: OES_element_index_uint
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 171)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `OES_element_index_uint` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1984,33 +1881,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_fbo_render_mipmap Extension Specification {data-spec=true data-error=true}
+### WebGL OES_fbo_render_mipmap Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/](https://www.khronos.org/registry/webgl/extensions/OES_fbo_render_mipmap/)
 - Shortname: OES_fbo_render_mipmap
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 172)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `OES_fbo_render_mipmap` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2019,33 +1905,23 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_standard_derivatives Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL OES_standard_derivatives Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/](https://www.khronos.org/registry/webgl/extensions/OES_standard_derivatives/)
 - Shortname: OES_standard_derivatives
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 173)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `OES_standard_derivatives` with type `interface`
+     * `FRAGMENT_SHADER_DERIVATIVE_HINT_OES` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2054,33 +1930,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_float Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL OES_texture_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_float/](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_float/](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_texture_float/](https://www.khronos.org/registry/webgl/extensions/OES_texture_float/)
 - Shortname: OES_texture_float
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 175)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `OES_texture_float` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2089,33 +1954,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_float_linear Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL OES_texture_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/](https://www.khronos.org/registry/webgl/extensions/OES_texture_float_linear/)
 - Shortname: OES_texture_float_linear
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 174)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `OES_texture_float_linear` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2124,33 +1978,23 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_half_float Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL OES_texture_half_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float/)
 - Shortname: OES_texture_half_float
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 177)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `OES_texture_half_float` with type `interface`
+     * `HALF_FLOAT_OES` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2159,33 +2003,22 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/](https://www.khronos.org/registry/webgl/extensions/OES_texture_half_float_linear/)
 - Shortname: OES_texture_half_float_linear
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 176)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `OES_texture_half_float_linear` with type `interface`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2194,33 +2027,29 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OES_vertex_array_object Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL OES_vertex_array_object Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/](https://www.khronos.org/registry/webgl/extensions/OES_vertex_array_object/)
 - Shortname: OES_vertex_array_object
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 178)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLboolean`, `WebGLObject`
+- No definition for IDL properties: 
+     * `WebGLVertexArrayObjectOES` with type `interface`
+     * `OES_vertex_array_object` with type `interface`
+     * `VERTEX_ARRAY_BINDING_OES` with type `const`
+     * `createVertexArrayOES()` with type `method`
+     * `deleteVertexArrayOES(arrayObject)` with type `method`
+     * `isVertexArrayOES(arrayObject)` with type `method`
+     * `bindVertexArrayOES(arrayObject)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2229,33 +2058,28 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL OVR_multiview2 Extension Specification {data-spec=true data-error=true}
+### WebGL OVR_multiview2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/](https://www.khronos.org/registry/webgl/extensions/OVR_multiview2/)
 - Shortname: OVR_multiview2
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 179)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`, `GLint`, `GLsizei`, `WebGLTexture`
+- No definition for IDL properties: 
+     * `OVR_multiview2` with type `interface`
+     * `FRAMEBUFFER_ATTACHMENT_TEXTURE_NUM_VIEWS_OVR` with type `const`
+     * `FRAMEBUFFER_ATTACHMENT_TEXTURE_BASE_VIEW_INDEX_OVR` with type `const`
+     * `MAX_VIEWS_OVR` with type `const`
+     * `FRAMEBUFFER_INCOMPLETE_VIEW_TARGETS_OVR` with type `const`
+     * `framebufferTextureMultiviewOVR(target, attachment, texture, level, baseViewIndex, numViews)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2303,33 +2127,37 @@ Informative references to this spec from:
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
-### WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification {data-spec=true data-error=true}
+### WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://www.khronos.org/registry/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Shortname: WEBGL_blend_equation_advanced_coherent
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 180)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_blend_equation_advanced_coherent` with type `interface`
+     * `MULTIPLY` with type `const`
+     * `SCREEN` with type `const`
+     * `OVERLAY` with type `const`
+     * `DARKEN` with type `const`
+     * `LIGHTEN` with type `const`
+     * `COLORDODGE` with type `const`
+     * `COLORBURN` with type `const`
+     * `HARDLIGHT` with type `const`
+     * `SOFTLIGHT` with type `const`
+     * `DIFFERENCE` with type `const`
+     * `EXCLUSION` with type `const`
+     * `HSL_HUE` with type `const`
+     * `HSL_SATURATION` with type `const`
+     * `HSL_COLOR` with type `const`
+     * `HSL_LUMINOSITY` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2338,33 +2166,25 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_color_buffer_float Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/](https://www.khronos.org/registry/webgl/extensions/WEBGL_color_buffer_float/)
 - Shortname: WEBGL_color_buffer_float
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 181)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_color_buffer_float` with type `interface`
+     * `RGBA32F_EXT` with type `const`
+     * `FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE_EXT` with type `const`
+     * `UNSIGNED_NORMALIZED_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2373,33 +2193,51 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_astc Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_compressed_texture_astc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Shortname: WEBGL_compressed_texture_astc
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 182)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_compressed_texture_astc` with type `interface`
+     * `COMPRESSED_RGBA_ASTC_4x4_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_5x4_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_5x5_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_6x5_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_6x6_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_8x5_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_8x6_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_8x8_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_10x5_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_10x6_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_10x8_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_10x10_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_12x10_KHR` with type `const`
+     * `COMPRESSED_RGBA_ASTC_12x12_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_4x4_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_5x4_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_5x5_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_6x5_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_6x6_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x5_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x6_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_8x8_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x5_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x6_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x8_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_10x10_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_12x10_KHR` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ASTC_12x12_KHR` with type `const`
+     * `getSupportedProfiles()` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2408,33 +2246,32 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_etc Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_compressed_texture_etc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Shortname: WEBGL_compressed_texture_etc
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 183)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_compressed_texture_etc` with type `interface`
+     * `COMPRESSED_R11_EAC` with type `const`
+     * `COMPRESSED_SIGNED_R11_EAC` with type `const`
+     * `COMPRESSED_RG11_EAC` with type `const`
+     * `COMPRESSED_SIGNED_RG11_EAC` with type `const`
+     * `COMPRESSED_RGB8_ETC2` with type `const`
+     * `COMPRESSED_SRGB8_ETC2` with type `const`
+     * `COMPRESSED_RGB8_PUNCHTHROUGH_ALPHA1_ETC2` with type `const`
+     * `COMPRESSED_SRGB8_PUNCHTHROUGH_ALPHA1_ETC2` with type `const`
+     * `COMPRESSED_RGBA8_ETC2_EAC` with type `const`
+     * `COMPRESSED_SRGB8_ALPHA8_ETC2_EAC` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2443,33 +2280,23 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_etc1 Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_compressed_texture_etc1 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Shortname: WEBGL_compressed_texture_etc1
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 184)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_compressed_texture_etc1` with type `interface`
+     * `COMPRESSED_RGB_ETC1_WEBGL` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2478,33 +2305,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_pvrtc Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_compressed_texture_pvrtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Shortname: WEBGL_compressed_texture_pvrtc
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 185)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_compressed_texture_pvrtc` with type `interface`
+     * `COMPRESSED_RGB_PVRTC_4BPPV1_IMG` with type `const`
+     * `COMPRESSED_RGB_PVRTC_2BPPV1_IMG` with type `const`
+     * `COMPRESSED_RGBA_PVRTC_4BPPV1_IMG` with type `const`
+     * `COMPRESSED_RGBA_PVRTC_2BPPV1_IMG` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2513,33 +2333,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Shortname: WEBGL_compressed_texture_s3tc
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 187)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_compressed_texture_s3tc` with type `interface`
+     * `COMPRESSED_RGB_S3TC_DXT1_EXT` with type `const`
+     * `COMPRESSED_RGBA_S3TC_DXT1_EXT` with type `const`
+     * `COMPRESSED_RGBA_S3TC_DXT3_EXT` with type `const`
+     * `COMPRESSED_RGBA_S3TC_DXT5_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2548,33 +2361,26 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Shortname: WEBGL_compressed_texture_s3tc_srgb
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 186)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_compressed_texture_s3tc_srgb` with type `interface`
+     * `COMPRESSED_SRGB_S3TC_DXT1_EXT` with type `const`
+     * `COMPRESSED_SRGB_ALPHA_S3TC_DXT1_EXT` with type `const`
+     * `COMPRESSED_SRGB_ALPHA_S3TC_DXT3_EXT` with type `const`
+     * `COMPRESSED_SRGB_ALPHA_S3TC_DXT5_EXT` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2583,33 +2389,24 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/)
 - Shortname: WEBGL_debug_renderer_info
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 188)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_debug_renderer_info` with type `interface`
+     * `UNMASKED_VENDOR_WEBGL` with type `const`
+     * `UNMASKED_RENDERER_WEBGL` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2618,33 +2415,24 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/](https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/)
 - Shortname: WEBGL_debug_shaders
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 189)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `WebGLShader`
+- No definition for IDL properties: 
+     * `WEBGL_debug_shaders` with type `interface`
+     * `getTranslatedShaderSource(shader)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2653,33 +2441,23 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_depth_texture Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_depth_texture Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/](https://www.khronos.org/registry/webgl/extensions/WEBGL_depth_texture/)
 - Shortname: WEBGL_depth_texture
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 190)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_depth_texture` with type `interface`
+     * `UNSIGNED_INT_24_8_WEBGL` with type `const`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2688,33 +2466,58 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_buffers/)
 - Shortname: WEBGL_draw_buffers
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 191)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`
+- No definition for IDL properties: 
+     * `WEBGL_draw_buffers` with type `interface`
+     * `COLOR_ATTACHMENT0_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT1_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT2_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT3_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT4_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT5_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT6_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT7_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT8_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT9_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT10_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT11_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT12_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT13_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT14_WEBGL` with type `const`
+     * `COLOR_ATTACHMENT15_WEBGL` with type `const`
+     * `DRAW_BUFFER0_WEBGL` with type `const`
+     * `DRAW_BUFFER1_WEBGL` with type `const`
+     * `DRAW_BUFFER2_WEBGL` with type `const`
+     * `DRAW_BUFFER3_WEBGL` with type `const`
+     * `DRAW_BUFFER4_WEBGL` with type `const`
+     * `DRAW_BUFFER5_WEBGL` with type `const`
+     * `DRAW_BUFFER6_WEBGL` with type `const`
+     * `DRAW_BUFFER7_WEBGL` with type `const`
+     * `DRAW_BUFFER8_WEBGL` with type `const`
+     * `DRAW_BUFFER9_WEBGL` with type `const`
+     * `DRAW_BUFFER10_WEBGL` with type `const`
+     * `DRAW_BUFFER11_WEBGL` with type `const`
+     * `DRAW_BUFFER12_WEBGL` with type `const`
+     * `DRAW_BUFFER13_WEBGL` with type `const`
+     * `DRAW_BUFFER14_WEBGL` with type `const`
+     * `DRAW_BUFFER15_WEBGL` with type `const`
+     * `MAX_COLOR_ATTACHMENTS_WEBGL` with type `const`
+     * `MAX_DRAW_BUFFERS_WEBGL` with type `const`
+     * `drawBuffersWEBGL(buffers)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2723,33 +2526,25 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-error=true}
+### WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://www.khronos.org/registry/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_draw_instanced_base_vertex_base_instance
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 192)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`, `GLint`, `GLintptr`, `GLsizei`, `GLuint`
+- No definition for IDL properties: 
+     * `WEBGL_draw_instanced_base_vertex_base_instance` with type `interface`
+     * `drawArraysInstancedBaseInstanceWEBGL(mode, first, count, instanceCount, baseInstance)` with type `method`
+     * `drawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, count, type, offset, instanceCount, baseVertex, baseInstance)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2758,33 +2553,24 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_lose_context Khronos Ratified Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_lose_context Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/](https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/)
 - Shortname: WEBGL_lose_context
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 193)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- No definition for IDL properties: 
+     * `WEBGL_lose_context` with type `interface`
+     * `loseContext()` with type `method`
+     * `restoreContext()` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2793,33 +2579,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_multi_draw Extension Specification {data-spec=true data-error=true}
+### WebGL WEBGL_multi_draw Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - Shortname: WEBGL_multi_draw
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 195)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`, `GLint`, `GLsizei`, `GLuint`, `Int32Array`
+- No definition for IDL properties: 
+     * `WEBGL_multi_draw` with type `interface`
+     * `multiDrawArraysWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, drawcount)` with type `method`
+     * `multiDrawElementsWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, drawcount)` with type `method`
+     * `multiDrawArraysInstancedWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, drawcount)` with type `method`
+     * `multiDrawElementsInstancedWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, drawcount)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2828,33 +2608,25 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-error=true}
+### WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-noRefToWebIDL=true data-unknownIdlNames=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 12 January 2022
+- Crawled version: 18 July 2022
 - Editor's Draft: [https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_multi_draw_instanced_base_vertex_base_instance
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:91:24)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:410:22)
-    at async Promise.all (index 194)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:418:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Spec uses WebIDL but does not reference it normatively
+- Unknown WebIDL names used: `GLenum`, `GLint`, `GLsizei`, `GLuint`, `Int32Array`, `Uint32Array`
+- No definition for IDL properties: 
+     * `WEBGL_multi_draw_instanced_base_vertex_base_instance` with type `interface`
+     * `multiDrawArraysInstancedBaseInstanceWEBGL(mode, firstsList, firstsOffset, countsList, countsOffset, instanceCountsList, instanceCountsOffset, baseInstancesList, baseInstancesOffset, drawcount)` with type `method`
+     * `multiDrawElementsInstancedBaseVertexBaseInstanceWEBGL(mode, countsList, countsOffset, type, offsetsList, offsetsOffset, instanceCountsList, instanceCountsOffset, baseVerticesList, baseVerticesOffset, baseInstancesList, baseInstancesOffset, drawcount)` with type `method`
 
 #### Known dependencies on this specification {.dependencies}
 
