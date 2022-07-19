@@ -646,7 +646,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 17 July 2022
+- Crawled version: 19 July 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -5668,12 +5668,12 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view/)
-- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
 
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 
 
@@ -8422,7 +8422,6 @@ The following network or parsing error occurred:
     at Array.forEach (<anonymous>)
     at pptr://__puppeteer_evaluation_script__:7:29
     at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)
@@ -11112,7 +11111,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 15 July 2022
+- Crawled version: 19 July 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -11187,6 +11186,8 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#global-attributes`](https://html.spec.whatwg.org/#global-attributes)
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
      * [`https://html.spec.whatwg.org/#link-type-alternate`](https://html.spec.whatwg.org/#link-type-alternate)
+     * [`https://html.spec.whatwg.org/#attr-meta-name`](https://html.spec.whatwg.org/#attr-meta-name)
+     * [`https://html.spec.whatwg.org/#attr-meta-content`](https://html.spec.whatwg.org/#attr-meta-content)
      * [`https://dom.spec.whatwg.org/#html-namespace`](https://dom.spec.whatwg.org/#html-namespace)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2013/NOTE-xmlsec-rngschema-20130411/`](https://www.w3.org/TR/2013/NOTE-xmlsec-rngschema-20130411/)
@@ -11206,7 +11207,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 15 July 2022
+- Crawled version: 19 July 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33

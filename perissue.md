@@ -25,7 +25,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at Array.forEach (<anonymous>)
     at pptr://__puppeteer_evaluation_script__:7:29
     at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)
@@ -5204,6 +5203,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#global-attributes`](https://html.spec.whatwg.org/#global-attributes)
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
      * [`https://html.spec.whatwg.org/#link-type-alternate`](https://html.spec.whatwg.org/#link-type-alternate)
+     * [`https://html.spec.whatwg.org/#attr-meta-name`](https://html.spec.whatwg.org/#attr-meta-name)
+     * [`https://html.spec.whatwg.org/#attr-meta-content`](https://html.spec.whatwg.org/#attr-meta-content)
      * [`https://dom.spec.whatwg.org/#html-namespace`](https://dom.spec.whatwg.org/#html-namespace)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/):
      * [`https://html.spec.whatwg.org/#top-level-browsing-context`](https://html.spec.whatwg.org/#top-level-browsing-context)
@@ -9177,7 +9178,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5032 problematic external links found in 305 specifications
+=> 5034 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
