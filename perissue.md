@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 18, 2022
+% July 19, 2022
 
 472 specifications were crawled in this report.
 
@@ -2648,6 +2648,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://gpuweb.github.io/gpuweb/#gpu-command`](https://gpuweb.github.io/gpuweb/#gpu-command)
      * [`https://gpuweb.github.io/gpuweb/#binding-resource-type`](https://gpuweb.github.io/gpuweb/#binding-resource-type)
      * [`https://gpuweb.github.io/gpuweb/#binding-type`](https://gpuweb.github.io/gpuweb/#binding-type)
+     * [`https://gpuweb.github.io/gpuweb/#rasterizationpoint`](https://gpuweb.github.io/gpuweb/#rasterizationpoint)
      * [`https://gpuweb.github.io/gpuweb/#front-facing`](https://gpuweb.github.io/gpuweb/#front-facing)
      * [`https://gpuweb.github.io/gpuweb/#shader-output-mask`](https://gpuweb.github.io/gpuweb/#shader-output-mask)
 - [WebOTP API](https://wicg.github.io/web-otp/):
@@ -2801,7 +2802,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 855 problematic external links found in 210 specifications
+=> 856 problematic external links found in 210 specifications
 
 
 ## External links that neither target definitions nor headings
