@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-19T06:39:30.150Z",
+  "date": "2022-07-19T12:45:45.640Z",
   "stats": {
     "crawled": 472,
     "errors": 2,
@@ -5972,6 +5972,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://w3c.github.io/largest-contentful-paint/"
+            },
+            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -6927,6 +6932,11 @@
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
               "crawled": "https://w3c.github.io/IntersectionObserver/"
+            },
+            {
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -10508,7 +10518,7 @@
     {
       "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-1",
-      "date": "17 July 2022",
+      "date": "19 July 2022",
       "url": "https://www.w3.org/TR/css-easing-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-easing-1/",
@@ -12908,6 +12918,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -17862,7 +17877,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 306)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
+        "error": "Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 306)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -33484,7 +33499,7 @@
     {
       "title": "Largest Contentful Paint",
       "shortname": "largest-contentful-paint",
-      "date": "5 July 2022",
+      "date": "19 July 2022",
       "url": "https://www.w3.org/TR/largest-contentful-paint/",
       "release": {
         "url": "https://www.w3.org/TR/largest-contentful-paint/",
@@ -33517,22 +33532,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/performance-timeline/",
-            "ref": {
-              "name": "PERFORMANCE-TIMELINE",
-              "url": "https://www.w3.org/TR/performance-timeline/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/hr-time/",
-            "ref": {
-              "name": "HR-TIME-3",
-              "url": "https://www.w3.org/TR/hr-time-3/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -33560,11 +33560,6 @@
             "https://html.spec.whatwg.org/#concept-document-bc",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#dom-img-naturalwidth",
-            "https://html.spec.whatwg.org/#dom-img-naturalheight",
-            "https://html.spec.whatwg.org/#dom-img-width",
-            "https://html.spec.whatwg.org/#dom-img-height",
             "https://html.spec.whatwg.org/#concept-relevant-realm",
             "https://drafts.csswg.org/cssom-view/#viewport"
           ],
@@ -36165,7 +36160,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "01 July 2022",
+      "date": "19 July 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",
@@ -47118,6 +47113,11 @@
               "url": "https://fs.spec.whatwg.org/",
               "title": "File System Standard",
               "crawled": "https://fs.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
