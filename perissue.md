@@ -5,68 +5,6 @@
 472 specifications were crawled in this report.
 
 
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/): `Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format
-    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17
-    at Array.forEach (<anonymous>)
-    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)
-    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)
-    at pptr://__puppeteer_evaluation_script__:8:67
-    at Array.forEach (<anonymous>)
-    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format
-    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17
-    at Array.forEach (<anonymous>)
-    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)
-    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)
-    at pptr://__puppeteer_evaluation_script__:8:67
-    at Array.forEach (<anonymous>)
-    at pptr://__puppeteer_evaluation_script__:7:29
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 306)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [HTML Media Capture](https://w3c.github.io/html-media-capture/): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:20:27)
-    at isReady (pptr://__puppeteer_evaluation_script__:30:27)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:20:27)
-    at isReady (pptr://__puppeteer_evaluation_script__:30:27)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 354)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-=> 2 specifications found
-
-
 ## Specifications without normative dependencies
 
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
@@ -731,6 +669,11 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/) but does not list it in its references
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/) links to:
     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
@@ -1062,7 +1005,6 @@ Basically all specifications have normative dependencies on some other specifica
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/) links to:
     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/) but does not list it in its references
     * [`https://www.w3.org/TR/string-meta/`](https://www.w3.org/TR/string-meta/) but does not list it in its references
-    * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
     * [`https://w3c.github.io/IntersectionObserver/v2/`](https://w3c.github.io/IntersectionObserver/v2/) but does not list it in its references
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/) links to:
     * [`https://w3c.github.io/webappsec/specs/powerfulfeatures/`](https://w3c.github.io/webappsec/specs/powerfulfeatures/) but does not list it in its references
@@ -1101,7 +1043,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 737 missing references for links found in 197 specifications
+=> 740 missing references for links found in 198 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1123,9 +1065,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
     * [`https://www.w3.org/TR/html/`](https://www.w3.org/TR/html/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
-- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/) links to:
-    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
-    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
 - [Background Fetch](https://wicg.github.io/background-fetch/) links to:
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
     * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
@@ -1370,6 +1309,9 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1680,10 +1622,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/) links to:
-    * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
-    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
-    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/) links to:
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but related reference "SERVICE-WORKERS-1" uses URL [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
@@ -1725,7 +1663,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
 
-=> 484 inconsistent references for links found in 197 specifications
+=> 481 inconsistent references for links found in 196 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -2033,6 +1971,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/uievents/#event-target`](https://w3c.github.io/uievents/#event-target)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/cssom-view-1/#scroll-an-element`](https://drafts.csswg.org/cssom-view-1/#scroll-an-element)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/):
+     * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/):
      * [`https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location`](https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/):
@@ -2799,7 +2739,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 856 problematic external links found in 210 specifications
+=> 857 problematic external links found in 211 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -3250,6 +3190,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/wai-aria-1.2/#aria-describedby`](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby)
      * [`https://www.w3.org/TR/core-aam-1.1/#ariaSetsize`](https://www.w3.org/TR/core-aam-1.1/#ariaSetsize)
      * [`https://www.w3.org/TR/core-aam-1.1/#ariaPosinset`](https://www.w3.org/TR/core-aam-1.1/#ariaPosinset)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode`](https://www.w3.org/TR/mediacapture-streams/#def-constraint-facingMode)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://drafts.csswg.org/css2/#block-boxes%E2%91%A0`](https://drafts.csswg.org/css2/#block-boxes%E2%91%A0)
      * [`https://drafts.csswg.org/css2/#content%E2%91%A0`](https://drafts.csswg.org/css2/#content%E2%91%A0)
@@ -3831,7 +3773,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 966 problematic external links found in 60 specifications
+=> 967 problematic external links found in 61 specifications
 
 
 ## Broken external links
@@ -4874,6 +4816,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
      * [`https://html.spec.whatwg.org/#sequential-focus-navigation-order`](https://html.spec.whatwg.org/#sequential-focus-navigation-order)
      * [`https://drafts.csswg.org/css2/box.html#x14`](https://drafts.csswg.org/css2/box.html#x14)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/):
+     * [`https://html.spec.whatwg.org/#the-span-element`](https://html.spec.whatwg.org/#the-span-element)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/):
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#the-p-element`](https://html.spec.whatwg.org/#the-p-element)
@@ -9171,7 +9115,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5029 problematic external links found in 305 specifications
+=> 5030 problematic external links found in 306 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
@@ -9215,6 +9159,9 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/html52/`](https://www.w3.org/TR/html52/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/):
      * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/):
+     * [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+     * [`https://www.w3.org/TR/custom-elements/`](https://www.w3.org/TR/custom-elements/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/):
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
@@ -9286,7 +9233,7 @@ Links in the body of a specification should be to the same document as that poin
 - [WebUSB API](https://wicg.github.io/webusb/):
      * [`https://www.w3.org/TR/cors/`](https://www.w3.org/TR/cors/)
 
-=> 55 problematic external links found in 48 specifications
+=> 57 problematic external links found in 49 specifications
 
 
 ## External links that use a dated URL
@@ -9378,6 +9325,8 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes/):
      * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/)
      * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/):
+     * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
 - [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/):
      * [`https://www.w3.org/TR/2011/REC-CSS2-20110607`](https://www.w3.org/TR/2011/REC-CSS2-20110607)
      * [`https://www.w3.org/TR/1999/REC-html401-19991224`](https://www.w3.org/TR/1999/REC-html401-19991224)
@@ -9546,7 +9495,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/)
 
-=> 191 problematic external links found in 63 specifications
+=> 192 problematic external links found in 64 specifications
 
 
 

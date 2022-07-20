@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-20T12:46:58.683Z",
+  "date": "2022-07-20T18:44:47.772Z",
   "stats": {
     "crawled": 472,
-    "errors": 2,
+    "errors": 0,
     "studied": 472
   },
   "results": [
@@ -1227,7 +1227,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "28 June 2022",
+      "date": "20 July 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1256,22 +1256,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-permissions-policy/",
-            "ref": {
-              "name": "PERMISSIONS-POLICY-1",
-              "url": "https://www.w3.org/TR/permissions-policy-1/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-secure-contexts/",
-            "ref": {
-              "name": "SECURE-CONTEXTS",
-              "url": "https://www.w3.org/TR/secure-contexts/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -5075,6 +5060,11 @@
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-speech-1/",
+              "title": "CSS Speech Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-speech-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-tables-3/",
@@ -16943,7 +16933,7 @@
     {
       "title": "CSS Scoping Module Level 1",
       "shortname": "css-scoping-1",
-      "date": "17 May 2021",
+      "date": "20 July 2022",
       "url": "https://www.w3.org/TR/css-scoping-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -17856,7 +17846,7 @@
     {
       "title": "CSS Speech Module Level 1",
       "shortname": "css-speech-1",
-      "date": "18 June 2021",
+      "date": "15 July 2022",
       "url": "https://www.w3.org/TR/css-speech-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-speech-1/",
@@ -17877,7 +17867,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Production rule for <decibel> found has unexpected format\n    at https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:261:17\n    at Array.forEach (<anonymous>)\n    at extractValueSpaces (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:241:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-speech-1/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:17:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:661:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 306)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17897,10 +17886,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -28883,7 +28879,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:286:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:117:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:595:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 354)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39371,7 +39366,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "14 July 2022",
+      "date": "20 July 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -50917,7 +50912,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "13 July 2022",
+      "date": "20 July 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -50952,32 +50947,9 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/webauthn/",
           "https://www.w3.org/TR/string-meta/",
-          "https://w3c.github.io/webdriver/",
           "https://w3c.github.io/IntersectionObserver/v2/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-credential-management/",
-            "ref": {
-              "name": "CREDENTIAL-MANAGEMENT-1",
-              "url": "https://www.w3.org/TR/credential-management-1/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-permissions-policy/",
-            "ref": {
-              "name": "Permissions-Policy",
-              "url": "https://www.w3.org/TR/permissions-policy-1/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/FileAPI/",
-            "ref": {
-              "name": "FileAPI",
-              "url": "https://www.w3.org/TR/FileAPI/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -50989,6 +50961,11 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webauthn-3/",
+              "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
+              "crawled": "https://w3c.github.io/webauthn/"
             }
           ],
           "informative": []
@@ -53601,6 +53578,11 @@
               "url": "https://testutils.spec.whatwg.org/",
               "title": "Test Utils Standard",
               "crawled": "https://testutils.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webauthn-3/",
+              "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
+              "crawled": "https://w3c.github.io/webauthn/"
             },
             {
               "url": "https://w3c.github.io/webdriver-bidi/",
