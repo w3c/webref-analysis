@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-20T00:47:13.692Z",
+  "date": "2022-07-20T06:38:23.499Z",
   "stats": {
     "crawled": 472,
     "errors": 3,
@@ -34073,7 +34073,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "27 May 2022",
+      "date": "20 July 2022",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -55786,7 +55786,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "19 July 2022",
+      "date": "20 July 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55915,7 +55915,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "19 July 2022",
+      "date": "20 July 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
