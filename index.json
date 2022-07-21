@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-21T00:47:36.805Z",
+  "date": "2022-07-21T06:41:18.172Z",
   "stats": {
     "crawled": 472,
-    "errors": 1,
+    "errors": 0,
     "studied": 472
   },
   "results": [
@@ -3535,7 +3535,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "19 July 2022",
+      "date": "21 July 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4719,7 +4719,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -25552,7 +25551,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "13 July 2022",
+      "date": "21 July 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -25583,7 +25582,15 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/appmanifest/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/webappsec-referrer-policy/",
+            "ref": {
+              "name": "REFERRER-POLICY-1",
+              "url": "http://www.w3.org/TR/referrer-policy/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -50223,7 +50230,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "15 July 2022",
+      "date": "20 July 2022",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -50391,6 +50398,7 @@
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
+            "https://html.spec.whatwg.org/#cereactions",
             "https://html.spec.whatwg.org/#being-rendered",
             "https://html.spec.whatwg.org/#event-loop-processing-model",
             "https://html.spec.whatwg.org/#run-the-animation-frame-callbacks",
