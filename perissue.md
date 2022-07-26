@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 25, 2022
+% July 26, 2022
 
 472 specifications were crawled in this report.
 
@@ -2572,6 +2572,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://gpuweb.github.io/gpuweb/wgsl/#attribute-binding`](https://gpuweb.github.io/gpuweb/wgsl/#attribute-binding)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#attribute-group`](https://gpuweb.github.io/gpuweb/wgsl/#attribute-group)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable`](https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable-constant-identifier-string`](https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable-constant-identifier-string)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed`](https://gpuweb.github.io/gpuweb/wgsl/#statically-accessed)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#store-type`](https://gpuweb.github.io/gpuweb/wgsl/#store-type)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#sizeof`](https://gpuweb.github.io/gpuweb/wgsl/#sizeof)
@@ -2738,7 +2739,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 856 problematic external links found in 210 specifications
+=> 857 problematic external links found in 210 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -8869,6 +8870,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#queue-a-task`](https://html.spec.whatwg.org/#queue-a-task)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#event-handler-idl-attributes`](https://html.spec.whatwg.org/#event-handler-idl-attributes)
+     * [`https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable-constant-has-a-default-value`](https://gpuweb.github.io/gpuweb/wgsl/#pipeline-overridable-constant-has-a-default-value)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size`](https://gpuweb.github.io/gpuweb/wgsl/#minimum-binding-size)
      * [`https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables`](https://gpuweb.github.io/gpuweb/wgsl/#builtin-variables)
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/):
@@ -9112,7 +9114,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5029 problematic external links found in 305 specifications
+=> 5030 problematic external links found in 305 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
