@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-26T00:47:27.214Z",
+  "date": "2022-07-26T06:38:58.156Z",
   "stats": {
     "crawled": 472,
     "errors": 1,
@@ -3535,7 +3535,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "25 July 2022",
+      "date": "26 July 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
