@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-27T12:44:25.124Z",
+  "date": "2022-07-27T18:40:05.172Z",
   "stats": {
     "crawled": 472,
-    "errors": 1,
+    "errors": 0,
     "studied": 472
   },
   "results": [
@@ -1227,7 +1227,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "20 July 2022",
+      "date": "27 July 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1925,7 +1925,7 @@
     {
       "title": "Change Array by copy",
       "shortname": "tc39-change-array-by-copy",
-      "date": "15 July 2022",
+      "date": "27 July 2022",
       "url": "https://tc39.es/proposal-change-array-by-copy/",
       "nightly": {
         "url": "https://tc39.es/proposal-change-array-by-copy/",
@@ -4719,7 +4719,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9229,11 +9228,6 @@
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-3/",
-              "title": "CSS Conditional Rules Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-conditional-3/"
             }
           ],
           "informative": []
@@ -10586,6 +10580,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -10873,6 +10872,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             }
           ],
           "informative": []
@@ -13308,6 +13312,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -26751,7 +26760,7 @@
     {
       "title": "Filter Effects Module Level 1",
       "shortname": "filter-effects-1",
-      "date": "21 February 2022",
+      "date": "27 July 2022",
       "url": "https://www.w3.org/TR/filter-effects-1/",
       "release": {
         "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -26866,19 +26875,19 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-cascade/#applies-to",
-            "https://drafts.csswg.org/web-animations-1/#composite-operation-replace"
+            "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#the-title-element",
+            "https://html.spec.whatwg.org/#script",
             "https://html.spec.whatwg.org/#attr-img-crossorigin",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://drafts.csswg.org/css-transitions/#animtype-length",
             "https://drafts.csswg.org/css-transitions/#animtype-number",
-            "https://drafts.csswg.org/css-transitions/#animtype-shadow-list",
-            "https://drafts.csswg.org/css-color-3/#color0"
+            "https://drafts.csswg.org/css-transitions/#animtype-shadow-list"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -46178,11 +46187,6 @@
               "crawled": "https://dom.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/filter-effects-1/",
-              "title": "Filter Effects Module Level 1",
-              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -50308,11 +50312,6 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://www.w3.org/TR/filter-effects-1/",
-              "title": "Filter Effects Module Level 1",
-              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -53210,7 +53209,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "18 July 2022",
+      "date": "27 July 2022",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -55753,7 +55752,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 July 2022",
+      "date": "27 July 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55884,7 +55883,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 July 2022",
+      "date": "27 July 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
