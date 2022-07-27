@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 26, 2022
+% July 27, 2022
 
 472 specifications were crawled in this report.
 
@@ -6409,6 +6409,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#timeranges`](https://html.spec.whatwg.org/#timeranges)
      * [`https://html.spec.whatwg.org/#normalised-timeranges-object`](https://html.spec.whatwg.org/#normalised-timeranges-object)
      * [`https://html.spec.whatwg.org/#dom-media-seekable`](https://html.spec.whatwg.org/#dom-media-seekable)
+     * [`https://html.spec.whatwg.org/#concept-media-load-resource`](https://html.spec.whatwg.org/#concept-media-load-resource)
+     * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
      * [`https://html.spec.whatwg.org/#dedicatedworkerglobalscope`](https://html.spec.whatwg.org/#dedicatedworkerglobalscope)
      * [`https://html.spec.whatwg.org/#eventhandler`](https://html.spec.whatwg.org/#eventhandler)
      * [`https://html.spec.whatwg.org/#dom-media-have_metadata`](https://html.spec.whatwg.org/#dom-media-have_metadata)
@@ -6425,12 +6427,10 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#texttracklist`](https://html.spec.whatwg.org/#texttracklist)
      * [`https://html.spec.whatwg.org/#texttrack`](https://html.spec.whatwg.org/#texttrack)
      * [`https://html.spec.whatwg.org/#dom-texttrack-mode`](https://html.spec.whatwg.org/#dom-texttrack-mode)
-     * [`https://html.spec.whatwg.org/#dom-media-srcobject`](https://html.spec.whatwg.org/#dom-media-srcobject)
      * [`https://html.spec.whatwg.org/#transferable`](https://html.spec.whatwg.org/#transferable)
      * [`https://html.spec.whatwg.org/#messageport`](https://html.spec.whatwg.org/#messageport)
      * [`https://html.spec.whatwg.org/#messagechannel`](https://html.spec.whatwg.org/#messagechannel)
      * [`https://html.spec.whatwg.org/#dom-media-src`](https://html.spec.whatwg.org/#dom-media-src)
-     * [`https://html.spec.whatwg.org/#concept-media-load-resource`](https://html.spec.whatwg.org/#concept-media-load-resource)
      * [`https://html.spec.whatwg.org/#media-data-processing-steps-list`](https://html.spec.whatwg.org/#media-data-processing-steps-list)
      * [`https://html.spec.whatwg.org/#delaying-the-load-event-flag`](https://html.spec.whatwg.org/#delaying-the-load-event-flag)
      * [`https://html.spec.whatwg.org/#dom-messagechannel-port1`](https://html.spec.whatwg.org/#dom-messagechannel-port1)
@@ -6453,6 +6453,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#fatal-decode-error`](https://html.spec.whatwg.org/#fatal-decode-error)
      * [`https://html.spec.whatwg.org/#transfer-steps`](https://html.spec.whatwg.org/#transfer-steps)
      * [`https://html.spec.whatwg.org/#transfer-receiving-steps`](https://html.spec.whatwg.org/#transfer-receiving-steps)
+     * [`https://html.spec.whatwg.org/#dedicated-worker-agent`](https://html.spec.whatwg.org/#dedicated-worker-agent)
      * [`https://html.spec.whatwg.org/#dom-media-error`](https://html.spec.whatwg.org/#dom-media-error)
      * [`https://html.spec.whatwg.org/#dom-audiotrack-id`](https://html.spec.whatwg.org/#dom-audiotrack-id)
      * [`https://html.spec.whatwg.org/#dom-audiotrack-language`](https://html.spec.whatwg.org/#dom-audiotrack-language)
@@ -9113,7 +9114,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5031 problematic external links found in 306 specifications
+=> 5032 problematic external links found in 306 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
