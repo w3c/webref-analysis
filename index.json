@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-29T00:54:25.830Z",
+  "date": "2022-07-29T06:40:46.195Z",
   "stats": {
     "crawled": 472,
     "errors": 0,
@@ -36329,7 +36329,7 @@
     {
       "title": "MiniApp Packaging",
       "shortname": "miniapp-packaging",
-      "date": "12 July 2022",
+      "date": "29 July 2022",
       "url": "https://www.w3.org/TR/miniapp-packaging/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-packaging/",
