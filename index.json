@@ -2,17 +2,17 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-29T06:40:46.195Z",
+  "date": "2022-07-29T12:50:56.255Z",
   "stats": {
-    "crawled": 472,
+    "crawled": 473,
     "errors": 0,
-    "studied": 472
+    "studied": 473
   },
   "results": [
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "20 July 2022",
+      "date": "29 July 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -52,7 +52,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "20 July 2022",
+      "date": "29 July 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -92,7 +92,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "20 July 2022",
+      "date": "29 July 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -132,7 +132,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "20 July 2022",
+      "date": "29 July 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -1487,17 +1487,11 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/",
           "https://storage.spec.whatwg.org/",
           "https://w3c.github.io/webdriver/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          },
           {
             "link": "https://w3c.github.io/image-resource/",
             "ref": {
@@ -1998,16 +1992,10 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/",
           "https://w3c.github.io/IndexedDB/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          },
           {
             "link": "https://w3c.github.io/webappsec-mixed-content/",
             "ref": {
@@ -2082,17 +2070,10 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/webappsec-permissions-policy/",
+          "https://w3c.github.io/ServiceWorker/",
           "https://w3c.github.io/device-memory/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -2979,22 +2960,11 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/",
+          "https://www.w3.org/TR/service-workers/"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/service-workers/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          },
           {
             "link": "https://w3c.github.io/image-resource/",
             "ref": {
@@ -3166,7 +3136,7 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -3488,16 +3458,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "Service-Workers",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          }
+        "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/"
         ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -22454,21 +22418,21 @@
       }
     },
     {
-      "title": "Device Memory 1",
+      "title": "Device Memory",
       "shortname": "device-memory-1",
-      "date": "30 November 2020",
+      "date": "22 July 2022",
       "url": "https://www.w3.org/TR/device-memory-1/",
       "release": {
         "url": "https://www.w3.org/TR/device-memory-1/",
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://w3c.github.io/device-memory/",
+        "url": "https://www.w3.org/TR/device-memory/",
         "repository": "https://github.com/w3c/device-memory",
         "sourcePath": "index.bs",
-        "filename": "index.html"
+        "filename": "Overview.html"
       },
-      "crawled": "https://w3c.github.io/device-memory/",
+      "crawled": "https://www.w3.org/TR/device-memory/",
       "organization": "W3C",
       "groups": [
         {
@@ -23618,7 +23582,7 @@
               "crawled": "https://drafts.csswg.org/selectors/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -24395,7 +24359,7 @@
               "crawled": "https://w3c.github.io/screen-wake-lock/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -24902,7 +24866,7 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -26075,7 +26039,7 @@
               "crawled": "https://w3c.github.io/server-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -26488,7 +26452,7 @@
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -28246,7 +28210,7 @@
               "crawled": "https://w3c.github.io/server-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -29495,8 +29459,8 @@
             },
             {
               "url": "https://www.w3.org/TR/device-memory-1/",
-              "title": "Device Memory 1",
-              "crawled": "https://w3c.github.io/device-memory/"
+              "title": "Device Memory",
+              "crawled": "https://www.w3.org/TR/device-memory/"
             },
             {
               "url": "https://www.w3.org/TR/device-posture/",
@@ -30129,7 +30093,7 @@
               "crawled": "https://w3c.github.io/server-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -32446,7 +32410,7 @@
               "crawled": "https://w3c.github.io/server-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -33371,6 +33335,46 @@
       }
     },
     {
+      "title": "JSON.parse source text access",
+      "shortname": "tc39-json-parse-with-source",
+      "date": "20 July 2022",
+      "url": "https://tc39.es/proposal-json-parse-with-source/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-json-parse-with-source/",
+        "repository": "https://github.com/tc39/proposal-json-parse-with-source",
+        "sourcePath": "spec.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-json-parse-with-source/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Keyboard Lock",
       "shortname": "keyboard-lock",
       "date": "6 October 2021",
@@ -33728,15 +33732,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          },
           {
             "link": "https://w3c.github.io/webappsec-csp/",
             "ref": {
@@ -36125,7 +36124,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -37050,7 +37049,7 @@
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -37985,11 +37984,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/service-workers-1/#service-worker-global-scope",
-            "https://www.w3.org/TR/service-workers-1/#dfn-extend-lifetime-promises",
-            "https://www.w3.org/TR/service-workers-1/#client-visibilitystate-attribute",
-            "https://www.w3.org/TR/service-workers-1/#dfn-pending-promises-count",
-            "https://www.w3.org/TR/service-workers-1/#dfn-uninstalling-flag",
             "https://www.w3.org/TR/payment-request/#canmakepayment()-method",
             "https://www.w3.org/TR/payment-request/#show()-method",
             "https://html.spec.whatwg.org/#user-interaction-task-source",
@@ -39464,7 +39458,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/webappsec-referrer-policy/",
@@ -39478,13 +39474,6 @@
             "ref": {
               "name": "CSP",
               "url": "https://www.w3.org/TR/CSP3/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
             }
           }
         ],
@@ -39794,6 +39783,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/",
           "https://w3c.github.io/battery/"
         ],
         "inconsistentRef": [
@@ -39816,13 +39806,6 @@
             "ref": {
               "name": "NAVIGATION-TIMING",
               "url": "https://www.w3.org/TR/navigation-timing/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
             }
           },
           {
@@ -42631,7 +42614,7 @@
               "crawled": "https://w3c.github.io/server-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -42798,7 +42781,7 @@
               "crawled": "https://wicg.github.io/savedata/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -45349,7 +45332,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/webappsec-trusted-types/dist/spec/"
+          "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
+          "https://w3c.github.io/ServiceWorker/"
         ],
         "inconsistentRef": [
           {
@@ -45357,13 +45341,6 @@
             "ref": {
               "name": "CSP",
               "url": "https://www.w3.org/TR/CSP3/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
             }
           },
           {
@@ -45624,7 +45601,7 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -46365,11 +46342,11 @@
     },
     {
       "title": "Service Workers Nightly",
-      "shortname": "service-workers-1",
+      "shortname": "service-workers",
       "date": "14 June 2022",
-      "url": "https://www.w3.org/TR/service-workers-1/",
+      "url": "https://www.w3.org/TR/service-workers/",
       "release": {
-        "url": "https://www.w3.org/TR/service-workers-1/",
+        "url": "https://www.w3.org/TR/service-workers/",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -46429,41 +46406,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://wicg.github.io/background-fetch/",
-              "title": "Background Fetch",
-              "crawled": "https://wicg.github.io/background-fetch/"
-            },
-            {
-              "url": "https://w3c.github.io/badging/",
-              "title": "Badging API",
-              "crawled": "https://w3c.github.io/badging/"
-            },
-            {
-              "url": "https://www.w3.org/TR/clear-site-data/",
-              "title": "Clear Site Data",
-              "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
-            },
-            {
-              "url": "https://wicg.github.io/client-hints-infrastructure/",
-              "title": "Client Hints Infrastructure",
-              "crawled": "https://wicg.github.io/client-hints-infrastructure/"
-            },
-            {
-              "url": "https://wicg.github.io/content-index/spec/",
-              "title": "Content Index",
-              "crawled": "https://wicg.github.io/content-index/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSP3/",
-              "title": "Content Security Policy Level 3",
-              "crawled": "https://w3c.github.io/webappsec-csp/"
-            },
-            {
-              "url": "https://wicg.github.io/cookie-store/",
-              "title": "Cookie Store API",
-              "crawled": "https://wicg.github.io/cookie-store/"
-            },
-            {
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
               "title": "Cookies: HTTP State Management Mechanism",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html"
@@ -46489,11 +46431,6 @@
               "crawled": "https://wicg.github.io/performance-measure-memory/"
             },
             {
-              "url": "https://www.w3.org/TR/navigation-timing-2/",
-              "title": "Navigation Timing Level 2",
-              "crawled": "https://w3c.github.io/navigation-timing/"
-            },
-            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -46504,111 +46441,21 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-handler/",
-              "title": "Payment Handler API",
-              "crawled": "https://w3c.github.io/payment-handler/"
-            },
-            {
-              "url": "https://wicg.github.io/portals/",
-              "title": "Portals",
-              "crawled": "https://wicg.github.io/portals/"
-            },
-            {
-              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-              "title": "Prerendering Revamped",
-              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/presentation-api/",
-              "title": "Presentation API",
-              "crawled": "https://w3c.github.io/presentation-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/push-api/",
-              "title": "Push API",
-              "crawled": "https://w3c.github.io/push-api/"
-            },
-            {
-              "url": "https://wicg.github.io/csp-next/scripting-policy.html",
-              "title": "Scripting Policy",
-              "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
-            },
-            {
-              "url": "https://w3c.github.io/webappsec-trusted-types/dist/spec/",
-              "title": "Trusted Types",
-              "crawled": "https://w3c.github.io/webappsec-trusted-types/dist/spec/"
-            },
-            {
-              "url": "https://wicg.github.io/background-sync/spec/",
-              "title": "Web Background Synchronization",
-              "crawled": "https://wicg.github.io/background-sync/spec/"
-            },
-            {
-              "url": "https://wicg.github.io/periodic-background-sync/",
-              "title": "Web Periodic Background Synchronization",
-              "crawled": "https://wicg.github.io/periodic-background-sync/"
-            },
-            {
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
-            },
-            {
-              "url": "https://wicg.github.io/webhid/",
-              "title": "WebHID API",
-              "crawled": "https://wicg.github.io/webhid/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webxr-hand-input-1/",
-              "title": "WebXR Hand Input Module - Level 1",
-              "crawled": "https://immersive-web.github.io/webxr-hand-input/"
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/beacon/",
-              "title": "Beacon",
-              "crawled": "https://w3c.github.io/beacon/"
-            },
-            {
-              "url": "https://www.w3.org/TR/hr-time-3/",
-              "title": "High Resolution Time",
-              "crawled": "https://w3c.github.io/hr-time/"
-            },
-            {
-              "url": "https://wicg.github.io/webpackage/loading.html",
-              "title": "Loading Signed Exchanges",
-              "crawled": "https://wicg.github.io/webpackage/loading.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/secure-contexts/",
-              "title": "Secure Contexts",
-              "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
-            },
             {
               "url": "https://streams.spec.whatwg.org/",
               "title": "Streams Standard",
               "crawled": "https://streams.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
-            },
-            {
               "url": "https://webidl.spec.whatwg.org/",
               "title": "Web IDL Standard",
               "crawled": "https://webidl.spec.whatwg.org/"
-            },
-            {
-              "url": "https://w3c.github.io/web-locks/",
-              "title": "Web Locks API",
-              "crawled": "https://w3c.github.io/web-locks/"
-            },
-            {
-              "url": "https://w3c.github.io/web-share-target/",
-              "title": "Web Share Target API",
-              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ]
         },
@@ -46970,7 +46817,7 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             }
@@ -47116,7 +46963,7 @@
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -48490,6 +48337,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/",
           "https://w3c.github.io/editing/docs/execCommand/",
           "https://w3c.github.io/webcomponents/spec/imports/"
         ],
@@ -48506,13 +48354,6 @@
             "ref": {
               "name": "DOM-Parsing",
               "url": "https://www.w3.org/TR/DOM-Parsing/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
             }
           },
           {
@@ -49408,7 +49249,7 @@
               "crawled": "https://drafts.csswg.org/selectors/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -51043,7 +50884,8 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/webappsec/specs/powerfulfeatures/",
-          "https://notifications.spec.whatwg.org/"
+          "https://notifications.spec.whatwg.org/",
+          "https://w3c.github.io/ServiceWorker/"
         ],
         "inconsistentRef": [
           {
@@ -51051,13 +50893,6 @@
             "ref": {
               "name": "PERMISSIONS",
               "url": "https://www.w3.org/TR/permissions/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
             }
           }
         ],
@@ -51577,6 +51412,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view/"
             },
             {
+              "url": "https://www.w3.org/TR/device-memory-1/",
+              "title": "Device Memory",
+              "crawled": "https://www.w3.org/TR/device-memory/"
+            },
+            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
@@ -52062,7 +51902,7 @@
               "crawled": "https://w3c.github.io/server-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers-1/",
+              "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
@@ -52450,17 +52290,10 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/",
           "https://www.w3.org/TR/security-privacy-questionnaire/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -52739,15 +52572,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          },
           {
             "link": "https://w3c.github.io/permissions/",
             "ref": {
@@ -57366,16 +57194,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/ServiceWorker/",
-            "ref": {
-              "name": "SERVICE-WORKERS-1",
-              "url": "https://www.w3.org/TR/service-workers-1/"
-            }
-          }
+        "missingLinkRef": [
+          "https://w3c.github.io/ServiceWorker/"
         ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
