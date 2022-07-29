@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-29T12:50:56.255Z",
+  "date": "2022-07-29T18:42:06.507Z",
   "stats": {
     "crawled": 473,
     "errors": 0,
@@ -3843,7 +3843,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "29 June 2022",
+      "date": "29 July 2022",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",
@@ -3876,32 +3876,9 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/webappsec/usecases/credentialmanagement/",
-          "https://w3c.github.io/webauthn/"
+          "https://w3c.github.io/webappsec/usecases/credentialmanagement/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-mixed-content/",
-            "ref": {
-              "name": "MIXED-CONTENT",
-              "url": "https://www.w3.org/TR/mixed-content/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-permissions-policy/",
-            "ref": {
-              "name": "PERMISSIONS-POLICY-1",
-              "url": "https://www.w3.org/TR/permissions-policy-1/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-csp/",
-            "ref": {
-              "name": "CSP",
-              "url": "https://www.w3.org/TR/CSP3/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -5076,6 +5053,11 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-values-5/",
               "title": "CSS Values and Units Module Level 5",
               "crawled": "https://drafts.csswg.org/css-values-5/"
@@ -6231,6 +6213,11 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -12904,6 +12891,11 @@
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -18634,11 +18626,6 @@
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -18844,6 +18831,11 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -18991,11 +18983,6 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
@@ -19091,6 +19078,11 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -19269,6 +19261,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
@@ -20632,11 +20629,6 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-will-change-1/",
               "title": "CSS Will Change Module Level 1",
               "crawled": "https://drafts.csswg.org/css-will-change/"
@@ -20785,7 +20777,8 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css-transitions/",
           "https://www.w3.org/TR/css-animations/",
-          "https://www.w3.org/TR/css3-conditional/",
+          "https://www.w3.org/TR/css-values-3/",
+          "https://www.w3.org/TR/css3-values/",
           "https://www.w3.org/TR/css-transitions-1/"
         ],
         "inconsistentRef": [
@@ -20797,17 +20790,17 @@
             }
           },
           {
-            "link": "https://www.w3.org/TR/css3-fonts/",
+            "link": "https://www.w3.org/TR/cssom-1/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/"
             }
           },
           {
-            "link": "https://www.w3.org/TR/css3-values/",
+            "link": "https://www.w3.org/TR/css3-fonts/",
             "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
             }
           }
         ],
@@ -21404,10 +21397,10 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-syntax-3/#consume-a-url-token",
-            "https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-stylesheet-base-url",
-            "https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-location",
-            "https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-origin-clean-flag"
+            "https://drafts.csswg.org/css-syntax-3/#consume-a-url-token",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-stylesheet-base-url",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
+            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -21474,6 +21467,11 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ],
           "informative": [
@@ -25060,7 +25058,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "28 July 2022",
+      "date": "29 July 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25191,7 +25189,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "28 July 2022",
+      "date": "29 July 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -25278,7 +25276,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#concept-origin",
-            "https://html.spec.whatwg.org/#the-head-element",
             "https://html.spec.whatwg.org/#encoding-microdata",
             "https://html.spec.whatwg.org/#json",
             "https://html.spec.whatwg.org/#the-object-element",
@@ -25571,7 +25568,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/credential-management-1/",
+              "title": "Credential Management Level 1",
+              "crawled": "https://w3c.github.io/webappsec-credential-management/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -50780,6 +50783,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/credential-management-1/",
+              "title": "Credential Management Level 1",
+              "crawled": "https://w3c.github.io/webappsec-credential-management/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -57770,6 +57778,11 @@
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
+            },
+            {
+              "url": "https://www.w3.org/TR/credential-management-1/",
+              "title": "Credential Management Level 1",
+              "crawled": "https://w3c.github.io/webappsec-credential-management/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
