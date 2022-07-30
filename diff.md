@@ -2,22 +2,17 @@
 % Strudy
 % July 30, 2022
 
-## CSS Values and Units Module Level 4
+## CSS 2
 
-- Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
+- Initial URL: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Missing references for links: *INS* https://www.w3.org/TR/css3-conditional/ / *DEL* https://www.w3.org/TR/css-values-3/, https://www.w3.org/TR/css3-values/
-- Inconsistent references for links: *INS* https://www.w3.org/TR/css3-values/ / *DEL* https://www.w3.org/TR/cssom-1/
-
-
-## Scroll-linked Animations
-
-- Initial URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Missing references for links: *INS* https://www.w3.org/TR/css-cascade/, https://www.w3.org/TR/cssom/, https://www.w3.org/TR/web-animations/, https://www.w3.org/TR/css-pseudo/ / *DEL* https://www.w3.org/TR/security-privacy-questionnaire/
-- Inconsistent references for links: *INS* https://www.w3.org/TR/css-values/ / *DEL* https://www.w3.org/TR/cssom-view/, https://www.w3.org/TR/web-animations-1/
+- Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
+- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 326)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
 
 
 

@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-30T06:38:45.864Z",
+  "date": "2022-07-30T12:43:07.766Z",
   "stats": {
     "crawled": 473,
-    "errors": 0,
+    "errors": 1,
     "studied": 473
   },
   "results": [
@@ -4660,6 +4660,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24122,7 +24123,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "24 July 2022",
+      "date": "30 July 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
