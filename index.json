@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-07-30T00:50:00.449Z",
+  "date": "2022-07-30T06:38:45.864Z",
   "stats": {
     "crawled": 473,
     "errors": 0,
@@ -5053,11 +5053,6 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
               "url": "https://drafts.csswg.org/css-values-5/",
               "title": "CSS Values and Units Module Level 5",
               "crawled": "https://drafts.csswg.org/css-values-5/"
@@ -5406,11 +5401,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -5466,6 +5456,11 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
               "url": "https://drafts.csswg.org/web-animations-2/",
@@ -6215,11 +6210,6 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -6458,6 +6448,11 @@
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -6898,6 +6893,11 @@
               "url": "https://www.w3.org/TR/resize-observer-1/",
               "title": "Resize Observer",
               "crawled": "https://drafts.csswg.org/resize-observer/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
           ],
           "informative": [
@@ -6920,11 +6920,6 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
           ]
         },
@@ -8147,6 +8142,11 @@
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
@@ -9429,7 +9429,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            }
+          ],
           "informative": []
         },
         "xrefs": {
@@ -10357,6 +10363,11 @@
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-4/",
@@ -12891,11 +12902,6 @@
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -14782,11 +14788,6 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
-            },
-            {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -17194,6 +17195,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
           ],
           "informative": []
@@ -18306,11 +18312,6 @@
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors/"
@@ -18626,6 +18627,11 @@
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -18831,11 +18837,6 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -18983,6 +18984,11 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
@@ -19078,11 +19084,6 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -19261,11 +19262,6 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
@@ -20629,6 +20625,11 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-will-change-1/",
               "title": "CSS Will Change Module Level 1",
               "crawled": "https://drafts.csswg.org/css-will-change/"
@@ -20777,8 +20778,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css-transitions/",
           "https://www.w3.org/TR/css-animations/",
-          "https://www.w3.org/TR/css-values-3/",
-          "https://www.w3.org/TR/css3-values/",
+          "https://www.w3.org/TR/css3-conditional/",
           "https://www.w3.org/TR/css-transitions-1/"
         ],
         "inconsistentRef": [
@@ -20790,17 +20790,17 @@
             }
           },
           {
-            "link": "https://www.w3.org/TR/cssom-1/",
-            "ref": {
-              "name": "CSSOM",
-              "url": "https://drafts.csswg.org/cssom/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css3-fonts/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css3-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -21397,10 +21397,10 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/css-syntax-3/#consume-a-url-token",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-stylesheet-base-url",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-location",
-            "https://drafts.csswg.org/cssom-1/#concept-css-style-sheet-origin-clean-flag"
+            "https://www.w3.org/TR/css-syntax-3/#consume-a-url-token",
+            "https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-stylesheet-base-url",
+            "https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-location",
+            "https://www.w3.org/TR/cssom-1/#concept-css-style-sheet-origin-clean-flag"
           ],
           "notDfn": [],
           "brokenLinks": [
@@ -21467,11 +21467,6 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ],
           "informative": [
@@ -21950,7 +21945,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "7 July 2022",
+      "date": "29 July 2022",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -25058,7 +25053,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "29 July 2022",
+      "date": "30 July 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25189,7 +25184,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "29 July 2022",
+      "date": "30 July 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -45408,7 +45403,7 @@
     {
       "title": "Scroll-linked Animations",
       "shortname": "scroll-animations-1",
-      "date": "15 July 2022",
+      "date": "29 July 2022",
       "url": "https://drafts.csswg.org/scroll-animations-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/scroll-animations-1/",
@@ -45437,7 +45432,10 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/security-privacy-questionnaire/"
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/css-pseudo/"
         ],
         "inconsistentRef": [
           {
@@ -45448,17 +45446,10 @@
             }
           },
           {
-            "link": "https://www.w3.org/TR/cssom-view/",
+            "link": "https://www.w3.org/TR/css-values/",
             "ref": {
-              "name": "CSSOM-VIEW-1",
-              "url": "https://drafts.csswg.org/cssom-view/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/web-animations-1/",
-            "ref": {
-              "name": "WEB-ANIMATIONS-1",
-              "url": "https://drafts.csswg.org/web-animations-1/"
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -45468,16 +45459,14 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/cssom-view-1/#overflow-directions"
+            "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#concept-document-windowconcept-document-window",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe",
-            "https://www.w3.org/TR/cssom-view/#css-layout-box",
-            "https://www.w3.org/TR/web-animations-1/#timeline-phase"
+            "https://html.spec.whatwg.org/#dom-animationframeprovider-requestanimationframe"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -46186,11 +46175,6 @@
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
-            },
-            {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
