@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-01T00:47:59.534Z",
+  "date": "2022-08-01T06:43:37.371Z",
   "stats": {
     "crawled": 473,
     "errors": 1,
@@ -2330,7 +2330,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "6 July 2022",
+      "date": "31 July 2022",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
