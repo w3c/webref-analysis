@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-02T12:46:25.352Z",
+  "date": "2022-08-02T18:37:51.083Z",
   "stats": {
     "crawled": 473,
-    "errors": 0,
+    "errors": 1,
     "studied": 473
   },
   "results": [
@@ -4660,6 +4660,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -25053,7 +25054,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "30 July 2022",
+      "date": "02 August 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25184,7 +25185,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "30 July 2022",
+      "date": "02 August 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -34905,7 +34906,7 @@
     {
       "title": "Media Feeds",
       "shortname": "media-feeds",
-      "date": "08 March 2021",
+      "date": "02 August 2022",
       "url": "https://wicg.github.io/media-feeds/",
       "nightly": {
         "url": "https://wicg.github.io/media-feeds/",
@@ -39359,7 +39360,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "28 July 2022",
+      "date": "02 August 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -56323,7 +56324,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "24 June 2022",
+      "date": "2 August 2022",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
@@ -56358,10 +56359,10 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/webappsec-csp/",
+            "link": "https://www.w3.org/TR/hr-time-2/",
             "ref": {
-              "name": "CSP3",
-              "url": "https://www.w3.org/TR/CSP3/"
+              "name": "HR-TIME-2",
+              "url": "https://w3c.github.io/hr-time/"
             }
           }
         ],
