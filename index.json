@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-03T00:49:36.979Z",
+  "date": "2022-08-03T06:41:27.794Z",
   "stats": {
     "crawled": 473,
     "errors": 0,
@@ -25058,7 +25058,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "02 August 2022",
+      "date": "03 August 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25189,7 +25189,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "02 August 2022",
+      "date": "03 August 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -47629,7 +47629,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "2 August 2022",
+      "date": "3 August 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
