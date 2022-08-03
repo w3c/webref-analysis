@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-03T06:41:27.794Z",
+  "date": "2022-08-03T12:44:43.783Z",
   "stats": {
     "crawled": 473,
-    "errors": 0,
+    "errors": 1,
     "studied": 473
   },
   "results": [
@@ -1708,7 +1708,7 @@
     {
       "title": "Beacon",
       "shortname": "beacon",
-      "date": "17 June 2022",
+      "date": "03 August 2022",
       "url": "https://www.w3.org/TR/beacon/",
       "release": {
         "url": "https://www.w3.org/TR/beacon/",
@@ -1758,17 +1758,19 @@
           ]
         },
         "xrefs": {
-          "notExported": [],
-          "notDfn": [
-            "https://fetch.spec.whatwg.org/#keep-alive-flag"
+          "notExported": [
+            "https://fetch.spec.whatwg.org/#concept-http-network-or-cache-fetch"
           ],
+          "notDfn": [],
           "brokenLinks": [
+            "https://html.spec.whatwg.org/#event-visibilitychange",
+            "https://html.spec.whatwg.org/#event-unload",
+            "https://html.spec.whatwg.org/#dom-document-visibilitystate",
+            "https://html.spec.whatwg.org/#dom-document-hidden",
+            "https://html.spec.whatwg.org/#navigator",
+            "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#api-base-url",
-            "https://html.spec.whatwg.org/#entry-settings-object",
-            "https://html.spec.whatwg.org/#multipart/form-data-encoding-algorithm",
-            "https://html.spec.whatwg.org/#multipart/form-data-boundary-string",
-            "https://html.spec.whatwg.org/#origin",
-            "https://html.spec.whatwg.org/#navigator"
+            "https://html.spec.whatwg.org/#concept-settings-object-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4660,6 +4662,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5091,6 +5094,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://wicg.github.io/webpackage/loading.html",
+              "title": "Loading Signed Exchanges",
+              "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -22950,11 +22958,6 @@
               "crawled": "https://w3c.github.io/battery/"
             },
             {
-              "url": "https://www.w3.org/TR/beacon/",
-              "title": "Beacon",
-              "crawled": "https://w3c.github.io/beacon/"
-            },
-            {
               "url": "https://www.w3.org/TR/capture-handle-identity/",
               "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
@@ -33707,7 +33710,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "13 July 2022",
+      "date": "3 August 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -33735,32 +33738,8 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/ServiceWorker/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-csp/",
-            "ref": {
-              "name": "CSP",
-              "url": "https://www.w3.org/TR/CSP3/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-secure-contexts/",
-            "ref": {
-              "name": "SECURE-CONTEXTS",
-              "url": "https://www.w3.org/TR/secure-contexts/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/network-error-logging/",
-            "ref": {
-              "name": "NETWORK-ERROR-LOGGING-1",
-              "url": "https://www.w3.org/TR/network-error-logging-1/"
-            }
-          }
-        ],
+        "missingLinkRef": [],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -33786,7 +33765,7 @@
             "https://html.spec.whatwg.org/#attr-link-imagesizes",
             "https://html.spec.whatwg.org/#select-an-image-source",
             "https://html.spec.whatwg.org/#create-a-potential-cors-request",
-            "https://html.spec.whatwg.org/#attr-crossorigin-none",
+            "https://html.spec.whatwg.org/#attr-crossorigin-anonymous",
             "https://html.spec.whatwg.org/#queue-a-task",
             "https://html.spec.whatwg.org/#networking-task-source",
             "https://html.spec.whatwg.org/#process-a-navigate-fetch",
@@ -46440,6 +46419,11 @@
           ],
           "informative": [
             {
+              "url": "https://wicg.github.io/webpackage/loading.html",
+              "title": "Loading Signed Exchanges",
+              "crawled": "https://wicg.github.io/webpackage/loading.html"
+            },
+            {
               "url": "https://streams.spec.whatwg.org/",
               "title": "Streams Standard",
               "crawled": "https://streams.spec.whatwg.org/"
@@ -52894,7 +52878,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "2 August 2022",
+      "date": "3 August 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -52950,7 +52934,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "2 August 2022",
+      "date": "3 August 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -53104,7 +53088,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "2 August 2022",
+      "date": "3 August 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
