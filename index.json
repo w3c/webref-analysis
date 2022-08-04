@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-03T18:48:29.580Z",
+  "date": "2022-08-04T00:56:05.550Z",
   "stats": {
     "crawled": 473,
-    "errors": 50,
+    "errors": 22,
     "studied": 473
   },
   "results": [
@@ -2396,6 +2396,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/css-transitions/#animtype-color",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -2483,11 +2485,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
@@ -2524,7 +2521,9 @@
             "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-body-element",
-            "https://html.spec.whatwg.org/#2dcontext"
+            "https://html.spec.whatwg.org/#2dcontext",
+            "https://www.w3.org/TR/css3-color/#alpha",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -2645,7 +2644,9 @@
             "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-body-element",
-            "https://html.spec.whatwg.org/#2dcontext"
+            "https://html.spec.whatwg.org/#2dcontext",
+            "https://www.w3.org/TR/css3-color/#alpha",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4028,7 +4029,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4155,11 +4155,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -4596,7 +4591,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-style-attribute"
+            "https://html.spec.whatwg.org/#the-style-attribute",
+            "https://www.w3.org/TR/css3-color/#transparency"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4663,7 +4659,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4770,11 +4765,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -5161,7 +5151,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-style-attribute"
+            "https://html.spec.whatwg.org/#the-style-attribute",
+            "https://www.w3.org/TR/css3-color/#transparency"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -5199,6 +5190,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 243)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5418,11 +5410,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -5526,6 +5513,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 6)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5732,11 +5720,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -6009,7 +5992,9 @@
           "notDfn": [],
           "brokenLinks": [
             "https://www.w3.org/TR/css-transitions-1/#animatable-types",
+            "https://www.w3.org/TR/css-color-4/#typedef-color",
             "https://www.w3.org/TR/css-color-4/#currentcolor",
+            "https://www.w3.org/TR/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#the-body-element",
             "https://www.w3.org/TR/selectors-3/#sel-first-line",
             "https://www.w3.org/TR/selectors-3/#first-letter0",
@@ -6052,6 +6037,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 7)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6094,6 +6080,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://www.w3.org/TR/css3-transitions/#animtype-color"
           ],
           "evolvingLinks": [],
@@ -6127,7 +6114,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 319)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6252,6 +6238,9 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#video",
             "https://html.spec.whatwg.org/#the-picture-element",
@@ -6977,7 +6966,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 305)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7296,7 +7284,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 306)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7518,6 +7505,8 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#quirks-mode",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7701,6 +7690,9 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
             "https://html.spec.whatwg.org/#cors-same-origin",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7867,7 +7859,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
+              "title": "CSS Color Module Level 5",
               "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
@@ -8190,6 +8182,10 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-p-element",
@@ -8325,7 +8321,9 @@
             "https://www.w3.org/TR/selectors-4/#scoping-element",
             "https://www.w3.org/TR/selectors-4/#scope-element",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#content-type"
+            "https://html.spec.whatwg.org/#content-type",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-plum",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-teal"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8394,11 +8392,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars/"
@@ -8418,12 +8411,18 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/css-color-4/#css-system-colors",
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://drafts.csswg.org/css2/#canvas"
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#css-system-colors",
+            "https://drafts.csswg.org/css-color-4/#typedef-system-color",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-system-color-canvas",
+            "https://drafts.csswg.org/css-color-4/#system-color-pairings",
+            "https://drafts.csswg.org/css-color-4/#valdef-system-color-canvastext",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#meta-color-scheme",
             "https://html.spec.whatwg.org/#meta",
             "https://html.spec.whatwg.org/#the-iframe-element",
@@ -8440,9 +8439,9 @@
       }
     },
     {
-      "title": "CSS Color Module Level 4",
+      "title": "CSS Color Module Level 5",
       "shortname": "css-color-4",
-      "date": "9 July 2022",
+      "date": "15 July 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8475,36 +8474,12 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-color-3/",
-          "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/web-animations/",
-          "https://www.w3.org/TR/css-pseudo/",
-          "https://infra.spec.whatwg.org/"
+          "https://www.w3.org/TR/2022/WD-css-color-5-20220428/",
+          "https://www.w3.org/TR/2021/WD-css-color-5-20211215/",
+          "https://www.w3.org/TR/2021/WD-css-color-5-20210601/",
+          "https://www.w3.org/TR/2020/WD-css-color-5-20200303/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/compositing-1/",
-            "ref": {
-              "name": "Compositing",
-              "url": "https://drafts.fxtf.org/compositing-1/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -8546,6 +8521,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-5/",
@@ -8768,15 +8748,18 @@
         },
         "xrefs": {
           "notExported": [
-            "https://www.w3.org/TR/css-cascade/#applies-to"
+            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-mark-element"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
-          "datedUrls": []
+          "datedUrls": [
+            "https://www.w3.org/TR/2022/WD-css-color-5-20220428/",
+            "https://www.w3.org/TR/2021/WD-css-color-5-20211215/",
+            "https://www.w3.org/TR/2021/WD-css-color-5-20210601/",
+            "https://www.w3.org/TR/2020/WD-css-color-5-20200303/"
+          ]
         },
         "ok": false
       }
@@ -8824,11 +8807,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://drafts.csswg.org/css-extensions-1/",
@@ -8894,7 +8872,35 @@
             "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-color-space",
+            "https://drafts.csswg.org/css-color-4/#color-interpolation-method",
+            "https://drafts.csswg.org/css-color-4/#valdef-hsl-hsl",
+            "https://drafts.csswg.org/css-color-4/#valdef-hwb-hwb",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-srgb",
+            "https://drafts.csswg.org/css-color-4/#interpolation",
+            "https://drafts.csswg.org/css-color-4/#typedef-hue-interpolation-method",
+            "https://drafts.csswg.org/css-color-4/#hue-interpolation",
+            "https://drafts.csswg.org/css-color-4/#valdef-lch-lch",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-xyz",
+            "https://drafts.csswg.org/css-color-4/#legacy-color-syntax",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-lime",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-blue",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-darkolivegreen",
+            "https://drafts.csswg.org/css-color-4/#typedef-hue",
+            "https://drafts.csswg.org/css-color-4/#color-space",
+            "https://drafts.csswg.org/css-color-4/#predefined",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-display-p3",
+            "https://drafts.csswg.org/css-color-4/#opaque-black",
+            "https://drafts.csswg.org/css-color-4/#color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
+            "https://drafts.csswg.org/css-color-4/#serializing-color-values",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-xyz-d65",
+            "https://drafts.csswg.org/css-color-4/#serializing-color-function-values",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-none"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -8963,11 +8969,6 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -9072,7 +9073,8 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-link-element"
+            "https://html.spec.whatwg.org/#the-link-element",
+            "https://drafts.csswg.org/css-color-4/#propdef-color"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9657,7 +9659,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-variables/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-variables/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 322)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9802,7 +9803,10 @@
             "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
+            "https://drafts.csswg.org/css-color-4/#propdef-color"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -9830,6 +9834,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-variables-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-variables-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 19)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9872,7 +9877,10 @@
             "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
+            "https://drafts.csswg.org/css-color-4/#propdef-color"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -10606,6 +10614,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-env-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-env-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 8)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10629,7 +10638,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -10656,7 +10665,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 327)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10760,6 +10768,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 9)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10777,7 +10786,17 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "xrefs": {
+          "notExported": [],
+          "notDfn": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-color"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": []
+        },
+        "ok": false
       }
     },
     {
@@ -10808,7 +10827,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/fill-stroke/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 341)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10868,7 +10886,12 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://www.w3.org/TR/css-color-4/#typedef-color",
+            "https://www.w3.org/TR/css-color-4/#propdef-color",
+            "https://www.w3.org/TR/css-color-4/#valdef-color-transparent",
+            "https://www.w3.org/TR/css-color-4/#propdef-opacity"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -11450,7 +11473,9 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#font"
+            "https://html.spec.whatwg.org/#font",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-absolute-color-base"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -12260,6 +12285,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 10)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12662,6 +12688,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-grid-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-grid-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 11)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12936,6 +12963,8 @@
             "https://www.w3.org/TR/css3-background/#the-border-image-slice"
           ],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://html.spec.whatwg.org/#concept-imagebitmap-good",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#attr-img-src",
@@ -13084,11 +13113,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
@@ -13102,6 +13126,11 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#color-interpolation-method",
+            "https://drafts.csswg.org/css-color-4/#interpolation",
+            "https://drafts.csswg.org/css-color-4/#interpolation-alpha",
             "https://html.spec.whatwg.org/#the-picture-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#canvas",
@@ -13367,7 +13396,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 277)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13685,6 +13713,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://html.spec.whatwg.org/#the-li-element",
             "https://html.spec.whatwg.org/#the-ul-element",
             "https://html.spec.whatwg.org/#the-ol-element",
@@ -13842,7 +13871,9 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-color"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -14029,6 +14060,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage"
           ],
           "evolvingLinks": [],
@@ -14062,6 +14095,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 16)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14293,7 +14327,9 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-color"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -14323,6 +14359,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 12)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14518,6 +14555,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://html.spec.whatwg.org/#the-div-element"
           ],
           "evolvingLinks": [],
@@ -14551,7 +14589,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/cssom/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/cssom/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 328)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14619,7 +14656,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
+              "title": "CSS Color Module Level 5",
               "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
@@ -14901,6 +14938,9 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#browsing-context-container",
             "https://html.spec.whatwg.org/#being-rendered",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#serializing-color-values",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://drafts.csswg.org/css-color-3/#alphavalue-def"
           ],
           "evolvingLinks": [],
@@ -16203,7 +16243,12 @@
           "brokenLinks": [
             "https://www.w3.org/TR/css-scoping-1/#host-element0",
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#concept-document-window"
+            "https://html.spec.whatwg.org/#concept-document-window",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-black",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-blue"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -16413,6 +16458,10 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
             "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
@@ -16692,7 +16741,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-round-display/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-round-display/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 297)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16779,7 +16827,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 298)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16946,7 +16993,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-scoping/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scoping/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 299)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17066,7 +17112,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-scroll-anchoring/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scroll-anchoring/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 300)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17163,7 +17208,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 301)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17268,6 +17312,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-scroll-snap-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scroll-snap-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 14)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17327,7 +17372,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-scrollbars/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scrollbars/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 302)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17376,6 +17420,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://www.w3.org/TR/css-color-4/#typedef-color",
             "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
@@ -17409,7 +17454,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shadow-parts/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 303)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17486,7 +17530,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 304)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17654,6 +17697,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 15)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17870,7 +17914,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 307)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18084,7 +18127,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-syntax/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 309)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18146,7 +18188,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
+              "title": "CSS Color Module Level 5",
               "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
@@ -18378,7 +18420,10 @@
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#link-type-stylesheet",
             "https://html.spec.whatwg.org/#valid-custom-element-name",
-            "https://html.spec.whatwg.org/#attr-img-sizes"
+            "https://html.spec.whatwg.org/#attr-img-sizes",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-blue",
+            "https://drafts.csswg.org/css-color-4/#typedef-color"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -18413,7 +18458,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 310)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18507,6 +18551,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/css-transforms/#grouping-property-values",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://html.spec.whatwg.org/#tables-2"
           ],
           "evolvingLinks": [],
@@ -18542,7 +18587,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 313)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18634,11 +18678,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -18684,6 +18723,8 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-ins-element",
             "https://html.spec.whatwg.org/#the-del-element",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
@@ -18719,7 +18760,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 314)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18789,11 +18829,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -18890,7 +18925,11 @@
             "https://www.w3.org/TR/css-backgrounds-3/#the-border-style",
             "https://www.w3.org/TR/css-ruby-1/#autohide"
           ],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -18922,7 +18961,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 311)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19167,7 +19205,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 312)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19409,7 +19446,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 315)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19683,7 +19719,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 316)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19775,6 +19810,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://html.spec.whatwg.org/#the-a-element"
           ],
           "evolvingLinks": [],
@@ -19808,7 +19844,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-transitions/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transitions/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 317)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19931,11 +19966,6 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -20017,6 +20047,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 17)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20066,7 +20097,8 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#being-rendered"
+            "https://html.spec.whatwg.org/#being-rendered",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20103,7 +20135,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 318)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20198,6 +20229,15 @@
             "https://drafts.fxtf.org/compositing-2/#propdef-mix"
           ],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#funcdef-rgba",
+            "https://drafts.csswg.org/css-color-4/#funcdef-hsla",
+            "https://drafts.csswg.org/css-color-4/#typedef-hex-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-named-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
@@ -20276,7 +20316,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 320)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20381,11 +20420,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -20770,6 +20804,10 @@
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#funcdef-rgba",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
@@ -20807,7 +20845,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 321)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20947,7 +20984,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
+              "title": "CSS Color Module Level 5",
               "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
@@ -21455,7 +21492,12 @@
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
-            "https://www.w3.org/TR/css-values-3/#acknowledgements"
+            "https://www.w3.org/TR/css-values-3/#acknowledgements",
+            "https://www.w3.org/TR/css-color-4/#typedef-color",
+            "https://www.w3.org/TR/css-color-4/#interpolation",
+            "https://www.w3.org/TR/css-color-4/#interpolation-alpha",
+            "https://www.w3.org/TR/css-color-4/#funcdef-rgba",
+            "https://www.w3.org/TR/css-color-4/#propdef-opacity"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -21484,6 +21526,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 18)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21525,6 +21568,9 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#typedef-hex-color",
+            "https://drafts.csswg.org/css-color-4/#named-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://www.w3.org/TR/css-values-4/#acknowledgements"
           ],
           "evolvingLinks": [],
@@ -21558,7 +21604,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-will-change/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-will-change/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21623,7 +21668,9 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -21655,7 +21702,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-writing-modes-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-writing-modes-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21991,7 +22037,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "29 July 2022",
+      "date": "7 July 2022",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -22012,7 +22058,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/cssom-view/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/cssom-view/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 329)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22240,7 +22285,8 @@
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#html-elements",
-            "https://html.spec.whatwg.org/#htmlimageelement"
+            "https://html.spec.whatwg.org/#htmlimageelement",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -23085,11 +23131,6 @@
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -24169,7 +24210,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "30 July 2022",
+      "date": "3 August 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -24640,7 +24681,8 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#eventhandler"
+            "https://html.spec.whatwg.org/#eventhandler",
+            "https://www.w3.org/TR/css-color-4/#serializing-sRGB-values"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -25632,7 +25674,10 @@
             "https://html.spec.whatwg.org/#environment-settings-object",
             "https://html.spec.whatwg.org/#dom-settimeout",
             "https://html.spec.whatwg.org/#concept-task",
-            "https://html.spec.whatwg.org/#content-type"
+            "https://html.spec.whatwg.org/#content-type",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-hex-color",
+            "https://drafts.csswg.org/css-color-4/#typedef-named-color"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -25857,6 +25902,11 @@
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-5/",
@@ -26790,7 +26840,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 342)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26875,13 +26924,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [
@@ -26894,6 +26937,13 @@
             "https://html.spec.whatwg.org/#script",
             "https://html.spec.whatwg.org/#attr-img-crossorigin",
             "https://html.spec.whatwg.org/#the-img-element",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
+            "https://drafts.csswg.org/css-color-4/#typedef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#sRGB-space",
+            "https://drafts.csswg.org/css-color-4/#sRGB-linear-space",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://drafts.csswg.org/css-transitions/#animtype-length",
             "https://drafts.csswg.org/css-transitions/#animtype-number",
@@ -27661,7 +27711,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/geometry/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/geometry/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 348)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -29335,11 +29384,6 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -30998,7 +31042,16 @@
             "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml",
             "https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager",
             "https://drafts.csswg.org/css-syntax/#conform-classes",
-            "https://drafts.csswg.org/css-color/#valdef-color-profile-rendering-intent-relative-colorimetric",
+            "https://drafts.csswg.org/css-color/#typedef-color",
+            "https://drafts.csswg.org/css-color/#valdef-color-currentcolor",
+            "https://drafts.csswg.org/css-color/#opaque-black",
+            "https://drafts.csswg.org/css-color/#the-color-property",
+            "https://drafts.csswg.org/css-color/#named-color",
+            "https://drafts.csswg.org/css-color/#transparent-black",
+            "https://drafts.csswg.org/css-color/#valdef-color-srgb",
+            "https://drafts.csswg.org/css-color/#valdef-color-display-p3",
+            "https://drafts.csswg.org/css-color/#predefined",
+            "https://drafts.csswg.org/css-color/#untagged",
             "https://drafts.csswg.org/css-align/#propdef-propdef-justify-content",
             "https://drafts.csswg.org/css-align/#propdef-propdef-justify-items",
             "https://drafts.csswg.org/css-grid/#propdef-grid-column-gap",
@@ -33739,6 +33792,7 @@
             "https://html.spec.whatwg.org/#concept-origin",
             "https://www.w3.org/TR/cssom-view-1/#viewport",
             "https://www.w3.org/TR/css-values-4/#pixel-unit",
+            "https://www.w3.org/TR/css-color-3/#transparency",
             "https://w3c.github.io/resource-timing/#sec-privacy-security"
           ],
           "evolvingLinks": [],
@@ -35095,7 +35149,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 375)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35273,7 +35326,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 376)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35337,11 +35389,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -35490,14 +35537,14 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-values-4/#relative-length",
-            "https://drafts.csswg.org/cssom-view-1/#page-zoom",
-            "https://drafts.csswg.org/css-color-4/#css-system-colors"
+            "https://drafts.csswg.org/cssom-view-1/#page-zoom"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#joint-session-history",
-            "https://www.w3.org/TR/cssom-view/#pinch-zoom"
+            "https://www.w3.org/TR/cssom-view/#pinch-zoom",
+            "https://drafts.csswg.org/css-color-4/#css-system-colors"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -36370,6 +36417,7 @@
             "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#attr-link-sizes",
             "https://html.spec.whatwg.org/#the-code-element",
+            "https://www.w3.org/TR/css-color-4/#sRGB-space",
             "https://www.w3.org/TR/mediaqueries-4/#display-mode-minimal-ui"
           ],
           "evolvingLinks": [],
@@ -36699,7 +36747,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 383)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39461,13 +39508,7 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [],
@@ -40848,7 +40889,9 @@
             "https://html.spec.whatwg.org/#the-td-element",
             "https://html.spec.whatwg.org/#the-th-element",
             "https://html.spec.whatwg.org/#the-table-element",
-            "https://drafts.csswg.org/css2/visuren.html#block-container-element"
+            "https://www.w3.org/TR/css-color-4/#quirky-color",
+            "https://drafts.csswg.org/css2/visuren.html#block-container-element",
+            "https://drafts.csswg.org/css-color-4/#propdef-color"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -41575,7 +41618,7 @@
     {
       "title": "Resize Observer",
       "shortname": "resize-observer-1",
-      "date": "11 November 2020",
+      "date": "3 August 2022",
       "url": "https://www.w3.org/TR/resize-observer-1/",
       "release": {
         "url": "https://www.w3.org/TR/resize-observer-1/",
@@ -41596,7 +41639,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/resize-observer/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/resize-observer/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 409)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41968,7 +42010,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -42048,7 +42090,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42280,7 +42322,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42389,7 +42431,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42473,7 +42515,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -43246,7 +43288,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43284,7 +43326,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43477,7 +43519,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43796,7 +43838,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "3 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -44147,11 +44189,6 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-3/",
@@ -44661,11 +44698,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -46023,7 +46055,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/selectors/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/selectors/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 418)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -50122,7 +50153,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 441)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -50273,7 +50303,8 @@
             "https://html.spec.whatwg.org/#session-history-entry",
             "https://w3c.github.io/hr-time/#time-origin",
             "https://w3c.github.io/hr-time/#domhighrestimestamp",
-            "https://heycam.github.io/webidl/#dfn-present"
+            "https://heycam.github.io/webidl/#dfn-present",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -50620,7 +50651,9 @@
             "https://html.spec.whatwg.org/#attr-meta-name",
             "https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#concept-origin"
+            "https://html.spec.whatwg.org/#concept-origin",
+            "https://www.w3.org/TR/css-color-4/#alpha-channel",
+            "https://www.w3.org/TR/css-color-4/#sRGB-space"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -56670,6 +56703,9 @@
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#entry-settings-object",
             "https://html.spec.whatwg.org/#honor-user-preferences-for-automatic-text-track-selection",
+            "https://drafts.csswg.org/css-color-4/#propdef-color",
+            "https://drafts.csswg.org/css-color-4/#valdef-color-green",
+            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://drafts.csswg.org/css-values-4/#vw",
             "https://drafts.csswg.org/css-values-4/#vh",
             "https://drafts.csswg.org/selectors-3/#sel-before",
