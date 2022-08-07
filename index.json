@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-07T12:48:09.067Z",
+  "date": "2022-08-07T18:40:33.199Z",
   "stats": {
     "crawled": 473,
-    "errors": 5,
+    "errors": 4,
     "studied": 473
   },
   "results": [
@@ -9353,8 +9353,7 @@
           "notExported": [
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://drafts.csswg.org/css-break-3/#monolithic",
-            "https://drafts.csswg.org/css2/#stacking-context",
-            "https://w3c.github.io/IntersectionObserver/#intersectionobserver-intersection-root"
+            "https://drafts.csswg.org/css2/#stacking-context"
           ],
           "notDfn": [
             "https://drafts.csswg.org/css-ui-3/#propdef-text-overflow"
@@ -9365,8 +9364,7 @@
             "https://html.spec.whatwg.org/#focus",
             "https://html.spec.whatwg.org/#update-the-rendering",
             "https://html.spec.whatwg.org/#dom-window-focus",
-            "https://html.spec.whatwg.org/#the-iframe-element",
-            "https://html.spec.whatwg.org/#dom-innertext"
+            "https://html.spec.whatwg.org/#the-iframe-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9771,7 +9769,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-variables-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-variables-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 19)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
