@@ -3040,7 +3040,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-fxl-support`](https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-fxl-support)
      * [`https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-scrolled`](https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-scrolled)
      * [`https://www.w3.org/TR/epub-rs-33/#note-table-reading-mode`](https://www.w3.org/TR/epub-rs-33/#note-table-reading-mode)
-     * [`https://www.w3.org/TR/epub-rs-33/#sec-property-datatype`](https://www.w3.org/TR/epub-rs-33/#sec-property-datatype)
      * [`https://www.w3.org/TR/css-text-3/#hyphens-property`](https://www.w3.org/TR/css-text-3/#hyphens-property)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/):
      * [`https://www.w3.org/TR/epub-33/#cmt-grp-image`](https://www.w3.org/TR/epub-33/#cmt-grp-image)
@@ -3070,7 +3069,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/epub-33/#active-class`](https://www.w3.org/TR/epub-33/#active-class)
      * [`https://www.w3.org/TR/epub-33/#playback-active-class`](https://www.w3.org/TR/epub-33/#playback-active-class)
      * [`https://www.w3.org/TR/epub-33/#duration`](https://www.w3.org/TR/epub-33/#duration)
-     * [`https://www.w3.org/TR/epub-33/#attrdef-link-rel`](https://www.w3.org/TR/epub-33/#attrdef-link-rel)
+     * [`https://www.w3.org/TR/epub-33/#property.ebnf.prefix`](https://www.w3.org/TR/epub-33/#property.ebnf.prefix)
+     * [`https://www.w3.org/TR/epub-33/#property.ebnf.reference`](https://www.w3.org/TR/epub-33/#property.ebnf.reference)
      * [`https://www.w3.org/TR/epub-33/#attrdef-package-version`](https://www.w3.org/TR/epub-33/#attrdef-package-version)
      * [`https://www.w3.org/TR/epub-33/#confreq-nav-a-title`](https://www.w3.org/TR/epub-33/#confreq-nav-a-title)
 - [Event Timing API](https://w3c.github.io/event-timing):
@@ -5223,6 +5223,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/secure-contexts/#secure-context`](https://www.w3.org/TR/secure-contexts/#secure-context)
      * [`https://heycam.github.io/webidl/#dfn-present`](https://heycam.github.io/webidl/#dfn-present)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/):
+     * [`https://www.w3.org/TR/epub-rs-33/#sec-property-datatype`](https://www.w3.org/TR/epub-rs-33/#sec-property-datatype)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#the-form-element`](https://html.spec.whatwg.org/#the-form-element)
      * [`https://html.spec.whatwg.org/#the-xhtml-syntax`](https://html.spec.whatwg.org/#the-xhtml-syntax)
@@ -9275,7 +9276,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5190 problematic external links found in 313 specifications
+=> 5191 problematic external links found in 313 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification

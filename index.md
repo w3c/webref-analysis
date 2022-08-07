@@ -668,7 +668,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 5 August 2022
+- Crawled version: 7 August 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -11253,7 +11253,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 05 August 2022
+- Crawled version: 07 August 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -11272,9 +11272,9 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-fxl-support`](https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-fxl-support)
      * [`https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-scrolled`](https://www.w3.org/TR/epub-rs-33/#confreq-rs-scripted-scrolled)
      * [`https://www.w3.org/TR/epub-rs-33/#note-table-reading-mode`](https://www.w3.org/TR/epub-rs-33/#note-table-reading-mode)
-     * [`https://www.w3.org/TR/epub-rs-33/#sec-property-datatype`](https://www.w3.org/TR/epub-rs-33/#sec-property-datatype)
      * [`https://www.w3.org/TR/css-text-3/#hyphens-property`](https://www.w3.org/TR/css-text-3/#hyphens-property)
 - Broken external links:
+     * [`https://www.w3.org/TR/epub-rs-33/#sec-property-datatype`](https://www.w3.org/TR/epub-rs-33/#sec-property-datatype)
      * [`https://html.spec.whatwg.org/#the-a-element`](https://html.spec.whatwg.org/#the-a-element)
      * [`https://html.spec.whatwg.org/#the-form-element`](https://html.spec.whatwg.org/#the-form-element)
      * [`https://html.spec.whatwg.org/#the-xhtml-syntax`](https://html.spec.whatwg.org/#the-xhtml-syntax)
@@ -11349,7 +11349,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 05 August 2022
+- Crawled version: 07 August 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -11390,7 +11390,8 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/epub-33/#active-class`](https://www.w3.org/TR/epub-33/#active-class)
      * [`https://www.w3.org/TR/epub-33/#playback-active-class`](https://www.w3.org/TR/epub-33/#playback-active-class)
      * [`https://www.w3.org/TR/epub-33/#duration`](https://www.w3.org/TR/epub-33/#duration)
-     * [`https://www.w3.org/TR/epub-33/#attrdef-link-rel`](https://www.w3.org/TR/epub-33/#attrdef-link-rel)
+     * [`https://www.w3.org/TR/epub-33/#property.ebnf.prefix`](https://www.w3.org/TR/epub-33/#property.ebnf.prefix)
+     * [`https://www.w3.org/TR/epub-33/#property.ebnf.reference`](https://www.w3.org/TR/epub-33/#property.ebnf.reference)
      * [`https://www.w3.org/TR/epub-33/#attrdef-package-version`](https://www.w3.org/TR/epub-33/#attrdef-package-version)
      * [`https://www.w3.org/TR/epub-33/#confreq-nav-a-title`](https://www.w3.org/TR/epub-33/#confreq-nav-a-title)
 - Broken external links:
