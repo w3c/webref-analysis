@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-09T06:39:25.643Z",
+  "date": "2022-08-09T12:45:30.568Z",
   "stats": {
     "crawled": 473,
     "errors": 5,
@@ -25176,7 +25176,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "07 August 2022",
+      "date": "09 August 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25307,7 +25307,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "07 August 2022",
+      "date": "09 August 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -29121,7 +29121,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "22 July 2022",
+      "date": "9 August 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36326,7 +36326,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "19 July 2022",
+      "date": "09 August 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",
