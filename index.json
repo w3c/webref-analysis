@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-11T12:45:03.553Z",
+  "date": "2022-08-11T18:39:52.826Z",
   "stats": {
     "crawled": 473,
-    "errors": 5,
+    "errors": 4,
     "studied": 473
   },
   "results": [
@@ -4659,7 +4659,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -15299,7 +15298,7 @@
     {
       "title": "CSS Overflow Module Level 4",
       "shortname": "css-overflow-4",
-      "date": "5 August 2021",
+      "date": "10 August 2022",
       "url": "https://www.w3.org/TR/css-overflow-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -19733,7 +19732,7 @@
     {
       "title": "CSS Transforms Module Level 2",
       "shortname": "css-transforms-2",
-      "date": "16 February 2022",
+      "date": "9 August 2022",
       "url": "https://www.w3.org/TR/css-transforms-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-transforms-2/",
@@ -22070,7 +22069,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "7 July 2022",
+      "date": "10 August 2022",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -45872,7 +45871,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "10 August 2022",
+      "date": "11 August 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -53715,7 +53714,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "13 July 2022",
+      "date": "11 August 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -53794,9 +53793,10 @@
             "https://html.spec.whatwg.org/#concept-realm-global",
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
-            "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#active-window",
             "https://html.spec.whatwg.org/#windowproxy",
             "https://html.spec.whatwg.org/#navigation-id",
+            "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#parent-browsing-context",
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#child-browsing-context",
