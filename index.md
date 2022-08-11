@@ -9914,7 +9914,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/filter-effects-1/](https://www.w3.org/TR/filter-effects-1/)
 - Crawled URL: [https://drafts.fxtf.org/filter-effects-1/](https://drafts.fxtf.org/filter-effects-1/)
-- Crawled version: 27 July 2022
+- Crawled version: 10 August 2022
 - Editor's Draft: [https://drafts.fxtf.org/filter-effects-1/](https://drafts.fxtf.org/filter-effects-1/)
 - Latest published version: [https://www.w3.org/TR/filter-effects-1/](https://www.w3.org/TR/filter-effects-1/)
 - Shortname: filter-effects-1
@@ -12769,19 +12769,18 @@ No informative reference to this spec from other specs.
 
 ## Portable Network Graphics (PNG) Working Group {#portable_network_graphics_png_working_group}
 
-### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 10 August 2022
+- Crawled version: 11 August 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
 - Missing references for links: 
      * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
 - External links that use a dated URL:
@@ -12793,6 +12792,7 @@ Normative references to this spec from:
 
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
 
 No informative reference to this spec from other specs.
 

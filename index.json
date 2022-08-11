@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-11T06:38:14.964Z",
+  "date": "2022-08-11T12:45:03.553Z",
   "stats": {
     "crawled": 473,
     "errors": 5,
@@ -26854,7 +26854,7 @@
     {
       "title": "Filter Effects Module Level 1",
       "shortname": "filter-effects-1",
-      "date": "27 July 2022",
+      "date": "10 August 2022",
       "url": "https://www.w3.org/TR/filter-effects-1/",
       "release": {
         "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -39504,7 +39504,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "10 August 2022",
+      "date": "11 August 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -39521,7 +39521,7 @@
         }
       ],
       "report": {
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -39547,6 +39547,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://w3c.github.io/PNG-spec/",
+              "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
+              "crawled": "https://w3c.github.io/PNG-spec/"
             }
           ],
           "informative": []

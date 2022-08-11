@@ -75,7 +75,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Method: Basic Card](https://w3c.github.io/payment-method-basic-card/)
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
 - [Proposal-array-find-from-last](https://tc39.es/proposal-array-find-from-last/)
 - [Resizable ArrayBuffer and growable SharedArrayBuffer](https://tc39.es/proposal-resizablearraybuffer/)
 - [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
@@ -134,7 +133,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 80 specifications found
+=> 79 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
