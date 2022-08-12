@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-12T06:39:23.705Z",
+  "date": "2022-08-12T12:44:34.111Z",
   "stats": {
     "crawled": 473,
     "errors": 5,
@@ -12,7 +12,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "29 July 2022",
+      "date": "12 August 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -52,7 +52,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "29 July 2022",
+      "date": "12 August 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -92,7 +92,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "29 July 2022",
+      "date": "12 August 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -132,7 +132,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "29 July 2022",
+      "date": "12 August 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -33315,7 +33315,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "3 August 2022",
+      "date": "12 August 2022",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -51256,7 +51256,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "25 July 2022",
+      "date": "12 August 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",

@@ -12,7 +12,7 @@
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
-- Crawled version: 29 July 2022
+- Crawled version: 12 August 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
 - Shortname: tc39-intl-annexes
 
@@ -33,7 +33,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
-- Crawled version: 29 July 2022
+- Crawled version: 12 August 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - Shortname: tc39-intl-negotiation
 
@@ -54,7 +54,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
-- Crawled version: 29 July 2022
+- Crawled version: 12 August 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - Shortname: tc39-intl-numberformat
 
@@ -75,7 +75,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
-- Crawled version: 29 July 2022
+- Crawled version: 12 August 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - Shortname: tc39-intl-pluralrules
 
@@ -394,7 +394,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Crawled URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
-- Crawled version: 3 August 2022
+- Crawled version: 12 August 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Shortname: tc39-intl-duration-format
 
@@ -24240,7 +24240,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 25 July 2022
+- Crawled version: 12 August 2022
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
