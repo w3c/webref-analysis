@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-12T12:44:34.111Z",
+  "date": "2022-08-12T18:38:51.628Z",
   "stats": {
     "crawled": 473,
     "errors": 5,
@@ -24244,7 +24244,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "10 August 2022",
+      "date": "12 August 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -26678,7 +26678,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "27 June 2022",
+      "date": "12 August 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -26707,22 +26707,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/FileAPI/",
-            "ref": {
-              "name": "FILE-API",
-              "url": "https://www.w3.org/TR/FileAPI/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://www.w3.org/TR/permissions/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -45877,7 +45862,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "11 August 2022",
+      "date": "12 August 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -55893,6 +55878,7 @@
             "https://gpuweb.github.io/gpuweb/#gpu-command",
             "https://gpuweb.github.io/gpuweb/#binding-resource-type",
             "https://gpuweb.github.io/gpuweb/#binding-type",
+            "https://gpuweb.github.io/gpuweb/#binding-member",
             "https://gpuweb.github.io/gpuweb/#rasterizationpoint",
             "https://gpuweb.github.io/gpuweb/#front-facing",
             "https://gpuweb.github.io/gpuweb/#shader-output-mask"
