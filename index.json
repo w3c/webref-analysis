@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-12T00:47:33.683Z",
+  "date": "2022-08-12T06:39:23.705Z",
   "stats": {
     "crawled": 473,
     "errors": 5,
@@ -47751,7 +47751,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "10 August 2022",
+      "date": "12 August 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -55713,7 +55713,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "11 August 2022",
+      "date": "12 August 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55844,7 +55844,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "11 August 2022",
+      "date": "12 August 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
