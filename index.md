@@ -3591,7 +3591,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 11 August 2022
+- Crawled version: 15 August 2022
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -24513,7 +24513,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 12 May 2022
+- Crawled version: 15 August 2022
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 

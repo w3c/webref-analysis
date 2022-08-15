@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-15T06:41:17.794Z",
+  "date": "2022-08-15T12:48:29.826Z",
   "stats": {
     "crawled": 473,
     "errors": 4,
@@ -53692,7 +53692,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "11 August 2022",
+      "date": "15 August 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -57815,7 +57815,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "12 May 2022",
+      "date": "15 August 2022",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
