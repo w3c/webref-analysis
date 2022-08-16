@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-16T12:48:46.944Z",
+  "date": "2022-08-16T18:43:29.118Z",
   "stats": {
     "crawled": 473,
-    "errors": 5,
+    "errors": 4,
     "studied": 473
   },
   "results": [
@@ -6307,6 +6307,7 @@
           "https://www.w3.org/TR/css3-multicol/",
           "https://www.w3.org/TR/css-flexbox/",
           "https://www.w3.org/TR/css-grid/",
+          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/css3-flexbox/",
           "https://www.w3.org/TR/css3-grid-layout/"
         ],
@@ -6488,7 +6489,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/selectors-3/#first-formatted-line0"
+            "https://www.w3.org/TR/selectors-3/#first-formatted-line0"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -14636,7 +14637,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/selectors-3/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -14950,8 +14953,8 @@
             "https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/selectors-3/#sel-before",
-            "https://drafts.csswg.org/selectors-3/#sel-after",
+            "https://www.w3.org/TR/selectors-3/#sel-before",
+            "https://www.w3.org/TR/selectors-3/#sel-after",
             "https://html.spec.whatwg.org/#link-options-base-url",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#current-global-object",
@@ -16329,6 +16332,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/css-text-decor/"
         ],
         "inconsistentRef": [],
@@ -16498,7 +16502,7 @@
             "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://drafts.csswg.org/selectors-3/#x"
+            "https://www.w3.org/TR/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17040,7 +17044,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/selectors-3/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -17115,7 +17121,7 @@
             "https://html.spec.whatwg.org/#custom-element",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#the-slot-element",
-            "https://drafts.csswg.org/selectors-3/#x"
+            "https://www.w3.org/TR/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17732,7 +17738,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 15)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20362,6 +20367,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/css3-page/"
         ],
@@ -20842,7 +20848,7 @@
             "https://drafts.csswg.org/css-color-4/#funcdef-rgba",
             "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
-            "https://drafts.csswg.org/selectors-3/#x"
+            "https://www.w3.org/TR/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -46089,10 +46095,10 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css3-selectors/",
+          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/2013/WD-selectors4-20130502/",
           "https://www.w3.org/TR/2012/WD-selectors4-20120823/",
           "https://www.w3.org/TR/2011/WD-selectors4-20110929/",
-          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/css-ui-3/"
         ],
         "inconsistentRef": [
