@@ -25,7 +25,7 @@
   <h2>Specifications that could not be rendered</h2>
   <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
   <ul>
-  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 326)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
+  <li><a href="https://drafts.csswg.org/css-shapes-2/">CSS Shapes Module Level 2</a>: <code>Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 15)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
   <li><a href="https://www.w3.org/TR/device-memory/">Device Memory</a>: <code>Error: Loading https://www.w3.org/TR/device-memory/ triggered network error FetchError: request to https://www.w3.org/TR/device-memory/ failed, reason: connect ETIMEDOUT 128.30.52.100:443 Error: Loading https://www.w3.org/TR/device-memory/ triggered network error FetchError: request to https://www.w3.org/TR/device-memory/ failed, reason: connect ETIMEDOUT 128.30.52.100:443   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)   at runMicrotasks (&lt;anonymous&gt;)   at processTicksAndRejections (internal/process/task_queues.js:95:5)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 330)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
   <li><a href="https://www.w3.org/TR/SVG11/">Scalable Vector Graphics (SVG) 1.1 (Second Edition)</a>: <code>Error: Loading https://www.w3.org/TR/SVG11/ triggered network error FetchError: request to https://www.w3.org/TR/SVG11/ failed, reason: connect ETIMEDOUT 128.30.52.100:443 Error: Loading https://www.w3.org/TR/SVG11/ triggered network error FetchError: request to https://www.w3.org/TR/SVG11/ failed, reason: connect ETIMEDOUT 128.30.52.100:443   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)   at runMicrotasks (&lt;anonymous&gt;)   at processTicksAndRejections (internal/process/task_queues.js:95:5)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 425)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
   <li><a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a>: <code>Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered network error FetchError: request to https://www.w3.org/Consortium/Patent-Policy/ failed, reason: connect ETIMEDOUT 128.30.52.100:443 Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered network error FetchError: request to https://www.w3.org/Consortium/Patent-Policy/ failed, reason: connect ETIMEDOUT 128.30.52.100:443   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)   at runMicrotasks (&lt;anonymous&gt;)   at processTicksAndRejections (internal/process/task_queues.js:95:5)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 224)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
@@ -269,6 +269,13 @@
   <li><a href="https://www.w3.org/TR/wai-aria-implementation/"><code>https://www.w3.org/TR/wai-aria-implementation/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://w3c.github.io/webappsec-credential-management/">Credential Management Level 1</a> links to <a href="https://w3c.github.io/webappsec/usecases/credentialmanagement/"><code>https://w3c.github.io/webappsec/usecases/credentialmanagement/</code></a> but does not list it in its references</li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a> but does not list it in its references</li>
+  </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
   <ul>
   <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but does not list it in its references</li>
@@ -819,13 +826,6 @@
   <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/html5/"><code>https://www.w3.org/TR/html5/</code></a> but does not list it in its references</li>
-  </ul></li>
-  <li><a href="https://drafts.csswg.org/css-shapes-2/">CSS Shapes Module Level 2</a> links to:
-  <ul>
-  <li><a href="https://www.w3.org/TR/css-shapes/"><code>https://www.w3.org/TR/css-shapes/</code></a> but does not list it in its references</li>
-  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a> but does not list it in its references</li>
-  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
-  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a> links to:
   <ul>
@@ -1401,6 +1401,12 @@
   <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
   <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a> but related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
   </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a> but related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  </ul></li>
   <li><a href="https://drafts.csswg.org/css-animations/">CSS Animations Level 1</a> links to:
   <ul>
   <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
@@ -1688,12 +1694,6 @@
   <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
   <li><a href="https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/"><code>https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/</code></a> but related reference “CSS3-EXCLUSIONS” uses URL <a href="https://drafts.csswg.org/css-exclusions/"><code>https://drafts.csswg.org/css-exclusions/</code></a></li>
   <li><a href="https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/"><code>https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/</code></a> but related reference “CSS3-EXCLUSIONS” uses URL <a href="https://drafts.csswg.org/css-exclusions/"><code>https://drafts.csswg.org/css-exclusions/</code></a></li>
-  </ul></li>
-  <li><a href="https://drafts.csswg.org/css-shapes-2/">CSS Shapes Module Level 2</a> links to:
-  <ul>
-  <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css3-exclusions/"><code>https://www.w3.org/TR/css3-exclusions/</code></a> but related reference “CSS3-EXCLUSIONS” uses URL <a href="https://drafts.csswg.org/css-exclusions/"><code>https://drafts.csswg.org/css-exclusions/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a> links to:
   <ul>
@@ -2250,6 +2250,10 @@
   <ul>
   <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
   </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
+  </ul></li>
   <li><a href="https://drafts.css-houdini.org/css-animationworklet-1/">CSS Animation Worklet API</a>:
   <ul>
   <li><a href="https://drafts.csswg.org/web-animations#animation-effect"><code>https://drafts.csswg.org/web-animations#animation-effect</code></a></li>
@@ -2600,12 +2604,6 @@
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-shapes/">CSS Shapes Module Level 1</a>:
   <ul>
-  <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
-  </ul></li>
-  <li><a href="https://drafts.csswg.org/css-shapes-2/">CSS Shapes Module Level 2</a>:
-  <ul>
-  <li><a href="https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"><code>https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet</code></a></li>
-  <li><a href="https://www.w3.org/TR/css3-exclusions/#wrapping-context"><code>https://www.w3.org/TR/css3-exclusions/#wrapping-context</code></a></li>
   <li><a href="https://www.w3.org/TR/css-cascade/#applies-to"><code>https://www.w3.org/TR/css-cascade/#applies-to</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a>:
@@ -3624,7 +3622,7 @@
   <li><a href="https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm"><code>https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 854 problematic external links found in 210 specifications</p>
+  <p>=&gt; 852 problematic external links found in 210 specifications</p>
   </section>
   <section id="external-links-that-neither-target-definitions-nor-headings" class="level2">
   <h2>External links that neither target definitions nor headings</h2>
@@ -5545,6 +5543,11 @@
   <li><a href="https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin"><code>https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#top-level-browsing-context"><code>https://html.spec.whatwg.org/#top-level-browsing-context</code></a></li>
   <li><a href="https://html.spec.whatwg.org/#worker"><code>https://html.spec.whatwg.org/#worker</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/#the-style-attribute"><code>https://html.spec.whatwg.org/#the-style-attribute</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-color/#transparency"><code>https://www.w3.org/TR/css3-color/#transparency</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
   <ul>
@@ -10909,7 +10912,7 @@
   <li><a href="https://html.spec.whatwg.org/#the-progress-element"><code>https://html.spec.whatwg.org/#the-progress-element</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 5191 problematic external links found in 312 specifications</p>
+  <p>=&gt; 5193 problematic external links found in 313 specifications</p>
   </section>
   <section id="external-links-to-terms-that-no-longer-exist-in-the-latest-version-of-the-targeted-specification" class="level2">
   <h2>External links to terms that no longer exist in the latest version of the targeted specification</h2>
@@ -11148,6 +11151,13 @@
   <li><a href="https://www.w3.org/TR/2014/CR-compositing-1-20140220/"><code>https://www.w3.org/TR/2014/CR-compositing-1-20140220/</code></a></li>
   <li><a href="https://www.w3.org/TR/2013/WD-compositing-1-20131010/"><code>https://www.w3.org/TR/2013/WD-compositing-1-20131010/</code></a></li>
   <li><a href="https://www.w3.org/TR/2013/WD-compositing-1-20130625/"><code>https://www.w3.org/TR/2013/WD-compositing-1-20130625/</code></a></li>
+  </ul></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/</code></a></li>
+  <li><a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
   </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>:
   <ul>
@@ -11470,7 +11480,7 @@
   <li><a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 152 problematic external links found in 63 specifications</p>
+  <p>=&gt; 156 problematic external links found in 64 specifications</p>
   </section>
   </body>
 </html>
