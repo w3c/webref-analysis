@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-16T18:43:29.118Z",
+  "date": "2022-08-17T00:51:53.707Z",
   "stats": {
     "crawled": 473,
     "errors": 4,
@@ -3917,11 +3917,6 @@
           ],
           "informative": [
             {
-              "url": "https://fedidcg.github.io/FedCM/",
-              "title": "Federated Credential Management API",
-              "crawled": "https://fedidcg.github.io/FedCM/"
-            },
-            {
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
@@ -6307,7 +6302,6 @@
           "https://www.w3.org/TR/css3-multicol/",
           "https://www.w3.org/TR/css-flexbox/",
           "https://www.w3.org/TR/css-grid/",
-          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/css3-flexbox/",
           "https://www.w3.org/TR/css3-grid-layout/"
         ],
@@ -6489,7 +6483,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/selectors-3/#first-formatted-line0"
+            "https://drafts.csswg.org/selectors-3/#first-formatted-line0"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -14637,9 +14631,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/selectors-3/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -14953,8 +14945,8 @@
             "https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/selectors-3/#sel-before",
-            "https://www.w3.org/TR/selectors-3/#sel-after",
+            "https://drafts.csswg.org/selectors-3/#sel-before",
+            "https://drafts.csswg.org/selectors-3/#sel-after",
             "https://html.spec.whatwg.org/#link-options-base-url",
             "https://html.spec.whatwg.org/#concept-document-window",
             "https://html.spec.whatwg.org/#current-global-object",
@@ -16332,7 +16324,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/css-text-decor/"
         ],
         "inconsistentRef": [],
@@ -16502,7 +16493,7 @@
             "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://www.w3.org/TR/selectors-3/#x"
+            "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -17044,9 +17035,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/selectors-3/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -17121,7 +17110,7 @@
             "https://html.spec.whatwg.org/#custom-element",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#the-slot-element",
-            "https://www.w3.org/TR/selectors-3/#x"
+            "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20367,7 +20356,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/selectors/",
           "https://www.w3.org/TR/css3-page/"
         ],
@@ -20848,7 +20836,7 @@
             "https://drafts.csswg.org/css-color-4/#funcdef-rgba",
             "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
-            "https://www.w3.org/TR/selectors-3/#x"
+            "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -25652,7 +25640,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "21 July 2022",
+      "date": "16 August 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -25713,9 +25701,13 @@
             "https://html.spec.whatwg.org/#relevant-settings-object",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
             "https://html.spec.whatwg.org/#environment-settings-object",
+            "https://html.spec.whatwg.org/#concept-document-permissions-policy",
             "https://html.spec.whatwg.org/#dom-settimeout",
             "https://html.spec.whatwg.org/#concept-task",
             "https://html.spec.whatwg.org/#content-type",
+            "https://html.spec.whatwg.org/#allowed-to-use",
+            "https://html.spec.whatwg.org/#current-settings-object",
+            "https://html.spec.whatwg.org/#in-parallel",
             "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://drafts.csswg.org/css-color-4/#typedef-hex-color",
             "https://drafts.csswg.org/css-color-4/#typedef-named-color"
@@ -38977,6 +38969,11 @@
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
@@ -42053,7 +42050,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -42133,7 +42130,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42365,7 +42362,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42474,7 +42471,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42558,7 +42555,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -43331,7 +43328,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43369,7 +43366,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43562,7 +43559,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43881,7 +43878,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -46095,10 +46092,10 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css3-selectors/",
-          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/2013/WD-selectors4-20130502/",
           "https://www.w3.org/TR/2012/WD-selectors4-20120823/",
           "https://www.w3.org/TR/2011/WD-selectors4-20110929/",
+          "https://www.w3.org/TR/selectors-3/",
           "https://www.w3.org/TR/css-ui-3/"
         ],
         "inconsistentRef": [
@@ -47742,7 +47739,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "15 August 2022",
+      "date": "16 August 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53280,7 +53277,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "10 August 2022",
+      "date": "16 August 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -55709,7 +55706,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "15 August 2022",
+      "date": "16 August 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55840,7 +55837,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "15 August 2022",
+      "date": "16 August 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 16, 2022
+% August 17, 2022
 
 # Ecma International {#ecma_international}
 
@@ -545,7 +545,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 15 August 2022
+- Crawled version: 16 August 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -570,7 +570,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -600,7 +600,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -691,7 +691,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1159,7 +1159,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1182,7 +1182,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1215,7 +1215,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1259,7 +1259,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1294,7 +1294,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1326,7 +1326,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 16 August 2022
+- Crawled version: 17 August 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -4545,7 +4545,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
      * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
      * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
-     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
      * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/)
      * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/)
 - Inconsistent references for links: 
@@ -4558,7 +4557,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/css-grid-1/#collapsed-gutter`](https://drafts.csswg.org/css-grid-1/#collapsed-gutter)
 - Broken external links:
-     * [`https://www.w3.org/TR/selectors-3/#first-formatted-line0`](https://www.w3.org/TR/selectors-3/#first-formatted-line0)
+     * [`https://drafts.csswg.org/selectors-3/#first-formatted-line0`](https://drafts.csswg.org/selectors-3/#first-formatted-line0)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7366,7 +7365,7 @@ Informative references to this spec from:
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 
 
-### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -7379,13 +7378,11 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
 - External links that neither target definitions nor headings:
      * [`https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0`](https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0)
 - Broken external links:
-     * [`https://www.w3.org/TR/selectors-3/#sel-before`](https://www.w3.org/TR/selectors-3/#sel-before)
-     * [`https://www.w3.org/TR/selectors-3/#sel-after`](https://www.w3.org/TR/selectors-3/#sel-after)
+     * [`https://drafts.csswg.org/selectors-3/#sel-before`](https://drafts.csswg.org/selectors-3/#sel-before)
+     * [`https://drafts.csswg.org/selectors-3/#sel-after`](https://drafts.csswg.org/selectors-3/#sel-after)
      * [`https://html.spec.whatwg.org/#link-options-base-url`](https://html.spec.whatwg.org/#link-options-base-url)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
@@ -7927,7 +7924,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
      * [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-text-3/#word-separator`](https://drafts.csswg.org/css-text-3/#word-separator)
@@ -7936,7 +7932,7 @@ No informative reference to this spec from other specs.
      * [`https://drafts.csswg.org/css-color-4/#propdef-opacity`](https://drafts.csswg.org/css-color-4/#propdef-opacity)
      * [`https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor`](https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor)
      * [`https://drafts.csswg.org/css-color-4/#valdef-color-transparent`](https://drafts.csswg.org/css-color-4/#valdef-color-transparent)
-     * [`https://www.w3.org/TR/selectors-3/#x`](https://www.w3.org/TR/selectors-3/#x)
+     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8167,7 +8163,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Scoping Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-xrefs=true}
+### CSS Scoping Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
 
 #### Spec info {.info}
 
@@ -8180,13 +8176,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
 - Broken external links:
      * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
-     * [`https://www.w3.org/TR/selectors-3/#x`](https://www.w3.org/TR/selectors-3/#x)
+     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9381,7 +9375,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
      * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
 - Inconsistent references for links: 
@@ -9398,7 +9391,7 @@ No informative reference to this spec from other specs.
      * [`https://drafts.csswg.org/css-color-4/#funcdef-rgba`](https://drafts.csswg.org/css-color-4/#funcdef-rgba)
      * [`https://drafts.csswg.org/css-color-4/#propdef-opacity`](https://drafts.csswg.org/css-color-4/#propdef-opacity)
      * [`https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor`](https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor)
-     * [`https://www.w3.org/TR/selectors-3/#x`](https://www.w3.org/TR/selectors-3/#x)
+     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - External links that use a dated URL:
      * [`https://www.w3.org/TR/2013/CR-css3-values-20130730/`](https://www.w3.org/TR/2013/CR-css3-values-20130730/)
      * [`https://www.w3.org/TR/2012/CR-css3-values-20120828/`](https://www.w3.org/TR/2012/CR-css3-values-20120828/)
@@ -10389,10 +10382,10 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
-     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
      * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
      * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
      * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/)
+     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
      * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/), related reference "CSS-SCOPING-1" uses URL [`https://drafts.csswg.org/css-scoping/`](https://drafts.csswg.org/css-scoping/)
@@ -11441,7 +11434,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 15 August 2022
+- Crawled version: 16 August 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11525,7 +11518,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 15 August 2022
+- Crawled version: 16 August 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -12530,7 +12523,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 10 August 2022
+- Crawled version: 16 August 2022
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -14629,7 +14622,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 
@@ -14876,6 +14868,7 @@ Normative references to this spec from:
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -18749,7 +18742,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 21 July 2022
+- Crawled version: 16 August 2022
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -18767,9 +18760,13 @@ No informative reference to this spec from other specs.
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#dom-settimeout`](https://html.spec.whatwg.org/#dom-settimeout)
      * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://drafts.csswg.org/css-color-4/#typedef-color`](https://drafts.csswg.org/css-color-4/#typedef-color)
      * [`https://drafts.csswg.org/css-color-4/#typedef-hex-color`](https://drafts.csswg.org/css-color-4/#typedef-hex-color)
      * [`https://drafts.csswg.org/css-color-4/#typedef-named-color`](https://drafts.csswg.org/css-color-4/#typedef-named-color)

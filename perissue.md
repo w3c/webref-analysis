@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 16, 2022
+% August 17, 2022
 
 473 specifications were crawled in this report.
 
@@ -338,7 +338,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
-    * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/) but does not list it in its references
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
@@ -610,7 +609,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces/) links to [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/) but does not list it in its references
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/) links to [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/) links to:
     * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/) but does not list it in its references
     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/) but does not list it in its references
@@ -646,9 +644,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to:
-    * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/) but does not list it in its references
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/) but does not list it in its references
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
@@ -679,7 +675,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/simple-ruby/`](https://www.w3.org/TR/simple-ruby/) but does not list it in its references
-- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping/) links to [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/) links to:
     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -788,7 +783,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/) but does not list it in its references
     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog) but does not list it in its references
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to:
-    * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/) but does not list it in its references
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
@@ -997,10 +991,10 @@ Basically all specifications have normative dependencies on some other specifica
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/) but does not list it in its references
 - [Selectors Level 4](https://drafts.csswg.org/selectors/) links to:
     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
-    * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
     * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/) but does not list it in its references
     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/) but does not list it in its references
     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but does not list it in its references
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
     * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/) but does not list it in its references
@@ -1095,7 +1089,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 747 missing references for links found in 204 specifications
+=> 742 missing references for links found in 202 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -4548,7 +4542,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#attr-input-type-password-keyword`](https://html.spec.whatwg.org/#attr-input-type-password-keyword)
      * [`https://w3c.github.io/contentEditable/#dfn-editing-host`](https://w3c.github.io/contentEditable/#dfn-editing-host)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align/):
-     * [`https://www.w3.org/TR/selectors-3/#first-formatted-line0`](https://www.w3.org/TR/selectors-3/#first-formatted-line0)
+     * [`https://drafts.csswg.org/selectors-3/#first-formatted-line0`](https://drafts.csswg.org/selectors-3/#first-formatted-line0)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/):
      * [`https://html.spec.whatwg.org/#the-button-element`](https://html.spec.whatwg.org/#the-button-element)
      * [`https://html.spec.whatwg.org/#concept-textarea-raw-value`](https://html.spec.whatwg.org/#concept-textarea-raw-value)
@@ -4777,8 +4771,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-color-4/#propdef-color`](https://drafts.csswg.org/css-color-4/#propdef-color)
      * [`https://html.spec.whatwg.org/#the-div-element`](https://html.spec.whatwg.org/#the-div-element)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/):
-     * [`https://www.w3.org/TR/selectors-3/#sel-before`](https://www.w3.org/TR/selectors-3/#sel-before)
-     * [`https://www.w3.org/TR/selectors-3/#sel-after`](https://www.w3.org/TR/selectors-3/#sel-after)
+     * [`https://drafts.csswg.org/selectors-3/#sel-before`](https://drafts.csswg.org/selectors-3/#sel-before)
+     * [`https://drafts.csswg.org/selectors-3/#sel-after`](https://drafts.csswg.org/selectors-3/#sel-after)
      * [`https://html.spec.whatwg.org/#link-options-base-url`](https://html.spec.whatwg.org/#link-options-base-url)
      * [`https://html.spec.whatwg.org/#concept-document-window`](https://html.spec.whatwg.org/#concept-document-window)
      * [`https://html.spec.whatwg.org/#current-global-object`](https://html.spec.whatwg.org/#current-global-object)
@@ -4859,7 +4853,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-color-4/#propdef-opacity`](https://drafts.csswg.org/css-color-4/#propdef-opacity)
      * [`https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor`](https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor)
      * [`https://drafts.csswg.org/css-color-4/#valdef-color-transparent`](https://drafts.csswg.org/css-color-4/#valdef-color-transparent)
-     * [`https://www.w3.org/TR/selectors-3/#x`](https://www.w3.org/TR/selectors-3/#x)
+     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
      * [`https://html.spec.whatwg.org/#attr-tabindex`](https://html.spec.whatwg.org/#attr-tabindex)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/):
@@ -4870,7 +4864,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#custom-element`](https://html.spec.whatwg.org/#custom-element)
      * [`https://html.spec.whatwg.org/#window`](https://html.spec.whatwg.org/#window)
      * [`https://html.spec.whatwg.org/#the-slot-element`](https://html.spec.whatwg.org/#the-slot-element)
-     * [`https://www.w3.org/TR/selectors-3/#x`](https://www.w3.org/TR/selectors-3/#x)
+     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring/):
      * [`https://html.spec.whatwg.org/#dom-anchor`](https://html.spec.whatwg.org/#dom-anchor)
      * [`https://html.spec.whatwg.org/#focused-area-of-the-document`](https://html.spec.whatwg.org/#focused-area-of-the-document)
@@ -4995,7 +4989,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://drafts.csswg.org/css-color-4/#funcdef-rgba`](https://drafts.csswg.org/css-color-4/#funcdef-rgba)
      * [`https://drafts.csswg.org/css-color-4/#propdef-opacity`](https://drafts.csswg.org/css-color-4/#propdef-opacity)
      * [`https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor`](https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor)
-     * [`https://www.w3.org/TR/selectors-3/#x`](https://www.w3.org/TR/selectors-3/#x)
+     * [`https://drafts.csswg.org/selectors-3/#x`](https://drafts.csswg.org/selectors-3/#x)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/):
      * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
      * [`https://html.spec.whatwg.org/#the-base-element`](https://html.spec.whatwg.org/#the-base-element)
@@ -5328,9 +5322,13 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#relevant-settings-object`](https://html.spec.whatwg.org/#relevant-settings-object)
      * [`https://html.spec.whatwg.org/#concept-settings-object-origin`](https://html.spec.whatwg.org/#concept-settings-object-origin)
      * [`https://html.spec.whatwg.org/#environment-settings-object`](https://html.spec.whatwg.org/#environment-settings-object)
+     * [`https://html.spec.whatwg.org/#concept-document-permissions-policy`](https://html.spec.whatwg.org/#concept-document-permissions-policy)
      * [`https://html.spec.whatwg.org/#dom-settimeout`](https://html.spec.whatwg.org/#dom-settimeout)
      * [`https://html.spec.whatwg.org/#concept-task`](https://html.spec.whatwg.org/#concept-task)
      * [`https://html.spec.whatwg.org/#content-type`](https://html.spec.whatwg.org/#content-type)
+     * [`https://html.spec.whatwg.org/#allowed-to-use`](https://html.spec.whatwg.org/#allowed-to-use)
+     * [`https://html.spec.whatwg.org/#current-settings-object`](https://html.spec.whatwg.org/#current-settings-object)
+     * [`https://html.spec.whatwg.org/#in-parallel`](https://html.spec.whatwg.org/#in-parallel)
      * [`https://drafts.csswg.org/css-color-4/#typedef-color`](https://drafts.csswg.org/css-color-4/#typedef-color)
      * [`https://drafts.csswg.org/css-color-4/#typedef-hex-color`](https://drafts.csswg.org/css-color-4/#typedef-hex-color)
      * [`https://drafts.csswg.org/css-color-4/#typedef-named-color`](https://drafts.csswg.org/css-color-4/#typedef-named-color)
@@ -9278,7 +9276,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5193 problematic external links found in 313 specifications
+=> 5197 problematic external links found in 313 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
