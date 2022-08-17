@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-17T00:51:53.707Z",
+  "date": "2022-08-17T06:39:33.943Z",
   "stats": {
     "crawled": 473,
-    "errors": 4,
+    "errors": 5,
     "studied": 473
   },
   "results": [
@@ -4654,6 +4654,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39750,7 +39751,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "8 June 2022",
+      "date": "16 August 2022",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -39781,24 +39782,10 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/webappsec-referrer-policy/",
+            "link": "https://www.w3.org/TR/hr-time-2/",
             "ref": {
-              "name": "REFERRER-POLICY",
-              "url": "https://www.w3.org/TR/referrer-policy/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-csp/",
-            "ref": {
-              "name": "CSP",
-              "url": "https://www.w3.org/TR/CSP3/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-secure-contexts/",
-            "ref": {
-              "name": "SECURE-CONTEXTS",
-              "url": "https://www.w3.org/TR/secure-contexts/"
+              "name": "HR-TIME-2",
+              "url": "https://w3c.github.io/hr-time/"
             }
           }
         ],
@@ -39889,7 +39876,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "8 June 2022",
+      "date": "16 August 2022",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -39918,134 +39905,49 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/ServiceWorker/",
           "https://w3c.github.io/battery/"
         ],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/webappsec-referrer-policy/",
+            "link": "https://www.w3.org/TR/hr-time-2/",
             "ref": {
-              "name": "REFERRER-POLICY",
-              "url": "https://www.w3.org/TR/referrer-policy/"
+              "name": "HR-TIME-2",
+              "url": "https://w3c.github.io/hr-time/"
             }
           },
           {
-            "link": "https://w3c.github.io/webappsec-csp/",
+            "link": "https://www.w3.org/TR/hr-time-3/",
             "ref": {
-              "name": "CSP3",
-              "url": "https://www.w3.org/TR/CSP3/"
+              "name": "HR-TIME-2",
+              "url": "https://w3c.github.io/hr-time/"
             }
           },
           {
-            "link": "https://w3c.github.io/navigation-timing/",
+            "link": "https://www.w3.org/TR/navigation-timing-2/",
             "ref": {
               "name": "NAVIGATION-TIMING",
               "url": "https://www.w3.org/TR/navigation-timing/"
             }
           },
           {
-            "link": "https://w3c.github.io/geolocation-api/",
-            "ref": {
-              "name": "GEOLOCATION",
-              "url": "https://www.w3.org/TR/geolocation/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/sensors/",
-            "ref": {
-              "name": "GENERIC-SENSOR",
-              "url": "https://www.w3.org/TR/generic-sensor/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/screen-orientation/",
-            "ref": {
-              "name": "SCREEN-ORIENTATION",
-              "url": "https://www.w3.org/TR/screen-orientation/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/gamepad/",
-            "ref": {
-              "name": "GAMEPAD",
-              "url": "https://www.w3.org/TR/gamepad/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/encrypted-media/",
-            "ref": {
-              "name": "ENCRYPTED-MEDIA",
-              "url": "https://www.w3.org/TR/encrypted-media/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/mediacapture-main/",
+            "link": "https://www.w3.org/TR/mediacapture-streams/",
             "ref": {
               "name": "MEDIACAPTURE-STREAMS",
-              "url": "https://www.w3.org/TR/mediacapture-streams/"
+              "url": "https://w3c.github.io/mediacapture-main/"
             }
           },
           {
-            "link": "https://w3c.github.io/mediacapture-output/",
+            "link": "https://www.w3.org/TR/payment-request/",
             "ref": {
-              "name": "AUDIO-OUTPUT",
-              "url": "https://www.w3.org/TR/audio-output/"
+              "name": "PAYMENT-REQUEST",
+              "url": "https://w3c.github.io/payment-request/"
             }
           },
           {
-            "link": "https://w3c.github.io/push-api/",
+            "link": "https://www.w3.org/TR/web-share/",
             "ref": {
-              "name": "PUSH-API",
-              "url": "https://www.w3.org/TR/push-api/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/mediacapture-screen-share/",
-            "ref": {
-              "name": "SCREEN-CAPTURE",
-              "url": "https://www.w3.org/TR/screen-capture/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-credential-management/",
-            "ref": {
-              "name": "CREDENTIAL-MANAGEMENT-1",
-              "url": "https://www.w3.org/TR/credential-management-1/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/presentation-api/",
-            "ref": {
-              "name": "PRESENTATION-API",
-              "url": "https://www.w3.org/TR/presentation-api/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/pointerlock/",
-            "ref": {
-              "name": "POINTERLOCK",
-              "url": "https://www.w3.org/TR/pointerlock/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/clipboard-apis/",
-            "ref": {
-              "name": "CLIPBOARD-APIS",
-              "url": "https://www.w3.org/TR/clipboard-apis/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/screen-wake-lock/",
-            "ref": {
-              "name": "SCREEN-WAKE-LOCK",
-              "url": "https://www.w3.org/TR/screen-wake-lock/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/picture-in-picture/",
-            "ref": {
-              "name": "PICTURE-IN-PICTURE",
-              "url": "https://www.w3.org/TR/picture-in-picture/"
+              "name": "WEB-SHARE",
+              "url": "https://w3c.github.io/web-share/"
             }
           }
         ],
@@ -46538,6 +46440,11 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
@@ -46783,7 +46690,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "8 June 2022",
+      "date": "16 August 2022",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -46812,15 +46719,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-referrer-policy/",
-            "ref": {
-              "name": "REFERRER-POLICY",
-              "url": "https://www.w3.org/TR/referrer-policy/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
