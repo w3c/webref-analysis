@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-17T12:50:36.847Z",
+  "date": "2022-08-17T16:50:22.090Z",
   "stats": {
     "crawled": 473,
     "errors": 0,
@@ -3023,7 +3023,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "4 July 2022",
+      "date": "17 August 2022",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -3055,7 +3055,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/service-workers-1/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/reporting/",
@@ -3277,6 +3279,7 @@
             "https://html.spec.whatwg.org/#sandboxed-origin-browsing-context-flag",
             "https://html.spec.whatwg.org/#bc-container-document",
             "https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin",
+            "https://html.spec.whatwg.org/#x-frame-options",
             "https://html.spec.whatwg.org/#the-form-element",
             "https://html.spec.whatwg.org/#concept-origin-scheme",
             "https://html.spec.whatwg.org/#parse-error-duplicate-attribute",
@@ -42205,13 +42208,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/CSP3/",
-              "title": "Content Security Policy Level 3",
-              "crawled": "https://w3c.github.io/webappsec-csp/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
@@ -46128,6 +46125,11 @@
               "url": "https://w3c.github.io/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
+            },
+            {
+              "url": "https://www.w3.org/TR/CSP3/",
+              "title": "Content Security Policy Level 3",
+              "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
@@ -55360,7 +55362,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55491,7 +55493,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "16 August 2022",
+      "date": "17 August 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

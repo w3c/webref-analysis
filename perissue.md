@@ -226,6 +226,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Content Index](https://wicg.github.io/content-index/spec/) links to:
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/) but does not list it in its references
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/) links to [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/) but does not list it in its references
 - [Cookie Store API](https://wicg.github.io/cookie-store/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to:
     * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
@@ -1069,7 +1070,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/) but does not list it in its references
 
-=> 761 missing references for links found in 208 specifications
+=> 762 missing references for links found in 209 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -4335,6 +4336,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#sandboxed-origin-browsing-context-flag`](https://html.spec.whatwg.org/#sandboxed-origin-browsing-context-flag)
      * [`https://html.spec.whatwg.org/#bc-container-document`](https://html.spec.whatwg.org/#bc-container-document)
      * [`https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin`](https://html.spec.whatwg.org/#ascii-serialisation-of-an-origin)
+     * [`https://html.spec.whatwg.org/#x-frame-options`](https://html.spec.whatwg.org/#x-frame-options)
      * [`https://html.spec.whatwg.org/#the-form-element`](https://html.spec.whatwg.org/#the-form-element)
      * [`https://html.spec.whatwg.org/#concept-origin-scheme`](https://html.spec.whatwg.org/#concept-origin-scheme)
      * [`https://html.spec.whatwg.org/#parse-error-duplicate-attribute`](https://html.spec.whatwg.org/#parse-error-duplicate-attribute)
@@ -9094,7 +9096,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5043 problematic external links found in 306 specifications
+=> 5044 problematic external links found in 306 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
