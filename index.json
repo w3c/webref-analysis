@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-17T06:39:33.943Z",
+  "date": "2022-08-17T12:50:36.847Z",
   "stats": {
     "crawled": 473,
-    "errors": 5,
+    "errors": 0,
     "studied": 473
   },
   "results": [
@@ -2396,8 +2396,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/css-transitions/#animtype-color",
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#eventhandler",
@@ -2485,6 +2483,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
@@ -2521,9 +2524,7 @@
             "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-body-element",
-            "https://html.spec.whatwg.org/#2dcontext",
-            "https://www.w3.org/TR/css3-color/#alpha",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
+            "https://html.spec.whatwg.org/#2dcontext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -2644,9 +2645,7 @@
             "https://html.spec.whatwg.org/#dom-context-2d-globalcompositeoperation",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#the-body-element",
-            "https://html.spec.whatwg.org/#2dcontext",
-            "https://www.w3.org/TR/css3-color/#alpha",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
+            "https://html.spec.whatwg.org/#2dcontext"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4152,6 +4151,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -4586,8 +4590,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-style-attribute",
-            "https://www.w3.org/TR/css3-color/#transparency"
+            "https://html.spec.whatwg.org/#the-style-attribute"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -4654,7 +4657,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4761,6 +4763,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -5147,8 +5154,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-style-attribute",
-            "https://www.w3.org/TR/css3-color/#transparency"
+            "https://html.spec.whatwg.org/#the-style-attribute"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -5403,6 +5409,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
@@ -5714,6 +5725,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
@@ -5984,9 +6000,7 @@
           "notDfn": [],
           "brokenLinks": [
             "https://www.w3.org/TR/css-transitions-1/#animatable-types",
-            "https://www.w3.org/TR/css-color-4/#typedef-color",
             "https://www.w3.org/TR/css-color-4/#currentcolor",
-            "https://www.w3.org/TR/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#the-body-element",
             "https://www.w3.org/TR/selectors-3/#sel-first-line",
             "https://www.w3.org/TR/selectors-3/#first-letter0",
@@ -6071,7 +6085,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://www.w3.org/TR/css3-transitions/#animtype-color"
           ],
           "evolvingLinks": [],
@@ -6229,9 +6242,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://html.spec.whatwg.org/#the-img-element",
             "https://html.spec.whatwg.org/#video",
             "https://html.spec.whatwg.org/#the-picture-element",
@@ -7493,8 +7503,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#quirks-mode",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7678,9 +7686,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
             "https://html.spec.whatwg.org/#cors-same-origin",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
@@ -7847,8 +7852,8 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color/"
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-5/",
@@ -8170,10 +8175,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#the-p-element",
@@ -8309,9 +8310,7 @@
             "https://www.w3.org/TR/selectors-4/#scoping-element",
             "https://www.w3.org/TR/selectors-4/#scope-element",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://html.spec.whatwg.org/#content-type",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-plum",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-teal"
+            "https://html.spec.whatwg.org/#content-type"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -8380,6 +8379,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars/"
@@ -8399,18 +8403,12 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/css-color-4/#css-system-colors",
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://drafts.csswg.org/css2/#canvas"
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#css-system-colors",
-            "https://drafts.csswg.org/css-color-4/#typedef-system-color",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-system-color-canvas",
-            "https://drafts.csswg.org/css-color-4/#system-color-pairings",
-            "https://drafts.csswg.org/css-color-4/#valdef-system-color-canvastext",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#meta-color-scheme",
             "https://html.spec.whatwg.org/#meta",
             "https://html.spec.whatwg.org/#the-iframe-element",
@@ -8427,21 +8425,21 @@
       }
     },
     {
-      "title": "CSS Color Module Level 5",
+      "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "15 July 2022",
+      "date": "13 August 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://drafts.csswg.org/css-color/",
+        "url": "https://drafts.csswg.org/css-color-4/",
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-color-4/Overview.bs",
         "filename": "Overview.html"
       },
-      "crawled": "https://drafts.csswg.org/css-color/",
+      "crawled": "https://drafts.csswg.org/css-color-4/",
       "organization": "W3C",
       "groups": [
         {
@@ -8462,48 +8460,42 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/2022/WD-css-color-5-20220428/",
-          "https://www.w3.org/TR/2021/WD-css-color-5-20211215/",
-          "https://www.w3.org/TR/2021/WD-css-color-5-20210601/",
-          "https://www.w3.org/TR/2020/WD-css-color-5-20200303/"
+          "https://www.w3.org/TR/css-color-3/",
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://infra.spec.whatwg.org/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/compositing-1/",
+            "ref": {
+              "name": "Compositing",
+              "url": "https://drafts.fxtf.org/compositing-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://compat.spec.whatwg.org/",
-              "title": "Compatibility Standard",
-              "crawled": "https://compat.spec.whatwg.org/"
-            },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-backgrounds-4/",
-              "title": "CSS Backgrounds and Borders Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-ui-4/",
-              "title": "CSS Basic User Interface Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-ui-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
@@ -8511,19 +8503,9 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-color-5/",
               "title": "CSS Color Module Level 5",
               "crawled": "https://drafts.csswg.org/css-color-5/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-extensions-1/",
-              "title": "CSS Extensions",
-              "crawled": "https://drafts.csswg.org/css-extensions-1/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -8531,39 +8513,9 @@
               "crawled": "https://drafts.fxtf.org/fill-stroke/"
             },
             {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-logical-1/",
-              "title": "CSS Logical Properties and Values Level 1",
-              "crawled": "https://drafts.csswg.org/css-logical-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-masking-1/",
-              "title": "CSS Masking Module Level 1",
-              "crawled": "https://drafts.fxtf.org/css-masking-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-multicol-1/",
-              "title": "CSS Multi-column Layout Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-multicol/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -8571,49 +8523,9 @@
               "crawled": "https://drafts.csswg.org/cssom/"
             },
             {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-pseudo-4/",
-              "title": "CSS Pseudo-Elements Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-tables-3/",
-              "title": "CSS Table Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-tables-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-text-decor-3/",
-              "title": "CSS Text Decoration Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-text-decor-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-text-decor-4/",
-              "title": "CSS Text Decoration Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-transforms-2/",
-              "title": "CSS Transforms Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-transforms-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-typed-om-1/",
-              "title": "CSS Typed OM Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-4/",
@@ -8621,54 +8533,14 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-values-5/",
-              "title": "CSS Values and Units Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-values-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/cssom-view-1/",
-              "title": "CSSOM View Module",
-              "crawled": "https://drafts.csswg.org/cssom-view/"
-            },
-            {
-              "url": "https://fedidcg.github.io/FedCM/",
-              "title": "Federated Credential Management API",
-              "crawled": "https://fedidcg.github.io/FedCM/"
-            },
-            {
-              "url": "https://www.w3.org/TR/filter-effects-1/",
-              "title": "Filter Effects Module Level 1",
-              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
-            },
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
               "url": "https://www.w3.org/TR/miniapp-manifest/",
               "title": "MiniApp Manifest",
               "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
-              "url": "https://quirks.spec.whatwg.org/",
-              "title": "Quirks Mode Standard",
-              "crawled": "https://quirks.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webvtt1/",
-              "title": "WebVTT: The Web Video Text Tracks Format",
-              "crawled": "https://w3c.github.io/webvtt/"
             }
           ],
           "informative": [
@@ -8683,51 +8555,6 @@
               "crawled": "https://drafts.fxtf.org/compositing-2/"
             },
             {
-              "url": "https://www.w3.org/TR/css-cascade-6/",
-              "title": "CSS Cascading and Inheritance Level 6",
-              "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-3/",
-              "title": "CSS Conditional Rules Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-variables-1/",
-              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-variables/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-variables-2/",
-              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-variables-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-lists-3/",
-              "title": "CSS Lists and Counters Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-lists-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-syntax-3/",
-              "title": "CSS Syntax Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-syntax/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
-              "title": "CSS Transitions Level 2",
-              "crawled": "https://drafts.csswg.org/css-transitions-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-will-change-1/",
-              "title": "CSS Will Change Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-will-change/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediaqueries-5/",
-              "title": "Media Queries Level 5",
-              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -8736,18 +8563,15 @@
         },
         "xrefs": {
           "notExported": [
-            "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
+            "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#the-mark-element"
+          ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
-          "datedUrls": [
-            "https://www.w3.org/TR/2022/WD-css-color-5-20220428/",
-            "https://www.w3.org/TR/2021/WD-css-color-5-20211215/",
-            "https://www.w3.org/TR/2021/WD-css-color-5-20210601/",
-            "https://www.w3.org/TR/2020/WD-css-color-5-20200303/"
-          ]
+          "datedUrls": []
         },
         "ok": false
       }
@@ -8795,6 +8619,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://drafts.csswg.org/css-extensions-1/",
@@ -8860,35 +8689,7 @@
             "https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-color-space",
-            "https://drafts.csswg.org/css-color-4/#color-interpolation-method",
-            "https://drafts.csswg.org/css-color-4/#valdef-hsl-hsl",
-            "https://drafts.csswg.org/css-color-4/#valdef-hwb-hwb",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-srgb",
-            "https://drafts.csswg.org/css-color-4/#interpolation",
-            "https://drafts.csswg.org/css-color-4/#typedef-hue-interpolation-method",
-            "https://drafts.csswg.org/css-color-4/#hue-interpolation",
-            "https://drafts.csswg.org/css-color-4/#valdef-lch-lch",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-xyz",
-            "https://drafts.csswg.org/css-color-4/#legacy-color-syntax",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-lime",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-blue",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-darkolivegreen",
-            "https://drafts.csswg.org/css-color-4/#typedef-hue",
-            "https://drafts.csswg.org/css-color-4/#color-space",
-            "https://drafts.csswg.org/css-color-4/#predefined",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-display-p3",
-            "https://drafts.csswg.org/css-color-4/#opaque-black",
-            "https://drafts.csswg.org/css-color-4/#color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
-            "https://drafts.csswg.org/css-color-4/#serializing-color-values",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-xyz-d65",
-            "https://drafts.csswg.org/css-color-4/#serializing-color-function-values",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-none"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -8957,6 +8758,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -9061,8 +8867,7 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#the-link-element",
-            "https://drafts.csswg.org/css-color-4/#propdef-color"
+            "https://html.spec.whatwg.org/#the-link-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -9736,10 +9541,7 @@
             "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://drafts.csswg.org/css-color-4/#propdef-color"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -9906,10 +9708,7 @@
             "https://drafts.csswg.org/cssom-1/#css-declaration-case-sensitive-flag"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://drafts.csswg.org/css-color-4/#propdef-color"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -10813,17 +10612,7 @@
           "normative": [],
           "informative": []
         },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-color"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -10913,12 +10702,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://www.w3.org/TR/css-color-4/#typedef-color",
-            "https://www.w3.org/TR/css-color-4/#propdef-color",
-            "https://www.w3.org/TR/css-color-4/#valdef-color-transparent",
-            "https://www.w3.org/TR/css-color-4/#propdef-opacity"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -11500,9 +11284,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#font",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-absolute-color-base"
+            "https://html.spec.whatwg.org/#font"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -12987,8 +12769,6 @@
             "https://www.w3.org/TR/css3-background/#the-border-image-slice"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://html.spec.whatwg.org/#concept-imagebitmap-good",
             "https://html.spec.whatwg.org/#the-iframe-element",
             "https://html.spec.whatwg.org/#attr-img-src",
@@ -13137,6 +12917,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
@@ -13150,11 +12935,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#color-interpolation-method",
-            "https://drafts.csswg.org/css-color-4/#interpolation",
-            "https://drafts.csswg.org/css-color-4/#interpolation-alpha",
             "https://html.spec.whatwg.org/#the-picture-element",
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#canvas",
@@ -13737,7 +13517,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://html.spec.whatwg.org/#the-li-element",
             "https://html.spec.whatwg.org/#the-ul-element",
             "https://html.spec.whatwg.org/#the-ol-element",
@@ -13905,9 +13684,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-color"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -14094,8 +13871,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage"
           ],
           "evolvingLinks": [],
@@ -14360,9 +14135,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-color"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": [
@@ -14587,7 +14360,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://html.spec.whatwg.org/#the-div-element"
           ],
           "evolvingLinks": [],
@@ -14688,8 +14460,8 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color/"
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-5/",
@@ -14970,9 +14742,6 @@
             "https://html.spec.whatwg.org/#browsing-context",
             "https://html.spec.whatwg.org/#browsing-context-container",
             "https://html.spec.whatwg.org/#being-rendered",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#serializing-color-values",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
             "https://drafts.csswg.org/css-color-3/#alphavalue-def"
           ],
           "evolvingLinks": [],
@@ -16275,12 +16044,7 @@
           "brokenLinks": [
             "https://www.w3.org/TR/css-scoping-1/#host-element0",
             "https://html.spec.whatwg.org/#current-global-object",
-            "https://html.spec.whatwg.org/#concept-document-window",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-black",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-red",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-blue"
+            "https://html.spec.whatwg.org/#concept-document-window"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -16490,10 +16254,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
             "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
@@ -17451,7 +17211,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://www.w3.org/TR/css-color-4/#typedef-color",
             "https://html.spec.whatwg.org/#the-body-element"
           ],
           "evolvingLinks": [],
@@ -18218,8 +17977,8 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color/"
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-5/",
@@ -18450,10 +18209,7 @@
             "https://html.spec.whatwg.org/#the-p-element",
             "https://html.spec.whatwg.org/#link-type-stylesheet",
             "https://html.spec.whatwg.org/#valid-custom-element-name",
-            "https://html.spec.whatwg.org/#attr-img-sizes",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-blue",
-            "https://drafts.csswg.org/css-color-4/#typedef-color"
+            "https://html.spec.whatwg.org/#attr-img-sizes"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [
@@ -18581,7 +18337,6 @@
           "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/css-transforms/#grouping-property-values",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://html.spec.whatwg.org/#tables-2"
           ],
           "evolvingLinks": [],
@@ -18708,6 +18463,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -18753,8 +18513,6 @@
           "brokenLinks": [
             "https://html.spec.whatwg.org/#the-ins-element",
             "https://html.spec.whatwg.org/#the-del-element",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/css-color-3/#color0"
           ],
           "evolvingLinks": [],
@@ -18861,6 +18619,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles/"
@@ -18955,11 +18718,7 @@
             "https://www.w3.org/TR/css-backgrounds-3/#the-border-style",
             "https://www.w3.org/TR/css-ruby-1/#autohide"
           ],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -19840,7 +19599,6 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://html.spec.whatwg.org/#the-a-element"
           ],
           "evolvingLinks": [],
@@ -19996,6 +19754,11 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -20126,8 +19889,7 @@
           ],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#being-rendered",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
+            "https://html.spec.whatwg.org/#being-rendered"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -20258,15 +20020,6 @@
             "https://drafts.fxtf.org/compositing-2/#propdef-mix"
           ],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#funcdef-rgba",
-            "https://drafts.csswg.org/css-color-4/#funcdef-hsla",
-            "https://drafts.csswg.org/css-color-4/#typedef-hex-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-named-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#the-style-element",
             "https://html.spec.whatwg.org/#attr-style",
@@ -20449,6 +20202,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -20833,10 +20591,6 @@
             "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
             "https://html.spec.whatwg.org/#the-base-element",
             "https://html.spec.whatwg.org/#dom-history-pushstate",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#funcdef-rgba",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://drafts.csswg.org/selectors-3/#x"
           ],
           "evolvingLinks": [],
@@ -21013,8 +20767,8 @@
             },
             {
               "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color/"
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-color-5/",
@@ -21521,12 +21275,7 @@
             "https://html.spec.whatwg.org/#concept-settings-object-global",
             "https://html.spec.whatwg.org/#api-base-url",
             "https://html.spec.whatwg.org/#concept-settings-object-origin",
-            "https://www.w3.org/TR/css-values-3/#acknowledgements",
-            "https://www.w3.org/TR/css-color-4/#typedef-color",
-            "https://www.w3.org/TR/css-color-4/#interpolation",
-            "https://www.w3.org/TR/css-color-4/#interpolation-alpha",
-            "https://www.w3.org/TR/css-color-4/#funcdef-rgba",
-            "https://www.w3.org/TR/css-color-4/#propdef-opacity"
+            "https://www.w3.org/TR/css-values-3/#acknowledgements"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -21596,9 +21345,6 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#typedef-hex-color",
-            "https://drafts.csswg.org/css-color-4/#named-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
             "https://www.w3.org/TR/css-values-4/#acknowledgements"
           ],
           "evolvingLinks": [],
@@ -21696,9 +21442,7 @@
             "https://www.w3.org/TR/css-cascade/#applies-to"
           ],
           "notDfn": [],
-          "brokenLinks": [
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
-          ],
+          "brokenLinks": [],
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
@@ -22313,8 +22057,7 @@
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#htmlelement",
             "https://html.spec.whatwg.org/#html-elements",
-            "https://html.spec.whatwg.org/#htmlimageelement",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity"
+            "https://html.spec.whatwg.org/#htmlimageelement"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -22555,7 +22298,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.w3.org/TR/device-memory/ triggered network error FetchError: request to https://www.w3.org/TR/device-memory/ failed, reason: connect ETIMEDOUT 128.30.52.100:443 Error: Loading https://www.w3.org/TR/device-memory/ triggered network error FetchError: request to https://www.w3.org/TR/device-memory/ failed, reason: connect ETIMEDOUT 128.30.52.100:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 330)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22778,15 +22520,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/payment-request/"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/payment-request/",
-            "ref": {
-              "name": "PAYMENT-REQUEST",
-              "url": "https://w3c.github.io/payment-request/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/payment-method-id/",
             "ref": {
@@ -23160,6 +22897,11 @@
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -23552,7 +23294,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -24202,7 +23944,7 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -24434,7 +24176,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -24710,8 +24452,7 @@
           "notExported": [],
           "notDfn": [],
           "brokenLinks": [
-            "https://html.spec.whatwg.org/#eventhandler",
-            "https://www.w3.org/TR/css-color-4/#serializing-sRGB-values"
+            "https://html.spec.whatwg.org/#eventhandler"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -25708,10 +25449,7 @@
             "https://html.spec.whatwg.org/#content-type",
             "https://html.spec.whatwg.org/#allowed-to-use",
             "https://html.spec.whatwg.org/#current-settings-object",
-            "https://html.spec.whatwg.org/#in-parallel",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-hex-color",
-            "https://drafts.csswg.org/css-color-4/#typedef-named-color"
+            "https://html.spec.whatwg.org/#in-parallel"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -25938,11 +25676,6 @@
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-color/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-color-5/",
               "title": "CSS Color Module Level 5",
               "crawled": "https://drafts.csswg.org/css-color-5/"
@@ -26098,7 +25831,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -26945,6 +26678,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
@@ -26962,13 +26700,6 @@
             "https://html.spec.whatwg.org/#script",
             "https://html.spec.whatwg.org/#attr-img-crossorigin",
             "https://html.spec.whatwg.org/#the-img-element",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
-            "https://drafts.csswg.org/css-color-4/#typedef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#sRGB-space",
-            "https://drafts.csswg.org/css-color-4/#sRGB-linear-space",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-currentcolor",
             "https://www.w3.org/TR/css-values-3/#typedef-number-percentage",
             "https://drafts.csswg.org/css-transitions/#animtype-length",
             "https://drafts.csswg.org/css-transitions/#animtype-number",
@@ -29409,6 +29140,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -30009,7 +29745,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -31072,16 +30808,7 @@
             "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml",
             "https://w3c.github.io/battery/#widl-Navigator-getBattery-Promise-BatteryManager",
             "https://drafts.csswg.org/css-syntax/#conform-classes",
-            "https://drafts.csswg.org/css-color/#typedef-color",
-            "https://drafts.csswg.org/css-color/#valdef-color-currentcolor",
-            "https://drafts.csswg.org/css-color/#opaque-black",
-            "https://drafts.csswg.org/css-color/#the-color-property",
-            "https://drafts.csswg.org/css-color/#named-color",
-            "https://drafts.csswg.org/css-color/#transparent-black",
-            "https://drafts.csswg.org/css-color/#valdef-color-srgb",
-            "https://drafts.csswg.org/css-color/#valdef-color-display-p3",
-            "https://drafts.csswg.org/css-color/#predefined",
-            "https://drafts.csswg.org/css-color/#untagged",
+            "https://drafts.csswg.org/css-color/#valdef-color-profile-rendering-intent-relative-colorimetric",
             "https://drafts.csswg.org/css-align/#propdef-propdef-justify-content",
             "https://drafts.csswg.org/css-align/#propdef-propdef-justify-items",
             "https://drafts.csswg.org/css-grid/#propdef-grid-column-gap",
@@ -32425,7 +32152,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -33822,7 +33549,6 @@
             "https://html.spec.whatwg.org/#concept-origin",
             "https://www.w3.org/TR/cssom-view-1/#viewport",
             "https://www.w3.org/TR/css-values-4/#pixel-unit",
-            "https://www.w3.org/TR/css-color-3/#transparency",
             "https://w3c.github.io/resource-timing/#sec-privacy-security"
           ],
           "evolvingLinks": [],
@@ -35421,6 +35147,11 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
@@ -35567,14 +35298,14 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-values-4/#relative-length",
-            "https://drafts.csswg.org/cssom-view-1/#page-zoom"
+            "https://drafts.csswg.org/cssom-view-1/#page-zoom",
+            "https://drafts.csswg.org/css-color-4/#css-system-colors"
           ],
           "notDfn": [],
           "brokenLinks": [
             "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#joint-session-history",
-            "https://www.w3.org/TR/cssom-view/#pinch-zoom",
-            "https://drafts.csswg.org/css-color-4/#css-system-colors"
+            "https://www.w3.org/TR/cssom-view/#pinch-zoom"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -36447,7 +36178,6 @@
             "https://html.spec.whatwg.org/#the-link-element",
             "https://html.spec.whatwg.org/#attr-link-sizes",
             "https://html.spec.whatwg.org/#the-code-element",
-            "https://www.w3.org/TR/css-color-4/#sRGB-space",
             "https://www.w3.org/TR/mediaqueries-4/#display-mode-minimal-ui"
           ],
           "evolvingLinks": [],
@@ -38097,7 +37827,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             }
@@ -38116,6 +37846,11 @@
           ],
           "notDfn": [],
           "brokenLinks": [
+            "https://www.w3.org/TR/service-workers/#service-worker-global-scope",
+            "https://www.w3.org/TR/service-workers/#dfn-extend-lifetime-promises",
+            "https://www.w3.org/TR/service-workers/#client-visibilitystate-attribute",
+            "https://www.w3.org/TR/service-workers/#dfn-pending-promises-count",
+            "https://www.w3.org/TR/service-workers/#dfn-uninstalling-flag",
             "https://www.w3.org/TR/payment-request/#canmakepayment()-method",
             "https://www.w3.org/TR/payment-request/#show()-method",
             "https://html.spec.whatwg.org/#user-interaction-task-source",
@@ -38194,7 +37929,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -38345,11 +38080,11 @@
     },
     {
       "title": "Payment Request API 1.1",
-      "shortname": "payment-request",
+      "shortname": "payment-request-1.1",
       "date": "20 July 2022",
-      "url": "https://www.w3.org/TR/payment-request/",
+      "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
-        "url": "https://www.w3.org/TR/payment-request/",
+        "url": "https://www.w3.org/TR/payment-request-1.1/",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -38378,15 +38113,12 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/2021/PR-payment-request-20210930/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://wicg.github.io/capability-delegation/spec.html",
-              "title": "Capability Delegation",
-              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
-            },
             {
               "url": "https://wicg.github.io/digital-goods/",
               "title": "Digital Goods API",
@@ -38396,11 +38128,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/payment-handler/",
-              "title": "Payment Handler API",
-              "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
@@ -38418,13 +38145,7 @@
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/payment-method-id/",
-              "title": "Payment Method Identifiers",
-              "crawled": "https://w3c.github.io/payment-method-id/"
-            }
-          ]
+          "informative": []
         },
         "xrefs": {
           "notExported": [],
@@ -38453,7 +38174,9 @@
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
-          "datedUrls": []
+          "datedUrls": [
+            "https://www.w3.org/TR/2021/PR-payment-request-20210930/"
+          ]
         },
         "ok": false
       }
@@ -39045,7 +38768,7 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -39548,7 +39271,13 @@
               "crawled": "https://w3c.github.io/PNG-spec/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            }
+          ]
         },
         "xrefs": {
           "notExported": [],
@@ -39905,7 +39634,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/battery/"
+          "https://w3c.github.io/battery/",
+          "https://www.w3.org/TR/payment-request/"
         ],
         "inconsistentRef": [
           {
@@ -39934,13 +39664,6 @@
             "ref": {
               "name": "MEDIACAPTURE-STREAMS",
               "url": "https://w3c.github.io/mediacapture-main/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/payment-request/",
-            "ref": {
-              "name": "PAYMENT-REQUEST",
-              "url": "https://w3c.github.io/payment-request/"
             }
           },
           {
@@ -40775,15 +40498,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-color-4/"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-color-4/",
-            "ref": {
-              "name": "CSS-COLOR-4",
-              "url": "https://drafts.csswg.org/css-color/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/css-values-4/",
             "ref": {
@@ -40830,9 +40548,7 @@
             "https://html.spec.whatwg.org/#the-td-element",
             "https://html.spec.whatwg.org/#the-th-element",
             "https://html.spec.whatwg.org/#the-table-element",
-            "https://www.w3.org/TR/css-color-4/#quirky-color",
-            "https://drafts.csswg.org/css2/visuren.html#block-container-element",
-            "https://drafts.csswg.org/css-color-4/#propdef-color"
+            "https://drafts.csswg.org/css2/visuren.html#block-container-element"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -42342,7 +42058,7 @@
               "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -43990,7 +43706,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.w3.org/TR/SVG11/ triggered network error FetchError: request to https://www.w3.org/TR/SVG11/ failed, reason: connect ETIMEDOUT 128.30.52.100:443 Error: Loading https://www.w3.org/TR/SVG11/ triggered network error FetchError: request to https://www.w3.org/TR/SVG11/ failed, reason: connect ETIMEDOUT 128.30.52.100:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 425)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -44132,6 +43847,11 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-3/",
@@ -44641,6 +44361,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -45658,7 +45383,7 @@
               "crawled": "https://w3c.github.io/sensors/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -45799,15 +45524,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/payment-request/"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/payment-request/",
-            "ref": {
-              "name": "PAYMENT-REQUEST",
-              "url": "https://w3c.github.io/payment-request/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/payment-method-id/",
             "ref": {
@@ -46405,6 +46125,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://w3c.github.io/badging/",
+              "title": "Badging API",
+              "crawled": "https://w3c.github.io/badging/"
+            },
+            {
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
               "title": "Cookies: HTTP State Management Mechanism",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html"
@@ -46430,6 +46155,11 @@
               "crawled": "https://wicg.github.io/performance-measure-memory/"
             },
             {
+              "url": "https://www.w3.org/TR/navigation-timing-2/",
+              "title": "Navigation Timing Level 2",
+              "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -46440,9 +46170,19 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-handler/",
+              "title": "Payment Handler API",
+              "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
             },
             {
               "url": "https://w3c.github.io/webdriver-bidi/",
@@ -46451,6 +46191,16 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/beacon/",
+              "title": "Beacon",
+              "crawled": "https://w3c.github.io/beacon/"
+            },
+            {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
+            },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
@@ -46462,9 +46212,19 @@
               "crawled": "https://streams.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
+            },
+            {
               "url": "https://webidl.spec.whatwg.org/",
               "title": "Web IDL Standard",
               "crawled": "https://webidl.spec.whatwg.org/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ]
         },
@@ -49155,7 +48915,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -49833,7 +49593,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered network error FetchError: request to https://www.w3.org/Consortium/Patent-Policy/ failed, reason: connect ETIMEDOUT 128.30.52.100:443 Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered network error FetchError: request to https://www.w3.org/Consortium/Patent-Policy/ failed, reason: connect ETIMEDOUT 128.30.52.100:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 224)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -49894,7 +49653,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.w3.org/Consortium/Process/ triggered network error FetchError: request to https://www.w3.org/Consortium/Process/ failed, reason: connect ETIMEDOUT 128.30.52.100:443 Error: Loading https://www.w3.org/Consortium/Process/ triggered network error FetchError: request to https://www.w3.org/Consortium/Process/ failed, reason: connect ETIMEDOUT 128.30.52.100:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 225)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -49923,7 +49681,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -50213,8 +49971,7 @@
             "https://html.spec.whatwg.org/#session-history-entry",
             "https://w3c.github.io/hr-time/#time-origin",
             "https://w3c.github.io/hr-time/#domhighrestimestamp",
-            "https://heycam.github.io/webidl/#dfn-present",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-transparent"
+            "https://heycam.github.io/webidl/#dfn-present"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -50560,9 +50317,7 @@
             "https://html.spec.whatwg.org/#attr-meta-name",
             "https://html.spec.whatwg.org/#unordered-set-of-unique-space-separated-tokens",
             "https://html.spec.whatwg.org/#active-document",
-            "https://html.spec.whatwg.org/#concept-origin",
-            "https://www.w3.org/TR/css-color-4/#alpha-channel",
-            "https://www.w3.org/TR/css-color-4/#sRGB-space"
+            "https://html.spec.whatwg.org/#concept-origin"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -51758,7 +51513,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request/",
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -56628,9 +56383,6 @@
             "https://html.spec.whatwg.org/#responsible-document",
             "https://html.spec.whatwg.org/#entry-settings-object",
             "https://html.spec.whatwg.org/#honor-user-preferences-for-automatic-text-track-selection",
-            "https://drafts.csswg.org/css-color-4/#propdef-color",
-            "https://drafts.csswg.org/css-color-4/#valdef-color-green",
-            "https://drafts.csswg.org/css-color-4/#propdef-opacity",
             "https://drafts.csswg.org/css-values-4/#vw",
             "https://drafts.csswg.org/css-values-4/#vh",
             "https://drafts.csswg.org/selectors-3/#sel-before",
