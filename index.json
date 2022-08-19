@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-19T06:41:38.878Z",
+  "date": "2022-08-19T12:52:20.780Z",
   "stats": {
     "crawled": 473,
     "errors": 0,
@@ -2709,7 +2709,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "03 June 2022",
+      "date": "19 August 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2769,6 +2769,7 @@
             "https://html.spec.whatwg.org/#window",
             "https://html.spec.whatwg.org/#workerglobalscope",
             "https://html.spec.whatwg.org/#browsing-context",
+            "https://html.spec.whatwg.org/#top-level-browsing-context",
             "https://html.spec.whatwg.org/#tlbc-system-focus",
             "https://html.spec.whatwg.org/#currently-focused-area-of-a-top-level-browsing-context",
             "https://html.spec.whatwg.org/#task-source",
@@ -34404,6 +34405,11 @@
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
             },
             {
+              "url": "https://wicg.github.io/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://wicg.github.io/compute-pressure/"
+            },
+            {
               "url": "https://www.w3.org/TR/html-media-capture/",
               "title": "HTML Media Capture",
               "crawled": "https://w3c.github.io/html-media-capture/"
@@ -52938,7 +52944,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -55717,7 +55723,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
