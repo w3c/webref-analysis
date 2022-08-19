@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-18T18:38:27.236Z",
+  "date": "2022-08-19T00:49:38.932Z",
   "stats": {
     "crawled": 473,
-    "errors": 1,
+    "errors": 0,
     "studied": 473
   },
   "results": [
@@ -4660,7 +4660,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9183,7 +9182,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "1 July 2022",
+      "date": "18 August 2022",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -10717,7 +10716,7 @@
     {
       "title": "CSS Flexible Box Layout Module Level 1",
       "shortname": "css-flexbox-1",
-      "date": "1 July 2022",
+      "date": "18 August 2022",
       "url": "https://www.w3.org/TR/css-flexbox-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -12293,7 +12292,7 @@
     {
       "title": "CSS Grid Layout Module Level 2",
       "shortname": "css-grid-2",
-      "date": "23 June 2022",
+      "date": "18 August 2022",
       "url": "https://www.w3.org/TR/css-grid-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-2/",
@@ -18355,7 +18354,7 @@
     {
       "title": "CSS Text Decoration Module Level 3",
       "shortname": "css-text-decor-3",
-      "date": "4 May 2022",
+      "date": "18 August 2022",
       "url": "https://www.w3.org/TR/css-text-decor-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-3/",
@@ -18531,7 +18530,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "19 May 2022",
+      "date": "18 August 2022",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -41280,7 +41279,7 @@
     {
       "title": "Resize Observer",
       "shortname": "resize-observer-1",
-      "date": "15 August 2022",
+      "date": "18 August 2022",
       "url": "https://www.w3.org/TR/resize-observer-1/",
       "release": {
         "url": "https://www.w3.org/TR/resize-observer-1/",
@@ -41673,7 +41672,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41753,7 +41752,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41985,7 +41984,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42094,7 +42093,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42178,7 +42177,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42945,7 +42944,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42983,7 +42982,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43176,7 +43175,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43495,7 +43494,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -47758,7 +47757,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "11 August 2022",
+      "date": "18 August 2022",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
@@ -47816,6 +47815,7 @@
             "https://html.spec.whatwg.org/#relevant-agent",
             "https://html.spec.whatwg.org/#obtain-a-site",
             "https://html.spec.whatwg.org/#concept-document-bc",
+            "https://html.spec.whatwg.org/#fully-active",
             "https://html.spec.whatwg.org/#concept-origin-opaque",
             "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#concept-relevant-global",
@@ -55367,7 +55367,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55498,7 +55498,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "18 August 2022",
+      "date": "19 August 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
