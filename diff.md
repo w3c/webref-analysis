@@ -1,5 +1,5 @@
-% Diff between report from "August 20, 2022" and reference report from "August 20, 2022"
+% Diff between report from "August 21, 2022" and reference report from "August 20, 2022"
 % Strudy
-% August 20, 2022
+% August 21, 2022
 
 
