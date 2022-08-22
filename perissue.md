@@ -1656,10 +1656,11 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/screen-orientation/#dfn-current-orientation-type`](https://www.w3.org/TR/screen-orientation/#dfn-current-orientation-type)
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/):
      * [`https://w3c.github.io/sensors/#sensor-reading`](https://w3c.github.io/sensors/#sensor-reading)
-     * [`https://w3c.github.io/sensors/#limit-max-frequency`](https://w3c.github.io/sensors/#limit-max-frequency)
      * [`https://w3c.github.io/sensors/#reduce-accuracy`](https://w3c.github.io/sensors/#reduce-accuracy)
+     * [`https://w3c.github.io/sensors/#limit-max-frequency`](https://w3c.github.io/sensors/#limit-max-frequency)
      * [`https://w3c.github.io/sensors/#sensor-type`](https://w3c.github.io/sensors/#sensor-type)
      * [`https://w3c.github.io/sensors/#get-value-from-latest-reading`](https://w3c.github.io/sensors/#get-value-from-latest-reading)
+     * [`https://w3c.github.io/sensors/#update-latest-reading`](https://w3c.github.io/sensors/#update-latest-reading)
      * [`https://w3c.github.io/sensors/#mock-sensor-type`](https://w3c.github.io/sensors/#mock-sensor-type)
      * [`https://w3c.github.io/sensors/#sampling-frequency`](https://w3c.github.io/sensors/#sampling-frequency)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/):
@@ -2712,7 +2713,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 857 problematic external links found in 210 specifications
+=> 858 problematic external links found in 210 specifications
 
 
 ## External links that neither target definitions nor headings
