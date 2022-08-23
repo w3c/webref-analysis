@@ -241,6 +241,9 @@ Normative references to this spec from:
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
@@ -3852,6 +3855,7 @@ Normative references to this spec from:
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
@@ -3934,7 +3938,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [UI Events](https://w3c.github.io/uievents/)
@@ -3992,6 +3995,7 @@ Normative references to this spec from:
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
@@ -4066,7 +4070,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax/)
 
 
@@ -4851,6 +4854,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 
 
 ### CSS Cascading and Inheritance Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true data-xrefs=true}
@@ -5388,7 +5392,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
-- Crawled version: 19 August 2022
+- Crawled version: 4 August 2022
 - Editor's Draft: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
 - Latest published version: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Shortname: css-contain-2
@@ -5451,7 +5455,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
-- Crawled version: 19 August 2022
+- Crawled version: 18 August 2022
 - Editor's Draft: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
 - Latest published version: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Shortname: css-contain-3
@@ -5459,17 +5463,18 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-contain-2/`](https://www.w3.org/TR/css-contain-2/), related reference "CSS-CONTAIN-2" uses URL [`https://drafts.csswg.org/css-contain-2/`](https://drafts.csswg.org/css-contain-2/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - External links to private terms:
      * [`https://drafts.csswg.org/css-contain-2/#layout-containment-box`](https://drafts.csswg.org/css-contain-2/#layout-containment-box)
-     * [`https://drafts.csswg.org/css-pseudo-4/#fictional-tag-sequence`](https://drafts.csswg.org/css-pseudo-4/#fictional-tag-sequence)
      * [`https://drafts.csswg.org/css-values-4/#relative-length`](https://drafts.csswg.org/css-values-4/#relative-length)
+     * [`https://drafts.csswg.org/css-pseudo-4/#fictional-tag-sequence`](https://drafts.csswg.org/css-pseudo-4/#fictional-tag-sequence)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/web-animations-1/#effect-value`](https://drafts.csswg.org/web-animations-1/#effect-value)
 
@@ -6264,6 +6269,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
@@ -9253,6 +9259,7 @@ Normative references to this spec from:
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
@@ -11954,6 +11961,225 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+## JSON-LD Working Group {#json_ld_working_group}
+
+### JSON-LD 1.1 {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
+- Crawled URL: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
+- Crawled version: 27 May 2022
+- Editor's Draft: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
+- Latest published version: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
+- Shortname: json-ld11
+
+#### Potential issue(s) {.anomalies}
+
+- External links to private terms:
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-internal-representation`](https://www.w3.org/TR/json-ld11-api/#dfn-internal-representation)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-processor`](https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-processor)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-expanded`](https://www.w3.org/TR/json-ld11-api/#dfn-expanded)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-flattened`](https://www.w3.org/TR/json-ld11-api/#dfn-flattened)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-compact`](https://www.w3.org/TR/json-ld11-api/#dfn-compact)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-frame`](https://www.w3.org/TR/json-ld11-framing/#dfn-frame)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-frame-object`](https://www.w3.org/TR/json-ld11-framing/#dfn-frame-object)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-framing`](https://www.w3.org/TR/json-ld11-framing/#dfn-framing)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-wildcard`](https://www.w3.org/TR/json-ld11-framing/#dfn-wildcard)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-match-none`](https://www.w3.org/TR/json-ld11-framing/#dfn-match-none)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-value-pattern`](https://www.w3.org/TR/json-ld11-framing/#dfn-value-pattern)
+- External links that neither target definitions nor headings:
+     * [`https://infra.spec.whatwg.org/#javascript-string`](https://infra.spec.whatwg.org/#javascript-string)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-script-element`](https://html.spec.whatwg.org/#the-script-element)
+     * [`https://html.spec.whatwg.org/#data-block`](https://html.spec.whatwg.org/#data-block)
+     * [`https://html.spec.whatwg.org/#document-base-url`](https://html.spec.whatwg.org/#document-base-url)
+     * [`https://html.spec.whatwg.org/#dynamic-changes-to-base-urls`](https://html.spec.whatwg.org/#dynamic-changes-to-base-urls)
+     * [`https://html.spec.whatwg.org/#restrictions-for-contents-of-script-elements`](https://html.spec.whatwg.org/#restrictions-for-contents-of-script-elements)
+     * [`https://html.spec.whatwg.org/#the-dir-attribute`](https://html.spec.whatwg.org/#the-dir-attribute)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+
+Informative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+
+
+### JSON-LD 1.1 Framing {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
+- Crawled URL: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
+- Crawled version: 22 August 2022
+- Editor's Draft: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
+- Latest published version: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
+- Shortname: json-ld11-framing
+
+#### Potential issue(s) {.anomalies}
+
+- External links to private terms:
+     * [`https://www.w3.org/TR/json-ld11/#dfn-json-ld-document`](https://www.w3.org/TR/json-ld11/#dfn-json-ld-document)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-term`](https://www.w3.org/TR/json-ld11/#dfn-term)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-vocabulary-mapping`](https://www.w3.org/TR/json-ld11/#dfn-vocabulary-mapping)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-context`](https://www.w3.org/TR/json-ld11/#dfn-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-active-context`](https://www.w3.org/TR/json-ld11/#dfn-active-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-base-direction`](https://www.w3.org/TR/json-ld11/#dfn-base-direction)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-compact-iri`](https://www.w3.org/TR/json-ld11/#dfn-compact-iri)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-prefix`](https://www.w3.org/TR/json-ld11/#dfn-prefix)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-default-language`](https://www.w3.org/TR/json-ld11/#dfn-default-language)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-default-object`](https://www.w3.org/TR/json-ld11/#dfn-default-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-embedded-context`](https://www.w3.org/TR/json-ld11/#dfn-embedded-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-node-object`](https://www.w3.org/TR/json-ld11/#dfn-node-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-value-object`](https://www.w3.org/TR/json-ld11/#dfn-value-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-graph-object`](https://www.w3.org/TR/json-ld11/#dfn-graph-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-list-object`](https://www.w3.org/TR/json-ld11/#dfn-list-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-set-object`](https://www.w3.org/TR/json-ld11/#dfn-set-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-nested-property`](https://www.w3.org/TR/json-ld11/#dfn-nested-property)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-expanded-term-definition`](https://www.w3.org/TR/json-ld11/#dfn-expanded-term-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-context-definition`](https://www.w3.org/TR/json-ld11/#dfn-context-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-term-definition`](https://www.w3.org/TR/json-ld11/#dfn-term-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-keyword`](https://www.w3.org/TR/json-ld11/#dfn-keyword)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-simple-graph-object`](https://www.w3.org/TR/json-ld11/#dfn-simple-graph-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-id-map`](https://www.w3.org/TR/json-ld11/#dfn-id-map)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-implicitly-named-graph`](https://www.w3.org/TR/json-ld11/#dfn-implicitly-named-graph)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-included-block`](https://www.w3.org/TR/json-ld11/#dfn-included-block)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-index-map`](https://www.w3.org/TR/json-ld11/#dfn-index-map)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-json-literal`](https://www.w3.org/TR/json-ld11/#dfn-json-literal)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-json-ld-value`](https://www.w3.org/TR/json-ld11/#dfn-json-ld-value)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-typed-value`](https://www.w3.org/TR/json-ld11/#dfn-typed-value)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-language-map`](https://www.w3.org/TR/json-ld11/#dfn-language-map)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-local-context`](https://www.w3.org/TR/json-ld11/#dfn-local-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-node-reference`](https://www.w3.org/TR/json-ld11/#dfn-node-reference)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-processing-mode`](https://www.w3.org/TR/json-ld11/#dfn-processing-mode)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-scoped-context`](https://www.w3.org/TR/json-ld11/#dfn-scoped-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-type-scoped-context`](https://www.w3.org/TR/json-ld11/#dfn-type-scoped-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-property-scoped-context`](https://www.w3.org/TR/json-ld11/#dfn-property-scoped-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-simple-term-definition`](https://www.w3.org/TR/json-ld11/#dfn-simple-term-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-type-map`](https://www.w3.org/TR/json-ld11/#dfn-type-map)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-processor`](https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-processor)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-internal-representation`](https://www.w3.org/TR/json-ld11-api/#dfn-internal-representation)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-active-graph`](https://www.w3.org/TR/json-ld11-api/#dfn-active-graph)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-active-object`](https://www.w3.org/TR/json-ld11-api/#dfn-active-object)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-active-property`](https://www.w3.org/TR/json-ld11-api/#dfn-active-property)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-active-subject`](https://www.w3.org/TR/json-ld11-api/#dfn-active-subject)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-add-value`](https://www.w3.org/TR/json-ld11-api/#dfn-add-value)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-iri-compacting`](https://www.w3.org/TR/json-ld11-api/#dfn-iri-compacting)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-iri-expanding`](https://www.w3.org/TR/json-ld11-api/#dfn-iri-expanding)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-input`](https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-input)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-output`](https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-output)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-processor-state`](https://www.w3.org/TR/json-ld11-api/#dfn-processor-state)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-flattened`](https://www.w3.org/TR/json-ld11-api/#dfn-flattened)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-expanded`](https://www.w3.org/TR/json-ld11-api/#dfn-expanded)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-compact`](https://www.w3.org/TR/json-ld11-api/#dfn-compact)
+     * [`https://www.w3.org/TR/json-ld11-api/#dfn-jsonldprocessor-expand-input`](https://www.w3.org/TR/json-ld11-api/#dfn-jsonldprocessor-expand-input)
+- External links that neither target definitions nor headings:
+     * [`https://infra.spec.whatwg.org/#javascript-string`](https://infra.spec.whatwg.org/#javascript-string)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+
+No informative reference to this spec from other specs.
+
+
+### JSON-LD 1.1 Processing Algorithms and API {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
+- Crawled URL: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
+- Crawled version: 27 May 2022
+- Editor's Draft: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
+- Latest published version: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
+- Shortname: json-ld11-api
+
+#### Potential issue(s) {.anomalies}
+
+- External links to private terms:
+     * [`https://www.w3.org/TR/json-ld11/#dfn-json-ld-document`](https://www.w3.org/TR/json-ld11/#dfn-json-ld-document)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-term`](https://www.w3.org/TR/json-ld11/#dfn-term)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-vocabulary-mapping`](https://www.w3.org/TR/json-ld11/#dfn-vocabulary-mapping)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-context`](https://www.w3.org/TR/json-ld11/#dfn-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-active-context`](https://www.w3.org/TR/json-ld11/#dfn-active-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-base-direction`](https://www.w3.org/TR/json-ld11/#dfn-base-direction)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-compact-iri`](https://www.w3.org/TR/json-ld11/#dfn-compact-iri)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-prefix`](https://www.w3.org/TR/json-ld11/#dfn-prefix)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-default-language`](https://www.w3.org/TR/json-ld11/#dfn-default-language)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-default-object`](https://www.w3.org/TR/json-ld11/#dfn-default-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-embedded-context`](https://www.w3.org/TR/json-ld11/#dfn-embedded-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-node-object`](https://www.w3.org/TR/json-ld11/#dfn-node-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-value-object`](https://www.w3.org/TR/json-ld11/#dfn-value-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-graph-object`](https://www.w3.org/TR/json-ld11/#dfn-graph-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-list-object`](https://www.w3.org/TR/json-ld11/#dfn-list-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-set-object`](https://www.w3.org/TR/json-ld11/#dfn-set-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-nested-property`](https://www.w3.org/TR/json-ld11/#dfn-nested-property)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-expanded-term-definition`](https://www.w3.org/TR/json-ld11/#dfn-expanded-term-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-context-definition`](https://www.w3.org/TR/json-ld11/#dfn-context-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-term-definition`](https://www.w3.org/TR/json-ld11/#dfn-term-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-keyword`](https://www.w3.org/TR/json-ld11/#dfn-keyword)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-simple-graph-object`](https://www.w3.org/TR/json-ld11/#dfn-simple-graph-object)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-id-map`](https://www.w3.org/TR/json-ld11/#dfn-id-map)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-implicitly-named-graph`](https://www.w3.org/TR/json-ld11/#dfn-implicitly-named-graph)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-included-block`](https://www.w3.org/TR/json-ld11/#dfn-included-block)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-index-map`](https://www.w3.org/TR/json-ld11/#dfn-index-map)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-json-literal`](https://www.w3.org/TR/json-ld11/#dfn-json-literal)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-json-ld-value`](https://www.w3.org/TR/json-ld11/#dfn-json-ld-value)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-typed-value`](https://www.w3.org/TR/json-ld11/#dfn-typed-value)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-language-map`](https://www.w3.org/TR/json-ld11/#dfn-language-map)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-local-context`](https://www.w3.org/TR/json-ld11/#dfn-local-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-node-reference`](https://www.w3.org/TR/json-ld11/#dfn-node-reference)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-processing-mode`](https://www.w3.org/TR/json-ld11/#dfn-processing-mode)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-scoped-context`](https://www.w3.org/TR/json-ld11/#dfn-scoped-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-type-scoped-context`](https://www.w3.org/TR/json-ld11/#dfn-type-scoped-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-property-scoped-context`](https://www.w3.org/TR/json-ld11/#dfn-property-scoped-context)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-simple-term-definition`](https://www.w3.org/TR/json-ld11/#dfn-simple-term-definition)
+     * [`https://www.w3.org/TR/json-ld11/#dfn-type-map`](https://www.w3.org/TR/json-ld11/#dfn-type-map)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-frame`](https://www.w3.org/TR/json-ld11-framing/#dfn-frame)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-frame-object`](https://www.w3.org/TR/json-ld11-framing/#dfn-frame-object)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-explicit-inclusion-flag`](https://www.w3.org/TR/json-ld11-framing/#dfn-explicit-inclusion-flag)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-framing-state`](https://www.w3.org/TR/json-ld11-framing/#dfn-framing-state)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-object-embed-flag`](https://www.w3.org/TR/json-ld11-framing/#dfn-object-embed-flag)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-require-all-flag`](https://www.w3.org/TR/json-ld11-framing/#dfn-require-all-flag)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-embedded-flag`](https://www.w3.org/TR/json-ld11-framing/#dfn-embedded-flag)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-omit-default-flag`](https://www.w3.org/TR/json-ld11-framing/#dfn-omit-default-flag)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-input-frame`](https://www.w3.org/TR/json-ld11-framing/#dfn-input-frame)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-map-of-flattened-subjects`](https://www.w3.org/TR/json-ld11-framing/#dfn-map-of-flattened-subjects)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-omit-graph-flag`](https://www.w3.org/TR/json-ld11-framing/#dfn-omit-graph-flag)
+     * [`https://www.w3.org/TR/json-ld11-framing/#dfn-framing`](https://www.w3.org/TR/json-ld11-framing/#dfn-framing)
+- External links that neither target definitions nor headings:
+     * [`https://infra.spec.whatwg.org/#javascript-string`](https://infra.spec.whatwg.org/#javascript-string)
+- Broken external links:
+     * [`https://html.spec.whatwg.org/#the-script-element`](https://html.spec.whatwg.org/#the-script-element)
+     * [`https://html.spec.whatwg.org/#document-base-url`](https://html.spec.whatwg.org/#document-base-url)
+     * [`https://html.spec.whatwg.org/#the-id-attribute`](https://html.spec.whatwg.org/#the-id-attribute)
+     * [`https://html.spec.whatwg.org/#attr-link-type`](https://html.spec.whatwg.org/#attr-link-type)
+- External links that use a dated URL:
+     * [`https://www.w3.org/TR/2014/REC-json-ld-api-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-api-20140116/)
+     * [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+
+No informative reference to this spec from other specs.
+
+
 ## Math Working Group {#math_working_group}
 
 ### MathML Core {data-spec=true data-anomaly=true data-missingDfns=true data-xrefs=true}
@@ -12741,6 +12967,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
 
@@ -14943,6 +15170,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 
 
@@ -21878,7 +22106,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 11 August 2022
+- Crawled version: 23 August 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -21903,7 +22131,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 11 August 2022
+- Crawled version: 23 August 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -21946,7 +22174,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 11 August 2022
+- Crawled version: 23 August 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -22269,6 +22497,8 @@ Normative references to this spec from:
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
@@ -23175,6 +23405,8 @@ Normative references to this spec from:
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
@@ -23505,6 +23737,9 @@ Normative references to this spec from:
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
@@ -24212,6 +24447,8 @@ Normative references to this spec from:
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -24329,6 +24566,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)

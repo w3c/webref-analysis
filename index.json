@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-23T06:43:33.347Z",
+  "date": "2022-08-23T12:51:15.809Z",
   "stats": {
-    "crawled": 473,
+    "crawled": 476,
     "errors": 0,
-    "studied": 473
+    "studied": 476
   },
   "results": [
     {
@@ -4171,6 +4171,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles/"
@@ -4568,11 +4573,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax/"
@@ -4783,6 +4783,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -5141,11 +5146,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
@@ -7359,6 +7359,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             }
           ]
         },
@@ -9009,7 +9014,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "19 August 2022",
+      "date": "4 August 2022",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -9179,7 +9184,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "19 August 2022",
+      "date": "18 August 2022",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -9212,7 +9217,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
@@ -9224,6 +9228,20 @@
             "ref": {
               "name": "CSS-CONTAIN-2",
               "url": "https://drafts.csswg.org/css-contain-2/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -9240,8 +9258,8 @@
         "xrefs": {
           "notExported": [
             "https://drafts.csswg.org/css-contain-2/#layout-containment-box",
-            "https://drafts.csswg.org/css-pseudo-4/#fictional-tag-sequence",
             "https://drafts.csswg.org/css-values-4/#relative-length",
+            "https://drafts.csswg.org/css-pseudo-4/#fictional-tag-sequence",
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://drafts.csswg.org/web-animations-1/#effect-value"
           ],
@@ -11524,6 +11542,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-display-3/",
@@ -20196,6 +20219,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles/"
@@ -23156,6 +23184,16 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            },
+            {
               "url": "https://wicg.github.io/keyboard-lock/",
               "title": "Keyboard Lock",
               "crawled": "https://wicg.github.io/keyboard-lock/"
@@ -24111,6 +24149,21 @@
               "url": "https://wicg.github.io/js-self-profiling/",
               "title": "JS Self-Profiling API",
               "crawled": "https://wicg.github.io/js-self-profiling/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-framing/",
+              "title": "JSON-LD 1.1 Framing",
+              "crawled": "https://w3c.github.io/json-ld-framing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
             },
             {
               "url": "https://wicg.github.io/keyboard-lock/",
@@ -29527,6 +29580,16 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            },
+            {
               "url": "https://wicg.github.io/keyboard-lock/",
               "title": "Keyboard Lock",
               "crawled": "https://wicg.github.io/keyboard-lock/"
@@ -32024,6 +32087,21 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-framing/",
+              "title": "JSON-LD 1.1 Framing",
+              "crawled": "https://w3c.github.io/json-ld-framing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            },
+            {
               "url": "https://wicg.github.io/keyboard-lock/",
               "title": "Keyboard Lock",
               "crawled": "https://wicg.github.io/keyboard-lock/"
@@ -33174,6 +33252,344 @@
           "evolvingLinks": [],
           "outdatedSpecs": [],
           "datedUrls": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "JSON-LD 1.1",
+      "shortname": "json-ld11",
+      "date": "27 May 2022",
+      "url": "https://www.w3.org/TR/json-ld11/",
+      "release": {
+        "url": "https://www.w3.org/TR/json-ld11/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/json-ld-syntax/",
+        "repository": "https://github.com/w3c/json-ld-syntax",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/json-ld-syntax/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "JSON-LD Working Group",
+          "url": "https://www.w3.org/2018/json-ld-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/json-ld11-framing/",
+              "title": "JSON-LD 1.1 Framing",
+              "crawled": "https://w3c.github.io/json-ld-framing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            }
+          ]
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/json-ld11-api/#dfn-internal-representation",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-processor",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-expanded",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-flattened",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-compact",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-frame",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-frame-object",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-framing",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-wildcard",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-match-none",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-value-pattern"
+          ],
+          "notDfn": [
+            "https://infra.spec.whatwg.org/#javascript-string"
+          ],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#the-script-element",
+            "https://html.spec.whatwg.org/#data-block",
+            "https://html.spec.whatwg.org/#document-base-url",
+            "https://html.spec.whatwg.org/#dynamic-changes-to-base-urls",
+            "https://html.spec.whatwg.org/#restrictions-for-contents-of-script-elements",
+            "https://html.spec.whatwg.org/#the-dir-attribute"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": [
+            "https://www.w3.org/TR/2014/REC-json-ld-20140116/"
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "JSON-LD 1.1 Framing",
+      "shortname": "json-ld11-framing",
+      "date": "22 August 2022",
+      "url": "https://www.w3.org/TR/json-ld11-framing/",
+      "release": {
+        "url": "https://www.w3.org/TR/json-ld11-framing/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/json-ld-framing/",
+        "repository": "https://github.com/w3c/json-ld-framing",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/json-ld-framing/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "JSON-LD Working Group",
+          "url": "https://www.w3.org/2018/json-ld-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            }
+          ],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/json-ld11/#dfn-json-ld-document",
+            "https://www.w3.org/TR/json-ld11/#dfn-term",
+            "https://www.w3.org/TR/json-ld11/#dfn-vocabulary-mapping",
+            "https://www.w3.org/TR/json-ld11/#dfn-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-active-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-base-direction",
+            "https://www.w3.org/TR/json-ld11/#dfn-compact-iri",
+            "https://www.w3.org/TR/json-ld11/#dfn-prefix",
+            "https://www.w3.org/TR/json-ld11/#dfn-default-language",
+            "https://www.w3.org/TR/json-ld11/#dfn-default-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-embedded-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-node-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-value-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-graph-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-list-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-set-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-nested-property",
+            "https://www.w3.org/TR/json-ld11/#dfn-expanded-term-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-context-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-term-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-keyword",
+            "https://www.w3.org/TR/json-ld11/#dfn-simple-graph-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-id-map",
+            "https://www.w3.org/TR/json-ld11/#dfn-implicitly-named-graph",
+            "https://www.w3.org/TR/json-ld11/#dfn-included-block",
+            "https://www.w3.org/TR/json-ld11/#dfn-index-map",
+            "https://www.w3.org/TR/json-ld11/#dfn-json-literal",
+            "https://www.w3.org/TR/json-ld11/#dfn-json-ld-value",
+            "https://www.w3.org/TR/json-ld11/#dfn-typed-value",
+            "https://www.w3.org/TR/json-ld11/#dfn-language-map",
+            "https://www.w3.org/TR/json-ld11/#dfn-local-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-node-reference",
+            "https://www.w3.org/TR/json-ld11/#dfn-processing-mode",
+            "https://www.w3.org/TR/json-ld11/#dfn-scoped-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-type-scoped-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-property-scoped-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-simple-term-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-type-map",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-processor",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-internal-representation",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-active-graph",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-active-object",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-active-property",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-active-subject",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-add-value",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-iri-compacting",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-iri-expanding",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-input",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-json-ld-output",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-processor-state",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-flattened",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-expanded",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-compact",
+            "https://www.w3.org/TR/json-ld11-api/#dfn-jsonldprocessor-expand-input"
+          ],
+          "notDfn": [
+            "https://infra.spec.whatwg.org/#javascript-string"
+          ],
+          "brokenLinks": [],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": [
+            "https://www.w3.org/TR/2014/REC-json-ld-20140116/"
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "JSON-LD 1.1 Processing Algorithms and API",
+      "shortname": "json-ld11-api",
+      "date": "27 May 2022",
+      "url": "https://www.w3.org/TR/json-ld11-api/",
+      "release": {
+        "url": "https://www.w3.org/TR/json-ld11-api/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/json-ld-api/",
+        "repository": "https://github.com/w3c/json-ld-api",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/json-ld-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "JSON-LD Working Group",
+          "url": "https://www.w3.org/2018/json-ld-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-framing/",
+              "title": "JSON-LD 1.1 Framing",
+              "crawled": "https://w3c.github.io/json-ld-framing/"
+            }
+          ],
+          "informative": []
+        },
+        "xrefs": {
+          "notExported": [
+            "https://www.w3.org/TR/json-ld11/#dfn-json-ld-document",
+            "https://www.w3.org/TR/json-ld11/#dfn-term",
+            "https://www.w3.org/TR/json-ld11/#dfn-vocabulary-mapping",
+            "https://www.w3.org/TR/json-ld11/#dfn-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-active-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-base-direction",
+            "https://www.w3.org/TR/json-ld11/#dfn-compact-iri",
+            "https://www.w3.org/TR/json-ld11/#dfn-prefix",
+            "https://www.w3.org/TR/json-ld11/#dfn-default-language",
+            "https://www.w3.org/TR/json-ld11/#dfn-default-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-embedded-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-node-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-value-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-graph-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-list-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-set-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-nested-property",
+            "https://www.w3.org/TR/json-ld11/#dfn-expanded-term-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-context-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-term-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-keyword",
+            "https://www.w3.org/TR/json-ld11/#dfn-simple-graph-object",
+            "https://www.w3.org/TR/json-ld11/#dfn-id-map",
+            "https://www.w3.org/TR/json-ld11/#dfn-implicitly-named-graph",
+            "https://www.w3.org/TR/json-ld11/#dfn-included-block",
+            "https://www.w3.org/TR/json-ld11/#dfn-index-map",
+            "https://www.w3.org/TR/json-ld11/#dfn-json-literal",
+            "https://www.w3.org/TR/json-ld11/#dfn-json-ld-value",
+            "https://www.w3.org/TR/json-ld11/#dfn-typed-value",
+            "https://www.w3.org/TR/json-ld11/#dfn-language-map",
+            "https://www.w3.org/TR/json-ld11/#dfn-local-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-node-reference",
+            "https://www.w3.org/TR/json-ld11/#dfn-processing-mode",
+            "https://www.w3.org/TR/json-ld11/#dfn-scoped-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-type-scoped-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-property-scoped-context",
+            "https://www.w3.org/TR/json-ld11/#dfn-simple-term-definition",
+            "https://www.w3.org/TR/json-ld11/#dfn-type-map",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-frame",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-frame-object",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-explicit-inclusion-flag",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-framing-state",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-object-embed-flag",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-require-all-flag",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-embedded-flag",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-omit-default-flag",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-input-frame",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-map-of-flattened-subjects",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-omit-graph-flag",
+            "https://www.w3.org/TR/json-ld11-framing/#dfn-framing"
+          ],
+          "notDfn": [
+            "https://infra.spec.whatwg.org/#javascript-string"
+          ],
+          "brokenLinks": [
+            "https://html.spec.whatwg.org/#the-script-element",
+            "https://html.spec.whatwg.org/#document-base-url",
+            "https://html.spec.whatwg.org/#the-id-attribute",
+            "https://html.spec.whatwg.org/#attr-link-type"
+          ],
+          "evolvingLinks": [],
+          "outdatedSpecs": [],
+          "datedUrls": [
+            "https://www.w3.org/TR/2014/REC-json-ld-api-20140116/",
+            "https://www.w3.org/TR/2014/REC-json-ld-20140116/"
+          ]
         },
         "ok": false
       }
@@ -36312,6 +36728,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
             {
               "url": "https://wicg.github.io/ua-client-hints/",
               "title": "User-Agent Client Hints",
@@ -46855,6 +47276,11 @@
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
             },
             {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
               "title": "Scripting Policy",
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
@@ -51379,6 +51805,16 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
+              "url": "https://www.w3.org/TR/json-ld11-framing/",
+              "title": "JSON-LD 1.1 Framing",
+              "crawled": "https://w3c.github.io/json-ld-framing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            },
+            {
               "url": "https://wicg.github.io/keyboard-map/",
               "title": "Keyboard Map",
               "crawled": "https://wicg.github.io/keyboard-map/"
@@ -51950,6 +52386,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
             {
               "url": "https://www.w3.org/TR/miniapp-lifecycle/",
               "title": "MiniApp Lifecycle",
@@ -52647,7 +53088,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "11 August 2022",
+      "date": "23 August 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -52703,7 +53144,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "11 August 2022",
+      "date": "23 August 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -52857,7 +53298,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "11 August 2022",
+      "date": "23 August 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
