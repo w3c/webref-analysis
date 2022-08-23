@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-23T12:51:15.809Z",
+  "date": "2022-08-23T18:41:24.811Z",
   "stats": {
     "crawled": 476,
     "errors": 0,
@@ -1228,7 +1228,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "4 August 2022",
+      "date": "23 August 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -5506,7 +5506,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "14 July 2022",
+      "date": "22 August 2022",
       "url": "https://drafts.csswg.org/css-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-animations-2/",
@@ -7712,7 +7712,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 5",
       "shortname": "css-cascade-5",
-      "date": "4 August 2022",
+      "date": "23 August 2022",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -47819,7 +47819,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 August 2022",
+      "date": "23 August 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
