@@ -21,6 +21,14 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>476 specifications were crawled in this report.</p>
+  <section id="specifications-that-could-not-be-rendered" class="level2">
+  <h2>Specifications that could not be rendered</h2>
+  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
+  <ul>
+  <li><a href="https://sourcemaps.info/spec.html">Source Map Revision 3 Proposal</a>: <code>Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 530 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 530   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 36)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
+  </ul>
+  <p>=&gt; 1 specification found</p>
+  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -57,7 +65,6 @@
   <li><a href="https://www.rfc-editor.org/rfc/rfc7469">RFC 7469: Public Key Pinning Extension for HTTP</a></li>
   <li><a href="https://www.rfc-editor.org/rfc/rfc7578">RFC 7578: Returning Values from Forms: multipart/form-data</a></li>
   <li><a href="https://tc39.es/proposal-shadowrealm/">ShadowRealm API</a></li>
-  <li><a href="https://sourcemaps.info/spec.html">Source Map Revision 3 Proposal</a></li>
   <li><a href="https://tc39.es/proposal-symbols-as-weakmap-keys/">Symbol as WeakMap Keys Proposal</a></li>
   <li><a href="https://tc39.es/proposal-temporal/">Temporal proposal</a></li>
   <li><a href="https://w3c.github.io/manifest-app-info/">Web App Manifest - Application Information</a></li>
@@ -104,7 +111,7 @@
   <li><a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/">WebGL WEBGL_multi_draw Extension Specification</a></li>
   <li><a href="https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/">WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification</a></li>
   </ul>
-  <p>=&gt; 79 specifications found</p>
+  <p>=&gt; 78 specifications found</p>
   <p>Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.</p>
   </section>
   <section id="list-of-specifications-with-invalid-webidl-content" class="level2">

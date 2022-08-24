@@ -1,8 +1,22 @@
 % Reffy crawl
 % Strudy
-% August 23, 2022
+% August 24, 2022
 
 476 specifications were crawled in this report.
+
+
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html): `Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 530 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 530
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 36)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -40,7 +54,6 @@
 - [RFC 7469: Public Key Pinning Extension for HTTP](https://www.rfc-editor.org/rfc/rfc7469)
 - [RFC 7578: Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578)
 - [ShadowRealm API](https://tc39.es/proposal-shadowrealm/)
-- [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html)
 - [Symbol as WeakMap Keys Proposal](https://tc39.es/proposal-symbols-as-weakmap-keys/)
 - [Temporal proposal](https://tc39.es/proposal-temporal/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
@@ -87,7 +100,7 @@
 - [WebGL WEBGL_multi_draw Extension Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://www.khronos.org/registry/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 79 specifications found
+=> 78 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
