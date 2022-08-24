@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-24T00:50:55.026Z",
+  "date": "2022-08-24T06:44:07.330Z",
   "stats": {
     "crawled": 476,
     "errors": 1,
@@ -39893,7 +39893,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "22 August 2022",
+      "date": "23 August 2022",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -40019,7 +40019,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "22 August 2022",
+      "date": "23 August 2022",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -46864,7 +46864,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "22 August 2022",
+      "date": "23 August 2022",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
