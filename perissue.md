@@ -3120,8 +3120,6 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
      * [`https://www.w3.org/TR/css3-background/#the-background-size`](https://www.w3.org/TR/css3-background/#the-background-size)
      * [`https://www.w3.org/TR/css3-background/#the-border-image-slice`](https://www.w3.org/TR/css3-background/#the-border-image-slice)
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/):
-     * [`https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0`](https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/):
      * [`https://www.w3.org/TR/css3-break/#btw-blocks`](https://www.w3.org/TR/css3-break/#btw-blocks)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions/):
@@ -3882,7 +3880,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#syntax-url-path-absolute`](https://url.spec.whatwg.org/#syntax-url-path-absolute)
      * [`https://heycam.github.io/webidl/#dfn-DOMException`](https://heycam.github.io/webidl/#dfn-DOMException)
 
-=> 969 problematic external links found in 63 specifications
+=> 968 problematic external links found in 62 specifications
 
 
 ## Broken external links

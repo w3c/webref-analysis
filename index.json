@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-26T12:46:01.714Z",
+  "date": "2022-08-26T18:40:16.032Z",
   "stats": {
     "crawled": 476,
     "errors": 1,
@@ -3506,7 +3506,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "25 August 2022",
+      "date": "26 August 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -8442,7 +8442,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "25 August 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8594,7 +8594,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "15 July 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -9256,13 +9256,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
-              "title": "Scroll-linked Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "xrefs": {
@@ -11008,7 +11002,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "24 August 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -14729,9 +14723,7 @@
         },
         "xrefs": {
           "notExported": [],
-          "notDfn": [
-            "https://drafts.csswg.org/css-fonts-4/#cssfontfeaturevaluesrule%E2%91%A0"
-          ],
+          "notDfn": [],
           "brokenLinks": [
             "https://drafts.csswg.org/selectors-3/#sel-before",
             "https://drafts.csswg.org/selectors-3/#sel-after",
@@ -34485,7 +34477,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "25 August 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -45553,7 +45545,7 @@
     {
       "title": "Scroll-linked Animations",
       "shortname": "scroll-animations-1",
-      "date": "29 July 2022",
+      "date": "26 August 2022",
       "url": "https://drafts.csswg.org/scroll-animations-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/scroll-animations-1/",
@@ -53071,7 +53063,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "25 August 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -53127,7 +53119,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "25 August 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -53281,7 +53273,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "25 August 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -57510,7 +57502,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "19 July 2022",
+      "date": "26 August 2022",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
