@@ -22060,7 +22060,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 27 July 2022
+- Crawled version: 26 August 2022
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
