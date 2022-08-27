@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-27T12:45:56.923Z",
+  "date": "2022-08-27T18:40:51.272Z",
   "stats": {
     "crawled": 476,
     "errors": 1,
@@ -39646,7 +39646,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "22 August 2022",
+      "date": "27 August 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
