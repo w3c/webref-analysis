@@ -7,7 +7,7 @@
 - Initial URL: [https://www.w3.org/TR/CSS21/](https://www.w3.org/TR/CSS21/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
@@ -20,50 +20,11 @@
 - Initial URL: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
     at async Promise.all (index 326)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
-
-
-## CSS Animations Level 2
-
-- Initial URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 6)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
-
-
-## CSS Backgrounds and Borders Module Level 4
-
-- Initial URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 7)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
-
-
-## CSS Environment Variables Module Level 1
-
-- Initial URL: [https://drafts.csswg.org/css-env-1/](https://drafts.csswg.org/css-env-1/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-env-1/](https://drafts.csswg.org/css-env-1/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-env-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-env-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 8)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
 
 
@@ -72,7 +33,7 @@
 - Initial URL: [https://www.w3.org/TR/css3-exclusions/](https://www.w3.org/TR/css3-exclusions/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-exclusions/](https://drafts.csswg.org/css-exclusions/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
@@ -80,17 +41,12 @@
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
 
 
-## CSS Extensions
+## Payment Method Identifiers
 
-- Initial URL: [https://drafts.csswg.org/css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
+- Initial URL: [https://www.w3.org/TR/payment-method-id/](https://www.w3.org/TR/payment-method-id/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 9)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
+- Editor's Draft: [https://w3c.github.io/payment-method-id/](https://w3c.github.io/payment-method-id/)
+- Spec is OK: *INS* true / *DEL* false
 
 
 

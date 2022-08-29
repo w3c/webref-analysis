@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-29T06:48:50.892Z",
+  "date": "2022-08-29T12:46:15.334Z",
   "stats": {
     "crawled": 476,
-    "errors": 4,
+    "errors": 1,
     "studied": 476
   },
   "results": [
@@ -4028,7 +4028,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4663,7 +4662,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10503,7 +10501,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-exclusions/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 327)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -29790,11 +29787,6 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-method-id/",
-              "title": "Payment Method Identifiers",
-              "crawled": "https://w3c.github.io/payment-method-id/"
-            },
-            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -32220,6 +32212,11 @@
               "url": "https://www.w3.org/TR/payment-handler/",
               "title": "Payment Handler API",
               "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
             },
             {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
@@ -38375,17 +38372,7 @@
             }
           ]
         },
-        "xrefs": {
-          "notExported": [],
-          "notDfn": [],
-          "brokenLinks": [
-            "https://html.spec.whatwg.org/#case-sensitive"
-          ],
-          "evolvingLinks": [],
-          "outdatedSpecs": [],
-          "datedUrls": []
-        },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -53772,7 +53759,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "23 August 2022",
+      "date": "29 August 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
