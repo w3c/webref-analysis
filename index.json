@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-30T12:49:32.793Z",
+  "date": "2022-08-30T18:40:41.469Z",
   "stats": {
     "crawled": 476,
     "errors": 1,
@@ -3557,7 +3557,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "26 May 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -3635,10 +3635,7 @@
           "informative": []
         },
         "xrefs": {
-          "notExported": [
-            "https://www.w3.org/TR/wai-aria-1.2/#dfn-object",
-            "https://www.w3.org/TR/wai-aria/#dfn-event"
-          ],
+          "notExported": [],
           "notDfn": [
             "https://w3c.github.io/aria/#aria-flowto",
             "https://w3c.github.io/aria/#aria-live",
@@ -3778,19 +3775,8 @@
             "https://w3c.github.io/aria/#aria-valuetext"
           ],
           "brokenLinks": [
-            "https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent",
-            "https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology",
-            "https://www.w3.org/TR/wai-aria-1.2/#dfn-element",
-            "https://www.w3.org/TR/wai-aria-1.2/#dfn-attribute",
             "https://w3c.github.io/aria/#label",
-            "https://w3c.github.io/aria/#legend",
-            "https://www.w3.org/TR/wai-aria/#dfn-normative",
-            "https://www.w3.org/TR/wai-aria/#dfn-informative",
-            "https://www.w3.org/TR/wai-aria/#dfn-user-agent",
-            "https://www.w3.org/TR/wai-aria/#dfn-node",
-            "https://www.w3.org/TR/wai-aria/#dfn-element",
-            "https://www.w3.org/TR/wai-aria/#dfn-attribute",
-            "https://www.w3.org/TR/wai-aria/#dfn-assistive-technology"
+            "https://w3c.github.io/aria/#legend"
           ],
           "evolvingLinks": [],
           "outdatedSpecs": [],
@@ -23706,6 +23692,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://www.w3.org/TR/core-aam-1.2/",
+              "title": "Core Accessibility API Mappings 1.2",
+              "crawled": "https://w3c.github.io/core-aam/"
+            },
+            {
               "url": "https://www.w3.org/TR/CSS21/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
@@ -24962,7 +24953,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "27 August 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25093,7 +25084,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "27 August 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -25190,11 +25181,6 @@
             "https://html.spec.whatwg.org/#dom-document-cookie",
             "https://html.spec.whatwg.org/#webstorage",
             "https://html.spec.whatwg.org/#dom-localstorage",
-            "https://html.spec.whatwg.org/#video",
-            "https://html.spec.whatwg.org/#audio",
-            "https://html.spec.whatwg.org/#attr-media-controls",
-            "https://html.spec.whatwg.org/#attr-video-poster",
-            "https://html.spec.whatwg.org/#attr-media-autoplay",
             "https://html.spec.whatwg.org/#navigator",
             "https://html.spec.whatwg.org/#workernavigator",
             "https://html.spec.whatwg.org/#the-end"
@@ -31785,6 +31771,11 @@
               "crawled": "https://wicg.github.io/cookie-store/"
             },
             {
+              "url": "https://www.w3.org/TR/core-aam-1.2/",
+              "title": "Core Accessibility API Mappings 1.2",
+              "crawled": "https://w3c.github.io/core-aam/"
+            },
+            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -33364,7 +33355,7 @@
     {
       "title": "JSON-LD 1.1 Framing",
       "shortname": "json-ld11-framing",
-      "date": "22 August 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/json-ld11-framing/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-framing/",
@@ -53059,7 +53050,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "26 August 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -53115,7 +53106,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "26 August 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -53269,7 +53260,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "26 August 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -56516,7 +56507,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "2 August 2022",
+      "date": "30 August 2022",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
@@ -57679,7 +57670,7 @@
     {
       "title": "Window Controls Overlay",
       "shortname": "window-controls-overlay",
-      "date": "02 February 2022",
+      "date": "30 August 2022",
       "url": "https://wicg.github.io/window-controls-overlay/",
       "nightly": {
         "url": "https://wicg.github.io/window-controls-overlay/",

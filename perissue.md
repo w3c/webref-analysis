@@ -1721,9 +1721,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://url.spec.whatwg.org/#concept-base-url`](https://url.spec.whatwg.org/#concept-base-url)
      * [`https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited`](https://www.w3.org/TR/webrtc/#dfn-administratively-prohibited)
      * [`https://w3c.github.io/reporting/#visible-to-reportingobservers`](https://w3c.github.io/reporting/#visible-to-reportingobservers)
-- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/):
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-object`](https://www.w3.org/TR/wai-aria-1.2/#dfn-object)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-event`](https://www.w3.org/TR/wai-aria/#dfn-event)
 - [CSS 2](https://drafts.csswg.org/css2/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS 2](https://drafts.csswg.org/css2/):
@@ -2845,7 +2842,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 974 problematic external links found in 214 specifications
+=> 972 problematic external links found in 213 specifications
 
 
 ## External links that neither target definitions nor headings
@@ -4535,19 +4532,8 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-document-cookie`](https://html.spec.whatwg.org/#dom-document-cookie)
      * [`https://html.spec.whatwg.org/#same-site`](https://html.spec.whatwg.org/#same-site)
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/):
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent`](https://www.w3.org/TR/wai-aria-1.2/#dfn-user-agent)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria-1.2/#dfn-assistive-technology)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-element`](https://www.w3.org/TR/wai-aria-1.2/#dfn-element)
-     * [`https://www.w3.org/TR/wai-aria-1.2/#dfn-attribute`](https://www.w3.org/TR/wai-aria-1.2/#dfn-attribute)
      * [`https://w3c.github.io/aria/#label`](https://w3c.github.io/aria/#label)
      * [`https://w3c.github.io/aria/#legend`](https://w3c.github.io/aria/#legend)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-normative`](https://www.w3.org/TR/wai-aria/#dfn-normative)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-informative`](https://www.w3.org/TR/wai-aria/#dfn-informative)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-user-agent`](https://www.w3.org/TR/wai-aria/#dfn-user-agent)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-node`](https://www.w3.org/TR/wai-aria/#dfn-node)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-element`](https://www.w3.org/TR/wai-aria/#dfn-element)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-attribute`](https://www.w3.org/TR/wai-aria/#dfn-attribute)
-     * [`https://www.w3.org/TR/wai-aria/#dfn-assistive-technology`](https://www.w3.org/TR/wai-aria/#dfn-assistive-technology)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/):
      * [`https://html.spec.whatwg.org/#attr-fe-autocomplete`](https://html.spec.whatwg.org/#attr-fe-autocomplete)
      * [`https://html.spec.whatwg.org/#concept-origin`](https://html.spec.whatwg.org/#concept-origin)
@@ -5273,11 +5259,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#dom-document-cookie`](https://html.spec.whatwg.org/#dom-document-cookie)
      * [`https://html.spec.whatwg.org/#webstorage`](https://html.spec.whatwg.org/#webstorage)
      * [`https://html.spec.whatwg.org/#dom-localstorage`](https://html.spec.whatwg.org/#dom-localstorage)
-     * [`https://html.spec.whatwg.org/#video`](https://html.spec.whatwg.org/#video)
-     * [`https://html.spec.whatwg.org/#audio`](https://html.spec.whatwg.org/#audio)
-     * [`https://html.spec.whatwg.org/#attr-media-controls`](https://html.spec.whatwg.org/#attr-media-controls)
-     * [`https://html.spec.whatwg.org/#attr-video-poster`](https://html.spec.whatwg.org/#attr-video-poster)
-     * [`https://html.spec.whatwg.org/#attr-media-autoplay`](https://html.spec.whatwg.org/#attr-media-autoplay)
      * [`https://html.spec.whatwg.org/#navigator`](https://html.spec.whatwg.org/#navigator)
      * [`https://html.spec.whatwg.org/#workernavigator`](https://html.spec.whatwg.org/#workernavigator)
      * [`https://html.spec.whatwg.org/#the-end`](https://html.spec.whatwg.org/#the-end)
@@ -9243,7 +9224,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://html.spec.whatwg.org/#constructing-the-form-data-set`](https://html.spec.whatwg.org/#constructing-the-form-data-set)
      * [`https://html.spec.whatwg.org/#the-progress-element`](https://html.spec.whatwg.org/#the-progress-element)
 
-=> 5049 problematic external links found in 307 specifications
+=> 5033 problematic external links found in 307 specifications
 
 
 ## External links to terms that no longer exist in the latest version of the targeted specification
