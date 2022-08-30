@@ -673,7 +673,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 28 August 2022
+- Crawled version: 30 August 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -6011,9 +6011,10 @@ No informative reference to this spec from other specs.
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-position-3/`](https://www.w3.org/TR/css-position-3/), related reference "CSS-POSITION-3" uses URL [`https://drafts.csswg.org/css-position/`](https://drafts.csswg.org/css-position/)
 - External links to private terms:
-     * [`https://drafts.csswg.org/css-position-3/#static-position-rectangle`](https://drafts.csswg.org/css-position-3/#static-position-rectangle)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+     * [`https://www.w3.org/TR/css-position-3/#static-position-rectangle`](https://www.w3.org/TR/css-position-3/#static-position-rectangle)
 - External links that neither target definitions nor headings:
      * [`https://www.w3.org/TR/css3-break/#btw-blocks`](https://www.w3.org/TR/css3-break/#btw-blocks)
      * [`https://www.w3.org/TR/css3-break/#end-block`](https://www.w3.org/TR/css3-break/#end-block)
@@ -11262,7 +11263,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 29 August 2022
+- Crawled version: 30 August 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11346,7 +11347,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 29 August 2022
+- Crawled version: 30 August 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -16405,7 +16406,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Crawled URL: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
-- Crawled version: 12 July 2022
+- Crawled version: 30 August 2022
 - Editor's Draft: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
 - Latest published version: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Shortname: web-share
@@ -22866,7 +22867,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 22 August 2022
+- Crawled version: 30 August 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -22942,7 +22943,6 @@ Informative references to this spec from:
      * [`https://w3c.github.io/webappsec-feature-policy/#serialized-permissions-policy`](https://w3c.github.io/webappsec-feature-policy/#serialized-permissions-policy)
      * [`https://w3c.github.io/webappsec-feature-policy/#is-feature-enabled`](https://w3c.github.io/webappsec-feature-policy/#is-feature-enabled)
      * [`https://w3c.github.io/webappsec-feature-policy/#process-permissions-policy-attributes`](https://w3c.github.io/webappsec-feature-policy/#process-permissions-policy-attributes)
-     * [`https://drafts.fxtf.org/filter-effects/#filter-primitive-attributes`](https://drafts.fxtf.org/filter-effects/#filter-primitive-attributes)
      * [`https://storage.spec.whatwg.org/#storage-proxy-map`](https://storage.spec.whatwg.org/#storage-proxy-map)
      * [`https://w3c.github.io/webauthn/#public-key-credential`](https://w3c.github.io/webauthn/#public-key-credential)
 - External links that neither target definitions nor headings:

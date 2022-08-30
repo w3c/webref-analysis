@@ -1215,6 +1215,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-position-3/`](https://www.w3.org/TR/css-position-3/) but related reference "CSS-POSITION-3" uses URL [`https://drafts.csswg.org/css-position/`](https://drafts.csswg.org/css-position/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading/) links to [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1648,7 +1649,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
 
-=> 433 inconsistent references for links found in 187 specifications
+=> 434 inconsistent references for links found in 187 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
@@ -1843,8 +1844,8 @@ Links in the body of a specification should be to the same document as that poin
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/):
-     * [`https://drafts.csswg.org/css-position-3/#static-position-rectangle`](https://drafts.csswg.org/css-position-3/#static-position-rectangle)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
+     * [`https://www.w3.org/TR/css-position-3/#static-position-rectangle`](https://www.w3.org/TR/css-position-3/#static-position-rectangle)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet`](https://drafts.csswg.org/cssom-1/#concept-css-rule-parent-css-style-sheet)
@@ -2158,7 +2159,6 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://w3c.github.io/webappsec-feature-policy/#serialized-permissions-policy`](https://w3c.github.io/webappsec-feature-policy/#serialized-permissions-policy)
      * [`https://w3c.github.io/webappsec-feature-policy/#is-feature-enabled`](https://w3c.github.io/webappsec-feature-policy/#is-feature-enabled)
      * [`https://w3c.github.io/webappsec-feature-policy/#process-permissions-policy-attributes`](https://w3c.github.io/webappsec-feature-policy/#process-permissions-policy-attributes)
-     * [`https://drafts.fxtf.org/filter-effects/#filter-primitive-attributes`](https://drafts.fxtf.org/filter-effects/#filter-primitive-attributes)
      * [`https://storage.spec.whatwg.org/#storage-proxy-map`](https://storage.spec.whatwg.org/#storage-proxy-map)
      * [`https://w3c.github.io/webauthn/#public-key-credential`](https://w3c.github.io/webauthn/#public-key-credential)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/):
@@ -2845,7 +2845,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 975 problematic external links found in 214 specifications
+=> 974 problematic external links found in 214 specifications
 
 
 ## External links that neither target definitions nor headings
