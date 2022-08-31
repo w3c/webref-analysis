@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-31T12:45:06.967Z",
+  "date": "2022-08-31T18:43:28.403Z",
   "stats": {
     "crawled": 476,
-    "errors": 2,
+    "errors": 1,
     "studied": 476
   },
   "results": [
@@ -746,7 +746,7 @@
     {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
-      "date": "22 August 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/ambient-light/",
       "release": {
         "url": "https://www.w3.org/TR/ambient-light/",
@@ -4650,7 +4650,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24250,6 +24249,11 @@
               "crawled": "https://w3c.github.io/screen-wake-lock/"
             },
             {
+              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
+              "title": "Secure Payment Confirmation",
+              "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
               "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -24405,11 +24409,6 @@
               "url": "https://wicg.github.io/entries-api/",
               "title": "File and Directory Entries API",
               "crawled": "https://wicg.github.io/entries-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
-              "title": "Secure Payment Confirmation",
-              "crawled": "https://w3c.github.io/secure-payment-confirmation/"
             },
             {
               "url": "https://www.w3.org/TR/tracking-dnt/",
@@ -26345,11 +26344,6 @@
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
-            },
-            {
-              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
-              "title": "Secure Payment Confirmation",
-              "crawled": "https://w3c.github.io/secure-payment-confirmation/"
             },
             {
               "url": "https://www.w3.org/TR/service-workers/",
@@ -39636,7 +39630,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "27 August 2022",
+      "date": "31 August 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -44416,7 +44410,7 @@
     {
       "title": "Scalable Vector Graphics (SVG) 2",
       "shortname": "SVG2",
-      "date": "26 May 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/SVG2/",
       "release": {
         "url": "https://www.w3.org/TR/SVG2/",
@@ -45871,7 +45865,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "25 August 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -47427,7 +47421,7 @@
     {
       "title": "SVG Animations",
       "shortname": "svg-animations",
-      "date": "26 May 2022",
+      "date": "31 August 2022",
       "url": "https://svgwg.org/specs/animations/",
       "nightly": {
         "url": "https://svgwg.org/specs/animations/",
@@ -47617,7 +47611,7 @@
     {
       "title": "SVG Integration",
       "shortname": "svg-integration",
-      "date": "26 May 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/svg-integration/",
       "release": {
         "url": "https://www.w3.org/TR/svg-integration/",
@@ -47688,7 +47682,7 @@
     {
       "title": "SVG Strokes",
       "shortname": "svg-strokes",
-      "date": "26 May 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/svg-strokes/",
       "release": {
         "url": "https://www.w3.org/TR/svg-strokes/",
@@ -47791,7 +47785,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "29 August 2022",
+      "date": "31 August 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -52567,7 +52561,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "25 August 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -55762,7 +55756,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "30 August 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55893,7 +55887,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "30 August 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
