@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-08-31T06:47:49.841Z",
+  "date": "2022-08-31T12:45:06.967Z",
   "stats": {
     "crawled": 476,
     "errors": 2,
@@ -41842,7 +41842,7 @@
     {
       "title": "Resource Timing Level 2",
       "shortname": "resource-timing-2",
-      "date": "19 July 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/resource-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing-2/",
@@ -53333,7 +53333,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "29 August 2022",
+      "date": "31 August 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -57879,7 +57879,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "15 August 2022",
+      "date": "31 August 2022",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
