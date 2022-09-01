@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-01T00:50:26.606Z",
+  "date": "2022-09-01T12:48:14.738Z",
   "stats": {
     "crawled": 476,
     "errors": 1,
@@ -3508,7 +3508,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "31 August 2022",
+      "date": "1 September 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -39889,7 +39889,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "29 August 2022",
+      "date": "31 August 2022",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -40017,7 +40017,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "29 August 2022",
+      "date": "31 August 2022",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -40119,11 +40119,12 @@
             "https://html.spec.whatwg.org/#active-document",
             "https://html.spec.whatwg.org/#creating-a-new-top-level-browsing-context",
             "https://html.spec.whatwg.org/#a-browsing-context-is-discarded",
-            "https://html.spec.whatwg.org/#same-origin",
-            "https://html.spec.whatwg.org/#concept-document-policy-container",
-            "https://html.spec.whatwg.org/#policy-container-referrer-policy",
-            "https://html.spec.whatwg.org/#source-browsing-context",
             "https://html.spec.whatwg.org/#top-level-browsing-context",
+            "https://html.spec.whatwg.org/#nested-browsing-context",
+            "https://html.spec.whatwg.org/#auxiliary-browsing-context",
+            "https://html.spec.whatwg.org/#opener-browsing-context",
+            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#source-browsing-context",
             "https://html.spec.whatwg.org/#history-handling-behavior",
             "https://html.spec.whatwg.org/#concept-navigate-mature",
             "https://html.spec.whatwg.org/#initialise-the-document-object",
@@ -40138,18 +40139,17 @@
             "https://html.spec.whatwg.org/#active-window",
             "https://html.spec.whatwg.org/#event-loop",
             "https://html.spec.whatwg.org/#bcg-remove",
-            "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#creating-a-new-nested-browsing-context",
             "https://html.spec.whatwg.org/#process-a-navigate-fetch",
+            "https://html.spec.whatwg.org/#environment-discarding-steps",
+            "https://html.spec.whatwg.org/#navigation-params-reserved-environment",
+            "https://html.spec.whatwg.org/#process-a-navigate-response",
+            "https://html.spec.whatwg.org/#navigation-params-request",
+            "https://html.spec.whatwg.org/#process-a-navigate-url-scheme",
             "https://html.spec.whatwg.org/#bc-container",
             "https://html.spec.whatwg.org/#traverse-the-history",
             "https://html.spec.whatwg.org/#she-document",
             "https://html.spec.whatwg.org/#url-and-history-update-steps",
-            "https://html.spec.whatwg.org/#process-a-navigate-response",
-            "https://html.spec.whatwg.org/#navigation-params-request",
-            "https://html.spec.whatwg.org/#environment-discarding-steps",
-            "https://html.spec.whatwg.org/#navigation-params-reserved-environment",
-            "https://html.spec.whatwg.org/#process-a-navigate-url-scheme",
             "https://html.spec.whatwg.org/#the-worker's-lifetime",
             "https://html.spec.whatwg.org/#active-needed-worker",
             "https://html.spec.whatwg.org/#concept-WorkerGlobalScope-owner-set",
@@ -40158,7 +40158,6 @@
             "https://html.spec.whatwg.org/#visibility-state",
             "https://html.spec.whatwg.org/#tlbc-system-focus",
             "https://html.spec.whatwg.org/#script-closable",
-            "https://html.spec.whatwg.org/#auxiliary-browsing-context",
             "https://html.spec.whatwg.org/#downloading-hyperlinks",
             "https://html.spec.whatwg.org/#cannot-show-simple-dialogs",
             "https://html.spec.whatwg.org/#window-bc",
@@ -46829,7 +46828,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "29 August 2022",
+      "date": "31 August 2022",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -55756,7 +55755,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "31 August 2022",
+      "date": "1 September 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55887,7 +55886,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "31 August 2022",
+      "date": "1 September 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
