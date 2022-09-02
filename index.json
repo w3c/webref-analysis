@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-02T00:52:22.083Z",
+  "date": "2022-09-02T06:45:01.535Z",
   "stats": {
     "crawled": 476,
-    "errors": 5,
+    "errors": 6,
     "studied": 476
   },
   "results": [
@@ -4650,6 +4650,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23759,7 +23760,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "4 August 2022",
+      "date": "2 September 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -39724,7 +39725,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "31 August 2022",
+      "date": "1 September 2022",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -39852,7 +39853,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "31 August 2022",
+      "date": "1 September 2022",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -39958,7 +39959,7 @@
             "https://html.spec.whatwg.org/#nested-browsing-context",
             "https://html.spec.whatwg.org/#auxiliary-browsing-context",
             "https://html.spec.whatwg.org/#opener-browsing-context",
-            "https://html.spec.whatwg.org/#same-origin",
+            "https://html.spec.whatwg.org/#same-site",
             "https://html.spec.whatwg.org/#source-browsing-context",
             "https://html.spec.whatwg.org/#history-handling-behavior",
             "https://html.spec.whatwg.org/#concept-navigate-mature",
@@ -39978,6 +39979,7 @@
             "https://html.spec.whatwg.org/#process-a-navigate-fetch",
             "https://html.spec.whatwg.org/#environment-discarding-steps",
             "https://html.spec.whatwg.org/#navigation-params-reserved-environment",
+            "https://html.spec.whatwg.org/#same-origin",
             "https://html.spec.whatwg.org/#process-a-navigate-response",
             "https://html.spec.whatwg.org/#navigation-params-request",
             "https://html.spec.whatwg.org/#process-a-navigate-url-scheme",
@@ -39992,6 +39994,7 @@
             "https://html.spec.whatwg.org/#discard-a-document",
             "https://html.spec.whatwg.org/#visibility-state",
             "https://html.spec.whatwg.org/#tlbc-system-focus",
+            "https://html.spec.whatwg.org/#browsers",
             "https://html.spec.whatwg.org/#script-closable",
             "https://html.spec.whatwg.org/#downloading-hyperlinks",
             "https://html.spec.whatwg.org/#cannot-show-simple-dialogs",
@@ -46663,7 +46666,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "31 August 2022",
+      "date": "1 September 2022",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
