@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 02, 2022
+% September 03, 2022
 
 483 specifications were crawled in this report.
 
@@ -2078,6 +2078,7 @@ Links in the body of a specification should be to the same document as that poin
      * [`https://www.w3.org/TR/css-text-3/#word-separator`](https://www.w3.org/TR/css-text-3/#word-separator)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/):
+     * [`https://drafts.csswg.org/css-text-4/#word-separator`](https://drafts.csswg.org/css-text-4/#word-separator)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://www.w3.org/TR/css-backgrounds-3/#spread-distance`](https://www.w3.org/TR/css-backgrounds-3/#spread-distance)
      * [`https://www.w3.org/TR/css-text-3/#word-separator`](https://www.w3.org/TR/css-text-3/#word-separator)
@@ -2965,7 +2966,7 @@ Links in the body of a specification should be to the same document as that poin
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/):
      * [`https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm`](https://w3c.github.io/DOM-Parsing/#dfn-fragment-serializing-algorithm)
 
-=> 985 problematic external links found in 214 specifications
+=> 986 problematic external links found in 214 specifications
 
 
 ## External links that neither target definitions nor headings

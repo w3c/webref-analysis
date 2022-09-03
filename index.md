@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 02, 2022
+% September 03, 2022
 
 # Ecma International {#ecma_international}
 
@@ -575,7 +575,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -607,7 +607,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -702,7 +702,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1312,7 +1312,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1335,7 +1335,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1393,7 +1393,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1438,7 +1438,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1473,7 +1473,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1503,7 +1503,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 2 September 2022
+- Crawled version: 3 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -5570,7 +5570,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
-- Crawled version: 4 August 2022
+- Crawled version: 2 September 2022
 - Editor's Draft: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
 - Latest published version: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Shortname: css-contain-2
@@ -7613,7 +7613,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
-- Crawled version: 1 September 2022
+- Crawled version: 2 September 2022
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
 - Latest published version: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Shortname: css-overflow-3
@@ -8971,7 +8971,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
-- Crawled version: 24 August 2022
+- Crawled version: 2 September 2022
 - Editor's Draft: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
 - Shortname: css-text-decor-4
@@ -8994,6 +8994,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/), related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
      * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
 - External links to private terms:
+     * [`https://drafts.csswg.org/css-text-4/#word-separator`](https://drafts.csswg.org/css-text-4/#word-separator)
      * [`https://www.w3.org/TR/css-cascade/#applies-to`](https://www.w3.org/TR/css-cascade/#applies-to)
      * [`https://www.w3.org/TR/css-backgrounds-3/#spread-distance`](https://www.w3.org/TR/css-backgrounds-3/#spread-distance)
      * [`https://www.w3.org/TR/css-text-3/#word-separator`](https://www.w3.org/TR/css-text-3/#word-separator)
@@ -9514,7 +9515,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-values-3/](https://www.w3.org/TR/css-values-3/)
 - Crawled URL: [https://drafts.csswg.org/css-values-3/](https://drafts.csswg.org/css-values-3/)
-- Crawled version: 8 July 2022
+- Crawled version: 2 September 2022
 - Editor's Draft: [https://drafts.csswg.org/css-values-3/](https://drafts.csswg.org/css-values-3/)
 - Latest published version: [https://www.w3.org/TR/css-values-3/](https://www.w3.org/TR/css-values-3/)
 - Shortname: css-values-3
@@ -9647,7 +9648,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 8 August 2022
+- Crawled version: 2 September 2022
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -11590,7 +11591,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 1 September 2022
+- Crawled version: 2 September 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -11674,7 +11675,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 1 September 2022
+- Crawled version: 2 September 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL

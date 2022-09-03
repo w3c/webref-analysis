@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-02T18:40:22.094Z",
+  "date": "2022-09-03T00:50:18.783Z",
   "stats": {
     "crawled": 483,
     "errors": 0,
@@ -9107,7 +9107,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "4 August 2022",
+      "date": "2 September 2022",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -15054,7 +15054,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "1 September 2022",
+      "date": "2 September 2022",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -18903,7 +18903,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "24 August 2022",
+      "date": "2 September 2022",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -19086,6 +19086,7 @@
         },
         "xrefs": {
           "notExported": [
+            "https://drafts.csswg.org/css-text-4/#word-separator",
             "https://www.w3.org/TR/css-cascade/#applies-to",
             "https://www.w3.org/TR/css-backgrounds-3/#spread-distance",
             "https://www.w3.org/TR/css-text-3/#word-separator",
@@ -20498,7 +20499,7 @@
     {
       "title": "CSS Values and Units Module Level 3",
       "shortname": "css-values-3",
-      "date": "8 July 2022",
+      "date": "2 September 2022",
       "url": "https://www.w3.org/TR/css-values-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-3/",
@@ -21040,7 +21041,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "8 August 2022",
+      "date": "2 September 2022",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -42531,7 +42532,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -42611,7 +42612,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42863,7 +42864,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42977,7 +42978,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -43061,7 +43062,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -43871,7 +43872,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43909,7 +43910,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -44118,7 +44119,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -44487,7 +44488,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "2 September 2022",
+      "date": "3 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -56738,7 +56739,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "1 September 2022",
+      "date": "2 September 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -56869,7 +56870,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "1 September 2022",
+      "date": "2 September 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
