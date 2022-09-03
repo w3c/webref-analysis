@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-03T06:41:36.716Z",
+  "date": "2022-09-03T12:46:45.447Z",
   "stats": {
     "crawled": 483,
     "errors": 0,
@@ -53897,7 +53897,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "31 August 2022",
+      "date": "3 September 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
