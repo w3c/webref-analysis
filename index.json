@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-06T00:50:11.867Z",
+  "date": "2022-09-06T06:52:04.415Z",
   "stats": {
     "crawled": 483,
     "errors": 0,
@@ -3518,7 +3518,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "5 September 2022",
+      "date": "6 September 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -9017,7 +9017,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "2 September 2022",
+      "date": "5 September 2022",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -47516,7 +47516,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "14 August 2022",
+      "date": "5 September 2022",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
