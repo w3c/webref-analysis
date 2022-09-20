@@ -2,9 +2,9 @@
 % Strudy
 % September 20, 2022
 
-# Ecma International {#ecma_international}
+# Ecma International {#org-ecma_international}
 
-## TC39 {#tc39}
+## TC39 {#group-tc39}
 
 ### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
@@ -558,9 +558,9 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-# IETF {#ietf}
+# IETF {#org-ietf}
 
-## ART Area General Application Working Group Working Group {#art_area_general_application_working_group_working_group}
+## ART Area General Application Working Group Working Group {#group-art_area_general_application_working_group_working_group}
 
 ### RFC 7578: Returning Values from Forms: multipart/form-data {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -590,7 +590,7 @@ Informative references to this spec from:
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
-## Applications Area Working Group APP Working Group {#applications_area_working_group_app_working_group}
+## Applications Area Working Group APP Working Group {#group-applications_area_working_group_app_working_group}
 
 ### RFC 7239: Forwarded HTTP Extension {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
@@ -613,7 +613,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## HTTP State Management Mechanism Working Group {#http_state_management_mechanism_working_group}
+## HTTP State Management Mechanism Working Group {#group-http_state_management_mechanism_working_group}
 
 ### RFC 6265 - HTTP State Management Mechanism {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -662,7 +662,7 @@ Informative references to this spec from:
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 
 
-## HTTP Working Group {#http_working_group}
+## HTTP Working Group {#group-http_working_group}
 
 ### Cookies: HTTP State Management Mechanism {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -826,7 +826,7 @@ Informative references to this spec from:
 - [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 
 
-## Hypertext Transfer Protocol Authentication Working Group {#hypertext_transfer_protocol_authentication_working_group}
+## Hypertext Transfer Protocol Authentication Working Group {#group-hypertext_transfer_protocol_authentication_working_group}
 
 ### RFC 7616 - HTTP Digest Access Authentication {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -876,7 +876,7 @@ Informative references to this spec from:
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
-## Hypertext Transfer Protocol Bis APP Working Group {#hypertext_transfer_protocol_bis_app_working_group}
+## Hypertext Transfer Protocol Bis APP Working Group {#group-hypertext_transfer_protocol_bis_app_working_group}
 
 ### RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP) {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -1191,7 +1191,7 @@ Informative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
-## Hypertext Transfer Protocol Bis Working Group {#hypertext_transfer_protocol_bis_working_group}
+## Hypertext Transfer Protocol Bis Working Group {#group-hypertext_transfer_protocol_bis_working_group}
 
 ### RFC 7725 - An HTTP Status Code to Report Legal Obstacles {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -1289,7 +1289,7 @@ Informative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 
 
-## Kerberos WG Working Group {#kerberos_wg_working_group}
+## Kerberos WG Working Group {#group-kerberos_wg_working_group}
 
 ### RFC 4120: The Kerberos Network Authentication Service (V5) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
@@ -1312,7 +1312,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Network Working Group {#network_working_group}
+## Network Working Group {#group-network_working_group}
 
 ### RFC 2397: The "data" URL scheme {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
@@ -1345,7 +1345,7 @@ Informative references to this spec from:
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 
 
-## QUIC Working Group {#quic_working_group}
+## QUIC Working Group {#group-quic_working_group}
 
 ### RFC 9114 - HTTP/3 {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -1370,7 +1370,7 @@ Informative references to this spec from:
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
-## Web Security Working Group {#web_security_working_group}
+## Web Security Working Group {#group-web_security_working_group}
 
 ### RFC 6454: The Web Origin Concept {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -1499,9 +1499,9 @@ Informative references to this spec from:
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 
 
-# Khronos Group {#khronos_group}
+# Khronos Group {#org-khronos_group}
 
-## WebGL Working Group {#webgl_working_group}
+## WebGL Working Group {#group-webgl_working_group}
 
 ### WebGL 2.0 Specification {data-spec=true data-anomaly=true data-missingDfns=true}
 
@@ -2425,9 +2425,9 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-# W3C {#w3c}
+# W3C {#org-w3c}
 
-## Accessible Rich Internet Applications Working Group {#accessible_rich_internet_applications_working_group}
+## Accessible Rich Internet Applications Working Group {#group-accessible_rich_internet_applications_working_group}
 
 ### Accessible Name and Description Computation 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -2657,7 +2657,7 @@ Informative references to this spec from:
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 
 
-## Advisory Board {#advisory_board}
+## Advisory Board {#group-advisory_board}
 
 ### W3C Process Document {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -2683,7 +2683,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Audio Working Group {#audio_working_group}
+## Audio Working Group {#group-audio_working_group}
 
 ### Web Audio API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -2745,7 +2745,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Browser Testing and Tools Working Group {#browser_testing_and_tools_working_group}
+## Browser Testing and Tools Working Group {#group-browser_testing_and_tools_working_group}
 
 ### WebDriver {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -2809,7 +2809,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Cascading Style Sheets (CSS) Working Group {#cascading_style_sheets_css_working_group}
+## Cascading Style Sheets (CSS) Working Group {#group-cascading_style_sheets_css_working_group}
 
 ### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -7931,7 +7931,7 @@ Informative references to this spec from:
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 
 
-## Devices and Sensors Working Group {#devices_and_sensors_working_group}
+## Devices and Sensors Working Group {#group-devices_and_sensors_working_group}
 
 ### Accelerometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -8344,7 +8344,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## EPUB 3 Working Group {#epub_3_working_group}
+## EPUB 3 Working Group {#group-epub_3_working_group}
 
 ### EPUB 3.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -8397,7 +8397,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## GPU for the Web Working Group {#gpu_for_the_web_working_group}
+## GPU for the Web Working Group {#group-gpu_for_the_web_working_group}
 
 ### WebGPU {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -8451,7 +8451,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## HTML Media Extensions Working Group {#html_media_extensions_working_group}
+## HTML Media Extensions Working Group {#group-html_media_extensions_working_group}
 
 ### Encrypted Media Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -8486,7 +8486,7 @@ Informative references to this spec from:
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 
-## Immersive Web Community Group {#immersive_web_community_group}
+## Immersive Web Community Group {#group-immersive_web_community_group}
 
 ### The <model> element {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -8531,7 +8531,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Immersive Web Working Group {#immersive_web_working_group}
+## Immersive Web Working Group {#group-immersive_web_working_group}
 
 ### WebXR Anchors Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -8794,7 +8794,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Internationalization Working Group {#internationalization_working_group}
+## Internationalization Working Group {#group-internationalization_working_group}
 
 ### Encoding Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -8881,7 +8881,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## JSON-LD Working Group {#json_ld_working_group}
+## JSON-LD Working Group {#group-json_ld_working_group}
 
 ### JSON-LD 1.1 {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -8960,7 +8960,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Math Working Group {#math_working_group}
+## Math Working Group {#group-math_working_group}
 
 ### MathML Core {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -8989,7 +8989,7 @@ Informative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 
 
-## Media Working Group {#media_working_group}
+## Media Working Group {#group-media_working_group}
 
 ### Autoplay Policy Detection {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -9183,7 +9183,7 @@ Informative references to this spec from:
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
 
 
-## MiniApps Working Group {#miniapps_working_group}
+## MiniApps Working Group {#group-miniapps_working_group}
 
 ### MiniApp Lifecycle {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -9264,7 +9264,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Patents and Standards Interest Group {#patents_and_standards_interest_group}
+## Patents and Standards Interest Group {#group-patents_and_standards_interest_group}
 
 ### W3C Patent Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -9290,7 +9290,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Pointer Events Working Group {#pointer_events_working_group}
+## Pointer Events Working Group {#group-pointer_events_working_group}
 
 ### Pointer Events {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -9322,7 +9322,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Portable Network Graphics (PNG) Working Group {#portable_network_graphics_png_working_group}
+## Portable Network Graphics (PNG) Working Group {#group-portable_network_graphics_png_working_group}
 
 ### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -9353,7 +9353,7 @@ Informative references to this spec from:
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 
 
-## Privacy Community Group {#privacy_community_group}
+## Privacy Community Group {#group-privacy_community_group}
 
 ### Private Click Measurement {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -9398,7 +9398,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Privacy Interest Group {#privacy_interest_group}
+## Privacy Interest Group {#group-privacy_interest_group}
 
 ### Mitigating Browser Fingerprinting in Web Specifications {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
@@ -9431,7 +9431,7 @@ Informative references to this spec from:
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
 
-## SVG Working Group {#svg_working_group}
+## SVG Working Group {#group-svg_working_group}
 
 ### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -9858,7 +9858,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Second Screen Working Group {#second_screen_working_group}
+## Second Screen Working Group {#group-second_screen_working_group}
 
 ### Multi-Screen Window Placement {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -9959,7 +9959,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Service Workers Working Group {#service_workers_working_group}
+## Service Workers Working Group {#group-service_workers_working_group}
 
 ### Service Workers Nightly {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -10015,7 +10015,7 @@ Informative references to this spec from:
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 
 
-## Technical Architecture Group {#technical_architecture_group}
+## Technical Architecture Group {#group-technical_architecture_group}
 
 ### CSS Properties and Values API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -10082,7 +10082,7 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 
 
-## Timed Text Working Group {#timed_text_working_group}
+## Timed Text Working Group {#group-timed_text_working_group}
 
 ### WebVTT: The Web Video Text Tracks Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -10111,7 +10111,7 @@ Informative references to this spec from:
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 
 
-## Tracking Protection Working Group {#tracking_protection_working_group}
+## Tracking Protection Working Group {#group-tracking_protection_working_group}
 
 ### Tracking Preference Expression (DNT) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -10138,7 +10138,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-## W3C Process Community Group  {#w3c_process_community_group_}
+## W3C Process Community Group  {#group-w3c_process_community_group_}
 
 ### W3C Process Document {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -10164,7 +10164,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Web Application Security Working Group {#web_application_security_working_group}
+## Web Application Security Working Group {#group-web_application_security_working_group}
 
 ### A Well-Known URL for Changing Passwords {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -10699,7 +10699,7 @@ Informative references to this spec from:
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 
 
-## Web Applications Working Group {#web_applications_working_group}
+## Web Applications Working Group {#group-web_applications_working_group}
 
 ### ARIA in HTML {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -11274,7 +11274,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Web Authentication Working Group {#web_authentication_working_group}
+## Web Authentication Working Group {#group-web_authentication_working_group}
 
 ### Web Authentication: An API for accessing Public Key Credentials - Level {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -11306,7 +11306,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Web Bluetooth Community Group {#web_bluetooth_community_group}
+## Web Bluetooth Community Group {#group-web_bluetooth_community_group}
 
 ### Web Bluetooth {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -11339,7 +11339,7 @@ Informative references to this spec from:
 - [Web Serial API](https://wicg.github.io/serial/)
 
 
-## Web Cryptography Working Group {#web_cryptography_working_group}
+## Web Cryptography Working Group {#group-web_cryptography_working_group}
 
 ### Web Cryptography API {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -11371,7 +11371,7 @@ Informative references to this spec from:
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 
-## Web Editing Working Group {#web_editing_working_group}
+## Web Editing Working Group {#group-web_editing_working_group}
 
 ### EditContext API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -11421,7 +11421,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Web Events Working Group {#web_events_working_group}
+## Web Events Working Group {#group-web_events_working_group}
 
 ### Touch Events - Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -11454,7 +11454,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Web Fonts Working Group {#web_fonts_working_group}
+## Web Fonts Working Group {#group-web_fonts_working_group}
 
 ### Incremental Font Transfer {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -11534,7 +11534,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Web Machine Learning Working Group {#web_machine_learning_working_group}
+## Web Machine Learning Working Group {#group-web_machine_learning_working_group}
 
 ### Web Neural Network API {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -11558,7 +11558,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Web NFC Community Group {#web_nfc_community_group}
+## Web NFC Community Group {#group-web_nfc_community_group}
 
 ### Web NFC {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -11585,7 +11585,7 @@ Informative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
-## Web Payments Working Group {#web_payments_working_group}
+## Web Payments Working Group {#group-web_payments_working_group}
 
 ### Payment Handler API {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -11723,7 +11723,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Web Performance Working Group {#web_performance_working_group}
+## Web Performance Working Group {#group-web_performance_working_group}
 
 ### Beacon {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -12251,7 +12251,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## Web Platform Incubator Community Group {#web_platform_incubator_community_group}
+## Web Platform Incubator Community Group {#group-web_platform_incubator_community_group}
 
 ### Accelerated Shape Detection in Images {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -14000,7 +14000,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Web Platform Working Group {#web_platform_working_group}
+## Web Platform Working Group {#group-web_platform_working_group}
 
 ### DOM Parsing and Serialization {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -14088,7 +14088,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## Web Real-Time Communications Working Group {#web_real_time_communications_working_group}
+## Web Real-Time Communications Working Group {#group-web_real_time_communications_working_group}
 
 ### Audio Output Devices API {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -14638,7 +14638,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-## WebAssembly Community Group {#webassembly_community_group}
+## WebAssembly Community Group {#group-webassembly_community_group}
 
 ### WebAssembly JavaScript Interface: Exception Handling {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -14664,7 +14664,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## WebAssembly Working Group {#webassembly_working_group}
+## WebAssembly Working Group {#group-webassembly_working_group}
 
 ### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -14747,7 +14747,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## WebTransport Working Group {#webtransport_working_group}
+## WebTransport Working Group {#group-webtransport_working_group}
 
 ### WebTransport {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -14774,9 +14774,9 @@ Informative references to this spec from:
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 
 
-# WHATWG {#whatwg}
+# WHATWG {#org-whatwg}
 
-## Compatibility Workstream {#compatibility_workstream}
+## Compatibility Workstream {#group-compatibility_workstream}
 
 ### Compatibility Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -14809,7 +14809,7 @@ Informative references to this spec from:
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 
 
-## Console Workstream {#console_workstream}
+## Console Workstream {#group-console_workstream}
 
 ### Console Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -14839,7 +14839,7 @@ Informative references to this spec from:
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 
 
-## DOM Workstream {#dom_workstream}
+## DOM Workstream {#group-dom_workstream}
 
 ### DOM Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -15069,7 +15069,7 @@ Informative references to this spec from:
 - [Web Share API](https://w3c.github.io/web-share/)
 
 
-## Fetch Workstream {#fetch_workstream}
+## Fetch Workstream {#group-fetch_workstream}
 
 ### Fetch Standard {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -15183,7 +15183,7 @@ Informative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
-## Fullscreen API Workstream {#fullscreen_api_workstream}
+## Fullscreen API Workstream {#group-fullscreen_api_workstream}
 
 ### Fullscreen API Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -15229,7 +15229,7 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
 
-## HTML Workstream {#html_workstream}
+## HTML Workstream {#group-html_workstream}
 
 ### HTML Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -15586,7 +15586,7 @@ Informative references to this spec from:
 - [Streams Standard](https://streams.spec.whatwg.org/)
 
 
-## Infra Workstream {#infra_workstream}
+## Infra Workstream {#group-infra_workstream}
 
 ### Infra Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -15802,7 +15802,7 @@ Informative references to this spec from:
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 
 
-## MIME Sniffing Workstream {#mime_sniffing_workstream}
+## MIME Sniffing Workstream {#group-mime_sniffing_workstream}
 
 ### MIME Sniffing Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -15851,7 +15851,7 @@ Informative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
-## Notifications API Workstream {#notifications_api_workstream}
+## Notifications API Workstream {#group-notifications_api_workstream}
 
 ### Notifications API Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -15881,7 +15881,7 @@ Informative references to this spec from:
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
 
 
-## Quirks Mode Workstream {#quirks_mode_workstream}
+## Quirks Mode Workstream {#group-quirks_mode_workstream}
 
 ### Quirks Mode Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
@@ -15912,7 +15912,7 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
 
-## Storage Workstream {#storage_workstream}
+## Storage Workstream {#group-storage_workstream}
 
 ### File System Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -15968,7 +15968,7 @@ Informative references to this spec from:
 - [Web Locks API](https://w3c.github.io/web-locks/)
 
 
-## Streams Workstream {#streams_workstream}
+## Streams Workstream {#group-streams_workstream}
 
 ### Streams Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -16010,7 +16010,7 @@ Informative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
-## Test Utils Workstream {#test_utils_workstream}
+## Test Utils Workstream {#group-test_utils_workstream}
 
 ### Test Utils Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -16033,7 +16033,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-## URL Workstream {#url_workstream}
+## URL Workstream {#group-url_workstream}
 
 ### URL Standard {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -16143,7 +16143,7 @@ Informative references to this spec from:
 - [WebOTP API](https://wicg.github.io/web-otp/)
 
 
-## Web IDL Workstream {#web_idl_workstream}
+## Web IDL Workstream {#group-web_idl_workstream}
 
 ### Web IDL Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -16386,7 +16386,7 @@ Informative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
-## XMLHttpRequest Workstream {#xmlhttprequest_workstream}
+## XMLHttpRequest Workstream {#group-xmlhttprequest_workstream}
 
 ### XMLHttpRequest Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
@@ -16424,9 +16424,9 @@ Informative references to this spec from:
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 
 
-# sourcemaps.info {#sourcemaps_info}
+# sourcemaps.info {#org-sourcemaps_info}
 
-## sourcemaps.info {#sourcemaps_info}
+## sourcemaps.info {#group-sourcemaps_info}
 
 ### Source Map Revision 3 Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
