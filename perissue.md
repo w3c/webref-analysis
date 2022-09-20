@@ -1,0 +1,1712 @@
+% Reffy crawl
+% Strudy
+% September 20, 2022
+
+484 specifications were crawled in this report.
+
+
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/): `Error: Loading https://drafts.csswg.org/css-device-adapt-1/ triggered HTTP status 404 Error: Loading https://drafts.csswg.org/css-device-adapt-1/ triggered HTTP status 404
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 273)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+=> 1 specification found
+
+
+## Specifications without normative dependencies
+
+- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
+- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
+- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
+- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
+- [Array Grouping](https://tc39.es/proposal-array-grouping/)
+- [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
+- [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
+- [Decorators proposal](https://tc39.es/proposal-decorators/)
+- [ECMAScript® 2023 Internationalization API Specification](https://tc39.es/ecma402/)
+- [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/)
+- [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)
+- [import assertions](https://tc39.es/proposal-import-assertions/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
+- [Intl Enumeration API Specification](https://tc39.es/proposal-intl-enumeration/)
+- [Intl Locale Info Proposal](https://tc39.es/proposal-intl-locale-info/)
+- [Intl.DurationFormat](https://tc39.es/proposal-intl-duration-format/)
+- [JSON modules](https://tc39.es/proposal-json-modules/)
+- [JSON.parse source text access](https://tc39.es/proposal-json-parse-with-source/)
+- [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Proposal-array-find-from-last](https://tc39.es/proposal-array-find-from-last/)
+- [Resizable ArrayBuffer and growable SharedArrayBuffer](https://tc39.es/proposal-resizablearraybuffer/)
+- [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
+- [RFC 4120: The Kerberos Network Authentication Service (V5)](https://www.rfc-editor.org/rfc/rfc4120)
+- [RFC 6454: The Web Origin Concept](https://www.rfc-editor.org/rfc/rfc6454)
+- [RFC 6797: HTTP Strict Transport Security (HSTS)](https://www.rfc-editor.org/rfc/rfc6797)
+- [RFC 7034: HTTP Header Field X-Frame-Options](https://www.rfc-editor.org/rfc/rfc7034)
+- [RFC 7239: Forwarded HTTP Extension](https://www.rfc-editor.org/rfc/rfc7239)
+- [RFC 7469: Public Key Pinning Extension for HTTP](https://www.rfc-editor.org/rfc/rfc7469)
+- [RFC 7578: Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578)
+- [ShadowRealm API](https://tc39.es/proposal-shadowrealm/)
+- [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html)
+- [Symbol as WeakMap Keys Proposal](https://tc39.es/proposal-symbols-as-weakmap-keys/)
+- [Temporal proposal](https://tc39.es/proposal-temporal/)
+- [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
+- [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
+- [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
+- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
+- [WebGL EXT_color_buffer_float Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
+- [WebGL EXT_color_buffer_half_float Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
+- [WebGL EXT_disjoint_timer_query Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
+- [WebGL EXT_disjoint_timer_query_webgl2 Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
+- [WebGL EXT_float_blend Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
+- [WebGL EXT_frag_depth Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
+- [WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
+- [WebGL EXT_sRGB Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
+- [WebGL EXT_texture_compression_bptc Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
+- [WebGL EXT_texture_compression_rgtc Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
+- [WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
+- [WebGL EXT_texture_norm16 Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
+- [WebGL KHR_parallel_shader_compile Extension Specification](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
+- [WebGL OES_draw_buffers_indexed Extension Specification](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
+- [WebGL OES_element_index_uint Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
+- [WebGL OES_fbo_render_mipmap Extension Specification](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
+- [WebGL OES_standard_derivatives Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
+- [WebGL OES_texture_float Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
+- [WebGL OES_texture_float_linear Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
+- [WebGL OES_texture_half_float Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
+- [WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
+- [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
+- [WebGL OVR_multiview2 Extension Specification](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
+- [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
+- [WebGL WEBGL_color_buffer_float Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
+- [WebGL WEBGL_compressed_texture_astc Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
+- [WebGL WEBGL_compressed_texture_etc Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
+- [WebGL WEBGL_compressed_texture_etc1 Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
+- [WebGL WEBGL_compressed_texture_pvrtc Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
+- [WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
+- [WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
+- [WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
+- [WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
+- [WebGL WEBGL_depth_texture Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
+- [WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
+- [WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
+- [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
+- [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
+- [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+
+=> 77 specifications found
+
+Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
+
+
+## List of specifications with invalid WebIDL content
+
+
+=> 0 specification found
+
+
+## List of specifications with obsolete WebIDL constructs
+
+
+=> 0 specification found
+
+
+## Specifications that use WebIDL but do not reference the WebIDL spec
+
+
+=> 0 specification found
+
+
+## List of [Exposed] names not defined in the specifications crawled
+
+
+=> 0 [Exposed] name found
+
+
+## List of WebIDL names not defined in the specifications crawled
+
+
+=> 0 WebIDL name found
+
+
+## List of WebIDL names defined in more than one spec
+
+
+=> 0 WebIDL name found
+
+
+## Missing references for WebIDL names
+
+
+=> 0 missing reference for IDL definitions found in 0 specification
+
+
+## No definition for CSS properties
+
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
+    * `<feature-value-block>`
+    * `<font-feature-value-type>`
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/):
+    * `<keyframe-selector>`
+
+=> 3 properties without definition found in 2 specifications
+
+
+## No definition for IDL properties
+
+
+=> 0 property without definition found in 0 specification
+
+
+## Possibly no definition for CSS properties
+
+
+=> 0 property without definition found in 0 specification
+
+
+## Possibly no definition for IDL properties
+
+
+=> 0 property without definition found in 0 specification
+
+
+## Missing references based on document links
+
+- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/) links to [`https://w3c.github.io/mediacapture-image/`](https://w3c.github.io/mediacapture-image/) but does not list it in its references
+- [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html) links to [`https://w3c.github.io/mediacapture-image/`](https://w3c.github.io/mediacapture-image/) but does not list it in its references
+- [Accelerometer](https://w3c.github.io/accelerometer/) links to:
+    * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
+    * [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html) but does not list it in its references
+    * [`https://www.w3.org/TR/motion-sensors/`](https://www.w3.org/TR/motion-sensors/) but does not list it in its references
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/) links to:
+    * [`https://www.w3.org/TR/html-aam-1.0/`](https://www.w3.org/TR/html-aam-1.0/) but does not list it in its references
+    * [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/) but does not list it in its references
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/) links to:
+    * [`https://w3c.github.io/aria-practices/`](https://w3c.github.io/aria-practices/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but does not list it in its references
+- [Background Fetch](https://wicg.github.io/background-fetch/) links to:
+    * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html) links to:
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but does not list it in its references
+    * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/) links to [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/) but does not list it in its references
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/) links to:
+    * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/) but does not list it in its references
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+- [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/) links to:
+    * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but does not list it in its references
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/) links to:
+    * [`http://w3c.github.io/editing/contentEditable.html`](http://w3c.github.io/editing/contentEditable.html) but does not list it in its references
+    * [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/) but does not list it in its references
+- [Compatibility Standard](https://compat.spec.whatwg.org/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/) links to:
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/) links to:
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/) links to:
+    * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/) but does not list it in its references
+    * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
+- [Content Index](https://wicg.github.io/content-index/spec/) links to:
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/) but does not list it in its references
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/) links to [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/) but does not list it in its references
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to:
+    * [`http://www.w3.org/TR/wai-aria-implementation/`](http://www.w3.org/TR/wai-aria-implementation/) but does not list it in its references
+    * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/) links to:
+    * [`http://w3c.github.io/html/infrastructure.html`](http://w3c.github.io/html/infrastructure.html) but does not list it in its references
+    * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/) but does not list it in its references
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/) links to:
+    * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3) but does not list it in its references
+    * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-background-20120417/`](https://www.w3.org/TR/2012/CR-css3-background-20120417/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-background-20120724/`](https://www.w3.org/TR/2012/CR-css3-background-20120724/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/CR-css3-background-20140909/`](https://www.w3.org/TR/2014/CR-css3-background-20140909/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/WD-css3-background-20140204/`](https://www.w3.org/TR/2014/WD-css3-background-20140204/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/) links to:
+    * [`https://w3c.github.io/contentEditable/`](https://w3c.github.io/contentEditable/) but does not list it in its references
+    * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/) links to:
+    * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-grid/`](http://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`http://www.w3.org/TR/css3-multicol/`](http://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
+    * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/) links to:
+    * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to:
+    * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css2/box.html`](https://www.w3.org/TR/css2/box.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/) links to:
+    * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/) links to:
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/) links to:
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/) links to:
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/) links to:
+    * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/) but does not list it in its references
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/) links to [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/) but does not list it in its references
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/) links to [`https://www.w3.org/TR/predefined-counter-styles/`](https://www.w3.org/TR/predefined-counter-styles/) but does not list it in its references
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-box/`](https://www.w3.org/TR/css3-box/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to:
+    * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/`](https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-speech/`](https://www.w3.org/TR/css-speech/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-align/`](https://www.w3.org/TR/css3-align/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
+    * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/) links to:
+    * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/) links to:
+    * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2015/WD-css3-break-20150129/`](https://www.w3.org/TR/2015/WD-css3-break-20150129/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/) links to:
+    * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/) links to:
+    * [`http://books.spec.whatwg.org/`](http://books.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/`](https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
+    * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/) but does not list it in its references
+    * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/) links to:
+    * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/) links to:
+    * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/) links to:
+    * [`https://html.spec.whatwg.org/multipage/canvas.html`](https://html.spec.whatwg.org/multipage/canvas.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but does not list it in its references
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/) links to:
+    * [`http://www.w3.org/TR/css-writing-modes/`](http://www.w3.org/TR/css-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/) links to:
+    * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/) links to:
+    * [`https://www.w3.org/TR/2011/CR-css3-multicol-20110412/`](https://www.w3.org/TR/2011/CR-css3-multicol-20110412/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol`](https://www.w3.org/TR/css3-multicol) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/) links to [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/) but does not list it in its references
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/) links to:
+    * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/) links to:
+    * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/) but does not list it in its references
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-regions-20120503/`](https://www.w3.org/TR/2012/WD-css3-regions-20120503/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-regions-20120823/`](https://www.w3.org/TR/2012/WD-css3-regions-20120823/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css3-regions-20130528/`](https://www.w3.org/TR/2013/WD-css3-regions-20130528/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/WD-css3-regions-20140218/`](https://www.w3.org/TR/2014/WD-css3-regions-20140218/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/) links to:
+    * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-text/`](https://www.w3.org/TR/css3-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/simple-ruby/`](https://www.w3.org/TR/simple-ruby/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/) links to:
+    * [`https://w3c.github.io/editing/docs/execCommand/index.html`](https://w3c.github.io/editing/docs/execCommand/index.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/) links to:
+    * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/html5/infrastructure.html`](https://www.w3.org/TR/html5/infrastructure.html) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/) links to:
+    * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/) links to:
+    * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to:
+    * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/) links to:
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/) links to:
+    * [`http://www.w3.org/TR/css-display-3/`](http://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/html5/tabular-data.html`](https://www.w3.org/TR/html5/tabular-data.html) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/) links to:
+    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512) but does not list it in its references
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/) links to:
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to:
+    * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/) links to:
+    * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/) links to:
+    * [`https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/`](https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/) but does not list it in its references
+    * [`https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/`](https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-animations/`](https://www.w3.org/TR/css3-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/) links to:
+    * [`http://w3c.github.io/dom/`](http://w3c.github.io/dom/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to:
+    * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
+    * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/) but does not list it in its references
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/) links to:
+    * [`http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/`](http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/) links to:
+    * [`https://compat.spec.whatwg.org/`](https://compat.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
+- [Digital Goods API](https://wicg.github.io/digital-goods/) links to [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
+- [DOM Standard](https://dom.spec.whatwg.org/) links to:
+    * [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/) but does not list it in its references
+- [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/) links to:
+    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+    * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html) but does not list it in its references
+- [EditContext API](https://w3c.github.io/edit-context/) links to:
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/) links to [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/) links to:
+    * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
+- [Event Timing API](https://w3c.github.io/event-timing) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
+- [File API](https://w3c.github.io/FileAPI/) links to [`http://w3c.github.io/media-source/`](http://w3c.github.io/media-source/) but does not list it in its references
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
+    * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/) links to:
+    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/) links to:
+    * [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/) but does not list it in its references
+    * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
+- [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but does not list it in its references
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to:
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+    * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but does not list it in its references
+    * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
+- [Gyroscope](https://w3c.github.io/gyroscope/) links to [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
+    * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/) but does not list it in its references
+    * [`https://w3c.github.io/mathml-aam/`](https://w3c.github.io/mathml-aam/) but does not list it in its references
+    * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) links to:
+    * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but does not list it in its references
+    * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
+- [HTML Standard](https://html.spec.whatwg.org/multipage/) links to:
+    * [`https://spec.whatwg.org/`](https://spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/) links to [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
+- [import assertions](https://tc39.es/proposal-import-assertions/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to:
+    * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/) but does not list it in its references
+    * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/) but does not list it in its references
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/) links to:
+    * [`http://www.w3.org/TR/css-masking-1/`](http://www.w3.org/TR/css-masking-1/) but does not list it in its references
+    * [`http://www.w3.org/TR/hr-time/`](http://www.w3.org/TR/hr-time/) but does not list it in its references
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/) links to [`https://w3c.github.io/webappsec-permissions-policy/document-policy.html`](https://w3c.github.io/webappsec-permissions-policy/document-policy.html) but does not list it in its references
+- [Layout Instability API](https://wicg.github.io/layout-instability/) links to:
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
+    * [`https://www.w3.org/TR/pointerevents/`](https://www.w3.org/TR/pointerevents/) but does not list it in its references
+    * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but does not list it in its references
+- [Magnetometer](https://w3c.github.io/magnetometer/) links to [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
+- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+- [MathML Core](https://w3c.github.io/mathml-core/) links to:
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Media Capabilities](https://w3c.github.io/media-capabilities/) links to [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/) but does not list it in its references
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/) links to:
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+- [Media Source Extensions™](https://w3c.github.io/media-source/) links to:
+    * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/) but does not list it in its references
+    * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/) but does not list it in its references
+- [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/) links to [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/) but does not list it in its references
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/) links to:
+    * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but does not list it in its references
+    * [`https://www.w3.org/TR/webrtc-identity/`](https://www.w3.org/TR/webrtc-identity/) but does not list it in its references
+- [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/) links to:
+    * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
+    * [`https://www.w3.org/TR/mini-app-white-paper/`](https://www.w3.org/TR/mini-app-white-paper/) but does not list it in its references
+    * [`https://www.w3.org/TR/miniapp-manifest/`](https://www.w3.org/TR/miniapp-manifest/) but does not list it in its references
+    * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/) but does not list it in its references
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/) links to:
+    * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
+    * [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/) but does not list it in its references
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
+    * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Network Information API](https://wicg.github.io/netinfo/) links to:
+    * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/) but does not list it in its references
+    * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/) links to:
+    * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
+    * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/) but does not list it in its references
+- [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/) links to:
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/) links to:
+    * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/) but does not list it in its references
+    * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
+- [Paint Timing 1](https://w3c.github.io/paint-timing/) links to:
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view) but does not list it in its references
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/) links to [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/) but does not list it in its references
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
+    * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
+- [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html) links to:
+    * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/) but does not list it in its references
+    * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/) links to [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
+- [Region Capture](https://w3c.github.io/mediacapture-region/) links to [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/) but does not list it in its references
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/) links to:
+    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-positioning/`](https://www.w3.org/TR/css3-positioning/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/) but does not list it in its references
+- [Resource Hints](https://w3c.github.io/resource-hints/) links to:
+    * [`http://w3c.github.io/page-visibility/`](http://w3c.github.io/page-visibility/) but does not list it in its references
+    * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
+    * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec/specs/CSP2/`](https://w3c.github.io/webappsec/specs/CSP2/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/) but does not list it in its references
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/) links to [`https://www.w3.org/TR/respimg-usecases/`](https://www.w3.org/TR/respimg-usecases/) but does not list it in its references
+- [RFC 6454: The Web Origin Concept](https://www.rfc-editor.org/rfc/rfc6454) links to:
+    * [`http://www.w3.org/TR/2010/WD-cors-20100727/`](http://www.w3.org/TR/2010/WD-cors-20100727/) but does not list it in its references
+    * [`http://www.w3.org/TR/2011/WD-html5-20110525/`](http://www.w3.org/TR/2011/WD-html5-20110525/) but does not list it in its references
+    * [`http://www.w3.org/TR/cors/`](http://www.w3.org/TR/cors/) but does not list it in its references
+    * [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/) but does not list it in its references
+- [RFC 6797: HTTP Strict Transport Security (HSTS)](https://www.rfc-editor.org/rfc/rfc6797) links to:
+    * [`http://www.w3.org/TR/1999/REC-html401-19991224/`](http://www.w3.org/TR/1999/REC-html401-19991224/) but does not list it in its references
+    * [`http://www.w3.org/TR/2010/REC-wsc-ui-20100812`](http://www.w3.org/TR/2010/REC-wsc-ui-20100812) but does not list it in its references
+- [RFC 7034: HTTP Header Field X-Frame-Options](https://www.rfc-editor.org/rfc/rfc7034) links to:
+    * [`http://www.w3.org/TR/2012/CR-CSP-20121115/`](http://www.w3.org/TR/2012/CR-CSP-20121115/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/WD-CSP11-20130604/`](http://www.w3.org/TR/2013/WD-CSP11-20130604/) but does not list it in its references
+- [RFC 7469: Public Key Pinning Extension for HTTP](https://www.rfc-editor.org/rfc/rfc7469) links to [`http://www.w3.org/TR/1999/REC-html401-19991224`](http://www.w3.org/TR/1999/REC-html401-19991224) but does not list it in its references
+- [RFC 7578: Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578) links to [`http://www.w3.org/TR/2014/REC-html5-20141028`](http://www.w3.org/TR/2014/REC-html5-20141028) but does not list it in its references
+- [Save Data API](https://wicg.github.io/savedata/) links to [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
+- [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/) links to:
+    * [`http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html`](http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html) but does not list it in its references
+    * [`http://www.w3.org/TR/1999/REC-html401-19991224/struct/links.html`](http://www.w3.org/TR/1999/REC-html401-19991224/struct/links.html) but does not list it in its references
+    * [`http://www.w3.org/TR/2001/REC-MathML2-20010221/`](http://www.w3.org/TR/2001/REC-MathML2-20010221/) but does not list it in its references
+    * [`http://www.w3.org/TR/2001/REC-xlink-20010627/`](http://www.w3.org/TR/2001/REC-xlink-20010627/) but does not list it in its references
+    * [`http://www.w3.org/TR/2003/REC-MathML2-20031021/`](http://www.w3.org/TR/2003/REC-MathML2-20031021/) but does not list it in its references
+    * [`http://www.w3.org/TR/2005/NOTE-xml11schema10-20050511/`](http://www.w3.org/TR/2005/NOTE-xml11schema10-20050511/) but does not list it in its references
+    * [`http://www.w3.org/TR/html4/`](http://www.w3.org/TR/html4/) but does not list it in its references
+    * [`http://www.w3.org/TR/smil/`](http://www.w3.org/TR/smil/) but does not list it in its references
+    * [`http://www.w3.org/TR/xlink/`](http://www.w3.org/TR/xlink/) but does not list it in its references
+    * [`http://www.w3.org/TR/xml-names11/`](http://www.w3.org/TR/xml-names11/) but does not list it in its references
+    * [`http://www.w3.org/TR/xml-stylesheet/`](http://www.w3.org/TR/xml-stylesheet/) but does not list it in its references
+    * [`http://www.w3.org/TR/xsl/`](http://www.w3.org/TR/xsl/) but does not list it in its references
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) links to:
+    * [`http://w3c.github.io/selection-api/`](http://w3c.github.io/selection-api/) but does not list it in its references
+    * [`https://w3c.github.io/web-animations/`](https://w3c.github.io/web-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/2001/REC-xlink-20010627/`](https://www.w3.org/TR/2001/REC-xlink-20010627/) but does not list it in its references
+    * [`https://www.w3.org/TR/2003/REC-MathML2-20031021/`](https://www.w3.org/TR/2003/REC-MathML2-20031021/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-WebIDL-20120419/`](https://www.w3.org/TR/2012/CR-WebIDL-20120419/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/REC-css-style-attr-20131107/`](https://www.w3.org/TR/2013/REC-css-style-attr-20131107/) but does not list it in its references
+    * [`https://www.w3.org/TR/2015/WD-svg-markers-20150407/`](https://www.w3.org/TR/2015/WD-svg-markers-20150407/) but does not list it in its references
+    * [`https://www.w3.org/TR/2015/WD-svg-strokes-20150407/`](https://www.w3.org/TR/2015/WD-svg-strokes-20150407/) but does not list it in its references
+    * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-content-3/`](https://www.w3.org/TR/css-content-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-position-3/`](https://www.w3.org/TR/css-position-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-selectors-3/`](https://www.w3.org/TR/css-selectors-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transforms/`](https://www.w3.org/TR/css3-transforms/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/filter-effects/`](https://www.w3.org/TR/filter-effects/) but does not list it in its references
+    * [`https://www.w3.org/TR/orientation-event/`](https://www.w3.org/TR/orientation-event/) but does not list it in its references
+    * [`https://www.w3.org/TR/resource-hints/`](https://www.w3.org/TR/resource-hints/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/smil/`](https://www.w3.org/TR/smil/) but does not list it in its references
+    * [`https://www.w3.org/TR/svg-integration/`](https://www.w3.org/TR/svg-integration/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
+    * [`https://www.w3.org/TR/xlink/`](https://www.w3.org/TR/xlink/) but does not list it in its references
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html) links to:
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/) but does not list it in its references
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) links to [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
+- [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html) but does not list it in its references
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/) links to:
+    * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors`](https://www.w3.org/TR/css3-selectors) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
+    * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/payment-handler/`](https://w3c.github.io/payment-handler/) but does not list it in its references
+    * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/) but does not list it in its references
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/) links to [`http://www.w3.org/TR/powerful-features/`](http://www.w3.org/TR/powerful-features/) but does not list it in its references
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/) links to:
+    * [`http://www.w3.org/TR/2012/WD-css-masking-20121115/`](http://www.w3.org/TR/2012/WD-css-masking-20121115/) but does not list it in its references
+    * [`http://www.w3.org/TR/2012/WD-filter-effects-20121025/`](http://www.w3.org/TR/2012/WD-filter-effects-20121025/) but does not list it in its references
+    * [`http://www.w3.org/TR/html5/embedded-content-0.html`](http://www.w3.org/TR/html5/embedded-content-0.html) but does not list it in its references
+    * [`http://www.w3.org/TR/html5/scripting-1.html`](http://www.w3.org/TR/html5/scripting-1.html) but does not list it in its references
+    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but does not list it in its references
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+    * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but does not list it in its references
+- [SVG Animations](https://svgwg.org/specs/animations/) links to:
+    * [`http://www.w3.org/TR/2012/WD-css-animations-1-20120403/`](http://www.w3.org/TR/2012/WD-css-animations-1-20120403/) but does not list it in its references
+    * [`http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/`](http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/) but does not list it in its references
+    * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-transitions-1/`](http://www.w3.org/TR/css-transitions-1/) but does not list it in its references
+    * [`http://www.w3.org/TR/smil/`](http://www.w3.org/TR/smil/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-transforms-1/`](https://www.w3.org/TR/css-transforms-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/) but does not list it in its references
+- [SVG Integration](https://svgwg.org/specs/integration/) links to:
+    * [`https://www.w3.org/TR/2014/CR-html5-20140204/`](https://www.w3.org/TR/2014/CR-html5-20140204/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/CR-html5-20140204/browsers.html`](https://www.w3.org/TR/2014/CR-html5-20140204/browsers.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but does not list it in its references
+- [SVG Strokes](https://svgwg.org/specs/strokes/) links to [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/) links to [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/) but does not list it in its references
+- [The Storage Access API](https://privacycg.github.io/storage-access/) links to [`https://w3c.github.io/webdriver/webdriver-spec.html`](https://w3c.github.io/webdriver/webdriver-spec.html) but does not list it in its references
+- [Touch Events - Level 2](https://w3c.github.io/touch-events/) links to:
+    * [`http://www.w3.org/TR/touch-events-extensions/`](http://www.w3.org/TR/touch-events-extensions/) but does not list it in its references
+    * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but does not list it in its references
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/) links to:
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
+    * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/) but does not list it in its references
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/) but does not list it in its references
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) links to [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
+- [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
+- [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
+- [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/) links to [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/) but does not list it in its references
+- [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/) but does not list it in its references
+- [Web Audio API](https://webaudio.github.io/web-audio-api/) links to [`https://www.w3.org/TR/mediacapture-fromelement/`](https://www.w3.org/TR/mediacapture-fromelement/) but does not list it in its references
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/) links to:
+    * [`https://w3c.github.io/IntersectionObserver/v2/`](https://w3c.github.io/IntersectionObserver/v2/) but does not list it in its references
+    * [`https://www.w3.org/TR/string-meta/`](https://www.w3.org/TR/string-meta/) but does not list it in its references
+    * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/) but does not list it in its references
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/) links to:
+    * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec/specs/powerfulfeatures/`](https://w3c.github.io/webappsec/specs/powerfulfeatures/) but does not list it in its references
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) links to [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
+- [Web IDL Standard](https://webidl.spec.whatwg.org/) links to [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/) but does not list it in its references
+- [Web Locks API](https://w3c.github.io/web-locks/) links to:
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+- [Web Share API](https://w3c.github.io/web-share/) links to [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents) but does not list it in its references
+- [WebAssembly Core Specification](https://webassembly.github.io/spec/core/bikeshed/) links to:
+    * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/) links to:
+    * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
+- [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/) links to:
+    * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
+- [WebAssembly Web API](https://webassembly.github.io/spec/web-api/) links to:
+    * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
+- [WebCodecs](https://w3c.github.io/webcodecs/) links to [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/) but does not list it in its references
+- [WebDriver](https://w3c.github.io/webdriver/) links to:
+    * [`https://w3c.github.io/contentEditable`](https://w3c.github.io/contentEditable) but does not list it in its references
+    * [`https://w3c.github.io/editing/execCommand.html`](https://w3c.github.io/editing/execCommand.html) but does not list it in its references
+- [WebGPU](https://gpuweb.github.io/gpuweb/) links to [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/) but does not list it in its references
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/) links to [`https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html`](https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html) but does not list it in its references
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/) links to [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/) but does not list it in its references
+- [WebXR Device API](https://immersive-web.github.io/webxr/) links to:
+    * [`https://www.w3.org/TR/orientation-sensor/`](https://www.w3.org/TR/orientation-sensor/) but does not list it in its references
+    * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
+    * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
+    * [`https://www.w3.org/TR/webxr-gamepads-module-1/`](https://www.w3.org/TR/webxr-gamepads-module-1/) but does not list it in its references
+- [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but does not list it in its references
+- [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
+
+=> 798 missing references for links found in 209 specifications
+
+Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
+
+Note Strudy only reports on links to "well-known" specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.
+
+
+## Reference URL is inconsistent with URL used in document links
+
+- [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/) links to [`https://www.w3.org/TR/2dcontext/`](https://www.w3.org/TR/2dcontext/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [Accelerometer](https://w3c.github.io/accelerometer/) links to [`https://www.w3.org/TR/screen-orientation/`](https://www.w3.org/TR/screen-orientation/) but related reference "SCREEN-ORIENTATION" uses URL [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/) links to:
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+    * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/) links to:
+    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+    * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+    * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/html/grouping-content.html`](https://www.w3.org/TR/html/grouping-content.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/html/textlevel-semantics.html`](https://www.w3.org/TR/html/textlevel-semantics.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/html5/grouping-content.html`](https://www.w3.org/TR/html5/grouping-content.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [Background Fetch](https://wicg.github.io/background-fetch/) links to:
+    * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/) links to [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/) links to:
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [Close Watcher API](https://wicg.github.io/close-watcher/) links to [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- [Contact Picker API](https://w3c.github.io/contact-api/spec/) links to [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+- [Content Index](https://wicg.github.io/content-index/spec/) links to [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/) links to [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/) links to [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/) but related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to:
+    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+- [Crash Reporting](https://wicg.github.io/crash-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/) links to:
+    * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/) but related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/) links to:
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/) links to:
+    * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/) but related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/) links to:
+    * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/) but related reference "CSS-CASCADE-4" uses URL [`https://drafts.csswg.org/css-cascade-4/`](https://drafts.csswg.org/css-cascade-4/)
+    * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/) but related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/) links to [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/) links to:
+    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/) links to [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/) but related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/) links to:
+    * [`https://www.w3.org/TR/css-contain-2/`](https://www.w3.org/TR/css-contain-2/) but related reference "CSS-CONTAIN-2" uses URL [`https://drafts.csswg.org/css-contain-2/`](https://drafts.csswg.org/css-contain-2/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/) links to:
+    * [`https://www.w3.org/TR/css-speech-1/`](https://www.w3.org/TR/css-speech-1/) but related reference "CSS-SPEECH-1" uses URL [`https://drafts.csswg.org/css-speech-1/`](https://drafts.csswg.org/css-speech-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/) links to [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
+    * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/) but related reference "PFE-report" uses URL [`https://www.w3.org/TR/PFE-evaluation/`](https://www.w3.org/TR/PFE-evaluation/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/) links to:
+    * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/) links to:
+    * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-page-3/`](https://www.w3.org/TR/css-page-3/) but related reference "CSS-PAGE-3" uses URL [`https://drafts.csswg.org/css-page-3/`](https://drafts.csswg.org/css-page-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/) links to:
+    * [`https://www.w3.org/TR/css-content-3/`](https://www.w3.org/TR/css-content-3/) but related reference "CSS3-CONTENT" uses URL [`https://drafts.csswg.org/css-content-3/`](https://drafts.csswg.org/css-content-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to:
+    * [`https://www.w3.org/TR/css-grid-2/`](https://www.w3.org/TR/css-grid-2/) but related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/svg-integration/`](https://www.w3.org/TR/svg-integration/) but related reference "SVG-INTEGRATION" uses URL [`https://svgwg.org/specs/integration/`](https://svgwg.org/specs/integration/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/) links to:
+    * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/) but related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/) links to:
+    * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/html5/text-level-semantics.html`](https://www.w3.org/TR/html5/text-level-semantics.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/) links to:
+    * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/) but related reference "CSS3BOX" uses URL [`https://drafts.csswg.org/css-box-3/`](https://drafts.csswg.org/css-box-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/) links to:
+    * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/) but related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+    * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/) but related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/) links to:
+    * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/) but related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+    * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/) but related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+    * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/) but related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/css-overflow-3/`](https://www.w3.org/TR/css-overflow-3/) but related reference "CSS-OVERFLOW-3" uses URL [`https://drafts.csswg.org/css-overflow-3/`](https://drafts.csswg.org/css-overflow-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/) but related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
+    * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/) but related reference "CSS-SYNTAX-3" uses URL [`https://www.w3.org/TR/css-syntax-3/`](https://www.w3.org/TR/css-syntax-3/)
+    * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/) links to [`http://www.w3.org/TR/css-values-4/`](http://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/) links to [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+- [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/) links to [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
+- [Document Policy](https://wicg.github.io/document-policy/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/) links to [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM4" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+- [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+- [Element Timing API](https://wicg.github.io/element-timing/) links to:
+    * [`https://w3c.github.io/IntersectionObserver`](https://w3c.github.io/IntersectionObserver) but related reference "INTERSECTION-OBSERVER" uses URL [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
+    * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/) but related reference "INTERSECTION-OBSERVER" uses URL [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
+    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+    * [`https://w3c.github.io/resource-timing`](https://w3c.github.io/resource-timing) but related reference "RESOURCE-TIMING-2" uses URL [`https://www.w3.org/TR/resource-timing-2/`](https://www.w3.org/TR/resource-timing-2/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) links to:
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/encoding/`](https://www.w3.org/TR/encoding/) but related reference "ENCODING" uses URL [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/html51/browsers.html`](https://www.w3.org/TR/html51/browsers.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/html51/infrastructure.html`](https://www.w3.org/TR/html51/infrastructure.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/html51/semantics-embedded-content.html`](https://www.w3.org/TR/html51/semantics-embedded-content.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/html51/webappapis.html`](https://www.w3.org/TR/html51/webappapis.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [Event Timing API](https://w3c.github.io/event-timing) links to:
+    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+    * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/) but related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
+    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+    * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
+    * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/) but related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but related reference "REFERRER-POLICY-1" uses URL [`http://www.w3.org/TR/referrer-policy/`](http://www.w3.org/TR/referrer-policy/)
+- [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/) links to [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/) but related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [Generic Sensor API](https://w3c.github.io/sensors/) links to [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/) but related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
+    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+    * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+    * [`https://www.w3.org/TR/html/sec-forms.html`](https://www.w3.org/TR/html/sec-forms.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/) links to [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/) but related reference "MANIFEST" uses URL [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/) links to [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/) links to [`https://w3c.github.io/webrtc-pc/`](https://w3c.github.io/webrtc-pc/) but related reference "WEBRTC" uses URL [`https://www.w3.org/TR/webrtc/`](https://www.w3.org/TR/webrtc/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/) links to:
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [Input Events Level 2](https://w3c.github.io/input-events/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/) links to [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/) but related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
+- [Intervention Reporting](https://wicg.github.io/intervention-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/) links to [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/) links to:
+    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+    * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/) but related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
+    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+    * [`https://w3c.github.io/resource-timing/`](https://w3c.github.io/resource-timing/) but related reference "RESOURCE-TIMING-2" uses URL [`https://www.w3.org/TR/resource-timing-2/`](https://www.w3.org/TR/resource-timing-2/)
+- [Long Tasks API](https://w3c.github.io/longtasks/) links to:
+    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+- [Magnetometer](https://w3c.github.io/magnetometer/) links to:
+    * [`https://w3c.github.io/accelerometer/`](https://w3c.github.io/accelerometer/) but related reference "ACCELEROMETER" uses URL [`https://www.w3.org/TR/accelerometer/`](https://www.w3.org/TR/accelerometer/)
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+    * [`https://w3c.github.io/sensors/`](https://w3c.github.io/sensors/) but related reference "GENERIC-SENSOR" uses URL [`https://www.w3.org/TR/generic-sensor/`](https://www.w3.org/TR/generic-sensor/)
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/) links to [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/) links to:
+    * [`https://www.w3.org/TR/encrypted-media/`](https://www.w3.org/TR/encrypted-media/) but related reference "ENCRYPTED-MEDIA" uses URL [`https://w3c.github.io/encrypted-media/`](https://w3c.github.io/encrypted-media/)
+    * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/) but related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
+    * [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/) links to [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to:
+    * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but related reference "APPMANIFEST" uses URL [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/)
+    * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+    * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but related reference "MEDIAQUERIES-4" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Session Standard](https://w3c.github.io/mediasession/) links to [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
+- [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/) links to:
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/) links to:
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+    * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/) but related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/) links to:
+    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+    * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/) but related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/) links to:
+    * [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1) but related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+    * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
+    * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Navigation API](https://wicg.github.io/navigation-api/) links to [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/) but related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/) links to:
+    * [`https://w3c.github.io/accelerometer/`](https://w3c.github.io/accelerometer/) but related reference "ACCELEROMETER" uses URL [`https://www.w3.org/TR/accelerometer/`](https://www.w3.org/TR/accelerometer/)
+    * [`https://w3c.github.io/gyroscope/`](https://w3c.github.io/gyroscope/) but related reference "GYROSCOPE" uses URL [`https://www.w3.org/TR/gyroscope/`](https://www.w3.org/TR/gyroscope/)
+    * [`https://w3c.github.io/magnetometer/`](https://w3c.github.io/magnetometer/) but related reference "MAGNETOMETER" uses URL [`https://www.w3.org/TR/magnetometer/`](https://www.w3.org/TR/magnetometer/)
+    * [`https://w3c.github.io/sensors/`](https://w3c.github.io/sensors/) but related reference "GENERIC-SENSOR" uses URL [`https://www.w3.org/TR/generic-sensor/`](https://www.w3.org/TR/generic-sensor/)
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/) links to:
+    * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [Pointer Events](https://w3c.github.io/pointerevents/) links to [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/) but related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
+- [Pointer Lock 2.0](https://w3c.github.io/pointerlock/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "ui-events" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+- [Portals](https://wicg.github.io/portals/) links to:
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+    * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html) links to [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html) links to:
+    * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+    * [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+    * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
+    * [`https://www.w3.org/TR/navigation-timing-2/`](https://www.w3.org/TR/navigation-timing-2/) but related reference "NAVIGATION-TIMING" uses URL [`https://www.w3.org/TR/navigation-timing/`](https://www.w3.org/TR/navigation-timing/)
+    * [`https://www.w3.org/TR/web-share/`](https://www.w3.org/TR/web-share/) but related reference "WEB-SHARE" uses URL [`https://w3c.github.io/web-share/`](https://w3c.github.io/web-share/)
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/) links to [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/) but related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+- [Private Network Access](https://wicg.github.io/private-network-access/) links to:
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/) links to [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+- [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [Requesting Permissions](https://wicg.github.io/permissions-request/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [Resource Hints](https://w3c.github.io/resource-hints/) links to:
+    * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+    * [`https://www.w3.org/TR/html5/document-metadata.html`](https://www.w3.org/TR/html5/document-metadata.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/html5/dom.html`](https://www.w3.org/TR/html5/dom.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/html5/infrastructure.html`](https://www.w3.org/TR/html5/infrastructure.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/) links to [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/) links to [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html) links to [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`http://www.w3.org/TR/2014/REC-html5-20141028/`](http://www.w3.org/TR/2014/REC-html5-20141028/)
+- [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/) links to:
+    * [`http://www.w3.org/TR/2006/REC-xml-20060816/`](http://www.w3.org/TR/2006/REC-xml-20060816/) but related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+    * [`http://www.w3.org/TR/2006/REC-xml-names-20060816/`](http://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "XML-NS" uses URL [`http://www.w3.org/TR/2009/REC-xml-names-20091208/`](http://www.w3.org/TR/2009/REC-xml-names-20091208/)
+    * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/) but related reference "CHARMOD" uses URL [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/)
+    * [`http://www.w3.org/TR/css3-selectors/`](http://www.w3.org/TR/css3-selectors/) but related reference "SELECTORS" uses URL [`http://www.w3.org/TR/2009/PR-css3-selectors-20091215/`](http://www.w3.org/TR/2009/PR-css3-selectors-20091215/)
+    * [`http://www.w3.org/TR/rdf-primer/`](http://www.w3.org/TR/rdf-primer/) but related reference "RDF-PRIMER" uses URL [`http://www.w3.org/TR/2004/REC-rdf-primer-20040210/`](http://www.w3.org/TR/2004/REC-rdf-primer-20040210/)
+    * [`http://www.w3.org/TR/smil-animation/`](http://www.w3.org/TR/smil-animation/) but related reference "SMILANIM" uses URL [`http://www.w3.org/TR/2001/REC-smil-animation-20010904/`](http://www.w3.org/TR/2001/REC-smil-animation-20010904/)
+    * [`http://www.w3.org/TR/xhtml1/`](http://www.w3.org/TR/xhtml1/) but related reference "XHTML" uses URL [`http://www.w3.org/TR/2002/REC-xhtml1-20020801/`](http://www.w3.org/TR/2002/REC-xhtml1-20020801/)
+    * [`http://www.w3.org/TR/xlink11/`](http://www.w3.org/TR/xlink11/) but related reference "XLINK" uses URL [`http://www.w3.org/TR/2010/REC-xlink11-20100506/`](http://www.w3.org/TR/2010/REC-xlink11-20100506/)
+    * [`http://www.w3.org/TR/xml-names/`](http://www.w3.org/TR/xml-names/) but related reference "XML-NS" uses URL [`http://www.w3.org/TR/2009/REC-xml-names-20091208/`](http://www.w3.org/TR/2009/REC-xml-names-20091208/)
+    * [`http://www.w3.org/TR/xml/`](http://www.w3.org/TR/xml/) but related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+    * [`http://www.w3.org/TR/xmlbase/`](http://www.w3.org/TR/xmlbase/) but related reference "XML-BASE" uses URL [`http://www.w3.org/TR/2009/REC-xmlbase-20090128/`](http://www.w3.org/TR/2009/REC-xmlbase-20090128/)
+    * [`http://www.w3.org/TR/xmlschema-2/`](http://www.w3.org/TR/xmlschema-2/) but related reference "SCHEMA2" uses URL [`http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/)
+    * [`http://www.w3.org/TR/xslt`](http://www.w3.org/TR/xslt) but related reference "XSLT" uses URL [`http://www.w3.org/TR/1999/REC-xslt-19991116`](http://www.w3.org/TR/1999/REC-xslt-19991116)
+    * [`http://www.w3.org/TR/xslt20/`](http://www.w3.org/TR/xslt20/) but related reference "XSLT2" uses URL [`http://www.w3.org/TR/2007/REC-xslt20-20070123/`](http://www.w3.org/TR/2007/REC-xslt20-20070123/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) links to:
+    * [`http://www.w3.org/TR/2014/CR-geometry-1-20141125/`](http://www.w3.org/TR/2014/CR-geometry-1-20141125/) but related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+    * [`https://w3c.github.io/clipboard-apis/`](https://w3c.github.io/clipboard-apis/) but related reference "clipboard-apis" uses URL [`https://www.w3.org/TR/clipboard-apis/`](https://www.w3.org/TR/clipboard-apis/)
+    * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/) but related reference "graphics-aria-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
+    * [`https://w3c.github.io/svg-aam/`](https://w3c.github.io/svg-aam/) but related reference "svg-aam-1.0" uses URL [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/)
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "uievents" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+    * [`https://www.w3.org/TR/2001/REC-smil-animation-20010904/`](https://www.w3.org/TR/2001/REC-smil-animation-20010904/) but related reference "smil-animation" uses URL [`https://www.w3.org/TR/smil-animation/`](https://www.w3.org/TR/smil-animation/)
+    * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "xml-names" uses URL [`https://www.w3.org/TR/xml-names`](https://www.w3.org/TR/xml-names)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/) but related reference "xml" uses URL [`https://www.w3.org/TR/xml`](https://www.w3.org/TR/xml)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/WD-css3-fonts-20111004/`](https://www.w3.org/TR/2011/WD-css3-fonts-20111004/) but related reference "css-fonts-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
+    * [`https://www.w3.org/TR/2014/CR-html5-20140204/dom.html`](https://www.w3.org/TR/2014/CR-html5-20140204/dom.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/2014/WD-dom-20140204/`](https://www.w3.org/TR/2014/WD-dom-20140204/) but related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/2014/WD-geometry-1-20140522/`](https://www.w3.org/TR/2014/WD-geometry-1-20140522/) but related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+    * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113`](https://www.w3.org/TR/2015/CR-compositing-1-20150113) but related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+    * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113/`](https://www.w3.org/TR/2015/CR-compositing-1-20150113/) but related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+    * [`https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/`](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/) but related reference "UAAG20" uses URL [`https://www.w3.org/TR/UAAG20/`](https://www.w3.org/TR/UAAG20/)
+    * [`https://www.w3.org/TR/compositing/`](https://www.w3.org/TR/compositing/) but related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/) but related reference "ReferrerPolicy" uses URL [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html) links to:
+    * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/) links to [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIX" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) links to:
+    * [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
+    * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
+- [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/) links to [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/) links to:
+    * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/) but related reference "GRAPHICS-AAM" uses URL [`https://www.w3.org/TR/graphics-aam-1.0/`](https://www.w3.org/TR/graphics-aam-1.0/)
+    * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/) but related reference "HTML-AAM" uses URL [`https://www.w3.org/TR/html-aam-1.0/`](https://www.w3.org/TR/html-aam-1.0/)
+- [SVG Animations](https://svgwg.org/specs/animations/) links to:
+    * [`http://www.w3.org/TR/2006/REC-xml-20060816/`](http://www.w3.org/TR/2006/REC-xml-20060816/) but related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+    * [`http://www.w3.org/TR/2012/WD-dom-20120405/`](http://www.w3.org/TR/2012/WD-dom-20120405/) but related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+    * [`http://www.w3.org/TR/2014/REC-html5-20141028/`](http://www.w3.org/TR/2014/REC-html5-20141028/) but related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+    * [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/) but related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+    * [`http://www.w3.org/TR/html/`](http://www.w3.org/TR/html/) but related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+    * [`http://www.w3.org/TR/smil-animation/`](http://www.w3.org/TR/smil-animation/) but related reference "SMILANIM" uses URL [`http://www.w3.org/TR/2001/REC-smil-animation-20010904/`](http://www.w3.org/TR/2001/REC-smil-animation-20010904/)
+    * [`http://www.w3.org/TR/xml/`](http://www.w3.org/TR/xml/) but related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+    * [`https://html.spec.whatwg.org/multipage/webappapis.html`](https://html.spec.whatwg.org/multipage/webappapis.html) but related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+    * [`https://html.spec.whatwg.org/multipage/window-object.html`](https://html.spec.whatwg.org/multipage/window-object.html) but related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html) links to [`https://www.w3.org/TR/html5/single-page.html`](https://www.w3.org/TR/html5/single-page.html) but related reference "HTML51" uses URL [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/) links to:
+    * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but related reference "DOM-Parsing" uses URL [`https://www.w3.org/TR/DOM-Parsing/`](https://www.w3.org/TR/DOM-Parsing/)
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [UI Events](https://w3c.github.io/uievents/) links to:
+    * [`http://www.w3.org/TR/uievents-code/`](http://www.w3.org/TR/uievents-code/) but related reference "UIEvents-Code" uses URL [`https://w3c.github.io/uievents-code/`](https://w3c.github.io/uievents-code/)
+    * [`http://www.w3.org/TR/uievents-key/`](http://www.w3.org/TR/uievents-key/) but related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
+    * [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/) but related reference "POINTEREVENTS3" uses URL [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+    * [`https://www.w3.org/TR/uievents-key/`](https://www.w3.org/TR/uievents-key/) but related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/) links to [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/) but related reference "HR-TIME" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to:
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/html5/scripting-1.html`](https://www.w3.org/TR/html5/scripting-1.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/) links to:
+    * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+    * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) links to:
+    * [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+- [WebCodecs](https://w3c.github.io/webcodecs/) links to:
+    * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but related reference "CSS-IMAGES-3" uses URL [`https://drafts.csswg.org/css-images-3/`](https://drafts.csswg.org/css-images-3/)
+    * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/) but related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
+- [WebDriver](https://w3c.github.io/webdriver/) links to:
+    * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but related reference "DOM-PARSING" uses URL [`https://www.w3.org/TR/DOM-Parsing/`](https://www.w3.org/TR/DOM-Parsing/)
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FILEAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [WebOTP API](https://wicg.github.io/web-otp/) links to:
+    * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/) links to [`https://w3c.github.io/webrtc-stats/`](https://w3c.github.io/webrtc-stats/) but related reference "WEBRTC-STATS" uses URL [`https://www.w3.org/TR/webrtc-stats/`](https://www.w3.org/TR/webrtc-stats/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/) links to [`https://w3c.github.io/webcrypto/`](https://w3c.github.io/webcrypto/) but related reference "WebCryptoAPI" uses URL [`https://www.w3.org/TR/WebCryptoAPI/`](https://www.w3.org/TR/WebCryptoAPI/)
+- [WebTransport](https://w3c.github.io/webtransport/) links to [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [WebUSB API](https://wicg.github.io/webusb/) links to:
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+    * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+- [WebXR Anchors Module](https://immersive-web.github.io/anchors/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
+- [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/) links to [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but related reference "WEBXR-LAYERS-1" uses URL [`https://immersive-web.github.io/layers/`](https://immersive-web.github.io/layers/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/) links to:
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+    * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/) but related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
+    * [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/) but related reference "WEBXR-LAYERS-1" uses URL [`https://immersive-web.github.io/layers/`](https://immersive-web.github.io/layers/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/) links to:
+    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+    * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
+
+=> 425 inconsistent references for links found in 186 specifications
+
+Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
+
+
+## External links to private terms
+
+
+=> 0 problematic external link found in 0 specification
+
+
+## External links that neither target definitions nor headings
+
+
+=> 0 problematic external link found in 0 specification
+
+
+## Broken external links
+
+
+=> 0 problematic external link found in 0 specification
+
+
+## External links to terms that no longer exist in the latest version of the targeted specification
+
+
+=> 0 problematic external link found in 0 specification
+
+
+## External links to outdated specs
+
+
+=> 0 problematic external link found in 0 specification
+
+
+## External links that use a dated URL
+
+
+=> 0 problematic external link found in 0 specification
+
+
+

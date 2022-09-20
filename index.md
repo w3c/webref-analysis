@@ -1,0 +1,16456 @@
+% Reffy crawl
+% Strudy
+% September 20, 2022
+
+# Ecma International {#ecma_international}
+
+## TC39 {#tc39}
+
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
+- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
+- Crawled version: 13 September 2022
+- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
+- Shortname: tc39-intl-annexes
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
+- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
+- Crawled version: 13 September 2022
+- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
+- Shortname: tc39-intl-negotiation
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
+- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
+- Crawled version: 13 September 2022
+- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
+- Shortname: tc39-intl-numberformat
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
+- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
+- Crawled version: 13 September 2022
+- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
+- Shortname: tc39-intl-pluralrules
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Array Grouping {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
+- Crawled URL: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
+- Crawled version: 13 June 2022
+- Editor's Draft: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
+- Shortname: tc39-array-grouping
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Atomics.waitAsync {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-atomics-wait-async/](https://tc39.es/proposal-atomics-wait-async/)
+- Crawled URL: [https://tc39.es/proposal-atomics-wait-async/](https://tc39.es/proposal-atomics-wait-async/)
+- Crawled version: 31 March 2021
+- Editor's Draft: [https://tc39.es/proposal-atomics-wait-async/](https://tc39.es/proposal-atomics-wait-async/)
+- Shortname: tc39-atomics-wait-async
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Change Array by copy {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
+- Crawled URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
+- Crawled version: 27 July 2022
+- Editor's Draft: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
+- Shortname: tc39-change-array-by-copy
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Decorators proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-decorators/](https://tc39.es/proposal-decorators/)
+- Crawled URL: [https://tc39.es/proposal-decorators/](https://tc39.es/proposal-decorators/)
+- Crawled version: 7 February 2019
+- Editor's Draft: [https://tc39.es/proposal-decorators/](https://tc39.es/proposal-decorators/)
+- Shortname: tc39-decorators
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### ECMAScript® 2023 Internationalization API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
+- Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
+- Crawled version: 2 September 2022
+- Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
+- Shortname: ecma-402
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
+
+
+### ECMAScript® 2023 Language Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
+- Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
+- Crawled version: 9 September 2022
+- Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
+- Shortname: ecmascript
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+- [Battery Status API](https://w3c.github.io/battery/)
+- [Console Standard](https://console.spec.whatwg.org/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [High Resolution Time](https://w3c.github.io/hr-time/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Storage Standard](https://storage.spec.whatwg.org/)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [URLPattern API](https://wicg.github.io/urlpattern/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Cryptography API](https://w3c.github.io/webcrypto/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
+- [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+- [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Document Policy](https://wicg.github.io/document-policy/)
+- [File and Directory Entries API](https://wicg.github.io/entries-api/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [URL Standard](https://url.spec.whatwg.org/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+
+
+### Extend TimeZoneName Option Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-extend-timezonename/](https://tc39.es/proposal-intl-extend-timezonename/)
+- Crawled URL: [https://tc39.es/proposal-intl-extend-timezonename/](https://tc39.es/proposal-intl-extend-timezonename/)
+- Crawled version: 2 December 2021
+- Editor's Draft: [https://tc39.es/proposal-intl-extend-timezonename/](https://tc39.es/proposal-intl-extend-timezonename/)
+- Shortname: tc39-intl-extend-timezonename
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### import assertions {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
+- Crawled URL: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
+- Crawled version: 30 April 2021
+- Editor's Draft: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
+- Shortname: tc39-import-assertions
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+No informative reference to this spec from other specs.
+
+
+### Intl Enumeration API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
+- Crawled URL: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
+- Crawled version: 9 September 2022
+- Editor's Draft: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
+- Shortname: tc39-intl-enumeration
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Intl Locale Info Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
+- Crawled URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
+- Crawled version: 15 December 2021
+- Editor's Draft: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
+- Shortname: tc39-intl-locale-info
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Intl.DurationFormat {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
+- Crawled URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
+- Crawled version: 1 September 2022
+- Editor's Draft: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
+- Shortname: tc39-intl-duration-format
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### JSON modules {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-json-modules/](https://tc39.es/proposal-json-modules/)
+- Crawled URL: [https://tc39.es/proposal-json-modules/](https://tc39.es/proposal-json-modules/)
+- Crawled version: 6 February 2021
+- Editor's Draft: [https://tc39.es/proposal-json-modules/](https://tc39.es/proposal-json-modules/)
+- Shortname: tc39-json-modules
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+No informative reference to this spec from other specs.
+
+
+### JSON.parse source text access {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
+- Crawled URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
+- Crawled version: 20 July 2022
+- Editor's Draft: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
+- Shortname: tc39-json-parse-with-source
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Proposal-array-find-from-last {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
+- Crawled URL: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
+- Crawled version: 6 June 2022
+- Editor's Draft: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
+- Shortname: tc39-array-find-from-last
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Resizable ArrayBuffer and growable SharedArrayBuffer {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
+- Crawled URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
+- Crawled version: 19 July 2022
+- Editor's Draft: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
+- Shortname: tc39-resizablearraybuffer
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### ShadowRealm API {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
+- Crawled URL: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
+- Shortname: tc39-shadowrealm
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Symbol as WeakMap Keys Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
+- Crawled URL: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
+- Crawled version: 7 June 2022
+- Editor's Draft: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
+- Shortname: tc39-symbols-as-weakmap-keys
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Temporal proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
+- Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
+- Shortname: tc39-temporal
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+# IETF {#ietf}
+
+## ART Area General Application Working Group Working Group {#art_area_general_application_working_group_working_group}
+
+### RFC 7578: Returning Values from Forms: multipart/form-data {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
+- Shortname: rfc7578
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2014/REC-html5-20141028`](http://www.w3.org/TR/2014/REC-html5-20141028)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+## Applications Area Working Group APP Working Group {#applications_area_working_group_app_working_group}
+
+### RFC 7239: Forwarded HTTP Extension {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
+- Shortname: rfc7239
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## HTTP State Management Mechanism Working Group {#http_state_management_mechanism_working_group}
+
+### RFC 6265 - HTTP State Management Mechanism {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc6265](https://www.rfc-editor.org/rfc/rfc6265)
+- Crawled URL: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
+- Shortname: rfc6265
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+
+
+## HTTP Working Group {#http_working_group}
+
+### Cookies: HTTP State Management Mechanism {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
+- Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- Shortname: rfc6265bis
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### RFC 8942: HTTP Client Hints {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
+- Shortname: rfc8942
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
+- [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+
+No informative reference to this spec from other specs.
+
+
+### RFC 9110 - HTTP Semantics {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
+- Crawled URL: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
+- Shortname: rfc9110
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
+- [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+Informative references to this spec from:
+
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+
+### RFC 9111 - HTTP Caching {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
+- Crawled URL: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
+- Shortname: rfc9111
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+No informative reference to this spec from other specs.
+
+
+### RFC 9112 - HTTP/1.1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
+- Crawled URL: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
+- Shortname: rfc9112
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+
+### RFC 9113 - HTTP/2 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
+- Crawled URL: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
+- Shortname: rfc9113
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+
+## Hypertext Transfer Protocol Authentication Working Group {#hypertext_transfer_protocol_authentication_working_group}
+
+### RFC 7616 - HTTP Digest Access Authentication {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
+- Crawled URL: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
+- Shortname: rfc7616
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 7617 - The 'Basic' HTTP Authentication Scheme {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
+- Crawled URL: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
+- Shortname: rfc7617
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+## Hypertext Transfer Protocol Bis APP Working Group {#hypertext_transfer_protocol_bis_app_working_group}
+
+### RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP) {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
+- Crawled URL: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
+- Shortname: rfc6266
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+Informative references to this spec from:
+
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+
+
+### RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7230](https://www.rfc-editor.org/rfc/rfc7230)
+- Crawled URL: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
+- Shortname: rfc7230
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://httpwg.org/specs/rfc7235.html)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [Compression Streams](https://wicg.github.io/compression/)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
+
+
+### RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7231](https://www.rfc-editor.org/rfc/rfc7231)
+- Crawled URL: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
+- Shortname: rfc7231
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Media Feeds](https://wicg.github.io/media-feeds/)
+- [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Network Information API](https://wicg.github.io/netinfo/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://httpwg.org/specs/rfc7235.html)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
+- [Save Data API](https://wicg.github.io/savedata/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
+- Crawled URL: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
+- Shortname: rfc7232
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 8246 - HTTP Immutable Responses](https://httpwg.org/specs/rfc8246.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
+- Crawled URL: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
+- Shortname: rfc7233
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
+- Crawled URL: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
+- Shortname: rfc7234
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
+- [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
+- [RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://httpwg.org/specs/rfc7235.html)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7725 - An HTTP Status Code to Report Legal Obstacles](https://httpwg.org/specs/rfc7725.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 8246 - HTTP Immutable Responses](https://httpwg.org/specs/rfc8246.html)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+
+
+### RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
+- Crawled URL: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
+- Shortname: rfc7235
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
+- [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7538](https://www.rfc-editor.org/rfc/rfc7538)
+- Crawled URL: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
+- Shortname: rfc7538
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/), related reference "HTML" uses URL [`http://www.w3.org/TR/2014/REC-html5-20141028/`](http://www.w3.org/TR/2014/REC-html5-20141028/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2) {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7540](https://www.rfc-editor.org/rfc/rfc7540)
+- Crawled URL: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
+- Shortname: rfc7540
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+
+Informative references to this spec from:
+
+- [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+
+## Hypertext Transfer Protocol Bis Working Group {#hypertext_transfer_protocol_bis_working_group}
+
+### RFC 7725 - An HTTP Status Code to Report Legal Obstacles {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
+- Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
+- Shortname: rfc7725
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### RFC 7838 - HTTP Alternative Services {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
+- Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
+- Shortname: rfc7838
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+
+
+### RFC 8246 - HTTP Immutable Responses {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
+- Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
+- Shortname: rfc8246
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 8470 - Using Early Data in HTTP {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
+- Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
+- Shortname: rfc8470
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+Informative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+
+## Kerberos WG Working Group {#kerberos_wg_working_group}
+
+### RFC 4120: The Kerberos Network Authentication Service (V5) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
+- Shortname: rfc4120
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Network Working Group {#network_working_group}
+
+### RFC 2397: The "data" URL scheme {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
+- Shortname: rfc2397
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+
+
+## QUIC Working Group {#quic_working_group}
+
+### RFC 9114 - HTTP/3 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
+- Crawled URL: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
+- Shortname: rfc9114
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+## Web Security Working Group {#web_security_working_group}
+
+### RFC 6454: The Web Origin Concept {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
+- Shortname: rfc6454
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2010/WD-cors-20100727/`](http://www.w3.org/TR/2010/WD-cors-20100727/)
+     * [`http://www.w3.org/TR/2011/WD-html5-20110525/`](http://www.w3.org/TR/2011/WD-html5-20110525/)
+     * [`http://www.w3.org/TR/cors/`](http://www.w3.org/TR/cors/)
+     * [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+
+Informative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [URL Standard](https://url.spec.whatwg.org/)
+
+
+### RFC 6797: HTTP Strict Transport Security (HSTS) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
+- Shortname: rfc6797
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224/`](http://www.w3.org/TR/1999/REC-html401-19991224/)
+     * [`http://www.w3.org/TR/2010/REC-wsc-ui-20100812`](http://www.w3.org/TR/2010/REC-wsc-ui-20100812)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+
+
+### RFC 7034: HTTP Header Field X-Frame-Options {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
+- Shortname: rfc7034
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2012/CR-CSP-20121115/`](http://www.w3.org/TR/2012/CR-CSP-20121115/)
+     * [`http://www.w3.org/TR/2013/WD-CSP11-20130604/`](http://www.w3.org/TR/2013/WD-CSP11-20130604/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+
+### RFC 7469: Public Key Pinning Extension for HTTP {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
+- Shortname: rfc7469
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224`](http://www.w3.org/TR/1999/REC-html401-19991224)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Reporting API](https://w3c.github.io/reporting/)
+- [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+
+
+# Khronos Group {#khronos_group}
+
+## WebGL Working Group {#webgl_working_group}
+
+### WebGL 2.0 Specification {data-spec=true data-anomaly=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/specs/latest/2.0/](https://registry.khronos.org/webgl/specs/latest/2.0/)
+- Crawled URL: [https://registry.khronos.org/webgl/specs/latest/2.0/](https://registry.khronos.org/webgl/specs/latest/2.0/)
+- Crawled version: 9 August 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/specs/latest/2.0/](https://registry.khronos.org/webgl/specs/latest/2.0/)
+- Shortname: webgl2
+
+#### Potential issue(s) {.anomalies}
+
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
+- Shortname: ANGLE_instanced_arrays
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_blend_minmax Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
+- Shortname: EXT_blend_minmax
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_clip_cull_distance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
+- Shortname: EXT_clip_cull_distance
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
+- Shortname: EXT_color_buffer_float
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_color_buffer_half_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
+- Shortname: EXT_color_buffer_half_float
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_disjoint_timer_query Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
+- Shortname: EXT_disjoint_timer_query
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_disjoint_timer_query_webgl2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
+- Shortname: EXT_disjoint_timer_query_webgl2
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_float_blend Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
+- Shortname: EXT_float_blend
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_frag_depth Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
+- Shortname: EXT_frag_depth
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
+- Shortname: EXT_shader_texture_lod
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_sRGB Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
+- Shortname: EXT_sRGB
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_texture_compression_bptc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
+- Shortname: EXT_texture_compression_bptc
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_texture_compression_rgtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
+- Shortname: EXT_texture_compression_rgtc
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
+- Shortname: EXT_texture_filter_anisotropic
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL EXT_texture_norm16 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
+- Shortname: EXT_texture_norm16
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL KHR_parallel_shader_compile Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
+- Shortname: KHR_parallel_shader_compile
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_draw_buffers_indexed Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
+- Shortname: OES_draw_buffers_indexed
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_element_index_uint Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
+- Shortname: OES_element_index_uint
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_fbo_render_mipmap Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
+- Shortname: OES_fbo_render_mipmap
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_standard_derivatives Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
+- Shortname: OES_standard_derivatives
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_texture_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
+- Shortname: OES_texture_float
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_texture_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
+- Shortname: OES_texture_float_linear
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_texture_half_float Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
+- Shortname: OES_texture_half_float
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
+- Shortname: OES_texture_half_float_linear
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OES_vertex_array_object Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
+- Shortname: OES_vertex_array_object
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL OVR_multiview2 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
+- Shortname: OVR_multiview2
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL Specification {data-spec=true data-anomaly=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/specs/latest/1.0/](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- Crawled URL: [https://registry.khronos.org/webgl/specs/latest/1.0/](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- Crawled version: 9 August 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/specs/latest/1.0/](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- Shortname: webgl1
+
+#### Potential issue(s) {.anomalies}
+
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
+- Shortname: WEBGL_blend_equation_advanced_coherent
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
+- Shortname: WEBGL_color_buffer_float
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_compressed_texture_astc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
+- Shortname: WEBGL_compressed_texture_astc
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_compressed_texture_etc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
+- Shortname: WEBGL_compressed_texture_etc
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_compressed_texture_etc1 Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
+- Shortname: WEBGL_compressed_texture_etc1
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_compressed_texture_pvrtc Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
+- Shortname: WEBGL_compressed_texture_pvrtc
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
+- Shortname: WEBGL_compressed_texture_s3tc
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
+- Shortname: WEBGL_compressed_texture_s3tc_srgb
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
+- Shortname: WEBGL_debug_renderer_info
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
+- Shortname: WEBGL_debug_shaders
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_depth_texture Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
+- Shortname: WEBGL_depth_texture
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
+- Shortname: WEBGL_draw_buffers
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
+- Shortname: WEBGL_draw_instanced_base_vertex_base_instance
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_lose_context Khronos Ratified Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
+- Shortname: WEBGL_lose_context
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_multi_draw Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
+- Shortname: WEBGL_multi_draw
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- Shortname: WEBGL_multi_draw_instanced_base_vertex_base_instance
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+# W3C {#w3c}
+
+## Accessible Rich Internet Applications Working Group {#accessible_rich_internet_applications_working_group}
+
+### Accessible Name and Description Computation 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
+- Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
+- Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
+- Shortname: accname-1.2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/html-aam-1.0/`](https://www.w3.org/TR/html-aam-1.0/)
+     * [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [ARIA in HTML](https://w3c.github.io/html-aria/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+Informative references to this spec from:
+
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/)
+- [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
+
+
+### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
+- Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
+- Crawled version: 02 September 2022
+- Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
+- Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
+- Shortname: wai-aria-1.2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/aria-practices/`](https://w3c.github.io/aria-practices/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/html/grouping-content.html`](https://www.w3.org/TR/html/grouping-content.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html/textlevel-semantics.html`](https://www.w3.org/TR/html/textlevel-semantics.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html5/grouping-content.html`](https://www.w3.org/TR/html5/grouping-content.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [ARIA in HTML](https://w3c.github.io/html-aria/)
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [The <model> element](https://immersive-web.github.io/model-element/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+
+
+### Core Accessibility API Mappings 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
+- Crawled URL: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
+- Latest published version: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
+- Shortname: core-aam-1.2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/wai-aria-implementation/`](http://www.w3.org/TR/wai-aria-implementation/)
+     * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/)
+
+No informative reference to this spec from other specs.
+
+
+### Graphics Accessibility API Mappings {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/graphics-aam-1.0/](https://www.w3.org/TR/graphics-aam-1.0/)
+- Crawled URL: [https://w3c.github.io/graphics-aam/](https://w3c.github.io/graphics-aam/)
+- Crawled version: 21 July 2021
+- Editor's Draft: [https://w3c.github.io/graphics-aam/](https://w3c.github.io/graphics-aam/)
+- Latest published version: [https://www.w3.org/TR/graphics-aam-1.0/](https://www.w3.org/TR/graphics-aam-1.0/)
+- Shortname: graphics-aam-1.0
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/)
+     * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/)
+     * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/), related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+
+No informative reference to this spec from other specs.
+
+
+### HTML Accessibility API Mappings 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
+- Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
+- Crawled version: 29 August 2022
+- Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
+- Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
+- Shortname: html-aam-1.0
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/)
+     * [`https://w3c.github.io/mathml-aam/`](https://w3c.github.io/mathml-aam/)
+     * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/)
+     * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+     * [`https://www.w3.org/TR/html/sec-forms.html`](https://www.w3.org/TR/html/sec-forms.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [ARIA in HTML](https://w3c.github.io/html-aria/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+
+Informative references to this spec from:
+
+- [The <model> element](https://immersive-web.github.io/model-element/)
+
+
+### MathML Accessiblity API Mappings 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/mathml-aam/](https://w3c.github.io/mathml-aam/)
+- Crawled URL: [https://w3c.github.io/mathml-aam/](https://w3c.github.io/mathml-aam/)
+- Crawled version: 05 November 2021
+- Editor's Draft: [https://w3c.github.io/mathml-aam/](https://w3c.github.io/mathml-aam/)
+- Shortname: mathml-aam
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WAI-ARIA Graphics Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/graphics-aria-1.0/](https://www.w3.org/TR/graphics-aria-1.0/)
+- Crawled URL: [https://w3c.github.io/graphics-aria/](https://w3c.github.io/graphics-aria/)
+- Crawled version: 21 July 2021
+- Editor's Draft: [https://w3c.github.io/graphics-aria/](https://w3c.github.io/graphics-aria/)
+- Latest published version: [https://www.w3.org/TR/graphics-aria-1.0/](https://www.w3.org/TR/graphics-aria-1.0/)
+- Shortname: graphics-aria-1.0
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+Informative references to this spec from:
+
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+
+
+## Advisory Board {#advisory_board}
+
+### W3C Process Document {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
+- Crawled URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
+- Crawled version: 2 November 2021
+- Editor's Draft: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
+- Shortname: w3c-process
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
+
+No informative reference to this spec from other specs.
+
+
+## Audio Working Group {#audio_working_group}
+
+### Web Audio API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
+- Crawled URL: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
+- Latest published version: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
+- Shortname: webaudio
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mediacapture-fromelement/`](https://www.w3.org/TR/mediacapture-fromelement/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+
+### Web MIDI API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
+- Crawled URL: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
+- Crawled version: 14 September 2022
+- Editor's Draft: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
+- Latest published version: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
+- Shortname: webmidi
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+No informative reference to this spec from other specs.
+
+
+## Browser Testing and Tools Working Group {#browser_testing_and_tools_working_group}
+
+### WebDriver {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
+- Crawled URL: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
+- Crawled version: 25 August 2022
+- Editor's Draft: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
+- Latest published version: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
+- Shortname: webdriver2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/contentEditable`](https://w3c.github.io/contentEditable)
+     * [`https://w3c.github.io/editing/execCommand.html`](https://w3c.github.io/editing/execCommand.html)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/), related reference "DOM-PARSING" uses URL [`https://www.w3.org/TR/DOM-Parsing/`](https://www.w3.org/TR/DOM-Parsing/)
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FILEAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Test Utils Standard](https://testutils.spec.whatwg.org/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+
+No informative reference to this spec from other specs.
+
+
+### WebDriver BiDi {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
+- Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
+- Shortname: webdriver-bidi
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+No informative reference to this spec from other specs.
+
+
+## Cascading Style Sheets (CSS) Working Group {#cascading_style_sheets_css_working_group}
+
+### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/compositing-1/](https://www.w3.org/TR/compositing-1/)
+- Crawled URL: [https://drafts.fxtf.org/compositing-1/](https://drafts.fxtf.org/compositing-1/)
+- Crawled version: 22 April 2022
+- Editor's Draft: [https://drafts.fxtf.org/compositing-1/](https://drafts.fxtf.org/compositing-1/)
+- Latest published version: [https://www.w3.org/TR/compositing-1/](https://www.w3.org/TR/compositing-1/)
+- Shortname: compositing-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+
+No informative reference to this spec from other specs.
+
+
+### Compositing and Blending Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.fxtf.org/compositing-2/](https://drafts.fxtf.org/compositing-2/)
+- Crawled URL: [https://drafts.fxtf.org/compositing-2/](https://drafts.fxtf.org/compositing-2/)
+- Crawled version: 6 January 2022
+- Editor's Draft: [https://drafts.fxtf.org/compositing-2/](https://drafts.fxtf.org/compositing-2/)
+- Shortname: compositing-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
+     * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
+     * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/CSS21/](https://www.w3.org/TR/CSS21/)
+- Crawled URL: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
+- Crawled version: 24 February 2022
+- Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
+- Latest published version: [https://www.w3.org/TR/CSS21/](https://www.w3.org/TR/CSS21/)
+- Shortname: CSS21
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [UI Events](https://w3c.github.io/uievents/)
+
+
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
+- Crawled URL: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
+- Crawled version: 24 February 2022
+- Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
+- Latest published version: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
+- Shortname: CSS22
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Animation Worklet API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-animation-worklet-1/](https://www.w3.org/TR/css-animation-worklet-1/)
+- Crawled URL: [https://drafts.css-houdini.org/css-animationworklet-1/](https://drafts.css-houdini.org/css-animationworklet-1/)
+- Crawled version: 15 July 2022
+- Editor's Draft: [https://drafts.css-houdini.org/css-animationworklet-1/](https://drafts.css-houdini.org/css-animationworklet-1/)
+- Latest published version: [https://www.w3.org/TR/css-animation-worklet-1/](https://www.w3.org/TR/css-animation-worklet-1/)
+- Shortname: css-animation-worklet-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://w3c.github.io/html/infrastructure.html`](http://w3c.github.io/html/infrastructure.html)
+     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Animations Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
+- Crawled URL: [https://drafts.csswg.org/css-animations-1/](https://drafts.csswg.org/css-animations-1/)
+- Crawled version: 15 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-animations-1/](https://drafts.csswg.org/css-animations-1/)
+- Latest published version: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
+- Shortname: css-animations-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+
+Informative references to this spec from:
+
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+
+### CSS Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
+- Crawled URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
+- Crawled version: 22 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
+- Shortname: css-animations-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Backgrounds and Borders Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
+- Crawled URL: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
+- Crawled version: 26 July 2021
+- Editor's Draft: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
+- Latest published version: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
+- Shortname: css-backgrounds-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
+     * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/)
+     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120417/`](https://www.w3.org/TR/2012/CR-css3-background-20120417/)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120724/`](https://www.w3.org/TR/2012/CR-css3-background-20120724/)
+     * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/)
+     * [`https://www.w3.org/TR/2014/CR-css3-background-20140909/`](https://www.w3.org/TR/2014/CR-css3-background-20140909/)
+     * [`https://www.w3.org/TR/2014/WD-css3-background-20140204/`](https://www.w3.org/TR/2014/WD-css3-background-20140204/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+
+Informative references to this spec from:
+
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+
+
+### CSS Backgrounds and Borders Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
+- Crawled URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
+- Shortname: css-backgrounds-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Basic User Interface Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-ui-4/](https://www.w3.org/TR/css-ui-4/)
+- Crawled URL: [https://drafts.csswg.org/css-ui-4/](https://drafts.csswg.org/css-ui-4/)
+- Crawled version: 14 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-ui-4/](https://drafts.csswg.org/css-ui-4/)
+- Latest published version: [https://www.w3.org/TR/css-ui-4/](https://www.w3.org/TR/css-ui-4/)
+- Shortname: css-ui-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/contentEditable/`](https://w3c.github.io/contentEditable/)
+     * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+
+
+### CSS Box Alignment Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
+- Crawled URL: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
+- Crawled version: 1 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
+- Latest published version: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
+- Shortname: css-align-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/)
+     * [`http://www.w3.org/TR/css-grid/`](http://www.w3.org/TR/css-grid/)
+     * [`http://www.w3.org/TR/css3-multicol/`](http://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/)
+     * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Box Model Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
+- Crawled URL: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
+- Latest published version: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
+- Shortname: css-box-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
+     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+
+
+### CSS Box Model Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
+- Crawled URL: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
+- Latest published version: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
+- Shortname: css-box-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
+     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+
+Informative references to this spec from:
+
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+
+
+### CSS Box Sizing Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-sizing-3/](https://www.w3.org/TR/css-sizing-3/)
+- Crawled URL: [https://drafts.csswg.org/css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
+- Latest published version: [https://www.w3.org/TR/css-sizing-3/](https://www.w3.org/TR/css-sizing-3/)
+- Shortname: css-sizing-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css2/box.html`](https://www.w3.org/TR/css2/box.html)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+
+
+### CSS Box Sizing Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-sizing-4/](https://www.w3.org/TR/css-sizing-4/)
+- Crawled URL: [https://drafts.csswg.org/css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
+- Crawled version: 24 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
+- Latest published version: [https://www.w3.org/TR/css-sizing-4/](https://www.w3.org/TR/css-sizing-4/)
+- Shortname: css-sizing-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+
+Informative references to this spec from:
+
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+
+
+### CSS Cascading and Inheritance Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
+- Crawled URL: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
+- Crawled version: 14 April 2022
+- Editor's Draft: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
+- Latest published version: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
+- Shortname: css-cascade-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+
+
+### CSS Cascading and Inheritance Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
+- Crawled URL: [https://drafts.csswg.org/css-cascade-4/](https://drafts.csswg.org/css-cascade-4/)
+- Crawled version: 4 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-cascade-4/](https://drafts.csswg.org/css-cascade-4/)
+- Latest published version: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
+- Shortname: css-cascade-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/)
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
+     * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/)
+     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/), related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/), related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [ContentEditable](https://w3c.github.io/contentEditable/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+
+
+### CSS Cascading and Inheritance Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
+- Crawled URL: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
+- Crawled version: 23 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
+- Latest published version: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
+- Shortname: css-cascade-5
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/)
+     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/), related reference "CSS-CASCADE-4" uses URL [`https://drafts.csswg.org/css-cascade-4/`](https://drafts.csswg.org/css-cascade-4/)
+     * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/), related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/), related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+
+
+### CSS Cascading and Inheritance Level 6 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
+- Crawled URL: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
+- Latest published version: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
+- Shortname: css-cascade-6
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+
+Informative references to this spec from:
+
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+
+
+### CSS Color Adjustment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-color-adjust-1/](https://www.w3.org/TR/css-color-adjust-1/)
+- Crawled URL: [https://drafts.csswg.org/css-color-adjust-1/](https://drafts.csswg.org/css-color-adjust-1/)
+- Crawled version: 14 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-color-adjust-1/](https://drafts.csswg.org/css-color-adjust-1/)
+- Latest published version: [https://www.w3.org/TR/css-color-adjust-1/](https://www.w3.org/TR/css-color-adjust-1/)
+- Shortname: css-color-adjust-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Color Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
+- Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
+- Crawled version: 9 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
+- Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
+- Shortname: css-color-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+Informative references to this spec from:
+
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+
+### CSS Color Module Level 5 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
+- Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
+- Crawled version: 7 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
+- Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
+- Shortname: css-color-5
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+
+Informative references to this spec from:
+
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+
+
+### CSS Conditional Rules Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
+- Crawled URL: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
+- Crawled version: 13 January 2022
+- Editor's Draft: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
+- Latest published version: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
+- Shortname: css-conditional-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+
+Informative references to this spec from:
+
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+
+
+### CSS Conditional Rules Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
+- Crawled URL: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
+- Crawled version: 4 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
+- Latest published version: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
+- Shortname: css-conditional-4
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/), related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Conditional Rules Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
+- Crawled URL: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
+- Crawled version: 21 December 2021
+- Editor's Draft: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
+- Latest published version: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
+- Shortname: css-conditional-5
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Containment Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
+- Crawled URL: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
+- Crawled version: 17 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
+- Latest published version: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
+- Shortname: css-contain-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+
+
+### CSS Containment Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
+- Crawled URL: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
+- Latest published version: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
+- Shortname: css-contain-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-contain-2/`](https://www.w3.org/TR/css-contain-2/), related reference "CSS-CONTAIN-2" uses URL [`https://drafts.csswg.org/css-contain-2/`](https://drafts.csswg.org/css-contain-2/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Counter Styles Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-counter-styles-3/](https://www.w3.org/TR/css-counter-styles-3/)
+- Crawled URL: [https://drafts.csswg.org/css-counter-styles-3/](https://drafts.csswg.org/css-counter-styles-3/)
+- Crawled version: 8 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-counter-styles-3/](https://drafts.csswg.org/css-counter-styles-3/)
+- Latest published version: [https://www.w3.org/TR/css-counter-styles-3/](https://www.w3.org/TR/css-counter-styles-3/)
+- Shortname: css-counter-styles-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/predefined-counter-styles/`](https://www.w3.org/TR/predefined-counter-styles/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Custom Highlight API Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-highlight-api-1/](https://www.w3.org/TR/css-highlight-api-1/)
+- Crawled URL: [https://drafts.csswg.org/css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
+- Crawled version: 2 February 2022
+- Editor's Draft: [https://drafts.csswg.org/css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
+- Latest published version: [https://www.w3.org/TR/css-highlight-api-1/](https://www.w3.org/TR/css-highlight-api-1/)
+- Shortname: css-highlight-api-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Custom Properties for Cascading Variables Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-variables-1/](https://www.w3.org/TR/css-variables-1/)
+- Crawled URL: [https://drafts.csswg.org/css-variables-1/](https://drafts.csswg.org/css-variables-1/)
+- Crawled version: 27 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-variables-1/](https://drafts.csswg.org/css-variables-1/)
+- Latest published version: [https://www.w3.org/TR/css-variables-1/](https://www.w3.org/TR/css-variables-1/)
+- Shortname: css-variables-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Custom Properties for Cascading Variables Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-variables-2/](https://drafts.csswg.org/css-variables-2/)
+- Crawled URL: [https://drafts.csswg.org/css-variables-2/](https://drafts.csswg.org/css-variables-2/)
+- Crawled version: 29 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-variables-2/](https://drafts.csswg.org/css-variables-2/)
+- Shortname: css-variables-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
+- [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+
+
+### CSS Device Adaptation Module Level 1 {data-spec=true data-error=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-device-adapt-1/](https://www.w3.org/TR/css-device-adapt-1/)
+- Crawled URL: [https://drafts.csswg.org/css-device-adapt-1/](https://drafts.csswg.org/css-device-adapt-1/)
+- Crawled version: 17 May 2021
+- Editor's Draft: [https://drafts.csswg.org/css-device-adapt-1/](https://drafts.csswg.org/css-device-adapt-1/)
+- Latest published version: [https://www.w3.org/TR/css-device-adapt-1/](https://www.w3.org/TR/css-device-adapt-1/)
+- Shortname: css-device-adapt-1
+
+#### Potential issue(s) {.anomalies}
+
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-device-adapt-1/ triggered HTTP status 404 Error: Loading https://drafts.csswg.org/css-device-adapt-1/ triggered HTTP status 404
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 273)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+
+
+### CSS Display Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-display-3/](https://www.w3.org/TR/css-display-3/)
+- Crawled URL: [https://drafts.csswg.org/css-display-3/](https://drafts.csswg.org/css-display-3/)
+- Crawled version: 29 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-display-3/](https://drafts.csswg.org/css-display-3/)
+- Latest published version: [https://www.w3.org/TR/css-display-3/](https://www.w3.org/TR/css-display-3/)
+- Shortname: css-display-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-speech-1/`](https://www.w3.org/TR/css-speech-1/), related reference "CSS-SPEECH-1" uses URL [`https://drafts.csswg.org/css-speech-1/`](https://drafts.csswg.org/css-speech-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Easing Functions Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-easing-1/](https://www.w3.org/TR/css-easing-1/)
+- Crawled URL: [https://drafts.csswg.org/css-easing-1/](https://drafts.csswg.org/css-easing-1/)
+- Crawled version: 15 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-easing-1/](https://drafts.csswg.org/css-easing-1/)
+- Latest published version: [https://www.w3.org/TR/css-easing-1/](https://www.w3.org/TR/css-easing-1/)
+- Shortname: css-easing-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Easing Functions Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
+- Crawled URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
+- Crawled version: 19 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
+- Shortname: css-easing-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Environment Variables Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-env-1/](https://drafts.csswg.org/css-env-1/)
+- Crawled URL: [https://drafts.csswg.org/css-env-1/](https://drafts.csswg.org/css-env-1/)
+- Crawled version: 30 August 2021
+- Editor's Draft: [https://drafts.csswg.org/css-env-1/](https://drafts.csswg.org/css-env-1/)
+- Shortname: css-env-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Exclusions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css3-exclusions/](https://www.w3.org/TR/css3-exclusions/)
+- Crawled URL: [https://drafts.csswg.org/css-exclusions-1/](https://drafts.csswg.org/css-exclusions-1/)
+- Crawled version: 27 July 2021
+- Editor's Draft: [https://drafts.csswg.org/css-exclusions-1/](https://drafts.csswg.org/css-exclusions-1/)
+- Latest published version: [https://www.w3.org/TR/css3-exclusions/](https://www.w3.org/TR/css3-exclusions/)
+- Shortname: css3-exclusions
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-box/`](https://www.w3.org/TR/css3-box/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Proposals for the future of CSS Paged Media](https://drafts.csswg.org/css-page-4/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Extensions {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
+- Crawled URL: [https://drafts.csswg.org/css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
+- Crawled version: 26 August 2020
+- Editor's Draft: [https://drafts.csswg.org/css-extensions-1/](https://drafts.csswg.org/css-extensions-1/)
+- Shortname: css-extensions-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/fill-stroke-3/](https://www.w3.org/TR/fill-stroke-3/)
+- Crawled URL: [https://drafts.fxtf.org/fill-stroke-3/](https://drafts.fxtf.org/fill-stroke-3/)
+- Crawled version: 4 April 2017
+- Editor's Draft: [https://drafts.fxtf.org/fill-stroke-3/](https://drafts.fxtf.org/fill-stroke-3/)
+- Latest published version: [https://www.w3.org/TR/fill-stroke-3/](https://www.w3.org/TR/fill-stroke-3/)
+- Shortname: fill-stroke-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Flexible Box Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
+- Crawled URL: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
+- Crawled version: 24 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
+- Latest published version: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
+- Shortname: css-flexbox-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/`](https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-speech/`](https://www.w3.org/TR/css-speech/)
+     * [`https://www.w3.org/TR/css3-align/`](https://www.w3.org/TR/css3-align/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+
+
+### CSS Font Loading Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
+- Crawled URL: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
+- Crawled version: 13 September 2021
+- Editor's Draft: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
+- Latest published version: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
+- Shortname: css-font-loading-3
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Fonts Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
+- Crawled URL: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
+- Crawled version: 14 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
+- Latest published version: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
+- Shortname: css-fonts-4
+
+#### Potential issue(s) {.anomalies}
+
+- No definition for CSS properties: 
+     * `<feature-value-block>`
+     * `<font-feature-value-type>`
+- Missing references for links: 
+     * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/), related reference "PFE-report" uses URL [`https://www.w3.org/TR/PFE-evaluation/`](https://www.w3.org/TR/PFE-evaluation/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+- [WOFF File Format 2.0](https://w3c.github.io/woff/woff2/)
+
+Informative references to this spec from:
+
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [WOFF File Format 1.0](https://w3c.github.io/woff/woff1/spec/Overview.html)
+
+
+### CSS Fonts Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
+- Crawled URL: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
+- Crawled version: 21 December 2021
+- Editor's Draft: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
+- Latest published version: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
+- Shortname: css-fonts-5
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+
+
+### CSS Fragmentation Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-break-3/](https://www.w3.org/TR/css-break-3/)
+- Crawled URL: [https://drafts.csswg.org/css-break-3/](https://drafts.csswg.org/css-break-3/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-break-3/](https://drafts.csswg.org/css-break-3/)
+- Latest published version: [https://www.w3.org/TR/css-break-3/](https://www.w3.org/TR/css-break-3/)
+- Shortname: css-break-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html)
+     * [`https://www.w3.org/TR/2015/WD-css3-break-20150129/`](https://www.w3.org/TR/2015/WD-css3-break-20150129/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
+     * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions)
+     * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+
+Informative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+
+### CSS Fragmentation Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-break-4/](https://www.w3.org/TR/css-break-4/)
+- Crawled URL: [https://drafts.csswg.org/css-break-4/](https://drafts.csswg.org/css-break-4/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-break-4/](https://drafts.csswg.org/css-break-4/)
+- Latest published version: [https://www.w3.org/TR/css-break-4/](https://www.w3.org/TR/css-break-4/)
+- Shortname: css-break-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions)
+     * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-page-3/`](https://www.w3.org/TR/css-page-3/), related reference "CSS-PAGE-3" uses URL [`https://drafts.csswg.org/css-page-3/`](https://drafts.csswg.org/css-page-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+
+
+### CSS Generated Content for Paged Media Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-gcpm-3/](https://www.w3.org/TR/css-gcpm-3/)
+- Crawled URL: [https://drafts.csswg.org/css-gcpm-3/](https://drafts.csswg.org/css-gcpm-3/)
+- Crawled version: 27 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-gcpm-3/](https://drafts.csswg.org/css-gcpm-3/)
+- Latest published version: [https://www.w3.org/TR/css-gcpm-3/](https://www.w3.org/TR/css-gcpm-3/)
+- Shortname: css-gcpm-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://books.spec.whatwg.org/`](http://books.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
+     * [`https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/`](https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-content-3/`](https://www.w3.org/TR/css-content-3/), related reference "CSS3-CONTENT" uses URL [`https://drafts.csswg.org/css-content-3/`](https://drafts.csswg.org/css-content-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Generated Content for Paged Media Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
+- Crawled URL: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
+- Crawled version: 27 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-gcpm-4/](https://drafts.csswg.org/css-gcpm-4/)
+- Shortname: css-gcpm-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Generated Content Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-content-3/](https://www.w3.org/TR/css-content-3/)
+- Crawled URL: [https://drafts.csswg.org/css-content-3/](https://drafts.csswg.org/css-content-3/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-content-3/](https://drafts.csswg.org/css-content-3/)
+- Latest published version: [https://www.w3.org/TR/css-content-3/](https://www.w3.org/TR/css-content-3/)
+- Shortname: css-content-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+Informative references to this spec from:
+
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+
+
+### CSS Grid Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
+- Crawled URL: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
+- Crawled version: 13 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
+- Latest published version: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
+- Shortname: css-grid-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+
+Informative references to this spec from:
+
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+
+
+### CSS Grid Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
+- Crawled URL: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
+- Crawled version: 21 February 2021
+- Editor's Draft: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
+- Shortname: css-grid-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-grid-2/`](https://www.w3.org/TR/css-grid-2/), related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Images Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
+- Crawled URL: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
+- Crawled version: 1 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
+- Latest published version: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
+- Shortname: css-images-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/)
+     * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
+     * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+Informative references to this spec from:
+
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+
+
+### CSS Images Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
+- Crawled URL: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
+- Crawled version: 12 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
+- Latest published version: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
+- Shortname: css-images-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/)
+     * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
+     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
+     * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/svg-integration/`](https://www.w3.org/TR/svg-integration/), related reference "SVG-INTEGRATION" uses URL [`https://svgwg.org/specs/integration/`](https://svgwg.org/specs/integration/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+Informative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+
+
+### CSS Inline Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
+- Crawled URL: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
+- Latest published version: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
+- Shortname: css-inline-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/multipage/canvas.html`](https://html.spec.whatwg.org/multipage/canvas.html)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
+
+
+### CSS Layout API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-layout-api-1/](https://www.w3.org/TR/css-layout-api-1/)
+- Crawled URL: [https://drafts.css-houdini.org/css-layout-api-1/](https://drafts.css-houdini.org/css-layout-api-1/)
+- Crawled version: 15 July 2022
+- Editor's Draft: [https://drafts.css-houdini.org/css-layout-api-1/](https://drafts.css-houdini.org/css-layout-api-1/)
+- Latest published version: [https://www.w3.org/TR/css-layout-api-1/](https://www.w3.org/TR/css-layout-api-1/)
+- Shortname: css-layout-api-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+
+
+### CSS Line Grid Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
+- Crawled URL: [https://drafts.csswg.org/css-line-grid-1/](https://drafts.csswg.org/css-line-grid-1/)
+- Crawled version: 15 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-line-grid-1/](https://drafts.csswg.org/css-line-grid-1/)
+- Latest published version: [https://www.w3.org/TR/css-line-grid-1/](https://www.w3.org/TR/css-line-grid-1/)
+- Shortname: css-line-grid-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Lists and Counters Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
+- Crawled URL: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
+- Crawled version: 24 February 2022
+- Editor's Draft: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
+- Latest published version: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
+- Shortname: css-lists-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+
+
+### CSS Logical Properties and Values Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
+- Crawled URL: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
+- Crawled version: 30 March 2022
+- Editor's Draft: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
+- Latest published version: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
+- Shortname: css-logical-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-writing-modes/`](http://www.w3.org/TR/css-writing-modes/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+
+
+### CSS Masking Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-masking-1/](https://www.w3.org/TR/css-masking-1/)
+- Crawled URL: [https://drafts.fxtf.org/css-masking-1/](https://drafts.fxtf.org/css-masking-1/)
+- Crawled version: 27 August 2022
+- Editor's Draft: [https://drafts.fxtf.org/css-masking-1/](https://drafts.fxtf.org/css-masking-1/)
+- Latest published version: [https://www.w3.org/TR/css-masking-1/](https://www.w3.org/TR/css-masking-1/)
+- Shortname: css-masking-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
+     * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+Informative references to this spec from:
+
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+
+
+### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
+- Crawled URL: [https://drafts.csswg.org/css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
+- Shortname: css-size-adjust-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Multi-column Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-multicol-1/](https://www.w3.org/TR/css-multicol-1/)
+- Crawled URL: [https://drafts.csswg.org/css-multicol-1/](https://drafts.csswg.org/css-multicol-1/)
+- Crawled version: 18 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-multicol-1/](https://drafts.csswg.org/css-multicol-1/)
+- Latest published version: [https://www.w3.org/TR/css-multicol-1/](https://www.w3.org/TR/css-multicol-1/)
+- Shortname: css-multicol-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/CR-css3-multicol-20110412/`](https://www.w3.org/TR/2011/CR-css3-multicol-20110412/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Multi-column Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-multicol-2/](https://drafts.csswg.org/css-multicol-2/)
+- Crawled URL: [https://drafts.csswg.org/css-multicol-2/](https://drafts.csswg.org/css-multicol-2/)
+- Crawled version: 5 October 2021
+- Editor's Draft: [https://drafts.csswg.org/css-multicol-2/](https://drafts.csswg.org/css-multicol-2/)
+- Shortname: css-multicol-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-multicol`](https://www.w3.org/TR/css3-multicol)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Namespaces Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-namespaces-3/](https://www.w3.org/TR/css-namespaces-3/)
+- Crawled URL: [https://drafts.csswg.org/css-namespaces-3/](https://drafts.csswg.org/css-namespaces-3/)
+- Crawled version: 18 August 2020
+- Editor's Draft: [https://drafts.csswg.org/css-namespaces-3/](https://drafts.csswg.org/css-namespaces-3/)
+- Latest published version: [https://www.w3.org/TR/css-namespaces-3/](https://www.w3.org/TR/css-namespaces-3/)
+- Shortname: css-namespaces-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Nesting Module {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
+- Crawled URL: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
+- Crawled version: 4 January 2022
+- Editor's Draft: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
+- Latest published version: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
+- Shortname: css-nesting-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Object Model (CSSOM) {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
+- Crawled URL: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
+- Crawled version: 17 March 2022
+- Editor's Draft: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
+- Latest published version: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
+- Shortname: cssom-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+
+
+### CSS Overflow Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
+- Crawled URL: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
+- Crawled version: 2 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
+- Latest published version: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
+- Shortname: css-overflow-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/)
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+
+
+### CSS Overflow Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-overflow-4/](https://www.w3.org/TR/css-overflow-4/)
+- Crawled URL: [https://drafts.csswg.org/css-overflow-4/](https://drafts.csswg.org/css-overflow-4/)
+- Crawled version: 10 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-overflow-4/](https://drafts.csswg.org/css-overflow-4/)
+- Latest published version: [https://www.w3.org/TR/css-overflow-4/](https://www.w3.org/TR/css-overflow-4/)
+- Shortname: css-overflow-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+Informative references to this spec from:
+
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+
+### CSS Overscroll Behavior Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-overscroll-1/](https://www.w3.org/TR/css-overscroll-1/)
+- Crawled URL: [https://drafts.csswg.org/css-overscroll-1/](https://drafts.csswg.org/css-overscroll-1/)
+- Crawled version: 1 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-overscroll-1/](https://drafts.csswg.org/css-overscroll-1/)
+- Latest published version: [https://www.w3.org/TR/css-overscroll-1/](https://www.w3.org/TR/css-overscroll-1/)
+- Shortname: css-overscroll-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Page Floats {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-page-floats-3/](https://www.w3.org/TR/css-page-floats-3/)
+- Crawled URL: [https://drafts.csswg.org/css-page-floats-3/](https://drafts.csswg.org/css-page-floats-3/)
+- Crawled version: 5 October 2021
+- Editor's Draft: [https://drafts.csswg.org/css-page-floats-3/](https://drafts.csswg.org/css-page-floats-3/)
+- Latest published version: [https://www.w3.org/TR/css-page-floats-3/](https://www.w3.org/TR/css-page-floats-3/)
+- Shortname: css-page-floats-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Paged Media Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-page-3/](https://www.w3.org/TR/css-page-3/)
+- Crawled URL: [https://drafts.csswg.org/css-page-3/](https://drafts.csswg.org/css-page-3/)
+- Crawled version: 24 May 2022
+- Editor's Draft: [https://drafts.csswg.org/css-page-3/](https://drafts.csswg.org/css-page-3/)
+- Latest published version: [https://www.w3.org/TR/css-page-3/](https://www.w3.org/TR/css-page-3/)
+- Shortname: css-page-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+
+
+### CSS Painting API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-paint-api-1/](https://www.w3.org/TR/css-paint-api-1/)
+- Crawled URL: [https://drafts.css-houdini.org/css-paint-api-1/](https://drafts.css-houdini.org/css-paint-api-1/)
+- Crawled version: 15 December 2020
+- Editor's Draft: [https://drafts.css-houdini.org/css-paint-api-1/](https://drafts.css-houdini.org/css-paint-api-1/)
+- Latest published version: [https://www.w3.org/TR/css-paint-api-1/](https://www.w3.org/TR/css-paint-api-1/)
+- Shortname: css-paint-api-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+
+Informative references to this spec from:
+
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+
+
+### CSS Positioned Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
+- Crawled URL: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
+- Crawled version: 1 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
+- Latest published version: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
+- Shortname: css-position-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+
+Informative references to this spec from:
+
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+
+
+### CSS Properties and Values API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-properties-values-api-1/](https://www.w3.org/TR/css-properties-values-api-1/)
+- Crawled URL: [https://drafts.css-houdini.org/css-properties-values-api-1/](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- Crawled version: 15 April 2022
+- Editor's Draft: [https://drafts.css-houdini.org/css-properties-values-api-1/](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- Latest published version: [https://www.w3.org/TR/css-properties-values-api-1/](https://www.w3.org/TR/css-properties-values-api-1/)
+- Shortname: css-properties-values-api-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Pseudo-Elements Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-pseudo-4/](https://www.w3.org/TR/css-pseudo-4/)
+- Crawled URL: [https://drafts.csswg.org/css-pseudo-4/](https://drafts.csswg.org/css-pseudo-4/)
+- Crawled version: 10 May 2022
+- Editor's Draft: [https://drafts.csswg.org/css-pseudo-4/](https://drafts.csswg.org/css-pseudo-4/)
+- Latest published version: [https://www.w3.org/TR/css-pseudo-4/](https://www.w3.org/TR/css-pseudo-4/)
+- Shortname: css-pseudo-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+
+
+### CSS Regions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-regions-1/](https://www.w3.org/TR/css-regions-1/)
+- Crawled URL: [https://drafts.csswg.org/css-regions-1/](https://drafts.csswg.org/css-regions-1/)
+- Crawled version: 17 May 2021
+- Editor's Draft: [https://drafts.csswg.org/css-regions-1/](https://drafts.csswg.org/css-regions-1/)
+- Latest published version: [https://www.w3.org/TR/css-regions-1/](https://www.w3.org/TR/css-regions-1/)
+- Shortname: css-regions-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html)
+     * [`https://www.w3.org/TR/2012/WD-css3-regions-20120503/`](https://www.w3.org/TR/2012/WD-css3-regions-20120503/)
+     * [`https://www.w3.org/TR/2012/WD-css3-regions-20120823/`](https://www.w3.org/TR/2012/WD-css3-regions-20120823/)
+     * [`https://www.w3.org/TR/2013/WD-css3-regions-20130528/`](https://www.w3.org/TR/2013/WD-css3-regions-20130528/)
+     * [`https://www.w3.org/TR/2014/WD-css3-regions-20140218/`](https://www.w3.org/TR/2014/WD-css3-regions-20140218/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Rhythmic Sizing {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-rhythm-1/](https://www.w3.org/TR/css-rhythm-1/)
+- Crawled URL: [https://drafts.csswg.org/css-rhythm-1/](https://drafts.csswg.org/css-rhythm-1/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-rhythm-1/](https://drafts.csswg.org/css-rhythm-1/)
+- Latest published version: [https://www.w3.org/TR/css-rhythm-1/](https://www.w3.org/TR/css-rhythm-1/)
+- Shortname: css-rhythm-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+
+### CSS Round Display Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-round-display-1/](https://www.w3.org/TR/css-round-display-1/)
+- Crawled URL: [https://drafts.csswg.org/css-round-display-1/](https://drafts.csswg.org/css-round-display-1/)
+- Crawled version: 21 February 2021
+- Editor's Draft: [https://drafts.csswg.org/css-round-display-1/](https://drafts.csswg.org/css-round-display-1/)
+- Latest published version: [https://www.w3.org/TR/css-round-display-1/](https://www.w3.org/TR/css-round-display-1/)
+- Shortname: css-round-display-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Ruby Annotation Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-ruby-1/](https://www.w3.org/TR/css-ruby-1/)
+- Crawled URL: [https://drafts.csswg.org/css-ruby-1/](https://drafts.csswg.org/css-ruby-1/)
+- Crawled version: 13 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-ruby-1/](https://drafts.csswg.org/css-ruby-1/)
+- Latest published version: [https://www.w3.org/TR/css-ruby-1/](https://www.w3.org/TR/css-ruby-1/)
+- Shortname: css-ruby-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
+     * [`https://www.w3.org/TR/css3-text/`](https://www.w3.org/TR/css3-text/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/simple-ruby/`](https://www.w3.org/TR/simple-ruby/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/html5/text-level-semantics.html`](https://www.w3.org/TR/html5/text-level-semantics.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Scoping Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-scoping-1/](https://www.w3.org/TR/css-scoping-1/)
+- Crawled URL: [https://drafts.csswg.org/css-scoping-1/](https://drafts.csswg.org/css-scoping-1/)
+- Crawled version: 20 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-scoping-1/](https://drafts.csswg.org/css-scoping-1/)
+- Latest published version: [https://www.w3.org/TR/css-scoping-1/](https://www.w3.org/TR/css-scoping-1/)
+- Shortname: css-scoping-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Scroll Anchoring Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-scroll-anchoring-1/](https://www.w3.org/TR/css-scroll-anchoring-1/)
+- Crawled URL: [https://drafts.csswg.org/css-scroll-anchoring-1/](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- Crawled version: 22 December 2020
+- Editor's Draft: [https://drafts.csswg.org/css-scroll-anchoring-1/](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- Latest published version: [https://www.w3.org/TR/css-scroll-anchoring-1/](https://www.w3.org/TR/css-scroll-anchoring-1/)
+- Shortname: css-scroll-anchoring-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/editing/docs/execCommand/index.html`](https://w3c.github.io/editing/docs/execCommand/index.html)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Scroll Snap Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-scroll-snap-1/](https://www.w3.org/TR/css-scroll-snap-1/)
+- Crawled URL: [https://drafts.csswg.org/css-scroll-snap-1/](https://drafts.csswg.org/css-scroll-snap-1/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-1/](https://drafts.csswg.org/css-scroll-snap-1/)
+- Latest published version: [https://www.w3.org/TR/css-scroll-snap-1/](https://www.w3.org/TR/css-scroll-snap-1/)
+- Shortname: css-scroll-snap-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Scroll Snap Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Shortname: css-scroll-snap-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Scrollbars Styling Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
+- Crawled URL: [https://drafts.csswg.org/css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars-1/)
+- Crawled version: 7 December 2021
+- Editor's Draft: [https://drafts.csswg.org/css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars-1/)
+- Latest published version: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
+- Shortname: css-scrollbars-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Shadow Parts {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-shadow-parts-1/](https://www.w3.org/TR/css-shadow-parts-1/)
+- Crawled URL: [https://drafts.csswg.org/css-shadow-parts-1/](https://drafts.csswg.org/css-shadow-parts-1/)
+- Crawled version: 15 September 2020
+- Editor's Draft: [https://drafts.csswg.org/css-shadow-parts-1/](https://drafts.csswg.org/css-shadow-parts-1/)
+- Latest published version: [https://www.w3.org/TR/css-shadow-parts-1/](https://www.w3.org/TR/css-shadow-parts-1/)
+- Shortname: css-shadow-parts-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Shapes Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-shapes-1/](https://www.w3.org/TR/css-shapes-1/)
+- Crawled URL: [https://drafts.csswg.org/css-shapes-1/](https://drafts.csswg.org/css-shapes-1/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-shapes-1/](https://drafts.csswg.org/css-shapes-1/)
+- Latest published version: [https://www.w3.org/TR/css-shapes-1/](https://www.w3.org/TR/css-shapes-1/)
+- Shortname: css-shapes-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/)
+     * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/html5/infrastructure.html`](https://www.w3.org/TR/html5/infrastructure.html)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/), related reference "CSS3BOX" uses URL [`https://drafts.csswg.org/css-box-3/`](https://drafts.csswg.org/css-box-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+Informative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+
+
+### CSS Shapes Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
+- Crawled URL: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
+- Crawled version: 7 March 2022
+- Editor's Draft: [https://drafts.csswg.org/css-shapes-2/](https://drafts.csswg.org/css-shapes-2/)
+- Shortname: css-shapes-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+
+Informative references to this spec from:
+
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+
+
+### CSS Shared Element Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-shared-element-transitions-1/](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- Crawled URL: [https://drafts.csswg.org/css-shared-element-transitions-1/](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- Crawled version: 7 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-shared-element-transitions-1/](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- Shortname: css-shared-element-transitions-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Spatial Navigation Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-nav-1/](https://www.w3.org/TR/css-nav-1/)
+- Crawled URL: [https://drafts.csswg.org/css-nav-1/](https://drafts.csswg.org/css-nav-1/)
+- Crawled version: 17 May 2021
+- Editor's Draft: [https://drafts.csswg.org/css-nav-1/](https://drafts.csswg.org/css-nav-1/)
+- Latest published version: [https://www.w3.org/TR/css-nav-1/](https://www.w3.org/TR/css-nav-1/)
+- Shortname: css-nav-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/), related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Speech Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-speech-1/](https://www.w3.org/TR/css-speech-1/)
+- Crawled URL: [https://drafts.csswg.org/css-speech-1/](https://drafts.csswg.org/css-speech-1/)
+- Crawled version: 15 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-speech-1/](https://drafts.csswg.org/css-speech-1/)
+- Latest published version: [https://www.w3.org/TR/css-speech-1/](https://www.w3.org/TR/css-speech-1/)
+- Shortname: css-speech-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+
+Informative references to this spec from:
+
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+
+
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-style-attr/](https://www.w3.org/TR/css-style-attr/)
+- Crawled URL: [https://drafts.csswg.org/css-style-attr/](https://drafts.csswg.org/css-style-attr/)
+- Crawled version: 10 April 2015
+- Editor's Draft: [https://drafts.csswg.org/css-style-attr/](https://drafts.csswg.org/css-style-attr/)
+- Latest published version: [https://www.w3.org/TR/css-style-attr/](https://www.w3.org/TR/css-style-attr/)
+- Shortname: css-style-attr
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+
+
+### CSS Syntax Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
+- Crawled URL: [https://drafts.csswg.org/css-syntax-3/](https://drafts.csswg.org/css-syntax-3/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-syntax-3/](https://drafts.csswg.org/css-syntax-3/)
+- Latest published version: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
+- Shortname: css-syntax-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Table Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-tables-3/](https://www.w3.org/TR/css-tables-3/)
+- Crawled URL: [https://drafts.csswg.org/css-tables-3/](https://drafts.csswg.org/css-tables-3/)
+- Crawled version: 13 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-tables-3/](https://drafts.csswg.org/css-tables-3/)
+- Latest published version: [https://www.w3.org/TR/css-tables-3/](https://www.w3.org/TR/css-tables-3/)
+- Shortname: css-tables-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-display-3/`](http://www.w3.org/TR/css-display-3/)
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/html5/tabular-data.html`](https://www.w3.org/TR/html5/tabular-data.html)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Text Decoration Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-text-decor-3/](https://www.w3.org/TR/css-text-decor-3/)
+- Crawled URL: [https://drafts.csswg.org/css-text-decor-3/](https://drafts.csswg.org/css-text-decor-3/)
+- Crawled version: 18 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-text-decor-3/](https://drafts.csswg.org/css-text-decor-3/)
+- Latest published version: [https://www.w3.org/TR/css-text-decor-3/](https://www.w3.org/TR/css-text-decor-3/)
+- Shortname: css-text-decor-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/), related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+Informative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+
+### CSS Text Decoration Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
+- Crawled URL: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
+- Crawled version: 2 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
+- Latest published version: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
+- Shortname: css-text-decor-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/), related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+
+
+### CSS Text Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
+- Crawled URL: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
+- Crawled version: 9 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
+- Latest published version: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
+- Shortname: css-text-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+
+
+### CSS Text Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
+- Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
+- Crawled version: 9 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
+- Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
+- Shortname: css-text-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+
+
+### CSS Transforms Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-transforms-1/](https://www.w3.org/TR/css-transforms-1/)
+- Crawled URL: [https://drafts.csswg.org/css-transforms-1/](https://drafts.csswg.org/css-transforms-1/)
+- Crawled version: 16 February 2022
+- Editor's Draft: [https://drafts.csswg.org/css-transforms-1/](https://drafts.csswg.org/css-transforms-1/)
+- Latest published version: [https://www.w3.org/TR/css-transforms-1/](https://www.w3.org/TR/css-transforms-1/)
+- Shortname: css-transforms-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/`](https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/)
+     * [`https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/`](https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-animations/`](https://www.w3.org/TR/css3-animations/)
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/css-overflow-3/`](https://www.w3.org/TR/css-overflow-3/), related reference "CSS-OVERFLOW-3" uses URL [`https://drafts.csswg.org/css-overflow-3/`](https://drafts.csswg.org/css-overflow-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+Informative references to this spec from:
+
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+
+### CSS Transforms Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-transforms-2/](https://www.w3.org/TR/css-transforms-2/)
+- Crawled URL: [https://drafts.csswg.org/css-transforms-2/](https://drafts.csswg.org/css-transforms-2/)
+- Crawled version: 9 August 2022
+- Editor's Draft: [https://drafts.csswg.org/css-transforms-2/](https://drafts.csswg.org/css-transforms-2/)
+- Latest published version: [https://www.w3.org/TR/css-transforms-2/](https://www.w3.org/TR/css-transforms-2/)
+- Shortname: css-transforms-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+
+Informative references to this spec from:
+
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+
+
+### CSS Transitions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-transitions-1/](https://www.w3.org/TR/css-transitions-1/)
+- Crawled URL: [https://drafts.csswg.org/css-transitions-1/](https://drafts.csswg.org/css-transitions-1/)
+- Crawled version: 15 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-transitions-1/](https://drafts.csswg.org/css-transitions-1/)
+- Latest published version: [https://www.w3.org/TR/css-transitions-1/](https://www.w3.org/TR/css-transitions-1/)
+- Shortname: css-transitions-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://w3c.github.io/dom/`](http://w3c.github.io/dom/)
+     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog)
+     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+
+### CSS Transitions Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
+- Crawled URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
+- Crawled version: 14 July 2022
+- Editor's Draft: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
+- Shortname: css-transitions-2
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-typed-om-1/](https://www.w3.org/TR/css-typed-om-1/)
+- Crawled URL: [https://drafts.css-houdini.org/css-typed-om-1/](https://drafts.css-houdini.org/css-typed-om-1/)
+- Crawled version: 20 April 2022
+- Editor's Draft: [https://drafts.css-houdini.org/css-typed-om-1/](https://drafts.css-houdini.org/css-typed-om-1/)
+- Latest published version: [https://www.w3.org/TR/css-typed-om-1/](https://www.w3.org/TR/css-typed-om-1/)
+- Shortname: css-typed-om-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+
+Informative references to this spec from:
+
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+
+
+### CSS Typed OM Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
+- Crawled URL: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
+- Crawled version: 8 February 2021
+- Editor's Draft: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
+- Shortname: css-typed-om-2
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Values and Units Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-values-3/](https://www.w3.org/TR/css-values-3/)
+- Crawled URL: [https://drafts.csswg.org/css-values-3/](https://drafts.csswg.org/css-values-3/)
+- Crawled version: 2 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-values-3/](https://drafts.csswg.org/css-values-3/)
+- Latest published version: [https://www.w3.org/TR/css-values-3/](https://www.w3.org/TR/css-values-3/)
+- Shortname: css-values-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/)
+     * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
+     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/)
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Touch Events - Level 2](https://w3c.github.io/touch-events/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+
+
+### CSS Values and Units Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
+- Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
+- Crawled version: 2 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
+- Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
+- Shortname: css-values-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
+     * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/)
+     * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/)
+     * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/), related reference "CSS-SYNTAX-3" uses URL [`https://www.w3.org/TR/css-syntax-3/`](https://www.w3.org/TR/css-syntax-3/)
+     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/)
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
+- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
+- [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/)
+- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+
+
+### CSS Values and Units Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
+- Crawled URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
+- Crawled version: 16 December 2021
+- Editor's Draft: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
+- Shortname: css-values-5
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-values-4/`](http://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+
+Informative references to this spec from:
+
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+
+
+### CSS Will Change Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-will-change-1/](https://www.w3.org/TR/css-will-change-1/)
+- Crawled URL: [https://drafts.csswg.org/css-will-change-1/](https://drafts.csswg.org/css-will-change-1/)
+- Crawled version: 29 April 2022
+- Editor's Draft: [https://drafts.csswg.org/css-will-change-1/](https://drafts.csswg.org/css-will-change-1/)
+- Latest published version: [https://www.w3.org/TR/css-will-change-1/](https://www.w3.org/TR/css-will-change-1/)
+- Shortname: css-will-change-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+
+
+### CSS Writing Modes Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-writing-modes-4/](https://www.w3.org/TR/css-writing-modes-4/)
+- Crawled URL: [https://drafts.csswg.org/css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://drafts.csswg.org/css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
+- Latest published version: [https://www.w3.org/TR/css-writing-modes-4/](https://www.w3.org/TR/css-writing-modes-4/)
+- Shortname: css-writing-modes-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/`](http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Selection API](https://w3c.github.io/selection-api/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+
+
+### CSSOM View Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
+- Crawled URL: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
+- Crawled version: 10 August 2022
+- Editor's Draft: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
+- Latest published version: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
+- Shortname: cssom-view-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/), related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+
+Informative references to this spec from:
+
+- [MathML Core](https://w3c.github.io/mathml-core/)
+
+
+### Filter Effects Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/filter-effects-1/](https://www.w3.org/TR/filter-effects-1/)
+- Crawled URL: [https://drafts.fxtf.org/filter-effects-1/](https://drafts.fxtf.org/filter-effects-1/)
+- Crawled version: 12 September 2022
+- Editor's Draft: [https://drafts.fxtf.org/filter-effects-1/](https://drafts.fxtf.org/filter-effects-1/)
+- Latest published version: [https://www.w3.org/TR/filter-effects-1/](https://www.w3.org/TR/filter-effects-1/)
+- Shortname: filter-effects-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html)
+     * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+Informative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+
+
+### Filter Effects Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
+- Crawled URL: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
+- Crawled version: 10 February 2022
+- Editor's Draft: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
+- Shortname: filter-effects-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+No informative reference to this spec from other specs.
+
+
+### Font Metrics API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.css-houdini.org/font-metrics-api-1/](https://drafts.css-houdini.org/font-metrics-api-1/)
+- Crawled URL: [https://drafts.css-houdini.org/font-metrics-api-1/](https://drafts.css-houdini.org/font-metrics-api-1/)
+- Crawled version: 12 May 2021
+- Editor's Draft: [https://drafts.css-houdini.org/font-metrics-api-1/](https://drafts.css-houdini.org/font-metrics-api-1/)
+- Shortname: font-metrics-api-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Geometry Interfaces Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/geometry-1/](https://www.w3.org/TR/geometry-1/)
+- Crawled URL: [https://drafts.fxtf.org/geometry-1/](https://drafts.fxtf.org/geometry-1/)
+- Crawled version: 10 February 2022
+- Editor's Draft: [https://drafts.fxtf.org/geometry-1/](https://drafts.fxtf.org/geometry-1/)
+- Latest published version: [https://www.w3.org/TR/geometry-1/](https://www.w3.org/TR/geometry-1/)
+- Shortname: geometry-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
+- [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [EditContext API](https://w3c.github.io/edit-context/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+- [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+
+Informative references to this spec from:
+
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+
+
+### Media Queries Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediaqueries-4/](https://www.w3.org/TR/mediaqueries-4/)
+- Crawled URL: [https://drafts.csswg.org/mediaqueries-4/](https://drafts.csswg.org/mediaqueries-4/)
+- Crawled version: 9 August 2022
+- Editor's Draft: [https://drafts.csswg.org/mediaqueries-4/](https://drafts.csswg.org/mediaqueries-4/)
+- Latest published version: [https://www.w3.org/TR/mediaqueries-4/](https://www.w3.org/TR/mediaqueries-4/)
+- Shortname: mediaqueries-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+Informative references to this spec from:
+
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+
+
+### Media Queries Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
+- Crawled URL: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
+- Crawled version: 24 August 2022
+- Editor's Draft: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
+- Latest published version: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
+- Shortname: mediaqueries-5
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/), related reference "APPMANIFEST" uses URL [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/)
+     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/), related reference "MEDIAQUERIES-4" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+
+Informative references to this spec from:
+
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+
+
+### Motion Path Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
+- Crawled URL: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
+- Crawled version: 23 February 2022
+- Editor's Draft: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
+- Latest published version: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
+- Shortname: motion-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
+     * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+No informative reference to this spec from other specs.
+
+
+### Proposals for the future of CSS Paged Media {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-page-4/](https://drafts.csswg.org/css-page-4/)
+- Crawled URL: [https://drafts.csswg.org/css-page-4/](https://drafts.csswg.org/css-page-4/)
+- Crawled version: 7 March 2013
+- Editor's Draft: [https://drafts.csswg.org/css-page-4/](https://drafts.csswg.org/css-page-4/)
+- Shortname: css-page-4
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Resize Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/resize-observer-1/](https://www.w3.org/TR/resize-observer-1/)
+- Crawled URL: [https://drafts.csswg.org/resize-observer-1/](https://drafts.csswg.org/resize-observer-1/)
+- Crawled version: 18 August 2022
+- Editor's Draft: [https://drafts.csswg.org/resize-observer-1/](https://drafts.csswg.org/resize-observer-1/)
+- Latest published version: [https://www.w3.org/TR/resize-observer-1/](https://www.w3.org/TR/resize-observer-1/)
+- Shortname: resize-observer-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css3-positioning/`](https://www.w3.org/TR/css3-positioning/)
+     * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
+     * [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Scroll-linked Animations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
+- Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
+- Shortname: scroll-animations-1
+
+#### Potential issue(s) {.anomalies}
+
+- No definition for CSS properties: 
+     * `<keyframe-selector>`
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Selectors Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
+- Crawled URL: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
+- Crawled version: 24 August 2022
+- Editor's Draft: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
+- Latest published version: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
+- Shortname: selectors-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/)
+     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
+     * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
+     * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/)
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/)
+     * [`https://www.w3.org/TR/css3-selectors`](https://www.w3.org/TR/css3-selectors)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+No informative reference to this spec from other specs.
+
+
+### Web Animations {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/web-animations-1/](https://www.w3.org/TR/web-animations-1/)
+- Crawled URL: [https://drafts.csswg.org/web-animations-1/](https://drafts.csswg.org/web-animations-1/)
+- Crawled version: 7 September 2022
+- Editor's Draft: [https://drafts.csswg.org/web-animations-1/](https://drafts.csswg.org/web-animations-1/)
+- Latest published version: [https://www.w3.org/TR/web-animations-1/](https://www.w3.org/TR/web-animations-1/)
+- Shortname: web-animations-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+
+Informative references to this spec from:
+
+- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/)
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+
+
+### Web Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
+- Crawled URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
+- Crawled version: 18 July 2022
+- Editor's Draft: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
+- Shortname: web-animations-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/html5/scripting-1.html`](https://www.w3.org/TR/html5/scripting-1.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
+
+
+## Devices and Sensors Working Group {#devices_and_sensors_working_group}
+
+### Accelerometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
+- Crawled URL: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
+- Crawled version: 8 December 2021
+- Editor's Draft: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
+- Latest published version: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
+- Shortname: accelerometer
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
+     * [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html)
+     * [`https://www.w3.org/TR/motion-sensors/`](https://www.w3.org/TR/motion-sensors/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/screen-orientation/`](https://www.w3.org/TR/screen-orientation/), related reference "SCREEN-ORIENTATION" uses URL [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Gyroscope](https://w3c.github.io/gyroscope/)
+- [Magnetometer](https://w3c.github.io/magnetometer/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+
+No informative reference to this spec from other specs.
+
+
+### Ambient Light Sensor {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
+- Crawled URL: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
+- Crawled version: 31 August 2022
+- Editor's Draft: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
+- Latest published version: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
+- Shortname: ambient-light
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+
+No informative reference to this spec from other specs.
+
+
+### Battery Status API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/battery-status/](https://www.w3.org/TR/battery-status/)
+- Crawled URL: [https://w3c.github.io/battery/](https://w3c.github.io/battery/)
+- Crawled version: 03 February 2022
+- Editor's Draft: [https://w3c.github.io/battery/](https://w3c.github.io/battery/)
+- Latest published version: [https://www.w3.org/TR/battery-status/](https://www.w3.org/TR/battery-status/)
+- Shortname: battery-status
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+
+
+### Device Posture API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
+- Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
+- Crawled version: 04 November 2021
+- Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
+- Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
+- Shortname: device-posture
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+
+### DeviceOrientation Event Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
+- Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
+- Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
+- Shortname: orientation-event
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://compat.spec.whatwg.org/`](https://compat.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [DOM Standard](https://dom.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+
+### Generic Sensor API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
+- Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
+- Crawled version: 8 August 2022
+- Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
+- Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
+- Shortname: generic-sensor
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Gyroscope](https://w3c.github.io/gyroscope/)
+- [Magnetometer](https://w3c.github.io/magnetometer/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Proximity Sensor](https://w3c.github.io/proximity/)
+
+Informative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+
+
+### Geolocation API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
+- Crawled URL: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
+- Crawled version: 18 March 2022
+- Editor's Draft: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
+- Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
+- Shortname: geolocation
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Permissions](https://w3c.github.io/permissions/)
+
+
+### Geolocation Sensor {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/geolocation-sensor/](https://www.w3.org/TR/geolocation-sensor/)
+- Crawled URL: [https://w3c.github.io/geolocation-sensor/](https://w3c.github.io/geolocation-sensor/)
+- Crawled version: 16 March 2022
+- Editor's Draft: [https://w3c.github.io/geolocation-sensor/](https://w3c.github.io/geolocation-sensor/)
+- Latest published version: [https://www.w3.org/TR/geolocation-sensor/](https://www.w3.org/TR/geolocation-sensor/)
+- Shortname: geolocation-sensor
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+
+No informative reference to this spec from other specs.
+
+
+### Gyroscope {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
+- Crawled URL: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
+- Crawled version: 7 December 2021
+- Editor's Draft: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
+- Latest published version: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
+- Shortname: gyroscope
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+
+No informative reference to this spec from other specs.
+
+
+### HTML Media Capture {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
+- Crawled URL: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
+- Crawled version: 01 February 2018
+- Editor's Draft: [https://w3c.github.io/html-media-capture/](https://w3c.github.io/html-media-capture/)
+- Latest published version: [https://www.w3.org/TR/html-media-capture/](https://www.w3.org/TR/html-media-capture/)
+- Shortname: html-media-capture
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Magnetometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
+- Crawled URL: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
+- Crawled version: 7 December 2021
+- Editor's Draft: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
+- Latest published version: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
+- Shortname: magnetometer
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accelerometer/`](https://w3c.github.io/accelerometer/), related reference "ACCELEROMETER" uses URL [`https://www.w3.org/TR/accelerometer/`](https://www.w3.org/TR/accelerometer/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+     * [`https://w3c.github.io/sensors/`](https://w3c.github.io/sensors/), related reference "GENERIC-SENSOR" uses URL [`https://www.w3.org/TR/generic-sensor/`](https://www.w3.org/TR/generic-sensor/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+
+No informative reference to this spec from other specs.
+
+
+### Orientation Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/orientation-sensor/](https://www.w3.org/TR/orientation-sensor/)
+- Crawled URL: [https://w3c.github.io/orientation-sensor/](https://w3c.github.io/orientation-sensor/)
+- Crawled version: 2 September 2021
+- Editor's Draft: [https://w3c.github.io/orientation-sensor/](https://w3c.github.io/orientation-sensor/)
+- Latest published version: [https://www.w3.org/TR/orientation-sensor/](https://www.w3.org/TR/orientation-sensor/)
+- Shortname: orientation-sensor
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
+     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accelerometer/`](https://w3c.github.io/accelerometer/), related reference "ACCELEROMETER" uses URL [`https://www.w3.org/TR/accelerometer/`](https://www.w3.org/TR/accelerometer/)
+     * [`https://w3c.github.io/gyroscope/`](https://w3c.github.io/gyroscope/), related reference "GYROSCOPE" uses URL [`https://www.w3.org/TR/gyroscope/`](https://www.w3.org/TR/gyroscope/)
+     * [`https://w3c.github.io/magnetometer/`](https://w3c.github.io/magnetometer/), related reference "MAGNETOMETER" uses URL [`https://www.w3.org/TR/magnetometer/`](https://www.w3.org/TR/magnetometer/)
+     * [`https://w3c.github.io/sensors/`](https://w3c.github.io/sensors/), related reference "GENERIC-SENSOR" uses URL [`https://www.w3.org/TR/generic-sensor/`](https://www.w3.org/TR/generic-sensor/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+
+No informative reference to this spec from other specs.
+
+
+### Proximity Sensor {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/proximity/](https://www.w3.org/TR/proximity/)
+- Crawled URL: [https://w3c.github.io/proximity/](https://w3c.github.io/proximity/)
+- Crawled version: 3 September 2021
+- Editor's Draft: [https://w3c.github.io/proximity/](https://w3c.github.io/proximity/)
+- Latest published version: [https://www.w3.org/TR/proximity/](https://www.w3.org/TR/proximity/)
+- Shortname: proximity
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+
+Informative references to this spec from:
+
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+
+
+### Screen Wake Lock API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
+- Crawled URL: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
+- Latest published version: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
+- Shortname: screen-wake-lock
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+No informative reference to this spec from other specs.
+
+
+### Vibration API (Second Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/vibration/](https://www.w3.org/TR/vibration/)
+- Crawled URL: [https://w3c.github.io/vibration/](https://w3c.github.io/vibration/)
+- Crawled version: 01 June 2022
+- Editor's Draft: [https://w3c.github.io/vibration/](https://w3c.github.io/vibration/)
+- Latest published version: [https://www.w3.org/TR/vibration/](https://www.w3.org/TR/vibration/)
+- Shortname: vibration
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+
+No informative reference to this spec from other specs.
+
+
+## EPUB 3 Working Group {#epub_3_working_group}
+
+### EPUB 3.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
+- Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
+- Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
+- Shortname: epub-33
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+
+No informative reference to this spec from other specs.
+
+
+### EPUB Reading Systems 3.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
+- Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
+- Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
+- Shortname: epub-rs-33
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
+     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+
+No informative reference to this spec from other specs.
+
+
+## GPU for the Web Working Group {#gpu_for_the_web_working_group}
+
+### WebGPU {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
+- Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
+- Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
+- Shortname: webgpu
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
+- [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
+
+No informative reference to this spec from other specs.
+
+
+### WebGPU Shading Language {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
+- Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
+- Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
+- Shortname: WGSL
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
+
+No informative reference to this spec from other specs.
+
+
+## HTML Media Extensions Working Group {#html_media_extensions_working_group}
+
+### Encrypted Media Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
+- Crawled version: 23 August 2022
+- Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
+- Latest published version: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
+- Shortname: encrypted-media
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/encoding/`](https://www.w3.org/TR/encoding/), related reference "ENCODING" uses URL [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/html51/browsers.html`](https://www.w3.org/TR/html51/browsers.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html51/infrastructure.html`](https://www.w3.org/TR/html51/infrastructure.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html51/semantics-embedded-content.html`](https://www.w3.org/TR/html51/semantics-embedded-content.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html51/webappapis.html`](https://www.w3.org/TR/html51/webappapis.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+
+
+## Immersive Web Community Group {#immersive_web_community_group}
+
+### The <model> element {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
+- Crawled URL: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
+- Crawled version: 12 August 2022
+- Editor's Draft: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
+- Shortname: model-element
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebXR Raw Camera Access Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://immersive-web.github.io/raw-camera-access/](https://immersive-web.github.io/raw-camera-access/)
+- Crawled URL: [https://immersive-web.github.io/raw-camera-access/](https://immersive-web.github.io/raw-camera-access/)
+- Crawled version: 31 August 2022
+- Editor's Draft: [https://immersive-web.github.io/raw-camera-access/](https://immersive-web.github.io/raw-camera-access/)
+- Shortname: raw-camera-access
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Immersive Web Working Group {#immersive_web_working_group}
+
+### WebXR Anchors Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://immersive-web.github.io/anchors/](https://immersive-web.github.io/anchors/)
+- Crawled URL: [https://immersive-web.github.io/anchors/](https://immersive-web.github.io/anchors/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://immersive-web.github.io/anchors/](https://immersive-web.github.io/anchors/)
+- Shortname: anchors
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebXR Augmented Reality Module - Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr-ar-module-1/](https://www.w3.org/TR/webxr-ar-module-1/)
+- Crawled URL: [https://immersive-web.github.io/webxr-ar-module/](https://immersive-web.github.io/webxr-ar-module/)
+- Crawled version: 26 April 2022
+- Editor's Draft: [https://immersive-web.github.io/webxr-ar-module/](https://immersive-web.github.io/webxr-ar-module/)
+- Latest published version: [https://www.w3.org/TR/webxr-ar-module-1/](https://www.w3.org/TR/webxr-ar-module-1/)
+- Shortname: webxr-ar-module-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebXR Anchors Module](https://immersive-web.github.io/anchors/)
+- [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+
+Informative references to this spec from:
+
+- [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+
+### WebXR Depth Sensing Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr-depth-sensing-1/](https://www.w3.org/TR/webxr-depth-sensing-1/)
+- Crawled URL: [https://immersive-web.github.io/depth-sensing/](https://immersive-web.github.io/depth-sensing/)
+- Crawled version: 19 April 2022
+- Editor's Draft: [https://immersive-web.github.io/depth-sensing/](https://immersive-web.github.io/depth-sensing/)
+- Latest published version: [https://www.w3.org/TR/webxr-depth-sensing-1/](https://www.w3.org/TR/webxr-depth-sensing-1/)
+- Shortname: webxr-depth-sensing-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/), related reference "WEBXR-LAYERS-1" uses URL [`https://immersive-web.github.io/layers/`](https://immersive-web.github.io/layers/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebXR Device API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
+- Crawled URL: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
+- Crawled version: 31 March 2022
+- Editor's Draft: [https://immersive-web.github.io/webxr/](https://immersive-web.github.io/webxr/)
+- Latest published version: [https://www.w3.org/TR/webxr/](https://www.w3.org/TR/webxr/)
+- Shortname: webxr
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/orientation-sensor/`](https://www.w3.org/TR/orientation-sensor/)
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+     * [`https://www.w3.org/TR/webxr-gamepads-module-1/`](https://www.w3.org/TR/webxr-gamepads-module-1/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
+     * [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/), related reference "WEBXR-LAYERS-1" uses URL [`https://immersive-web.github.io/layers/`](https://immersive-web.github.io/layers/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [WebXR Anchors Module](https://immersive-web.github.io/anchors/)
+- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
+- [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+- [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/)
+- [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
+- [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+
+Informative references to this spec from:
+
+- [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
+
+
+### WebXR DOM Overlays Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr-dom-overlays-1/](https://www.w3.org/TR/webxr-dom-overlays-1/)
+- Crawled URL: [https://immersive-web.github.io/dom-overlays/](https://immersive-web.github.io/dom-overlays/)
+- Crawled version: 12 July 2022
+- Editor's Draft: [https://immersive-web.github.io/dom-overlays/](https://immersive-web.github.io/dom-overlays/)
+- Latest published version: [https://www.w3.org/TR/webxr-dom-overlays-1/](https://www.w3.org/TR/webxr-dom-overlays-1/)
+- Shortname: webxr-dom-overlays-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebXR Gamepads Module - Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr-gamepads-module-1/](https://www.w3.org/TR/webxr-gamepads-module-1/)
+- Crawled URL: [https://immersive-web.github.io/webxr-gamepads-module/](https://immersive-web.github.io/webxr-gamepads-module/)
+- Crawled version: 26 April 2022
+- Editor's Draft: [https://immersive-web.github.io/webxr-gamepads-module/](https://immersive-web.github.io/webxr-gamepads-module/)
+- Latest published version: [https://www.w3.org/TR/webxr-gamepads-module-1/](https://www.w3.org/TR/webxr-gamepads-module-1/)
+- Shortname: webxr-gamepads-module-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Gamepad](https://w3c.github.io/gamepad/)
+
+No informative reference to this spec from other specs.
+
+
+### WebXR Hand Input Module - Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr-hand-input-1/](https://www.w3.org/TR/webxr-hand-input-1/)
+- Crawled URL: [https://immersive-web.github.io/webxr-hand-input/](https://immersive-web.github.io/webxr-hand-input/)
+- Crawled version: 19 April 2022
+- Editor's Draft: [https://immersive-web.github.io/webxr-hand-input/](https://immersive-web.github.io/webxr-hand-input/)
+- Latest published version: [https://www.w3.org/TR/webxr-hand-input-1/](https://www.w3.org/TR/webxr-hand-input-1/)
+- Shortname: webxr-hand-input-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/)
+
+
+### WebXR Hit Test Module {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr-hit-test-1/](https://www.w3.org/TR/webxr-hit-test-1/)
+- Crawled URL: [https://immersive-web.github.io/hit-test/](https://immersive-web.github.io/hit-test/)
+- Crawled version: 19 April 2022
+- Editor's Draft: [https://immersive-web.github.io/hit-test/](https://immersive-web.github.io/hit-test/)
+- Latest published version: [https://www.w3.org/TR/webxr-hit-test-1/](https://www.w3.org/TR/webxr-hit-test-1/)
+- Shortname: webxr-hit-test-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebXR Layers API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
+- Crawled URL: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
+- Latest published version: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
+- Shortname: webxrlayers-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+No informative reference to this spec from other specs.
+
+
+### WebXR Lighting Estimation API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webxr-lighting-estimation-1/](https://www.w3.org/TR/webxr-lighting-estimation-1/)
+- Crawled URL: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
+- Crawled version: 3 June 2022
+- Editor's Draft: [https://immersive-web.github.io/lighting-estimation/](https://immersive-web.github.io/lighting-estimation/)
+- Latest published version: [https://www.w3.org/TR/webxr-lighting-estimation-1/](https://www.w3.org/TR/webxr-lighting-estimation-1/)
+- Shortname: webxr-lighting-estimation-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Internationalization Working Group {#internationalization_working_group}
+
+### Encoding Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/encoding/](https://www.w3.org/TR/encoding/)
+- Crawled URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
+- Crawled version: 20 June 2022
+- Editor's Draft: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
+- Latest published version: [https://www.w3.org/TR/encoding/](https://www.w3.org/TR/encoding/)
+- Shortname: encoding
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [URL Standard](https://url.spec.whatwg.org/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
+- [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [Web Share API](https://w3c.github.io/web-share/)
+
+
+### Internationalization Glossary {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
+- Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
+- Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
+- Shortname: i18n-glossary
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/), related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+
+No informative reference to this spec from other specs.
+
+
+## JSON-LD Working Group {#json_ld_working_group}
+
+### JSON-LD 1.1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
+- Crawled URL: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
+- Crawled version: 27 May 2022
+- Editor's Draft: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
+- Latest published version: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
+- Shortname: json-ld11
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+
+Informative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+
+
+### JSON-LD 1.1 Framing {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
+- Crawled URL: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
+- Crawled version: 30 August 2022
+- Editor's Draft: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
+- Latest published version: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
+- Shortname: json-ld11-framing
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+
+No informative reference to this spec from other specs.
+
+
+### JSON-LD 1.1 Processing Algorithms and API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
+- Crawled URL: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
+- Crawled version: 27 May 2022
+- Editor's Draft: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
+- Latest published version: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
+- Shortname: json-ld11-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+
+No informative reference to this spec from other specs.
+
+
+## Math Working Group {#math_working_group}
+
+### MathML Core {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
+- Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
+- Crawled version: 26 August 2022
+- Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
+- Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
+- Shortname: mathml-core
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+
+
+## Media Working Group {#media_working_group}
+
+### Autoplay Policy Detection {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/autoplay-detection/](https://www.w3.org/TR/autoplay-detection/)
+- Crawled URL: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
+- Latest published version: [https://www.w3.org/TR/autoplay-detection/](https://www.w3.org/TR/autoplay-detection/)
+- Shortname: autoplay-detection
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Media Capabilities {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/media-capabilities/](https://www.w3.org/TR/media-capabilities/)
+- Crawled URL: [https://w3c.github.io/media-capabilities/](https://w3c.github.io/media-capabilities/)
+- Crawled version: 3 August 2022
+- Editor's Draft: [https://w3c.github.io/media-capabilities/](https://w3c.github.io/media-capabilities/)
+- Latest published version: [https://www.w3.org/TR/media-capabilities/](https://www.w3.org/TR/media-capabilities/)
+- Shortname: media-capabilities
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/encrypted-media/`](https://www.w3.org/TR/encrypted-media/), related reference "ENCRYPTED-MEDIA" uses URL [`https://w3c.github.io/encrypted-media/`](https://w3c.github.io/encrypted-media/)
+     * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/), related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
+     * [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+- [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+No informative reference to this spec from other specs.
+
+
+### Media Playback Quality {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/media-playback-quality/](https://w3c.github.io/media-playback-quality/)
+- Crawled URL: [https://w3c.github.io/media-playback-quality/](https://w3c.github.io/media-playback-quality/)
+- Crawled version: 04 February 2021
+- Editor's Draft: [https://w3c.github.io/media-playback-quality/](https://w3c.github.io/media-playback-quality/)
+- Shortname: media-playback-quality
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+
+
+### Media Session Standard {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediasession/](https://www.w3.org/TR/mediasession/)
+- Crawled URL: [https://w3c.github.io/mediasession/](https://w3c.github.io/mediasession/)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://w3c.github.io/mediasession/](https://w3c.github.io/mediasession/)
+- Latest published version: [https://www.w3.org/TR/mediasession/](https://www.w3.org/TR/mediasession/)
+- Shortname: mediasession
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/), related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+
+
+### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
+- Crawled URL: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
+- Crawled version: 26 July 2022
+- Editor's Draft: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
+- Latest published version: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
+- Shortname: media-source-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/)
+     * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [URL Standard](https://url.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+
+### Picture-in-Picture {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
+- Crawled URL: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
+- Crawled version: 25 July 2022
+- Editor's Draft: [https://w3c.github.io/picture-in-picture/](https://w3c.github.io/picture-in-picture/)
+- Latest published version: [https://www.w3.org/TR/picture-in-picture/](https://www.w3.org/TR/picture-in-picture/)
+- Shortname: picture-in-picture
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+
+
+### WebCodecs {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
+- Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
+- Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
+- Shortname: webcodecs
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/), related reference "CSS-IMAGES-3" uses URL [`https://drafts.csswg.org/css-images-3/`](https://drafts.csswg.org/css-images-3/)
+     * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/), related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+
+Informative references to this spec from:
+
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
+
+
+## MiniApps Working Group {#miniapps_working_group}
+
+### MiniApp Lifecycle {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
+- Crawled URL: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
+- Crawled version: 18 August 2022
+- Editor's Draft: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
+- Latest published version: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
+- Shortname: miniapp-lifecycle
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+     * [`https://www.w3.org/TR/mini-app-white-paper/`](https://www.w3.org/TR/mini-app-white-paper/)
+     * [`https://www.w3.org/TR/miniapp-manifest/`](https://www.w3.org/TR/miniapp-manifest/)
+     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+
+No informative reference to this spec from other specs.
+
+
+### MiniApp Manifest {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
+- Crawled URL: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
+- Crawled version: 01 July 2022
+- Editor's Draft: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
+- Latest published version: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
+- Shortname: miniapp-manifest
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+
+No informative reference to this spec from other specs.
+
+
+### MiniApp Packaging {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
+- Crawled URL: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
+- Crawled version: 29 July 2022
+- Editor's Draft: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
+- Latest published version: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
+- Shortname: miniapp-packaging
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
+     * [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+
+No informative reference to this spec from other specs.
+
+
+## Patents and Standards Interest Group {#patents_and_standards_interest_group}
+
+### W3C Patent Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/Consortium/Patent-Policy/](https://www.w3.org/Consortium/Patent-Policy/)
+- Crawled URL: [https://www.w3.org/Consortium/Patent-Policy/](https://www.w3.org/Consortium/Patent-Policy/)
+- Crawled version: 15 September 2020
+- Editor's Draft: [https://www.w3.org/Consortium/Patent-Policy/](https://www.w3.org/Consortium/Patent-Policy/)
+- Shortname: w3c-patent-policy
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [W3C Process Document](https://www.w3.org/Consortium/Process/)
+
+No informative reference to this spec from other specs.
+
+
+## Pointer Events Working Group {#pointer_events_working_group}
+
+### Pointer Events {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
+- Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
+- Crawled version: 11 September 2022
+- Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
+- Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
+- Shortname: pointerevents3
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Ink API](https://wicg.github.io/ink-enhancement/)
+- [UI Events](https://w3c.github.io/uievents/)
+
+No informative reference to this spec from other specs.
+
+
+## Portable Network Graphics (PNG) Working Group {#portable_network_graphics_png_working_group}
+
+### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- Shortname: PNG-spec
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html)
+     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
+
+Informative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+
+
+## Privacy Community Group {#privacy_community_group}
+
+### Private Click Measurement {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://privacycg.github.io/private-click-measurement/](https://privacycg.github.io/private-click-measurement/)
+- Crawled URL: [https://privacycg.github.io/private-click-measurement/](https://privacycg.github.io/private-click-measurement/)
+- Crawled version: 20 April 2021
+- Editor's Draft: [https://privacycg.github.io/private-click-measurement/](https://privacycg.github.io/private-click-measurement/)
+- Shortname: private-click-measurement
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### The Storage Access API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
+- Crawled URL: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
+- Crawled version: 8 September 2022
+- Editor's Draft: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
+- Shortname: storage-access
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webdriver/webdriver-spec.html`](https://w3c.github.io/webdriver/webdriver-spec.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Privacy Interest Group {#privacy_interest_group}
+
+### Mitigating Browser Fingerprinting in Web Specifications {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/fingerprinting-guidance/](https://www.w3.org/TR/fingerprinting-guidance/)
+- Crawled URL: [https://w3c.github.io/fingerprinting-guidance/](https://w3c.github.io/fingerprinting-guidance/)
+- Crawled version: 28 September 2021
+- Editor's Draft: [https://w3c.github.io/fingerprinting-guidance/](https://w3c.github.io/fingerprinting-guidance/)
+- Latest published version: [https://www.w3.org/TR/fingerprinting-guidance/](https://www.w3.org/TR/fingerprinting-guidance/)
+- Shortname: fingerprinting-guidance
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Gamepad](https://w3c.github.io/gamepad/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+
+Informative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+
+
+## SVG Working Group {#svg_working_group}
+
+### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/compositing-1/](https://www.w3.org/TR/compositing-1/)
+- Crawled URL: [https://drafts.fxtf.org/compositing-1/](https://drafts.fxtf.org/compositing-1/)
+- Crawled version: 22 April 2022
+- Editor's Draft: [https://drafts.fxtf.org/compositing-1/](https://drafts.fxtf.org/compositing-1/)
+- Latest published version: [https://www.w3.org/TR/compositing-1/](https://www.w3.org/TR/compositing-1/)
+- Shortname: compositing-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/fill-stroke-3/](https://www.w3.org/TR/fill-stroke-3/)
+- Crawled URL: [https://drafts.fxtf.org/fill-stroke-3/](https://drafts.fxtf.org/fill-stroke-3/)
+- Crawled version: 4 April 2017
+- Editor's Draft: [https://drafts.fxtf.org/fill-stroke-3/](https://drafts.fxtf.org/fill-stroke-3/)
+- Latest published version: [https://www.w3.org/TR/fill-stroke-3/](https://www.w3.org/TR/fill-stroke-3/)
+- Shortname: fill-stroke-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Scalable Vector Graphics (SVG) 1.1 (Second Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/SVG11/](https://www.w3.org/TR/SVG11/)
+- Crawled URL: [https://www.w3.org/TR/SVG11/](https://www.w3.org/TR/SVG11/)
+- Crawled version: 16 August 2011
+- Editor's Draft: [https://www.w3.org/TR/SVG11/](https://www.w3.org/TR/SVG11/)
+- Latest published version: [https://www.w3.org/TR/SVG11/](https://www.w3.org/TR/SVG11/)
+- Shortname: SVG11
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html`](http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html)
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224/struct/links.html`](http://www.w3.org/TR/1999/REC-html401-19991224/struct/links.html)
+     * [`http://www.w3.org/TR/2001/REC-MathML2-20010221/`](http://www.w3.org/TR/2001/REC-MathML2-20010221/)
+     * [`http://www.w3.org/TR/2001/REC-xlink-20010627/`](http://www.w3.org/TR/2001/REC-xlink-20010627/)
+     * [`http://www.w3.org/TR/2003/REC-MathML2-20031021/`](http://www.w3.org/TR/2003/REC-MathML2-20031021/)
+     * [`http://www.w3.org/TR/2005/NOTE-xml11schema10-20050511/`](http://www.w3.org/TR/2005/NOTE-xml11schema10-20050511/)
+     * [`http://www.w3.org/TR/html4/`](http://www.w3.org/TR/html4/)
+     * [`http://www.w3.org/TR/smil/`](http://www.w3.org/TR/smil/)
+     * [`http://www.w3.org/TR/xlink/`](http://www.w3.org/TR/xlink/)
+     * [`http://www.w3.org/TR/xml-names11/`](http://www.w3.org/TR/xml-names11/)
+     * [`http://www.w3.org/TR/xml-stylesheet/`](http://www.w3.org/TR/xml-stylesheet/)
+     * [`http://www.w3.org/TR/xsl/`](http://www.w3.org/TR/xsl/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/2006/REC-xml-20060816/`](http://www.w3.org/TR/2006/REC-xml-20060816/), related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`http://www.w3.org/TR/2006/REC-xml-names-20060816/`](http://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NS" uses URL [`http://www.w3.org/TR/2009/REC-xml-names-20091208/`](http://www.w3.org/TR/2009/REC-xml-names-20091208/)
+     * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/), related reference "CHARMOD" uses URL [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/)
+     * [`http://www.w3.org/TR/css3-selectors/`](http://www.w3.org/TR/css3-selectors/), related reference "SELECTORS" uses URL [`http://www.w3.org/TR/2009/PR-css3-selectors-20091215/`](http://www.w3.org/TR/2009/PR-css3-selectors-20091215/)
+     * [`http://www.w3.org/TR/rdf-primer/`](http://www.w3.org/TR/rdf-primer/), related reference "RDF-PRIMER" uses URL [`http://www.w3.org/TR/2004/REC-rdf-primer-20040210/`](http://www.w3.org/TR/2004/REC-rdf-primer-20040210/)
+     * [`http://www.w3.org/TR/smil-animation/`](http://www.w3.org/TR/smil-animation/), related reference "SMILANIM" uses URL [`http://www.w3.org/TR/2001/REC-smil-animation-20010904/`](http://www.w3.org/TR/2001/REC-smil-animation-20010904/)
+     * [`http://www.w3.org/TR/xhtml1/`](http://www.w3.org/TR/xhtml1/), related reference "XHTML" uses URL [`http://www.w3.org/TR/2002/REC-xhtml1-20020801/`](http://www.w3.org/TR/2002/REC-xhtml1-20020801/)
+     * [`http://www.w3.org/TR/xlink11/`](http://www.w3.org/TR/xlink11/), related reference "XLINK" uses URL [`http://www.w3.org/TR/2010/REC-xlink11-20100506/`](http://www.w3.org/TR/2010/REC-xlink11-20100506/)
+     * [`http://www.w3.org/TR/xml-names/`](http://www.w3.org/TR/xml-names/), related reference "XML-NS" uses URL [`http://www.w3.org/TR/2009/REC-xml-names-20091208/`](http://www.w3.org/TR/2009/REC-xml-names-20091208/)
+     * [`http://www.w3.org/TR/xml/`](http://www.w3.org/TR/xml/), related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`http://www.w3.org/TR/xmlbase/`](http://www.w3.org/TR/xmlbase/), related reference "XML-BASE" uses URL [`http://www.w3.org/TR/2009/REC-xmlbase-20090128/`](http://www.w3.org/TR/2009/REC-xmlbase-20090128/)
+     * [`http://www.w3.org/TR/xmlschema-2/`](http://www.w3.org/TR/xmlschema-2/), related reference "SCHEMA2" uses URL [`http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/)
+     * [`http://www.w3.org/TR/xslt`](http://www.w3.org/TR/xslt), related reference "XSLT" uses URL [`http://www.w3.org/TR/1999/REC-xslt-19991116`](http://www.w3.org/TR/1999/REC-xslt-19991116)
+     * [`http://www.w3.org/TR/xslt20/`](http://www.w3.org/TR/xslt20/), related reference "XSLT2" uses URL [`http://www.w3.org/TR/2007/REC-xslt20-20070123/`](http://www.w3.org/TR/2007/REC-xslt20-20070123/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [SVG Integration](https://svgwg.org/specs/integration/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+Informative references to this spec from:
+
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+
+
+### Scalable Vector Graphics (SVG) 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
+- Crawled URL: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
+- Crawled version: 31 August 2022
+- Editor's Draft: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
+- Latest published version: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
+- Shortname: SVG2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://w3c.github.io/selection-api/`](http://w3c.github.io/selection-api/)
+     * [`https://w3c.github.io/web-animations/`](https://w3c.github.io/web-animations/)
+     * [`https://www.w3.org/TR/2001/REC-xlink-20010627/`](https://www.w3.org/TR/2001/REC-xlink-20010627/)
+     * [`https://www.w3.org/TR/2003/REC-MathML2-20031021/`](https://www.w3.org/TR/2003/REC-MathML2-20031021/)
+     * [`https://www.w3.org/TR/2012/CR-WebIDL-20120419/`](https://www.w3.org/TR/2012/CR-WebIDL-20120419/)
+     * [`https://www.w3.org/TR/2013/REC-css-style-attr-20131107/`](https://www.w3.org/TR/2013/REC-css-style-attr-20131107/)
+     * [`https://www.w3.org/TR/2015/WD-svg-markers-20150407/`](https://www.w3.org/TR/2015/WD-svg-markers-20150407/)
+     * [`https://www.w3.org/TR/2015/WD-svg-strokes-20150407/`](https://www.w3.org/TR/2015/WD-svg-strokes-20150407/)
+     * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/)
+     * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/css-content-3/`](https://www.w3.org/TR/css-content-3/)
+     * [`https://www.w3.org/TR/css-position-3/`](https://www.w3.org/TR/css-position-3/)
+     * [`https://www.w3.org/TR/css-selectors-3/`](https://www.w3.org/TR/css-selectors-3/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css3-transforms/`](https://www.w3.org/TR/css3-transforms/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/filter-effects/`](https://www.w3.org/TR/filter-effects/)
+     * [`https://www.w3.org/TR/orientation-event/`](https://www.w3.org/TR/orientation-event/)
+     * [`https://www.w3.org/TR/resource-hints/`](https://www.w3.org/TR/resource-hints/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/smil/`](https://www.w3.org/TR/smil/)
+     * [`https://www.w3.org/TR/svg-integration/`](https://www.w3.org/TR/svg-integration/)
+     * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/)
+     * [`https://www.w3.org/TR/xlink/`](https://www.w3.org/TR/xlink/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/2014/CR-geometry-1-20141125/`](http://www.w3.org/TR/2014/CR-geometry-1-20141125/), related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+     * [`https://w3c.github.io/clipboard-apis/`](https://w3c.github.io/clipboard-apis/), related reference "clipboard-apis" uses URL [`https://www.w3.org/TR/clipboard-apis/`](https://www.w3.org/TR/clipboard-apis/)
+     * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/), related reference "graphics-aria-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
+     * [`https://w3c.github.io/svg-aam/`](https://w3c.github.io/svg-aam/), related reference "svg-aam-1.0" uses URL [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "uievents" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+     * [`https://www.w3.org/TR/2001/REC-smil-animation-20010904/`](https://www.w3.org/TR/2001/REC-smil-animation-20010904/), related reference "smil-animation" uses URL [`https://www.w3.org/TR/smil-animation/`](https://www.w3.org/TR/smil-animation/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "xml-names" uses URL [`https://www.w3.org/TR/xml-names`](https://www.w3.org/TR/xml-names)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/), related reference "xml" uses URL [`https://www.w3.org/TR/xml`](https://www.w3.org/TR/xml)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/WD-css3-fonts-20111004/`](https://www.w3.org/TR/2011/WD-css3-fonts-20111004/), related reference "css-fonts-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
+     * [`https://www.w3.org/TR/2014/CR-html5-20140204/dom.html`](https://www.w3.org/TR/2014/CR-html5-20140204/dom.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/2014/WD-dom-20140204/`](https://www.w3.org/TR/2014/WD-dom-20140204/), related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2014/WD-geometry-1-20140522/`](https://www.w3.org/TR/2014/WD-geometry-1-20140522/), related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+     * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113`](https://www.w3.org/TR/2015/CR-compositing-1-20150113), related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113/`](https://www.w3.org/TR/2015/CR-compositing-1-20150113/), related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/`](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/), related reference "UAAG20" uses URL [`https://www.w3.org/TR/UAAG20/`](https://www.w3.org/TR/UAAG20/)
+     * [`https://www.w3.org/TR/compositing/`](https://www.w3.org/TR/compositing/), related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/), related reference "ReferrerPolicy" uses URL [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+- [SVG Animations](https://svgwg.org/specs/animations/)
+- [SVG Integration](https://svgwg.org/specs/integration/)
+- [SVG Strokes](https://svgwg.org/specs/strokes/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+Informative references to this spec from:
+
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+- [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
+
+
+### SVG Accessibility API Mappings {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/svg-aam-1.0/](https://www.w3.org/TR/svg-aam-1.0/)
+- Crawled URL: [https://w3c.github.io/svg-aam/](https://w3c.github.io/svg-aam/)
+- Crawled version: 23 April 2021
+- Editor's Draft: [https://w3c.github.io/svg-aam/](https://w3c.github.io/svg-aam/)
+- Latest published version: [https://www.w3.org/TR/svg-aam-1.0/](https://www.w3.org/TR/svg-aam-1.0/)
+- Shortname: svg-aam-1.0
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2012/WD-css-masking-20121115/`](http://www.w3.org/TR/2012/WD-css-masking-20121115/)
+     * [`http://www.w3.org/TR/2012/WD-filter-effects-20121025/`](http://www.w3.org/TR/2012/WD-filter-effects-20121025/)
+     * [`http://www.w3.org/TR/html5/embedded-content-0.html`](http://www.w3.org/TR/html5/embedded-content-0.html)
+     * [`http://www.w3.org/TR/html5/scripting-1.html`](http://www.w3.org/TR/html5/scripting-1.html)
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/), related reference "GRAPHICS-AAM" uses URL [`https://www.w3.org/TR/graphics-aam-1.0/`](https://www.w3.org/TR/graphics-aam-1.0/)
+     * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/), related reference "HTML-AAM" uses URL [`https://www.w3.org/TR/html-aam-1.0/`](https://www.w3.org/TR/html-aam-1.0/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [ARIA in HTML](https://w3c.github.io/html-aria/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
+
+Informative references to this spec from:
+
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
+
+
+### SVG Animations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
+- Crawled URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
+- Crawled version: 31 August 2022
+- Editor's Draft: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
+- Shortname: svg-animations
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2012/WD-css-animations-1-20120403/`](http://www.w3.org/TR/2012/WD-css-animations-1-20120403/)
+     * [`http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/`](http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/)
+     * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/)
+     * [`http://www.w3.org/TR/css-transitions-1/`](http://www.w3.org/TR/css-transitions-1/)
+     * [`http://www.w3.org/TR/smil/`](http://www.w3.org/TR/smil/)
+     * [`https://www.w3.org/TR/css-transforms-1/`](https://www.w3.org/TR/css-transforms-1/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/2006/REC-xml-20060816/`](http://www.w3.org/TR/2006/REC-xml-20060816/), related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`http://www.w3.org/TR/2012/WD-dom-20120405/`](http://www.w3.org/TR/2012/WD-dom-20120405/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+     * [`http://www.w3.org/TR/2014/REC-html5-20141028/`](http://www.w3.org/TR/2014/REC-html5-20141028/), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+     * [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+     * [`http://www.w3.org/TR/html/`](http://www.w3.org/TR/html/), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+     * [`http://www.w3.org/TR/smil-animation/`](http://www.w3.org/TR/smil-animation/), related reference "SMILANIM" uses URL [`http://www.w3.org/TR/2001/REC-smil-animation-20010904/`](http://www.w3.org/TR/2001/REC-smil-animation-20010904/)
+     * [`http://www.w3.org/TR/xml/`](http://www.w3.org/TR/xml/), related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+     * [`https://html.spec.whatwg.org/multipage/webappapis.html`](https://html.spec.whatwg.org/multipage/webappapis.html), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+     * [`https://html.spec.whatwg.org/multipage/window-object.html`](https://html.spec.whatwg.org/multipage/window-object.html), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### SVG Integration {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
+- Crawled URL: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
+- Crawled version: 31 August 2022
+- Editor's Draft: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
+- Latest published version: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
+- Shortname: svg-integration
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2014/CR-html5-20140204/`](https://www.w3.org/TR/2014/CR-html5-20140204/)
+     * [`https://www.w3.org/TR/2014/CR-html5-20140204/browsers.html`](https://www.w3.org/TR/2014/CR-html5-20140204/browsers.html)
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+
+No informative reference to this spec from other specs.
+
+
+### SVG Strokes {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
+- Crawled URL: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
+- Crawled version: 31 August 2022
+- Editor's Draft: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
+- Latest published version: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
+- Shortname: svg-strokes
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Second Screen Working Group {#second_screen_working_group}
+
+### Multi-Screen Window Placement {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
+- Crawled URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
+- Latest published version: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
+- Shortname: window-placement
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1), related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Open Screen Protocol {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
+- Crawled URL: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
+- Crawled version: 12 September 2022
+- Editor's Draft: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
+- Latest published version: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
+- Shortname: openscreenprotocol
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Presentation API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
+- Crawled URL: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
+- Crawled version: 02 June 2022
+- Editor's Draft: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
+- Latest published version: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
+- Shortname: presentation-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Remote Playback API](https://w3c.github.io/remote-playback/)
+
+No informative reference to this spec from other specs.
+
+
+### Remote Playback API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/remote-playback/](https://www.w3.org/TR/remote-playback/)
+- Crawled URL: [https://w3c.github.io/remote-playback/](https://w3c.github.io/remote-playback/)
+- Crawled version: 05 September 2022
+- Editor's Draft: [https://w3c.github.io/remote-playback/](https://w3c.github.io/remote-playback/)
+- Latest published version: [https://www.w3.org/TR/remote-playback/](https://www.w3.org/TR/remote-playback/)
+- Shortname: remote-playback
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+
+No informative reference to this spec from other specs.
+
+
+## Service Workers Working Group {#service_workers_working_group}
+
+### Service Workers Nightly {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/service-workers/](https://www.w3.org/TR/service-workers/)
+- Crawled URL: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
+- Crawled version: 14 June 2022
+- Editor's Draft: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
+- Latest published version: [https://www.w3.org/TR/service-workers/](https://www.w3.org/TR/service-workers/)
+- Shortname: service-workers
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/)
+     * [`https://w3c.github.io/payment-handler/`](https://w3c.github.io/payment-handler/)
+     * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Badging API](https://w3c.github.io/badging/)
+- [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Push API](https://w3c.github.io/push-api/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+
+Informative references to this spec from:
+
+- [Beacon](https://w3c.github.io/beacon/)
+- [High Resolution Time](https://w3c.github.io/hr-time/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+
+
+## Technical Architecture Group {#technical_architecture_group}
+
+### CSS Properties and Values API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-properties-values-api-1/](https://www.w3.org/TR/css-properties-values-api-1/)
+- Crawled URL: [https://drafts.css-houdini.org/css-properties-values-api-1/](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- Crawled version: 15 April 2022
+- Editor's Draft: [https://drafts.css-houdini.org/css-properties-values-api-1/](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- Latest published version: [https://www.w3.org/TR/css-properties-values-api-1/](https://www.w3.org/TR/css-properties-values-api-1/)
+- Shortname: css-properties-values-api-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-typed-om-1/](https://www.w3.org/TR/css-typed-om-1/)
+- Crawled URL: [https://drafts.css-houdini.org/css-typed-om-1/](https://drafts.css-houdini.org/css-typed-om-1/)
+- Crawled version: 20 April 2022
+- Editor's Draft: [https://drafts.css-houdini.org/css-typed-om-1/](https://drafts.css-houdini.org/css-typed-om-1/)
+- Latest published version: [https://www.w3.org/TR/css-typed-om-1/](https://www.w3.org/TR/css-typed-om-1/)
+- Shortname: css-typed-om-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+
+Informative references to this spec from:
+
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+
+
+## Timed Text Working Group {#timed_text_working_group}
+
+### WebVTT: The Web Video Text Tracks Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webvtt1/](https://www.w3.org/TR/webvtt1/)
+- Crawled URL: [https://w3c.github.io/webvtt/](https://w3c.github.io/webvtt/)
+- Crawled version: 29 April 2021
+- Editor's Draft: [https://w3c.github.io/webvtt/](https://w3c.github.io/webvtt/)
+- Latest published version: [https://www.w3.org/TR/webvtt1/](https://www.w3.org/TR/webvtt1/)
+- Shortname: webvtt1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+Informative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+
+
+## Tracking Protection Working Group {#tracking_protection_working_group}
+
+### Tracking Preference Expression (DNT) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/tracking-dnt/](https://www.w3.org/TR/tracking-dnt/)
+- Crawled URL: [https://w3c.github.io/dnt/drafts/tracking-dnt.html](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- Crawled version: 17 January 2019
+- Editor's Draft: [https://w3c.github.io/dnt/drafts/tracking-dnt.html](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- Latest published version: [https://www.w3.org/TR/tracking-dnt/](https://www.w3.org/TR/tracking-dnt/)
+- Shortname: tracking-dnt
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/single-page.html`](https://www.w3.org/TR/html5/single-page.html), related reference "HTML51" uses URL [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+
+
+## W3C Process Community Group  {#w3c_process_community_group_}
+
+### W3C Process Document {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
+- Crawled URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
+- Crawled version: 2 November 2021
+- Editor's Draft: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
+- Shortname: w3c-process
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
+
+No informative reference to this spec from other specs.
+
+
+## Web Application Security Working Group {#web_application_security_working_group}
+
+### A Well-Known URL for Changing Passwords {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/webappsec-change-password-url/](https://w3c.github.io/webappsec-change-password-url/)
+- Crawled URL: [https://w3c.github.io/webappsec-change-password-url/](https://w3c.github.io/webappsec-change-password-url/)
+- Crawled version: 28 January 2021
+- Editor's Draft: [https://w3c.github.io/webappsec-change-password-url/](https://w3c.github.io/webappsec-change-password-url/)
+- Shortname: change-password-url
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Clear Site Data {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/clear-site-data/](https://www.w3.org/TR/clear-site-data/)
+- Crawled URL: [https://w3c.github.io/webappsec-clear-site-data/](https://w3c.github.io/webappsec-clear-site-data/)
+- Crawled version: 18 February 2021
+- Editor's Draft: [https://w3c.github.io/webappsec-clear-site-data/](https://w3c.github.io/webappsec-clear-site-data/)
+- Latest published version: [https://www.w3.org/TR/clear-site-data/](https://www.w3.org/TR/clear-site-data/)
+- Shortname: clear-site-data
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/), related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Content Security Policy Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
+- Crawled URL: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
+- Latest published version: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
+- Shortname: CSP3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/service-workers-1/`](https://www.w3.org/TR/service-workers-1/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Portals](https://wicg.github.io/portals/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+Informative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Document Policy](https://wicg.github.io/document-policy/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Serial API](https://wicg.github.io/serial/)
+
+
+### Content Security Policy: Embedded Enforcement {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/csp-embedded-enforcement/](https://www.w3.org/TR/csp-embedded-enforcement/)
+- Crawled URL: [https://w3c.github.io/webappsec-cspee/](https://w3c.github.io/webappsec-cspee/)
+- Crawled version: 23 March 2021
+- Editor's Draft: [https://w3c.github.io/webappsec-cspee/](https://w3c.github.io/webappsec-cspee/)
+- Latest published version: [https://www.w3.org/TR/csp-embedded-enforcement/](https://www.w3.org/TR/csp-embedded-enforcement/)
+- Shortname: csp-embedded-enforcement
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Credential Management Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
+- Crawled URL: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
+- Latest published version: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
+- Shortname: credential-management-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [WebOTP API](https://wicg.github.io/web-otp/)
+
+Informative references to this spec from:
+
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+
+
+### Fetch Metadata Request Headers {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/fetch-metadata/](https://www.w3.org/TR/fetch-metadata/)
+- Crawled URL: [https://w3c.github.io/webappsec-fetch-metadata/](https://w3c.github.io/webappsec-fetch-metadata/)
+- Crawled version: 20 July 2021
+- Editor's Draft: [https://w3c.github.io/webappsec-fetch-metadata/](https://w3c.github.io/webappsec-fetch-metadata/)
+- Latest published version: [https://www.w3.org/TR/fetch-metadata/](https://www.w3.org/TR/fetch-metadata/)
+- Shortname: fetch-metadata
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Portals](https://wicg.github.io/portals/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+
+
+### Mixed Content {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mixed-content/](https://www.w3.org/TR/mixed-content/)
+- Crawled URL: [https://w3c.github.io/webappsec-mixed-content/](https://w3c.github.io/webappsec-mixed-content/)
+- Crawled version: 4 October 2021
+- Editor's Draft: [https://w3c.github.io/webappsec-mixed-content/](https://w3c.github.io/webappsec-mixed-content/)
+- Latest published version: [https://www.w3.org/TR/mixed-content/](https://www.w3.org/TR/mixed-content/)
+- Shortname: mixed-content
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+     * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/), related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+
+Informative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+
+
+### Permissions {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
+- Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
+- Crawled version: 07 September 2022
+- Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
+- Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
+- Shortname: permissions
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+- [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation API](https://w3c.github.io/geolocation-api/)
+- [Gyroscope](https://w3c.github.io/gyroscope/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Magnetometer](https://w3c.github.io/magnetometer/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/)
+- [Requesting Permissions](https://wicg.github.io/permissions-request/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Storage Standard](https://storage.spec.whatwg.org/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+Informative references to this spec from:
+
+- [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
+
+
+### Permissions Policy {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
+- Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
+- Crawled version: 11 December 2020
+- Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
+- Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
+- Shortname: permissions-policy-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Battery Status API](https://w3c.github.io/battery/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [Gamepad](https://w3c.github.io/gamepad/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation API](https://w3c.github.io/geolocation-api/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Gyroscope](https://w3c.github.io/gyroscope/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Magnetometer](https://w3c.github.io/magnetometer/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Proximity Sensor](https://w3c.github.io/proximity/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
+- [Web Serial API](https://wicg.github.io/serial/)
+- [Web Share API](https://w3c.github.io/web-share/)
+- [WebHID API](https://wicg.github.io/webhid/)
+- [WebOTP API](https://wicg.github.io/web-otp/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+Informative references to this spec from:
+
+- [Document Policy](https://wicg.github.io/document-policy/)
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+
+
+### Referrer Policy {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/referrer-policy/](https://www.w3.org/TR/referrer-policy/)
+- Crawled URL: [https://w3c.github.io/webappsec-referrer-policy/](https://w3c.github.io/webappsec-referrer-policy/)
+- Crawled version: 24 May 2022
+- Editor's Draft: [https://w3c.github.io/webappsec-referrer-policy/](https://w3c.github.io/webappsec-referrer-policy/)
+- Latest published version: [https://www.w3.org/TR/referrer-policy/](https://www.w3.org/TR/referrer-policy/)
+- Shortname: referrer-policy
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Portals](https://wicg.github.io/portals/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+No informative reference to this spec from other specs.
+
+
+### Secure Contexts {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/secure-contexts/](https://www.w3.org/TR/secure-contexts/)
+- Crawled URL: [https://w3c.github.io/webappsec-secure-contexts/](https://w3c.github.io/webappsec-secure-contexts/)
+- Crawled version: 18 September 2021
+- Editor's Draft: [https://w3c.github.io/webappsec-secure-contexts/](https://w3c.github.io/webappsec-secure-contexts/)
+- Latest published version: [https://www.w3.org/TR/secure-contexts/](https://www.w3.org/TR/secure-contexts/)
+- Shortname: secure-contexts
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/), related reference "MIX" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Feeds](https://wicg.github.io/media-feeds/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+
+Informative references to this spec from:
+
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+
+
+### Subresource Integrity {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/SRI/](https://www.w3.org/TR/SRI/)
+- Crawled URL: [https://w3c.github.io/webappsec-subresource-integrity/](https://w3c.github.io/webappsec-subresource-integrity/)
+- Crawled version: 7 January 2022
+- Editor's Draft: [https://w3c.github.io/webappsec-subresource-integrity/](https://w3c.github.io/webappsec-subresource-integrity/)
+- Latest published version: [https://www.w3.org/TR/SRI/](https://www.w3.org/TR/SRI/)
+- Shortname: SRI
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/powerful-features/`](http://www.w3.org/TR/powerful-features/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+Informative references to this spec from:
+
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+
+
+### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- Crawled URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- Crawled version: 1 June 2022
+- Editor's Draft: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- Shortname: trusted-types
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
+     * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/), related reference "DOM-Parsing" uses URL [`https://www.w3.org/TR/DOM-Parsing/`](https://www.w3.org/TR/DOM-Parsing/)
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Upgrade Insecure Requests {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/upgrade-insecure-requests/](https://www.w3.org/TR/upgrade-insecure-requests/)
+- Crawled URL: [https://w3c.github.io/webappsec-upgrade-insecure-requests/](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://w3c.github.io/webappsec-upgrade-insecure-requests/](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- Latest published version: [https://www.w3.org/TR/upgrade-insecure-requests/](https://www.w3.org/TR/upgrade-insecure-requests/)
+- Shortname: upgrade-insecure-requests
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+
+
+## Web Applications Working Group {#web_applications_working_group}
+
+### ARIA in HTML {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
+- Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
+- Crawled version: 12 September 2022
+- Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
+- Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
+- Shortname: html-aria
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [The <model> element](https://immersive-web.github.io/model-element/)
+
+Informative references to this spec from:
+
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+
+
+### Clipboard API and events {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/clipboard-apis/](https://www.w3.org/TR/clipboard-apis/)
+- Crawled URL: [https://w3c.github.io/clipboard-apis/](https://w3c.github.io/clipboard-apis/)
+- Crawled version: 20 May 2022
+- Editor's Draft: [https://w3c.github.io/clipboard-apis/](https://w3c.github.io/clipboard-apis/)
+- Latest published version: [https://www.w3.org/TR/clipboard-apis/](https://www.w3.org/TR/clipboard-apis/)
+- Shortname: clipboard-apis
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://w3c.github.io/editing/contentEditable.html`](http://w3c.github.io/editing/contentEditable.html)
+     * [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+
+No informative reference to this spec from other specs.
+
+
+### ContentEditable {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/contentEditable/](https://w3c.github.io/contentEditable/)
+- Crawled URL: [https://w3c.github.io/contentEditable/](https://w3c.github.io/contentEditable/)
+- Crawled version: 12 September 2022
+- Editor's Draft: [https://w3c.github.io/contentEditable/](https://w3c.github.io/contentEditable/)
+- Shortname: contentEditable
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### File API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/FileAPI/](https://www.w3.org/TR/FileAPI/)
+- Crawled URL: [https://w3c.github.io/FileAPI/](https://w3c.github.io/FileAPI/)
+- Crawled version: 4 June 2021
+- Editor's Draft: [https://w3c.github.io/FileAPI/](https://w3c.github.io/FileAPI/)
+- Latest published version: [https://www.w3.org/TR/FileAPI/](https://www.w3.org/TR/FileAPI/)
+- Shortname: FileAPI
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://w3c.github.io/media-source/`](http://w3c.github.io/media-source/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Contact Picker API](https://w3c.github.io/contact-api/spec/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File and Directory Entries API](https://wicg.github.io/entries-api/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [URL Standard](https://url.spec.whatwg.org/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Share API](https://w3c.github.io/web-share/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+No informative reference to this spec from other specs.
+
+
+### Gamepad {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/gamepad/](https://www.w3.org/TR/gamepad/)
+- Crawled URL: [https://w3c.github.io/gamepad/](https://w3c.github.io/gamepad/)
+- Crawled version: 30 June 2022
+- Editor's Draft: [https://w3c.github.io/gamepad/](https://w3c.github.io/gamepad/)
+- Latest published version: [https://www.w3.org/TR/gamepad/](https://www.w3.org/TR/gamepad/)
+- Shortname: gamepad
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/)
+
+Informative references to this spec from:
+
+- [WebHID API](https://wicg.github.io/webhid/)
+
+
+### Gamepad Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
+- Crawled URL: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
+- Crawled version: 30 June 2022
+- Editor's Draft: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
+- Shortname: gamepad-extensions
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Image Resource {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/image-resource/](https://www.w3.org/TR/image-resource/)
+- Crawled URL: [https://w3c.github.io/image-resource/](https://w3c.github.io/image-resource/)
+- Crawled version: 14 June 2022
+- Editor's Draft: [https://w3c.github.io/image-resource/](https://w3c.github.io/image-resource/)
+- Latest published version: [https://www.w3.org/TR/image-resource/](https://www.w3.org/TR/image-resource/)
+- Shortname: image-resource
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Content Index](https://wicg.github.io/content-index/spec/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+Informative references to this spec from:
+
+- [Media Session Standard](https://w3c.github.io/mediasession/)
+- [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
+
+
+### Indexed Database API 3.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/IndexedDB-3/](https://www.w3.org/TR/IndexedDB-3/)
+- Crawled URL: [https://w3c.github.io/IndexedDB/](https://w3c.github.io/IndexedDB/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://w3c.github.io/IndexedDB/](https://w3c.github.io/IndexedDB/)
+- Latest published version: [https://www.w3.org/TR/IndexedDB-3/](https://www.w3.org/TR/IndexedDB-3/)
+- Shortname: IndexedDB-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/)
+     * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+Informative references to this spec from:
+
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Web Locks API](https://w3c.github.io/web-locks/)
+
+
+### Input Events Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/input-events-2/](https://www.w3.org/TR/input-events-2/)
+- Crawled URL: [https://w3c.github.io/input-events/](https://w3c.github.io/input-events/)
+- Crawled version: 11 March 2022
+- Editor's Draft: [https://w3c.github.io/input-events/](https://w3c.github.io/input-events/)
+- Latest published version: [https://www.w3.org/TR/input-events-2/](https://www.w3.org/TR/input-events-2/)
+- Shortname: input-events-2
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+
+
+### Intersection Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/intersection-observer/](https://www.w3.org/TR/intersection-observer/)
+- Crawled URL: [https://w3c.github.io/IntersectionObserver/](https://w3c.github.io/IntersectionObserver/)
+- Crawled version: 6 July 2022
+- Editor's Draft: [https://w3c.github.io/IntersectionObserver/](https://w3c.github.io/IntersectionObserver/)
+- Latest published version: [https://www.w3.org/TR/intersection-observer/](https://www.w3.org/TR/intersection-observer/)
+- Shortname: intersection-observer
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-masking-1/`](http://www.w3.org/TR/css-masking-1/)
+     * [`http://www.w3.org/TR/hr-time/`](http://www.w3.org/TR/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+No informative reference to this spec from other specs.
+
+
+### Pointer Lock 2.0 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
+- Crawled URL: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
+- Crawled version: 08 July 2022
+- Editor's Draft: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
+- Latest published version: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
+- Shortname: pointerlock-2
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "ui-events" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+Informative references to this spec from:
+
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+
+
+### Push API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
+- Crawled URL: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
+- Crawled version: 30 June 2022
+- Editor's Draft: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
+- Latest published version: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
+- Shortname: push-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Permissions](https://w3c.github.io/permissions/)
+
+
+### Selection API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/selection-api/](https://www.w3.org/TR/selection-api/)
+- Crawled URL: [https://w3c.github.io/selection-api/](https://w3c.github.io/selection-api/)
+- Crawled version: 19 July 2022
+- Editor's Draft: [https://w3c.github.io/selection-api/](https://w3c.github.io/selection-api/)
+- Latest published version: [https://www.w3.org/TR/selection-api/](https://www.w3.org/TR/selection-api/)
+- Shortname: selection-api
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+No informative reference to this spec from other specs.
+
+
+### The Screen Orientation API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
+- Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
+- Crawled version: 18 May 2022
+- Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
+- Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
+- Shortname: screen-orientation
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+Informative references to this spec from:
+
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+
+
+### UI Events {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/uievents/](https://www.w3.org/TR/uievents/)
+- Crawled URL: [https://w3c.github.io/uievents/](https://w3c.github.io/uievents/)
+- Crawled version: 13 September 2022
+- Editor's Draft: [https://w3c.github.io/uievents/](https://w3c.github.io/uievents/)
+- Latest published version: [https://www.w3.org/TR/uievents/](https://www.w3.org/TR/uievents/)
+- Shortname: uievents
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/uievents-code/`](http://www.w3.org/TR/uievents-code/), related reference "UIEvents-Code" uses URL [`https://w3c.github.io/uievents-code/`](https://w3c.github.io/uievents-code/)
+     * [`http://www.w3.org/TR/uievents-key/`](http://www.w3.org/TR/uievents-key/), related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
+     * [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/), related reference "POINTEREVENTS3" uses URL [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+     * [`https://www.w3.org/TR/uievents-key/`](https://www.w3.org/TR/uievents-key/), related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Touch Events - Level 2](https://w3c.github.io/touch-events/)
+- [UI Events KeyboardEvent code Values](https://w3c.github.io/uievents-code/)
+- [UI Events KeyboardEvent key Values](https://w3c.github.io/uievents-key/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+Informative references to this spec from:
+
+- [WebHID API](https://wicg.github.io/webhid/)
+
+
+### Web App Manifest - Application Information {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/manifest-app-info/](https://www.w3.org/TR/manifest-app-info/)
+- Crawled URL: [https://w3c.github.io/manifest-app-info/](https://w3c.github.io/manifest-app-info/)
+- Crawled version: 23 August 2022
+- Editor's Draft: [https://w3c.github.io/manifest-app-info/](https://w3c.github.io/manifest-app-info/)
+- Latest published version: [https://www.w3.org/TR/manifest-app-info/](https://www.w3.org/TR/manifest-app-info/)
+- Shortname: manifest-app-info
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+
+Informative references to this spec from:
+
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+
+### Web Application Manifest {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
+- Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
+- Crawled version: 20 July 2022
+- Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
+- Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
+- Shortname: appmanifest
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Badging API](https://w3c.github.io/badging/)
+- [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+
+Informative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+
+
+### Web Locks API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
+- Crawled URL: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
+- Crawled version: 6 July 2022
+- Editor's Draft: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
+- Shortname: web-locks
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+No informative reference to this spec from other specs.
+
+
+### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
+- Crawled URL: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
+- Crawled version: 30 August 2022
+- Editor's Draft: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
+- Latest published version: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
+- Shortname: web-share
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+
+No informative reference to this spec from other specs.
+
+
+## Web Authentication Working Group {#web_authentication_working_group}
+
+### Web Authentication: An API for accessing Public Key Credentials - Level {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
+- Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
+- Crawled version: 22 August 2022
+- Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
+- Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
+- Shortname: webauthn-3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/IntersectionObserver/v2/`](https://w3c.github.io/IntersectionObserver/v2/)
+     * [`https://www.w3.org/TR/string-meta/`](https://www.w3.org/TR/string-meta/)
+     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+
+No informative reference to this spec from other specs.
+
+
+## Web Bluetooth Community Group {#web_bluetooth_community_group}
+
+### Web Bluetooth {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
+- Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
+- Crawled version: 9 June 2022
+- Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
+- Shortname: web-bluetooth
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+- [Web Serial API](https://wicg.github.io/serial/)
+
+
+## Web Cryptography Working Group {#web_cryptography_working_group}
+
+### Web Cryptography API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
+- Crawled URL: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
+- Crawled version: 09 June 2022
+- Editor's Draft: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
+- Latest published version: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
+- Shortname: WebCryptoAPI
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+
+
+## Web Editing Working Group {#web_editing_working_group}
+
+### EditContext API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
+- Crawled URL: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
+- Crawled version: 20 December 2021
+- Editor's Draft: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
+- Latest published version: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
+- Shortname: edit-context
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### VirtualKeyboard API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/virtual-keyboard/](https://www.w3.org/TR/virtual-keyboard/)
+- Crawled URL: [https://w3c.github.io/virtual-keyboard/](https://w3c.github.io/virtual-keyboard/)
+- Crawled version: 05 May 2022
+- Editor's Draft: [https://w3c.github.io/virtual-keyboard/](https://w3c.github.io/virtual-keyboard/)
+- Latest published version: [https://www.w3.org/TR/virtual-keyboard/](https://www.w3.org/TR/virtual-keyboard/)
+- Shortname: virtual-keyboard
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Web Events Working Group {#web_events_working_group}
+
+### Touch Events - Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
+- Crawled URL: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
+- Crawled version: 29 June 2022
+- Editor's Draft: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
+- Latest published version: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
+- Shortname: touch-events
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/touch-events-extensions/`](http://www.w3.org/TR/touch-events-extensions/)
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+
+No informative reference to this spec from other specs.
+
+
+## Web Fonts Working Group {#web_fonts_working_group}
+
+### Incremental Font Transfer {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
+- Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
+- Crawled version: 28 June 2022
+- Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
+- Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
+- Shortname: IFT
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WOFF File Format 1.0 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/WOFF/](https://www.w3.org/TR/WOFF/)
+- Crawled URL: [https://w3c.github.io/woff/woff1/spec/Overview.html](https://w3c.github.io/woff/woff1/spec/Overview.html)
+- Crawled version: Table of Contents
+- Editor's Draft: [https://w3c.github.io/woff/woff1/spec/Overview.html](https://w3c.github.io/woff/woff1/spec/Overview.html)
+- Latest published version: [https://www.w3.org/TR/WOFF/](https://www.w3.org/TR/WOFF/)
+- Shortname: WOFF
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [WOFF File Format 2.0](https://w3c.github.io/woff/woff2/)
+
+Informative references to this spec from:
+
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+
+
+### WOFF File Format 2.0 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/WOFF2/](https://www.w3.org/TR/WOFF2/)
+- Crawled URL: [https://w3c.github.io/woff/woff2/](https://w3c.github.io/woff/woff2/)
+- Crawled version: 10 March 2022
+- Editor's Draft: [https://w3c.github.io/woff/woff2/](https://w3c.github.io/woff/woff2/)
+- Latest published version: [https://www.w3.org/TR/WOFF2/](https://www.w3.org/TR/WOFF2/)
+- Shortname: WOFF2
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+
+No informative reference to this spec from other specs.
+
+
+## Web Machine Learning Working Group {#web_machine_learning_working_group}
+
+### Web Neural Network API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
+- Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
+- Crawled version: 6 September 2022
+- Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
+- Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
+- Shortname: webnn
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Web NFC Community Group {#web_nfc_community_group}
+
+### Web NFC {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
+- Crawled URL: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
+- Crawled version: 18 July 2022
+- Editor's Draft: [https://w3c.github.io/web-nfc/](https://w3c.github.io/web-nfc/)
+- Shortname: web-nfc
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+
+## Web Payments Working Group {#web_payments_working_group}
+
+### Payment Handler API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/payment-handler/](https://www.w3.org/TR/payment-handler/)
+- Crawled URL: [https://w3c.github.io/payment-handler/](https://w3c.github.io/payment-handler/)
+- Crawled version: 12 September 2022
+- Editor's Draft: [https://w3c.github.io/payment-handler/](https://w3c.github.io/payment-handler/)
+- Latest published version: [https://www.w3.org/TR/payment-handler/](https://www.w3.org/TR/payment-handler/)
+- Shortname: payment-handler
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+
+Informative references to this spec from:
+
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+
+
+### Payment Method Identifiers {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/payment-method-id/](https://www.w3.org/TR/payment-method-id/)
+- Crawled URL: [https://w3c.github.io/payment-method-id/](https://w3c.github.io/payment-method-id/)
+- Crawled version: 07 September 2022
+- Editor's Draft: [https://w3c.github.io/payment-method-id/](https://w3c.github.io/payment-method-id/)
+- Latest published version: [https://www.w3.org/TR/payment-method-id/](https://www.w3.org/TR/payment-method-id/)
+- Shortname: payment-method-id
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+
+Informative references to this spec from:
+
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
+
+
+### Payment Method Manifest {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/payment-method-manifest/](https://www.w3.org/TR/payment-method-manifest/)
+- Crawled URL: [https://w3c.github.io/payment-method-manifest/](https://w3c.github.io/payment-method-manifest/)
+- Crawled version: 28 April 2022
+- Editor's Draft: [https://w3c.github.io/payment-method-manifest/](https://w3c.github.io/payment-method-manifest/)
+- Latest published version: [https://www.w3.org/TR/payment-method-manifest/](https://www.w3.org/TR/payment-method-manifest/)
+- Shortname: payment-method-manifest
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+
+Informative references to this spec from:
+
+- [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
+
+
+### Payment Request API 1.1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
+- Crawled URL: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
+- Crawled version: 30 August 2022
+- Editor's Draft: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
+- Latest published version: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
+- Shortname: payment-request-1.1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+
+No informative reference to this spec from other specs.
+
+
+### Secure Payment Confirmation {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
+- Crawled URL: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
+- Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
+- Shortname: secure-payment-confirmation
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/), related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
+     * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/), related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Web Performance Working Group {#web_performance_working_group}
+
+### Beacon {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/beacon/](https://www.w3.org/TR/beacon/)
+- Crawled URL: [https://w3c.github.io/beacon/](https://w3c.github.io/beacon/)
+- Crawled version: 03 August 2022
+- Editor's Draft: [https://w3c.github.io/beacon/](https://w3c.github.io/beacon/)
+- Latest published version: [https://www.w3.org/TR/beacon/](https://www.w3.org/TR/beacon/)
+- Shortname: beacon
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+
+
+### Device Memory {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/device-memory-1/](https://www.w3.org/TR/device-memory-1/)
+- Crawled URL: [https://www.w3.org/TR/device-memory/](https://www.w3.org/TR/device-memory/)
+- Crawled version: 22 July 2022
+- Editor's Draft: [https://www.w3.org/TR/device-memory/](https://www.w3.org/TR/device-memory/)
+- Latest published version: [https://www.w3.org/TR/device-memory-1/](https://www.w3.org/TR/device-memory-1/)
+- Shortname: device-memory-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Event Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
+- Crawled URL: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
+- Crawled version: 9 June 2022
+- Editor's Draft: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
+- Latest published version: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
+- Shortname: event-timing
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/), related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/), related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
+     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### High Resolution Time {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/hr-time-3/](https://www.w3.org/TR/hr-time-3/)
+- Crawled URL: [https://w3c.github.io/hr-time/](https://w3c.github.io/hr-time/)
+- Crawled version: 28 January 2022
+- Editor's Draft: [https://w3c.github.io/hr-time/](https://w3c.github.io/hr-time/)
+- Latest published version: [https://www.w3.org/TR/hr-time-3/](https://www.w3.org/TR/hr-time-3/)
+- Shortname: hr-time-3
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Gamepad](https://w3c.github.io/gamepad/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation API](https://w3c.github.io/geolocation-api/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
+- [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
+- [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Push API](https://w3c.github.io/push-api/)
+- [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+Informative references to this spec from:
+
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
+
+
+### Largest Contentful Paint {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/largest-contentful-paint/](https://www.w3.org/TR/largest-contentful-paint/)
+- Crawled URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
+- Crawled version: 19 July 2022
+- Editor's Draft: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
+- Latest published version: [https://www.w3.org/TR/largest-contentful-paint/](https://www.w3.org/TR/largest-contentful-paint/)
+- Shortname: largest-contentful-paint
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### Long Tasks API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
+- Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
+- Crawled version: 14 April 2022
+- Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
+- Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
+- Shortname: longtasks-1
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### Navigation Timing Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
+- Crawled URL: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
+- Crawled version: 07 September 2022
+- Editor's Draft: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
+- Latest published version: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
+- Shortname: navigation-timing-2
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+
+Informative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+
+
+### Network Error Logging {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
+- Crawled URL: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
+- Crawled version: 30 July 2021
+- Editor's Draft: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
+- Latest published version: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
+- Shortname: network-error-logging-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+
+Informative references to this spec from:
+
+- [Reporting API](https://w3c.github.io/reporting/)
+
+
+### Paint Timing 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/paint-timing/](https://www.w3.org/TR/paint-timing/)
+- Crawled URL: [https://w3c.github.io/paint-timing/](https://w3c.github.io/paint-timing/)
+- Crawled version: 16 February 2021
+- Editor's Draft: [https://w3c.github.io/paint-timing/](https://w3c.github.io/paint-timing/)
+- Latest published version: [https://www.w3.org/TR/paint-timing/](https://www.w3.org/TR/paint-timing/)
+- Shortname: paint-timing
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/)
+     * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### Performance Timeline Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/performance-timeline/](https://www.w3.org/TR/performance-timeline/)
+- Crawled URL: [https://w3c.github.io/performance-timeline/](https://w3c.github.io/performance-timeline/)
+- Crawled version: 22 July 2022
+- Editor's Draft: [https://w3c.github.io/performance-timeline/](https://w3c.github.io/performance-timeline/)
+- Latest published version: [https://www.w3.org/TR/performance-timeline/](https://www.w3.org/TR/performance-timeline/)
+- Shortname: performance-timeline
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+
+Informative references to this spec from:
+
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+
+
+### Reporting API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
+- Crawled URL: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
+- Crawled version: 17 September 2022
+- Editor's Draft: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
+- Latest published version: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
+- Shortname: reporting-1
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Crash Reporting](https://wicg.github.io/crash-reporting/)
+- [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/)
+- [Document Policy](https://wicg.github.io/document-policy/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Intervention Reporting](https://wicg.github.io/intervention-reporting/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+
+No informative reference to this spec from other specs.
+
+
+### requestIdleCallback() {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/requestidlecallback/](https://www.w3.org/TR/requestidlecallback/)
+- Crawled URL: [https://w3c.github.io/requestidlecallback/](https://w3c.github.io/requestidlecallback/)
+- Crawled version: 27 June 2022
+- Editor's Draft: [https://w3c.github.io/requestidlecallback/](https://w3c.github.io/requestidlecallback/)
+- Latest published version: [https://www.w3.org/TR/requestidlecallback/](https://www.w3.org/TR/requestidlecallback/)
+- Shortname: requestidlecallback
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+
+Informative references to this spec from:
+
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+
+
+### Resource Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
+- Crawled URL: [https://w3c.github.io/resource-hints/](https://w3c.github.io/resource-hints/)
+- Crawled version: 05 October 2020
+- Editor's Draft: [https://w3c.github.io/resource-hints/](https://w3c.github.io/resource-hints/)
+- Latest published version: [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
+- Shortname: resource-hints
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://w3c.github.io/page-visibility/`](http://w3c.github.io/page-visibility/)
+     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
+     * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/)
+     * [`https://w3c.github.io/webappsec/specs/CSP2/`](https://w3c.github.io/webappsec/specs/CSP2/)
+     * [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/), related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+     * [`https://www.w3.org/TR/html5/document-metadata.html`](https://www.w3.org/TR/html5/document-metadata.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html5/dom.html`](https://www.w3.org/TR/html5/dom.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html5/infrastructure.html`](https://www.w3.org/TR/html5/infrastructure.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+
+No informative reference to this spec from other specs.
+
+
+### Resource Timing Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/resource-timing-2/](https://www.w3.org/TR/resource-timing-2/)
+- Crawled URL: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
+- Crawled version: 08 September 2022
+- Editor's Draft: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
+- Latest published version: [https://www.w3.org/TR/resource-timing-2/](https://www.w3.org/TR/resource-timing-2/)
+- Shortname: resource-timing-2
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+Informative references to this spec from:
+
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+
+
+### Server Timing {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/server-timing/](https://www.w3.org/TR/server-timing/)
+- Crawled URL: [https://w3c.github.io/server-timing/](https://w3c.github.io/server-timing/)
+- Crawled version: 21 April 2022
+- Editor's Draft: [https://w3c.github.io/server-timing/](https://w3c.github.io/server-timing/)
+- Latest published version: [https://www.w3.org/TR/server-timing/](https://www.w3.org/TR/server-timing/)
+- Shortname: server-timing
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Timing Entry Names Registry {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/timing-entrytypes-registry/](https://www.w3.org/TR/timing-entrytypes-registry/)
+- Crawled URL: [https://w3c.github.io/timing-entrytypes-registry/](https://w3c.github.io/timing-entrytypes-registry/)
+- Crawled version: 03 February 2021
+- Editor's Draft: [https://w3c.github.io/timing-entrytypes-registry/](https://w3c.github.io/timing-entrytypes-registry/)
+- Latest published version: [https://www.w3.org/TR/timing-entrytypes-registry/](https://www.w3.org/TR/timing-entrytypes-registry/)
+- Shortname: timing-entrytypes-registry
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### User Timing Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/user-timing/](https://www.w3.org/TR/user-timing/)
+- Crawled URL: [https://w3c.github.io/user-timing/](https://w3c.github.io/user-timing/)
+- Crawled version: 03 August 2022
+- Editor's Draft: [https://w3c.github.io/user-timing/](https://w3c.github.io/user-timing/)
+- Latest published version: [https://www.w3.org/TR/user-timing/](https://www.w3.org/TR/user-timing/)
+- Shortname: user-timing
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## Web Platform Incubator Community Group {#web_platform_incubator_community_group}
+
+### Accelerated Shape Detection in Images {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
+- Crawled URL: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
+- Crawled version: 18 August 2020
+- Editor's Draft: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
+- Shortname: shape-detection-api
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-image/`](https://w3c.github.io/mediacapture-image/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2dcontext/`](https://www.w3.org/TR/2dcontext/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
+- [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html)
+
+
+### Accelerated Text Detection in Images {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/shape-detection-api/text.html](https://wicg.github.io/shape-detection-api/text.html)
+- Crawled URL: [https://wicg.github.io/shape-detection-api/text.html](https://wicg.github.io/shape-detection-api/text.html)
+- Crawled version: 18 August 2020
+- Editor's Draft: [https://wicg.github.io/shape-detection-api/text.html](https://wicg.github.io/shape-detection-api/text.html)
+- Shortname: text-detection-api
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-image/`](https://w3c.github.io/mediacapture-image/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
+
+
+### Attribution Reporting {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
+- Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
+- Crawled version: 9 September 2022
+- Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
+- Shortname: attribution-reporting-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Background Fetch {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/background-fetch/](https://wicg.github.io/background-fetch/)
+- Crawled URL: [https://wicg.github.io/background-fetch/](https://wicg.github.io/background-fetch/)
+- Crawled version: 21 April 2021
+- Editor's Draft: [https://wicg.github.io/background-fetch/](https://wicg.github.io/background-fetch/)
+- Shortname: background-fetch
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/), related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+
+No informative reference to this spec from other specs.
+
+
+### Badging API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
+- Crawled URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
+- Crawled version: 03 February 2021
+- Editor's Draft: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
+- Shortname: badging
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Capability Delegation {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
+- Crawled URL: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
+- Crawled version: 15 June 2022
+- Editor's Draft: [https://wicg.github.io/capability-delegation/spec.html](https://wicg.github.io/capability-delegation/spec.html)
+- Shortname: capability-delegation
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/)
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Client Hints Infrastructure {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
+- Crawled URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
+- Shortname: client-hints-infrastructure
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Network Information API](https://wicg.github.io/netinfo/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+
+Informative references to this spec from:
+
+- [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
+
+
+### Close Watcher API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
+- Crawled URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
+- Crawled version: 3 June 2022
+- Editor's Draft: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
+- Shortname: close-watcher
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Compression Streams {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
+- Crawled URL: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
+- Crawled version: 15 August 2022
+- Editor's Draft: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
+- Shortname: compression
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Streams Standard](https://streams.spec.whatwg.org/)
+
+
+### Compute Pressure Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
+- Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
+- Shortname: compute-pressure
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/)
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Contact Picker API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/contact-api/spec/](https://w3c.github.io/contact-api/spec/)
+- Crawled URL: [https://w3c.github.io/contact-api/spec/](https://w3c.github.io/contact-api/spec/)
+- Crawled version: 21 December 2021
+- Editor's Draft: [https://w3c.github.io/contact-api/spec/](https://w3c.github.io/contact-api/spec/)
+- Shortname: contact-api
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Content Index {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/content-index/spec/](https://wicg.github.io/content-index/spec/)
+- Crawled URL: [https://wicg.github.io/content-index/spec/](https://wicg.github.io/content-index/spec/)
+- Crawled version: 13 April 2021
+- Editor's Draft: [https://wicg.github.io/content-index/spec/](https://wicg.github.io/content-index/spec/)
+- Shortname: content-index
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/), related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Cookie Store API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
+- Crawled URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
+- Shortname: cookie-store
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/), related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Crash Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
+- Crawled URL: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
+- Crawled version: 24 June 2020
+- Editor's Draft: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
+- Shortname: crash-reporting
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### CSS Parser API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/css-parser-api/](https://wicg.github.io/css-parser-api/)
+- Crawled URL: [https://wicg.github.io/css-parser-api/](https://wicg.github.io/css-parser-api/)
+- Crawled version: 26 February 2021
+- Editor's Draft: [https://wicg.github.io/css-parser-api/](https://wicg.github.io/css-parser-api/)
+- Shortname: css-parser-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Custom State Pseudo Class {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
+- Crawled URL: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
+- Crawled version: 18 January 2021
+- Editor's Draft: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
+- Shortname: custom-state-pseudo-class
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### DataCue API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/datacue/](https://wicg.github.io/datacue/)
+- Crawled URL: [https://wicg.github.io/datacue/](https://wicg.github.io/datacue/)
+- Crawled version: 8 March 2021
+- Editor's Draft: [https://wicg.github.io/datacue/](https://wicg.github.io/datacue/)
+- Shortname: datacue
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Deprecation Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/deprecation-reporting/](https://wicg.github.io/deprecation-reporting/)
+- Crawled URL: [https://wicg.github.io/deprecation-reporting/](https://wicg.github.io/deprecation-reporting/)
+- Crawled version: 28 September 2020
+- Editor's Draft: [https://wicg.github.io/deprecation-reporting/](https://wicg.github.io/deprecation-reporting/)
+- Shortname: deprecation-reporting
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Digital Goods API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
+- Crawled URL: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
+- Crawled version: 18 March 2022
+- Editor's Draft: [https://wicg.github.io/digital-goods/](https://wicg.github.io/digital-goods/)
+- Shortname: digital-goods
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/), related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Document Policy {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
+- Crawled URL: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
+- Crawled version: 30 March 2022
+- Editor's Draft: [https://wicg.github.io/document-policy/](https://wicg.github.io/document-policy/)
+- Shortname: document-policy
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Early detection of input events {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/is-input-pending/](https://wicg.github.io/is-input-pending/)
+- Crawled URL: [https://wicg.github.io/is-input-pending/](https://wicg.github.io/is-input-pending/)
+- Crawled version: 02 August 2021
+- Editor's Draft: [https://wicg.github.io/is-input-pending/](https://wicg.github.io/is-input-pending/)
+- Shortname: is-input-pending
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Element Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
+- Crawled URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
+- Crawled version: 14 March 2022
+- Editor's Draft: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
+- Shortname: element-timing
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/IntersectionObserver`](https://w3c.github.io/IntersectionObserver), related reference "INTERSECTION-OBSERVER" uses URL [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
+     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/), related reference "INTERSECTION-OBSERVER" uses URL [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+     * [`https://w3c.github.io/resource-timing`](https://w3c.github.io/resource-timing), related reference "RESOURCE-TIMING-2" uses URL [`https://www.w3.org/TR/resource-timing-2/`](https://www.w3.org/TR/resource-timing-2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### EyeDropper API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
+- Crawled URL: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
+- Crawled version: 30 March 2022
+- Editor's Draft: [https://wicg.github.io/eyedropper-api/](https://wicg.github.io/eyedropper-api/)
+- Shortname: eyedropper-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Federated Credential Management API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
+- Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
+- Shortname: FedCM
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/), related reference "REFERRER-POLICY-1" uses URL [`http://www.w3.org/TR/referrer-policy/`](http://www.w3.org/TR/referrer-policy/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+
+No informative reference to this spec from other specs.
+
+
+### File and Directory Entries API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
+- Crawled URL: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
+- Shortname: entries-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [File System Access](https://wicg.github.io/file-system-access/)
+
+
+### File System Access {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
+- Crawled URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
+- Crawled version: 12 August 2022
+- Editor's Draft: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
+- Shortname: file-system-access
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+No informative reference to this spec from other specs.
+
+
+### Get Installed Related Apps API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/get-installed-related-apps/spec/](https://wicg.github.io/get-installed-related-apps/spec/)
+- Crawled URL: [https://wicg.github.io/get-installed-related-apps/spec/](https://wicg.github.io/get-installed-related-apps/spec/)
+- Crawled version: 8 March 2021
+- Editor's Draft: [https://wicg.github.io/get-installed-related-apps/spec/](https://wicg.github.io/get-installed-related-apps/spec/)
+- Shortname: get-installed-related-apps
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### HTML Sanitizer API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
+- Crawled URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
+- Crawled version: 14 September 2022
+- Editor's Draft: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
+- Shortname: sanitizer-api
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/)
+     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/video-rvfc/](https://wicg.github.io/video-rvfc/)
+- Crawled URL: [https://wicg.github.io/video-rvfc/](https://wicg.github.io/video-rvfc/)
+- Crawled version: 25 January 2021
+- Editor's Draft: [https://wicg.github.io/video-rvfc/](https://wicg.github.io/video-rvfc/)
+- Shortname: video-rvfc
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Idle Detection API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/idle-detection/](https://wicg.github.io/idle-detection/)
+- Crawled URL: [https://wicg.github.io/idle-detection/](https://wicg.github.io/idle-detection/)
+- Crawled version: 24 March 2022
+- Editor's Draft: [https://wicg.github.io/idle-detection/](https://wicg.github.io/idle-detection/)
+- Shortname: idle-detection
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+No informative reference to this spec from other specs.
+
+
+### Import Maps {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
+- Crawled URL: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
+- Crawled version: 6 May 2022
+- Editor's Draft: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
+- Shortname: import-maps
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Ink API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/ink-enhancement/](https://wicg.github.io/ink-enhancement/)
+- Crawled URL: [https://wicg.github.io/ink-enhancement/](https://wicg.github.io/ink-enhancement/)
+- Crawled version: 13 July 2021
+- Editor's Draft: [https://wicg.github.io/ink-enhancement/](https://wicg.github.io/ink-enhancement/)
+- Shortname: ink-enhancement
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Input Device Capabilities {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/input-device-capabilities/](https://wicg.github.io/input-device-capabilities/)
+- Crawled URL: [https://wicg.github.io/input-device-capabilities/](https://wicg.github.io/input-device-capabilities/)
+- Crawled version: 08 March 2021
+- Editor's Draft: [https://wicg.github.io/input-device-capabilities/](https://wicg.github.io/input-device-capabilities/)
+- Shortname: input-device-capabilities
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Intervention Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/intervention-reporting/](https://wicg.github.io/intervention-reporting/)
+- Crawled URL: [https://wicg.github.io/intervention-reporting/](https://wicg.github.io/intervention-reporting/)
+- Crawled version: 6 March 2020
+- Editor's Draft: [https://wicg.github.io/intervention-reporting/](https://wicg.github.io/intervention-reporting/)
+- Shortname: intervention-reporting
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### JS Self-Profiling API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/js-self-profiling/](https://wicg.github.io/js-self-profiling/)
+- Crawled URL: [https://wicg.github.io/js-self-profiling/](https://wicg.github.io/js-self-profiling/)
+- Crawled version: 11 March 2022
+- Editor's Draft: [https://wicg.github.io/js-self-profiling/](https://wicg.github.io/js-self-profiling/)
+- Shortname: js-self-profiling
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-permissions-policy/document-policy.html`](https://w3c.github.io/webappsec-permissions-policy/document-policy.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Keyboard Lock {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/keyboard-lock/](https://wicg.github.io/keyboard-lock/)
+- Crawled URL: [https://wicg.github.io/keyboard-lock/](https://wicg.github.io/keyboard-lock/)
+- Crawled version: 6 October 2021
+- Editor's Draft: [https://wicg.github.io/keyboard-lock/](https://wicg.github.io/keyboard-lock/)
+- Shortname: keyboard-lock
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+No informative reference to this spec from other specs.
+
+
+### Keyboard Map {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/keyboard-map/](https://wicg.github.io/keyboard-map/)
+- Crawled URL: [https://wicg.github.io/keyboard-map/](https://wicg.github.io/keyboard-map/)
+- Crawled version: 17 June 2022
+- Editor's Draft: [https://wicg.github.io/keyboard-map/](https://wicg.github.io/keyboard-map/)
+- Shortname: keyboard-map
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Layout Instability API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/layout-instability/](https://wicg.github.io/layout-instability/)
+- Crawled URL: [https://wicg.github.io/layout-instability/](https://wicg.github.io/layout-instability/)
+- Crawled version: 20 December 2021
+- Editor's Draft: [https://wicg.github.io/layout-instability/](https://wicg.github.io/layout-instability/)
+- Shortname: layout-instability
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+     * [`https://www.w3.org/TR/pointerevents/`](https://www.w3.org/TR/pointerevents/)
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/), related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+     * [`https://w3c.github.io/resource-timing/`](https://w3c.github.io/resource-timing/), related reference "RESOURCE-TIMING-2" uses URL [`https://www.w3.org/TR/resource-timing-2/`](https://www.w3.org/TR/resource-timing-2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### Loading Signed Exchanges {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
+- Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
+- Crawled version: 29 August 2022
+- Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
+- Shortname: webpackage
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Local Font Access API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
+- Crawled URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
+- Shortname: local-font-access
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Manifest Incubations {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
+- Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
+- Crawled version: 09 September 2022
+- Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
+- Shortname: manifest-incubations
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+
+No informative reference to this spec from other specs.
+
+
+### Measure Memory API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/performance-measure-memory/](https://wicg.github.io/performance-measure-memory/)
+- Crawled URL: [https://wicg.github.io/performance-measure-memory/](https://wicg.github.io/performance-measure-memory/)
+- Crawled version: 28 May 2021
+- Editor's Draft: [https://wicg.github.io/performance-measure-memory/](https://wicg.github.io/performance-measure-memory/)
+- Shortname: performance-measure-memory
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Media Feeds {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/media-feeds/](https://wicg.github.io/media-feeds/)
+- Crawled URL: [https://wicg.github.io/media-feeds/](https://wicg.github.io/media-feeds/)
+- Crawled version: 02 August 2022
+- Editor's Draft: [https://wicg.github.io/media-feeds/](https://wicg.github.io/media-feeds/)
+- Shortname: media-feeds
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Navigation API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
+- Crawled URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
+- Crawled version: 12 July 2022
+- Editor's Draft: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
+- Shortname: navigation-api
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/), related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Network Information API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/netinfo/](https://wicg.github.io/netinfo/)
+- Crawled URL: [https://wicg.github.io/netinfo/](https://wicg.github.io/netinfo/)
+- Crawled version: 11 May 2020
+- Editor's Draft: [https://wicg.github.io/netinfo/](https://wicg.github.io/netinfo/)
+- Shortname: netinfo
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/)
+     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Save Data API](https://wicg.github.io/savedata/)
+
+No informative reference to this spec from other specs.
+
+
+### Origin-bound one-time codes delivered via SMS {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/sms-one-time-codes/](https://wicg.github.io/sms-one-time-codes/)
+- Crawled URL: [https://wicg.github.io/sms-one-time-codes/](https://wicg.github.io/sms-one-time-codes/)
+- Crawled version: 24 March 2021
+- Editor's Draft: [https://wicg.github.io/sms-one-time-codes/](https://wicg.github.io/sms-one-time-codes/)
+- Shortname: sms-one-time-codes
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebOTP API](https://wicg.github.io/web-otp/)
+
+No informative reference to this spec from other specs.
+
+
+### overscroll and scrollend events {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/overscroll-scrollend-events/](https://wicg.github.io/overscroll-scrollend-events/)
+- Crawled URL: [https://wicg.github.io/overscroll-scrollend-events/](https://wicg.github.io/overscroll-scrollend-events/)
+- Crawled version: 15 April 2020
+- Editor's Draft: [https://wicg.github.io/overscroll-scrollend-events/](https://wicg.github.io/overscroll-scrollend-events/)
+- Shortname: overscroll-scrollend-events
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Page Lifecycle {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/page-lifecycle/](https://wicg.github.io/page-lifecycle/)
+- Crawled URL: [https://wicg.github.io/page-lifecycle/](https://wicg.github.io/page-lifecycle/)
+- Crawled version: 9 June 2022
+- Editor's Draft: [https://wicg.github.io/page-lifecycle/](https://wicg.github.io/page-lifecycle/)
+- Shortname: page-lifecycle
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/)
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Portals {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/portals/](https://wicg.github.io/portals/)
+- Crawled URL: [https://wicg.github.io/portals/](https://wicg.github.io/portals/)
+- Crawled version: 19 April 2021
+- Editor's Draft: [https://wicg.github.io/portals/](https://wicg.github.io/portals/)
+- Shortname: portals
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/), related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### preferCurrentTab {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/prefer-current-tab/](https://wicg.github.io/prefer-current-tab/)
+- Crawled URL: [https://wicg.github.io/prefer-current-tab/](https://wicg.github.io/prefer-current-tab/)
+- Crawled version: 29 August 2022
+- Editor's Draft: [https://wicg.github.io/prefer-current-tab/](https://wicg.github.io/prefer-current-tab/)
+- Shortname: prefer-current-tab
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Prefetch {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
+- Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
+- Shortname: prefetch
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Prerendering Revamped {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
+- Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
+- Shortname: prerendering-revamped
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/)
+     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+     * [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
+     * [`https://www.w3.org/TR/navigation-timing-2/`](https://www.w3.org/TR/navigation-timing-2/), related reference "NAVIGATION-TIMING" uses URL [`https://www.w3.org/TR/navigation-timing/`](https://www.w3.org/TR/navigation-timing/)
+     * [`https://www.w3.org/TR/web-share/`](https://www.w3.org/TR/web-share/), related reference "WEB-SHARE" uses URL [`https://w3c.github.io/web-share/`](https://w3c.github.io/web-share/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Prioritized Task Scheduling {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
+- Crawled URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
+- Crawled version: 9 February 2022
+- Editor's Draft: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
+- Shortname: scheduling-apis
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/), related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Priority Hints {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
+- Crawled URL: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
+- Crawled version: 18 April 2022
+- Editor's Draft: [https://wicg.github.io/priority-hints/](https://wicg.github.io/priority-hints/)
+- Shortname: priority-hints
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Priority Hints](https://wicg.github.io/priority-hints/)
+
+
+### Private Network Access {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
+- Crawled URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
+- Crawled version: 23 February 2022
+- Editor's Draft: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
+- Shortname: private-network-access
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Relinquishing Permissions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/permissions-revoke/](https://wicg.github.io/permissions-revoke/)
+- Crawled URL: [https://wicg.github.io/permissions-revoke/](https://wicg.github.io/permissions-revoke/)
+- Crawled version: 9 May 2022
+- Editor's Draft: [https://wicg.github.io/permissions-revoke/](https://wicg.github.io/permissions-revoke/)
+- Shortname: permissions-revoke
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Requesting Permissions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/permissions-request/](https://wicg.github.io/permissions-request/)
+- Crawled URL: [https://wicg.github.io/permissions-request/](https://wicg.github.io/permissions-request/)
+- Crawled version: 9 May 2022
+- Editor's Draft: [https://wicg.github.io/permissions-request/](https://wicg.github.io/permissions-request/)
+- Shortname: permissions-request
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+
+Informative references to this spec from:
+
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+
+
+### Responsive Image Client Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/responsive-image-client-hints/](https://wicg.github.io/responsive-image-client-hints/)
+- Crawled URL: [https://wicg.github.io/responsive-image-client-hints/](https://wicg.github.io/responsive-image-client-hints/)
+- Crawled version: 1 September 2021
+- Editor's Draft: [https://wicg.github.io/responsive-image-client-hints/](https://wicg.github.io/responsive-image-client-hints/)
+- Shortname: responsive-image-client-hints
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/respimg-usecases/`](https://www.w3.org/TR/respimg-usecases/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Save Data API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/savedata/](https://wicg.github.io/savedata/)
+- Crawled URL: [https://wicg.github.io/savedata/](https://wicg.github.io/savedata/)
+- Crawled version: 31 May 2022
+- Editor's Draft: [https://wicg.github.io/savedata/](https://wicg.github.io/savedata/)
+- Shortname: savedata
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Scripting Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/csp-next/scripting-policy.html](https://wicg.github.io/csp-next/scripting-policy.html)
+- Crawled URL: [https://wicg.github.io/csp-next/scripting-policy.html](https://wicg.github.io/csp-next/scripting-policy.html)
+- Crawled version: 31 August 2021
+- Editor's Draft: [https://wicg.github.io/csp-next/scripting-policy.html](https://wicg.github.io/csp-next/scripting-policy.html)
+- Shortname: csp-next
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Secure Curves in the Web Cryptography API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/webcrypto-secure-curves/](https://wicg.github.io/webcrypto-secure-curves/)
+- Crawled URL: [https://wicg.github.io/webcrypto-secure-curves/](https://wicg.github.io/webcrypto-secure-curves/)
+- Crawled version: 09 June 2022
+- Editor's Draft: [https://wicg.github.io/webcrypto-secure-curves/](https://wicg.github.io/webcrypto-secure-curves/)
+- Shortname: webcrypto-secure-curves
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Speculation Rules {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- Shortname: speculation-rules
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Text Fragments {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
+- Crawled URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
+- Crawled version: 2 September 2022
+- Editor's Draft: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
+- Shortname: scroll-to-text-fragment
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### URLPattern API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
+- Crawled URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
+- Crawled version: 18 April 2022
+- Editor's Draft: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
+- Shortname: urlpattern
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### User Preference Media Features Client Hints Headers {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/user-preference-media-features-headers/](https://wicg.github.io/user-preference-media-features-headers/)
+- Crawled URL: [https://wicg.github.io/user-preference-media-features-headers/](https://wicg.github.io/user-preference-media-features-headers/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://wicg.github.io/user-preference-media-features-headers/](https://wicg.github.io/user-preference-media-features-headers/)
+- Shortname: user-preference-media-features-headers
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### User-Agent Client Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/ua-client-hints/](https://wicg.github.io/ua-client-hints/)
+- Crawled URL: [https://wicg.github.io/ua-client-hints/](https://wicg.github.io/ua-client-hints/)
+- Crawled version: 1 July 2022
+- Editor's Draft: [https://wicg.github.io/ua-client-hints/](https://wicg.github.io/ua-client-hints/)
+- Shortname: ua-client-hints
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
+
+
+### Web Background Synchronization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/background-sync/spec/](https://wicg.github.io/background-sync/spec/)
+- Crawled URL: [https://wicg.github.io/background-sync/spec/](https://wicg.github.io/background-sync/spec/)
+- Crawled version: 10 November 2021
+- Editor's Draft: [https://wicg.github.io/background-sync/spec/](https://wicg.github.io/background-sync/spec/)
+- Shortname: background-sync
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/webappsec/specs/powerfulfeatures/`](https://w3c.github.io/webappsec/specs/powerfulfeatures/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+
+Informative references to this spec from:
+
+- [Push API](https://w3c.github.io/push-api/)
+
+
+### Web Periodic Background Synchronization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/periodic-background-sync/](https://wicg.github.io/periodic-background-sync/)
+- Crawled URL: [https://wicg.github.io/periodic-background-sync/](https://wicg.github.io/periodic-background-sync/)
+- Crawled version: 12 April 2021
+- Editor's Draft: [https://wicg.github.io/periodic-background-sync/](https://wicg.github.io/periodic-background-sync/)
+- Shortname: periodic-background-sync
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Web Serial API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
+- Crawled URL: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
+- Crawled version: 30 August 2022
+- Editor's Draft: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
+- Shortname: serial
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Web Share Target API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/web-share-target/](https://w3c.github.io/web-share-target/)
+- Crawled URL: [https://w3c.github.io/web-share-target/](https://w3c.github.io/web-share-target/)
+- Crawled version: 26 January 2022
+- Editor's Draft: [https://w3c.github.io/web-share-target/](https://w3c.github.io/web-share-target/)
+- Shortname: web-share-target
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+
+No informative reference to this spec from other specs.
+
+
+### Web Speech API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/speech-api/](https://wicg.github.io/speech-api/)
+- Crawled URL: [https://wicg.github.io/speech-api/](https://wicg.github.io/speech-api/)
+- Crawled version: 18 August 2020
+- Editor's Draft: [https://wicg.github.io/speech-api/](https://wicg.github.io/speech-api/)
+- Shortname: speech-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
+
+
+### WebHID API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/webhid/](https://wicg.github.io/webhid/)
+- Crawled URL: [https://wicg.github.io/webhid/](https://wicg.github.io/webhid/)
+- Crawled version: 22 June 2022
+- Editor's Draft: [https://wicg.github.io/webhid/](https://wicg.github.io/webhid/)
+- Shortname: webhid
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebOTP API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/web-otp/](https://wicg.github.io/web-otp/)
+- Crawled URL: [https://wicg.github.io/web-otp/](https://wicg.github.io/web-otp/)
+- Crawled version: 13 April 2021
+- Editor's Draft: [https://wicg.github.io/web-otp/](https://wicg.github.io/web-otp/)
+- Shortname: web-otp
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/), related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+
+No informative reference to this spec from other specs.
+
+
+### WebUSB API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/webusb/](https://wicg.github.io/webusb/)
+- Crawled URL: [https://wicg.github.io/webusb/](https://wicg.github.io/webusb/)
+- Crawled version: 7 June 2022
+- Editor's Draft: [https://wicg.github.io/webusb/](https://wicg.github.io/webusb/)
+- Shortname: webusb
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Web Serial API](https://wicg.github.io/serial/)
+
+
+### Window Controls Overlay {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
+- Crawled URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
+- Crawled version: 08 September 2022
+- Editor's Draft: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
+- Shortname: window-controls-overlay
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+
+No informative reference to this spec from other specs.
+
+
+## Web Platform Working Group {#web_platform_working_group}
+
+### DOM Parsing and Serialization {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/DOM-Parsing/](https://www.w3.org/TR/DOM-Parsing/)
+- Crawled URL: [https://w3c.github.io/DOM-Parsing/](https://w3c.github.io/DOM-Parsing/)
+- Crawled version: 02 May 2021
+- Editor's Draft: [https://w3c.github.io/DOM-Parsing/](https://w3c.github.io/DOM-Parsing/)
+- Latest published version: [https://www.w3.org/TR/DOM-Parsing/](https://www.w3.org/TR/DOM-Parsing/)
+- Shortname: DOM-Parsing
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM4" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [DOM Standard](https://dom.spec.whatwg.org/)
+
+
+### UI Events KeyboardEvent code Values {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/uievents-code/](https://www.w3.org/TR/uievents-code/)
+- Crawled URL: [https://w3c.github.io/uievents-code/](https://w3c.github.io/uievents-code/)
+- Crawled version: 21 October 2021
+- Editor's Draft: [https://w3c.github.io/uievents-code/](https://w3c.github.io/uievents-code/)
+- Latest published version: [https://www.w3.org/TR/uievents-code/](https://www.w3.org/TR/uievents-code/)
+- Shortname: uievents-code
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [UI Events](https://w3c.github.io/uievents/)
+- [UI Events KeyboardEvent key Values](https://w3c.github.io/uievents-key/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+No informative reference to this spec from other specs.
+
+
+### UI Events KeyboardEvent key Values {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/uievents-key/](https://www.w3.org/TR/uievents-key/)
+- Crawled URL: [https://w3c.github.io/uievents-key/](https://w3c.github.io/uievents-key/)
+- Crawled version: 26 October 2021
+- Editor's Draft: [https://w3c.github.io/uievents-key/](https://w3c.github.io/uievents-key/)
+- Latest published version: [https://www.w3.org/TR/uievents-key/](https://www.w3.org/TR/uievents-key/)
+- Shortname: uievents-key
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [UI Events](https://w3c.github.io/uievents/)
+- [UI Events KeyboardEvent code Values](https://w3c.github.io/uievents-code/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+
+No informative reference to this spec from other specs.
+
+
+## Web Real-Time Communications Working Group {#web_real_time_communications_working_group}
+
+### Audio Output Devices API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/audio-output/](https://www.w3.org/TR/audio-output/)
+- Crawled URL: [https://w3c.github.io/mediacapture-output/](https://w3c.github.io/mediacapture-output/)
+- Crawled version: 10 February 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-output/](https://w3c.github.io/mediacapture-output/)
+- Latest published version: [https://www.w3.org/TR/audio-output/](https://www.w3.org/TR/audio-output/)
+- Shortname: audio-output
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+No informative reference to this spec from other specs.
+
+
+### Capture Handle - Bootstrapping Collaboration when Screensharing {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
+- Crawled URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
+- Crawled version: 06 July 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
+- Latest published version: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
+- Shortname: capture-handle-identity
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### IceTransport Extensions for WebRTC {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/webrtc-ice/](https://w3c.github.io/webrtc-ice/)
+- Crawled URL: [https://w3c.github.io/webrtc-ice/](https://w3c.github.io/webrtc-ice/)
+- Crawled version: 01 July 2022
+- Editor's Draft: [https://w3c.github.io/webrtc-ice/](https://w3c.github.io/webrtc-ice/)
+- Shortname: webrtc-ice
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Identifiers for WebRTC's Statistics API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
+- Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
+- Crawled version: 26 July 2022
+- Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
+- Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
+- Shortname: webrtc-stats
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+
+Informative references to this spec from:
+
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+
+
+### Identity for WebRTC 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webrtc-identity/](https://www.w3.org/TR/webrtc-identity/)
+- Crawled URL: [https://w3c.github.io/webrtc-identity/](https://w3c.github.io/webrtc-identity/)
+- Crawled version: 09 June 2022
+- Editor's Draft: [https://w3c.github.io/webrtc-identity/](https://w3c.github.io/webrtc-identity/)
+- Latest published version: [https://www.w3.org/TR/webrtc-identity/](https://www.w3.org/TR/webrtc-identity/)
+- Shortname: webrtc-identity
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webrtc-pc/`](https://w3c.github.io/webrtc-pc/), related reference "WEBRTC" uses URL [`https://www.w3.org/TR/webrtc/`](https://www.w3.org/TR/webrtc/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+
+Informative references to this spec from:
+
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+
+
+### Media Capture and Streams {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
+- Crawled URL: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
+- Latest published version: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
+- Shortname: mediacapture-streams
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
+- [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Region Capture](https://w3c.github.io/mediacapture-region/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+- [WebXR Anchors Module](https://immersive-web.github.io/anchors/)
+
+Informative references to this spec from:
+
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
+
+
+### Media Capture Automation {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/mediacapture-automation/](https://w3c.github.io/mediacapture-automation/)
+- Crawled URL: [https://w3c.github.io/mediacapture-automation/](https://w3c.github.io/mediacapture-automation/)
+- Crawled version: 17 November 2021
+- Editor's Draft: [https://w3c.github.io/mediacapture-automation/](https://w3c.github.io/mediacapture-automation/)
+- Shortname: mediacapture-automation
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Media Capture from DOM Elements {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediacapture-fromelement/](https://www.w3.org/TR/mediacapture-fromelement/)
+- Crawled URL: [https://w3c.github.io/mediacapture-fromelement/](https://w3c.github.io/mediacapture-fromelement/)
+- Crawled version: 15 November 2021
+- Editor's Draft: [https://w3c.github.io/mediacapture-fromelement/](https://w3c.github.io/mediacapture-fromelement/)
+- Latest published version: [https://www.w3.org/TR/mediacapture-fromelement/](https://www.w3.org/TR/mediacapture-fromelement/)
+- Shortname: mediacapture-fromelement
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+
+
+### MediaStream Image Capture {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/image-capture/](https://www.w3.org/TR/image-capture/)
+- Crawled URL: [https://w3c.github.io/mediacapture-image/](https://w3c.github.io/mediacapture-image/)
+- Crawled version: 6 April 2021
+- Editor's Draft: [https://w3c.github.io/mediacapture-image/](https://w3c.github.io/mediacapture-image/)
+- Latest published version: [https://www.w3.org/TR/image-capture/](https://www.w3.org/TR/image-capture/)
+- Shortname: image-capture
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+
+
+### MediaStream Recording {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediastream-recording/](https://www.w3.org/TR/mediastream-recording/)
+- Crawled URL: [https://w3c.github.io/mediacapture-record/](https://w3c.github.io/mediacapture-record/)
+- Crawled version: 7 June 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-record/](https://w3c.github.io/mediacapture-record/)
+- Latest published version: [https://www.w3.org/TR/mediastream-recording/](https://www.w3.org/TR/mediastream-recording/)
+- Shortname: mediastream-recording
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
+     * [`https://www.w3.org/TR/webrtc-identity/`](https://www.w3.org/TR/webrtc-identity/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
+     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+Informative references to this spec from:
+
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+
+
+### MediaStreamTrack Content Hints {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mst-content-hint/](https://www.w3.org/TR/mst-content-hint/)
+- Crawled URL: [https://w3c.github.io/mst-content-hint/](https://w3c.github.io/mst-content-hint/)
+- Crawled version: 17 November 2021
+- Editor's Draft: [https://w3c.github.io/mst-content-hint/](https://w3c.github.io/mst-content-hint/)
+- Latest published version: [https://www.w3.org/TR/mst-content-hint/](https://www.w3.org/TR/mst-content-hint/)
+- Shortname: mst-content-hint
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### MediaStreamTrack Insertable Media Processing using Streams {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediacapture-transform/](https://www.w3.org/TR/mediacapture-transform/)
+- Crawled URL: [https://w3c.github.io/mediacapture-transform/](https://w3c.github.io/mediacapture-transform/)
+- Crawled version: 24 January 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-transform/](https://w3c.github.io/mediacapture-transform/)
+- Latest published version: [https://www.w3.org/TR/mediacapture-transform/](https://www.w3.org/TR/mediacapture-transform/)
+- Shortname: mediacapture-transform
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Region Capture {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediacapture-region/](https://www.w3.org/TR/mediacapture-region/)
+- Crawled URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
+- Crawled version: 21 July 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
+- Latest published version: [https://www.w3.org/TR/mediacapture-region/](https://www.w3.org/TR/mediacapture-region/)
+- Shortname: mediacapture-region
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Scalable Video Coding (SVC) Extension for WebRTC {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
+- Crawled URL: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
+- Crawled version: 29 August 2022
+- Editor's Draft: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
+- Latest published version: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
+- Shortname: webrtc-svc
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+Informative references to this spec from:
+
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+
+
+### Screen Capture {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
+- Crawled URL: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
+- Crawled version: 25 August 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
+- Latest published version: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
+- Shortname: screen-capture
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Region Capture](https://w3c.github.io/mediacapture-region/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+
+Informative references to this spec from:
+
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+
+
+### The Capture-Handle Actions Mechanism {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
+- Crawled URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
+- Crawled version: 06 July 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
+- Shortname: mediacapture-handle-actions
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Viewport Capture {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mediacapture-viewport/](https://www.w3.org/TR/mediacapture-viewport/)
+- Crawled URL: [https://w3c.github.io/mediacapture-viewport/](https://w3c.github.io/mediacapture-viewport/)
+- Crawled version: 21 June 2022
+- Editor's Draft: [https://w3c.github.io/mediacapture-viewport/](https://w3c.github.io/mediacapture-viewport/)
+- Latest published version: [https://www.w3.org/TR/mediacapture-viewport/](https://www.w3.org/TR/mediacapture-viewport/)
+- Shortname: mediacapture-viewport
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebRTC 1.0: Real-Time Communication Between Browsers {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
+- Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
+- Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
+- Shortname: webrtc
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html`](https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webrtc-stats/`](https://w3c.github.io/webrtc-stats/), related reference "WEBRTC-STATS" uses URL [`https://www.w3.org/TR/webrtc-stats/`](https://www.w3.org/TR/webrtc-stats/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
+- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+- [WebRTC Priority Control API](https://w3c.github.io/webrtc-priority/)
+
+Informative references to this spec from:
+
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+
+### WebRTC Encoded Transform {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webrtc-encoded-transform/](https://www.w3.org/TR/webrtc-encoded-transform/)
+- Crawled URL: [https://w3c.github.io/webrtc-encoded-transform/](https://w3c.github.io/webrtc-encoded-transform/)
+- Crawled version: 6 July 2022
+- Editor's Draft: [https://w3c.github.io/webrtc-encoded-transform/](https://w3c.github.io/webrtc-encoded-transform/)
+- Latest published version: [https://www.w3.org/TR/webrtc-encoded-transform/](https://www.w3.org/TR/webrtc-encoded-transform/)
+- Shortname: webrtc-encoded-transform
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webcrypto/`](https://w3c.github.io/webcrypto/), related reference "WebCryptoAPI" uses URL [`https://www.w3.org/TR/WebCryptoAPI/`](https://www.w3.org/TR/WebCryptoAPI/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebRTC Priority Control API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webrtc-priority/](https://www.w3.org/TR/webrtc-priority/)
+- Crawled URL: [https://w3c.github.io/webrtc-priority/](https://w3c.github.io/webrtc-priority/)
+- Crawled version: 9 February 2021
+- Editor's Draft: [https://w3c.github.io/webrtc-priority/](https://w3c.github.io/webrtc-priority/)
+- Latest published version: [https://www.w3.org/TR/webrtc-priority/](https://www.w3.org/TR/webrtc-priority/)
+- Shortname: webrtc-priority
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+
+No informative reference to this spec from other specs.
+
+
+## WebAssembly Community Group {#webassembly_community_group}
+
+### WebAssembly JavaScript Interface: Exception Handling {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
+- Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
+- Shortname: wasm-js-api-2-fork-exception-handling
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## WebAssembly Working Group {#webassembly_working_group}
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
+- Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
+- Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
+- Shortname: wasm-core-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
+- Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
+- Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
+- Shortname: wasm-js-api-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
+
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+
+
+### WebAssembly Web API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
+- Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
+- Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
+- Shortname: wasm-web-api-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## WebTransport Working Group {#webtransport_working_group}
+
+### WebTransport {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
+- Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
+- Crawled version: 30 August 2022
+- Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
+- Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
+- Shortname: webtransport
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+
+
+# WHATWG {#whatwg}
+
+## Compatibility Workstream {#compatibility_workstream}
+
+### Compatibility Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
+- Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
+- Crawled version: 1 August 2022
+- Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
+- Shortname: compat
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+
+Informative references to this spec from:
+
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+
+
+## Console Workstream {#console_workstream}
+
+### Console Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
+- Crawled URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
+- Shortname: console
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+
+Informative references to this spec from:
+
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+
+
+## DOM Workstream {#dom_workstream}
+
+### DOM Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
+- Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
+- Crawled version: 25 August 2022
+- Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
+- Shortname: dom
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html)
+     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/), related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Badging API](https://w3c.github.io/badging/)
+- [Battery Status API](https://w3c.github.io/battery/)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Content Index](https://wicg.github.io/content-index/spec/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [ContentEditable](https://w3c.github.io/contentEditable/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Document Policy](https://wicg.github.io/document-policy/)
+- [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
+- [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [EditContext API](https://w3c.github.io/edit-context/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [EyeDropper API](https://wicg.github.io/eyedropper-api/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [Gamepad](https://w3c.github.io/gamepad/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
+- [High Resolution Time](https://w3c.github.io/hr-time/)
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Ink API](https://wicg.github.io/ink-enhancement/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Information API](https://wicg.github.io/netinfo/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
+- [Portals](https://wicg.github.io/portals/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Region Capture](https://w3c.github.io/mediacapture-region/)
+- [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Save Data API](https://wicg.github.io/savedata/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Selection API](https://w3c.github.io/selection-api/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
+- [SVG Animations](https://svgwg.org/specs/animations/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Touch Events - Level 2](https://w3c.github.io/touch-events/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [UI Events](https://w3c.github.io/uievents/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [URL Standard](https://url.spec.whatwg.org/)
+- [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Cryptography API](https://w3c.github.io/webcrypto/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [Web Serial API](https://wicg.github.io/serial/)
+- [Web Speech API](https://wicg.github.io/speech-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
+- [WebHID API](https://wicg.github.io/webhid/)
+- [WebOTP API](https://wicg.github.io/web-otp/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
+- [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [Web Share API](https://w3c.github.io/web-share/)
+
+
+## Fetch Workstream {#fetch_workstream}
+
+### Fetch Standard {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
+- Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
+- Crawled version: 28 July 2022
+- Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
+- Shortname: fetch
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/), related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Beacon](https://w3c.github.io/beacon/)
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Content Index](https://wicg.github.io/content-index/spec/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Document Policy](https://wicg.github.io/document-policy/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Media Feeds](https://wicg.github.io/media-feeds/)
+- [Media Session Standard](https://w3c.github.io/mediasession/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Portals](https://wicg.github.io/portals/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Priority Hints](https://wicg.github.io/priority-hints/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Share API](https://w3c.github.io/web-share/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+- [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebOTP API](https://wicg.github.io/web-otp/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Push API](https://w3c.github.io/push-api/)
+- [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [The <model> element](https://immersive-web.github.io/model-element/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+
+
+## Fullscreen API Workstream {#fullscreen_api_workstream}
+
+### Fullscreen API Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
+- Crawled URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
+- Crawled version: 17 January 2022
+- Editor's Draft: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
+- Shortname: fullscreen
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+
+Informative references to this spec from:
+
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+
+
+## HTML Workstream {#html_workstream}
+
+### HTML Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
+- Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
+- Crawled version: 15 September 2022
+- Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
+- Shortname: html
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://spec.whatwg.org/`](https://spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/), related reference "MANIFEST" uses URL [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
+- [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [ARIA in HTML](https://w3c.github.io/html-aria/)
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Badging API](https://w3c.github.io/badging/)
+- [Battery Status API](https://w3c.github.io/battery/)
+- [Beacon](https://w3c.github.io/beacon/)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Contact Picker API](https://w3c.github.io/contact-api/spec/)
+- [Content Index](https://wicg.github.io/content-index/spec/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [ContentEditable](https://w3c.github.io/contentEditable/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
+- [DataCue API](https://wicg.github.io/datacue/)
+- [Device Memory](https://www.w3.org/TR/device-memory/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [Document Policy](https://wicg.github.io/document-policy/)
+- [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [EditContext API](https://w3c.github.io/edit-context/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [EyeDropper API](https://wicg.github.io/eyedropper-api/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File and Directory Entries API](https://wicg.github.io/entries-api/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [Gamepad](https://w3c.github.io/gamepad/)
+- [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation API](https://w3c.github.io/geolocation-api/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
+- [High Resolution Time](https://w3c.github.io/hr-time/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
+- [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Ink API](https://wicg.github.io/ink-enhancement/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
+- [Media Feeds](https://wicg.github.io/media-feeds/)
+- [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Media Session Standard](https://w3c.github.io/mediasession/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Network Information API](https://wicg.github.io/netinfo/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
+- [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
+- [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/)
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
+- [Portals](https://wicg.github.io/portals/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Priority Hints](https://wicg.github.io/priority-hints/)
+- [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Region Capture](https://w3c.github.io/mediacapture-region/)
+- [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/)
+- [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
+- [Requesting Permissions](https://wicg.github.io/permissions-request/)
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
+- [Resource Hints](https://w3c.github.io/resource-hints/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+- [Save Data API](https://wicg.github.io/savedata/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+- [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Selection API](https://w3c.github.io/selection-api/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Storage Standard](https://storage.spec.whatwg.org/)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [SVG Animations](https://svgwg.org/specs/animations/)
+- [Test Utils Standard](https://testutils.spec.whatwg.org/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The <model> element](https://immersive-web.github.io/model-element/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Touch Events - Level 2](https://w3c.github.io/touch-events/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [UI Events](https://w3c.github.io/uievents/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [URL Standard](https://url.spec.whatwg.org/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Cryptography API](https://w3c.github.io/webcrypto/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [Web Serial API](https://wicg.github.io/serial/)
+- [Web Share API](https://w3c.github.io/web-share/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+- [Web Speech API](https://wicg.github.io/speech-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
+- [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
+- [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebGL 2.0 Specification](https://registry.khronos.org/webgl/specs/latest/2.0/)
+- [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
+- [WebHID API](https://wicg.github.io/webhid/)
+- [WebOTP API](https://wicg.github.io/web-otp/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+- [WebXR Anchors Module](https://immersive-web.github.io/anchors/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+- [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
+- [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
+- [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
+
+
+### WebSockets Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
+- Crawled URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
+- Shortname: websockets
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+
+Informative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+
+
+## Infra Workstream {#infra_workstream}
+
+### Infra Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
+- Crawled URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
+- Crawled version: 20 July 2022
+- Editor's Draft: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
+- Shortname: infra
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+- [ARIA in HTML](https://w3c.github.io/html-aria/)
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Badging API](https://w3c.github.io/badging/)
+- [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Console Standard](https://console.spec.whatwg.org/)
+- [Contact Picker API](https://w3c.github.io/contact-api/spec/)
+- [Content Index](https://wicg.github.io/content-index/spec/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File and Directory Entries API](https://wicg.github.io/entries-api/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [Gamepad](https://w3c.github.io/gamepad/)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation API](https://w3c.github.io/geolocation-api/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
+- [Gyroscope](https://w3c.github.io/gyroscope/)
+- [High Resolution Time](https://w3c.github.io/hr-time/)
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Magnetometer](https://w3c.github.io/magnetometer/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Session Standard](https://w3c.github.io/mediasession/)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
+- [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Portals](https://wicg.github.io/portals/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Proximity Sensor](https://w3c.github.io/proximity/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Selection API](https://w3c.github.io/selection-api/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Storage Standard](https://storage.spec.whatwg.org/)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [Test Utils Standard](https://testutils.spec.whatwg.org/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Touch Events - Level 2](https://w3c.github.io/touch-events/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [URL Standard](https://url.spec.whatwg.org/)
+- [URLPattern API](https://wicg.github.io/urlpattern/)
+- [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Cryptography API](https://w3c.github.io/webcrypto/)
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+- [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [Web Serial API](https://wicg.github.io/serial/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
+- [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
+- [WebHID API](https://wicg.github.io/webhid/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+- [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+- [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
+- [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+
+
+## MIME Sniffing Workstream {#mime_sniffing_workstream}
+
+### MIME Sniffing Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
+- Crawled URL: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
+- Crawled version: 17 January 2022
+- Editor's Draft: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
+- Shortname: mimesniff
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Session Standard](https://w3c.github.io/mediasession/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Contact Picker API](https://w3c.github.io/contact-api/spec/)
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+
+## Notifications API Workstream {#notifications_api_workstream}
+
+### Notifications API Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
+- Crawled URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
+- Crawled version: 17 January 2022
+- Editor's Draft: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
+- Shortname: notifications
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Permissions](https://w3c.github.io/permissions/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Push API](https://w3c.github.io/push-api/)
+
+Informative references to this spec from:
+
+- [Requesting Permissions](https://wicg.github.io/permissions-request/)
+- [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
+
+
+## Quirks Mode Workstream {#quirks_mode_workstream}
+
+### Quirks Mode Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
+- Crawled URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
+- Crawled version: 21 February 2022
+- Editor's Draft: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
+- Shortname: quirks
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+
+Informative references to this spec from:
+
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+
+
+## Storage Workstream {#storage_workstream}
+
+### File System Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
+- Crawled URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
+- Crawled version: 19 September 2022
+- Editor's Draft: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
+- Shortname: fs
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Storage Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
+- Crawled URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
+- Crawled version: 14 August 2022
+- Editor's Draft: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
+- Shortname: storage
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+
+Informative references to this spec from:
+
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [Web Locks API](https://w3c.github.io/web-locks/)
+
+
+## Streams Workstream {#streams_workstream}
+
+### Streams Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
+- Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
+- Crawled version: 5 September 2022
+- Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
+- Shortname: streams
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Compression Streams](https://wicg.github.io/compression/)
+- [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Web Serial API](https://wicg.github.io/serial/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+
+Informative references to this spec from:
+
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
+
+
+## Test Utils Workstream {#test_utils_workstream}
+
+### Test Utils Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
+- Crawled URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
+- Crawled version: 21 March 2022
+- Editor's Draft: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
+- Shortname: testutils
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## URL Workstream {#url_workstream}
+
+### URL Standard {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
+- Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
+- Crawled version: 14 August 2022
+- Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
+- Shortname: url
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Beacon](https://w3c.github.io/beacon/)
+- [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
+- [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
+- [Content Index](https://wicg.github.io/content-index/spec/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [Media Feeds](https://wicg.github.io/media-feeds/)
+- [Media Session Standard](https://w3c.github.io/mediasession/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Error Logging](https://w3c.github.io/network-error-logging/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
+- [Portals](https://wicg.github.io/portals/)
+- [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Storage Standard](https://storage.spec.whatwg.org/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
+- [URLPattern API](https://wicg.github.io/urlpattern/)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Share API](https://w3c.github.io/web-share/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
+- [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [WebOTP API](https://wicg.github.io/web-otp/)
+
+
+## Web IDL Workstream {#web_idl_workstream}
+
+### Web IDL Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
+- Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
+- Crawled version: 10 September 2022
+- Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
+- Shortname: webidl
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
+- [Badging API](https://w3c.github.io/badging/)
+- [Battery Status API](https://w3c.github.io/battery/)
+- [Beacon](https://w3c.github.io/beacon/)
+- [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Close Watcher API](https://wicg.github.io/close-watcher/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Compression Streams](https://wicg.github.io/compression/)
+- [Compute Pressure Level 1](https://wicg.github.io/compute-pressure/)
+- [Console Standard](https://console.spec.whatwg.org/)
+- [Contact Picker API](https://w3c.github.io/contact-api/spec/)
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Device Adaptation Module Level 1](https://drafts.csswg.org/css-device-adapt-1/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts-1/)
+- [CSS Shared Element Transitions Module Level 1](https://drafts.csswg.org/css-shared-element-transitions-1/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Device Memory](https://www.w3.org/TR/device-memory/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [DOM Standard](https://dom.spec.whatwg.org/)
+- [Early detection of input events](https://wicg.github.io/is-input-pending/)
+- [EditContext API](https://w3c.github.io/edit-context/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
+- [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Event Timing API](https://w3c.github.io/event-timing)
+- [EyeDropper API](https://wicg.github.io/eyedropper-api/)
+- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File and Directory Entries API](https://wicg.github.io/entries-api/)
+- [File System Access](https://wicg.github.io/file-system-access/)
+- [File System Standard](https://fs.spec.whatwg.org/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [Gamepad](https://w3c.github.io/gamepad/)
+- [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
+- [Generic Sensor API](https://w3c.github.io/sensors/)
+- [Geolocation API](https://w3c.github.io/geolocation-api/)
+- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [Gyroscope](https://w3c.github.io/gyroscope/)
+- [High Resolution Time](https://w3c.github.io/hr-time/)
+- [HTML Media Capture](https://w3c.github.io/html-media-capture/)
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
+- [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+- [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Image Resource](https://w3c.github.io/image-resource/)
+- [Import Maps](https://wicg.github.io/import-maps/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
+- [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
+- [Input Events Level 2](https://w3c.github.io/input-events/)
+- [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
+- [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
+- [Magnetometer](https://w3c.github.io/magnetometer/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/)
+- [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
+- [Media Session Standard](https://w3c.github.io/mediasession/)
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+- [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
+- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/)
+- [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Network Information API](https://wicg.github.io/netinfo/)
+- [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
+- [Permissions](https://w3c.github.io/permissions/)
+- [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
+- [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
+- [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Presentation API](https://w3c.github.io/presentation-api/)
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Priority Hints](https://wicg.github.io/priority-hints/)
+- [Push API](https://w3c.github.io/push-api/)
+- [Region Capture](https://w3c.github.io/mediacapture-region/)
+- [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/)
+- [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [Reporting API](https://w3c.github.io/reporting/)
+- [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
+- [Requesting Permissions](https://wicg.github.io/permissions-request/)
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Save Data API](https://wicg.github.io/savedata/)
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
+- [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
+- [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Selection API](https://w3c.github.io/selection-api/)
+- [Server Timing](https://w3c.github.io/server-timing/)
+- [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Storage Standard](https://storage.spec.whatwg.org/)
+- [Streams Standard](https://streams.spec.whatwg.org/)
+- [Test Utils Standard](https://testutils.spec.whatwg.org/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
+- [The <model> element](https://immersive-web.github.io/model-element/)
+- [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Touch Events - Level 2](https://w3c.github.io/touch-events/)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [UI Events](https://w3c.github.io/uievents/)
+- [URL Standard](https://url.spec.whatwg.org/)
+- [URLPattern API](https://wicg.github.io/urlpattern/)
+- [User Timing Level 3](https://w3c.github.io/user-timing/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
+- [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
+- [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Cryptography API](https://w3c.github.io/webcrypto/)
+- [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
+- [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Serial API](https://wicg.github.io/serial/)
+- [Web Share API](https://w3c.github.io/web-share/)
+- [Web Share Target API](https://w3c.github.io/web-share-target/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
+- [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
+- [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebGL 2.0 Specification](https://registry.khronos.org/webgl/specs/latest/2.0/)
+- [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
+- [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
+- [WebHID API](https://wicg.github.io/webhid/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
+- [WebSockets Standard](https://websockets.spec.whatwg.org/)
+- [WebTransport](https://w3c.github.io/webtransport/)
+- [WebUSB API](https://wicg.github.io/webusb/)
+- [WebXR Anchors Module](https://immersive-web.github.io/anchors/)
+- [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
+- [WebXR Depth Sensing Module](https://immersive-web.github.io/depth-sensing/)
+- [WebXR Device API](https://immersive-web.github.io/webxr/)
+- [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
+- [WebXR Gamepads Module - Level 1](https://immersive-web.github.io/webxr-gamepads-module/)
+- [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/)
+- [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
+- [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
+- [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
+- [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
+- [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/)
+- [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+
+## XMLHttpRequest Workstream {#xmlhttprequest_workstream}
+
+### XMLHttpRequest Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
+- Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
+- Crawled version: 31 August 2022
+- Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
+- Shortname: xhr
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [File API](https://w3c.github.io/FileAPI/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [Navigation API](https://wicg.github.io/navigation-api/)
+
+Informative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+
+
+# sourcemaps.info {#sourcemaps_info}
+
+## sourcemaps.info {#sourcemaps_info}
+
+### Source Map Revision 3 Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://sourcemaps.info/spec.html](https://sourcemaps.info/spec.html)
+- Crawled URL: [https://sourcemaps.info/spec.html](https://sourcemaps.info/spec.html)
+- Crawled version: 4 November 2020
+- Editor's Draft: [https://sourcemaps.info/spec.html](https://sourcemaps.info/spec.html)
+- Shortname: sourcemap
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
+
+
+
+
+
