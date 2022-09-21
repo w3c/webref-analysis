@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-21T12:46:30.780Z",
+  "date": "2022-09-21T18:42:31.283Z",
   "stats": {
     "crawled": 484,
     "errors": 2,
@@ -836,7 +836,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "9 September 2022",
+      "date": "21 September 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -29863,7 +29863,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "19 September 2022",
+      "date": "21 September 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -40698,7 +40698,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "30 August 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
@@ -41151,7 +41151,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "25 August 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -43079,7 +43079,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "20 September 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -43146,7 +43146,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "20 September 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -44302,7 +44302,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "19 September 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
