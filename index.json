@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-21T00:48:23.305Z",
+  "date": "2022-09-21T06:47:23.591Z",
   "stats": {
     "crawled": 484,
     "errors": 3,
@@ -2262,6 +2262,11 @@
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/permissions-policy-1/",
+              "title": "Permissions Policy",
+              "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
@@ -23016,11 +23021,6 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
-              "url": "https://www.w3.org/TR/permissions-policy-1/",
-              "title": "Permissions Policy",
-              "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc7538",
               "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
               "crawled": "https://httpwg.org/specs/rfc7538.html"
@@ -25879,7 +25879,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "26 August 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -29062,6 +29062,11 @@
               "crawled": "https://notifications.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/permissions-policy-1/",
+              "title": "Permissions Policy",
+              "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
+            },
+            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -29166,7 +29171,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "11 December 2020",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -29199,22 +29204,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/reporting/",
-            "ref": {
-              "name": "REPORTING-1",
-              "url": "https://www.w3.org/TR/reporting-1/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-csp/",
-            "ref": {
-              "name": "CSP3",
-              "url": "https://www.w3.org/TR/CSP3/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -29466,7 +29456,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -39760,6 +39750,11 @@
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
+              "url": "https://www.w3.org/TR/permissions-policy-1/",
+              "title": "Permissions Policy",
+              "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
             },
             {
               "url": "https://www.w3.org/TR/picture-in-picture/",

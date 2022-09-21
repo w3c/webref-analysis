@@ -8981,7 +8981,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 26 August 2022
+- Crawled version: 21 September 2022
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -10276,6 +10276,7 @@ Informative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [Navigation API](https://wicg.github.io/navigation-api/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
@@ -10442,6 +10443,7 @@ Normative references to this spec from:
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/)
@@ -10466,22 +10468,20 @@ Informative references to this spec from:
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
 
 
-### Permissions Policy {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Permissions Policy {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
-- Crawled version: 11 December 2020
+- Crawled version: 21 September 2022
 - Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
 - Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Shortname: permissions-policy-1
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
-     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15529,7 +15529,6 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
@@ -16266,6 +16265,7 @@ Normative references to this spec from:
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
+- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
