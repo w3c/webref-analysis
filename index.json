@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-21T18:42:31.283Z",
+  "date": "2022-09-22T00:47:38.853Z",
   "stats": {
     "crawled": 484,
-    "errors": 2,
+    "errors": 3,
     "studied": 484
   },
   "results": [
@@ -2232,6 +2232,11 @@
               "crawled": "https://w3c.github.io/manifest/"
             },
             {
+              "url": "https://www.w3.org/TR/webauthn-3/",
+              "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
+              "crawled": "https://w3c.github.io/webauthn/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -3357,6 +3362,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 335)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9993,7 +9999,7 @@
     {
       "title": "CSS Masking Module Level 1",
       "shortname": "css-masking-1",
-      "date": "27 August 2022",
+      "date": "20 September 2022",
       "url": "https://www.w3.org/TR/css-masking-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-masking-1/",
@@ -10075,13 +10081,6 @@
             "ref": {
               "name": "COMPOSITING-1",
               "url": "https://drafts.fxtf.org/compositing-1/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS3VAL",
-              "url": "https://drafts.csswg.org/css-values-3/"
             }
           },
           {
@@ -20720,7 +20719,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "18 March 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -23226,7 +23225,7 @@
     {
       "title": "HTMLVideoElement.requestVideoFrameCallback()",
       "shortname": "video-rvfc",
-      "date": "25 January 2021",
+      "date": "19 September 2022",
       "url": "https://wicg.github.io/video-rvfc/",
       "nightly": {
         "url": "https://wicg.github.io/video-rvfc/",
@@ -23261,6 +23260,13 @@
             "ref": {
               "name": "HR-TIME-2",
               "url": "https://www.w3.org/TR/hr-time-2/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/media-capabilities",
+            "ref": {
+              "name": "MEDIA-CAPABILITIES",
+              "url": "https://www.w3.org/TR/media-capabilities/"
             }
           }
         ],
@@ -27104,7 +27110,7 @@
     {
       "title": "Media Source Extensions™",
       "shortname": "media-source-2",
-      "date": "26 July 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/media-source-2/",
       "release": {
         "url": "https://www.w3.org/TR/media-source-2/",
@@ -28923,7 +28929,7 @@
     {
       "title": "Payment Request API 1.1",
       "shortname": "payment-request-1.1",
-      "date": "30 August 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
@@ -31467,7 +31473,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -31547,7 +31553,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -31799,7 +31805,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -31904,7 +31910,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -31982,7 +31988,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -32776,7 +32782,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -32814,7 +32820,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -32991,7 +32997,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -33350,7 +33356,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "21 September 2022",
+      "date": "22 September 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -36568,7 +36574,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 September 2022",
+      "date": "21 September 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -38989,7 +38995,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "22 August 2022",
+      "date": "21 September 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -39712,6 +39718,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://wicg.github.io/video-rvfc/",
+              "title": "HTMLVideoElement.requestVideoFrameCallback()",
+              "crawled": "https://wicg.github.io/video-rvfc/"
             },
             {
               "url": "https://w3c.github.io/webrtc-ice/",
