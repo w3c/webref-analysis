@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-23T00:48:14.944Z",
+  "date": "2022-09-23T06:47:30.420Z",
   "stats": {
     "crawled": 484,
-    "errors": 1,
+    "errors": 2,
     "studied": 484
   },
   "results": [
@@ -3614,6 +3614,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 6)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12989,7 +12990,7 @@
     {
       "title": "CSS Shared Element Transitions Module Level 1",
       "shortname": "css-shared-element-transitions-1",
-      "date": "7 September 2022",
+      "date": "22 September 2022",
       "url": "https://drafts.csswg.org/css-shared-element-transitions-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-shared-element-transitions-1/",
@@ -18345,7 +18346,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "21 September 2022",
+      "date": "23 September 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
