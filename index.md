@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 23, 2022
+% September 24, 2022
 
 # Ecma International {#org-ecma_international}
 
@@ -568,7 +568,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -598,7 +598,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -691,7 +691,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1297,7 +1297,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1320,7 +1320,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1378,7 +1378,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1418,7 +1418,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1451,7 +1451,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1478,7 +1478,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 23 September 2022
+- Crawled version: 24 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -8097,7 +8097,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Crawled URL: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
-- Crawled version: 21 September 2022
+- Crawled version: 23 September 2022
 - Editor's Draft: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
 - Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Shortname: geolocation
@@ -9316,7 +9316,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 21 September 2022
+- Crawled version: 23 September 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -12786,7 +12786,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 20 September 2022
+- Crawled version: 23 September 2022
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -13405,7 +13405,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 15 September 2022
+- Crawled version: 23 September 2022
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -13427,7 +13427,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 15 September 2022
+- Crawled version: 23 September 2022
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
@@ -13665,7 +13665,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 15 September 2022
+- Crawled version: 23 September 2022
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
