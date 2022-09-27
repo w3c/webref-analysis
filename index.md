@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 26, 2022
+% September 27, 2022
 
 # Ecma International {#org-ecma_international}
 
@@ -264,7 +264,7 @@ Normative references to this spec from:
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
@@ -298,6 +298,27 @@ Informative references to this spec from:
 - [URL Standard](https://url.spec.whatwg.org/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
+
+
+### ES Array.fromAsync (2022) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
+- Crawled URL: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
+- Crawled version: 14 September 2022
+- Editor's Draft: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
+- Shortname: tc39-array-from-async
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ### Extend TimeZoneName Option Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
@@ -543,7 +564,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 22 September 2022
+- Crawled version: 26 September 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -568,7 +589,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -598,7 +619,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -685,13 +706,109 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### RFC 7725 - An HTTP Status Code to Report Legal Obstacles {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
+- Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
+- Shortname: rfc7725
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### RFC 7838 - HTTP Alternative Services {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
+- Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
+- Shortname: rfc7838
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+
+
+### RFC 8246 - HTTP Immutable Responses {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
+- Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
+- Shortname: rfc8246
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+
+
+### RFC 8470 - Using Early Data in HTTP {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
+- Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
+- Shortname: rfc8470
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+Informative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+
 ### RFC 8942: HTTP Client Hints {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1191,104 +1308,6 @@ Informative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
-## Hypertext Transfer Protocol Bis Working Group {#group-hypertext_transfer_protocol_bis_working_group}
-
-### RFC 7725 - An HTTP Status Code to Report Legal Obstacles {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
-- Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
-- Crawled version: 21 August 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
-- Shortname: rfc7725
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### RFC 7838 - HTTP Alternative Services {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
-- Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
-- Crawled version: 21 August 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
-- Shortname: rfc7838
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
-
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
-
-
-### RFC 8246 - HTTP Immutable Responses {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
-- Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
-- Crawled version: 21 August 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
-- Shortname: rfc8246
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-
-
-### RFC 8470 - Using Early Data in HTTP {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
-- Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
-- Crawled version: 21 August 2022
-- Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
-- Shortname: rfc8470
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
-
-Informative references to this spec from:
-
-- [Fetch Standard](https://fetch.spec.whatwg.org/)
-
-
 ## Kerberos WG Working Group {#group-kerberos_wg_working_group}
 
 ### RFC 4120: The Kerberos Network Authentication Service (V5) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
@@ -1297,7 +1316,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1320,7 +1339,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1378,7 +1397,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1418,7 +1437,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1451,7 +1470,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1478,7 +1497,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 26 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3057,6 +3076,32 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### CSS Anchor Positioning {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
+- Crawled URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
+- Crawled version: 16 September 2022
+- Editor's Draft: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
+- Shortname: css-anchor-1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### CSS Animation Worklet API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
@@ -3406,6 +3451,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -3487,6 +3533,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
@@ -3711,6 +3758,7 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -4743,6 +4791,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
@@ -5276,6 +5325,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
@@ -5810,6 +5860,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
@@ -7109,6 +7160,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
@@ -7345,6 +7397,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -9687,7 +9740,7 @@ Normative references to this spec from:
 - [SVG Animations](https://svgwg.org/specs/animations/)
 - [SVG Integration](https://svgwg.org/specs/integration/)
 - [SVG Strokes](https://svgwg.org/specs/strokes/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
@@ -9988,6 +10041,7 @@ Normative references to this spec from:
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Push API](https://w3c.github.io/push-api/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 Informative references to this spec from:
@@ -10237,7 +10291,7 @@ Normative references to this spec from:
 - [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -10628,27 +10682,23 @@ Informative references to this spec from:
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 
 
-### Trusted Types {data-spec=true data-error=true}
+### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
-- Crawled URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
-- Crawled version: 1 June 2022
-- Editor's Draft: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- Initial URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
+- Crawled URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
+- Crawled version: 20 September 2022
+- Editor's Draft: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
 - Shortname: trusted-types
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/webappsec-trusted-types/dist/spec/ triggered HTTP status 404 Error: Loading https://w3c.github.io/webappsec-trusted-types/dist/spec/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 125)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
+     * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10785,7 +10835,7 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [Web Share API](https://w3c.github.io/web-share/)
@@ -12786,7 +12836,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 23 September 2022
+- Crawled version: 26 September 2022
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -14010,7 +14060,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/)
 
@@ -14994,7 +15044,7 @@ Normative references to this spec from:
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [UI Events](https://w3c.github.io/uievents/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Standard](https://url.spec.whatwg.org/)
@@ -15143,7 +15193,7 @@ Normative references to this spec from:
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
@@ -15458,7 +15508,7 @@ Normative references to this spec from:
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [UI Events](https://w3c.github.io/uievents/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Standard](https://url.spec.whatwg.org/)
@@ -15515,6 +15565,7 @@ Informative references to this spec from:
 
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
@@ -15617,6 +15668,7 @@ Normative references to this spec from:
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
@@ -15737,7 +15789,7 @@ Normative references to this spec from:
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
@@ -16105,7 +16157,7 @@ Normative references to this spec from:
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -16312,7 +16364,7 @@ Normative references to this spec from:
 - [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [UI Events](https://w3c.github.io/uievents/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)

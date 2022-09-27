@@ -1,22 +1,8 @@
 % Reffy crawl
 % Strudy
-% September 26, 2022
+% September 27, 2022
 
-484 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/): `Error: Loading https://w3c.github.io/webappsec-trusted-types/dist/spec/ triggered HTTP status 404 Error: Loading https://w3c.github.io/webappsec-trusted-types/dist/spec/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 125)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-=> 1 specification found
+486 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -31,6 +17,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [Decorators proposal](https://tc39.es/proposal-decorators/)
 - [ECMAScript® 2023 Internationalization API Specification](https://tc39.es/ecma402/)
 - [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/)
+- [ES Array.fromAsync (2022)](https://tc39.es/proposal-array-from-async/)
 - [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)
 - [import assertions](https://tc39.es/proposal-import-assertions/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
@@ -99,7 +86,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 77 specifications found
+=> 78 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -253,6 +240,12 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/) links to:
     * [`http://w3c.github.io/html/infrastructure.html`](http://w3c.github.io/html/infrastructure.html) but does not list it in its references
     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/) but does not list it in its references
@@ -1064,6 +1057,9 @@ Basically all specifications have normative dependencies on some other specifica
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/) links to:
     * [`http://www.w3.org/TR/touch-events-extensions/`](http://www.w3.org/TR/touch-events-extensions/) but does not list it in its references
     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but does not list it in its references
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) links to:
+    * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
+    * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/) but does not list it in its references
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/) but does not list it in its references
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) links to [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
@@ -1120,7 +1116,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 796 missing references for links found in 209 specifications
+=> 803 missing references for links found in 211 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1608,6 +1604,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://html.spec.whatwg.org/multipage/webappapis.html`](https://html.spec.whatwg.org/multipage/webappapis.html) but related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
     * [`https://html.spec.whatwg.org/multipage/window-object.html`](https://html.spec.whatwg.org/multipage/window-object.html) but related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html) links to [`https://www.w3.org/TR/html5/single-page.html`](https://www.w3.org/TR/html5/single-page.html) but related reference "HTML51" uses URL [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) links to [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 - [UI Events](https://w3c.github.io/uievents/) links to:
     * [`http://www.w3.org/TR/uievents-code/`](http://www.w3.org/TR/uievents-code/) but related reference "UIEvents-Code" uses URL [`https://w3c.github.io/uievents-code/`](https://w3c.github.io/uievents-code/)
     * [`http://www.w3.org/TR/uievents-key/`](http://www.w3.org/TR/uievents-key/) but related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
@@ -1656,7 +1653,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 418 inconsistent references for links found in 183 specifications
+=> 419 inconsistent references for links found in 184 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
