@@ -1,36 +1,18 @@
-% Diff between report from "September 27, 2022" and reference report from "September 26, 2022"
+% Diff between report from "September 27, 2022" and reference report from "September 27, 2022"
 % Strudy
 % September 27, 2022
 
-## CSS Anchor Positioning
+## CSS 2
 
-- Initial URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
+- Initial URL: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
-- This specification was not in the reference crawl report.
-
-
-## ES Array.fromAsync (2022)
-
-- Initial URL: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
-- This specification was not in the reference crawl report.
-
-
-## Trusted Types
-
-- Initial URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
-- This specification was not in the reference crawl report.
-
-
-## Trusted Types
-
-- Initial URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
-- Crawled URL: [https://w3c.github.io/webappsec-trusted-types/dist/spec/](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
-- This specification is not in the new crawl report.
+- Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
+- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 337)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
 
 
 
