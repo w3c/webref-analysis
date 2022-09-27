@@ -2811,7 +2811,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 15 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -3046,7 +3046,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3059,15 +3059,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 337)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8391,7 +8391,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 21 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -8416,7 +8416,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 21 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -9230,7 +9230,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
 - Crawled URL: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
-- Crawled version: 18 August 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://w3c.github.io/miniapp-lifecycle/](https://w3c.github.io/miniapp-lifecycle/)
 - Latest published version: [https://www.w3.org/TR/miniapp-lifecycle/](https://www.w3.org/TR/miniapp-lifecycle/)
 - Shortname: miniapp-lifecycle
@@ -11741,7 +11741,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Crawled URL: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
-- Crawled version: 19 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
 - Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Shortname: secure-payment-confirmation
@@ -14711,7 +14711,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 21 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -14736,7 +14736,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 21 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -14767,7 +14767,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 21 September 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -14788,19 +14788,21 @@ No informative reference to this spec from other specs.
 
 ## WebTransport Working Group {#group-webtransport_working_group}
 
-### WebTransport {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### WebTransport {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 30 August 2022
+- Crawled version: 27 September 2022
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 

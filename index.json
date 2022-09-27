@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-27T12:46:12.598Z",
+  "date": "2022-09-27T18:44:41.712Z",
   "stats": {
     "crawled": 486,
-    "errors": 1,
+    "errors": 0,
     "studied": 486
   },
   "results": [
@@ -3412,7 +3412,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19348,7 +19347,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "21 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19401,7 +19400,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "21 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -28157,7 +28156,7 @@
     {
       "title": "MiniApp Lifecycle",
       "shortname": "miniapp-lifecycle",
-      "date": "18 August 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/miniapp-lifecycle/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-lifecycle/",
@@ -36024,7 +36023,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "19 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -41570,7 +41569,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "21 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -41619,7 +41618,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "21 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -41735,7 +41734,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "21 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -41998,7 +41997,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "15 September 2022",
+      "date": "27 September 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -44398,7 +44397,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "30 August 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
@@ -44431,7 +44430,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://websockets.spec.whatwg.org/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/hr-time-2/",
