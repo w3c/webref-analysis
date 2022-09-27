@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-27T06:46:25.789Z",
+  "date": "2022-09-27T12:46:12.598Z",
   "stats": {
     "crawled": 486,
     "errors": 1,
@@ -22115,7 +22115,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "22 September 2022",
+      "date": "27 September 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -23821,7 +23821,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "26 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -23857,7 +23857,15 @@
         "missingLinkRef": [
           "https://w3c.github.io/webrtc-extensions/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/mediacapture-main/",
+            "ref": {
+              "name": "GETUSERMEDIA",
+              "url": "https://www.w3.org/TR/mediacapture-streams/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -30950,7 +30958,7 @@
     {
       "title": "Private Network Access",
       "shortname": "private-network-access",
-      "date": "22 September 2022",
+      "date": "27 September 2022",
       "url": "https://wicg.github.io/private-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/private-network-access/",
@@ -35607,7 +35615,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "16 September 2022",
+      "date": "27 September 2022",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
