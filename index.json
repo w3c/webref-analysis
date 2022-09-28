@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-28T00:48:28.336Z",
+  "date": "2022-09-28T06:48:05.562Z",
   "stats": {
     "crawled": 486,
-    "errors": 0,
+    "errors": 1,
     "studied": 486
   },
   "results": [
@@ -3412,6 +3412,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22114,7 +22115,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 September 2022",
+      "date": "28 September 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -24283,6 +24284,11 @@
               "crawled": "https://dom.spec.whatwg.org/"
             },
             {
+              "url": "https://webidl.spec.whatwg.org/",
+              "title": "Web IDL Standard",
+              "crawled": "https://webidl.spec.whatwg.org/"
+            },
+            {
               "url": "https://w3c.github.io/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://w3c.github.io/web-locks/"
@@ -26277,7 +26283,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "27 September 2022",
+      "date": "28 September 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -30625,7 +30631,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "26 September 2022",
+      "date": "27 September 2022",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -30674,7 +30680,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "26 September 2022",
+      "date": "27 September 2022",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -35614,7 +35620,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "27 September 2022",
+      "date": "28 September 2022",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
@@ -36413,6 +36419,11 @@
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
+            },
+            {
+              "url": "https://wicg.github.io/webusb/",
+              "title": "WebUSB API",
+              "crawled": "https://wicg.github.io/webusb/"
             }
           ],
           "informative": [
@@ -36545,7 +36556,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "26 September 2022",
+      "date": "27 September 2022",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -39980,7 +39991,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "10 September 2022",
+      "date": "27 September 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -44458,7 +44469,7 @@
     {
       "title": "WebUSB API",
       "shortname": "webusb",
-      "date": "7 June 2022",
+      "date": "28 September 2022",
       "url": "https://wicg.github.io/webusb/",
       "nightly": {
         "url": "https://wicg.github.io/webusb/",
@@ -44488,22 +44499,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://www.w3.org/TR/permissions/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-permissions-policy/",
-            "ref": {
-              "name": "PERMISSIONS-POLICY-1",
-              "url": "https://www.w3.org/TR/permissions-policy-1/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -44520,7 +44516,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
