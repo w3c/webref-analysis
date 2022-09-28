@@ -579,6 +579,35 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+# FIDO Alliance {#org-fido_alliance}
+
+## FIDO2 Technical Working Group {#group-fido2_technical_working_group}
+
+### Client to Authenticator Protocol (CTAP) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
+- Crawled URL: [https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
+- Crawled version: June 21, 2022
+- Editor's Draft: [https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
+- Shortname: fido-v2.1
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/)
+     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/), related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 # IETF {#org-ietf}
 
 ## ART Area General Application Working Group Working Group {#group-art_area_general_application_working_group_working_group}
@@ -1351,6 +1380,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
@@ -2490,7 +2520,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 22 September 2022
+- Crawled version: 28 September 2022
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -3046,7 +3076,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3059,15 +3089,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 337)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9195,7 +9225,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 19 September 2022
+- Crawled version: 28 September 2022
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -10211,10 +10241,11 @@ No informative reference to this spec from other specs.
 
 #### Spec info {.info}
 
-- Initial URL: [https://w3c.github.io/webappsec-change-password-url/](https://w3c.github.io/webappsec-change-password-url/)
+- Initial URL: [https://www.w3.org/TR/change-password-url/](https://www.w3.org/TR/change-password-url/)
 - Crawled URL: [https://w3c.github.io/webappsec-change-password-url/](https://w3c.github.io/webappsec-change-password-url/)
 - Crawled version: 28 January 2021
 - Editor's Draft: [https://w3c.github.io/webappsec-change-password-url/](https://w3c.github.io/webappsec-change-password-url/)
+- Latest published version: [https://www.w3.org/TR/change-password-url/](https://www.w3.org/TR/change-password-url/)
 - Shortname: change-password-url
 
 #### Potential issue(s) {.anomalies}
@@ -10354,6 +10385,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
@@ -10687,10 +10719,11 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
-- Initial URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
+- Initial URL: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Crawled URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
 - Crawled version: 20 September 2022
 - Editor's Draft: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
+- Latest published version: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Shortname: trusted-types
 
 #### Potential issue(s) {.anomalies}
@@ -14201,7 +14234,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Crawled version: 27 September 2022
+- Crawled version: 28 September 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
@@ -16193,7 +16226,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 27 September 2022
+- Crawled version: 28 September 2022
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
@@ -16216,6 +16249,7 @@ Normative references to this spec from:
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
