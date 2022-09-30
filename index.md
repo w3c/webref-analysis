@@ -373,7 +373,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
 - Crawled URL: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
-- Crawled version: 29 September 2022
+- Crawled version: 30 September 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
 - Shortname: tc39-intl-enumeration
 
@@ -12522,7 +12522,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
 - Crawled URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
-- Crawled version: 19 September 2022
+- Crawled version: 30 September 2022
 - Editor's Draft: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
 - Shortname: client-hints-infrastructure
 

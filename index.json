@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-09-30T00:51:16.442Z",
+  "date": "2022-09-30T06:46:34.951Z",
   "stats": {
     "crawled": 487,
     "errors": 12,
@@ -1411,7 +1411,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "19 September 2022",
+      "date": "30 September 2022",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -25761,7 +25761,7 @@
     {
       "title": "Intl Enumeration API Specification",
       "shortname": "tc39-intl-enumeration",
-      "date": "29 September 2022",
+      "date": "30 September 2022",
       "url": "https://tc39.es/proposal-intl-enumeration/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-enumeration/",
