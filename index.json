@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-01T00:51:31.433Z",
+  "date": "2022-10-01T06:44:34.238Z",
   "stats": {
     "crawled": 487,
     "errors": 0,
@@ -3560,7 +3560,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
@@ -3773,23 +3772,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-cascade-3/",
-              "title": "CSS Cascading and Inheritance Level 3",
-              "crawled": "https://drafts.csswg.org/css-cascade-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -4753,7 +4736,6 @@
         },
         "missingLinkRef": [
           "http://www.w3.org/TR/css-flexbox/",
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css2/box.html",
           "https://www.w3.org/TR/css3-multicol/",
@@ -5054,7 +5036,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-flexbox-1/",
           "https://www.w3.org/TR/css-grid-1/",
@@ -7250,7 +7231,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-contain-1/",
           "https://www.w3.org/TR/css-grid/",
@@ -7788,11 +7768,6 @@
               "url": "https://www.w3.org/TR/css-grid-2/",
               "title": "CSS Grid Layout Module Level 2",
               "crawled": "https://drafts.csswg.org/css-grid-2/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-grid-3/",
-              "title": "CSS Grid Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-grid-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -9240,7 +9215,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
@@ -9958,7 +9932,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
@@ -10623,7 +10596,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2011/CR-css3-multicol-20110412/",
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
@@ -10687,7 +10659,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css3-multicol",
@@ -12396,7 +12367,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
@@ -12813,7 +12783,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
@@ -14957,9 +14926,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css-align-3/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/css-values-3/",
@@ -16495,7 +16462,6 @@
         },
         "missingLinkRef": [
           "http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/",
-          "https://www.w3.org/TR/css-align-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-flexbox/",
           "https://www.w3.org/TR/css-pseudo/",
