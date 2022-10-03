@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-03T06:44:01.655Z",
+  "date": "2022-10-03T12:44:28.184Z",
   "stats": {
     "crawled": 487,
     "errors": 1,
@@ -40151,7 +40151,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "30 September 2022",
+      "date": "3 October 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
