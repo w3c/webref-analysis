@@ -720,7 +720,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 3 October 2022
+- Crawled version: 4 October 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -3077,7 +3077,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3090,15 +3090,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 337)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3359,34 +3359,34 @@ Informative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 
 
-### CSS Box Alignment Module Level 3 {data-spec=true data-error=true}
+### CSS Box Alignment Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Crawled URL: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
-- Crawled version: 1 September 2022
+- Crawled version: 3 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
 - Latest published version: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Shortname: css-align-3
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 253)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/)
+     * [`http://www.w3.org/TR/css-grid/`](http://www.w3.org/TR/css-grid/)
+     * [`http://www.w3.org/TR/css3-multicol/`](http://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/)
+     * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3940,34 +3940,30 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Color Module Level 4 {data-spec=true data-error=true}
+### CSS Color Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 9 September 2022
+- Crawled version: 3 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 265)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4011,7 +4007,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
@@ -4023,6 +4018,7 @@ Informative references to this spec from:
 
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
@@ -4136,7 +4132,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
-- Crawled version: 17 September 2022
+- Crawled version: 1 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
 - Latest published version: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Shortname: css-contain-2
@@ -4533,34 +4529,36 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Flexible Box Layout Module Level 1 {data-spec=true data-error=true}
+### CSS Flexible Box Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Crawled URL: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
-- Crawled version: 24 August 2022
+- Crawled version: 3 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
 - Latest published version: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Shortname: css-flexbox-1
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 278)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/`](https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-speech/`](https://www.w3.org/TR/css-speech/)
+     * [`https://www.w3.org/TR/css3-align/`](https://www.w3.org/TR/css3-align/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4616,34 +4614,33 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Fonts Module Level 4 {data-spec=true data-error=true}
+### CSS Fonts Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
-- Crawled version: 14 September 2022
+- Crawled version: 3 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Shortname: css-fonts-4
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 280)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No definition for CSS properties: 
+     * `<feature-value-block>`
+     * `<font-feature-value-type>`
+- Missing references for links: 
+     * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/), related reference "PFE-report" uses URL [`https://www.w3.org/TR/PFE-evaluation/`](https://www.w3.org/TR/PFE-evaluation/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4967,34 +4964,33 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Grid Layout Module Level 2 {data-spec=true data-error=true}
+### CSS Grid Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Crawled URL: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
-- Crawled version: 13 September 2022
+- Crawled version: 3 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
 - Latest published version: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Shortname: css-grid-2
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 283)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6641,7 +6637,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -6656,7 +6651,6 @@ Informative references to this spec from:
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 
 
 ### CSS Text Decoration Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -6691,9 +6685,11 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -6711,6 +6707,7 @@ Informative references to this spec from:
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
@@ -7401,34 +7398,32 @@ Informative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 
 
-### CSS Writing Modes Level 4 {data-spec=true data-error=true}
+### CSS Writing Modes Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-writing-modes-4/](https://www.w3.org/TR/css-writing-modes-4/)
 - Crawled URL: [https://drafts.csswg.org/css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
-- Crawled version: 22 June 2022
+- Crawled version: 3 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
 - Latest published version: [https://www.w3.org/TR/css-writing-modes-4/](https://www.w3.org/TR/css-writing-modes-4/)
 - Shortname: css-writing-modes-4
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 335)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/`](http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7839,34 +7834,25 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Resize Observer {data-spec=true data-error=true}
+### Resize Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/resize-observer-1/](https://www.w3.org/TR/resize-observer-1/)
 - Crawled URL: [https://drafts.csswg.org/resize-observer-1/](https://drafts.csswg.org/resize-observer-1/)
-- Crawled version: 18 August 2022
+- Crawled version: 3 October 2022
 - Editor's Draft: [https://drafts.csswg.org/resize-observer-1/](https://drafts.csswg.org/resize-observer-1/)
 - Latest published version: [https://www.w3.org/TR/resize-observer-1/](https://www.w3.org/TR/resize-observer-1/)
 - Shortname: resize-observer-1
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 422)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css3-positioning/`](https://www.w3.org/TR/css3-positioning/)
+     * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
+     * [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8386,7 +8372,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Crawled URL: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
-- Crawled version: 28 September 2022
+- Crawled version: 04 October 2022
 - Editor's Draft: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
 - Latest published version: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Shortname: screen-wake-lock
@@ -9416,7 +9402,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 03 October 2022
+- Crawled version: 04 October 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -15330,7 +15316,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 28 September 2022
+- Crawled version: 4 October 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
