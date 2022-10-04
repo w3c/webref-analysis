@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-04T12:45:26.224Z",
+  "date": "2022-10-04T18:46:18.875Z",
   "stats": {
     "crawled": 487,
-    "errors": 1,
+    "errors": 0,
     "studied": 487
   },
   "results": [
@@ -1982,7 +1982,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "29 September 2022",
+      "date": "04 October 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -3477,7 +3477,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13805,6 +13804,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -13860,6 +13864,11 @@
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
         },
@@ -13953,11 +13962,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
@@ -13971,11 +13975,6 @@
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fill-stroke-3/",
-              "title": "CSS Fill and Stroke Module Level 3",
-              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -14048,11 +14047,6 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -17400,7 +17394,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "25 August 2022",
+      "date": "4 October 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -19486,7 +19480,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "03 October 2022",
+      "date": "04 October 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19539,7 +19533,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "03 October 2022",
+      "date": "04 October 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -19954,7 +19948,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "26 September 2022",
+      "date": "4 October 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -30970,7 +30964,7 @@
     {
       "title": "Prioritized Task Scheduling",
       "shortname": "scheduling-apis",
-      "date": "9 February 2022",
+      "date": "4 October 2022",
       "url": "https://wicg.github.io/scheduling-apis/",
       "nightly": {
         "url": "https://wicg.github.io/scheduling-apis/",
@@ -31940,7 +31934,7 @@
     {
       "title": "Resize Observer",
       "shortname": "resize-observer-1",
-      "date": "3 October 2022",
+      "date": "4 October 2022",
       "url": "https://www.w3.org/TR/resize-observer-1/",
       "release": {
         "url": "https://www.w3.org/TR/resize-observer-1/",
@@ -42173,7 +42167,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "30 September 2022",
+      "date": "4 October 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -44022,7 +44016,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "3 October 2022",
+      "date": "4 October 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -44090,7 +44084,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "3 October 2022",
+      "date": "4 October 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

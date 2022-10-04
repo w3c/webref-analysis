@@ -3296,7 +3296,7 @@
   <ul>
   <li>Initial URL: <a href="https://w3c.github.io/webdriver-bidi/">https://w3c.github.io/webdriver-bidi/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/webdriver-bidi/">https://w3c.github.io/webdriver-bidi/</a></li>
-  <li>Crawled version: 30 September 2022</li>
+  <li>Crawled version: 4 October 2022</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/webdriver-bidi/">https://w3c.github.io/webdriver-bidi/</a></li>
   <li>Shortname: webdriver-bidi</li>
   </ul>
@@ -3559,7 +3559,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-2-1" class="level3" data-spec="true" data-error="true">
+  <section id="css-2-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
   <h3>CSS 2</h3>
   <section id="spec-info-114" class="level4 info">
   <h4>Spec info</h4>
@@ -3574,8 +3574,21 @@
   </section>
   <section id="potential-issues-114" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)     at async Promise.all (index 337)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-114" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -7736,6 +7749,7 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-3/">CSS Backgrounds and Borders Module Level 3</a></li>
   <li><a href="https://drafts.fxtf.org/fill-stroke-3/">CSS Fill and Stroke Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
@@ -7750,6 +7764,7 @@
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   </ul>
   </section>
   </section>
@@ -7793,11 +7808,9 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
-  <li><a href="https://drafts.csswg.org/css-backgrounds-3/">CSS Backgrounds and Borders Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-color-adjust-1/">CSS Color Adjustment Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-color-4/">CSS Color Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-counter-styles-3/">CSS Counter Styles Level 3</a></li>
-  <li><a href="https://drafts.fxtf.org/fill-stroke-3/">CSS Fill and Stroke Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-fonts-5/">CSS Fonts Module Level 5</a></li>
   <li><a href="https://drafts.fxtf.org/css-masking-1/">CSS Masking Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
@@ -7815,7 +7828,6 @@
   <li><a href="https://drafts.csswg.org/css-flexbox-1/">CSS Flexible Box Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
-  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://w3c.github.io/mathml-core/">MathML Core</a></li>
   </ul>
   </section>
@@ -9106,7 +9118,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/resize-observer-1/">https://www.w3.org/TR/resize-observer-1/</a></li>
   <li>Crawled URL: <a href="https://drafts.csswg.org/resize-observer-1/">https://drafts.csswg.org/resize-observer-1/</a></li>
-  <li>Crawled version: 3 October 2022</li>
+  <li>Crawled version: 4 October 2022</li>
   <li>Editor’s Draft: <a href="https://drafts.csswg.org/resize-observer-1/">https://drafts.csswg.org/resize-observer-1/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/resize-observer-1/">https://www.w3.org/TR/resize-observer-1/</a></li>
   <li>Shortname: resize-observer-1</li>
@@ -9796,7 +9808,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/epub-33/">https://www.w3.org/TR/epub-33/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/epub-specs/epub33/core/">https://w3c.github.io/epub-specs/epub33/core/</a></li>
-  <li>Crawled version: 03 October 2022</li>
+  <li>Crawled version: 04 October 2022</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/epub-specs/epub33/core/">https://w3c.github.io/epub-specs/epub33/core/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/epub-33/">https://www.w3.org/TR/epub-33/</a></li>
   <li>Shortname: epub-33</li>
@@ -9827,7 +9839,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/epub-rs-33/">https://www.w3.org/TR/epub-rs-33/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/epub-specs/epub33/rs/">https://w3c.github.io/epub-specs/epub33/rs/</a></li>
-  <li>Crawled version: 03 October 2022</li>
+  <li>Crawled version: 04 October 2022</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/epub-specs/epub33/rs/">https://w3c.github.io/epub-specs/epub33/rs/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/epub-rs-33/">https://www.w3.org/TR/epub-rs-33/</a></li>
   <li>Shortname: epub-rs-33</li>
@@ -9862,7 +9874,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webgpu/">https://www.w3.org/TR/webgpu/</a></li>
   <li>Crawled URL: <a href="https://gpuweb.github.io/gpuweb/">https://gpuweb.github.io/gpuweb/</a></li>
-  <li>Crawled version: 3 October 2022</li>
+  <li>Crawled version: 4 October 2022</li>
   <li>Editor’s Draft: <a href="https://gpuweb.github.io/gpuweb/">https://gpuweb.github.io/gpuweb/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webgpu/">https://www.w3.org/TR/webgpu/</a></li>
   <li>Shortname: webgpu</li>
@@ -9896,7 +9908,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/WGSL/">https://www.w3.org/TR/WGSL/</a></li>
   <li>Crawled URL: <a href="https://gpuweb.github.io/gpuweb/wgsl/">https://gpuweb.github.io/gpuweb/wgsl/</a></li>
-  <li>Crawled version: 3 October 2022</li>
+  <li>Crawled version: 4 October 2022</li>
   <li>Editor’s Draft: <a href="https://gpuweb.github.io/gpuweb/wgsl/">https://gpuweb.github.io/gpuweb/wgsl/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/WGSL/">https://www.w3.org/TR/WGSL/</a></li>
   <li>Shortname: WGSL</li>
@@ -14609,7 +14621,7 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/compute-pressure/">https://wicg.github.io/compute-pressure/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/compute-pressure/">https://wicg.github.io/compute-pressure/</a></li>
-  <li>Crawled version: 29 September 2022</li>
+  <li>Crawled version: 04 October 2022</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/compute-pressure/">https://wicg.github.io/compute-pressure/</a></li>
   <li>Shortname: compute-pressure</li>
   </ul>
@@ -15757,7 +15769,7 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/scheduling-apis/">https://wicg.github.io/scheduling-apis/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/scheduling-apis/">https://wicg.github.io/scheduling-apis/</a></li>
-  <li>Crawled version: 9 February 2022</li>
+  <li>Crawled version: 4 October 2022</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/scheduling-apis/">https://wicg.github.io/scheduling-apis/</a></li>
   <li>Shortname: scheduling-apis</li>
   </ul>
@@ -17371,7 +17383,7 @@
   <ul>
   <li>Initial URL: <a href="https://dom.spec.whatwg.org/">https://dom.spec.whatwg.org/</a></li>
   <li>Crawled URL: <a href="https://dom.spec.whatwg.org/">https://dom.spec.whatwg.org/</a></li>
-  <li>Crawled version: 25 August 2022</li>
+  <li>Crawled version: 4 October 2022</li>
   <li>Editor’s Draft: <a href="https://dom.spec.whatwg.org/">https://dom.spec.whatwg.org/</a></li>
   <li>Shortname: dom</li>
   </ul>
@@ -17611,7 +17623,7 @@
   <ul>
   <li>Initial URL: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
   <li>Crawled URL: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
-  <li>Crawled version: 26 September 2022</li>
+  <li>Crawled version: 4 October 2022</li>
   <li>Editor’s Draft: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
   <li>Shortname: fetch</li>
   </ul>
