@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-04T06:44:50.178Z",
+  "date": "2022-10-04T12:45:26.224Z",
   "stats": {
     "crawled": 487,
-    "errors": 0,
+    "errors": 1,
     "studied": 487
   },
   "results": [
@@ -710,7 +710,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "28 September 2022",
+      "date": "04 October 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -2195,7 +2195,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "16 September 2022",
+      "date": "4 October 2022",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -3477,6 +3477,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23963,7 +23964,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "28 September 2022",
+      "date": "04 October 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -37705,7 +37706,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "29 September 2022",
+      "date": "4 October 2022",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
@@ -41744,7 +41745,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "30 September 2022",
+      "date": "4 October 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -41793,7 +41794,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "30 September 2022",
+      "date": "4 October 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -41909,7 +41910,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "30 September 2022",
+      "date": "4 October 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -44243,7 +44244,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "22 September 2022",
+      "date": "04 October 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -44279,15 +44280,7 @@
         "missingLinkRef": [
           "https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webrtc-stats/",
-            "ref": {
-              "name": "WEBRTC-STATS",
-              "url": "https://www.w3.org/TR/webrtc-stats/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
