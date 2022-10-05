@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-05T00:48:50.049Z",
+  "date": "2022-10-05T06:46:02.514Z",
   "stats": {
     "crawled": 487,
     "errors": 0,
@@ -22252,7 +22252,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "4 October 2022",
+      "date": "5 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -28803,7 +28803,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "12 July 2022",
+      "date": "4 October 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -37613,7 +37613,7 @@
     {
       "title": "The Screen Orientation API",
       "shortname": "screen-orientation",
-      "date": "18 May 2022",
+      "date": "05 October 2022",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
@@ -39450,6 +39450,11 @@
               "url": "https://drafts.csswg.org/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "The Screen Orientation API",
+              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://drafts.csswg.org/web-animations-2/",
@@ -44016,7 +44021,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "4 October 2022",
+      "date": "5 October 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -44084,7 +44089,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "4 October 2022",
+      "date": "5 October 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
