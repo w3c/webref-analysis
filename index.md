@@ -2842,7 +2842,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 5 October 2022
+- Crawled version: 6 October 2022
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -8926,7 +8926,6 @@ Normative references to this spec from:
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
@@ -10809,7 +10808,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 04 October 2022
+- Crawled version: 06 October 2022
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria
@@ -11364,7 +11363,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 5 October 2022
+- Crawled version: 6 October 2022
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -12584,7 +12583,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Crawled URL: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
-- Crawled version: 04 October 2022
+- Crawled version: 06 October 2022
 - Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -13012,6 +13011,50 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### HTML Standard {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
+- Crawled URL: [https://html.spec.whatwg.org/multipage/webappapis.html#import-maps](https://html.spec.whatwg.org/multipage/webappapis.html#import-maps)
+- Crawled version: 6 October 2022
+- Editor's Draft: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
+- Shortname: import-maps
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`https://console.spec.whatwg.org/`](https://console.spec.whatwg.org/)
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
+     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
+     * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/)
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/)
+     * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/)
+     * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/)
+     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/)
+     * [`https://w3c.github.io/csswg-drafts/resize-observer-1/`](https://w3c.github.io/csswg-drafts/resize-observer-1/)
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+     * [`https://w3c.github.io/longtasks/`](https://w3c.github.io/longtasks/)
+     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/)
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+     * [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/)
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
+     * [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
@@ -13056,27 +13099,6 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
-
-No informative reference to this spec from other specs.
-
-
-### Import Maps {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
-- Crawled URL: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
-- Crawled version: 6 May 2022
-- Editor's Draft: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
-- Shortname: import-maps
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -13520,7 +13542,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 27 September 2022
+- Crawled version: 6 October 2022
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -13542,7 +13564,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 27 September 2022
+- Crawled version: 6 October 2022
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
@@ -13780,7 +13802,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 27 September 2022
+- Crawled version: 6 October 2022
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
@@ -14934,7 +14956,6 @@ Normative references to this spec from:
 
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Navigation API](https://wicg.github.io/navigation-api/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
@@ -15042,7 +15063,6 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -15226,7 +15246,6 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Image Resource](https://w3c.github.io/image-resource/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
@@ -15341,7 +15360,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 5 October 2022
+- Crawled version: 6 October 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -15474,7 +15493,6 @@ Normative references to this spec from:
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Image Resource](https://w3c.github.io/image-resource/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -15792,7 +15810,6 @@ Normative references to this spec from:
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Image Resource](https://w3c.github.io/image-resource/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
@@ -16187,7 +16204,6 @@ Normative references to this spec from:
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
@@ -16355,7 +16371,6 @@ Normative references to this spec from:
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Image Resource](https://w3c.github.io/image-resource/)
-- [Import Maps](https://wicg.github.io/import-maps/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-06T06:42:38.530Z",
+  "date": "2022-10-06T12:45:54.460Z",
   "stats": {
     "crawled": 487,
     "errors": 4,
@@ -710,7 +710,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "04 October 2022",
+      "date": "06 October 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -1982,7 +1982,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "04 October 2022",
+      "date": "06 October 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2068,11 +2068,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
             },
             {
               "url": "https://wicg.github.io/navigation-api/",
@@ -17823,11 +17818,6 @@
               "crawled": "https://wicg.github.io/idle-detection/"
             },
             {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
-            },
-            {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
               "title": "Indexed Database API 3.0",
               "crawled": "https://w3c.github.io/IndexedDB/"
@@ -19275,11 +19265,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
-            },
-            {
               "url": "https://infra.spec.whatwg.org/",
               "title": "Infra Standard",
               "crawled": "https://infra.spec.whatwg.org/"
@@ -20162,11 +20147,6 @@
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
-            },
-            {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
             },
             {
               "url": "https://www.w3.org/TR/IFT/",
@@ -22266,7 +22246,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "5 October 2022",
+      "date": "6 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -22954,11 +22934,6 @@
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
-            },
-            {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
             },
             {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -23873,6 +23848,70 @@
       }
     },
     {
+      "title": "HTML Standard",
+      "shortname": "import-maps",
+      "date": "6 October 2022",
+      "url": "https://wicg.github.io/import-maps/",
+      "nightly": {
+        "url": "https://wicg.github.io/import-maps/",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/import-maps",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://html.spec.whatwg.org/multipage/webappapis.html#import-maps",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://console.spec.whatwg.org/",
+          "https://dom.spec.whatwg.org/",
+          "https://encoding.spec.whatwg.org/",
+          "https://fetch.spec.whatwg.org/",
+          "https://fullscreen.spec.whatwg.org/",
+          "https://infra.spec.whatwg.org/",
+          "https://mimesniff.spec.whatwg.org/",
+          "https://url.spec.whatwg.org/",
+          "https://w3c.github.io/IndexedDB/",
+          "https://w3c.github.io/IntersectionObserver/",
+          "https://w3c.github.io/ServiceWorker/",
+          "https://w3c.github.io/battery/",
+          "https://w3c.github.io/csswg-drafts/resize-observer-1/",
+          "https://w3c.github.io/hr-time/",
+          "https://w3c.github.io/longtasks/",
+          "https://w3c.github.io/paint-timing/",
+          "https://w3c.github.io/pointerevents/",
+          "https://w3c.github.io/requestidlecallback/",
+          "https://w3c.github.io/uievents/",
+          "https://w3c.github.io/webappsec-csp/",
+          "https://w3c.github.io/webappsec-secure-contexts/",
+          "https://webidl.spec.whatwg.org/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "HTMLVideoElement.requestVideoFrameCallback()",
       "shortname": "video-rvfc",
       "date": "19 September 2022",
@@ -24292,47 +24331,6 @@
           "informative": []
         },
         "ok": false
-      }
-    },
-    {
-      "title": "Import Maps",
-      "shortname": "import-maps",
-      "date": "6 May 2022",
-      "url": "https://wicg.github.io/import-maps/",
-      "nightly": {
-        "url": "https://wicg.github.io/import-maps/",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/import-maps",
-        "sourcePath": "spec.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/import-maps/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": true
       }
     },
     {
@@ -24895,11 +24893,6 @@
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
-            },
-            {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
             },
             {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -30784,7 +30777,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "27 September 2022",
+      "date": "6 October 2022",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -30833,7 +30826,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "27 September 2022",
+      "date": "6 October 2022",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -36720,7 +36713,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "27 September 2022",
+      "date": "6 October 2022",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -38571,11 +38564,6 @@
               "crawled": "https://w3c.github.io/image-resource/"
             },
             {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
-            },
-            {
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
@@ -39871,7 +39859,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "5 October 2022",
+      "date": "6 October 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -40629,11 +40617,6 @@
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
-            },
-            {
-              "url": "https://wicg.github.io/import-maps/",
-              "title": "Import Maps",
-              "crawled": "https://wicg.github.io/import-maps/"
             },
             {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -42187,7 +42170,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "5 October 2022",
+      "date": "6 October 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",

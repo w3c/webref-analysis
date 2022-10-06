@@ -68,6 +68,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/)
 - [ES Array.fromAsync (2022)](https://tc39.es/proposal-array-from-async/)
 - [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/webappapis.html#import-maps)
 - [import assertions](https://tc39.es/proposal-import-assertions/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Intl Enumeration API Specification](https://tc39.es/proposal-intl-enumeration/)
@@ -135,7 +136,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 78 specifications found
+=> 79 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -886,6 +887,29 @@ Basically all specifications have normative dependencies on some other specifica
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) links to:
     * [`https://spec.whatwg.org/`](https://spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+- [HTML Standard](https://html.spec.whatwg.org/multipage/webappapis.html#import-maps) links to:
+    * [`https://console.spec.whatwg.org/`](https://console.spec.whatwg.org/) but does not list it in its references
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+    * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/) but does not list it in its references
+    * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
+    * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/) but does not list it in its references
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/) but does not list it in its references
+    * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/) but does not list it in its references
+    * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/) but does not list it in its references
+    * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+    * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/) but does not list it in its references
+    * [`https://w3c.github.io/csswg-drafts/resize-observer-1/`](https://w3c.github.io/csswg-drafts/resize-observer-1/) but does not list it in its references
+    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but does not list it in its references
+    * [`https://w3c.github.io/longtasks/`](https://w3c.github.io/longtasks/) but does not list it in its references
+    * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/) but does not list it in its references
+    * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but does not list it in its references
+    * [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/) but does not list it in its references
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but does not list it in its references
+    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
+    * [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/) but does not list it in its references
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/) links to:
     * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
@@ -1152,7 +1176,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 791 missing references for links found in 210 specifications
+=> 813 missing references for links found in 211 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
