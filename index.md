@@ -565,7 +565,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 6 October 2022
+- Crawled version: 7 October 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -7363,9 +7363,7 @@ Normative references to this spec from:
 
 - [WebDriver](https://w3c.github.io/webdriver/)
 
-Informative references to this spec from:
-
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+No informative reference to this spec from other specs.
 
 
 ### CSS Will Change Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -11143,7 +11141,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Crawled version: 06 October 2022
+- Crawled version: 07 October 2022
 - Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
 - Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Shortname: screen-orientation
@@ -12973,7 +12971,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Crawled URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
-- Crawled version: 21 September 2022
+- Crawled version: 7 October 2022
 - Editor's Draft: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Shortname: sanitizer-api
 
@@ -12990,32 +12988,43 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTML Standard {data-spec=true data-error=true}
+### HTML Standard {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/webappapis.html#import-maps](https://html.spec.whatwg.org/multipage/webappapis.html#import-maps)
-- Crawled version: 6 October 2022
+- Crawled version: 7 October 2022
 - Editor's Draft: [https://wicg.github.io/import-maps/](https://wicg.github.io/import-maps/)
 - Shortname: import-maps
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Execution context was destroyed, most likely because of a navigation. Error: Execution context was destroyed, most likely because of a navigation.
-    at rewriteError (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:284:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:227:56)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 157)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
+- Missing references for links: 
+     * [`https://console.spec.whatwg.org/`](https://console.spec.whatwg.org/)
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
+     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
+     * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/)
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/)
+     * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/)
+     * [`https://w3c.github.io/IndexedDB/`](https://w3c.github.io/IndexedDB/)
+     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/)
+     * [`https://w3c.github.io/clipboard-apis/`](https://w3c.github.io/clipboard-apis/)
+     * [`https://w3c.github.io/csswg-drafts/resize-observer-1/`](https://w3c.github.io/csswg-drafts/resize-observer-1/)
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+     * [`https://w3c.github.io/longtasks/`](https://w3c.github.io/longtasks/)
+     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/)
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+     * [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/)
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
+     * [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15170,7 +15179,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 5 October 2022
+- Crawled version: 7 October 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
