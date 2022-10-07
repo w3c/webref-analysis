@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-07T00:51:02.145Z",
+  "date": "2022-10-07T06:45:49.248Z",
   "stats": {
     "crawled": 487,
     "errors": 1,
@@ -1587,6 +1587,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
             {
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
@@ -22247,7 +22252,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "6 October 2022",
+      "date": "7 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -29667,7 +29672,7 @@
     {
       "title": "Payment Request API 1.1",
       "shortname": "payment-request-1.1",
-      "date": "21 September 2022",
+      "date": "07 October 2022",
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
