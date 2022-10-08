@@ -9,6 +9,12 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
+- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 336)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/): `Error: Evaluation failed: Error: Respec generation took too long
     at isReady (pptr://__puppeteer_evaluation_script__:20:27)
     at isReady (pptr://__puppeteer_evaluation_script__:30:27)
@@ -40,7 +46,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async Promise.all (index 365)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
 
-=> 1 specification found
+=> 2 specifications found
 
 
 ## Specifications without normative dependencies
@@ -271,11 +277,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/wai-aria-implementation/`](http://www.w3.org/TR/wai-aria-implementation/) but does not list it in its references
     * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
-- [CSS 2](https://drafts.csswg.org/css2/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
@@ -1165,7 +1166,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 812 missing references for links found in 214 specifications
+=> 808 missing references for links found in 213 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1213,10 +1214,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
 - [Crash Reporting](https://wicg.github.io/crash-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
-- [CSS 2](https://drafts.csswg.org/css2/) links to:
-    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -1698,7 +1695,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 416 inconsistent references for links found in 184 specifications
+=> 413 inconsistent references for links found in 183 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
