@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-08T00:48:36.068Z",
+  "date": "2022-10-08T06:42:22.045Z",
   "stats": {
     "crawled": 486,
-    "errors": 6,
+    "errors": 1,
     "studied": 486
   },
   "results": [
@@ -3249,11 +3249,6 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://drafts.css-houdini.org/css-typed-om-2/",
-              "title": "CSS Typed OM Level 2",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
@@ -3367,11 +3362,6 @@
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -3806,6 +3796,7 @@
           "https://www.w3.org/TR/2014/CR-css3-background-20140909/",
           "https://www.w3.org/TR/2014/WD-css3-background-20140204/",
           "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-color-4/",
           "https://www.w3.org/TR/css-images/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css3-break/",
@@ -3861,11 +3852,6 @@
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes-1/"
@@ -3892,6 +3878,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-position-3/",
+              "title": "CSS Positioned Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-position-3/"
+            },
             {
               "url": "https://www.w3.org/TR/mixed-content/",
               "title": "Mixed Content",
@@ -4501,11 +4492,6 @@
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-layout-api-1/",
-              "title": "CSS Layout API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-logical-1/",
@@ -5692,11 +5678,6 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-nav-1/",
-              "title": "CSS Spatial Navigation Level 1",
-              "crawled": "https://drafts.csswg.org/css-nav-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
@@ -6003,11 +5984,6 @@
               "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-scrollbars-1/",
-              "title": "CSS Scrollbars Styling Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
@@ -6096,11 +6072,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
@@ -6111,11 +6082,6 @@
               "crawled": "https://drafts.csswg.org/css-color-5/"
             },
             {
-              "url": "https://www.w3.org/TR/fill-stroke-3/",
-              "title": "CSS Fill and Stroke Module Level 3",
-              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -6124,11 +6090,6 @@
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-scrollbars-1/",
-              "title": "CSS Scrollbars Styling Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-4/",
@@ -6391,11 +6352,6 @@
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-round-display-1/",
-              "title": "CSS Round Display Level 1",
-              "crawled": "https://drafts.csswg.org/css-round-display-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -7047,11 +7003,6 @@
               "url": "https://drafts.csswg.org/css-env-1/",
               "title": "CSS Environment Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-env-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-extensions-1/",
-              "title": "CSS Extensions",
-              "crawled": "https://drafts.csswg.org/css-extensions-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -8066,11 +8017,6 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/webvtt1/",
               "title": "WebVTT: The Web Video Text Tracks Format",
               "crawled": "https://w3c.github.io/webvtt/"
@@ -8116,6 +8062,11 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/WOFF/",
@@ -8193,11 +8144,6 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-3/",
@@ -8486,11 +8432,6 @@
               "crawled": "https://drafts.csswg.org/css-anchor-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
@@ -8509,11 +8450,6 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fill-stroke-3/",
-              "title": "CSS Fill and Stroke Module Level 3",
-              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -8857,16 +8793,6 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
-              "url": "https://www.w3.org/TR/css-gcpm-3/",
-              "title": "CSS Generated Content for Paged Media Module",
-              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-gcpm-4/",
-              "title": "CSS Generated Content for Paged Media Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-gcpm-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
@@ -8907,6 +8833,16 @@
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-gcpm-3/",
+              "title": "CSS Generated Content for Paged Media Module",
+              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-gcpm-4/",
+              "title": "CSS Generated Content for Paged Media Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-gcpm-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-speech-1/",
@@ -9292,11 +9228,6 @@
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-round-display-1/",
-              "title": "CSS Round Display Level 1",
-              "crawled": "https://drafts.csswg.org/css-round-display-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-shapes-1/",
@@ -9930,11 +9861,6 @@
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css3-exclusions/",
-              "title": "CSS Exclusions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-exclusions-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-content-3/",
@@ -10647,13 +10573,15 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://html.spec.whatwg.org/multipage/custom-elements.html"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -11401,11 +11329,6 @@
               "crawled": "https://drafts.csswg.org/css-break-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-gcpm-3/",
-              "title": "CSS Generated Content for Paged Media Module",
-              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom-1/"
@@ -11456,6 +11379,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-gcpm-3/",
+              "title": "CSS Generated Content for Paged Media Module",
+              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
             },
             {
               "url": "https://drafts.csswg.org/css-gcpm-4/",
@@ -11666,19 +11594,9 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css3-exclusions/",
-              "title": "CSS Exclusions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-exclusions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
               "title": "CSS Flexible Box Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-gcpm-3/",
-              "title": "CSS Generated Content for Paged Media Module",
-              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-grid-2/",
@@ -11986,11 +11904,6 @@
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-layout-api-1/",
-              "title": "CSS Layout API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
@@ -12985,23 +12898,12 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
-              "title": "CSS Scroll Snap Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-layout-api-1/",
-              "title": "CSS Layout API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -13064,13 +12966,6 @@
             "ref": {
               "name": "CSS-VALUES-3",
               "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/uievents/",
-            "ref": {
-              "name": "UIEVENTS",
-              "url": "https://w3c.github.io/uievents/"
             }
           }
         ],
@@ -13323,11 +13218,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -13575,11 +13465,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -13781,11 +13666,6 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -14341,11 +14221,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-transforms-2/",
               "title": "CSS Transforms Module Level 2",
               "crawled": "https://drafts.csswg.org/css-transforms-2/"
@@ -14681,11 +14556,6 @@
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-layout-api-1/",
-              "title": "CSS Layout API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
@@ -14704,11 +14574,6 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
-              "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
-              "title": "Font Metrics API Level 1",
-              "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
             },
             {
               "url": "https://drafts.csswg.org/scroll-animations-1/",
@@ -15346,16 +15211,6 @@
               "crawled": "https://w3c.github.io/webappsec-cspee/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
@@ -15446,11 +15301,6 @@
               "crawled": "https://drafts.csswg.org/css-conditional-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
@@ -15499,11 +15349,6 @@
               "url": "https://www.w3.org/TR/css3-exclusions/",
               "title": "CSS Exclusions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-exclusions-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-extensions-1/",
-              "title": "CSS Extensions",
-              "crawled": "https://drafts.csswg.org/css-extensions-1/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -15579,11 +15424,6 @@
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-layout-api-1/",
-              "title": "CSS Layout API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-line-grid-1/",
@@ -15701,11 +15541,6 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
-              "title": "CSS Scroll Snap Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
@@ -15779,11 +15614,6 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://drafts.css-houdini.org/css-typed-om-2/",
-              "title": "CSS Typed OM Level 2",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-2/"
             },
             {
               "url": "https://drafts.csswg.org/css-values-5/",
@@ -15902,6 +15732,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-highlight-api-1/",
               "title": "CSS Custom Highlight API Module Level 1",
@@ -16155,13 +15990,7 @@
         ],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -17502,11 +17331,6 @@
               "url": "https://www.w3.org/TR/FileAPI/",
               "title": "File API",
               "crawled": "https://w3c.github.io/FileAPI/"
-            },
-            {
-              "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
-              "title": "Font Metrics API Level 1",
-              "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
             },
             {
               "url": "https://fullscreen.spec.whatwg.org/",
@@ -20565,11 +20389,6 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
@@ -23435,11 +23254,6 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-sizing-4/",
               "title": "CSS Box Sizing Module Level 4",
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
@@ -23465,11 +23279,6 @@
               "crawled": "https://drafts.csswg.org/css-grid-2/"
             },
             {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
@@ -23478,11 +23287,6 @@
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-scrollbars-1/",
-              "title": "CSS Scrollbars Styling Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -27043,7 +26847,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 388)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27200,7 +27003,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 389)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27269,11 +27071,6 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-3/",
@@ -27401,11 +27198,6 @@
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-round-display-1/",
-              "title": "CSS Round Display Level 1",
-              "crawled": "https://drafts.csswg.org/css-round-display-1/"
             }
           ]
         },
@@ -28371,11 +28163,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-round-display-1/",
-              "title": "CSS Round Display Level 1",
-              "crawled": "https://drafts.csswg.org/css-round-display-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-transforms-2/",
               "title": "CSS Transforms Module Level 2",
               "crawled": "https://drafts.csswg.org/css-transforms-2/"
@@ -28384,14 +28171,15 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-round-display-1/",
+              "title": "CSS Round Display Level 1",
+              "crawled": "https://drafts.csswg.org/css-round-display-1/"
+            }
+          ]
         },
         "ok": false
       }
@@ -31622,7 +31410,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 421)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35989,7 +35776,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/selectors-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/selectors-4/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39023,7 +38809,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 454)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39047,11 +38832,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
               "title": "CSS Animations Level 2",
@@ -39204,11 +38984,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-animation-worklet-1/",
-              "title": "CSS Animation Worklet API",
-              "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
               "title": "CSS Animations Level 2",
@@ -40057,11 +39832,6 @@
               "crawled": "https://drafts.csswg.org/css-shadow-parts-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-nav-1/",
-              "title": "CSS Spatial Navigation Level 1",
-              "crawled": "https://drafts.csswg.org/css-nav-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-transitions-1/",
               "title": "CSS Transitions",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
@@ -40180,11 +39950,6 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
-            },
-            {
-              "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
-              "title": "Font Metrics API Level 1",
-              "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
             },
             {
               "url": "https://fullscreen.spec.whatwg.org/",
@@ -41520,7 +41285,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "7 October 2022",
+      "date": "8 October 2022",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
