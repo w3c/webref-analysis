@@ -3405,9 +3405,12 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-grid-3/">CSS Grid Layout Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-2/">CSS Transforms Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
   </ul>
   <p>No informative reference to this spec from other specs.</p>
@@ -3544,6 +3547,7 @@
   <li><a href="https://quirks.spec.whatwg.org/">Quirks Mode Standard</a></li>
   <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
   <li><a href="https://drafts.csswg.org/selectors-4/">Selectors Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   <li><a href="https://w3c.github.io/webdriver/">WebDriver</a></li>
   <li><a href="https://registry.khronos.org/webgl/specs/latest/1.0/">WebGL Specification</a></li>
   <li><a href="https://w3c.github.io/webvtt/">WebVTT: The Web Video Text Tracks Format</a></li>
@@ -3556,7 +3560,7 @@
   </ul>
   </section>
   </section>
-  <section id="css-2-1" class="level3" data-spec="true" data-error="true">
+  <section id="css-2-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
   <h3>CSS 2</h3>
   <section id="spec-info-114" class="level4 info">
   <h4>Spec info</h4>
@@ -3571,8 +3575,21 @@
   </section>
   <section id="potential-issues-114" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)     at async Promise.all (index 336)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html</code></a>, related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-114" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -3678,6 +3695,7 @@
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
   </ul>
   </section>
@@ -3713,6 +3731,7 @@
   <ul>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
   <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   </ul>
   <p>No informative reference to this spec from other specs.</p>
@@ -3746,7 +3765,6 @@
   <li><a href="https://www.w3.org/TR/2014/CR-css3-background-20140909/"><code>https://www.w3.org/TR/2014/CR-css3-background-20140909/</code></a></li>
   <li><a href="https://www.w3.org/TR/2014/WD-css3-background-20140204/"><code>https://www.w3.org/TR/2014/WD-css3-background-20140204/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css-color-4/"><code>https://www.w3.org/TR/css-color-4/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-images/"><code>https://www.w3.org/TR/css-images/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
   <li><a href="https://www.w3.org/TR/css3-break/"><code>https://www.w3.org/TR/css3-break/</code></a></li>
@@ -3772,6 +3790,7 @@
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
   <li><a href="https://drafts.fxtf.org/fill-stroke-3/">CSS Fill and Stroke Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-position-3/">CSS Positioned Layout Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-1/">CSS Shapes Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a></li>
@@ -3780,7 +3799,6 @@
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
-  <li><a href="https://drafts.csswg.org/css-position-3/">CSS Positioned Layout Module Level 3</a></li>
   <li><a href="https://w3c.github.io/webappsec-mixed-content/">Mixed Content</a></li>
   </ul>
   </section>
@@ -4056,9 +4074,12 @@
   <li><a href="https://drafts.csswg.org/css-scroll-snap-1/">CSS Scroll Snap Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-1/">CSS Shapes Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-2/">CSS Shapes Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
@@ -4149,6 +4170,8 @@
   <li><a href="https://drafts.csswg.org/css-transforms-1/">CSS Transforms Module Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://w3c.github.io/mathml-core/">MathML Core</a></li>
   <li><a href="https://quirks.spec.whatwg.org/">Quirks Mode Standard</a></li>
@@ -4423,6 +4446,8 @@
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scoping-1/">CSS Scoping Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scroll-snap-1/">CSS Scroll Snap Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
@@ -4536,6 +4561,7 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-color-4/">CSS Color Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-scrollbars-1/">CSS Scrollbars Styling Module Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/mediaqueries-5/">Media Queries Level 5</a></li>
   </ul>
@@ -4579,11 +4605,13 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-3/">CSS Backgrounds and Borders Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-color-adjust-1/">CSS Color Adjustment Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-color-5/">CSS Color Module Level 5</a></li>
   <li><a href="https://drafts.fxtf.org/fill-stroke-3/">CSS Fill and Stroke Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-images-4/">CSS Images Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-1/">CSS Object Model (CSSOM)</a></li>
+  <li><a href="https://drafts.csswg.org/css-scrollbars-1/">CSS Scrollbars Styling Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://w3c.github.io/miniapp-manifest/">MiniApp Manifest</a></li>
   <li><a href="https://w3c.github.io/manifest/">Web Application Manifest</a></li>
@@ -4631,6 +4659,7 @@
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a></li>
   <li><a href="https://drafts.csswg.org/css-color-4/">CSS Color Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/selectors-4/">Selectors Level 4</a></li>
   </ul>
   </section>
@@ -4676,7 +4705,9 @@
   <li><a href="https://drafts.csswg.org/css-nesting-1/">CSS Nesting Module</a></li>
   <li><a href="https://drafts.csswg.org/cssom-1/">CSS Object Model (CSSOM)</a></li>
   <li><a href="https://drafts.css-houdini.org/css-properties-values-api-1/">CSS Properties and Values API Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-round-display-1/">CSS Round Display Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/mediaqueries-4/">Media Queries Level 4</a></li>
   <li><a href="https://drafts.csswg.org/mediaqueries-5/">Media Queries Level 5</a></li>
@@ -4871,7 +4902,10 @@
   </section>
   <section id="known-dependencies-on-this-specification-139" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
-  <p>No normative reference to this spec from other specs.</p>
+  <p>Normative references to this spec from:</p>
+  <ul>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
+  </ul>
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
@@ -4932,11 +4966,9 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-env-1/">CSS Environment Variables Module Level 1</a></li>
-  </ul>
-  <p>Informative references to this spec from:</p>
-  <ul>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   </ul>
+  <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
   <section id="css-custom-properties-for-cascading-variables-module-level-2" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
@@ -4975,6 +5007,7 @@
   <li><a href="https://drafts.csswg.org/css-cascade-4/">CSS Cascading and Inheritance Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-env-1/">CSS Environment Variables Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-extensions-1/">CSS Extensions</a></li>
   <li><a href="https://drafts.csswg.org/css-fonts-4/">CSS Fonts Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-layout-api-1/">CSS Layout API Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-lists-3/">CSS Lists and Counters Module Level 3</a></li>
@@ -5268,6 +5301,9 @@
   </ul></li>
   <li>Inconsistent references for links:
   <ul>
+  <li><a href="https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/"><code>https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/</code></a>, related reference “CSS-FLEXBOX-1” uses URL <a href="https://drafts.csswg.org/css-flexbox-1/"><code>https://drafts.csswg.org/css-flexbox-1/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/"><code>https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/</code></a>, related reference “CSS-FLEXBOX-1” uses URL <a href="https://drafts.csswg.org/css-flexbox-1/"><code>https://drafts.csswg.org/css-flexbox-1/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-flexbox-1/"><code>https://www.w3.org/TR/css-flexbox-1/</code></a>, related reference “CSS-FLEXBOX-1” uses URL <a href="https://drafts.csswg.org/css-flexbox-1/"><code>https://drafts.csswg.org/css-flexbox-1/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
   </ul></li>
@@ -5282,6 +5318,7 @@
   <li><a href="https://drafts.csswg.org/css-box-4/">CSS Box Model Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-sizing-3/">CSS Box Sizing Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-display-3/">CSS Display Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-flexbox-1/">CSS Flexible Box Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-grid-2/">CSS Grid Layout Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-layout-api-1/">CSS Layout API Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
@@ -5387,6 +5424,7 @@
   <li><a href="https://drafts.csswg.org/css-page-3/">CSS Paged Media Module Level 3</a></li>
   <li><a href="https://drafts.css-houdini.org/css-properties-values-api-1/">CSS Properties and Values API Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scoping-1/">CSS Scoping Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-3/">CSS Text Decoration Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
@@ -5400,6 +5438,7 @@
   <li><a href="https://w3c.github.io/IFT/Overview.html">Incremental Font Transfer</a></li>
   <li><a href="https://w3c.github.io/mathml-core/">MathML Core</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   <li><a href="https://w3c.github.io/webvtt/">WebVTT: The Web Video Text Tracks Format</a></li>
   <li><a href="https://w3c.github.io/woff/woff2/">WOFF File Format 2.0</a></li>
   </ul>
@@ -5408,11 +5447,11 @@
   <li><a href="https://drafts.csswg.org/css-contain-3/">CSS Containment Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-variables-1/">CSS Custom Properties for Cascading Variables Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-variables-2/">CSS Custom Properties for Cascading Variables Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://wicg.github.io/local-font-access/">Local Font Access API</a></li>
   <li><a href="https://drafts.csswg.org/mediaqueries-4/">Media Queries Level 4</a></li>
   <li><a href="https://drafts.csswg.org/mediaqueries-5/">Media Queries Level 5</a></li>
-  <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   <li><a href="https://w3c.github.io/woff/woff1/spec/Overview.html">WOFF File Format 1.0</a></li>
   </ul>
   </section>
@@ -5452,6 +5491,7 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a></li>
+  <li><a href="https://drafts.csswg.org/css-conditional-5/">CSS Conditional Rules Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-contain-3/">CSS Containment Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-font-loading-3/">CSS Font Loading Module Level 3</a></li>
   <li><a href="https://drafts.fxtf.org/css-masking-1/">CSS Masking Module Level 1</a></li>
@@ -5466,6 +5506,8 @@
   <li><a href="https://drafts.csswg.org/css-cascade-3/">CSS Cascading and Inheritance Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-cascade-4/">CSS Cascading and Inheritance Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-variables-2/">CSS Custom Properties for Cascading Variables Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://wicg.github.io/local-font-access/">Local Font Access API</a></li>
   </ul>
   </section>
@@ -5527,6 +5569,7 @@
   <li><a href="https://drafts.csswg.org/css-cascade-4/">CSS Cascading and Inheritance Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-position-3/">CSS Positioned Layout Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   </ul>
   </section>
   </section>
@@ -5573,6 +5616,7 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-anchor-1/">CSS Anchor Positioning</a></li>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-3/">CSS Backgrounds and Borders Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-box-3/">CSS Box Model Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-box-4/">CSS Box Model Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a></li>
@@ -5593,6 +5637,7 @@
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-regions-1/">CSS Regions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
@@ -5720,20 +5765,20 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-gcpm-3/">CSS Generated Content for Paged Media Module</a></li>
+  <li><a href="https://drafts.csswg.org/css-gcpm-4/">CSS Generated Content for Paged Media Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-images-3/">CSS Images Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-lists-3/">CSS Lists and Counters Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-4/">CSS Overflow Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-page-3/">CSS Paged Media Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-regions-1/">CSS Regions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-counter-styles-3/">CSS Counter Styles Level 3</a></li>
-  <li><a href="https://drafts.csswg.org/css-gcpm-3/">CSS Generated Content for Paged Media Module</a></li>
-  <li><a href="https://drafts.csswg.org/css-gcpm-4/">CSS Generated Content for Paged Media Module Level 4</a></li>
-  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   </ul>
   </section>
   </section>
@@ -5789,6 +5834,7 @@
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
@@ -5889,6 +5935,7 @@
   <li><a href="https://drafts.fxtf.org/css-masking-1/">CSS Masking Module Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-paint-api-1/">CSS Painting API Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-properties-values-api-1/">CSS Properties and Values API Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-round-display-1/">CSS Round Display Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-1/">CSS Shapes Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-2/">CSS Shapes Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
@@ -5957,6 +6004,7 @@
   <li><a href="https://drafts.css-houdini.org/css-properties-values-api-1/">CSS Properties and Values API Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a></li>
   </ul>
@@ -6019,11 +6067,13 @@
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-rhythm-1/">CSS Rhythmic Sizing</a></li>
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-3/">CSS Text Decoration Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
@@ -6141,6 +6191,7 @@
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a></li>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-counter-styles-3/">CSS Counter Styles Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-exclusions-1/">CSS Exclusions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-content-3/">CSS Generated Content Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-images-3/">CSS Images Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-images-4/">CSS Images Module Level 4</a></li>
@@ -6148,6 +6199,7 @@
   <li><a href="https://drafts.csswg.org/cssom-1/">CSS Object Model (CSSOM)</a></li>
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-scoping-1/">CSS Scoping Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
@@ -6157,7 +6209,6 @@
   <li><a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-gcpm-3/">CSS Generated Content for Paged Media Module</a></li>
   <li><a href="https://drafts.csswg.org/css-content-3/">CSS Generated Content Module Level 3</a></li>
-  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   </ul>
   </section>
   </section>
@@ -6270,9 +6321,11 @@
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-4/">CSS Overflow Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-1/">CSS Shapes Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-1/">CSS Transforms Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-2/">CSS Transforms Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
@@ -6422,7 +6475,7 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-nesting-module" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">
+  <section id="css-nesting-module" class="level3" data-spec="true" data-missingDfns="true" data-ok="true">
   <h3>CSS Nesting Module</h3>
   <section id="spec-info-173" class="level4 info">
   <h4>Spec info</h4>
@@ -6437,12 +6490,7 @@
   </section>
   <section id="potential-issues-173" class="level4 anomalies">
   <h4>Potential issue(s)</h4>
-  <ul>
-  <li>Missing references for links:
-  <ul>
-  <li><a href="https://html.spec.whatwg.org/multipage/custom-elements.html"><code>https://html.spec.whatwg.org/multipage/custom-elements.html</code></a></li>
-  </ul></li>
-  </ul>
+  <p>This specification looks good!</p>
   </section>
   <section id="known-dependencies-on-this-specification-173" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
@@ -6550,6 +6598,7 @@
   <li><a href="https://drafts.csswg.org/css-scroll-snap-2/">CSS Scroll Snap Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-scrollbars-1/">CSS Scrollbars Styling Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-3/">CSS Text Decoration Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
@@ -6621,6 +6670,7 @@
   <ul>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   </ul>
   </section>
   </section>
@@ -6740,11 +6790,14 @@
   <li><a href="https://drafts.csswg.org/css-display-3/">CSS Display Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-break-3/">CSS Fragmentation Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-break-4/">CSS Fragmentation Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-gcpm-3/">CSS Generated Content for Paged Media Module</a></li>
   <li><a href="https://drafts.csswg.org/cssom-1/">CSS Object Model (CSSOM)</a></li>
   <li><a href="https://drafts.csswg.org/css-position-3/">CSS Positioned Layout Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
@@ -6753,7 +6806,6 @@
   <li><a href="https://drafts.csswg.org/css-cascade-4/">CSS Cascading and Inheritance Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-cascade-5/">CSS Cascading and Inheritance Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
-  <li><a href="https://drafts.csswg.org/css-gcpm-3/">CSS Generated Content for Paged Media Module</a></li>
   <li><a href="https://drafts.csswg.org/css-gcpm-4/">CSS Generated Content for Paged Media Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-images-3/">CSS Images Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
@@ -6828,7 +6880,9 @@
   <li><a href="https://drafts.csswg.org/css-align-3/">CSS Box Alignment Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-display-3/">CSS Display Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-exclusions-1/">CSS Exclusions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-flexbox-1/">CSS Flexible Box Layout Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-gcpm-3/">CSS Generated Content for Paged Media Module</a></li>
   <li><a href="https://drafts.csswg.org/css-grid-2/">CSS Grid Layout Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-inline-3/">CSS Inline Layout Module Level 3</a></li>
   <li><a href="https://drafts.css-houdini.org/css-layout-api-1/">CSS Layout API Level 1</a></li>
@@ -6842,8 +6896,11 @@
   <li><a href="https://drafts.csswg.org/css-scroll-anchoring-1/">CSS Scroll Anchoring Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scroll-snap-1/">CSS Scroll Snap Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   <li><a href="https://drafts.fxtf.org/motion-1/">Motion Path Module Level 1</a></li>
   </ul>
@@ -6934,11 +6991,13 @@
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scoping-1/">CSS Scoping Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scroll-snap-1/">CSS Scroll Snap Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   <li><a href="https://drafts.csswg.org/selectors-4/">Selectors Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-2/">Web Animations Level 2</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
@@ -7028,7 +7087,10 @@
   <section id="known-dependencies-on-this-specification-185" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
-  <p>No informative reference to this spec from other specs.</p>
+  <p>Informative references to this spec from:</p>
+  <ul>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
+  </ul>
   </section>
   </section>
   <section id="css-round-display-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
@@ -7226,6 +7288,7 @@
   <li><a href="https://drafts.csswg.org/css-scroll-anchoring-1/">CSS Scroll Anchoring Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
   </ul>
   <p>No informative reference to this spec from other specs.</p>
   </section>
@@ -7401,6 +7464,7 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-animations-1/">CSS Animations Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-scroll-snap-2/">CSS Scroll Snap Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
@@ -7436,6 +7500,7 @@
   <ul>
   <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/uievents/"><code>https://www.w3.org/TR/uievents/</code></a>, related reference “UIEVENTS” uses URL <a href="https://w3c.github.io/uievents/"><code>https://w3c.github.io/uievents/</code></a></li>
   </ul></li>
   </ul>
   </section>
@@ -7555,6 +7620,7 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-conditional-5/">CSS Conditional Rules Module Level 5</a></li>
   <li><a href="https://drafts.fxtf.org/fill-stroke-3/">CSS Fill and Stroke Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-fonts-4/">CSS Fonts Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-fonts-5/">CSS Fonts Module Level 5</a></li>
@@ -7656,6 +7722,7 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-3/">CSS Backgrounds and Borders Module Level 3</a></li>
   <li><a href="https://drafts.fxtf.org/fill-stroke-3/">CSS Fill and Stroke Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
@@ -7666,9 +7733,11 @@
   <ul>
   <li><a href="https://drafts.csswg.org/css-color-4/">CSS Color Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   </ul>
   </section>
   </section>
@@ -7724,11 +7793,13 @@
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   <li><a href="https://w3c.github.io/webvtt/">WebVTT: The Web Video Text Tracks Format</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-flexbox-1/">CSS Flexible Box Layout Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   <li><a href="https://w3c.github.io/mathml-core/">MathML Core</a></li>
   </ul>
@@ -7784,6 +7855,7 @@
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   <li><a href="https://w3c.github.io/epub-specs/epub33/core/">EPUB 3.3</a></li>
@@ -7804,6 +7876,7 @@
   <li><a href="https://drafts.csswg.org/css-break-4/">CSS Fragmentation Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-content-3/">CSS Generated Content Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-lists-3/">CSS Lists and Counters Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   </ul>
   </section>
@@ -7862,6 +7935,7 @@
   <li><a href="https://drafts.csswg.org/css-page-3/">CSS Paged Media Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-3/">CSS Text Decoration Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
@@ -7924,12 +7998,16 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-position-3/">CSS Positioned Layout Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-2/">CSS Transforms Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://wicg.github.io/layout-instability/">Layout Instability API</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
   </ul>
-  <p>No informative reference to this spec from other specs.</p>
+  <p>Informative references to this spec from:</p>
+  <ul>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
+  </ul>
   </section>
   </section>
   <section id="css-transforms-module-level-2" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
@@ -7967,6 +8045,7 @@
   <ul>
   <li><a href="https://compat.spec.whatwg.org/">Compatibility Standard</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.fxtf.org/geometry-1/">Geometry Interfaces Module Level 1</a></li>
   <li><a href="https://drafts.fxtf.org/motion-1/">Motion Path Module Level 1</a></li>
@@ -8084,6 +8163,7 @@
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/font-metrics-api-1/">Font Metrics API Level 1</a></li>
   <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-2/">Web Animations Level 2</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
@@ -8216,6 +8296,7 @@
   <li><a href="https://drafts.csswg.org/css-transforms-2/">CSS Transforms Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-transitions-1/">CSS Transitions</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-will-change-1/">CSS Will Change Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
@@ -8256,17 +8337,16 @@
   <ul>
   <li>Missing references for links:
   <ul>
-  <li><a href="http://www.w3.org/TR/css-values-3/"><code>http://www.w3.org/TR/css-values-3/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-animations/"><code>https://www.w3.org/TR/css-animations/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-transitions-1/"><code>https://www.w3.org/TR/css-transitions-1/</code></a></li>
   <li><a href="https://www.w3.org/TR/css-transitions/"><code>https://www.w3.org/TR/css-transitions/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css3-values/"><code>https://www.w3.org/TR/css3-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-conditional/"><code>https://www.w3.org/TR/css3-conditional/</code></a></li>
   </ul></li>
   <li>Inconsistent references for links:
   <ul>
   <li><a href="https://www.w3.org/TR/css-syntax/"><code>https://www.w3.org/TR/css-syntax/</code></a>, related reference “CSS-SYNTAX-3” uses URL <a href="https://www.w3.org/TR/css-syntax-3/"><code>https://www.w3.org/TR/css-syntax-3/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css3-fonts/"><code>https://www.w3.org/TR/css3-fonts/</code></a>, related reference “CSS3-FONTS” uses URL <a href="https://www.w3.org/TR/css-fonts-3/"><code>https://www.w3.org/TR/css-fonts-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-fonts/"><code>https://www.w3.org/TR/css3-fonts/</code></a>, related reference “CSS-FONTS-4” uses URL <a href="https://www.w3.org/TR/css-fonts-4/"><code>https://www.w3.org/TR/css-fonts-4/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-values/"><code>https://www.w3.org/TR/css3-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
   </ul></li>
   </ul>
   </section>
@@ -8278,6 +8358,7 @@
   <li><a href="https://drafts.fxtf.org/compositing-1/">Compositing and Blending Level 1</a></li>
   <li><a href="https://drafts.fxtf.org/compositing-2/">Compositing and Blending Level 2</a></li>
   <li><a href="https://w3c.github.io/webappsec-cspee/">Content Security Policy: Embedded Enforcement</a></li>
+  <li><a href="https://drafts.csswg.org/css-anchor-1/">CSS Anchor Positioning</a></li>
   <li><a href="https://drafts.css-houdini.org/css-animationworklet-1/">CSS Animation Worklet API</a></li>
   <li><a href="https://drafts.csswg.org/css-animations-1/">CSS Animations Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-animations-2/">CSS Animations Level 2</a></li>
@@ -8297,6 +8378,7 @@
   <li><a href="https://drafts.csswg.org/css-color-5/">CSS Color Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-conditional-3/">CSS Conditional Rules Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-conditional-4/">CSS Conditional Rules Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-conditional-5/">CSS Conditional Rules Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-contain-3/">CSS Containment Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-counter-styles-3/">CSS Counter Styles Level 3</a></li>
@@ -8307,6 +8389,7 @@
   <li><a href="https://drafts.csswg.org/css-easing-2/">CSS Easing Functions Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-env-1/">CSS Environment Variables Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-exclusions-1/">CSS Exclusions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-extensions-1/">CSS Extensions</a></li>
   <li><a href="https://drafts.fxtf.org/fill-stroke-3/">CSS Fill and Stroke Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-flexbox-1/">CSS Flexible Box Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-font-loading-3/">CSS Font Loading Module Level 3</a></li>
@@ -8346,12 +8429,14 @@
   <li><a href="https://drafts.csswg.org/css-ruby-1/">CSS Ruby Annotation Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scroll-anchoring-1/">CSS Scroll Anchoring Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scroll-snap-1/">CSS Scroll Snap Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-scroll-snap-2/">CSS Scroll Snap Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-scrollbars-1/">CSS Scrollbars Styling Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-shadow-parts-1/">CSS Shadow Parts</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-1/">CSS Shapes Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-shapes-2/">CSS Shapes Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-3/">CSS Text Decoration Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-4/">CSS Text Decoration Module Level 4</a></li>
@@ -8363,6 +8448,7 @@
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-2/">CSS Typed OM Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-will-change-1/">CSS Will Change Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
@@ -8388,9 +8474,7 @@
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
-  <li><a href="https://drafts.csswg.org/css-anchor-1/">CSS Anchor Positioning</a></li>
   <li><a href="https://drafts.csswg.org/css-highlight-api-1/">CSS Custom Highlight API Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
   <li><a href="https://w3c.github.io/resource-timing/">Resource Timing Level 2</a></li>
   <li><a href="https://wicg.github.io/responsive-image-client-hints/">Responsive Image Client Hints</a></li>
   </ul>
@@ -8423,7 +8507,10 @@
   <ul>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   </ul>
-  <p>No informative reference to this spec from other specs.</p>
+  <p>Informative references to this spec from:</p>
+  <ul>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
+  </ul>
   </section>
   </section>
   <section id="css-view-transitions-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">
@@ -8523,7 +8610,10 @@
   <section id="known-dependencies-on-this-specification-216" class="level4 dependencies">
   <h4>Known dependencies on this specification</h4>
   <p>No normative reference to this spec from other specs.</p>
-  <p>No informative reference to this spec from other specs.</p>
+  <p>Informative references to this spec from:</p>
+  <ul>
+  <li><a href="https://drafts.csswg.org/css-position-3/">CSS Positioned Layout Module Level 3</a></li>
+  </ul>
   </section>
   </section>
   <section id="css-writing-modes-level-4" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
@@ -8607,6 +8697,7 @@
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
   <li><a href="https://wicg.github.io/layout-instability/">Layout Instability API</a></li>
@@ -8705,8 +8796,10 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://compat.spec.whatwg.org/">Compatibility Standard</a></li>
+  <li><a href="https://drafts.csswg.org/css-backgrounds-3/">CSS Backgrounds and Borders Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-color-adjust-1/">CSS Color Adjustment Module Level 1</a></li>
   <li><a href="https://drafts.fxtf.org/css-masking-1/">CSS Masking Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-2/">CSS Transforms Module Level 2</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-2/">Filter Effects Module Level 2</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
@@ -8921,6 +9014,7 @@
   <li><a href="https://drafts.csswg.org/css-color-adjust-1/">CSS Color Adjustment Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-color-4/">CSS Color Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-conditional-3/">CSS Conditional Rules Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-conditional-5/">CSS Conditional Rules Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-contain-3/">CSS Containment Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-display-3/">CSS Display Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-break-3/">CSS Fragmentation Module Level 3</a></li>
@@ -8932,6 +9026,7 @@
   <li><a href="https://drafts.csswg.org/css-page-3/">CSS Paged Media Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-position-3/">CSS Positioned Layout Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-regions-1/">CSS Regions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-tables-3/">CSS Table Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
@@ -8949,6 +9044,8 @@
   <ul>
   <li><a href="https://w3c.github.io/ambient-light/">Ambient Light Sensor</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-3/">CSS Overflow Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-round-display-1/">CSS Round Display Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   </ul>
   </section>
   </section>
@@ -8987,13 +9084,12 @@
   <h4>Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-round-display-1/">CSS Round Display Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-2/">CSS Transforms Module Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   </ul>
-  <p>Informative references to this spec from:</p>
-  <ul>
-  <li><a href="https://drafts.csswg.org/css-round-display-1/">CSS Round Display Level 1</a></li>
-  </ul>
+  <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
   <section id="proposals-for-the-future-of-css-paged-media" class="level3" data-spec="true" data-missingDfns="true" data-ok="true">
@@ -9216,6 +9312,7 @@
   <ul>
   <li><a href="https://drafts.css-houdini.org/css-animationworklet-1/">CSS Animation Worklet API</a></li>
   <li><a href="https://drafts.csswg.org/css-animations-2/">CSS Animations Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
   <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
@@ -11726,6 +11823,7 @@
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/font-metrics-api-1/">Font Metrics API Level 1</a></li>
   <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
+  <li><a href="https://drafts.csswg.org/web-animations-2/">Web Animations Level 2</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
@@ -17423,6 +17521,7 @@
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
   <li><a href="https://w3c.github.io/screen-wake-lock/">Screen Wake Lock API</a></li>
   <li><a href="https://wicg.github.io/csp-next/scripting-policy.html">Scripting Policy</a></li>
+  <li><a href="https://drafts.csswg.org/scroll-animations-1/">Scroll-linked Animations</a></li>
   <li><a href="https://w3c.github.io/selection-api/">Selection API</a></li>
   <li><a href="https://drafts.csswg.org/selectors-4/">Selectors Level 4</a></li>
   <li><a href="https://w3c.github.io/ServiceWorker/">Service Workers Nightly</a></li>
@@ -17769,6 +17868,7 @@
   <li><a href="https://drafts.csswg.org/css-scroll-anchoring-1/">CSS Scroll Anchoring Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-scroll-snap-1/">CSS Scroll Snap Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-3/">CSS Text Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-2/">CSS Transforms Module Level 2</a></li>
@@ -17979,14 +18079,17 @@
   <ul>
   <li><a href="https://w3c.github.io/clipboard-apis/">Clipboard API and events</a></li>
   <li><a href="https://w3c.github.io/webappsec-csp/">Content Security Policy Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-anchor-1/">CSS Anchor Positioning</a></li>
   <li><a href="https://drafts.csswg.org/css-sizing-4/">CSS Box Sizing Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-cascade-6/">CSS Cascading and Inheritance Level 6</a></li>
   <li><a href="https://drafts.csswg.org/css-flexbox-1/">CSS Flexible Box Layout Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-content-3/">CSS Generated Content Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-grid-2/">CSS Grid Layout Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-nesting-1/">CSS Nesting Module</a></li>
   <li><a href="https://drafts.csswg.org/css-overflow-4/">CSS Overflow Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-regions-1/">CSS Regions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
+  <li><a href="https://drafts.csswg.org/css-scrollbars-1/">CSS Scrollbars Styling Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-speech-1/">CSS Speech Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-text-decor-3/">CSS Text Decoration Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-transforms-1/">CSS Transforms Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
@@ -18701,6 +18804,7 @@
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-regions-1/">CSS Regions Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-shadow-parts-1/">CSS Shadow Parts</a></li>
+  <li><a href="https://drafts.csswg.org/css-nav-1/">CSS Spatial Navigation Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-transitions-1/">CSS Transitions</a></li>
   <li><a href="https://drafts.csswg.org/css-transitions-2/">CSS Transitions Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
