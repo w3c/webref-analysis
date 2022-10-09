@@ -3039,6 +3039,7 @@ Normative references to this spec from:
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
@@ -3492,6 +3493,7 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -3958,6 +3960,7 @@ Normative references to this spec from:
 
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
@@ -4800,6 +4803,7 @@ Normative references to this spec from:
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
@@ -5945,6 +5949,7 @@ Normative references to this spec from:
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
@@ -6343,7 +6348,9 @@ Normative references to this spec from:
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 
 
 ### CSS Spatial Navigation Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -6912,10 +6919,12 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 
 Informative references to this spec from:
@@ -7092,6 +7101,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
@@ -7135,6 +7145,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
@@ -7173,6 +7184,7 @@ Normative references to this spec from:
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -7854,6 +7866,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
@@ -7899,6 +7912,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
@@ -10079,10 +10093,12 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 
 Informative references to this spec from:
@@ -14919,6 +14935,7 @@ Normative references to this spec from:
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -16212,6 +16229,7 @@ Normative references to this spec from:
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
