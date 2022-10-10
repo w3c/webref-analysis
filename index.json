@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-10T06:45:55.278Z",
+  "date": "2022-10-10T12:46:04.951Z",
   "stats": {
     "crawled": 486,
     "errors": 2,
@@ -16878,11 +16878,6 @@
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
             },
             {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -18167,11 +18162,6 @@
               "url": "https://w3c.github.io/mediacapture-handle/actions/",
               "title": "The Capture-Handle Actions Mechanism",
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",
@@ -20501,7 +20491,7 @@
     {
       "title": "File API",
       "shortname": "FileAPI",
-      "date": "4 June 2021",
+      "date": "10 October 2022",
       "url": "https://www.w3.org/TR/FileAPI/",
       "release": {
         "url": "https://www.w3.org/TR/FileAPI/",
@@ -20534,9 +20524,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://w3c.github.io/media-source/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -20673,7 +20661,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -21093,11 +21081,6 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -22263,7 +22246,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "7 October 2022",
+      "date": "10 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -23431,11 +23414,6 @@
               "url": "https://w3c.github.io/mediacapture-handle/actions/",
               "title": "The Capture-Handle Actions Mechanism",
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",
@@ -25146,11 +25124,6 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "Text Fragments",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",
@@ -27812,6 +27785,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/FileAPI/",
+              "title": "File API",
+              "crawled": "https://w3c.github.io/FileAPI/"
+            },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
@@ -32231,6 +32209,11 @@
               "url": "https://www.w3.org/TR/epub-rs-33/",
               "title": "EPUB Reading Systems 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
+              "url": "https://www.w3.org/TR/FileAPI/",
+              "title": "File API",
+              "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -37574,7 +37557,7 @@
     {
       "title": "The Screen Orientation API",
       "shortname": "screen-orientation",
-      "date": "07 October 2022",
+      "date": "10 October 2022",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
@@ -39408,11 +39391,6 @@
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
-            },
-            {
               "url": "https://drafts.csswg.org/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
@@ -40460,6 +40438,11 @@
               "url": "https://wicg.github.io/entries-api/",
               "title": "File and Directory Entries API",
               "crawled": "https://wicg.github.io/entries-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/FileAPI/",
+              "title": "File API",
+              "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
               "url": "https://wicg.github.io/file-system-access/",
@@ -45578,11 +45561,6 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/FileAPI/",
-              "title": "File API",
-              "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
