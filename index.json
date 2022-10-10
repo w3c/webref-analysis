@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-10T12:46:04.951Z",
+  "date": "2022-10-10T18:44:54.256Z",
   "stats": {
     "crawled": 486,
-    "errors": 2,
+    "errors": 1,
     "studied": 486
   },
   "results": [
@@ -1987,7 +1987,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "06 October 2022",
+      "date": "10 October 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2017,6 +2017,8 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://html.spec.whatwg.org/multipage/interaction.html",
+          "https://html.spec.whatwg.org/multipage/workers.html",
           "https://w3c.github.io/picture-in-picture/",
           "https://www.w3.org/TR/design-principles/"
         ],
@@ -2545,7 +2547,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "9 October 2022",
+      "date": "10 October 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3481,7 +3483,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -15030,7 +15031,7 @@
     {
       "title": "CSS Values and Units Module Level 3",
       "shortname": "css-values-3",
-      "date": "2 September 2022",
+      "date": "10 October 2022",
       "url": "https://www.w3.org/TR/css-values-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-3/",
@@ -15527,7 +15528,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "2 September 2022",
+      "date": "10 October 2022",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -17507,11 +17508,6 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -21833,11 +21829,6 @@
               "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
-              "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
-            },
-            {
               "url": "https://wicg.github.io/cookie-store/",
               "title": "Cookie Store API",
               "crawled": "https://wicg.github.io/cookie-store/"
@@ -22454,11 +22445,6 @@
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
-            },
-            {
-              "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
               "url": "https://w3c.github.io/contact-api/spec/",
@@ -24484,11 +24470,6 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
               "url": "https://console.spec.whatwg.org/",
@@ -26924,11 +26905,6 @@
               "url": "https://www.w3.org/TR/capture-handle-identity/",
               "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
-            },
-            {
-              "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/html-media-capture/",
@@ -30093,11 +30069,6 @@
               "crawled": "https://w3c.github.io/battery/"
             },
             {
-              "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
-            },
-            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -30299,6 +30270,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://wicg.github.io/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://wicg.github.io/compute-pressure/"
+            },
             {
               "url": "https://wicg.github.io/document-policy/",
               "title": "Document Policy",
@@ -30543,7 +30519,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "06 October 2022",
+      "date": "10 October 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -39790,7 +39766,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "7 October 2022",
+      "date": "10 October 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -39825,8 +39801,7 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/IntersectionObserver/v2/",
-          "https://www.w3.org/TR/string-meta/",
-          "https://www.w3.org/TR/webauthn/"
+          "https://www.w3.org/TR/string-meta/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -39845,14 +39820,15 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
-            },
+            }
+          ],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
               "crawled": "https://w3c.github.io/webauthn/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": false
       }
