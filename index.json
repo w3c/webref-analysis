@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-10T00:47:52.165Z",
+  "date": "2022-10-10T06:45:55.278Z",
   "stats": {
     "crawled": 486,
     "errors": 2,
@@ -18279,11 +18279,6 @@
               "crawled": "https://wicg.github.io/speech-api/"
             },
             {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -18587,7 +18582,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "9 October 2022",
+      "date": "10 October 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -21598,11 +21593,6 @@
               "url": "https://www.w3.org/TR/virtual-keyboard/",
               "title": "VirtualKeyboard API",
               "crawled": "https://w3c.github.io/virtual-keyboard/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -35490,11 +35480,6 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
-            },
-            {
               "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
               "title": "WebXR DOM Overlays Module",
               "crawled": "https://immersive-web.github.io/dom-overlays/"
@@ -41924,7 +41909,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "6 October 2022",
+      "date": "10 October 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -44302,11 +44287,6 @@
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",

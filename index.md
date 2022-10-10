@@ -208,7 +208,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 9 October 2022
+- Crawled version: 10 October 2022
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -7656,7 +7656,6 @@ Normative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
@@ -9263,7 +9262,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 6 October 2022
+- Crawled version: 10 October 2022
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -9810,7 +9809,6 @@ Normative references to this spec from:
 - [SVG Strokes](https://svgwg.org/specs/strokes/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
 
 Informative references to this spec from:
@@ -14670,7 +14668,6 @@ Normative references to this spec from:
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 - [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 - [WebRTC Priority Control API](https://w3c.github.io/webrtc-priority/)
 
@@ -15119,7 +15116,6 @@ Normative references to this spec from:
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Speech API](https://wicg.github.io/speech-api/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
