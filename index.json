@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-11T12:50:30.263Z",
+  "date": "2022-10-11T18:43:16.484Z",
   "stats": {
     "crawled": 486,
-    "errors": 110,
+    "errors": 0,
     "studied": 486
   },
   "results": [
@@ -2861,7 +2861,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 335)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3482,7 +3481,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3554,7 +3552,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 6)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3657,7 +3654,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 254)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3738,7 +3734,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 7)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3814,7 +3809,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 255)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3956,7 +3950,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 8)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4024,7 +4017,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 329)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4173,7 +4165,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 252)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4253,6 +4244,11 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
@@ -4301,7 +4297,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 256)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4421,7 +4416,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 257)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4738,7 +4732,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 315)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5040,7 +5033,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 316)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5151,7 +5143,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 260)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5225,6 +5216,13 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
+            }
+          ],
+          "informative": [
+            {
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
@@ -5234,13 +5232,6 @@
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
-            {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
-            }
-          ],
-          "informative": [
             {
               "url": "https://www.w3.org/TR/svg-aam-1.0/",
               "title": "SVG Accessibility API Mappings",
@@ -5279,7 +5270,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 261)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5445,7 +5435,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 262)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5916,7 +5905,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 263)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6034,7 +6022,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 266)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6124,7 +6111,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 264)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6268,7 +6254,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 265)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6353,7 +6338,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -6384,7 +6369,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 267)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6557,7 +6541,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 268)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6619,7 +6602,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 269)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6686,7 +6668,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 270)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6836,7 +6817,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 271)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6912,7 +6892,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 273)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6969,7 +6948,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 283)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6987,7 +6965,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -7018,7 +6996,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 332)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7092,7 +7069,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 21)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7257,7 +7233,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 275)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7393,7 +7368,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 276)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7453,7 +7427,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 9)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7508,7 +7481,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 10)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7532,7 +7504,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -7563,7 +7535,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7635,7 +7606,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 11)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7653,7 +7623,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -7685,7 +7655,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 351)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7740,7 +7709,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 277)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7956,7 +7924,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 278)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8013,7 +7980,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 279)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8299,7 +8265,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 280)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8450,7 +8415,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 258)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8587,7 +8551,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 259)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8838,7 +8801,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 281)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8912,7 +8874,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 12)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8986,7 +8947,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 272)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9117,7 +9077,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 282)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9284,7 +9243,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 13)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9359,7 +9317,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 284)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9576,7 +9533,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 285)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9733,7 +9689,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 286)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10005,7 +9960,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 288)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10073,7 +10027,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 289)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10239,7 +10192,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 290)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10398,7 +10350,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 291)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10593,7 +10544,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 18)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10673,7 +10623,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 292)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10738,7 +10687,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 14)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10799,7 +10747,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 293)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10850,7 +10797,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 295)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10868,7 +10814,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -10899,7 +10845,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 338)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10984,7 +10929,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -11015,7 +10960,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 296)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11315,7 +11259,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 297)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11418,7 +11361,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 298)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11486,7 +11428,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 300)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11560,7 +11501,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 299)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11854,7 +11794,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 302)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12162,7 +12101,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 304)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12365,7 +12303,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 305)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12458,7 +12395,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 306)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12532,7 +12468,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 307)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12601,7 +12536,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 308)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12749,7 +12683,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 309)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12778,7 +12711,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -12809,7 +12742,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 310)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12879,7 +12811,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 311)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12974,7 +12905,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 16)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13028,7 +12958,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 312)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13090,7 +13019,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 313)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13108,7 +13036,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -13139,7 +13067,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 314)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13233,7 +13160,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 17)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13325,7 +13251,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 294)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13401,7 +13326,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 317)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13571,7 +13495,7 @@
     {
       "title": "CSS Syntax Module Level 3",
       "shortname": "css-syntax-3",
-      "date": "22 June 2022",
+      "date": "10 October 2022",
       "url": "https://www.w3.org/TR/css-syntax-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -13596,7 +13520,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 319)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13705,7 +13628,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 320)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13817,7 +13739,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13969,7 +13890,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14154,7 +14074,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 321)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14386,7 +14305,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 322)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14615,7 +14533,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14734,7 +14651,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14849,7 +14765,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 327)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14928,7 +14843,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 19)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14957,7 +14871,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -15144,7 +15058,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 330)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -15157,6 +15070,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-syntax/",
           "https://www.w3.org/TR/css3-page/",
           "https://www.w3.org/TR/cssom-1/",
@@ -15643,7 +15557,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 331)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -15657,6 +15570,7 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-animations/",
+          "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-transitions-1/",
           "https://www.w3.org/TR/css-transitions/",
           "https://www.w3.org/TR/css3-conditional/"
@@ -16316,7 +16230,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 20)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16381,7 +16294,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 22)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16413,7 +16325,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-device-adapt-1",
-      "date": "16 September 2022",
+      "date": "11 October 2022",
       "url": "https://www.w3.org/TR/css-device-adapt-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-device-adapt-1/",
@@ -16438,7 +16350,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 274)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16495,7 +16406,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 333)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16570,7 +16480,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 334)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16926,7 +16835,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 339)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19924,7 +19832,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "7 October 2022",
+      "date": "11 October 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -20885,7 +20793,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 352)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21014,7 +20921,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 26)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21587,7 +21493,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 358)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21722,7 +21627,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -24052,7 +23957,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "05 October 2022",
+      "date": "11 October 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -27415,7 +27320,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 388)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27572,7 +27476,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 389)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -28727,7 +28630,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 396)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -30655,7 +30557,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "10 October 2022",
+      "date": "11 October 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -32010,7 +31912,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 421)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35909,7 +35810,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 23)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36342,7 +36242,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 430)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39175,7 +39074,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -39376,7 +39281,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 454)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39525,7 +39429,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected\n    at pptr://__puppeteer_evaluation_script__:7:23\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 24)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

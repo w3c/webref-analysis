@@ -5,1334 +5,6 @@
 486 specifications were crawled in this report.
 
 
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 335)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 336)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 6)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 254)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 7)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 255)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 8)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 329)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 252)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 256)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 257)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 315)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 316)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 260)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 261)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 262)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 263)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 266)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 264)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 265)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 267)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 268)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 269)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 270)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 271)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 273)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 283)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 332)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 21)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 275)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 276)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 9)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 10)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 337)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Extensions](https://drafts.csswg.org/css-extensions-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 11)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 351)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 277)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 278)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 279)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 280)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 258)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 259)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 281)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 12)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 272)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 282)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 13)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 284)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 285)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 286)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 288)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 289)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 290)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 291)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 18)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 292)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 14)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 293)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 295)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 338)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 296)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 297)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 298)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 300)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 299)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 302)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 304)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 305)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 306)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 307)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 308)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 309)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 310)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 311)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 16)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 312)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 313)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 314)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 17)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 294)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 317)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 319)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 320)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 323)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 324)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 321)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 322)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 325)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 326)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 327)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 19)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 330)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 331)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 20)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 22)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 274)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 333)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 334)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 339)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 352)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 26)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 358)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 388)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 389)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 396)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Resize Observer](https://drafts.csswg.org/resize-observer-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 421)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 23)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Selectors Level 4](https://drafts.csswg.org/selectors-4/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 430)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Web Animations](https://drafts.csswg.org/web-animations-1/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 454)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/): `Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23 Error: Evaluation failed: Error: CSS server issue detected
-    at pptr://__puppeteer_evaluation_script__:7:23
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 24)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-=> 110 specifications found
-
-
 ## Specifications without normative dependencies
 
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
@@ -1463,8 +135,13 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## No definition for CSS properties
 
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
+    * `<feature-value-block>`
+    * `<font-feature-value-type>`
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/):
+    * `<keyframe-selector>`
 
-=> 0 property without definition found in 0 specification
+=> 3 properties without definition found in 2 specifications
 
 
 ## No definition for IDL properties
@@ -1556,10 +233,578 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/wai-aria-implementation/`](http://www.w3.org/TR/wai-aria-implementation/) but does not list it in its references
     * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/) links to:
     * [`http://w3c.github.io/html/infrastructure.html`](http://w3c.github.io/html/infrastructure.html) but does not list it in its references
     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/) but does not list it in its references
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/) links to:
+    * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3) but does not list it in its references
+    * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-background-20120417/`](https://www.w3.org/TR/2012/CR-css3-background-20120417/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-background-20120724/`](https://www.w3.org/TR/2012/CR-css3-background-20120724/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/CR-css3-background-20140909/`](https://www.w3.org/TR/2014/CR-css3-background-20140909/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/WD-css3-background-20140204/`](https://www.w3.org/TR/2014/WD-css3-background-20140204/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/) links to:
+    * [`https://w3c.github.io/contentEditable/`](https://w3c.github.io/contentEditable/) but does not list it in its references
+    * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/) links to:
+    * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-grid/`](http://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`http://www.w3.org/TR/css3-multicol/`](http://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
+    * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/) links to:
+    * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to:
+    * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css2/box.html`](https://www.w3.org/TR/css2/box.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/) links to:
+    * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/) links to:
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/) links to:
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/) links to:
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/) links to:
+    * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/) but does not list it in its references
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/) links to [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/) but does not list it in its references
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/) links to [`https://www.w3.org/TR/predefined-counter-styles/`](https://www.w3.org/TR/predefined-counter-styles/) but does not list it in its references
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-box/`](https://www.w3.org/TR/css3-box/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to:
+    * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/`](https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-speech/`](https://www.w3.org/TR/css-speech/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-align/`](https://www.w3.org/TR/css3-align/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
+    * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/) links to:
+    * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/) links to:
+    * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2015/WD-css3-break-20150129/`](https://www.w3.org/TR/2015/WD-css3-break-20150129/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/) links to:
+    * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/) links to:
+    * [`http://books.spec.whatwg.org/`](http://books.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/`](https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
+    * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/) but does not list it in its references
+    * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/) links to:
+    * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/) links to:
+    * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/) links to:
+    * [`https://html.spec.whatwg.org/multipage/canvas.html`](https://html.spec.whatwg.org/multipage/canvas.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but does not list it in its references
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/) links to:
+    * [`http://www.w3.org/TR/css-writing-modes/`](http://www.w3.org/TR/css-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/) links to:
+    * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/) links to:
+    * [`https://www.w3.org/TR/2011/CR-css3-multicol-20110412/`](https://www.w3.org/TR/2011/CR-css3-multicol-20110412/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Multi-column Layout Module Level 2](https://drafts.csswg.org/css-multicol-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol`](https://www.w3.org/TR/css3-multicol) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/) links to [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/) but does not list it in its references
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/) links to:
+    * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/) links to:
+    * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/) but does not list it in its references
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-regions-20120503/`](https://www.w3.org/TR/2012/WD-css3-regions-20120503/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-regions-20120823/`](https://www.w3.org/TR/2012/WD-css3-regions-20120823/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css3-regions-20130528/`](https://www.w3.org/TR/2013/WD-css3-regions-20130528/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/WD-css3-regions-20140218/`](https://www.w3.org/TR/2014/WD-css3-regions-20140218/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/) links to:
+    * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-text/`](https://www.w3.org/TR/css3-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/simple-ruby/`](https://www.w3.org/TR/simple-ruby/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/) links to:
+    * [`https://w3c.github.io/editing/docs/execCommand/index.html`](https://w3c.github.io/editing/docs/execCommand/index.html) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/) links to:
+    * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/html5/infrastructure.html`](https://www.w3.org/TR/html5/infrastructure.html) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/) links to:
+    * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to:
+    * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+- [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/) links to:
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/) links to:
+    * [`http://www.w3.org/TR/css-display-3/`](http://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/html5/tabular-data.html`](https://www.w3.org/TR/html5/tabular-data.html) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/) links to:
+    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512) but does not list it in its references
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/) links to:
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to:
+    * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/) links to:
+    * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/) but does not list it in its references
+    * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/) links to:
+    * [`https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/`](https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/) but does not list it in its references
+    * [`https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/`](https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-animations/`](https://www.w3.org/TR/css3-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/) links to:
+    * [`http://w3c.github.io/dom/`](http://w3c.github.io/dom/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
+    * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-conditional/`](https://www.w3.org/TR/css3-conditional/) but does not list it in its references
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/) links to:
+    * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/csswg-drafts/css-images-4/`](https://w3c.github.io/csswg-drafts/css-images-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/) links to [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/) but does not list it in its references
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/) links to:
+    * [`http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/`](http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/) links to:
     * [`https://compat.spec.whatwg.org/`](https://compat.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
@@ -1581,6 +826,18 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
+    * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/) links to:
+    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/) links to:
     * [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/) but does not list it in its references
     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
@@ -1626,6 +883,11 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Media Capabilities](https://w3c.github.io/media-capabilities/) links to [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/) but does not list it in its references
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/) links to:
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
 - [Media Source Extensions™](https://w3c.github.io/media-source/) links to:
     * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/) but does not list it in its references
     * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/) but does not list it in its references
@@ -1641,6 +903,13 @@ Basically all specifications have normative dependencies on some other specifica
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/) links to:
     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
     * [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/) but does not list it in its references
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
+    * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Network Information API](https://wicg.github.io/netinfo/) links to:
     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/) but does not list it in its references
     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
@@ -1670,6 +939,12 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/) links to [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
 - [Region Capture](https://w3c.github.io/mediacapture-region/) links to [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/) but does not list it in its references
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/) links to:
+    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-positioning/`](https://www.w3.org/TR/css3-positioning/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/) but does not list it in its references
 - [Resource Hints](https://w3c.github.io/resource-hints/) links to:
     * [`http://w3c.github.io/page-visibility/`](http://w3c.github.io/page-visibility/) but does not list it in its references
     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/) but does not list it in its references
@@ -1739,8 +1014,23 @@ Basically all specifications have normative dependencies on some other specifica
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html) links to:
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/) but does not list it in its references
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) links to [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html) but does not list it in its references
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/) links to:
+    * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors`](https://www.w3.org/TR/css3-selectors) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
+    * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but does not list it in its references
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/payment-handler/`](https://w3c.github.io/payment-handler/) but does not list it in its references
@@ -1785,6 +1075,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/) links to [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/) but does not list it in its references
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/) but does not list it in its references
 - [Web Audio API](https://webaudio.github.io/web-audio-api/) links to [`https://www.w3.org/TR/mediacapture-fromelement/`](https://www.w3.org/TR/mediacapture-fromelement/) but does not list it in its references
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/) links to:
     * [`https://w3c.github.io/IntersectionObserver/v2/`](https://w3c.github.io/IntersectionObserver/v2/) but does not list it in its references
@@ -1836,7 +1127,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 283 missing references for links found in 118 specifications
+=> 811 missing references for links found in 213 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1884,9 +1175,252 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
 - [Crash Reporting](https://wicg.github.io/crash-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/) links to:
+    * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/) but related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/) links to:
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/) links to:
+    * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/) but related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/) links to:
+    * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/) but related reference "CSS-CASCADE-4" uses URL [`https://drafts.csswg.org/css-cascade-4/`](https://drafts.csswg.org/css-cascade-4/)
+    * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/) but related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+    * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+- [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/) links to [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+- [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/) links to:
+    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Conditional Rules Module Level 4](https://drafts.csswg.org/css-conditional-4/) links to [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/) but related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/) links to:
+    * [`https://www.w3.org/TR/css-contain-2/`](https://www.w3.org/TR/css-contain-2/) but related reference "CSS-CONTAIN-2" uses URL [`https://drafts.csswg.org/css-contain-2/`](https://drafts.csswg.org/css-contain-2/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/) links to:
+    * [`https://www.w3.org/TR/css-speech-1/`](https://www.w3.org/TR/css-speech-1/) but related reference "CSS-SPEECH-1" uses URL [`https://drafts.csswg.org/css-speech-1/`](https://drafts.csswg.org/css-speech-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to:
+    * [`https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/`](https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/`](https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/) links to [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
+    * [`https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/`](https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/) but related reference "PFE-report" uses URL [`https://www.w3.org/TR/PFE-evaluation/`](https://www.w3.org/TR/PFE-evaluation/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/) links to:
+    * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/) links to:
+    * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-page-3/`](https://www.w3.org/TR/css-page-3/) but related reference "CSS-PAGE-3" uses URL [`https://drafts.csswg.org/css-page-3/`](https://drafts.csswg.org/css-page-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/) links to:
+    * [`https://www.w3.org/TR/css-content-3/`](https://www.w3.org/TR/css-content-3/) but related reference "CSS3-CONTENT" uses URL [`https://drafts.csswg.org/css-content-3/`](https://drafts.csswg.org/css-content-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to:
+    * [`https://www.w3.org/TR/css-grid-2/`](https://www.w3.org/TR/css-grid-2/) but related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/svg-integration/`](https://www.w3.org/TR/svg-integration/) but related reference "SVG-INTEGRATION" uses URL [`https://svgwg.org/specs/integration/`](https://svgwg.org/specs/integration/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/) links to:
+    * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/) but related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/) links to:
+    * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/html5/text-level-semantics.html`](https://www.w3.org/TR/html5/text-level-semantics.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/) links to:
+    * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/) but related reference "CSS3BOX" uses URL [`https://drafts.csswg.org/css-box-3/`](https://drafts.csswg.org/css-box-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/) links to:
+    * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/) but related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+    * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/) but related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/) links to:
+    * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/) but related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+    * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/) but related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+    * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/) but related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/css-overflow-3/`](https://www.w3.org/TR/css-overflow-3/) but related reference "CSS-OVERFLOW-3" uses URL [`https://drafts.csswg.org/css-overflow-3/`](https://drafts.csswg.org/css-overflow-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/) but related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
+    * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/) but related reference "CSS-SYNTAX-3" uses URL [`https://www.w3.org/TR/css-syntax-3/`](https://www.w3.org/TR/css-syntax-3/)
+    * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/) links to [`http://www.w3.org/TR/css-values-4/`](http://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/) links to [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
 - [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/) links to [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
 - [Document Policy](https://wicg.github.io/document-policy/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
@@ -1913,6 +1447,11 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but related reference "REFERRER-POLICY-1" uses URL [`http://www.w3.org/TR/referrer-policy/`](http://www.w3.org/TR/referrer-policy/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/) links to [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/) but related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [Generic Sensor API](https://w3c.github.io/sensors/) links to [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/) but related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
@@ -1951,6 +1490,11 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/) links to [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to:
+    * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but related reference "APPMANIFEST" uses URL [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/)
+    * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+    * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but related reference "MEDIAQUERIES-4" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Session Standard](https://w3c.github.io/mediasession/) links to [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/) links to:
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
@@ -1962,6 +1506,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/) links to:
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
     * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/) but related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [Multi-Screen Window Placement](https://w3c.github.io/window-placement/) links to:
     * [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1) but related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
@@ -2045,11 +1590,15 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html) links to:
     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/) links to:
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/) links to [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/) but related reference "MIX" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) links to:
     * [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
     * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/) links to [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/) links to:
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
@@ -2076,6 +1625,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/) but related reference "POINTEREVENTS3" uses URL [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
     * [`https://www.w3.org/TR/uievents-key/`](https://www.w3.org/TR/uievents-key/) but related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/) links to [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/) but related reference "HR-TIME" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to:
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/html5/scripting-1.html`](https://www.w3.org/TR/html5/scripting-1.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/) links to:
     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
@@ -2110,7 +1663,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 223 inconsistent references for links found in 100 specifications
+=> 419 inconsistent references for links found in 184 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
