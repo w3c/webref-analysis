@@ -6,7 +6,7 @@
 
 ## TC39 {#group-tc39}
 
-### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html] {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -18,7 +18,15 @@
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
+The following network or parsing error occurred:
+`Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 103)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -27,7 +35,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html] {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -39,7 +47,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
+The following network or parsing error occurred:
+`Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 104)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -69,7 +85,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html] {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -81,7 +97,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
+The following network or parsing error occurred:
+`Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 106)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -2936,7 +2960,6 @@ Normative references to this spec from:
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
@@ -3023,7 +3046,6 @@ Normative references to this spec from:
 - [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
@@ -3042,8 +3064,6 @@ Normative references to this spec from:
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
@@ -3217,7 +3237,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
@@ -3346,13 +3365,9 @@ Normative references to this spec from:
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
-- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
 Informative references to this spec from:
@@ -3500,7 +3515,6 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
-- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -3517,7 +3531,6 @@ Normative references to this spec from:
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -3598,7 +3611,6 @@ Normative references to this spec from:
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
@@ -3938,7 +3950,6 @@ Normative references to this spec from:
 
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 
 No informative reference to this spec from other specs.
@@ -3976,7 +3987,6 @@ Normative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
-- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
@@ -4062,7 +4072,6 @@ Normative references to this spec from:
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
@@ -4165,11 +4174,9 @@ Normative references to this spec from:
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 Informative references to this spec from:
 
@@ -4583,7 +4590,6 @@ Normative references to this spec from:
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
 Informative references to this spec from:
@@ -4660,23 +4666,19 @@ Normative references to this spec from:
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -4727,11 +4729,8 @@ Normative references to this spec from:
 - [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 
 Informative references to this spec from:
@@ -4836,13 +4835,11 @@ Normative references to this spec from:
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
-- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
@@ -4855,7 +4852,6 @@ Normative references to this spec from:
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -4922,9 +4918,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -4965,7 +4959,6 @@ Normative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
 Informative references to this spec from:
 
@@ -5015,7 +5008,6 @@ Normative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
@@ -5098,20 +5090,16 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 Informative references to this spec from:
@@ -5159,7 +5147,6 @@ Normative references to this spec from:
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
@@ -5208,7 +5195,6 @@ Normative references to this spec from:
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
@@ -5220,10 +5206,8 @@ Normative references to this spec from:
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 Informative references to this spec from:
@@ -5326,7 +5310,6 @@ Normative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
 Informative references to this spec from:
 
@@ -5375,7 +5358,6 @@ Normative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
 - [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
 Informative references to this spec from:
@@ -5403,6 +5385,7 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
      * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
      * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
@@ -5432,16 +5415,13 @@ Normative references to this spec from:
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 Informative references to this spec from:
 
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 
 ### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -5470,7 +5450,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
 No informative reference to this spec from other specs.
 
@@ -5526,9 +5505,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -5656,7 +5633,6 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
@@ -5674,12 +5650,10 @@ Normative references to this spec from:
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
@@ -5724,7 +5698,6 @@ Normative references to this spec from:
 
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
 Informative references to this spec from:
 
@@ -5830,7 +5803,6 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/)
@@ -5923,10 +5895,8 @@ Normative references to this spec from:
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 Informative references to this spec from:
 
@@ -5999,7 +5969,6 @@ Normative references to this spec from:
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
-- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
@@ -6163,7 +6132,6 @@ Normative references to this spec from:
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
 No informative reference to this spec from other specs.
@@ -6254,7 +6222,6 @@ Normative references to this spec from:
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 
 No informative reference to this spec from other specs.
@@ -6402,11 +6369,8 @@ Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
-Informative references to this spec from:
-
-- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+No informative reference to this spec from other specs.
 
 
 ### CSS Spatial Navigation Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -6467,7 +6431,6 @@ Normative references to this spec from:
 
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 Informative references to this spec from:
@@ -6580,7 +6543,6 @@ Normative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 
 No informative reference to this spec from other specs.
@@ -6671,14 +6633,11 @@ Normative references to this spec from:
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
@@ -6731,7 +6690,6 @@ Normative references to this spec from:
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -6797,7 +6755,6 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
@@ -6806,10 +6763,8 @@ Normative references to this spec from:
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -6896,9 +6851,6 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 Informative references to this spec from:
 
@@ -6967,7 +6919,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6980,8 +6932,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -6989,12 +6942,9 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
-- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
-- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
-- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
@@ -7119,7 +7069,6 @@ Normative references to this spec from:
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -7175,7 +7124,6 @@ Normative references to this spec from:
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
-- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
@@ -7221,7 +7169,6 @@ Normative references to this spec from:
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
-- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
@@ -7236,7 +7183,6 @@ Normative references to this spec from:
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
-- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
@@ -7262,7 +7208,6 @@ Normative references to this spec from:
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
@@ -7270,14 +7215,12 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
@@ -7463,7 +7406,6 @@ Normative references to this spec from:
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
@@ -7481,12 +7423,10 @@ Normative references to this spec from:
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
@@ -7569,7 +7509,6 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
@@ -7579,6 +7518,7 @@ Informative references to this spec from:
 
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 
 
 ### Filter Effects Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -7604,7 +7544,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
 
 No informative reference to this spec from other specs.
@@ -7775,7 +7714,6 @@ Normative references to this spec from:
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
@@ -7819,7 +7757,6 @@ Normative references to this spec from:
 
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
 No informative reference to this spec from other specs.
@@ -7959,7 +7896,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
@@ -8005,7 +7941,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
@@ -9409,7 +9344,7 @@ No informative reference to this spec from other specs.
 
 ## Portable Network Graphics (PNG) Working Group {#group-portable_network_graphics_png_working_group}
 
-### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9421,9 +9356,23 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html)
-     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
+The following network or parsing error occurred:
+`Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
+    at async pptr://__puppeteer_evaluation_script__:34:13 Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
+    at async pptr://__puppeteer_evaluation_script__:34:13
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 123)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10133,7 +10082,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10146,8 +10095,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -10155,12 +10105,9 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
-- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
-- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
-- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
@@ -11153,7 +11100,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Crawled version: 10 October 2022
+- Crawled version: 12 October 2022
 - Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
 - Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Shortname: screen-orientation
@@ -11260,7 +11207,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
-- Crawled version: 20 July 2022
+- Crawled version: 12 October 2022
 - Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
 - Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Shortname: appmanifest
@@ -14972,7 +14919,6 @@ Normative references to this spec from:
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
@@ -14992,7 +14938,6 @@ Normative references to this spec from:
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
-- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -15298,7 +15243,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 11 October 2022
+- Crawled version: 12 October 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -15383,7 +15328,6 @@ Normative references to this spec from:
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -16257,7 +16201,6 @@ Normative references to this spec from:
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
@@ -16290,8 +16233,6 @@ Normative references to this spec from:
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
