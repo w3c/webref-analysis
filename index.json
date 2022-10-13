@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-13T06:46:47.172Z",
+  "date": "2022-10-13T12:45:28.715Z",
   "stats": {
     "crawled": 486,
-    "errors": 6,
+    "errors": 7,
     "studied": 486
   },
   "results": [
@@ -2198,7 +2198,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "5 October 2022",
+      "date": "13 October 2022",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -3479,6 +3479,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20019,7 +20020,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "7 October 2022",
+      "date": "13 October 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -38278,7 +38279,7 @@
     {
       "title": "Upgrade Insecure Requests",
       "shortname": "upgrade-insecure-requests",
-      "date": "20 September 2022",
+      "date": "13 October 2022",
       "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
       "release": {
         "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
@@ -39732,7 +39733,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "12 October 2022",
+      "date": "13 October 2022",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -40130,7 +40131,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "12 October 2022",
+      "date": "13 October 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -42033,7 +42034,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "21 September 2022",
+      "date": "13 October 2022",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -42158,7 +42159,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "6 October 2022",
+      "date": "13 October 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
