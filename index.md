@@ -6,7 +6,7 @@
 
 ## TC39 {#group-tc39}
 
-### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html] {data-spec=true data-error=true}
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -18,15 +18,7 @@
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 103)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -35,7 +27,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html] {data-spec=true data-error=true}
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -47,15 +39,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 104)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -85,7 +69,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html] {data-spec=true data-error=true}
+### [No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -97,15 +81,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 106)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3102,7 +3078,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3115,15 +3091,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 336)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6503,7 +6479,7 @@ Informative references to this spec from:
 - [CSS 2](https://drafts.csswg.org/css2/)
 
 
-### CSS Style Attributes {data-spec=true data-error=true}
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -6516,17 +6492,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 318)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7699,6 +7665,7 @@ Normative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
@@ -8523,7 +8490,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 13 October 2022
+- Crawled version: 14 October 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -8551,7 +8518,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 13 October 2022
+- Crawled version: 14 October 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -9109,6 +9076,54 @@ Informative references to this spec from:
 
 ## Media Working Group {#group-media_working_group}
 
+### A-law PCM WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-alaw-codec-registration/](https://www.w3.org/TR/webcodecs-alaw-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/alaw_codec_registration.html](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/alaw_codec_registration.html](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-alaw-codec-registration/](https://www.w3.org/TR/webcodecs-alaw-codec-registration/)
+- Shortname: webcodecs-alaw-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### AAC WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-aac-codec-registration/](https://www.w3.org/TR/webcodecs-aac-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/aac_codec_registration.html](https://w3c.github.io/webcodecs/aac_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/aac_codec_registration.html](https://w3c.github.io/webcodecs/aac_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-aac-codec-registration/](https://www.w3.org/TR/webcodecs-aac-codec-registration/)
+- Shortname: webcodecs-aac-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
 ### Autoplay Policy Detection {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -9129,6 +9144,126 @@ This specification looks good!
 No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
+
+
+### AV1 WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-av1-codec-registration/](https://www.w3.org/TR/webcodecs-av1-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/av1_codec_registration.html](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/av1_codec_registration.html](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-av1-codec-registration/](https://www.w3.org/TR/webcodecs-av1-codec-registration/)
+- Shortname: webcodecs-av1-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### AVC (H.264) WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-avc-codec-registration/](https://www.w3.org/TR/webcodecs-avc-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/avc_codec_registration.html](https://w3c.github.io/webcodecs/avc_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/avc_codec_registration.html](https://w3c.github.io/webcodecs/avc_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-avc-codec-registration/](https://www.w3.org/TR/webcodecs-avc-codec-registration/)
+- Shortname: webcodecs-avc-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### FLAC WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-flac-codec-registration/](https://www.w3.org/TR/webcodecs-flac-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/flac_codec_registration.html](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/flac_codec_registration.html](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-flac-codec-registration/](https://www.w3.org/TR/webcodecs-flac-codec-registration/)
+- Shortname: webcodecs-flac-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### HEVC (H.265) WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-hevc-codec-registration/](https://www.w3.org/TR/webcodecs-hevc-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/hevc_codec_registration.html](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/hevc_codec_registration.html](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-hevc-codec-registration/](https://www.w3.org/TR/webcodecs-hevc-codec-registration/)
+- Shortname: webcodecs-hevc-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### Linear PCM WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-pcm-codec-registration/](https://www.w3.org/TR/webcodecs-pcm-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/pcm_codec_registration.html](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/pcm_codec_registration.html](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-pcm-codec-registration/](https://www.w3.org/TR/webcodecs-pcm-codec-registration/)
+- Shortname: webcodecs-pcm-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 
 
 ### Media Capabilities {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -9243,6 +9378,54 @@ Informative references to this spec from:
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
+### MP3 WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-mp3-codec-registration/](https://www.w3.org/TR/webcodecs-mp3-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/mp3_codec_registration.html](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/mp3_codec_registration.html](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-mp3-codec-registration/](https://www.w3.org/TR/webcodecs-mp3-codec-registration/)
+- Shortname: webcodecs-mp3-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### Opus WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-opus-codec-registration/](https://www.w3.org/TR/webcodecs-opus-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/opus_codec_registration.html](https://w3c.github.io/webcodecs/opus_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/opus_codec_registration.html](https://w3c.github.io/webcodecs/opus_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-opus-codec-registration/](https://www.w3.org/TR/webcodecs-opus-codec-registration/)
+- Shortname: webcodecs-opus-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
 ### Picture-in-Picture {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -9269,13 +9452,109 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
 
+### u-law PCM WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-ulaw-codec-registration/](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/ulaw_codec_registration.html](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/ulaw_codec_registration.html](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-ulaw-codec-registration/](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/)
+- Shortname: webcodecs-ulaw-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### Vorbis WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-vorbis-codec-registration/](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/vorbis_codec_registration.html](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/vorbis_codec_registration.html](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-vorbis-codec-registration/](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/)
+- Shortname: webcodecs-vorbis-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### VP8 WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-vp8-codec-registration/](https://www.w3.org/TR/webcodecs-vp8-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/vp8_codec_registration.html](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/vp8_codec_registration.html](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-vp8-codec-registration/](https://www.w3.org/TR/webcodecs-vp8-codec-registration/)
+- Shortname: webcodecs-vp8-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### VP9 WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-vp9-codec-registration/](https://www.w3.org/TR/webcodecs-vp9-codec-registration/)
+- Crawled URL: [https://w3c.github.io/webcodecs/vp9_codec_registration.html](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/vp9_codec_registration.html](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-vp9-codec-registration/](https://www.w3.org/TR/webcodecs-vp9-codec-registration/)
+- Shortname: webcodecs-vp9-codec-registration
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
 ### WebCodecs {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 10 October 2022
+- Crawled version: 14 October 2022
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -9292,14 +9571,77 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [A-law PCM WebCodecs Registration](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
+- [AAC WebCodecs Registration](https://w3c.github.io/webcodecs/aac_codec_registration.html)
+- [AV1 WebCodecs Registration](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+- [AVC (H.264) WebCodecs Registration](https://w3c.github.io/webcodecs/avc_codec_registration.html)
+- [FLAC WebCodecs Registration](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+- [HEVC (H.265) WebCodecs Registration](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [MP3 WebCodecs Registration](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+- [Opus WebCodecs Registration](https://w3c.github.io/webcodecs/opus_codec_registration.html)
+- [u-law PCM WebCodecs Registration](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
+- [Vorbis WebCodecs Registration](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
+- [VP8 WebCodecs Registration](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
+- [VP9 WebCodecs Registration](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 
 Informative references to this spec from:
 
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
+
+
+### WebCodecs Codec Registry {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-codec-registry/](https://www.w3.org/TR/webcodecs-codec-registry/)
+- Crawled URL: [https://w3c.github.io/webcodecs/codec_registry.html](https://w3c.github.io/webcodecs/codec_registry.html)
+- Crawled version: 14 October 2022
+- Editor's Draft: [https://w3c.github.io/webcodecs/codec_registry.html](https://w3c.github.io/webcodecs/codec_registry.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-codec-registry/](https://www.w3.org/TR/webcodecs-codec-registry/)
+- Shortname: webcodecs-codec-registry
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webcodecs-aac-codec-registration/`](https://www.w3.org/TR/webcodecs-aac-codec-registration/), related reference "WEBCODECS-AAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/aac_codec_registration.html`](https://w3c.github.io/webcodecs/aac_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-alaw-codec-registration/`](https://www.w3.org/TR/webcodecs-alaw-codec-registration/), related reference "WEBCODECS-ALAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/alaw_codec_registration.html`](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-av1-codec-registration/`](https://www.w3.org/TR/webcodecs-av1-codec-registration/), related reference "WEBCODECS-AV1-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/av1_codec_registration.html`](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-avc-codec-registration/`](https://www.w3.org/TR/webcodecs-avc-codec-registration/), related reference "WEBCODECS-AVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/avc_codec_registration.html`](https://w3c.github.io/webcodecs/avc_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-flac-codec-registration/`](https://www.w3.org/TR/webcodecs-flac-codec-registration/), related reference "WEBCODECS-FLAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/flac_codec_registration.html`](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-hevc-codec-registration/`](https://www.w3.org/TR/webcodecs-hevc-codec-registration/), related reference "WEBCODECS-HEVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/hevc_codec_registration.html`](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-mp3-codec-registration/`](https://www.w3.org/TR/webcodecs-mp3-codec-registration/), related reference "WEBCODECS-MP3-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/mp3_codec_registration.html`](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-opus-codec-registration/`](https://www.w3.org/TR/webcodecs-opus-codec-registration/), related reference "WEBCODECS-OPUS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/opus_codec_registration.html`](https://w3c.github.io/webcodecs/opus_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-pcm-codec-registration/`](https://www.w3.org/TR/webcodecs-pcm-codec-registration/), related reference "WEBCODECS-PCM-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/pcm_codec_registration.html`](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-ulaw-codec-registration/`](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/), related reference "WEBCODECS-ULAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/ulaw_codec_registration.html`](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-vorbis-codec-registration/`](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/), related reference "WEBCODECS-VORBIS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vorbis_codec_registration.html`](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-vp8-codec-registration/`](https://www.w3.org/TR/webcodecs-vp8-codec-registration/), related reference "WEBCODECS-VP8-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp8_codec_registration.html`](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-vp9-codec-registration/`](https://www.w3.org/TR/webcodecs-vp9-codec-registration/), related reference "WEBCODECS-VP9-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp9_codec_registration.html`](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [A-law PCM WebCodecs Registration](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
+- [AAC WebCodecs Registration](https://w3c.github.io/webcodecs/aac_codec_registration.html)
+- [AV1 WebCodecs Registration](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+- [AVC (H.264) WebCodecs Registration](https://w3c.github.io/webcodecs/avc_codec_registration.html)
+- [FLAC WebCodecs Registration](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+- [HEVC (H.265) WebCodecs Registration](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
+- [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
+- [MP3 WebCodecs Registration](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+- [Opus WebCodecs Registration](https://w3c.github.io/webcodecs/opus_codec_registration.html)
+- [u-law PCM WebCodecs Registration](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
+- [Vorbis WebCodecs Registration](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
+- [VP8 WebCodecs Registration](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
+- [VP9 WebCodecs Registration](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
 ## MiniApps Working Group {#group-miniapps_working_group}
@@ -9443,35 +9785,21 @@ No informative reference to this spec from other specs.
 
 ## Portable Network Graphics (PNG) Working Group {#group-portable_network_graphics_png_working_group}
 
-### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-error=true}
+### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 11 October 2022
+- Crawled version: 14 October 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
-    at async pptr://__puppeteer_evaluation_script__:34:13 Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
-    at async pptr://__puppeteer_evaluation_script__:34:13
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 123)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html)
+     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9836,6 +10164,7 @@ Normative references to this spec from:
 - [SVG Strokes](https://svgwg.org/specs/strokes/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
 
 Informative references to this spec from:
@@ -11277,7 +11606,7 @@ Informative references to this spec from:
 - [WebHID API](https://wicg.github.io/webhid/)
 
 
-### Web App Manifest - Application Information {data-spec=true data-error=true}
+### Web App Manifest - Application Information {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -11290,15 +11619,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/manifest-app-info/ triggered HTTP status 503 Error: Loading https://w3c.github.io/manifest-app-info/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 379)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12453,7 +12774,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 10 October 2022
+- Crawled version: 14 October 2022
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -14699,6 +15020,7 @@ Normative references to this spec from:
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 - [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 - [WebRTC Priority Control API](https://w3c.github.io/webrtc-priority/)
 
@@ -15147,6 +15469,7 @@ Normative references to this spec from:
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Speech API](https://wicg.github.io/speech-api/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
@@ -16378,6 +16701,7 @@ Normative references to this spec from:
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
@@ -16400,6 +16724,7 @@ Normative references to this spec from:
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Opus WebCodecs Registration](https://w3c.github.io/webcodecs/opus_codec_registration.html)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)

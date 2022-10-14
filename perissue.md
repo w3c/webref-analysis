@@ -2,72 +2,15 @@
 % Strudy
 % October 14, 2022
 
-486 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html): `Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 103)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html): `Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 104)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html): `Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 106)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 336)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/): `Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 318)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
-    at async pptr://__puppeteer_evaluation_script__:34:13 Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
-    at async pptr://__puppeteer_evaluation_script__:34:13
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 123)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-- [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/): `Error: Loading https://w3c.github.io/manifest-app-info/ triggered HTTP status 503 Error: Loading https://w3c.github.io/manifest-app-info/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 379)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-=> 7 specifications found
+500 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
 
+- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
+- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
+- [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - [Array Grouping](https://tc39.es/proposal-array-grouping/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
 - [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
@@ -99,6 +42,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html)
 - [Symbol as WeakMap Keys Proposal](https://tc39.es/proposal-symbols-as-weakmap-keys/)
 - [Temporal proposal](https://tc39.es/proposal-temporal/)
+- [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - [WebGL EXT_clip_cull_distance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
@@ -142,7 +86,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 74 specifications found
+=> 78 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -289,6 +233,11 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/wai-aria-implementation/`](http://www.w3.org/TR/wai-aria-implementation/) but does not list it in its references
     * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
@@ -984,6 +933,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view) but does not list it in its references
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/) links to [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/) but does not list it in its references
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
+    * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html) links to:
     * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/) but does not list it in its references
@@ -1178,7 +1130,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 808 missing references for links found in 211 specifications
+=> 814 missing references for links found in 213 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1226,6 +1178,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
 - [Crash Reporting](https://wicg.github.io/crash-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -1698,6 +1654,20 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebCodecs](https://w3c.github.io/webcodecs/) links to:
     * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but related reference "CSS-IMAGES-3" uses URL [`https://drafts.csswg.org/css-images-3/`](https://drafts.csswg.org/css-images-3/)
     * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/) but related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
+- [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html) links to:
+    * [`https://www.w3.org/TR/webcodecs-aac-codec-registration/`](https://www.w3.org/TR/webcodecs-aac-codec-registration/) but related reference "WEBCODECS-AAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/aac_codec_registration.html`](https://w3c.github.io/webcodecs/aac_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-alaw-codec-registration/`](https://www.w3.org/TR/webcodecs-alaw-codec-registration/) but related reference "WEBCODECS-ALAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/alaw_codec_registration.html`](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-av1-codec-registration/`](https://www.w3.org/TR/webcodecs-av1-codec-registration/) but related reference "WEBCODECS-AV1-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/av1_codec_registration.html`](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-avc-codec-registration/`](https://www.w3.org/TR/webcodecs-avc-codec-registration/) but related reference "WEBCODECS-AVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/avc_codec_registration.html`](https://w3c.github.io/webcodecs/avc_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-flac-codec-registration/`](https://www.w3.org/TR/webcodecs-flac-codec-registration/) but related reference "WEBCODECS-FLAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/flac_codec_registration.html`](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-hevc-codec-registration/`](https://www.w3.org/TR/webcodecs-hevc-codec-registration/) but related reference "WEBCODECS-HEVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/hevc_codec_registration.html`](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-mp3-codec-registration/`](https://www.w3.org/TR/webcodecs-mp3-codec-registration/) but related reference "WEBCODECS-MP3-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/mp3_codec_registration.html`](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-opus-codec-registration/`](https://www.w3.org/TR/webcodecs-opus-codec-registration/) but related reference "WEBCODECS-OPUS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/opus_codec_registration.html`](https://w3c.github.io/webcodecs/opus_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-pcm-codec-registration/`](https://www.w3.org/TR/webcodecs-pcm-codec-registration/) but related reference "WEBCODECS-PCM-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/pcm_codec_registration.html`](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-ulaw-codec-registration/`](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/) but related reference "WEBCODECS-ULAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/ulaw_codec_registration.html`](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-vorbis-codec-registration/`](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/) but related reference "WEBCODECS-VORBIS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vorbis_codec_registration.html`](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-vp8-codec-registration/`](https://www.w3.org/TR/webcodecs-vp8-codec-registration/) but related reference "WEBCODECS-VP8-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp8_codec_registration.html`](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
+    * [`https://www.w3.org/TR/webcodecs-vp9-codec-registration/`](https://www.w3.org/TR/webcodecs-vp9-codec-registration/) but related reference "WEBCODECS-VP9-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp9_codec_registration.html`](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
 - [WebDriver](https://w3c.github.io/webdriver/) links to:
     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but related reference "DOM-PARSING" uses URL [`https://www.w3.org/TR/DOM-Parsing/`](https://www.w3.org/TR/DOM-Parsing/)
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FILEAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
@@ -1720,7 +1690,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 426 inconsistent references for links found in 185 specifications
+=> 442 inconsistent references for links found in 187 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

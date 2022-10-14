@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-14T12:45:14.569Z",
+  "date": "2022-10-14T18:47:44.093Z",
   "stats": {
-    "crawled": 486,
-    "errors": 7,
-    "studied": 486
+    "crawled": 500,
+    "errors": 0,
+    "studied": 500
   },
   "results": [
     {
@@ -30,7 +30,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 103)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -72,7 +71,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 104)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -155,7 +153,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 106)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -227,6 +224,108 @@
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "A-law PCM WebCodecs Registration",
+      "shortname": "webcodecs-alaw-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/alaw_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "alaw_codec_registration.src.html",
+        "filename": "alaw_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/alaw_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "AAC WebCodecs Registration",
+      "shortname": "webcodecs-aac-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/aac_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "aac_codec_registration.src.html",
+        "filename": "aac_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/aac_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
       }
     },
     {
@@ -857,7 +956,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "10 October 2022",
+      "date": "14 October 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -987,6 +1086,108 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "AV1 WebCodecs Registration",
+      "shortname": "webcodecs-av1-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/av1_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "av1_codec_registration.src.html",
+        "filename": "av1_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/av1_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "AVC (H.264) WebCodecs Registration",
+      "shortname": "webcodecs-avc-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/avc_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "avc_codec_registration.src.html",
+        "filename": "avc_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/avc_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -3479,7 +3680,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13475,7 +13675,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ECONNREFUSED 173.230.149.95:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 318)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13540,7 +13739,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -18336,6 +18535,11 @@
               "crawled": "https://wicg.github.io/speech-api/"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -21010,6 +21214,57 @@
       }
     },
     {
+      "title": "FLAC WebCodecs Registration",
+      "shortname": "webcodecs-flac-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/flac_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "flac_codec_registration.src.html",
+        "filename": "flac_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/flac_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Font Metrics API Level 1",
       "shortname": "font-metrics-api-1",
       "date": "12 May 2021",
@@ -21640,6 +21895,11 @@
               "crawled": "https://w3c.github.io/virtual-keyboard/"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -21842,6 +22102,57 @@
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "HEVC (H.265) WebCodecs Registration",
+      "shortname": "webcodecs-hevc-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/hevc_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "hevc_codec_registration.src.html",
+        "filename": "hevc_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/hevc_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
       }
     },
     {
@@ -26417,6 +26728,57 @@
       }
     },
     {
+      "title": "Linear PCM WebCodecs Registration",
+      "shortname": "webcodecs-pcm-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/pcm_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "pcm_codec_registration.src.html",
+        "filename": "pcm_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/pcm_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
       "date": "28 September 2022",
@@ -28738,6 +29100,57 @@
       }
     },
     {
+      "title": "MP3 WebCodecs Registration",
+      "shortname": "webcodecs-mp3-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/mp3_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "mp3_codec_registration.src.html",
+        "filename": "mp3_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/mp3_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
       "date": "22 September 2022",
@@ -29171,6 +29584,57 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "Opus WebCodecs Registration",
+      "shortname": "webcodecs-opus-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/opus_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "opus_codec_registration.src.html",
+        "filename": "opus_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/opus_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -30608,7 +31072,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "11 October 2022",
+      "date": "14 October 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -30626,7 +31090,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:25:31)\n    at async pptr://__puppeteer_evaluation_script__:34:13 Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:25:31)\n    at async pptr://__puppeteer_evaluation_script__:34:13\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 123)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35493,6 +35956,11 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            },
+            {
               "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
               "title": "WebXR DOM Overlays Module",
               "crawled": "https://immersive-web.github.io/dom-overlays/"
@@ -37954,6 +38422,57 @@
       }
     },
     {
+      "title": "u-law PCM WebCodecs Registration",
+      "shortname": "webcodecs-ulaw-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/ulaw_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "ulaw_codec_registration.src.html",
+        "filename": "ulaw_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/ulaw_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "UI Events",
       "shortname": "uievents",
       "date": "13 September 2022",
@@ -39139,6 +39658,159 @@
       }
     },
     {
+      "title": "Vorbis WebCodecs Registration",
+      "shortname": "webcodecs-vorbis-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/vorbis_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "vorbis_codec_registration.src.html",
+        "filename": "vorbis_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/vorbis_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "VP8 WebCodecs Registration",
+      "shortname": "webcodecs-vp8-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/vp8_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "vp8_codec_registration.src.html",
+        "filename": "vp8_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/vp8_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "VP9 WebCodecs Registration",
+      "shortname": "webcodecs-vp9-codec-registration",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/vp9_codec_registration.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "vp9_codec_registration.src.html",
+        "filename": "vp9_codec_registration.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/vp9_codec_registration.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "W3C Patent Policy",
       "shortname": "w3c-patent-policy",
       "date": "15 September 2020",
@@ -39575,7 +40247,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/manifest-app-info/ triggered HTTP status 503 Error: Loading https://w3c.github.io/manifest-app-info/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 379)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40657,6 +41328,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+              "title": "Linear PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
+            },
+            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
@@ -40765,6 +41441,11 @@
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
+              "title": "Opus WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/opus_codec_registration.html"
             },
             {
               "url": "https://wicg.github.io/page-lifecycle/",
@@ -41945,7 +42626,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "10 October 2022",
+      "date": "14 October 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -42000,14 +42681,84 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
+              "title": "A-law PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/alaw_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
+              "title": "AAC WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/aac_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
+              "title": "AV1 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/av1_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
+              "title": "AVC (H.264) WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/avc_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
+              "title": "FLAC WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/flac_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
+              "title": "HEVC (H.265) WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/hevc_codec_registration.html"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+              "title": "Linear PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
+              "title": "MP3 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/mp3_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
+              "title": "Opus WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/opus_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
+              "title": "u-law PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/ulaw_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
+              "title": "Vorbis WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/vorbis_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
+              "title": "VP8 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/vp8_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
+              "title": "VP9 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/vp9_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+              "title": "WebCodecs Codec Registry",
+              "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
             }
           ],
           "informative": [
@@ -42017,14 +42768,217 @@
               "crawled": "https://webaudio.github.io/web-audio-api/"
             },
             {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
-            },
-            {
               "url": "https://registry.khronos.org/webgl/specs/latest/1.0/",
               "title": "WebGL Specification",
               "crawled": "https://registry.khronos.org/webgl/specs/latest/1.0/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebCodecs Codec Registry",
+      "shortname": "webcodecs-codec-registry",
+      "date": "14 October 2022",
+      "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/codec_registry.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "sourcePath": "codec_registry.src.html",
+        "filename": "codec_registry.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/codec_registry.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-AAC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/aac_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-ALAW-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/alaw_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-AV1-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/av1_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-AVC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/avc_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-FLAC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/flac_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-HEVC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/hevc_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-MP3-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/mp3_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-OPUS-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/opus_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-PCM-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-ULAW-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/ulaw_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-VORBIS-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/vorbis_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-VP8-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/vp8_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-VP9-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/vp9_codec_registration.html"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
+              "title": "A-law PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/alaw_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
+              "title": "AAC WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/aac_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
+              "title": "AV1 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/av1_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
+              "title": "AVC (H.264) WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/avc_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
+              "title": "FLAC WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/flac_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
+              "title": "HEVC (H.265) WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/hevc_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+              "title": "Linear PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
+              "title": "MP3 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/mp3_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
+              "title": "Opus WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/opus_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
+              "title": "u-law PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/ulaw_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
+              "title": "Vorbis WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/vorbis_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
+              "title": "VP8 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/vp8_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
+              "title": "VP9 WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/vp9_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
             }
           ]
         },
@@ -44008,7 +44962,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 October 2022",
+      "date": "14 October 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -44076,7 +45030,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 October 2022",
+      "date": "14 October 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -44323,6 +45277,11 @@
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
