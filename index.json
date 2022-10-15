@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-15T00:47:17.118Z",
+  "date": "2022-10-15T06:42:23.186Z",
   "stats": {
     "crawled": 500,
     "errors": 1,
@@ -19757,7 +19757,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "14 October 2022",
+      "date": "15 October 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19810,7 +19810,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "14 October 2022",
+      "date": "15 October 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -38056,7 +38056,7 @@
     {
       "title": "The Screen Orientation API",
       "shortname": "screen-orientation",
-      "date": "14 October 2022",
+      "date": "15 October 2022",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
