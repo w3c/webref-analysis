@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-16T12:44:21.475Z",
+  "date": "2022-10-16T18:39:57.834Z",
   "stats": {
     "crawled": 500,
     "errors": 1,
@@ -8201,7 +8201,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "10 October 2022",
+      "date": "15 October 2022",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
