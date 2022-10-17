@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-17T06:48:10.005Z",
+  "date": "2022-10-17T12:46:23.775Z",
   "stats": {
     "crawled": 500,
-    "errors": 1,
+    "errors": 2,
     "studied": 500
   },
   "results": [
@@ -1869,7 +1869,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "13 October 2022",
+      "date": "17 October 2022",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2230,7 +2230,7 @@
     {
       "title": "Console Standard",
       "shortname": "console",
-      "date": "19 September 2022",
+      "date": "17 October 2022",
       "url": "https://console.spec.whatwg.org/",
       "nightly": {
         "url": "https://console.spec.whatwg.org/",
@@ -6455,6 +6455,11 @@
               "url": "https://www.w3.org/TR/miniapp-manifest/",
               "title": "MiniApp Manifest",
               "crawled": "https://w3c.github.io/miniapp-manifest/"
+            },
+            {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -12201,6 +12206,11 @@
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
+            },
+            {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
             }
           ],
           "informative": [
@@ -14708,6 +14718,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -17681,7 +17696,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "4 October 2022",
+      "date": "17 October 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -19430,7 +19445,7 @@
     {
       "title": "Encoding Standard",
       "shortname": "encoding",
-      "date": "20 June 2022",
+      "date": "17 October 2022",
       "url": "https://www.w3.org/TR/encoding/",
       "release": {
         "url": "https://www.w3.org/TR/encoding/",
@@ -19757,7 +19772,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "16 October 2022",
+      "date": "17 October 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19810,7 +19825,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "16 October 2022",
+      "date": "17 October 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -20225,7 +20240,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "14 October 2022",
+      "date": "17 October 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -20986,7 +21001,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "11 October 2022",
+      "date": "17 October 2022",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -21309,7 +21324,7 @@
     {
       "title": "Fullscreen API Standard",
       "shortname": "fullscreen",
-      "date": "17 January 2022",
+      "date": "17 October 2022",
       "url": "https://fullscreen.spec.whatwg.org/",
       "nightly": {
         "url": "https://fullscreen.spec.whatwg.org/",
@@ -21339,8 +21354,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/screen-orientation/",
-          "https://www.w3.org/TR/permissions-policy/"
+          "https://w3c.github.io/screen-orientation/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -22072,6 +22086,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/gyroscope/ triggered HTTP status 503 Error: Loading https://w3c.github.io/gyroscope/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 361)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24760,7 +24775,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "20 July 2022",
+      "date": "17 October 2022",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -27306,7 +27321,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "13 October 2022",
+      "date": "17 October 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -28504,7 +28519,7 @@
     {
       "title": "MIME Sniffing Standard",
       "shortname": "mimesniff",
-      "date": "17 January 2022",
+      "date": "17 October 2022",
       "url": "https://mimesniff.spec.whatwg.org/",
       "nightly": {
         "url": "https://mimesniff.spec.whatwg.org/",
@@ -29479,7 +29494,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "11 October 2022",
+      "date": "17 October 2022",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -31819,7 +31834,7 @@
     {
       "title": "Quirks Mode Standard",
       "shortname": "quirks",
-      "date": "21 February 2022",
+      "date": "17 October 2022",
       "url": "https://quirks.spec.whatwg.org/",
       "nightly": {
         "url": "https://quirks.spec.whatwg.org/",
@@ -31848,18 +31863,8 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css-color-4/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-values-4/",
-            "ref": {
-              "name": "CSS-VALUES-4",
-              "url": "https://drafts.csswg.org/css-values-4/"
-            }
-          }
-        ],
+        "missingLinkRef": [],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -31881,7 +31886,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -33296,11 +33301,6 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
-              "url": "https://mimesniff.spec.whatwg.org/",
-              "title": "MIME Sniffing Standard",
-              "crawled": "https://mimesniff.spec.whatwg.org/"
-            },
-            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -33462,11 +33462,6 @@
               "url": "https://wicg.github.io/media-feeds/",
               "title": "Media Feeds",
               "crawled": "https://wicg.github.io/media-feeds/"
-            },
-            {
-              "url": "https://mimesniff.spec.whatwg.org/",
-              "title": "MIME Sniffing Standard",
-              "crawled": "https://mimesniff.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -34684,6 +34679,11 @@
               "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
+              "url": "https://mimesniff.spec.whatwg.org/",
+              "title": "MIME Sniffing Standard",
+              "crawled": "https://mimesniff.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
@@ -34847,6 +34847,11 @@
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
+            {
+              "url": "https://mimesniff.spec.whatwg.org/",
+              "title": "MIME Sniffing Standard",
+              "crawled": "https://mimesniff.spec.whatwg.org/"
             }
           ],
           "informative": [
@@ -37189,7 +37194,7 @@
     {
       "title": "Storage Standard",
       "shortname": "storage",
-      "date": "14 August 2022",
+      "date": "17 October 2022",
       "url": "https://storage.spec.whatwg.org/",
       "nightly": {
         "url": "https://storage.spec.whatwg.org/",
@@ -37282,7 +37287,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "5 September 2022",
+      "date": "17 October 2022",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -37890,7 +37895,7 @@
     {
       "title": "Test Utils Standard",
       "shortname": "testutils",
-      "date": "21 March 2022",
+      "date": "17 October 2022",
       "url": "https://testutils.spec.whatwg.org/",
       "nightly": {
         "url": "https://testutils.spec.whatwg.org/",
@@ -38871,7 +38876,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "14 August 2022",
+      "date": "17 October 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -45185,7 +45190,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "13 October 2022",
+      "date": "17 October 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -45433,7 +45438,7 @@
     {
       "title": "WebSockets Standard",
       "shortname": "websockets",
-      "date": "19 September 2022",
+      "date": "17 October 2022",
       "url": "https://websockets.spec.whatwg.org/",
       "nightly": {
         "url": "https://websockets.spec.whatwg.org/",
@@ -46530,7 +46535,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "31 August 2022",
+      "date": "17 October 2022",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
