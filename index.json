@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-17T00:47:24.668Z",
+  "date": "2022-10-17T06:48:10.005Z",
   "stats": {
     "crawled": 500,
     "errors": 1,
@@ -22619,7 +22619,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "14 October 2022",
+      "date": "17 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -38056,7 +38056,7 @@
     {
       "title": "The Screen Orientation API",
       "shortname": "screen-orientation",
-      "date": "15 October 2022",
+      "date": "17 October 2022",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
