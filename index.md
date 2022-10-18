@@ -3957,7 +3957,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 17 October 2022
+- Crawled version: 18 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -4005,7 +4005,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 13 October 2022
+- Crawled version: 18 October 2022
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -5160,6 +5160,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
@@ -5173,7 +5174,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 
 
@@ -9651,6 +9651,7 @@ Informative references to this spec from:
 - [HEVC (H.265) WebCodecs Registration](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
 - [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
 - [MP3 WebCodecs Registration](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+- [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
 - [Opus WebCodecs Registration](https://w3c.github.io/webcodecs/opus_codec_registration.html)
 - [u-law PCM WebCodecs Registration](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
 - [Vorbis WebCodecs Registration](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
@@ -9806,14 +9807,14 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 14 October 2022
+- Crawled version: 25 October 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html)
+     * [`http://www.w3.org/TR/2022/WD-PNG-20221025/`](http://www.w3.org/TR/2022/WD-PNG-20221025/)
      * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -10368,7 +10369,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Crawled URL: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
-- Crawled version: 12 September 2022
+- Crawled version: 18 October 2022
 - Editor's Draft: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
 - Latest published version: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Shortname: openscreenprotocol

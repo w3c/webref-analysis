@@ -945,7 +945,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/) links to [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/) but does not list it in its references
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
-    * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html) but does not list it in its references
+    * [`http://www.w3.org/TR/2022/WD-PNG-20221025/`](http://www.w3.org/TR/2022/WD-PNG-20221025/) but does not list it in its references
     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html) links to:

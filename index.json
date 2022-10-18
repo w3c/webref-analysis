@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-18T12:46:02.056Z",
+  "date": "2022-10-18T18:45:02.088Z",
   "stats": {
     "crawled": 500,
     "errors": 1,
@@ -6341,7 +6341,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "17 October 2022",
+      "date": "18 October 2022",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -6490,7 +6490,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "13 October 2022",
+      "date": "18 October 2022",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -9851,6 +9851,11 @@
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -9902,11 +9907,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color-4/"
-            },
             {
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
@@ -29577,7 +29577,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "12 September 2022",
+      "date": "18 October 2022",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -31103,7 +31103,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "14 October 2022",
+      "date": "25 October 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -31133,7 +31133,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "http://www.w3.org/TR/2003/REC-PNG-20031110/index.html",
+          "http://www.w3.org/TR/2022/WD-PNG-20221025/",
           "https://www.w3.org/TR/2003/REC-PNG-20031110/"
         ],
         "inconsistentRef": [],
@@ -42975,6 +42975,11 @@
               "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
               "title": "MP3 WebCodecs Registration",
               "crawled": "https://w3c.github.io/webcodecs/mp3_codec_registration.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/openscreenprotocol/",
+              "title": "Open Screen Protocol",
+              "crawled": "https://w3c.github.io/openscreenprotocol/"
             },
             {
               "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
