@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 18, 2022
+% October 19, 2022
 
 500 specifications were crawled in this report.
 
@@ -180,10 +180,7 @@ Basically all specifications have normative dependencies on some other specifica
 
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/) links to [`https://w3c.github.io/mediacapture-image/`](https://w3c.github.io/mediacapture-image/) but does not list it in its references
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html) links to [`https://w3c.github.io/mediacapture-image/`](https://w3c.github.io/mediacapture-image/) but does not list it in its references
-- [Accelerometer](https://w3c.github.io/accelerometer/) links to:
-    * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
-    * [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html) but does not list it in its references
-    * [`https://www.w3.org/TR/motion-sensors/`](https://www.w3.org/TR/motion-sensors/) but does not list it in its references
+- [Accelerometer](https://w3c.github.io/accelerometer/) links to [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html) but does not list it in its references
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/) links to:
     * [`https://www.w3.org/TR/html-aam-1.0/`](https://www.w3.org/TR/html-aam-1.0/) but does not list it in its references
     * [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/) but does not list it in its references
@@ -1140,7 +1137,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 811 missing references for links found in 211 specifications
+=> 809 missing references for links found in 211 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
