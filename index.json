@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-19T00:48:50.014Z",
+  "date": "2022-10-19T06:51:12.090Z",
   "stats": {
     "crawled": 500,
     "errors": 1,
@@ -22647,7 +22647,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 October 2022",
+      "date": "19 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -30336,7 +30336,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "07 September 2022",
+      "date": "19 October 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -37305,7 +37305,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "17 October 2022",
+      "date": "18 October 2022",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
