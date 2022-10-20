@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-20T12:44:48.789Z",
+  "date": "2022-10-20T18:45:41.801Z",
   "stats": {
     "crawled": 500,
-    "errors": 2,
+    "errors": 1,
     "studied": 500
   },
   "results": [
@@ -229,7 +229,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -280,7 +280,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -1091,7 +1091,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1142,7 +1142,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -3678,7 +3678,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3729,7 +3728,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-1",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://drafts.csswg.org/css-anchor-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-anchor-1/",
@@ -14728,6 +14727,11 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-transform/",
+              "title": "MediaStreamTrack Insertable Media Processing using Streams",
+              "crawled": "https://w3c.github.io/mediacapture-transform/"
+            },
+            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -20121,7 +20125,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -20791,7 +20795,7 @@
     {
       "title": "File API",
       "shortname": "FileAPI",
-      "date": "10 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/FileAPI/",
       "release": {
         "url": "https://www.w3.org/TR/FileAPI/",
@@ -21250,7 +21254,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -22141,7 +22145,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -26764,7 +26768,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -28484,7 +28488,7 @@
     {
       "title": "MediaStreamTrack Insertable Media Processing using Streams",
       "shortname": "mediacapture-transform",
-      "date": "24 January 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/mediacapture-transform/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-transform/",
@@ -28520,10 +28524,10 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/mediacapture-main/",
+            "link": "https://www.w3.org/TR/mediacapture-streams/",
             "ref": {
               "name": "MEDIACAPTURE-STREAMS",
-              "url": "https://www.w3.org/TR/mediacapture-streams/"
+              "url": "https://w3c.github.io/mediacapture-main/"
             }
           }
         ],
@@ -29136,7 +29140,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -29625,7 +29629,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -32004,7 +32008,7 @@
     {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
-      "date": "21 July 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/mediacapture-region/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-region/",
@@ -36136,7 +36140,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "13 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -38453,7 +38457,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -39689,7 +39693,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -39740,7 +39744,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -39791,7 +39795,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -42655,7 +42659,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -42785,6 +42789,11 @@
               "crawled": "https://w3c.github.io/webcodecs/vp9_codec_registration.html"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            },
+            {
               "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
               "title": "WebCodecs Codec Registry",
               "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
@@ -42809,7 +42818,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "19 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
@@ -45211,7 +45220,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "17 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -45355,7 +45364,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "6 October 2022",
+      "date": "20 October 2022",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -46600,6 +46609,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/FileAPI/",
+              "title": "File API",
+              "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
