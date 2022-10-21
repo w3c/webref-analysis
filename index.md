@@ -3077,7 +3077,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3090,15 +3090,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 336)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7718,6 +7718,7 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
@@ -7981,7 +7982,6 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
 Informative references to this spec from:
@@ -8986,7 +8986,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
 - Crawled URL: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
-- Crawled version: 27 May 2022
+- Crawled version: 21 October 2022
 - Editor's Draft: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
 - Latest published version: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
 - Shortname: json-ld11
@@ -9013,7 +9013,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
 - Crawled URL: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
-- Crawled version: 18 October 2022
+- Crawled version: 21 October 2022
 - Editor's Draft: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
 - Latest published version: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
 - Shortname: json-ld11-framing
@@ -9038,7 +9038,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
 - Crawled URL: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
-- Crawled version: 27 May 2022
+- Crawled version: 21 October 2022
 - Editor's Draft: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
 - Latest published version: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
 - Shortname: json-ld11-api
@@ -11546,7 +11546,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Crawled version: 19 October 2022
+- Crawled version: 21 October 2022
 - Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
 - Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Shortname: screen-orientation
@@ -11674,6 +11674,7 @@ Normative references to this spec from:
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 
 Informative references to this spec from:
@@ -11681,7 +11682,6 @@ Informative references to this spec from:
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 - [Permissions](https://w3c.github.io/permissions/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
@@ -15673,6 +15673,7 @@ Normative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
 
