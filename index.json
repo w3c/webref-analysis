@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-24T12:46:59.466Z",
+  "date": "2022-10-24T18:53:14.865Z",
   "stats": {
-    "crawled": 500,
-    "errors": 1,
-    "studied": 500
+    "crawled": 501,
+    "errors": 0,
+    "studied": 501
   },
   "results": [
     {
@@ -954,7 +954,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "17 October 2022",
+      "date": "24 October 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -22080,7 +22080,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/gyroscope/ triggered HTTP status 503 Error: Loading https://w3c.github.io/gyroscope/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 361)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -32030,6 +32029,47 @@
       }
     },
     {
+      "title": "Regular Expression Pattern Modifiers for ECMAScript",
+      "shortname": "tc39-regexp-modifiers",
+      "date": "18 October 2022",
+      "url": "https://tc39.es/proposal-regexp-modifiers/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-regexp-modifiers/",
+        "sourcePath": "spec.emu",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-regexp-modifiers",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-regexp-modifiers/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Relinquishing Permissions",
       "shortname": "permissions-revoke",
       "date": "9 May 2022",
@@ -36564,6 +36604,11 @@
               "url": "https://www.w3.org/TR/remote-playback/",
               "title": "Remote Playback API",
               "crawled": "https://w3c.github.io/remote-playback/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webnn/",
+              "title": "Web Neural Network API",
+              "crawled": "https://webmachinelearning.github.io/webnn/"
             },
             {
               "url": "https://wicg.github.io/webusb/",
@@ -42069,7 +42114,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "29 September 2022",
+      "date": "24 October 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
