@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-24T06:49:01.350Z",
+  "date": "2022-10-24T12:46:59.466Z",
   "stats": {
     "crawled": 500,
     "errors": 1,
@@ -20229,7 +20229,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "22 October 2022",
+      "date": "24 October 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -22628,7 +22628,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "22 October 2022",
+      "date": "24 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -42418,7 +42418,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "11 October 2022",
+      "date": "24 October 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -42467,7 +42467,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "11 October 2022",
+      "date": "24 October 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -42583,7 +42583,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "11 October 2022",
+      "date": "24 October 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
