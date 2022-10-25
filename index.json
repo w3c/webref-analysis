@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-25T00:51:06.648Z",
+  "date": "2022-10-25T06:49:11.862Z",
   "stats": {
     "crawled": 501,
     "errors": 0,
@@ -2742,7 +2742,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "23 October 2022",
+      "date": "25 October 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -27820,11 +27820,6 @@
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
             },
             {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -28081,6 +28076,11 @@
               "url": "https://www.w3.org/TR/miniapp-manifest/",
               "title": "MiniApp Manifest",
               "crawled": "https://w3c.github.io/miniapp-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "The Screen Orientation API",
+              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://wicg.github.io/user-preference-media-features-headers/",
@@ -29234,7 +29234,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "4 October 2022",
+      "date": "24 October 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -38116,7 +38116,7 @@
     {
       "title": "The Screen Orientation API",
       "shortname": "screen-orientation",
-      "date": "24 October 2022",
+      "date": "25 October 2022",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
