@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-26T12:46:50.632Z",
+  "date": "2022-10-26T18:40:08.462Z",
   "stats": {
     "crawled": 501,
     "errors": 0,
@@ -12,7 +12,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "13 September 2022",
+      "date": "26 October 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -53,7 +53,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "13 September 2022",
+      "date": "26 October 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -94,7 +94,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "13 September 2022",
+      "date": "26 October 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -135,7 +135,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "13 September 2022",
+      "date": "26 October 2022",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -2742,7 +2742,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "25 October 2022",
+      "date": "26 October 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -19761,7 +19761,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "25 October 2022",
+      "date": "26 October 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19814,7 +19814,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "25 October 2022",
+      "date": "26 October 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -20990,7 +20990,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "21 October 2022",
+      "date": "26 October 2022",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -22444,7 +22444,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "04 October 2022",
+      "date": "26 October 2022",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -22489,6 +22489,13 @@
             "ref": {
               "name": "accname-1.2",
               "url": "https://www.w3.org/TR/accname-1.2/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/aria/",
+            "ref": {
+              "name": "WAI-ARIA-1.2",
+              "url": "https://www.w3.org/TR/wai-aria-1.2/"
             }
           },
           {
@@ -29492,7 +29499,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "17 October 2022",
+      "date": "26 October 2022",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -31086,7 +31093,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "25 October 2022",
+      "date": "26 October 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -37265,7 +37272,7 @@
     {
       "title": "Storage Standard",
       "shortname": "storage",
-      "date": "17 October 2022",
+      "date": "26 October 2022",
       "url": "https://storage.spec.whatwg.org/",
       "nightly": {
         "url": "https://storage.spec.whatwg.org/",
@@ -37925,7 +37932,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "24 October 2022",
+      "date": "26 October 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -38947,7 +38954,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "17 October 2022",
+      "date": "26 October 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -46599,7 +46606,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "17 October 2022",
+      "date": "26 October 2022",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",

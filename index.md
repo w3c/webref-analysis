@@ -12,7 +12,7 @@
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
-- Crawled version: 13 September 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
 - Shortname: tc39-intl-annexes
 
@@ -33,7 +33,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
-- Crawled version: 13 September 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - Shortname: tc39-intl-negotiation
 
@@ -54,7 +54,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
-- Crawled version: 13 September 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - Shortname: tc39-intl-numberformat
 
@@ -75,7 +75,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
-- Crawled version: 13 September 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - Shortname: tc39-intl-pluralrules
 
@@ -586,7 +586,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 24 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -742,7 +742,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 25 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -2647,7 +2647,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 04 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -2661,6 +2661,7 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
      * [`https://www.w3.org/TR/html/sec-forms.html`](https://www.w3.org/TR/html/sec-forms.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
@@ -8463,7 +8464,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 25 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -8488,7 +8489,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 25 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -9819,7 +9820,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 25 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -16332,7 +16333,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Crawled URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
-- Crawled version: 17 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Shortname: notifications
 
@@ -16390,7 +16391,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Crawled URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
-- Crawled version: 21 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Shortname: fs
 
@@ -16411,7 +16412,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Crawled URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
-- Crawled version: 17 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Shortname: storage
 
@@ -16511,7 +16512,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 17 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
@@ -16869,7 +16870,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 17 October 2022
+- Crawled version: 26 October 2022
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 
