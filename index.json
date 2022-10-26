@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-26T06:42:37.783Z",
+  "date": "2022-10-26T12:46:50.632Z",
   "stats": {
     "crawled": 501,
-    "errors": 1,
+    "errors": 0,
     "studied": 501
   },
   "results": [
@@ -3718,7 +3718,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17681,7 +17680,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "17 October 2022",
+      "date": "26 October 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -19435,7 +19434,7 @@
     {
       "title": "Encoding Standard",
       "shortname": "encoding",
-      "date": "17 October 2022",
+      "date": "26 October 2022",
       "url": "https://www.w3.org/TR/encoding/",
       "release": {
         "url": "https://www.w3.org/TR/encoding/",
@@ -20230,7 +20229,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "25 October 2022",
+      "date": "26 October 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24769,7 +24768,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "25 October 2022",
+      "date": "26 October 2022",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -43184,7 +43183,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "19 October 2022",
+      "date": "26 October 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -45255,7 +45254,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "20 October 2022",
+      "date": "26 October 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -45537,6 +45536,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://fetch.spec.whatwg.org/",
+              "title": "Fetch Standard",
+              "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -45557,11 +45561,6 @@
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
-            },
-            {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
               "url": "https://streams.spec.whatwg.org/",
