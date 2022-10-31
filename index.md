@@ -11551,7 +11551,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Crawled version: 27 October 2022
+- Crawled version: 31 October 2022
 - Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
 - Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Shortname: screen-orientation
@@ -11829,13 +11829,13 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
 Informative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
@@ -15698,7 +15698,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 27 October 2022
+- Crawled version: 31 October 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

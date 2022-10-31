@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-31T00:51:07.756Z",
+  "date": "2022-10-31T06:42:07.236Z",
   "stats": {
     "crawled": 501,
     "errors": 0,
@@ -22567,7 +22567,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 October 2022",
+      "date": "31 October 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -38055,7 +38055,7 @@
     {
       "title": "The Screen Orientation API",
       "shortname": "screen-orientation",
-      "date": "27 October 2022",
+      "date": "31 October 2022",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
@@ -40753,6 +40753,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
               "url": "https://wicg.github.io/webcrypto-secure-curves/",
               "title": "Secure Curves in the Web Cryptography API",
               "crawled": "https://wicg.github.io/webcrypto-secure-curves/"
@@ -40769,11 +40774,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
             {
               "url": "https://www.w3.org/TR/payment-handler/",
               "title": "Payment Handler API",
