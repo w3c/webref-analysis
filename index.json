@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-10-31T06:42:07.236Z",
+  "date": "2022-10-31T12:47:45.576Z",
   "stats": {
     "crawled": 501,
     "errors": 0,
@@ -2560,11 +2560,6 @@
               "url": "https://wicg.github.io/document-policy/",
               "title": "Document Policy",
               "crawled": "https://wicg.github.io/document-policy/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -19694,7 +19689,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "26 October 2022",
+      "date": "31 October 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19747,7 +19742,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "26 October 2022",
+      "date": "31 October 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -22251,11 +22246,6 @@
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -27063,7 +27053,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "30 October 2022",
+      "date": "31 October 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -29163,7 +29153,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "24 October 2022",
+      "date": "31 October 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -29193,20 +29183,12 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/hr-time-3/",
-            "ref": {
-              "name": "HR-TIME-3",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -40756,6 +40738,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://wicg.github.io/navigation-api/",
+              "title": "Navigation API",
+              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://wicg.github.io/webcrypto-secure-curves/",
