@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-01T00:49:37.630Z",
+  "date": "2022-11-01T06:43:47.316Z",
   "stats": {
     "crawled": 501,
     "errors": 0,
@@ -2737,7 +2737,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "31 October 2022",
+      "date": "1 November 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -17132,11 +17132,6 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
-            },
-            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -22639,7 +22634,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "31 October 2022",
+      "date": "1 November 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -29183,7 +29178,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "22 September 2022",
+      "date": "1 November 2022",
       "url": "https://www.w3.org/TR/window-placement/",
       "release": {
         "url": "https://www.w3.org/TR/window-placement/",
@@ -29216,15 +29211,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/cssom-view-1"
+        ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/cssom-view-1",
-            "ref": {
-              "name": "CSSOM-VIEW-1",
-              "url": "https://www.w3.org/TR/cssom-view/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/fingerprinting-guidance/",
             "ref": {

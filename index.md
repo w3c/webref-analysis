@@ -742,7 +742,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 31 October 2022
+- Crawled version: 1 November 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -7553,7 +7553,6 @@ Normative references to this spec from:
 
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
-- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
@@ -10355,21 +10354,22 @@ No informative reference to this spec from other specs.
 
 ## Second Screen Working Group {#group-second_screen_working_group}
 
-### Multi-Screen Window Placement {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Multi-Screen Window Placement {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Crawled URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
-- Crawled version: 22 September 2022
+- Crawled version: 1 November 2022
 - Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Latest published version: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Shortname: window-placement
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1), related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
      * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
      * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 
@@ -15711,7 +15711,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 31 October 2022
+- Crawled version: 1 November 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
