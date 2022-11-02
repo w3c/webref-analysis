@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-02T08:54:51.749Z",
+  "date": "2022-11-02T12:49:03.706Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -19772,7 +19772,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "01 November 2022",
+      "date": "02 November 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19825,7 +19825,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "01 November 2022",
+      "date": "02 November 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -26815,7 +26815,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "28 October 2022",
+      "date": "2 November 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
