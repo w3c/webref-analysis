@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-02T06:45:47.802Z",
+  "date": "2022-11-02T08:54:51.749Z",
   "stats": {
-    "crawled": 501,
+    "crawled": 502,
     "errors": 0,
-    "studied": 501
+    "studied": 502
   },
   "results": [
     {
@@ -2006,7 +2006,7 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -3607,7 +3607,7 @@
               "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -3922,7 +3922,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
@@ -3998,7 +3998,7 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -4439,7 +4439,7 @@
               "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
@@ -4810,7 +4810,7 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -4855,7 +4855,7 @@
               "crawled": "https://drafts.csswg.org/resize-observer-1/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
@@ -5128,7 +5128,7 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -6066,7 +6066,7 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -6101,7 +6101,7 @@
               "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -7533,7 +7533,7 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -7558,7 +7558,7 @@
               "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -8175,7 +8175,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             }
@@ -8942,7 +8942,7 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -9695,7 +9695,7 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -9870,7 +9870,7 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -11116,7 +11116,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -11366,7 +11366,7 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -11406,7 +11406,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -12942,7 +12942,7 @@
           ],
           "informative": [
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
@@ -13109,7 +13109,7 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
@@ -13358,7 +13358,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -14858,7 +14858,7 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -15224,7 +15224,7 @@
               "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -15742,7 +15742,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -16311,7 +16311,7 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -16396,7 +16396,7 @@
               "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -16519,7 +16519,11 @@
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
       "date": "25 October 2022",
-      "url": "https://drafts.csswg.org/css-view-transitions-1/",
+      "url": "https://www.w3.org/TR/css-view-transitions-1/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-view-transitions-1/",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-1/",
         "alternateUrls": [
@@ -16988,7 +16992,7 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -17023,7 +17027,7 @@
               "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -17136,7 +17140,7 @@
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -17972,7 +17976,7 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -18387,7 +18391,7 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -20979,6 +20983,11 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             }
           ],
           "informative": []
@@ -22669,10 +22678,10 @@
           "https://html.spec.whatwg.org/multipage/interaction.html",
           "https://html.spec.whatwg.org/multipage/dnd.html",
           "https://html.spec.whatwg.org/multipage/browsers.html",
-          "https://html.spec.whatwg.org/multipage/window-object.html",
-          "https://html.spec.whatwg.org/multipage/origin.html",
-          "https://html.spec.whatwg.org/multipage/history.html",
+          "https://html.spec.whatwg.org/multipage/nav-history-apis.html",
+          "https://html.spec.whatwg.org/multipage/document-sequences.html",
           "https://html.spec.whatwg.org/multipage/browsing-the-web.html",
+          "https://html.spec.whatwg.org/multipage/document-lifecycle.html",
           "https://html.spec.whatwg.org/multipage/webappapis.html",
           "https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html",
           "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html",
@@ -23088,7 +23097,7 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -23713,7 +23722,7 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -23871,6 +23880,11 @@
               "url": "https://drafts.csswg.org/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -25058,7 +25072,7 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -25576,6 +25590,11 @@
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -30509,6 +30528,11 @@
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -36342,7 +36366,11 @@
       "title": "Scroll-linked Animations",
       "shortname": "scroll-animations-1",
       "date": "25 October 2022",
-      "url": "https://drafts.csswg.org/scroll-animations-1/",
+      "url": "https://www.w3.org/TR/scroll-animations-1/",
+      "release": {
+        "url": "https://www.w3.org/TR/scroll-animations-1/",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://drafts.csswg.org/scroll-animations-1/",
         "alternateUrls": [
@@ -36423,7 +36451,13 @@
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            }
+          ]
         },
         "ok": false
       }
@@ -36848,7 +36882,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -36865,7 +36899,7 @@
           ],
           "informative": [
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             }
@@ -39308,6 +39342,11 @@
               "crawled": "https://wicg.github.io/urlpattern/"
             },
             {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -40148,7 +40187,7 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -40163,7 +40202,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -40274,6 +40313,47 @@
           ]
         },
         "ok": false
+      }
+    },
+    {
+      "title": "Web App Launch Handler API",
+      "shortname": "web-app-launch",
+      "date": "31 October 2022",
+      "url": "https://wicg.github.io/web-app-launch/",
+      "nightly": {
+        "url": "https://wicg.github.io/web-app-launch/",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/web-app-launch",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/web-app-launch/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
       }
     },
     {
@@ -40417,6 +40497,11 @@
               "url": "https://www.w3.org/TR/screen-orientation/",
               "title": "The Screen Orientation API",
               "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             },
             {
               "url": "https://w3c.github.io/web-share-target/",
@@ -41132,7 +41217,7 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-view-transitions-1/",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
@@ -41647,7 +41732,7 @@
               "crawled": "https://w3c.github.io/screen-wake-lock/"
             },
             {
-              "url": "https://drafts.csswg.org/scroll-animations-1/",
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
@@ -41780,6 +41865,11 @@
               "url": "https://drafts.csswg.org/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             },
             {
               "url": "https://www.w3.org/TR/webaudio/",

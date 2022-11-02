@@ -2,7 +2,7 @@
 % Strudy
 % November 02, 2022
 
-501 specifications were crawled in this report.
+502 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
