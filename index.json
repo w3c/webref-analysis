@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-02T12:49:03.706Z",
+  "date": "2022-11-02T18:42:41.803Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -810,7 +810,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "17 October 2022",
+      "date": "02 November 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -13737,7 +13737,7 @@
     {
       "title": "CSS Syntax Module Level 3",
       "shortname": "css-syntax-3",
-      "date": "1 November 2022",
+      "date": "30 October 2022",
       "url": "https://www.w3.org/TR/css-syntax-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -45119,7 +45119,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "1 November 2022",
+      "date": "2 November 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -45187,7 +45187,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "1 November 2022",
+      "date": "2 November 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
