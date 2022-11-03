@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-03T00:51:01.693Z",
+  "date": "2022-11-03T06:41:08.768Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -2737,7 +2737,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "1 November 2022",
+      "date": "3 November 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -22637,7 +22637,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "1 November 2022",
+      "date": "3 November 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -26104,7 +26104,7 @@
     {
       "title": "Intl Enumeration API Specification",
       "shortname": "tc39-intl-enumeration",
-      "date": "30 September 2022",
+      "date": "3 November 2022",
       "url": "https://tc39.es/proposal-intl-enumeration/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-enumeration/",
@@ -42418,7 +42418,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "21 September 2022",
+      "date": "03 November 2022",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
