@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-03T12:46:07.012Z",
+  "date": "2022-11-03T18:44:28.353Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -810,7 +810,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "02 November 2022",
+      "date": "03 November 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -2004,11 +2004,6 @@
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -5128,11 +5123,6 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
@@ -8173,13 +8163,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -13358,11 +13342,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -14858,11 +14837,6 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -16311,11 +16285,6 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-will-change-1/",
               "title": "CSS Will Change Module Level 1",
               "crawled": "https://drafts.csswg.org/css-will-change-1/"
@@ -16431,6 +16400,11 @@
               "url": "https://www.w3.org/TR/css-highlight-api-1/",
               "title": "CSS Custom Highlight API Module Level 1",
               "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -16990,11 +16964,6 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -18791,7 +18760,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "6 October 2022",
+      "date": "3 November 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -19772,7 +19741,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "02 November 2022",
+      "date": "03 November 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19825,7 +19794,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "02 November 2022",
+      "date": "03 November 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
