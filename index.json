@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-03T06:41:08.768Z",
+  "date": "2022-11-03T12:46:07.012Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -6886,7 +6886,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "26 October 2022",
+      "date": "3 November 2022",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -26815,7 +26815,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "2 November 2022",
+      "date": "3 November 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -37951,7 +37951,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "26 October 2022",
+      "date": "3 November 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
