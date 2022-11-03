@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 02, 2022
+% November 03, 2022
 
 502 specifications were crawled in this report.
 
@@ -1077,6 +1077,12 @@ Basically all specifications have normative dependencies on some other specifica
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) links to:
     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
     * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/) but does not list it in its references
+- [UI Events KeyboardEvent code Values](https://w3c.github.io/uievents-code/) links to:
+    * [`https://w3c.github.io/apa/fast/checklist.html`](https://w3c.github.io/apa/fast/checklist.html) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+- [UI Events KeyboardEvent key Values](https://w3c.github.io/uievents-key/) links to:
+    * [`https://w3c.github.io/apa/fast/checklist.html`](https://w3c.github.io/apa/fast/checklist.html) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/) but does not list it in its references
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) links to [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
@@ -1135,7 +1141,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 821 missing references for links found in 214 specifications
+=> 825 missing references for links found in 216 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
