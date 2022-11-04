@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-04T12:47:23.432Z",
+  "date": "2022-11-04T18:41:31.845Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -810,7 +810,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "03 November 2022",
+      "date": "04 November 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -2004,6 +2004,11 @@
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -3507,6 +3512,11 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport-1/"
@@ -3916,6 +3926,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
             {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
@@ -5129,6 +5144,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
@@ -13350,6 +13370,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -14845,6 +14870,11 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -16301,6 +16331,11 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-will-change-1/",
               "title": "CSS Will Change Module Level 1",
               "crawled": "https://drafts.csswg.org/css-will-change-1/"
@@ -16416,11 +16451,6 @@
               "url": "https://www.w3.org/TR/css-highlight-api-1/",
               "title": "CSS Custom Highlight API Module Level 1",
               "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -16545,8 +16575,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://fullscreen.spec.whatwg.org/",
-          "https://w3c.github.io/csswg-drafts/css-images-4/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
@@ -16980,6 +17008,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -21355,6 +21388,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/device-posture/",
@@ -25917,7 +25955,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "06 October 2022",
+      "date": "04 November 2022",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -39405,6 +39443,11 @@
               "crawled": "https://wicg.github.io/sanitizer-api/"
             },
             {
+              "url": "https://www.w3.org/TR/i18n-glossary/",
+              "title": "Internationalization Glossary",
+              "crawled": "https://w3c.github.io/i18n-glossary/"
+            },
+            {
               "url": "https://www.w3.org/TR/media-source-2/",
               "title": "Media Source Extensions™",
               "crawled": "https://w3c.github.io/media-source/"
@@ -40539,7 +40582,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "13 October 2022",
+      "date": "4 November 2022",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
