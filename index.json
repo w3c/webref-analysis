@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-04T00:49:07.853Z",
+  "date": "2022-11-04T06:43:02.644Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -3974,7 +3974,15 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/web-animations-1/",
+            "ref": {
+              "name": "WEB-ANIMATIONS",
+              "url": "https://drafts.csswg.org/web-animations-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -15084,7 +15092,15 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/web-animations-1/",
+            "ref": {
+              "name": "WEB-ANIMATIONS",
+              "url": "https://drafts.csswg.org/web-animations-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -15100,7 +15116,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -18828,7 +18844,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "2 November 2022",
+      "date": "4 November 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -22606,7 +22622,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "3 November 2022",
+      "date": "4 November 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -26784,7 +26800,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "3 November 2022",
+      "date": "4 November 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -40063,7 +40079,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "7 September 2022",
+      "date": "3 November 2022",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -42197,7 +42213,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "24 October 2022",
+      "date": "4 November 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",

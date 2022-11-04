@@ -1200,6 +1200,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/) links to [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but related reference "WEB-ANIMATIONS" uses URL [`https://drafts.csswg.org/web-animations-1/`](https://drafts.csswg.org/web-animations-1/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/) links to:
     * [`https://www.w3.org/TR/css-cascade-5/`](https://www.w3.org/TR/css-cascade-5/) but related reference "CSS-CASCADE-5" uses URL [`https://drafts.csswg.org/css-cascade-5/`](https://drafts.csswg.org/css-cascade-5/)
@@ -1451,6 +1452,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/) links to [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but related reference "WEB-ANIMATIONS" uses URL [`https://drafts.csswg.org/web-animations-1/`](https://drafts.csswg.org/web-animations-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/) but related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
@@ -1720,7 +1722,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 456 inconsistent references for links found in 185 specifications
+=> 458 inconsistent references for links found in 187 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
