@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-05T18:40:29.036Z",
+  "date": "2022-11-06T00:50:03.902Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -2737,7 +2737,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "4 November 2022",
+      "date": "5 November 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4150,7 +4150,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 4",
       "shortname": "css-backgrounds-4",
-      "date": "8 September 2022",
+      "date": "3 May 2022",
       "url": "https://drafts.csswg.org/css-backgrounds-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-backgrounds-4/",
@@ -4186,7 +4186,6 @@
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css3-background/",
-          "https://www.w3.org/TR/css3-transitions/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
@@ -4212,7 +4211,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "14 July 2022",
+      "date": "9 October 2022",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -4666,6 +4665,11 @@
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
               "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds and Borders Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -8122,6 +8126,11 @@
               "crawled": "https://drafts.csswg.org/css-break-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
@@ -9384,6 +9393,11 @@
               "crawled": "https://drafts.csswg.org/css-grid-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
@@ -9751,7 +9765,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "31 October 2022",
+      "date": "5 November 2022",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -9793,6 +9807,7 @@
           "https://www.w3.org/TR/2012/WD-css4-images-20120911/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css3-transitions/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
@@ -32741,7 +32756,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -32832,7 +32847,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -33087,7 +33102,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -33193,7 +33208,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -33272,7 +33287,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -34063,7 +34078,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -34102,7 +34117,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -34282,7 +34297,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -34648,7 +34663,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "5 November 2022",
+      "date": "6 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
