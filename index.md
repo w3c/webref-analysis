@@ -728,6 +728,7 @@ Informative references to this spec from:
 - [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
 - [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
 - [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
@@ -745,6 +746,27 @@ Informative references to this spec from:
 - Crawled version: 8 November 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Digest Fields {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
+- Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
+- Crawled version: 8 November 2022
+- Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
+- Shortname: digest-headers
 
 #### Potential issue(s) {.anomalies}
 
@@ -897,6 +919,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Digest Fields](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
@@ -966,6 +989,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Digest Fields](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
 - [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
@@ -994,6 +1018,27 @@ Informative references to this spec from:
 
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+
+
+### RFC 9163: Expect-CT Extension for HTTP {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
+- Crawled version: 8 November 2022
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
+- Shortname: rfc9163
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ## Hypertext Transfer Protocol Authentication Working Group {#group-hypertext_transfer_protocol_authentication_working_group}
@@ -1107,6 +1152,7 @@ Normative references to this spec from:
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
 - [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
@@ -1155,6 +1201,7 @@ Normative references to this spec from:
 - [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
+- [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
@@ -1380,6 +1427,37 @@ Informative references to this spec from:
 No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
+
+
+## Mark Nottingham (individual in art area) {#group-mark_nottingham_individual_in_art_area_}
+
+### RFC 8288 - Web Linking {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8288](https://www.rfc-editor.org/rfc/rfc8288)
+- Crawled URL: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
+- Crawled version: 21 August 2022
+- Editor's Draft: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
+- Shortname: rfc8288
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Media Feeds](https://wicg.github.io/media-feeds/)
+- [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+
+Informative references to this spec from:
+
+- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
 ## Network Working Group {#group-network_working_group}
@@ -15068,7 +15146,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 27 October 2022
+- Crawled version: 08 November 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -15694,6 +15772,7 @@ Informative references to this spec from:
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Push API](https://w3c.github.io/push-api/)
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
+- [RFC 9163: Expect-CT Extension for HTTP](https://www.rfc-editor.org/rfc/rfc9163)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [The <model> element](https://immersive-web.github.io/model-element/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -16071,6 +16150,7 @@ Informative references to this spec from:
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
 - [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+- [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 
 
