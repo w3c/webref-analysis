@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-08T06:42:05.775Z",
+  "date": "2022-11-08T12:48:21.451Z",
   "stats": {
     "crawled": 502,
     "errors": 0,
@@ -810,7 +810,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "07 November 2022",
+      "date": "08 November 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -20270,7 +20270,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "26 October 2022",
+      "date": "8 November 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -21036,7 +21036,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "1 November 2022",
+      "date": "8 November 2022",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
