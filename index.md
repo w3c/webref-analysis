@@ -1142,7 +1142,7 @@ Normative references to this spec from:
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
 - [RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://httpwg.org/specs/rfc7232.html)
 - [RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://httpwg.org/specs/rfc7233.html)
@@ -1485,7 +1485,7 @@ Normative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
@@ -7249,7 +7249,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 
 
 ### CSS Values and Units Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -7405,7 +7405,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 
 
@@ -10157,7 +10157,7 @@ Informative references to this spec from:
 - [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 
@@ -10302,7 +10302,7 @@ Informative references to this spec from:
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
@@ -12347,7 +12347,7 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 
 
 ### Device Memory {data-spec=true data-missingDfns=true data-ok=true}
@@ -12455,7 +12455,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Push API](https://w3c.github.io/push-api/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
@@ -12548,7 +12548,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
@@ -12645,14 +12645,14 @@ Normative references to this spec from:
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 
 Informative references to this spec from:
 
 - [Performance Timeline Level 2](https://w3c.github.io/performance-timeline/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 
 
@@ -12751,13 +12751,13 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Resource Timing Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Resource Timing {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Crawled URL: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
-- Crawled version: 27 October 2022
+- Crawled version: 10 November 2022
 - Editor's Draft: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
 - Latest published version: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Shortname: resource-timing
@@ -15583,7 +15583,7 @@ Normative references to this spec from:
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
@@ -15740,7 +15740,7 @@ Normative references to this spec from:
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
@@ -16036,7 +16036,7 @@ Normative references to this spec from:
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
 - [Resource Hints](https://w3c.github.io/resource-hints/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -16331,7 +16331,7 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
@@ -16905,7 +16905,7 @@ Normative references to this spec from:
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
@@ -17023,7 +17023,7 @@ Informative references to this spec from:
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
-- [Resource Timing Level 2](https://w3c.github.io/resource-timing/)
+- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebRTC 1.0: Real-Time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
 

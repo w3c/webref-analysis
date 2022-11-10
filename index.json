@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-10T12:44:20.366Z",
+  "date": "2022-11-10T18:38:13.900Z",
   "stats": {
     "crawled": 505,
     "errors": 1,
@@ -1406,7 +1406,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             }
           ]
@@ -15806,7 +15806,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             }
           ]
@@ -16475,7 +16475,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -18447,7 +18447,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -20635,7 +20635,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -22459,7 +22459,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -23778,7 +23778,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -25563,7 +25563,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -29448,7 +29448,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -30402,7 +30402,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -30424,7 +30424,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -32709,9 +32709,9 @@
       }
     },
     {
-      "title": "Resource Timing Level 2",
+      "title": "Resource Timing",
       "shortname": "resource-timing",
-      "date": "27 October 2022",
+      "date": "10 November 2022",
       "url": "https://www.w3.org/TR/resource-timing/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing/",
@@ -32879,7 +32879,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -33475,7 +33475,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -35689,7 +35689,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -36327,7 +36327,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -41966,7 +41966,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
@@ -47043,7 +47043,7 @@
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing Level 2",
+              "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
