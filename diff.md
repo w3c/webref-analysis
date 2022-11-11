@@ -1,26 +1,5 @@
-% Diff between report from "November 11, 2022" and reference report from "November 10, 2022"
+% Diff between report from "November 11, 2022" and reference report from "November 11, 2022"
 % Strudy
 % November 11, 2022
-
-## CSS 2
-
-- Initial URL: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 340)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)
-
-
-## Performance Timeline
-
-- Initial URL: [https://www.w3.org/TR/performance-timeline/](https://www.w3.org/TR/performance-timeline/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/performance-timeline/](https://w3c.github.io/performance-timeline/)
-- Spec title: *INS* Performance Timeline / *DEL* Performance Timeline Level 2
-
 
 
