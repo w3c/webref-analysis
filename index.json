@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-11T06:41:48.016Z",
+  "date": "2022-11-11T12:44:17.519Z",
   "stats": {
     "crawled": 505,
-    "errors": 0,
+    "errors": 1,
     "studied": 505
   },
   "results": [
@@ -3719,6 +3719,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26914,7 +26915,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "10 November 2022",
+      "date": "11 November 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -28641,7 +28642,7 @@
     {
       "title": "MIME Sniffing Standard",
       "shortname": "mimesniff",
-      "date": "17 October 2022",
+      "date": "11 November 2022",
       "url": "https://mimesniff.spec.whatwg.org/",
       "nightly": {
         "url": "https://mimesniff.spec.whatwg.org/",
