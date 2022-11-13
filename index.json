@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-13T06:37:44.083Z",
+  "date": "2022-11-13T12:43:43.873Z",
   "stats": {
     "crawled": 505,
-    "errors": 2,
+    "errors": 1,
     "studied": 505
   },
   "results": [
@@ -29353,7 +29353,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "31 October 2022",
+      "date": "13 November 2022",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
@@ -29371,7 +29371,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://wicg.github.io/navigation-api/ triggered HTTP status 503 Error: Loading https://wicg.github.io/navigation-api/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 171)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -29389,7 +29388,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
