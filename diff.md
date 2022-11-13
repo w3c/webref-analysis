@@ -1,4 +1,4 @@
-% Diff between report from "November 13, 2022" and reference report from "November 12, 2022"
+% Diff between report from "November 13, 2022" and reference report from "November 13, 2022"
 % Strudy
 % November 13, 2022
 
