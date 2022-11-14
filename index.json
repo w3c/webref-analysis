@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-14T00:47:51.391Z",
+  "date": "2022-11-14T06:39:53.346Z",
   "stats": {
     "crawled": 505,
     "errors": 0,
@@ -17178,14 +17178,14 @@
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-linked Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -18460,6 +18460,11 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/screen-wake-lock/",
               "title": "Screen Wake Lock API",
               "crawled": "https://w3c.github.io/screen-wake-lock/"
@@ -18518,11 +18523,6 @@
               "url": "https://w3c.github.io/mediacapture-handle/actions/",
               "title": "The Capture-Handle Actions Mechanism",
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",
@@ -19851,7 +19851,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "10 November 2022",
+      "date": "14 November 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19904,7 +19904,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "10 November 2022",
+      "date": "14 November 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -21502,7 +21502,7 @@
             },
             {
               "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
+              "title": "Screen Orientation",
               "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
@@ -23801,6 +23801,11 @@
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/screen-wake-lock/",
               "title": "Screen Wake Lock API",
               "crawled": "https://w3c.github.io/screen-wake-lock/"
@@ -23894,11 +23899,6 @@
               "url": "https://w3c.github.io/mediacapture-handle/actions/",
               "title": "The Capture-Handle Actions Mechanism",
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",
@@ -25571,6 +25571,11 @@
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/screen-wake-lock/",
               "title": "Screen Wake Lock API",
               "crawled": "https://w3c.github.io/screen-wake-lock/"
@@ -25634,11 +25639,6 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "Text Fragments",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",
@@ -28203,7 +28203,7 @@
             },
             {
               "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
+              "title": "Screen Orientation",
               "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
@@ -29670,7 +29670,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "7 November 2022",
+      "date": "14 November 2022",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -36499,6 +36499,93 @@
       }
     },
     {
+      "title": "Screen Orientation",
+      "shortname": "screen-orientation",
+      "date": "14 November 2022",
+      "url": "https://www.w3.org/TR/screen-orientation/",
+      "release": {
+        "url": "https://www.w3.org/TR/screen-orientation/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/screen-orientation/",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/screen-orientation",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/screen-orientation/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Applications Working Group",
+          "url": "https://www.w3.org/groups/wg/webapps"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/accelerometer/",
+              "title": "Accelerometer",
+              "crawled": "https://w3c.github.io/accelerometer/"
+            },
+            {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/device-posture/",
+              "title": "Device Posture API",
+              "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Multi-Screen Window Placement",
+              "crawled": "https://w3c.github.io/window-placement/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
       "date": "04 October 2022",
@@ -38392,93 +38479,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "ok": true
-      }
-    },
-    {
-      "title": "The Screen Orientation API",
-      "shortname": "screen-orientation",
-      "date": "09 November 2022",
-      "url": "https://www.w3.org/TR/screen-orientation/",
-      "release": {
-        "url": "https://www.w3.org/TR/screen-orientation/",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/screen-orientation/",
-        "alternateUrls": [],
-        "repository": "https://github.com/w3c/screen-orientation",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/screen-orientation/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/accelerometer/",
-              "title": "Accelerometer",
-              "crawled": "https://w3c.github.io/accelerometer/"
-            },
-            {
-              "url": "https://compat.spec.whatwg.org/",
-              "title": "Compatibility Standard",
-              "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/device-posture/",
-              "title": "Device Posture API",
-              "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/miniapp-manifest/",
-              "title": "MiniApp Manifest",
-              "crawled": "https://w3c.github.io/miniapp-manifest/"
-            },
-            {
-              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-              "title": "Prerendering Revamped",
-              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
-            }
-          ]
         },
         "ok": true
       }
@@ -40752,7 +40752,7 @@
             },
             {
               "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
+              "title": "Screen Orientation",
               "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
@@ -41984,6 +41984,11 @@
               "crawled": "https://w3c.github.io/mediacapture-screen-share/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/screen-wake-lock/",
               "title": "Screen Wake Lock API",
               "crawled": "https://w3c.github.io/screen-wake-lock/"
@@ -42052,11 +42057,6 @@
               "url": "https://w3c.github.io/mediacapture-handle/actions/",
               "title": "The Capture-Handle Actions Mechanism",
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-orientation/",
-              "title": "The Screen Orientation API",
-              "crawled": "https://w3c.github.io/screen-orientation/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",

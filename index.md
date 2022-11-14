@@ -7637,8 +7637,8 @@ Normative references to this spec from:
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
@@ -7889,7 +7889,7 @@ Normative references to this spec from:
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
@@ -8555,7 +8555,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 10 November 2022
+- Crawled version: 14 November 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -8580,7 +8580,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 10 November 2022
+- Crawled version: 14 November 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -10475,7 +10475,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Crawled URL: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
-- Crawled version: 7 November 2022
+- Crawled version: 14 November 2022
 - Editor's Draft: [https://w3c.github.io/openscreenprotocol/](https://w3c.github.io/openscreenprotocol/)
 - Latest published version: [https://www.w3.org/TR/openscreenprotocol/](https://www.w3.org/TR/openscreenprotocol/)
 - Shortname: openscreenprotocol
@@ -11624,6 +11624,38 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
+### Screen Orientation {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
+- Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
+- Crawled version: 14 November 2022
+- Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
+- Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
+- Shortname: screen-orientation
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [Device Posture API](https://w3c.github.io/device-posture/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Web Application Manifest](https://w3c.github.io/manifest/)
+
+Informative references to this spec from:
+
+- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
+
+
 ### Selection API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
@@ -11649,38 +11681,6 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 No informative reference to this spec from other specs.
-
-
-### The Screen Orientation API {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
-- Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Crawled version: 09 November 2022
-- Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
-- Shortname: screen-orientation
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Accelerometer](https://w3c.github.io/accelerometer/)
-- [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [Device Posture API](https://w3c.github.io/device-posture/)
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
-- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
-- [Web Application Manifest](https://w3c.github.io/manifest/)
-
-Informative references to this spec from:
-
-- [Multi-Screen Window Placement](https://w3c.github.io/window-placement/)
 
 
 ### UI Events {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -11785,7 +11785,7 @@ Normative references to this spec from:
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 
@@ -15586,6 +15586,7 @@ Normative references to this spec from:
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
@@ -15598,7 +15599,6 @@ Normative references to this spec from:
 - [SVG Animations](https://svgwg.org/specs/animations/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -15810,7 +15810,7 @@ Normative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
 
@@ -16041,6 +16041,7 @@ Normative references to this spec from:
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
@@ -16060,7 +16061,6 @@ Normative references to this spec from:
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [The <model> element](https://immersive-web.github.io/model-element/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
@@ -16333,6 +16333,7 @@ Normative references to this spec from:
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
@@ -16346,7 +16347,6 @@ Normative references to this spec from:
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [Test Utils Standard](https://testutils.spec.whatwg.org/)
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -16909,6 +16909,7 @@ Normative references to this spec from:
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
+- [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
@@ -16923,7 +16924,6 @@ Normative references to this spec from:
 - [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [The <model> element](https://immersive-web.github.io/model-element/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
-- [The Screen Orientation API](https://w3c.github.io/screen-orientation/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
