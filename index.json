@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-15T12:46:10.048Z",
+  "date": "2022-11-15T18:38:23.769Z",
   "stats": {
     "crawled": 505,
-    "errors": 1,
+    "errors": 0,
     "studied": 505
   },
   "results": [
@@ -229,7 +229,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -280,7 +280,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -1091,7 +1091,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1142,7 +1142,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -3719,7 +3719,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21309,7 +21308,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -22209,7 +22208,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -26859,7 +26858,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -26910,7 +26909,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "14 November 2022",
+      "date": "15 November 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -29235,7 +29234,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -29719,7 +29718,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -38764,7 +38763,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -40016,7 +40015,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -40067,7 +40066,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -40118,7 +40117,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -43033,7 +43032,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -43192,7 +43191,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "1 November 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
