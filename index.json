@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-16T18:38:10.305Z",
+  "date": "2022-11-17T00:49:53.896Z",
   "stats": {
     "crawled": 505,
     "errors": 0,
@@ -2737,7 +2737,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "15 November 2022",
+      "date": "16 November 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4119,6 +4119,11 @@
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://wicg.github.io/element-timing/",
@@ -6189,7 +6194,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade-3/",
-          "https://www.w3.org/TR/selectors-4/",
           "https://www.w3.org/TR/selectors/"
         ],
         "inconsistentRef": [
@@ -6454,6 +6458,11 @@
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -7012,6 +7021,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -8204,7 +8218,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "26 October 2022",
+      "date": "14 November 2022",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -8997,7 +9011,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module",
       "shortname": "css-gcpm-3",
-      "date": "27 June 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/css-gcpm-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-gcpm-3/",
@@ -9921,7 +9935,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "22 June 2022",
+      "date": "14 November 2022",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -11024,7 +11038,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "28 October 2022",
+      "date": "14 November 2022",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -12962,6 +12976,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -13306,7 +13325,7 @@
     {
       "title": "CSS Shapes Module Level 1",
       "shortname": "css-shapes-1",
-      "date": "22 June 2022",
+      "date": "15 November 2022",
       "url": "https://www.w3.org/TR/css-shapes-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-shapes-1/",
@@ -13347,9 +13366,8 @@
           "https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css3-background/",
-          "https://www.w3.org/TR/css3-transitions/",
           "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/html5/infrastructure.html",
+          "https://www.w3.org/TR/web-animations-1/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
@@ -16650,6 +16668,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-device-adapt-1/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport-1/"
@@ -17544,7 +17567,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "15 November 2022",
+      "date": "16 November 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -18933,7 +18956,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "10 November 2022",
+      "date": "16 November 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -20458,6 +20481,11 @@
               "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-shapes-1/",
+              "title": "CSS Shapes Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-shapes-1/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-shapes-2/",
               "title": "CSS Shapes Module Level 2",
               "crawled": "https://drafts.csswg.org/css-shapes-2/"
@@ -21219,6 +21247,11 @@
               "url": "https://www.w3.org/TR/css-transforms-2/",
               "title": "CSS Transforms Module Level 2",
               "crawled": "https://drafts.csswg.org/css-transforms-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://drafts.fxtf.org/filter-effects-2/",
@@ -26129,6 +26162,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://wicg.github.io/element-timing/",
@@ -32519,7 +32557,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "15 November 2022",
+      "date": "16 November 2022",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
@@ -32815,7 +32853,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -32906,7 +32944,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -33166,7 +33204,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -33272,7 +33310,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -33351,7 +33389,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -34152,7 +34190,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -34191,7 +34229,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -34371,7 +34409,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -34810,7 +34848,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -35232,7 +35270,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -37152,7 +37190,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "8 November 2022",
+      "date": "14 November 2022",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -40899,7 +40937,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "10 October 2022",
+      "date": "16 November 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -40934,7 +40972,8 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/IntersectionObserver/v2/",
-          "https://www.w3.org/TR/string-meta/"
+          "https://www.w3.org/TR/string-meta/",
+          "https://www.w3.org/TR/webauthn/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -40953,15 +40992,14 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
-            }
-          ],
-          "informative": [
+            },
             {
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
               "crawled": "https://w3c.github.io/webauthn/"
             }
-          ]
+          ],
+          "informative": []
         },
         "ok": false
       }
@@ -45371,7 +45409,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 November 2022",
+      "date": "16 November 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -45439,7 +45477,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 November 2022",
+      "date": "16 November 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
