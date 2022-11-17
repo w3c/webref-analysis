@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-17T00:49:53.896Z",
+  "date": "2022-11-17T06:39:39.813Z",
   "stats": {
     "crawled": 505,
     "errors": 0,
@@ -2737,7 +2737,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -17567,7 +17567,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -22754,7 +22754,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 November 2022",
+      "date": "17 November 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -26947,7 +26947,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -32557,7 +32557,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
@@ -45409,7 +45409,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -45477,7 +45477,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "16 November 2022",
+      "date": "17 November 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
