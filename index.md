@@ -13440,7 +13440,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Crawled URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
-- Crawled version: 15 November 2022
+- Crawled version: 19 November 2022
 - Editor's Draft: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Shortname: file-system-access
 
@@ -15835,7 +15835,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 18 November 2022
+- Crawled version: 19 November 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
