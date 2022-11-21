@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-21T06:39:46.525Z",
+  "date": "2022-11-21T12:45:21.939Z",
   "stats": {
     "crawled": 505,
     "errors": 0,
@@ -2184,7 +2184,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "19 November 2022",
+      "date": "21 November 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -27285,7 +27285,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "01 November 2022",
+      "date": "21 November 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -43550,7 +43550,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "4 November 2022",
+      "date": "21 November 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
