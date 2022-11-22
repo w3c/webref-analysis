@@ -3379,7 +3379,6 @@ Normative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
-- [Element Timing API](https://wicg.github.io/element-timing/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 
@@ -4482,7 +4481,6 @@ Normative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
-- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
@@ -8527,7 +8525,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Crawled URL: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
-- Crawled version: 04 October 2022
+- Crawled version: 22 November 2022
 - Editor's Draft: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
 - Latest published version: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Shortname: screen-wake-lock
@@ -13356,24 +13354,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Element Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Element Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Crawled URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
-- Crawled version: 14 March 2022
+- Crawled version: 22 November 2022
 - Editor's Draft: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Shortname: element-timing
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/resource-timing`](https://w3c.github.io/resource-timing)
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/IntersectionObserver`](https://w3c.github.io/IntersectionObserver), related reference "INTERSECTION-OBSERVER" uses URL [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
-     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/), related reference "INTERSECTION-OBSERVER" uses URL [`https://www.w3.org/TR/intersection-observer/`](https://www.w3.org/TR/intersection-observer/)
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15695,7 +15689,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 8 November 2022
+- Crawled version: 21 November 2022
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -15734,6 +15728,7 @@ Normative references to this spec from:
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [Document Policy](https://wicg.github.io/document-policy/)
+- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [File API](https://w3c.github.io/FileAPI/)

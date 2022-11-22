@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-22T06:38:42.866Z",
+  "date": "2022-11-22T12:45:04.336Z",
   "stats": {
     "crawled": 505,
     "errors": 1,
@@ -4137,11 +4137,6 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -7589,11 +7584,6 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -19573,7 +19563,7 @@
     {
       "title": "Element Timing API",
       "shortname": "element-timing",
-      "date": "14 March 2022",
+      "date": "22 November 2022",
       "url": "https://wicg.github.io/element-timing/",
       "nightly": {
         "url": "https://wicg.github.io/element-timing/",
@@ -19602,29 +19592,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/resource-timing"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/IntersectionObserver",
+            "link": "https://www.w3.org/TR/hr-time-2/",
             "ref": {
-              "name": "INTERSECTION-OBSERVER",
-              "url": "https://www.w3.org/TR/intersection-observer/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/IntersectionObserver/",
-            "ref": {
-              "name": "INTERSECTION-OBSERVER",
-              "url": "https://www.w3.org/TR/intersection-observer/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/performance-timeline/",
-            "ref": {
-              "name": "PERFORMANCE-TIMELINE",
-              "url": "https://www.w3.org/TR/performance-timeline/"
+              "name": "HR-TIME-2",
+              "url": "https://w3c.github.io/hr-time/"
             }
           }
         ],
@@ -20446,7 +20420,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "8 November 2022",
+      "date": "21 November 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -20616,6 +20590,11 @@
               "url": "https://wicg.github.io/document-policy/",
               "title": "Document Policy",
               "crawled": "https://wicg.github.io/document-policy/"
+            },
+            {
+              "url": "https://wicg.github.io/element-timing/",
+              "title": "Element Timing API",
+              "crawled": "https://wicg.github.io/element-timing/"
             },
             {
               "url": "https://fedidcg.github.io/FedCM/",
@@ -36738,7 +36717,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "04 October 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
