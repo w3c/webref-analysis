@@ -21,14 +21,6 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>505 specifications were crawled in this report.</p>
-  <section id="specifications-that-could-not-be-rendered" class="level2">
-  <h2>Specifications that could not be rendered</h2>
-  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
-  <ul>
-  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a>: <code>Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'   at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)   at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)   at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)   at async Promise.all (index 340)   at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)</code></li>
-  </ul>
-  <p>=&gt; 1 specification found</p>
-  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -268,6 +260,13 @@
   <li><a href="https://www.w3.org/TR/fingerprinting-guidance/"><code>https://www.w3.org/TR/fingerprinting-guidance/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://w3c.github.io/webappsec-credential-management/">Credential Management Level 1</a> links to <a href="https://w3c.github.io/webappsec/usecases/credentialmanagement/"><code>https://w3c.github.io/webappsec/usecases/credentialmanagement/</code></a> but does not list it in its references</li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
+  </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
   <ul>
   <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a> but does not list it in its references</li>
@@ -1436,7 +1435,7 @@
   <li><a href="https://immersive-web.github.io/raw-camera-access/">WebXR Raw Camera Access Module</a> links to <a href="https://www.w3.org/TR/mediacapture-streams/"><code>https://www.w3.org/TR/mediacapture-streams/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 815 missing references for links found in 214 specifications</p>
+  <p>=&gt; 819 missing references for links found in 215 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -1496,6 +1495,12 @@
   <li><a href="https://w3c.github.io/aria/"><code>https://w3c.github.io/aria/</code></a> but related reference “WAI-ARIA-1.2” uses URL <a href="https://www.w3.org/TR/wai-aria-1.2/"><code>https://www.w3.org/TR/wai-aria-1.2/</code></a></li>
   </ul></li>
   <li><a href="https://wicg.github.io/crash-reporting/">Crash Reporting</a> links to <a href="https://w3c.github.io/reporting/"><code>https://w3c.github.io/reporting/</code></a> but related reference “REPORTING” uses URL <a href="https://www.w3.org/TR/reporting-1/"><code>https://www.w3.org/TR/reporting-1/</code></a></li>
+  <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html</code></a> but related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html"><code>https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html"><code>https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html</code></a> but related reference “CSS20” uses URL <a href="https://www.w3.org/TR/1998/REC-CSS2-19980512/"><code>https://www.w3.org/TR/1998/REC-CSS2-19980512/</code></a></li>
+  </ul></li>
   <li><a href="https://drafts.csswg.org/css2/">CSS 2</a> links to:
   <ul>
   <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html</code></a> but related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
@@ -2244,7 +2249,7 @@
   <li><a href="https://www.w3.org/TR/webxr/"><code>https://www.w3.org/TR/webxr/</code></a> but related reference “WEBXR” uses URL <a href="https://immersive-web.github.io/webxr/"><code>https://immersive-web.github.io/webxr/</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 464 inconsistent references for links found in 187 specifications</p>
+  <p>=&gt; 467 inconsistent references for links found in 188 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">

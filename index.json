@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-22T12:45:04.336Z",
+  "date": "2022-11-22T18:38:28.392Z",
   "stats": {
     "crawled": 505,
-    "errors": 1,
+    "errors": 0,
     "studied": 505
   },
   "results": [
@@ -954,7 +954,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "21 November 2022",
+      "date": "22 November 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3719,7 +3719,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -30820,7 +30819,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "21 September 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -41332,7 +41331,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "15 November 2022",
+      "date": "22 November 2022",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -46043,7 +46042,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "25 October 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
