@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-23T00:48:04.456Z",
+  "date": "2022-11-23T06:36:13.507Z",
   "stats": {
     "crawled": 505,
-    "errors": 0,
+    "errors": 1,
     "studied": 505
   },
   "results": [
@@ -3719,6 +3719,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -32652,7 +32653,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "18 November 2022",
+      "date": "23 November 2022",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
