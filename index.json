@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-24T12:45:40.771Z",
+  "date": "2022-11-24T18:37:10.558Z",
   "stats": {
     "crawled": 505,
-    "errors": 0,
+    "errors": 1,
     "studied": 505
   },
   "results": [
@@ -3719,6 +3719,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11464,11 +11465,6 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
-              "url": "https://www.w3.org/TR/mathml-core/",
-              "title": "MathML Core",
-              "crawled": "https://w3c.github.io/mathml-core/"
-            },
-            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -14001,7 +13997,13 @@
               "crawled": "https://quirks.spec.whatwg.org/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/WGSL/",
+              "title": "WebGPU Shading Language",
+              "crawled": "https://gpuweb.github.io/gpuweb/wgsl/"
+            }
+          ]
         },
         "ok": false
       }
@@ -17894,7 +17896,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "26 October 2022",
+      "date": "24 November 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -17924,8 +17926,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/deviceorientation/spec-source-orientation.html",
-          "https://www.w3.org/TR/selectors-4/"
+          "https://w3c.github.io/deviceorientation/spec-source-orientation.html"
         ],
         "inconsistentRef": [
           {
@@ -19959,7 +19960,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "22 November 2022",
+      "date": "24 November 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -20012,7 +20013,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "22 November 2022",
+      "date": "24 November 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -21528,7 +21529,7 @@
     {
       "title": "Fullscreen API Standard",
       "shortname": "fullscreen",
-      "date": "17 October 2022",
+      "date": "24 November 2022",
       "url": "https://fullscreen.spec.whatwg.org/",
       "nightly": {
         "url": "https://fullscreen.spec.whatwg.org/",
@@ -21557,10 +21558,16 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/screen-orientation/"
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/screen-orientation/",
+            "ref": {
+              "name": "SCREEN-ORIENTATION",
+              "url": "https://w3c.github.io/screen-orientation/"
+            }
+          }
         ],
-        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -22849,7 +22856,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "22 November 2022",
+      "date": "24 November 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -27380,7 +27387,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "21 November 2022",
+      "date": "24 November 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -36682,6 +36689,11 @@
               "crawled": "https://w3c.github.io/device-posture/"
             },
             {
+              "url": "https://fullscreen.spec.whatwg.org/",
+              "title": "Fullscreen API Standard",
+              "crawled": "https://fullscreen.spec.whatwg.org/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -43650,7 +43662,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "23 November 2022",
+      "date": "24 November 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -45499,7 +45511,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "23 November 2022",
+      "date": "24 November 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -45567,7 +45579,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "23 November 2022",
+      "date": "24 November 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

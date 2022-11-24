@@ -2943,7 +2943,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 23 November 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -3187,7 +3187,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3200,15 +3200,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
+    at async Promise.all (index 340)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5793,7 +5793,6 @@ Normative references to this spec from:
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
-- [MathML Core](https://w3c.github.io/mathml-core/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
@@ -6699,7 +6698,9 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
 
 
 ### CSS Text Decoration Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -8576,7 +8577,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 22 November 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -8601,7 +8602,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 22 November 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -8629,7 +8630,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 23 November 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -8657,7 +8658,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 23 November 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -9194,7 +9195,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 21 November 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -11668,6 +11669,7 @@ Normative references to this spec from:
 - [Accelerometer](https://w3c.github.io/accelerometer/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
+- [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
@@ -15459,7 +15461,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 26 October 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
@@ -15467,7 +15469,6 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html)
-     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/), related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
 
@@ -15799,20 +15800,20 @@ Informative references to this spec from:
 
 ## Fullscreen API Workstream {#group-fullscreen_api_workstream}
 
-### Fullscreen API Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Fullscreen API Standard {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Crawled URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
-- Crawled version: 17 October 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Shortname: fullscreen
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/screen-orientation/`](https://www.w3.org/TR/screen-orientation/), related reference "SCREEN-ORIENTATION" uses URL [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15851,7 +15852,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 22 November 2022
+- Crawled version: 24 November 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
