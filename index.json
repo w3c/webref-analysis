@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-25T12:46:31.458Z",
+  "date": "2022-11-25T18:37:35.465Z",
   "stats": {
     "crawled": 505,
     "errors": 0,
@@ -9618,14 +9618,6 @@
                 ],
                 "value": "<extent-keyword> | <length [0,∞]> | <length-percentage [0,∞]>{2}"
               }
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "<extent-keyword>"
-                ],
-                "value": "closest-corner | closest-side | farthest-corner | farthest-side"
-              }
             }
           ],
           "idl": []
@@ -9643,6 +9635,13 @@
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/2019/CR-css-images-3-20191010/",
+            "ref": {
+              "name": "CSS-IMAGES-3",
+              "url": "https://drafts.csswg.org/css-images-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-images-3/",
             "ref": {
               "name": "CSS-IMAGES-3",
               "url": "https://drafts.csswg.org/css-images-3/"
@@ -9872,6 +9871,13 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-images-3/",
+            "ref": {
+              "name": "CSS3-IMAGES",
+              "url": "https://drafts.csswg.org/css-images-3/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
@@ -29032,7 +29038,7 @@
     {
       "title": "MiniApp Manifest",
       "shortname": "miniapp-manifest",
-      "date": "27 October 2022",
+      "date": "25 November 2022",
       "url": "https://www.w3.org/TR/miniapp-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -29372,6 +29378,13 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-images-3/",
+            "ref": {
+              "name": "CSS-IMAGES-3",
+              "url": "https://drafts.csswg.org/css-images-3/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
@@ -45548,7 +45561,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "24 November 2022",
+      "date": "25 November 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -45616,7 +45629,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "24 November 2022",
+      "date": "25 November 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
