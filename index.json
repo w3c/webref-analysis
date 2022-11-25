@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-25T06:36:22.698Z",
+  "date": "2022-11-25T12:46:31.458Z",
   "stats": {
     "crawled": 505,
-    "errors": 1,
+    "errors": 0,
     "studied": 505
   },
   "results": [
@@ -3719,7 +3719,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5636,7 +5635,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 5",
       "shortname": "css-cascade-5",
-      "date": "21 October 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -9578,7 +9577,7 @@
     {
       "title": "CSS Images Module Level 3",
       "shortname": "css-images-3",
-      "date": "1 July 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/css-images-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-3/",
@@ -9611,7 +9610,24 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "<size>"
+                ],
+                "value": "<extent-keyword> | <length [0,∞]> | <length-percentage [0,∞]>{2}"
+              }
+            },
+            {
+              "expected": {
+                "linkingText": [
+                  "<extent-keyword>"
+                ],
+                "value": "closest-corner | closest-side | farthest-corner | farthest-side"
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -9625,6 +9641,13 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2019/CR-css-images-3-20191010/",
+            "ref": {
+              "name": "CSS-IMAGES-3",
+              "url": "https://drafts.csswg.org/css-images-3/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
@@ -9696,6 +9719,11 @@
               "url": "https://www.w3.org/TR/css-grid-2/",
               "title": "CSS Grid Layout Module Level 2",
               "crawled": "https://drafts.csswg.org/css-grid-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "CSS Images Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -11170,6 +11198,11 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
               "crawled": "https://w3c.github.io/input-events/"
@@ -11509,7 +11542,7 @@
     {
       "title": "CSS Overflow Module Level 4",
       "shortname": "css-overflow-4",
-      "date": "10 August 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/css-overflow-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -11547,7 +11580,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css3-transitions/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/security-privacy-questionnaire/",
           "https://www.w3.org/TR/web-animations/"
@@ -13894,7 +13926,7 @@
     {
       "title": "CSS Table Module Level 3",
       "shortname": "css-tables-3",
-      "date": "13 July 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/css-tables-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-tables-3/",
@@ -16679,7 +16711,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "21 November 2022",
+      "date": "24 November 2022",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -20420,7 +20452,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "23 November 2022",
+      "date": "25 November 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -21328,6 +21360,11 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "CSS Images Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-masking-1/",
@@ -35710,11 +35747,6 @@
               "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -35800,6 +35832,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "CSS Images Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -36233,11 +36270,6 @@
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -36433,6 +36465,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "CSS Images Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -37297,7 +37334,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "14 November 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -40480,7 +40517,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "21 November 2022",
+      "date": "22 November 2022",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -47093,7 +47130,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "26 October 2022",
+      "date": "25 November 2022",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
