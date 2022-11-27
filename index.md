@@ -3187,7 +3187,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### CSS 2 {data-spec=true data-error=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3200,15 +3200,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 340)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9876,6 +9876,30 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+## Mobile Web Test Suites Working Group {#group-mobile_web_test_suites_working_group}
+
+### A Method for Writing Testable Conformance Requirements {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/test-methodology/](https://www.w3.org/TR/test-methodology/)
+- Crawled URL: [https://www.w3.org/TR/test-methodology/](https://www.w3.org/TR/test-methodology/)
+- Crawled version: 28 January 2010
+- Editor's Draft: [https://www.w3.org/TR/test-methodology/](https://www.w3.org/TR/test-methodology/)
+- Latest published version: [https://www.w3.org/TR/test-methodology/](https://www.w3.org/TR/test-methodology/)
+- Shortname: test-methodology
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ## Patents and Standards Interest Group {#group-patents_and_standards_interest_group}
 
 ### W3C Patent Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -10041,6 +10065,138 @@ Informative references to this spec from:
 
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+
+
+## RDF Dataset Canonicalization and Hash Working Group {#group-rdf_dataset_canonicalization_and_hash_working_group}
+
+### RDF Dataset Canonicalization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
+- Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
+- Crawled version: 26 November 2022
+- Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
+- Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
+- Shortname: rdf-canon
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/epub-33/`](https://www.w3.org/TR/epub-33/)
+     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+## RDF Working Group {#group-rdf_working_group}
+
+### RDF 1.1 Concepts and Abstract Syntax {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/)
+- Crawled URL: [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/)
+- Crawled version: 25 February 2014
+- Editor's Draft: [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/)
+- Latest published version: [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/)
+- Shortname: rdf11-concepts
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/owl2-syntax/`](http://www.w3.org/TR/owl2-syntax/)
+     * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/1999/REC-xml-names-19990114/`](http://www.w3.org/TR/1999/REC-xml-names-19990114/), related reference "XML-NAMES" uses URL [`http://www.w3.org/TR/xml-names`](http://www.w3.org/TR/xml-names)
+     * [`http://www.w3.org/TR/2000/REC-xml-20001006`](http://www.w3.org/TR/2000/REC-xml-20001006), related reference "XML10" uses URL [`http://www.w3.org/TR/xml`](http://www.w3.org/TR/xml)
+     * [`http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/`](http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/), related reference "XML-EXC-C14N" uses URL [`http://www.w3.org/TR/xml-exc-c14n`](http://www.w3.org/TR/xml-exc-c14n)
+     * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/), related reference "RDF11-SCHEMA" uses URL [`http://www.w3.org/TR/2014/REC-rdf-schema-20140225/`](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
+     * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/), related reference "RDF11-XML" uses URL [`http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/`](http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/)
+     * [`http://www.w3.org/TR/rdf11-datasets/`](http://www.w3.org/TR/rdf11-datasets/), related reference "RDF11-DATASETS" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/)
+     * [`http://www.w3.org/TR/rdf11-mt/`](http://www.w3.org/TR/rdf11-mt/), related reference "RDF11-MT" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/)
+     * [`http://www.w3.org/TR/rdf11-new/`](http://www.w3.org/TR/rdf11-new/), related reference "RDF11-NEW" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/)
+     * [`http://www.w3.org/TR/rdf11-primer/`](http://www.w3.org/TR/rdf11-primer/), related reference "RDF11-PRIMER" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/)
+     * [`http://www.w3.org/TR/rdf11-testcases/`](http://www.w3.org/TR/rdf11-testcases/), related reference "RDF11-TESTCASES" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/)
+     * [`http://www.w3.org/TR/trig/`](http://www.w3.org/TR/trig/), related reference "TRIG" uses URL [`http://www.w3.org/TR/2014/REC-trig-20140225/`](http://www.w3.org/TR/2014/REC-trig-20140225/)
+     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/), related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [RDF 1.1 N-Quads](https://www.w3.org/TR/n-quads/)
+- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/)
+- [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
+
+No informative reference to this spec from other specs.
+
+
+### RDF 1.1 N-Quads {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/n-quads/](https://www.w3.org/TR/n-quads/)
+- Crawled URL: [https://www.w3.org/TR/n-quads/](https://www.w3.org/TR/n-quads/)
+- Crawled version: 25 February 2014
+- Editor's Draft: [https://www.w3.org/TR/n-quads/](https://www.w3.org/TR/n-quads/)
+- Latest published version: [https://www.w3.org/TR/n-quads/](https://www.w3.org/TR/n-quads/)
+- Shortname: n-quads
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/n-triples/`](http://www.w3.org/TR/n-triples/), related reference "N-TRIPLES" uses URL [`http://www.w3.org/TR/2014/REC-n-triples-20140225/`](http://www.w3.org/TR/2014/REC-n-triples-20140225/)
+     * [`http://www.w3.org/TR/rdf11-concepts/`](http://www.w3.org/TR/rdf11-concepts/), related reference "RDF11-CONCEPTS" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
+     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/), related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
+
+
+### RDF 1.1 Semantics {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/rdf11-mt/](https://www.w3.org/TR/rdf11-mt/)
+- Crawled URL: [https://www.w3.org/TR/rdf11-mt/](https://www.w3.org/TR/rdf11-mt/)
+- Crawled version: 25 February 2014
+- Editor's Draft: [https://www.w3.org/TR/rdf11-mt/](https://www.w3.org/TR/rdf11-mt/)
+- Latest published version: [https://www.w3.org/TR/rdf11-mt/](https://www.w3.org/TR/rdf11-mt/)
+- Shortname: rdf11-mt
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/), related reference "RDF11-SCHEMA" uses URL [`http://www.w3.org/TR/2014/REC-rdf-schema-20140225/`](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
+     * [`http://www.w3.org/TR/rdf11-concepts/`](http://www.w3.org/TR/rdf11-concepts/), related reference "RDF11-CONCEPTS" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
+     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/), related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
+- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
+
+Informative references to this spec from:
+
+- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 
 
 ## SVG Working Group {#group-svg_working_group}
@@ -15683,6 +15839,7 @@ Informative references to this spec from:
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
+- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
@@ -16176,6 +16333,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
+- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 - [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
@@ -16358,6 +16516,7 @@ Normative references to this spec from:
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Push API](https://w3c.github.io/push-api/)
+- [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)

@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-27T12:41:36.984Z",
+  "date": "2022-11-27T18:45:12.819Z",
   "stats": {
-    "crawled": 505,
-    "errors": 1,
-    "studied": 505
+    "crawled": 510,
+    "errors": 0,
+    "studied": 510
   },
   "results": [
     {
@@ -150,6 +150,49 @@
         {
           "name": "TC39",
           "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "A Method for Writing Testable Conformance Requirements",
+      "shortname": "test-methodology",
+      "date": "28 January 2010",
+      "url": "https://www.w3.org/TR/test-methodology/",
+      "release": {
+        "url": "https://www.w3.org/TR/test-methodology/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://www.w3.org/TR/test-methodology/",
+        "alternateUrls": [],
+        "filename": "Overview.html"
+      },
+      "crawled": "https://www.w3.org/TR/test-methodology/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Mobile Web Test Suites Working Group",
+          "url": "https://www.w3.org/2005/MWI/Tests/"
         }
       ],
       "report": {
@@ -3719,7 +3762,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18961,6 +19003,11 @@
               "crawled": "https://infra.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/rdf11-concepts/",
+              "title": "RDF 1.1 Concepts and Abstract Syntax",
+              "crawled": "https://www.w3.org/TR/rdf11-concepts/"
+            },
+            {
               "url": "https://www.w3.org/TR/requestidlecallback/",
               "title": "requestIdleCallback()",
               "crawled": "https://w3c.github.io/requestidlecallback/"
@@ -24492,6 +24539,11 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
+              "url": "https://www.w3.org/TR/rdf11-concepts/",
+              "title": "RDF 1.1 Concepts and Abstract Syntax",
+              "crawled": "https://www.w3.org/TR/rdf11-concepts/"
+            },
+            {
               "url": "https://www.rfc-editor.org/rfc/rfc7538",
               "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
               "crawled": "https://httpwg.org/specs/rfc7538.html"
@@ -25723,6 +25775,11 @@
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf-canon/",
+              "title": "RDF Dataset Canonicalization",
+              "crawled": "https://w3c.github.io/rdf-canon/spec/"
             },
             {
               "url": "https://www.w3.org/TR/referrer-policy/",
@@ -32189,6 +32246,376 @@
           ]
         },
         "ok": true
+      }
+    },
+    {
+      "title": "RDF 1.1 Concepts and Abstract Syntax",
+      "shortname": "rdf11-concepts",
+      "date": "25 February 2014",
+      "url": "https://www.w3.org/TR/rdf11-concepts/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf11-concepts/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://www.w3.org/TR/rdf11-concepts/",
+        "alternateUrls": [],
+        "filename": "Overview.html"
+      },
+      "crawled": "https://www.w3.org/TR/rdf11-concepts/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF Working Group",
+          "url": "https://www.w3.org/2011/rdf-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/owl2-syntax/",
+          "http://www.w3.org/TR/rdf-sparql-query/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "http://www.w3.org/TR/1999/REC-xml-names-19990114/",
+            "ref": {
+              "name": "XML-NAMES",
+              "url": "http://www.w3.org/TR/xml-names"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/2000/REC-xml-20001006",
+            "ref": {
+              "name": "XML10",
+              "url": "http://www.w3.org/TR/xml"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/",
+            "ref": {
+              "name": "XML-EXC-C14N",
+              "url": "http://www.w3.org/TR/xml-exc-c14n"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf-schema/",
+            "ref": {
+              "name": "RDF11-SCHEMA",
+              "url": "http://www.w3.org/TR/2014/REC-rdf-schema-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf-syntax-grammar/",
+            "ref": {
+              "name": "RDF11-XML",
+              "url": "http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf11-datasets/",
+            "ref": {
+              "name": "RDF11-DATASETS",
+              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf11-mt/",
+            "ref": {
+              "name": "RDF11-MT",
+              "url": "http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf11-new/",
+            "ref": {
+              "name": "RDF11-NEW",
+              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf11-primer/",
+            "ref": {
+              "name": "RDF11-PRIMER",
+              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf11-testcases/",
+            "ref": {
+              "name": "RDF11-TESTCASES",
+              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/trig/",
+            "ref": {
+              "name": "TRIG",
+              "url": "http://www.w3.org/TR/2014/REC-trig-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/turtle/",
+            "ref": {
+              "name": "TURTLE",
+              "url": "http://www.w3.org/TR/2014/REC-turtle-20140225/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-framing/",
+              "title": "JSON-LD 1.1 Framing",
+              "crawled": "https://w3c.github.io/json-ld-framing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/n-quads/",
+              "title": "RDF 1.1 N-Quads",
+              "crawled": "https://www.w3.org/TR/n-quads/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf11-mt/",
+              "title": "RDF 1.1 Semantics",
+              "crawled": "https://www.w3.org/TR/rdf11-mt/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf-canon/",
+              "title": "RDF Dataset Canonicalization",
+              "crawled": "https://w3c.github.io/rdf-canon/spec/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "RDF 1.1 N-Quads",
+      "shortname": "n-quads",
+      "date": "25 February 2014",
+      "url": "https://www.w3.org/TR/n-quads/",
+      "release": {
+        "url": "https://www.w3.org/TR/n-quads/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://www.w3.org/TR/n-quads/",
+        "alternateUrls": [],
+        "filename": "Overview.html"
+      },
+      "crawled": "https://www.w3.org/TR/n-quads/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF Working Group",
+          "url": "https://www.w3.org/2011/rdf-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "http://www.w3.org/TR/n-triples/",
+            "ref": {
+              "name": "N-TRIPLES",
+              "url": "http://www.w3.org/TR/2014/REC-n-triples-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf11-concepts/",
+            "ref": {
+              "name": "RDF11-CONCEPTS",
+              "url": "http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/turtle/",
+            "ref": {
+              "name": "TURTLE",
+              "url": "http://www.w3.org/TR/2014/REC-turtle-20140225/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/rdf-canon/",
+              "title": "RDF Dataset Canonicalization",
+              "crawled": "https://w3c.github.io/rdf-canon/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "RDF 1.1 Semantics",
+      "shortname": "rdf11-mt",
+      "date": "25 February 2014",
+      "url": "https://www.w3.org/TR/rdf11-mt/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf11-mt/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://www.w3.org/TR/rdf11-mt/",
+        "alternateUrls": [],
+        "filename": "Overview.html"
+      },
+      "crawled": "https://www.w3.org/TR/rdf11-mt/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF Working Group",
+          "url": "https://www.w3.org/2011/rdf-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/xml11/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "http://www.w3.org/TR/rdf-schema/",
+            "ref": {
+              "name": "RDF11-SCHEMA",
+              "url": "http://www.w3.org/TR/2014/REC-rdf-schema-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/rdf11-concepts/",
+            "ref": {
+              "name": "RDF11-CONCEPTS",
+              "url": "http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/turtle/",
+            "ref": {
+              "name": "TURTLE",
+              "url": "http://www.w3.org/TR/2014/REC-turtle-20140225/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/json-ld11/",
+              "title": "JSON-LD 1.1",
+              "crawled": "https://w3c.github.io/json-ld-syntax/"
+            },
+            {
+              "url": "https://www.w3.org/TR/json-ld11-api/",
+              "title": "JSON-LD 1.1 Processing Algorithms and API",
+              "crawled": "https://w3c.github.io/json-ld-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf-canon/",
+              "title": "RDF Dataset Canonicalization",
+              "crawled": "https://w3c.github.io/rdf-canon/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/rdf11-concepts/",
+              "title": "RDF 1.1 Concepts and Abstract Syntax",
+              "crawled": "https://www.w3.org/TR/rdf11-concepts/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "RDF Dataset Canonicalization",
+      "shortname": "rdf-canon",
+      "date": "26 November 2022",
+      "url": "https://www.w3.org/TR/rdf-canon/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf-canon/",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-canon/spec/",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-canon",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-canon/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF Dataset Canonicalization and Hash Working Group",
+          "url": "https://www.w3.org/groups/wg/rch"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/epub-33/",
+          "https://www.w3.org/TR/pub-manifest/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
       }
     },
     {

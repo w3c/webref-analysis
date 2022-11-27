@@ -2,21 +2,7 @@
 % Strudy
 % November 27, 2022
 
-505 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:353:22)
-    at async Promise.all (index 340)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:361:21)`
-
-=> 1 specification found
+510 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -25,6 +11,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
 - [[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
+- [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
 - [Array Grouping](https://tc39.es/proposal-array-grouping/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
 - [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
@@ -101,7 +88,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 
-=> 79 specifications found
+=> 80 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -248,6 +235,11 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but does not list it in its references
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
@@ -946,6 +938,13 @@ Basically all specifications have normative dependencies on some other specifica
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html) links to:
     * [`https://w3c.github.io/battery/`](https://w3c.github.io/battery/) but does not list it in its references
     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
+- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/) links to:
+    * [`http://www.w3.org/TR/owl2-syntax/`](http://www.w3.org/TR/owl2-syntax/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
+- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/) links to [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/) but does not list it in its references
+- [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/) links to:
+    * [`https://www.w3.org/TR/epub-33/`](https://www.w3.org/TR/epub-33/) but does not list it in its references
+    * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/) but does not list it in its references
 - [Region Capture](https://w3c.github.io/mediacapture-region/) links to [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/) but does not list it in its references
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/) links to:
     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
@@ -1142,7 +1141,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 812 missing references for links found in 213 specifications
+=> 821 missing references for links found in 217 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1190,6 +1189,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
 - [Crash Reporting](https://wicg.github.io/crash-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+- [CSS 2](https://drafts.csswg.org/css2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html) but related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
@@ -1587,6 +1590,27 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/navigation-timing-2/`](https://www.w3.org/TR/navigation-timing-2/) but related reference "NAVIGATION-TIMING" uses URL [`https://www.w3.org/TR/navigation-timing/`](https://www.w3.org/TR/navigation-timing/)
     * [`https://www.w3.org/TR/web-share/`](https://www.w3.org/TR/web-share/) but related reference "WEB-SHARE" uses URL [`https://w3c.github.io/web-share/`](https://w3c.github.io/web-share/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/) links to [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/) but related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/) links to:
+    * [`http://www.w3.org/TR/1999/REC-xml-names-19990114/`](http://www.w3.org/TR/1999/REC-xml-names-19990114/) but related reference "XML-NAMES" uses URL [`http://www.w3.org/TR/xml-names`](http://www.w3.org/TR/xml-names)
+    * [`http://www.w3.org/TR/2000/REC-xml-20001006`](http://www.w3.org/TR/2000/REC-xml-20001006) but related reference "XML10" uses URL [`http://www.w3.org/TR/xml`](http://www.w3.org/TR/xml)
+    * [`http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/`](http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/) but related reference "XML-EXC-C14N" uses URL [`http://www.w3.org/TR/xml-exc-c14n`](http://www.w3.org/TR/xml-exc-c14n)
+    * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/) but related reference "RDF11-SCHEMA" uses URL [`http://www.w3.org/TR/2014/REC-rdf-schema-20140225/`](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
+    * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/) but related reference "RDF11-XML" uses URL [`http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/`](http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/)
+    * [`http://www.w3.org/TR/rdf11-datasets/`](http://www.w3.org/TR/rdf11-datasets/) but related reference "RDF11-DATASETS" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/)
+    * [`http://www.w3.org/TR/rdf11-mt/`](http://www.w3.org/TR/rdf11-mt/) but related reference "RDF11-MT" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/)
+    * [`http://www.w3.org/TR/rdf11-new/`](http://www.w3.org/TR/rdf11-new/) but related reference "RDF11-NEW" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/)
+    * [`http://www.w3.org/TR/rdf11-primer/`](http://www.w3.org/TR/rdf11-primer/) but related reference "RDF11-PRIMER" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/)
+    * [`http://www.w3.org/TR/rdf11-testcases/`](http://www.w3.org/TR/rdf11-testcases/) but related reference "RDF11-TESTCASES" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/)
+    * [`http://www.w3.org/TR/trig/`](http://www.w3.org/TR/trig/) but related reference "TRIG" uses URL [`http://www.w3.org/TR/2014/REC-trig-20140225/`](http://www.w3.org/TR/2014/REC-trig-20140225/)
+    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
+- [RDF 1.1 N-Quads](https://www.w3.org/TR/n-quads/) links to:
+    * [`http://www.w3.org/TR/n-triples/`](http://www.w3.org/TR/n-triples/) but related reference "N-TRIPLES" uses URL [`http://www.w3.org/TR/2014/REC-n-triples-20140225/`](http://www.w3.org/TR/2014/REC-n-triples-20140225/)
+    * [`http://www.w3.org/TR/rdf11-concepts/`](http://www.w3.org/TR/rdf11-concepts/) but related reference "RDF11-CONCEPTS" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
+    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
+- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/) links to:
+    * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/) but related reference "RDF11-SCHEMA" uses URL [`http://www.w3.org/TR/2014/REC-rdf-schema-20140225/`](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
+    * [`http://www.w3.org/TR/rdf11-concepts/`](http://www.w3.org/TR/rdf11-concepts/) but related reference "RDF11-CONCEPTS" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
+    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
 - [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -1734,7 +1758,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 469 inconsistent references for links found in 188 specifications
+=> 490 inconsistent references for links found in 192 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
