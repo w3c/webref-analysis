@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-28T06:39:57.138Z",
+  "date": "2022-11-28T12:52:24.364Z",
   "stats": {
     "crawled": 510,
     "errors": 0,
@@ -1910,7 +1910,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "17 October 2022",
+      "date": "28 November 2022",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -8311,24 +8311,7 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [
-            {
-              "expected": {
-                "linkingText": [
-                  "<feature-value-block>"
-                ],
-                "value": "<font-feature-value-type> { <declaration-list> }"
-              }
-            },
-            {
-              "expected": {
-                "linkingText": [
-                  "<font-feature-value-type>"
-                ],
-                "value": "@stylistic | @historical-forms | @styleset | @character-variant | @swash | @ornaments | @annotation"
-              }
-            }
-          ],
+          "css": [],
           "idl": []
         },
         "missingLinkRef": [
@@ -9653,16 +9636,7 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [
-            {
-              "expected": {
-                "linkingText": [
-                  "<size>"
-                ],
-                "value": "<extent-keyword> | <length [0,∞]> | <length-percentage [0,∞]>{2}"
-              }
-            }
-          ],
+          "css": [],
           "idl": []
         },
         "missingLinkRef": [
@@ -37349,16 +37323,7 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [
-            {
-              "expected": {
-                "linkingText": [
-                  "<keyframe-selector>"
-                ],
-                "value": "from | to | <percentage> | <timeline-range-name> <percentage>"
-              }
-            }
-          ],
+          "css": [],
           "idl": []
         },
         "missingLinkRef": [
@@ -37907,7 +37872,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "14 November 2022",
+      "date": "28 November 2022",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",

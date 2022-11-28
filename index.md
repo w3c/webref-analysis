@@ -4747,9 +4747,6 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS properties: 
-     * `<feature-value-block>`
-     * `<font-feature-value-type>`
 - Missing references for links: 
      * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -5182,8 +5179,6 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS properties: 
-     * `<size>`
 - Missing references for links: 
      * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/)
      * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
@@ -8028,8 +8023,6 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS properties: 
-     * `<keyframe-selector>`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -10738,7 +10731,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/service-workers/](https://www.w3.org/TR/service-workers/)
 - Crawled URL: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
-- Crawled version: 14 November 2022
+- Crawled version: 28 November 2022
 - Editor's Draft: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
 - Latest published version: [https://www.w3.org/TR/service-workers/](https://www.w3.org/TR/service-workers/)
 - Shortname: service-workers
@@ -15562,7 +15555,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 17 October 2022
+- Crawled version: 28 November 2022
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 

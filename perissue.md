@@ -137,15 +137,8 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## No definition for CSS properties
 
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
-    * `<feature-value-block>`
-    * `<font-feature-value-type>`
-- [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/):
-    * `<size>`
-- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/):
-    * `<keyframe-selector>`
 
-=> 4 properties without definition found in 3 specifications
+=> 0 property without definition found in 0 specification
 
 
 ## No definition for IDL properties
