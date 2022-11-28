@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-28T12:52:24.364Z",
+  "date": "2022-11-28T18:43:45.016Z",
   "stats": {
     "crawled": 510,
     "errors": 0,
@@ -997,7 +997,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "23 November 2022",
+      "date": "28 November 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -9603,7 +9603,7 @@
     {
       "title": "CSS Images Module Level 3",
       "shortname": "css-images-3",
-      "date": "22 November 2022",
+      "date": "28 November 2022",
       "url": "https://www.w3.org/TR/css-images-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-3/",
@@ -9995,13 +9995,7 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -27462,7 +27456,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "24 November 2022",
+      "date": "28 November 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -45954,7 +45948,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "25 November 2022",
+      "date": "28 November 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46022,7 +46016,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "25 November 2022",
+      "date": "28 November 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
