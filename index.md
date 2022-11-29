@@ -6036,6 +6036,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [MathML Core](https://w3c.github.io/mathml-core/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 
@@ -9194,7 +9195,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 28 November 2022
+- Crawled version: 29 November 2022
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -12557,7 +12558,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
 - Crawled URL: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
-- Crawled version: 9 June 2022
+- Crawled version: 29 November 2022
 - Editor's Draft: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
 - Latest published version: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
 - Shortname: event-timing
@@ -12567,12 +12568,8 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
-     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/), related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
-     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/), related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
-     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
-     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+     * [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/), related reference "POINTEREVENTS3" uses URL [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/), related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13080,7 +13077,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 28 November 2022
+- Crawled version: 29 November 2022
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -14930,7 +14927,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Crawled version: 11 October 2022
+- Crawled version: 29 November 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
@@ -14940,6 +14937,7 @@ No informative reference to this spec from other specs.
 - Missing references for links: 
      * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/)
      * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/)
+     * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 

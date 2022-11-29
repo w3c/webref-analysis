@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-29T12:44:51.990Z",
+  "date": "2022-11-29T18:38:55.178Z",
   "stats": {
     "crawled": 510,
     "errors": 0,
@@ -997,7 +997,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "28 November 2022",
+      "date": "29 November 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -12280,6 +12280,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
@@ -20162,7 +20167,7 @@
     {
       "title": "Event Timing API",
       "shortname": "event-timing",
-      "date": "9 June 2022",
+      "date": "29 November 2022",
       "url": "https://www.w3.org/TR/event-timing/",
       "release": {
         "url": "https://www.w3.org/TR/event-timing/",
@@ -20200,45 +20205,17 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/hr-time/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://www.w3.org/TR/hr-time-2/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/paint-timing/",
-            "ref": {
-              "name": "PAINT-TIMING",
-              "url": "https://www.w3.org/TR/paint-timing/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/performance-timeline/",
-            "ref": {
-              "name": "PERFORMANCE-TIMELINE-2",
-              "url": "https://www.w3.org/TR/performance-timeline/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/pointerevents/",
+            "link": "https://www.w3.org/TR/pointerevents3/",
             "ref": {
               "name": "POINTEREVENTS3",
-              "url": "https://www.w3.org/TR/pointerevents3/"
+              "url": "https://w3c.github.io/pointerevents/"
             }
           },
           {
-            "link": "https://w3c.github.io/touch-events/",
-            "ref": {
-              "name": "TOUCH-EVENTS",
-              "url": "https://www.w3.org/TR/touch-events/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/uievents/",
+            "link": "https://www.w3.org/TR/uievents/",
             "ref": {
               "name": "UIEVENTS",
-              "url": "https://www.w3.org/TR/uievents/"
+              "url": "https://w3c.github.io/uievents/"
             }
           }
         ],
@@ -24636,7 +24613,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "11 October 2022",
+      "date": "29 November 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -24671,7 +24648,8 @@
         },
         "missingLinkRef": [
           "https://fullscreen.spec.whatwg.org/",
-          "https://w3c.github.io/webrtc-extensions/"
+          "https://w3c.github.io/webrtc-extensions/",
+          "https://w3c.github.io/webrtc-svc/"
         ],
         "inconsistentRef": [
           {
@@ -27456,7 +27434,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "28 November 2022",
+      "date": "29 November 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",

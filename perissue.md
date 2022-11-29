@@ -857,6 +857,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/) links to:
     * [`https://fullscreen.spec.whatwg.org/`](https://fullscreen.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
+    * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/) but does not list it in its references
 - [import assertions](https://tc39.es/proposal-import-assertions/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to:
     * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/) but does not list it in its references
@@ -1134,7 +1135,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 821 missing references for links found in 217 specifications
+=> 822 missing references for links found in 217 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1488,12 +1489,8 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/html51/semantics-embedded-content.html`](https://www.w3.org/TR/html51/semantics-embedded-content.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
     * [`https://www.w3.org/TR/html51/webappapis.html`](https://www.w3.org/TR/html51/webappapis.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [Event Timing API](https://w3c.github.io/event-timing) links to:
-    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
-    * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/) but related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
-    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
-    * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
-    * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/) but related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
-    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UIEVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+    * [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/) but related reference "POINTEREVENTS3" uses URL [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+    * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/) links to [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/) but related reference "HR-TIME-3" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
@@ -1751,7 +1748,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 490 inconsistent references for links found in 192 specifications
+=> 486 inconsistent references for links found in 192 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
