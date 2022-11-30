@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-30T12:51:45.621Z",
+  "date": "2022-11-30T18:39:57.949Z",
   "stats": {
     "crawled": 510,
     "errors": 2,
@@ -19135,7 +19135,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "29 November 2022",
+      "date": "30 November 2022",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -21012,7 +21012,7 @@
     {
       "title": "File API",
       "shortname": "FileAPI",
-      "date": "14 November 2022",
+      "date": "30 November 2022",
       "url": "https://www.w3.org/TR/FileAPI/",
       "release": {
         "url": "https://www.w3.org/TR/FileAPI/",
