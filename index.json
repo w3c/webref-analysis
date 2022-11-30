@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-11-30T06:38:14.778Z",
+  "date": "2022-11-30T12:51:45.621Z",
   "stats": {
     "crawled": 510,
-    "errors": 0,
+    "errors": 2,
     "studied": 510
   },
   "results": [
@@ -3803,7 +3803,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -4048,11 +4054,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://drafts.csswg.org/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
@@ -4449,6 +4450,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: first baseline, first\n    at getDfnName (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:671:15)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: first baseline, first\n    at getDfnName (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:671:15)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:665:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 255)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4612,11 +4614,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mathml-core/",
-              "title": "MathML Core",
-              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -6516,6 +6513,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -9365,6 +9367,7 @@
         }
       ],
       "report": {
+        "error": "Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: fr, fr unit\n    at getDfnName (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:679:13)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: fr, fr unit\n    at getDfnName (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:679:13)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:665:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 285)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17235,6 +17238,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
               "title": "Media Queries Level 4",
               "crawled": "https://drafts.csswg.org/mediaqueries-4/"
@@ -20456,7 +20464,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "25 November 2022",
+      "date": "30 November 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -22897,7 +22905,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 November 2022",
+      "date": "30 November 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -27439,7 +27447,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "29 November 2022",
+      "date": "30 November 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -31398,7 +31406,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "29 November 2022",
+      "date": "30 November 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -38406,7 +38414,7 @@
     {
       "title": "Subresource Integrity",
       "shortname": "SRI",
-      "date": "7 January 2022",
+      "date": "30 November 2022",
       "url": "https://www.w3.org/TR/SRI/",
       "release": {
         "url": "https://www.w3.org/TR/SRI/",
@@ -38442,7 +38450,15 @@
         "missingLinkRef": [
           "http://www.w3.org/TR/powerful-features/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "http://www.w3.org/TR/html5/infrastructure.html",
+            "ref": {
+              "name": "HTML",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -44087,7 +44103,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "26 November 2022",
+      "date": "30 November 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
