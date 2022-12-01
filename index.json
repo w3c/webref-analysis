@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-01T06:40:00.995Z",
+  "date": "2022-12-01T12:46:07.948Z",
   "stats": {
     "crawled": 510,
     "errors": 2,
@@ -2440,7 +2440,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "14 October 2022",
+      "date": "1 December 2022",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -15327,13 +15327,6 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/geometry-1/",
             "ref": {
               "name": "GEOMETRY-1",
@@ -15485,62 +15478,6 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/2012/CR-css3-values-20120828/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2013/CR-css3-values-20130404/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2013/CR-css3-values-20130730/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2015/CR-css-values-3-20150611/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2016/CR-css-values-3-20160929/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2018/CR-css-values-3-20180814/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2019/CR-css-values-3-20190131/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2019/CR-css-values-3-20190606/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-syntax/",
             "ref": {
               "name": "CSS-SYNTAX-3",
@@ -15552,13 +15489,6 @@
             "ref": {
               "name": "CSS-FONTS-4",
               "url": "https://www.w3.org/TR/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css3-values/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -15908,16 +15838,6 @@
               "url": "https://www.w3.org/TR/css-transitions-1/",
               "title": "CSS Transitions",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-typed-om-1/",
-              "title": "CSS Typed OM Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-will-change-1/",
@@ -20464,7 +20384,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "30 November 2022",
+      "date": "1 December 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -22905,7 +22825,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "30 November 2022",
+      "date": "1 December 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
