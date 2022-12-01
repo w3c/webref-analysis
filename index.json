@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-01T00:51:03.742Z",
+  "date": "2022-12-01T06:40:00.995Z",
   "stats": {
     "crawled": 510,
     "errors": 2,
@@ -2780,7 +2780,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "30 November 2022",
+      "date": "1 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -9897,13 +9897,6 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/2017/WD-css-images-4-20170413/",
-            "ref": {
-              "name": "CSS-IMAGES-4",
-              "url": "https://drafts.csswg.org/css-images-4/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-images-3/",
             "ref": {
               "name": "CSS3-IMAGES",
@@ -9940,6 +9933,11 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds and Borders Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
@@ -9963,11 +9961,6 @@
               "url": "https://www.w3.org/TR/css-content-3/",
               "title": "CSS Generated Content Module Level 3",
               "crawled": "https://drafts.csswg.org/css-content-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-4/",
-              "title": "CSS Images Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
@@ -17749,7 +17742,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "30 November 2022",
+      "date": "1 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
