@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-02T12:43:14.653Z",
+  "date": "2022-12-02T18:44:25.622Z",
   "stats": {
     "crawled": 510,
-    "errors": 2,
+    "errors": 0,
     "studied": 510
   },
   "results": [
@@ -2780,7 +2780,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "1 December 2022",
+      "date": "2 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3988,11 +3988,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -4173,11 +4168,6 @@
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -4391,6 +4381,11 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
@@ -4450,7 +4445,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: first baseline, first\n    at getDfnName (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:671:15)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: first baseline, first\n    at getDfnName (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:671:15)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-align-3/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:665:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 255)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6515,11 +6509,6 @@
               "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -7260,13 +7249,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -7641,11 +7624,6 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -7734,13 +7712,7 @@
         ],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -8819,11 +8791,6 @@
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
             }
           ]
         },
@@ -9383,7 +9350,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: fr, fr unit\n    at getDfnName (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:679:13)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29 Error: Evaluation failed: Error: Found multiple linking texts for dfn without any obvious one: fr, fr unit\n    at getDfnName (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:568:15)\n    at extractTypedDfn (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:679:13)\n    at Array.map (<anonymous>)\n    at extractDfns (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:450:6)\n    at Object.default [as extractCssdfn] (https://drafts.csswg.org/css-grid-2/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:127:18)\n    at pptr://__puppeteer_evaluation_script__:8:67\n    at Array.forEach (<anonymous>)\n    at pptr://__puppeteer_evaluation_script__:7:29\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:665:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 285)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11239,11 +11205,6 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -11509,11 +11470,6 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -11574,6 +11530,11 @@
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
               "url": "https://www.w3.org/TR/webauthn-3/",
@@ -13954,11 +13915,6 @@
               "crawled": "https://wicg.github.io/css-parser-api/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
               "crawled": "https://w3c.github.io/IntersectionObserver/"
@@ -14232,11 +14188,6 @@
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
             }
           ]
         },
@@ -14410,6 +14361,11 @@
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-4/",
@@ -14926,6 +14882,11 @@
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
             }
           ]
         },
@@ -15035,13 +14996,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -15458,7 +15413,7 @@
     {
       "title": "CSS Values and Units Module Level 3",
       "shortname": "css-values-3",
-      "date": "22 November 2022",
+      "date": "2 December 2022",
       "url": "https://www.w3.org/TR/css-values-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-3/",
@@ -15495,21 +15450,16 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css3-page/"
+          "https://www.w3.org/TR/css-syntax/",
+          "https://www.w3.org/TR/css3-page/",
+          "https://www.w3.org/TR/cssom-1/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-syntax/",
-            "ref": {
-              "name": "CSS-SYNTAX-3",
-              "url": "https://www.w3.org/TR/css-syntax-3/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/css3-fonts/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "url": "https://drafts.csswg.org/css-fonts-4/"
             }
           }
         ],
@@ -16673,6 +16623,11 @@
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
             }
           ]
         },
@@ -17683,7 +17638,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "1 December 2022",
+      "date": "2 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -37724,11 +37679,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
