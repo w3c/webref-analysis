@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 01, 2022
+% December 02, 2022
 
 # Ecma International {#org-ecma_international}
 
@@ -586,7 +586,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 30 November 2022
+- Crawled version: 1 December 2022
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -640,7 +640,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -670,7 +670,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -881,7 +881,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1026,7 +1026,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1414,7 +1414,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1468,7 +1468,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1528,7 +1528,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1568,7 +1568,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1601,7 +1601,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1628,7 +1628,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 1 December 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3995,6 +3995,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
 
 
@@ -4026,6 +4027,7 @@ Normative references to this spec from:
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
@@ -4187,7 +4189,6 @@ Normative references to this spec from:
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
-- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
@@ -4201,6 +4202,7 @@ Informative references to this spec from:
 
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
@@ -4333,7 +4335,9 @@ Informative references to this spec from:
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 
 
 ### CSS Counter Styles Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -5159,6 +5163,7 @@ Informative references to this spec from:
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
@@ -5700,7 +5705,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Crawled URL: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
-- Crawled version: 21 November 2022
+- Crawled version: 1 December 2022
 - Editor's Draft: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
 - Latest published version: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Shortname: css-nesting-1
@@ -7292,7 +7297,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 21 November 2022
+- Crawled version: 1 December 2022
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -8591,7 +8596,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 29 November 2022
+- Crawled version: 01 December 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -8616,7 +8621,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 29 November 2022
+- Crawled version: 01 December 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -9972,7 +9977,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 30 November 2022
+- Crawled version: 01 December 2022
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -10642,7 +10647,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Crawled URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
-- Crawled version: 1 November 2022
+- Crawled version: 1 December 2022
 - Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Latest published version: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Shortname: window-placement
@@ -15536,7 +15541,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 22 November 2022
+- Crawled version: 1 December 2022
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport
