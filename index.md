@@ -16834,7 +16834,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 23 November 2022
+- Crawled version: 2 December 2022
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
