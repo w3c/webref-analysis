@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-03T00:47:45.959Z",
+  "date": "2022-12-03T06:34:29.184Z",
   "stats": {
     "crawled": 510,
-    "errors": 0,
+    "errors": 1,
     "studied": 510
   },
   "results": [
@@ -2780,7 +2780,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "2 December 2022",
+      "date": "3 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3762,6 +3762,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17638,7 +17639,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "2 December 2022",
+      "date": "3 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -20231,7 +20232,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "18 November 2022",
+      "date": "3 December 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -32990,7 +32991,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "2 December 2022",
+      "date": "3 December 2022",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
