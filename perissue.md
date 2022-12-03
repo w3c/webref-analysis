@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 02, 2022
+% December 03, 2022
 
 510 specifications were crawled in this report.
 
@@ -939,9 +939,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/owl2-syntax/`](http://www.w3.org/TR/owl2-syntax/) but does not list it in its references
     * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
 - [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/) links to [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/) but does not list it in its references
-- [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/) links to:
-    * [`https://www.w3.org/TR/epub-33/`](https://www.w3.org/TR/epub-33/) but does not list it in its references
-    * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/) but does not list it in its references
 - [Region Capture](https://w3c.github.io/mediacapture-region/) links to [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/) but does not list it in its references
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/) links to:
     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
@@ -1136,7 +1133,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 824 missing references for links found in 217 specifications
+=> 822 missing references for links found in 216 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
