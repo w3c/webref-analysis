@@ -743,7 +743,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 4 December 2022
+- Crawled version: 5 December 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -764,7 +764,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 4 December 2022
+- Crawled version: 5 December 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -12308,7 +12308,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 4 November 2022
+- Crawled version: 5 December 2022
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -14971,7 +14971,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Crawled URL: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
-- Crawled version: 17 November 2022
+- Crawled version: 05 December 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Shortname: mediacapture-streams
@@ -15304,7 +15304,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 17 November 2022
+- Crawled version: 05 December 2022
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -15992,7 +15992,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 2 December 2022
+- Crawled version: 5 December 2022
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
