@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-05T12:43:33.409Z",
+  "date": "2022-12-05T18:41:09.685Z",
   "stats": {
-    "crawled": 510,
-    "errors": 1,
-    "studied": 510
+    "crawled": 515,
+    "errors": 0,
+    "studied": 515
   },
   "results": [
     {
@@ -3687,6 +3687,11 @@
           ],
           "informative": [
             {
+              "url": "https://drafts.csswg.org/css-images-5/",
+              "title": "CSS Images Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-images-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
@@ -3762,7 +3767,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9743,6 +9747,11 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-images-5/",
+              "title": "CSS Images Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-images-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -9951,6 +9960,11 @@
               "crawled": "https://drafts.csswg.org/css-content-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-images-5/",
+              "title": "CSS Images Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-images-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -9991,6 +10005,54 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "CSS Images Module Level 5",
+      "shortname": "css-images-5",
+      "date": "28 November 2022",
+      "url": "https://drafts.csswg.org/css-images-5/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-images-5/",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-images-5/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-images-5/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-images-5/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -16206,6 +16268,11 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-images-5/",
+              "title": "CSS Images Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-images-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
@@ -18962,6 +19029,47 @@
       }
     },
     {
+      "title": "ECMAScript Explicit Resource Management",
+      "shortname": "tc39-explicit-resource-management",
+      "date": "1 December 2022",
+      "url": "https://tc39.es/proposal-explicit-resource-management/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-explicit-resource-management/",
+        "sourcePath": "spec.emu",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-explicit-resource-management",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-explicit-resource-management/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
       "date": "3 November 2022",
@@ -19929,7 +20037,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "02 December 2022",
+      "date": "05 December 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -19982,7 +20090,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "02 December 2022",
+      "date": "05 December 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -20232,7 +20340,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "3 December 2022",
+      "date": "5 December 2022",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -26416,6 +26524,47 @@
       }
     },
     {
+      "title": "Iterator Helpers",
+      "shortname": "tc39-iterator-helpers",
+      "date": "1 December 2022",
+      "url": "https://tc39.es/proposal-iterator-helpers/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-iterator-helpers/",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-iterator-helpers",
+        "sourcePath": "spec.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-iterator-helpers/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "JS Self-Profiling API",
       "shortname": "js-self-profiling",
       "date": "11 March 2022",
@@ -32430,7 +32579,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "02 December 2022",
+      "date": "05 December 2022",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -36570,6 +36719,11 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-images-5/",
+              "title": "CSS Images Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-images-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
@@ -37948,6 +38102,47 @@
               "crawled": "https://w3c.github.io/web-share-target/"
             }
           ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Set methods",
+      "shortname": "tc39-set-methods",
+      "date": "30 November 2022",
+      "url": "https://tc39.es/proposal-set-methods/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-set-methods/",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-set-methods",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-set-methods/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -43288,7 +43483,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "9 November 2022",
+      "date": "5 December 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -43337,7 +43532,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "9 November 2022",
+      "date": "5 December 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -43453,7 +43648,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "9 November 2022",
+      "date": "5 December 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -47227,6 +47422,47 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/mediacapture-streams/"
         ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Well-Formed Unicode Strings",
+      "shortname": "tc39-is-usv-string",
+      "date": "30 November 2022",
+      "url": "https://tc39.es/proposal-is-usv-string/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-is-usv-string/",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-is-usv-string",
+        "sourcePath": "spec.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-is-usv-string/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
