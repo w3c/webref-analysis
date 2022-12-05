@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-05T06:36:44.392Z",
+  "date": "2022-12-05T12:43:33.409Z",
   "stats": {
     "crawled": 510,
     "errors": 1,
@@ -30790,7 +30790,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "30 November 2022",
+      "date": "5 December 2022",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -39691,7 +39691,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "2 December 2022",
+      "date": "5 December 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -43992,7 +43992,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "1 December 2022",
+      "date": "5 December 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
