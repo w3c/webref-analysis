@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-06T06:35:05.004Z",
+  "date": "2022-12-06T12:43:40.909Z",
   "stats": {
     "crawled": 515,
     "errors": 1,
@@ -30940,7 +30940,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "5 December 2022",
+      "date": "6 December 2022",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -31232,7 +31232,7 @@
     {
       "title": "Picture-in-Picture",
       "shortname": "picture-in-picture",
-      "date": "25 July 2022",
+      "date": "6 December 2022",
       "url": "https://www.w3.org/TR/picture-in-picture/",
       "release": {
         "url": "https://www.w3.org/TR/picture-in-picture/",
@@ -39887,7 +39887,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "5 December 2022",
+      "date": "6 December 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
