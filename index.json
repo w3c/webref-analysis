@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-07T12:41:52.007Z",
+  "date": "2022-12-07T18:37:01.317Z",
   "stats": {
     "crawled": 515,
-    "errors": 1,
+    "errors": 0,
     "studied": 515
   },
   "results": [
@@ -997,7 +997,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "6 December 2022",
+      "date": "7 December 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3767,7 +3767,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 345)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4360,6 +4359,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-inline-3/",
+              "title": "CSS Inline Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-inline-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-masking-1/",
@@ -10062,7 +10066,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "14 November 2022",
+      "date": "2 December 2022",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -19263,11 +19267,6 @@
               "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
-              "url": "https://wicg.github.io/file-system-access/",
-              "title": "File System Access",
-              "crawled": "https://wicg.github.io/file-system-access/"
-            },
-            {
               "url": "https://fs.spec.whatwg.org/",
               "title": "File System Standard",
               "crawled": "https://fs.spec.whatwg.org/"
@@ -19807,11 +19806,6 @@
               "url": "https://www.w3.org/TR/FileAPI/",
               "title": "File API",
               "crawled": "https://w3c.github.io/FileAPI/"
-            },
-            {
-              "url": "https://wicg.github.io/file-system-access/",
-              "title": "File System Access",
-              "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
               "url": "https://fs.spec.whatwg.org/",
@@ -20470,7 +20464,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "1 December 2022",
+      "date": "7 December 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -21076,11 +21070,6 @@
               "crawled": "https://wicg.github.io/entries-api/"
             },
             {
-              "url": "https://wicg.github.io/file-system-access/",
-              "title": "File System Access",
-              "crawled": "https://wicg.github.io/file-system-access/"
-            },
-            {
               "url": "https://fs.spec.whatwg.org/",
               "title": "File System Standard",
               "crawled": "https://fs.spec.whatwg.org/"
@@ -21186,7 +21175,13 @@
               "crawled": "https://xhr.spec.whatwg.org/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/file-system-access/",
+              "title": "File System Access",
+              "crawled": "https://wicg.github.io/file-system-access/"
+            }
+          ]
         },
         "ok": true
       }
@@ -21194,7 +21189,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "19 November 2022",
+      "date": "7 December 2022",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -21283,7 +21278,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/file-system-access/",
+              "title": "File System Access",
+              "crawled": "https://wicg.github.io/file-system-access/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -21840,7 +21841,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "23 November 2022",
+      "date": "7 December 2022",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -28626,7 +28627,7 @@
     {
       "title": "MediaStream Image Capture",
       "shortname": "image-capture",
-      "date": "6 April 2021",
+      "date": "7 December 2022",
       "url": "https://www.w3.org/TR/image-capture/",
       "release": {
         "url": "https://www.w3.org/TR/image-capture/",
@@ -28664,17 +28665,10 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/FileAPI/",
+            "link": "https://www.w3.org/TR/mediacapture-streams/",
             "ref": {
-              "name": "FileAPI",
-              "url": "https://www.w3.org/TR/FileAPI/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://www.w3.org/TR/permissions/"
+              "name": "GETUSERMEDIA",
+              "url": "https://w3c.github.io/mediacapture-main/"
             }
           }
         ],
@@ -38434,11 +38428,6 @@
               "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
-              "url": "https://wicg.github.io/file-system-access/",
-              "title": "File System Access",
-              "crawled": "https://wicg.github.io/file-system-access/"
-            },
-            {
               "url": "https://fs.spec.whatwg.org/",
               "title": "File System Standard",
               "crawled": "https://fs.spec.whatwg.org/"
@@ -42470,6 +42459,11 @@
               "crawled": "https://w3c.github.io/media-source/"
             },
             {
+              "url": "https://www.w3.org/TR/image-capture/",
+              "title": "MediaStream Image Capture",
+              "crawled": "https://w3c.github.io/mediacapture-image/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediastream-recording/",
               "title": "MediaStream Recording",
               "crawled": "https://w3c.github.io/mediacapture-record/"
@@ -43483,7 +43477,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "5 December 2022",
+      "date": "7 December 2022",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -43532,7 +43526,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "5 December 2022",
+      "date": "7 December 2022",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -43648,7 +43642,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "5 December 2022",
+      "date": "7 December 2022",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
