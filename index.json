@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-08T06:37:36.246Z",
+  "date": "2022-12-08T12:45:59.049Z",
   "stats": {
     "crawled": 515,
     "errors": 0,
@@ -21822,7 +21822,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "7 December 2022",
+      "date": "8 December 2022",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -28608,7 +28608,7 @@
     {
       "title": "MediaStream Image Capture",
       "shortname": "image-capture",
-      "date": "7 December 2022",
+      "date": "8 December 2022",
       "url": "https://www.w3.org/TR/image-capture/",
       "release": {
         "url": "https://www.w3.org/TR/image-capture/",
@@ -28641,9 +28641,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/page-visibility/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/mediacapture-streams/",
@@ -43105,7 +43103,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "7 December 2022",
+      "date": "8 December 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",

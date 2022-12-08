@@ -897,7 +897,6 @@ Basically all specifications have normative dependencies on some other specifica
 - [Media Source Extensions™](https://w3c.github.io/media-source/) links to:
     * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/) but does not list it in its references
     * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/) but does not list it in its references
-- [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/) links to [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/) but does not list it in its references
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/) links to:
     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but does not list it in its references
     * [`https://www.w3.org/TR/webrtc-identity/`](https://www.w3.org/TR/webrtc-identity/) but does not list it in its references
@@ -1141,7 +1140,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 825 missing references for links found in 217 specifications
+=> 824 missing references for links found in 216 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

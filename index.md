@@ -8397,7 +8397,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 7 December 2022
+- Crawled version: 8 December 2022
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -12419,7 +12419,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 7 December 2022
+- Crawled version: 8 December 2022
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -15177,21 +15177,19 @@ Informative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 
 
-### MediaStream Image Capture {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### MediaStream Image Capture {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/image-capture/](https://www.w3.org/TR/image-capture/)
 - Crawled URL: [https://w3c.github.io/mediacapture-image/](https://w3c.github.io/mediacapture-image/)
-- Crawled version: 7 December 2022
+- Crawled version: 8 December 2022
 - Editor's Draft: [https://w3c.github.io/mediacapture-image/](https://w3c.github.io/mediacapture-image/)
 - Latest published version: [https://www.w3.org/TR/image-capture/](https://www.w3.org/TR/image-capture/)
 - Shortname: image-capture
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/page-visibility/`](https://www.w3.org/TR/page-visibility/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "GETUSERMEDIA" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 
