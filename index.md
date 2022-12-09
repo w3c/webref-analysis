@@ -12582,7 +12582,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Crawled URL: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
-- Crawled version: 23 November 2022
+- Crawled version: 9 December 2022
 - Editor's Draft: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
 - Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Shortname: secure-payment-confirmation
@@ -14009,7 +14009,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Crawled URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
-- Crawled version: 6 December 2022
+- Crawled version: 9 December 2022
 - Editor's Draft: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Shortname: local-font-access
 
@@ -15531,7 +15531,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 7 December 2022
+- Crawled version: 9 December 2022
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -15556,7 +15556,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 7 December 2022
+- Crawled version: 9 December 2022
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -15587,7 +15587,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 7 December 2022
+- Crawled version: 9 December 2022
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
