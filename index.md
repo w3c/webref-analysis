@@ -11264,7 +11264,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 19 October 2022
+- Crawled version: 09 December 2022
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
