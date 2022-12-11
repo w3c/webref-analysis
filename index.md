@@ -828,7 +828,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 8 December 2022
+- Crawled version: 11 December 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -849,7 +849,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 8 December 2022
+- Crawled version: 11 December 2022
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -8665,7 +8665,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 09 December 2022
+- Crawled version: 11 December 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -8690,7 +8690,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 09 December 2022
+- Crawled version: 11 December 2022
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
