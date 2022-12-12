@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-12T06:37:45.059Z",
+  "date": "2022-12-12T12:46:03.206Z",
   "stats": {
     "crawled": 515,
     "errors": 0,
@@ -2778,7 +2778,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "11 December 2022",
+      "date": "12 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -17659,7 +17659,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "11 December 2022",
+      "date": "12 December 2022",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -18929,11 +18929,6 @@
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
-            },
-            {
-              "url": "https://www.w3.org/TR/web-share/",
-              "title": "Web Share API",
-              "crawled": "https://w3c.github.io/web-share/"
             }
           ]
         },
@@ -20412,7 +20407,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "7 December 2022",
+      "date": "12 December 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -37556,7 +37551,7 @@
     {
       "title": "Secure Curves in the Web Cryptography API",
       "shortname": "webcrypto-secure-curves",
-      "date": "09 June 2022",
+      "date": "12 December 2022",
       "url": "https://wicg.github.io/webcrypto-secure-curves/",
       "nightly": {
         "url": "https://wicg.github.io/webcrypto-secure-curves/",
@@ -39821,7 +39816,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "9 December 2022",
+      "date": "12 December 2022",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -45981,7 +45976,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "9 December 2022",
+      "date": "12 December 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46046,7 +46041,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "9 December 2022",
+      "date": "12 December 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
