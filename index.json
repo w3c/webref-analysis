@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-13T06:36:59.993Z",
+  "date": "2022-12-13T12:42:25.526Z",
   "stats": {
     "crawled": 515,
-    "errors": 0,
+    "errors": 1,
     "studied": 515
   },
   "results": [
@@ -2225,7 +2225,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "21 November 2022",
+      "date": "13 December 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -3765,6 +3765,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 345)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -25880,6 +25881,11 @@
               "crawled": "https://w3c.github.io/web-locks/"
             },
             {
+              "url": "https://www.w3.org/TR/webnn/",
+              "title": "Web Neural Network API",
+              "crawled": "https://webmachinelearning.github.io/webnn/"
+            },
+            {
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
@@ -38305,7 +38311,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "18 October 2022",
+      "date": "13 December 2022",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -43074,7 +43080,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "9 December 2022",
+      "date": "13 December 2022",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
