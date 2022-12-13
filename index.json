@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-13T12:42:25.526Z",
+  "date": "2022-12-13T18:44:34.725Z",
   "stats": {
-    "crawled": 515,
+    "crawled": 516,
     "errors": 1,
-    "studied": 515
+    "studied": 516
   },
   "results": [
     {
@@ -1650,6 +1650,47 @@
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "Client Hint Reliability",
+      "shortname": "client-hint-reliability",
+      "date": "1 June 2021",
+      "url": "https://datatracker.ietf.org/doc/html/draft-davidben-http-client-hint-reliability",
+      "nightly": {
+        "url": "https://www.ietf.org/archive/id/draft-davidben-http-client-hint-reliability-03.html",
+        "repository": "https://github.com/davidben/http-client-hint-reliability",
+        "sourcePath": "draft-davidben-http-client-hint-reliability.md",
+        "alternateUrls": [],
+        "filename": "draft-davidben-http-client-hint-reliability-03.html"
+      },
+      "crawled": "https://www.ietf.org/archive/id/draft-davidben-http-client-hint-reliability-03.html",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "HTTP Working Group",
+          "url": "https://datatracker.ietf.org/wg/httpbis/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
       }
     },
     {
@@ -3765,7 +3806,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 345)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17881,7 +17921,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "24 November 2022",
+      "date": "13 December 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -36282,7 +36322,7 @@
     {
       "title": "Scalable Vector Graphics (SVG) 2",
       "shortname": "SVG2",
-      "date": "31 August 2022",
+      "date": "13 December 2022",
       "url": "https://www.w3.org/TR/SVG2/",
       "release": {
         "url": "https://www.w3.org/TR/SVG2/",
@@ -38616,7 +38656,7 @@
     {
       "title": "SVG Animations",
       "shortname": "svg-animations",
-      "date": "31 August 2022",
+      "date": "13 December 2022",
       "url": "https://svgwg.org/specs/animations/",
       "nightly": {
         "url": "https://svgwg.org/specs/animations/",
@@ -38737,7 +38777,7 @@
     {
       "title": "SVG Integration",
       "shortname": "svg-integration",
-      "date": "31 August 2022",
+      "date": "13 December 2022",
       "url": "https://www.w3.org/TR/svg-integration/",
       "release": {
         "url": "https://www.w3.org/TR/svg-integration/",
@@ -38794,7 +38834,7 @@
     {
       "title": "SVG Strokes",
       "shortname": "svg-strokes",
-      "date": "31 August 2022",
+      "date": "13 December 2022",
       "url": "https://www.w3.org/TR/svg-strokes/",
       "release": {
         "url": "https://www.w3.org/TR/svg-strokes/",
@@ -41429,6 +41469,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://webaudio.github.io/web-audio-api/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://webaudio.github.io/web-audio-api/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 472)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
