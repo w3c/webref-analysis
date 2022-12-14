@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-14T12:49:59.424Z",
+  "date": "2022-12-14T18:39:26.223Z",
   "stats": {
     "crawled": 516,
     "errors": 0,
@@ -2577,11 +2577,6 @@
               "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
             },
             {
-              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-              "title": "Prerendering Revamped",
-              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
-            },
-            {
               "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
@@ -3862,7 +3857,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-1",
-      "date": "30 October 2022",
+      "date": "13 December 2022",
       "url": "https://drafts.csswg.org/css-anchor-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-anchor-1/",
@@ -19061,7 +19056,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "8 December 2022",
+      "date": "14 December 2022",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -19837,6 +19832,11 @@
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
+            },
+            {
               "url": "https://url.spec.whatwg.org/",
               "title": "URL Standard",
               "crawled": "https://url.spec.whatwg.org/"
@@ -20016,7 +20016,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "11 December 2022",
+      "date": "14 December 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -20069,7 +20069,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "11 December 2022",
+      "date": "14 December 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -21619,6 +21619,11 @@
               "url": "https://wicg.github.io/close-watcher/",
               "title": "Close Watcher API",
               "crawled": "https://wicg.github.io/close-watcher/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -24622,7 +24627,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "07 December 2022",
+      "date": "14 December 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -28982,6 +28987,11 @@
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
+            },
+            {
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
@@ -29673,6 +29683,11 @@
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -31443,7 +31458,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "01 December 2022",
+      "date": "14 December 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -31609,7 +31624,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "26 October 2022",
+      "date": "14 December 2022",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -31646,6 +31661,13 @@
               "name": "HR-TIME-2",
               "url": "https://w3c.github.io/hr-time/"
             }
+          },
+          {
+            "link": "https://www.w3.org/TR/navigation-timing-2/",
+            "ref": {
+              "name": "NAVIGATION-TIMING-2",
+              "url": "https://w3c.github.io/navigation-timing/"
+            }
           }
         ],
         "referencedBy": {
@@ -31658,7 +31680,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "26 October 2022",
+      "date": "14 December 2022",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -31689,18 +31711,12 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/battery/",
+          "https://w3c.github.io/webdriver-bidi/",
           "https://www.w3.org/TR/payment-request/"
         ],
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/hr-time-2/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/hr-time-3/",
             "ref": {
               "name": "HR-TIME-2",
               "url": "https://w3c.github.io/hr-time/"
@@ -31716,8 +31732,8 @@
           {
             "link": "https://www.w3.org/TR/navigation-timing-2/",
             "ref": {
-              "name": "NAVIGATION-TIMING",
-              "url": "https://www.w3.org/TR/navigation-timing/"
+              "name": "NAVIGATION-TIMING-2",
+              "url": "https://w3c.github.io/navigation-timing/"
             }
           },
           {
@@ -32691,6 +32707,11 @@
               "crawled": "https://wicg.github.io/portals/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-hints/",
               "title": "Resource Hints",
               "crawled": "https://w3c.github.io/resource-hints/"
@@ -32699,6 +32720,11 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             }
           ],
           "informative": []
@@ -37321,7 +37347,7 @@
     {
       "title": "Scroll-linked Animations",
       "shortname": "scroll-animations-1",
-      "date": "9 December 2022",
+      "date": "13 December 2022",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -37761,7 +37787,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "12 December 2022",
+      "date": "13 December 2022",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -38217,7 +38243,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "26 October 2022",
+      "date": "14 December 2022",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -41814,6 +41840,11 @@
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://wicg.github.io/webcrypto-secure-curves/",
