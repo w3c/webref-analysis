@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-15T06:37:25.370Z",
+  "date": "2022-12-15T12:43:56.568Z",
   "stats": {
     "crawled": 516,
     "errors": 0,
@@ -2266,7 +2266,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "14 December 2022",
+      "date": "15 December 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -20448,7 +20448,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "14 December 2022",
+      "date": "15 December 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -41577,7 +41577,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "21 November 2022",
+      "date": "15 December 2022",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
