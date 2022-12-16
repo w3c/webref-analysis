@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-16T06:35:51.422Z",
+  "date": "2022-12-16T12:43:05.186Z",
   "stats": {
     "crawled": 516,
     "errors": 0,
@@ -3897,7 +3897,23 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-page-3/",
+              "title": "CSS Paged Media Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-page-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-regions-1/",
+              "title": "CSS Regions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-regions-1/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -4087,11 +4103,6 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/cssom-1/",
-              "title": "CSS Object Model (CSSOM)",
-              "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -10057,7 +10068,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -20016,7 +20033,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "14 December 2022",
+      "date": "16 December 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -20069,7 +20086,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "14 December 2022",
+      "date": "16 December 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -22906,7 +22923,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "8 December 2022",
+      "date": "16 December 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -24627,7 +24644,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "14 December 2022",
+      "date": "16 December 2022",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
