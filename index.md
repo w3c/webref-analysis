@@ -13282,7 +13282,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
 - Crawled URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
-- Crawled version: 03 February 2021
+- Crawled version: 19 December 2022
 - Editor's Draft: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
 - Shortname: badging
 
