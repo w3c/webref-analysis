@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-19T12:41:29.325Z",
+  "date": "2022-12-19T14:39:13.500Z",
   "stats": {
-    "crawled": 516,
-    "errors": 2,
-    "studied": 516
+    "crawled": 517,
+    "errors": 0,
+    "studied": 517
   },
   "results": [
     {
@@ -2266,7 +2266,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "15 December 2022",
+      "date": "19 December 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -3801,7 +3801,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 346)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7509,6 +7508,11 @@
               "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-link-params-1/",
+              "title": "CSS Linked Parameters",
+              "crawled": "https://drafts.csswg.org/css-link-params-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -10420,6 +10424,55 @@
       }
     },
     {
+      "title": "CSS Linked Parameters",
+      "shortname": "css-link-params-1",
+      "date": "15 December 2022",
+      "url": "https://drafts.csswg.org/css-link-params-1/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-link-params-1/",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-link-params-1/",
+          "https://w3c.github.io/csswg-drafts/css-link-params/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-link-params-1/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-link-params-1/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "CSS Lists and Counters Module Level 3",
       "shortname": "css-lists-3",
       "date": "24 February 2022",
@@ -12460,6 +12513,11 @@
               "url": "https://drafts.csswg.org/css-variables-2/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 2",
               "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-link-params-1/",
+              "title": "CSS Linked Parameters",
+              "crawled": "https://drafts.csswg.org/css-link-params-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
@@ -16303,6 +16361,11 @@
               "url": "https://www.w3.org/TR/css-line-grid-1/",
               "title": "CSS Line Grid Module Level 1",
               "crawled": "https://drafts.csswg.org/css-line-grid-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-link-params-1/",
+              "title": "CSS Linked Parameters",
+              "crawled": "https://drafts.csswg.org/css-link-params-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
@@ -22862,7 +22925,6 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 375)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22880,7 +22942,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -23293,6 +23355,11 @@
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-link-params-1/",
+              "title": "CSS Linked Parameters",
+              "crawled": "https://drafts.csswg.org/css-link-params-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
@@ -30712,7 +30779,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "10 December 2022",
+      "date": "19 December 2022",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -30773,11 +30840,6 @@
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://wicg.github.io/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/file-system-access/",
@@ -40014,6 +40076,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-link-params-1/",
+              "title": "CSS Linked Parameters",
+              "crawled": "https://drafts.csswg.org/css-link-params-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
