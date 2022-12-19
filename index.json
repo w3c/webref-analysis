@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-19T06:34:23.189Z",
+  "date": "2022-12-19T12:41:29.325Z",
   "stats": {
     "crawled": 516,
     "errors": 2,
@@ -1949,7 +1949,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "28 November 2022",
+      "date": "19 December 2022",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2310,7 +2310,7 @@
     {
       "title": "Console Standard",
       "shortname": "console",
-      "date": "17 October 2022",
+      "date": "19 December 2022",
       "url": "https://console.spec.whatwg.org/",
       "nightly": {
         "url": "https://console.spec.whatwg.org/",
@@ -17939,7 +17939,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "15 December 2022",
+      "date": "19 December 2022",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -20471,7 +20471,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "15 December 2022",
+      "date": "19 December 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -27708,7 +27708,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "15 December 2022",
+      "date": "19 December 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -31482,7 +31482,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "14 December 2022",
+      "date": "19 December 2022",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -32610,7 +32610,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "16 December 2022",
+      "date": "19 December 2022",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -38976,7 +38976,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "8 December 2022",
+      "date": "19 December 2022",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -46311,7 +46311,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "14 December 2022",
+      "date": "19 December 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
