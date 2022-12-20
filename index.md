@@ -5211,6 +5211,9 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/2019/WD-css-grid-2-20191203/`](https://www.w3.org/TR/2019/WD-css-grid-2-20191203/), related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
+     * [`https://www.w3.org/TR/2020/CR-css-grid-2-20200818/`](https://www.w3.org/TR/2020/CR-css-grid-2-20200818/), related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
+     * [`https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/`](https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/), related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
      * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
      * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -5224,6 +5227,7 @@ Normative references to this spec from:
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
@@ -8774,7 +8778,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 16 December 2022
+- Crawled version: 20 December 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -8803,7 +8807,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 16 December 2022
+- Crawled version: 20 December 2022
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11313,7 +11317,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 19 December 2022
+- Crawled version: 20 December 2022
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -12095,7 +12099,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
-- Crawled version: 09 November 2022
+- Crawled version: 20 December 2022
 - Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
 - Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Shortname: appmanifest
@@ -13279,7 +13283,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
 - Crawled URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
-- Crawled version: 19 December 2022
+- Crawled version: 20 December 2022
 - Editor's Draft: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
 - Shortname: badging
 
