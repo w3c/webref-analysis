@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-21T06:35:43.137Z",
+  "date": "2022-12-21T12:45:47.332Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -852,7 +852,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "08 December 2022",
+      "date": "21 December 2022",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -2266,7 +2266,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "20 December 2022",
+      "date": "21 December 2022",
       "url": "https://wicg.github.io/compute-pressure/",
       "nightly": {
         "url": "https://wicg.github.io/compute-pressure/",
@@ -2275,7 +2275,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://wicg.github.io/compute-pressure/",
+      "crawled": "https://w3c.github.io/compute-pressure/",
       "organization": "W3C",
       "groups": [
         {
@@ -2378,7 +2378,7 @@
     {
       "title": "Contact Picker API",
       "shortname": "contact-api",
-      "date": "21 December 2021",
+      "date": "21 December 2022",
       "url": "https://w3c.github.io/contact-api/spec/",
       "nightly": {
         "url": "https://w3c.github.io/contact-api/spec/",
@@ -2387,7 +2387,7 @@
         "sourcePath": "spec/index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/contact-api/spec/",
+      "crawled": "https://w3c.github.io/contact-picker/spec/",
       "organization": "W3C",
       "groups": [
         {
@@ -2408,20 +2408,12 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/FileAPI/",
-            "ref": {
-              "name": "FileAPI",
-              "url": "https://www.w3.org/TR/FileAPI/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -18093,7 +18085,7 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -19611,7 +19603,7 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/cookie-store/",
@@ -21127,7 +21119,7 @@
             {
               "url": "https://w3c.github.io/contact-api/spec/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-api/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/spec/"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -22575,7 +22567,7 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/cookie-store/",
@@ -22992,7 +22984,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 December 2022",
+      "date": "21 December 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -23204,12 +23196,12 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://w3c.github.io/contact-api/spec/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-api/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/spec/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -25158,7 +25150,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "23 November 2022",
+      "date": "20 December 2022",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -25269,7 +25261,7 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://console.spec.whatwg.org/",
@@ -25279,7 +25271,7 @@
             {
               "url": "https://w3c.github.io/contact-api/spec/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-api/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/spec/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -27589,7 +27581,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "07 December 2022",
+      "date": "21 December 2022",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -27825,7 +27817,7 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/html-media-capture/",
@@ -29112,7 +29104,7 @@
             {
               "url": "https://w3c.github.io/contact-api/spec/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-api/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/spec/"
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -31096,7 +31088,7 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/credential-management-1/",
@@ -36435,7 +36427,7 @@
     {
       "title": "Scalable Vector Graphics (SVG) 2",
       "shortname": "SVG2",
-      "date": "13 December 2022",
+      "date": "21 December 2022",
       "url": "https://www.w3.org/TR/SVG2/",
       "release": {
         "url": "https://www.w3.org/TR/SVG2/",
@@ -38774,7 +38766,7 @@
     {
       "title": "SVG Animations",
       "shortname": "svg-animations",
-      "date": "13 December 2022",
+      "date": "21 December 2022",
       "url": "https://svgwg.org/specs/animations/",
       "nightly": {
         "url": "https://svgwg.org/specs/animations/",
@@ -38895,7 +38887,7 @@
     {
       "title": "SVG Integration",
       "shortname": "svg-integration",
-      "date": "13 December 2022",
+      "date": "21 December 2022",
       "url": "https://www.w3.org/TR/svg-integration/",
       "release": {
         "url": "https://www.w3.org/TR/svg-integration/",
@@ -38952,7 +38944,7 @@
     {
       "title": "SVG Strokes",
       "shortname": "svg-strokes",
-      "date": "13 December 2022",
+      "date": "21 December 2022",
       "url": "https://www.w3.org/TR/svg-strokes/",
       "release": {
         "url": "https://www.w3.org/TR/svg-strokes/",
@@ -42096,7 +42088,7 @@
             {
               "url": "https://wicg.github.io/compute-pressure/",
               "title": "Compute Pressure Level 1",
-              "crawled": "https://wicg.github.io/compute-pressure/"
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://console.spec.whatwg.org/",
@@ -42106,7 +42098,7 @@
             {
               "url": "https://w3c.github.io/contact-api/spec/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-api/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/spec/"
             },
             {
               "url": "https://www.w3.org/TR/CSP3/",
