@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-22T12:41:18.106Z",
+  "date": "2022-12-22T18:34:01.342Z",
   "stats": {
     "crawled": 517,
     "errors": 1,
@@ -996,7 +996,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "15 December 2022",
+      "date": "22 December 2022",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1688,7 +1688,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/client-hints-infrastructure/",
+              "title": "Client Hints Infrastructure",
+              "crawled": "https://wicg.github.io/client-hints-infrastructure/"
+            }
+          ]
         },
         "ok": true
       }
@@ -1696,7 +1702,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "21 December 2022",
+      "date": "22 December 2022",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -20527,7 +20533,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "21 December 2022",
+      "date": "22 December 2022",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -44304,7 +44310,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "5 December 2022",
+      "date": "22 December 2022",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
