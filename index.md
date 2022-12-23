@@ -7043,7 +7043,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Crawled version: 9 September 2022
+- Crawled version: 23 December 2022
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Shortname: css-text-4
@@ -10076,7 +10076,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 27 October 2022
+- Crawled version: 23 December 2022
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
