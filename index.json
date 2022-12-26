@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-26T06:38:06.800Z",
+  "date": "2022-12-26T12:43:01.266Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -23000,7 +23000,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "21 December 2022",
+      "date": "26 December 2022",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -27783,7 +27783,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "19 December 2022",
+      "date": "26 December 2022",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -46387,7 +46387,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "19 December 2022",
+      "date": "26 December 2022",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
