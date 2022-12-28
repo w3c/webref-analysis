@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-28T00:50:27.720Z",
+  "date": "2022-12-28T06:36:10.451Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -12561,7 +12561,7 @@
     {
       "title": "CSS Pseudo-Elements Module Level 4",
       "shortname": "css-pseudo-4",
-      "date": "7 October 2022",
+      "date": "27 December 2022",
       "url": "https://www.w3.org/TR/css-pseudo-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -13005,7 +13005,7 @@
     {
       "title": "CSS Ruby Annotation Layout Module Level 1",
       "shortname": "css-ruby-1",
-      "date": "13 September 2022",
+      "date": "27 December 2022",
       "url": "https://www.w3.org/TR/css-ruby-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-ruby-1/",
@@ -14536,7 +14536,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "9 September 2022",
+      "date": "27 December 2022",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -14784,7 +14784,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "23 December 2022",
+      "date": "27 December 2022",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
