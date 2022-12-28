@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-28T12:41:59.437Z",
+  "date": "2022-12-28T18:35:11.008Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -1702,7 +1702,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "22 December 2022",
+      "date": "28 December 2022",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
