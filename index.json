@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-30T00:50:48.498Z",
+  "date": "2022-12-30T06:38:41.390Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -1955,7 +1955,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "19 December 2022",
+      "date": "29 December 2022",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -5418,7 +5418,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 3",
       "shortname": "css-cascade-3",
-      "date": "10 October 2022",
+      "date": "29 December 2022",
       "url": "https://www.w3.org/TR/css-cascade-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-3/",
@@ -5544,7 +5544,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-4",
-      "date": "10 October 2022",
+      "date": "29 December 2022",
       "url": "https://www.w3.org/TR/css-cascade-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -5717,7 +5717,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 5",
       "shortname": "css-cascade-5",
-      "date": "22 November 2022",
+      "date": "29 December 2022",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -12541,11 +12541,6 @@
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-pseudo-4/",
-              "title": "CSS Pseudo-Elements Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -28196,7 +28191,7 @@
     {
       "title": "Media Queries Level 4",
       "shortname": "mediaqueries-4",
-      "date": "9 August 2022",
+      "date": "29 December 2022",
       "url": "https://www.w3.org/TR/mediaqueries-4/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -46173,7 +46168,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "23 December 2022",
+      "date": "30 December 2022",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46238,7 +46233,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "23 December 2022",
+      "date": "30 December 2022",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
