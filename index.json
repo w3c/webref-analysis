@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2022-12-31T06:37:55.439Z",
+  "date": "2022-12-31T12:43:10.525Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -4847,6 +4847,11 @@
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -11435,7 +11440,6 @@
           "https://www.w3.org/TR/css-backgrounds/",
           "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-text-decor-3/",
           "https://www.w3.org/TR/css-ui-3/",
           "https://www.w3.org/TR/cssom/",
@@ -11767,6 +11771,11 @@
               "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
@@ -11778,11 +11787,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-contain-2/",
-              "title": "CSS Containment Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
             {
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
@@ -20120,7 +20124,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "30 December 2022",
+      "date": "31 December 2022",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -20173,7 +20177,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "30 December 2022",
+      "date": "31 December 2022",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
