@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-03T06:37:10.365Z",
+  "date": "2023-01-03T12:44:01.870Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -20566,7 +20566,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "22 December 2022",
+      "date": "3 January 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -44338,7 +44338,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "2 January 2023",
+      "date": "3 January 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
