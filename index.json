@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-03T00:50:35.982Z",
+  "date": "2023-01-03T06:37:10.365Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -5147,6 +5147,11 @@
               "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
@@ -9890,7 +9895,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "28 November 2022",
+      "date": "2 January 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -9940,7 +9945,7 @@
           {
             "link": "https://www.w3.org/TR/css-images-3/",
             "ref": {
-              "name": "CSS3-IMAGES",
+              "name": "CSS-IMAGES-3",
               "url": "https://drafts.csswg.org/css-images-3/"
             }
           },
@@ -10097,6 +10102,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
