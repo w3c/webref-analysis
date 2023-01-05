@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-05T06:39:11.379Z",
+  "date": "2023-01-05T12:44:09.527Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -20149,7 +20149,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "04 January 2023",
+      "date": "05 January 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -20202,7 +20202,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "04 January 2023",
+      "date": "05 January 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -20956,6 +20956,11 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "Text Fragments",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://privacycg.github.io/storage-access/",
+              "title": "The Storage Access API",
+              "crawled": "https://privacycg.github.io/storage-access/"
             },
             {
               "url": "https://www.w3.org/TR/trusted-types/",
@@ -33807,6 +33812,11 @@
               "crawled": "https://httpwg.org/specs/rfc9114.html"
             },
             {
+              "url": "https://privacycg.github.io/storage-access/",
+              "title": "The Storage Access API",
+              "crawled": "https://privacycg.github.io/storage-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/tracking-dnt/",
               "title": "Tracking Preference Expression (DNT)",
               "crawled": "https://w3c.github.io/dnt/drafts/tracking-dnt.html"
@@ -39293,7 +39303,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "16 November 2022",
+      "date": "5 January 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
@@ -44245,7 +44255,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "16 December 2022",
+      "date": "05 January 2023",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -46436,7 +46446,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "02 January 2023",
+      "date": "05 January 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
