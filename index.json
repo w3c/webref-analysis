@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-07T00:48:53.750Z",
+  "date": "2023-01-07T06:35:22.659Z",
   "stats": {
     "crawled": 517,
     "errors": 0,
@@ -37946,7 +37946,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "29 December 2022",
+      "date": "6 January 2023",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -43225,7 +43225,7 @@
     {
       "title": "Web Locks API",
       "shortname": "web-locks",
-      "date": "29 November 2022",
+      "date": "7 January 2023",
       "url": "https://w3c.github.io/web-locks/",
       "nightly": {
         "url": "https://w3c.github.io/web-locks/",

@@ -8208,7 +8208,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
 - Crawled URL: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
-- Crawled version: 29 December 2022
+- Crawled version: 6 January 2023
 - Editor's Draft: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
 - Latest published version: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
 - Shortname: selectors-4
@@ -12146,7 +12146,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
 - Crawled URL: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
-- Crawled version: 29 November 2022
+- Crawled version: 7 January 2023
 - Editor's Draft: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
 - Shortname: web-locks
 
