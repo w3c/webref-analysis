@@ -3087,7 +3087,6 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -3126,6 +3125,7 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8127,6 +8127,7 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error FetchError: request to https://drafts.fxtf.org/geometry-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error FetchError: request to https://drafts.fxtf.org/geometry-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8304,6 +8305,7 @@ Informative references to this spec from:
 The following network or parsing error occurred:
 `Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error FetchError: request to https://drafts.fxtf.org/motion-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error FetchError: request to https://drafts.fxtf.org/motion-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8370,6 +8372,7 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered network error FetchError: request to https://drafts.csswg.org/resize-observer-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered network error FetchError: request to https://drafts.csswg.org/resize-observer-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8401,6 +8404,7 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/scroll-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/scroll-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8437,6 +8441,7 @@ Informative references to this spec from:
 The following network or parsing error occurred:
 `Error: Loading https://drafts.csswg.org/selectors-4/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/selectors-4/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8471,6 +8476,7 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.csswg.org/web-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -10597,7 +10603,6 @@ Informative references to this spec from:
 The following network or parsing error occurred:
 `Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
