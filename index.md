@@ -3071,7 +3071,7 @@ No informative reference to this spec from other specs.
 
 ## Cascading Style Sheets (CSS) Working Group {#group-cascading_style_sheets_css_working_group}
 
-### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3084,17 +3084,17 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 257)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3111,7 +3111,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Compositing and Blending Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3123,20 +3123,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
-     * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
-     * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 27)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3344,8 +3340,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-anchor-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-anchor-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-anchor-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-anchor-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-anchor-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-anchor-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 8)
@@ -3378,8 +3375,10 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-animationworklet-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443 Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-animationworklet-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 263)
@@ -3408,8 +3407,10 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 264)
@@ -3441,8 +3442,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-animations-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-animations-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-animations-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 9)
@@ -3476,8 +3478,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-backgrounds-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-backgrounds-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 265)
@@ -3515,8 +3518,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-backgrounds-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-backgrounds-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-backgrounds-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 10)
@@ -3599,8 +3603,10 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-align-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-align-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-align-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-align-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-align-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-align-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 262)
@@ -3632,8 +3638,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-box-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-box-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-box-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-box-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 266)
@@ -3672,8 +3679,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-box-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-box-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-box-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-box-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 267)
@@ -3875,8 +3883,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 270)
@@ -3918,8 +3927,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 271)
@@ -3965,8 +3975,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 272)
@@ -4076,8 +4087,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-6/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered network error FetchError: request to https://drafts.csswg.org/css-cascade-6/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 273)
@@ -4121,8 +4133,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-adjust-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-adjust-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 276)
@@ -4157,8 +4170,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-color-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-color-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-color-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-color-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 274)
@@ -4199,8 +4213,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-color-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-color-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-color-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-color-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 275)
@@ -4244,8 +4259,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-conditional-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-conditional-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-conditional-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-conditional-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-conditional-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-conditional-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 277)
@@ -4300,8 +4316,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-conditional-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-conditional-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-conditional-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-conditional-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-conditional-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-conditional-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 278)
@@ -4332,8 +4349,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-conditional-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-conditional-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-conditional-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-conditional-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-conditional-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-conditional-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 279)
@@ -4366,8 +4384,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-contain-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-contain-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-contain-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-contain-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-contain-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-contain-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 280)
@@ -4415,8 +4434,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-contain-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-contain-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-contain-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-contain-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-contain-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-contain-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 281)
@@ -4447,8 +4467,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-counter-styles-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-counter-styles-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-counter-styles-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-counter-styles-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-counter-styles-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-counter-styles-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 283)
@@ -4477,8 +4498,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-highlight-api-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-highlight-api-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 293)
@@ -4537,8 +4559,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-variables-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-variables-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-variables-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-variables-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-variables-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-variables-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 25)
@@ -4590,8 +4613,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-display-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-display-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-display-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-display-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-display-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-display-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 285)
@@ -4629,8 +4653,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-easing-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-easing-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-easing-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-easing-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-easing-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-easing-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 286)
@@ -4658,8 +4683,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-easing-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-easing-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-easing-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-easing-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-easing-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-easing-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 11)
@@ -4687,8 +4713,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-env-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-env-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-env-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-env-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-env-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 12)
@@ -4751,8 +4778,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-extensions-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-extensions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-extensions-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 13)
@@ -4812,8 +4840,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-flexbox-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-flexbox-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 287)
@@ -4868,8 +4897,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-font-loading-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-font-loading-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-font-loading-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-font-loading-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-font-loading-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-font-loading-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 288)
@@ -4898,8 +4928,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-fonts-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-fonts-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-fonts-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-fonts-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-fonts-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-fonts-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 289)
@@ -4968,8 +4999,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-fonts-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-fonts-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 290)
@@ -5016,8 +5048,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-break-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-break-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-break-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-break-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-break-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 268)
@@ -5051,8 +5084,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-break-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-break-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-break-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-break-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 269)
@@ -5115,8 +5149,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-gcpm-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-gcpm-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 291)
@@ -5144,8 +5179,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-gcpm-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-gcpm-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 14)
@@ -5176,8 +5212,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-content-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-content-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-content-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-content-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-content-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-content-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 282)
@@ -5220,8 +5257,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-grid-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-grid-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-grid-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-grid-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 292)
@@ -5272,8 +5310,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-grid-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-grid-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-grid-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-grid-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-grid-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 15)
@@ -5302,8 +5341,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-images-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-images-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-images-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-images-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-images-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-images-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 294)
@@ -5364,8 +5404,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-images-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-images-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-images-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-images-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-images-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-images-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 295)
@@ -5410,8 +5451,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-images-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-images-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-images-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-images-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-images-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-images-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 16)
@@ -5443,8 +5485,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-inline-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-inline-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-inline-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-inline-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-inline-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-inline-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 296)
@@ -5503,8 +5546,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-layout-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443 Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-layout-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 297)
@@ -5536,8 +5580,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-line-grid-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-line-grid-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-line-grid-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-line-grid-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-line-grid-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-line-grid-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 298)
@@ -5565,8 +5610,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-link-params-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-link-params-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-link-params-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-link-params-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-link-params-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-link-params-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 17)
@@ -5595,8 +5641,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-lists-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-lists-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-lists-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-lists-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-lists-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-lists-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 299)
@@ -5645,8 +5692,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-logical-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-logical-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-logical-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-logical-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-logical-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-logical-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 300)
@@ -5695,8 +5743,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered network error FetchError: request to https://drafts.fxtf.org/css-masking-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered network error FetchError: request to https://drafts.fxtf.org/css-masking-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 301)
@@ -5744,8 +5793,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-size-adjust-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-size-adjust-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-size-adjust-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 22)
@@ -5777,8 +5827,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-multicol-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-multicol-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-multicol-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-multicol-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-multicol-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-multicol-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 302)
@@ -5806,8 +5857,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-multicol-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-multicol-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-multicol-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 18)
@@ -5838,8 +5890,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-namespaces-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-namespaces-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-namespaces-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-namespaces-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-namespaces-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-namespaces-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 303)
@@ -5868,8 +5921,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-nesting-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-nesting-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-nesting-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-nesting-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-nesting-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-nesting-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 305)
@@ -5938,8 +5992,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-overflow-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-overflow-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 306)
@@ -6015,8 +6070,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-overflow-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-overflow-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 307)
@@ -6053,8 +6109,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-overscroll-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-overscroll-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-overscroll-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-overscroll-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-overscroll-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-overscroll-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 308)
@@ -6083,8 +6140,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-page-floats-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-page-floats-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-page-floats-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-floats-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-page-floats-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-floats-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 310)
@@ -6115,8 +6173,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-page-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-page-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-page-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-page-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-3/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 309)
@@ -6170,8 +6229,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-paint-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443 Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-paint-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 311)
@@ -6273,8 +6333,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-properties-values-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-properties-values-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 313)
@@ -6310,8 +6371,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-pseudo-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-pseudo-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 314)
@@ -6372,8 +6434,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-regions-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-regions-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-regions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-regions-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-regions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-regions-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 315)
@@ -6433,8 +6496,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-round-display-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-round-display-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 317)
@@ -6609,8 +6673,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-scroll-snap-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-scroll-snap-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-scroll-snap-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-scroll-snap-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-scroll-snap-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-scroll-snap-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 20)
@@ -6736,8 +6801,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-shapes-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-shapes-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-shapes-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 21)
@@ -6773,8 +6839,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-nav-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-nav-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-nav-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-nav-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 304)
@@ -7304,8 +7371,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-transitions-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-transitions-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-transitions-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 23)
@@ -7379,8 +7447,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-typed-om-2/ failed, reason: connect ECONNREFUSED 198.74.50.246:443 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-typed-om-2/ failed, reason: connect ECONNREFUSED 198.74.50.246:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 6)
@@ -7681,8 +7750,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-values-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-values-5/ triggered network error FetchError: request to https://drafts.csswg.org/css-values-5/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 24)
@@ -7747,8 +7817,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-viewport-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-viewport-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 284)
@@ -7989,8 +8060,10 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error FetchError: request to https://drafts.fxtf.org/filter-effects-2/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error FetchError: request to https://drafts.fxtf.org/filter-effects-2/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 28)
@@ -8021,8 +8094,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/font-metrics-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/font-metrics-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 7)
@@ -8250,7 +8324,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Proposals for the future of CSS Paged Media {data-spec=true data-missingDfns=true data-ok=true}
+### Proposals for the future of CSS Paged Media {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8262,7 +8336,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 19)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8318,7 +8401,6 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/scroll-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/scroll-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8355,7 +8437,6 @@ Informative references to this spec from:
 The following network or parsing error occurred:
 `Error: Loading https://drafts.csswg.org/selectors-4/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/selectors-4/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-4/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8390,7 +8471,6 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.csswg.org/web-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-1/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -8441,8 +8521,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/web-animations-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/web-animations-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443 Error: Loading https://drafts.csswg.org/web-animations-2/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-2/ failed, reason: connect ECONNREFUSED 173.230.149.95:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 26)
@@ -10500,7 +10581,7 @@ Informative references to this spec from:
 
 ## SVG Working Group {#group-svg_working_group}
 
-### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10513,17 +10594,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ECONNREFUSED 23.92.26.181:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 257)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11110,8 +11191,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-properties-values-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-properties-values-api-1/ failed, reason: connect ECONNREFUSED 198.74.50.246:443
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 313)
