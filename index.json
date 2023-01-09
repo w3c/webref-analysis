@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-09T13:40:57.291Z",
+  "date": "2023-01-09T18:38:44.114Z",
   "stats": {
     "crawled": 532,
     "errors": 0,
@@ -1022,7 +1022,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "22 December 2022",
+      "date": "9 January 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -7446,7 +7446,7 @@
     {
       "title": "CSS Color Module Level 6",
       "shortname": "css-color-6",
-      "date": "21 October 2022",
+      "date": "9 January 2023",
       "url": "https://drafts.csswg.org/css-color-6/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-6/",
@@ -22553,7 +22553,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "05 January 2023",
+      "date": "09 January 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -22608,7 +22608,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "05 January 2023",
+      "date": "09 January 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -34408,7 +34408,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "19 December 2022",
+      "date": "09 January 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
