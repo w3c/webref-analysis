@@ -9,30 +9,28 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/): `Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: read ECONNRESET Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: read ECONNRESET
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/): `Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 260)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/): `Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: read ECONNRESET Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: read ECONNRESET
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/): `Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 31)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error FetchError: request to https://drafts.csswg.org/css2/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css2/ triggered network error FetchError: request to https://drafts.csswg.org/css2/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 357)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error FetchError: request to https://drafts.csswg.org/css2/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css2/ triggered network error FetchError: request to https://drafts.csswg.org/css2/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 358)
@@ -79,16 +77,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 10)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/): `Error: Loading https://drafts.csswg.org/css-ui-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-ui-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-ui-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-ui-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/): `Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 348)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/): `Error: Loading https://drafts.csswg.org/css-ui-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-ui-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-ui-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-ui-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/): `Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 349)
@@ -261,9 +257,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 302)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/): `Error: Loading https://drafts.csswg.org/css-variables-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-variables-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-variables-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-variables-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/): `Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 352)
@@ -303,9 +298,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 15)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/): `Error: Loading https://drafts.csswg.org/css-exclusions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-exclusions-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-exclusions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-exclusions-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/): `Error: Loading https://drafts.csswg.org/css-exclusions-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-exclusions-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 359)
@@ -317,14 +311,13 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 16)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/): `Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error FetchError: request to https://drafts.fxtf.org/fill-stroke-3/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error FetchError: request to https://drafts.fxtf.org/fill-stroke-3/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/): `Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 373)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/): `Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-flexbox-1/ failed, reason: read ECONNRESET Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-flexbox-1/ failed, reason: read ECONNRESET
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/): `Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-flexbox-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-flexbox-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -464,7 +457,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 21)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/): `Error: Loading https://drafts.csswg.org/css-lists-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-lists-3/ failed, reason: read ECONNRESET Error: Loading https://drafts.csswg.org/css-lists-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-lists-3/ failed, reason: read ECONNRESET
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/): `Error: Loading https://drafts.csswg.org/css-lists-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-lists-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-lists-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-lists-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -520,9 +513,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 314)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/): `Error: Loading https://drafts.csswg.org/cssom-1/ triggered network error FetchError: request to https://drafts.csswg.org/cssom-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/cssom-1/ triggered network error FetchError: request to https://drafts.csswg.org/cssom-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/): `Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 360)
@@ -723,14 +715,13 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 342)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/): `Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-text-decor-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-text-decor-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/): `Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 343)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/): `Error: Loading https://drafts.csswg.org/css-text-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-text-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-text-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-text-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/): `Error: Loading https://drafts.csswg.org/css-text-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-text-3/ failed, reason: read ECONNRESET Error: Loading https://drafts.csswg.org/css-text-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-text-3/ failed, reason: read ECONNRESET
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -744,23 +735,20 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 341)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/): `Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-transforms-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-transforms-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/): `Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 344)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/): `Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-transforms-2/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered network error FetchError: request to https://drafts.csswg.org/css-transforms-2/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/): `Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 345)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/): `Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-transitions-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-transitions-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Transitions](https://drafts.csswg.org/css-transitions-1/): `Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 346)
@@ -772,9 +760,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 27)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-typed-om-1/ failed, reason: read ECONNRESET Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error FetchError: request to https://drafts.css-houdini.org/css-typed-om-1/ failed, reason: read ECONNRESET
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 347)
@@ -786,16 +773,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 6)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/): `Error: Loading https://drafts.csswg.org/css-values-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-values-3/ failed, reason: read ECONNRESET Error: Loading https://drafts.csswg.org/css-values-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-values-3/ failed, reason: read ECONNRESET
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/): `Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 350)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/): `Error: Loading https://drafts.csswg.org/css-values-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-values-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-values-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-values-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/): `Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 351)
@@ -807,9 +792,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 28)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/): `Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-view-transitions-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-view-transitions-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/): `Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 353)
@@ -821,37 +805,32 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 292)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/): `Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-will-change-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered network error FetchError: request to https://drafts.csswg.org/css-will-change-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/): `Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 354)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/): `Error: Loading https://drafts.csswg.org/css-writing-modes-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-writing-modes-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-writing-modes-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-writing-modes-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/): `Error: Loading https://drafts.csswg.org/css-writing-modes-3/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-writing-modes-3/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 355)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/): `Error: Loading https://drafts.csswg.org/css-writing-modes-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-writing-modes-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-writing-modes-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-writing-modes-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/): `Error: Loading https://drafts.csswg.org/css-writing-modes-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-writing-modes-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 356)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/): `Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered network error FetchError: request to https://drafts.csswg.org/cssom-view-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered network error FetchError: request to https://drafts.csswg.org/cssom-view-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/): `Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 361)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/): `Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error FetchError: request to https://drafts.fxtf.org/filter-effects-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error FetchError: request to https://drafts.fxtf.org/filter-effects-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/): `Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 374)
@@ -870,10 +849,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 7)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/): `Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error FetchError: request to https://drafts.fxtf.org/geometry-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error FetchError: request to https://drafts.fxtf.org/geometry-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/): `Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 380)
@@ -885,33 +862,32 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 410)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/): `Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/): `Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 411)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/): `Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-5/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-5/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/): `Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/mediaqueries-5/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 412)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/): `Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error FetchError: request to https://drafts.fxtf.org/motion-1/ failed, reason: read ECONNRESET Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error FetchError: request to https://drafts.fxtf.org/motion-1/ failed, reason: read ECONNRESET
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/): `Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503 Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 420)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/): `Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 419)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/): `Error: Loading https://drafts.csswg.org/selectors-nonelement-1/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-nonelement-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/selectors-nonelement-1/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-nonelement-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/): `Error: Loading https://drafts.csswg.org/selectors-nonelement-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/selectors-nonelement-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 460)
@@ -923,24 +899,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 23)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Resize Observer](https://drafts.csswg.org/resize-observer-1/): `Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered network error FetchError: request to https://drafts.csswg.org/resize-observer-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered network error FetchError: request to https://drafts.csswg.org/resize-observer-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Resize Observer](https://drafts.csswg.org/resize-observer-1/): `Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/resize-observer-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 448)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/): `Error: Loading https://svgwg.org/svg2-draft/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://svgwg.org/svg2-draft/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 468)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/): `Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/scroll-animations-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/scroll-animations-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/): `Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/scroll-animations-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 454)
@@ -953,18 +919,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 458)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Selectors Level 4](https://drafts.csswg.org/selectors-4/): `Error: Loading https://drafts.csswg.org/selectors-4/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/selectors-4/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/): `Error: Loading https://drafts.csswg.org/selectors-4/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/selectors-4/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 459)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Web Animations](https://drafts.csswg.org/web-animations-1/): `Error: Loading https://drafts.csswg.org/web-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered network error FetchError: request to https://drafts.csswg.org/web-animations-1/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/): `Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/web-animations-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 485)
@@ -1333,6 +1295,37 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/xml-names11/`](http://www.w3.org/TR/xml-names11/) but does not list it in its references
     * [`http://www.w3.org/TR/xml-stylesheet/`](http://www.w3.org/TR/xml-stylesheet/) but does not list it in its references
     * [`http://www.w3.org/TR/xsl/`](http://www.w3.org/TR/xsl/) but does not list it in its references
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) links to:
+    * [`http://w3c.github.io/selection-api/`](http://w3c.github.io/selection-api/) but does not list it in its references
+    * [`https://w3c.github.io/web-animations/`](https://w3c.github.io/web-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/2001/REC-xlink-20010627/`](https://www.w3.org/TR/2001/REC-xlink-20010627/) but does not list it in its references
+    * [`https://www.w3.org/TR/2003/REC-MathML2-20031021/`](https://www.w3.org/TR/2003/REC-MathML2-20031021/) but does not list it in its references
+    * [`https://www.w3.org/TR/2012/CR-WebIDL-20120419/`](https://www.w3.org/TR/2012/CR-WebIDL-20120419/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/REC-css-style-attr-20131107/`](https://www.w3.org/TR/2013/REC-css-style-attr-20131107/) but does not list it in its references
+    * [`https://www.w3.org/TR/2015/WD-svg-markers-20150407/`](https://www.w3.org/TR/2015/WD-svg-markers-20150407/) but does not list it in its references
+    * [`https://www.w3.org/TR/2015/WD-svg-strokes-20150407/`](https://www.w3.org/TR/2015/WD-svg-strokes-20150407/) but does not list it in its references
+    * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-content-3/`](https://www.w3.org/TR/css-content-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-position-3/`](https://www.w3.org/TR/css-position-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-selectors-3/`](https://www.w3.org/TR/css-selectors-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-transforms/`](https://www.w3.org/TR/css3-transforms/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/filter-effects/`](https://www.w3.org/TR/filter-effects/) but does not list it in its references
+    * [`https://www.w3.org/TR/orientation-event/`](https://www.w3.org/TR/orientation-event/) but does not list it in its references
+    * [`https://www.w3.org/TR/resource-hints/`](https://www.w3.org/TR/resource-hints/) but does not list it in its references
+    * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
+    * [`https://www.w3.org/TR/smil/`](https://www.w3.org/TR/smil/) but does not list it in its references
+    * [`https://www.w3.org/TR/svg-integration/`](https://www.w3.org/TR/svg-integration/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
+    * [`https://www.w3.org/TR/xlink/`](https://www.w3.org/TR/xlink/) but does not list it in its references
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html) links to:
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/) but does not list it in its references
@@ -1441,7 +1434,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 241 missing references for links found in 116 specifications
+=> 271 missing references for links found in 117 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1639,6 +1632,36 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`http://www.w3.org/TR/xmlschema-2/`](http://www.w3.org/TR/xmlschema-2/) but related reference "SCHEMA2" uses URL [`http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/)
     * [`http://www.w3.org/TR/xslt`](http://www.w3.org/TR/xslt) but related reference "XSLT" uses URL [`http://www.w3.org/TR/1999/REC-xslt-19991116`](http://www.w3.org/TR/1999/REC-xslt-19991116)
     * [`http://www.w3.org/TR/xslt20/`](http://www.w3.org/TR/xslt20/) but related reference "XSLT2" uses URL [`http://www.w3.org/TR/2007/REC-xslt20-20070123/`](http://www.w3.org/TR/2007/REC-xslt20-20070123/)
+- [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/) links to:
+    * [`http://www.w3.org/TR/2014/CR-geometry-1-20141125/`](http://www.w3.org/TR/2014/CR-geometry-1-20141125/) but related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+    * [`https://w3c.github.io/clipboard-apis/`](https://w3c.github.io/clipboard-apis/) but related reference "clipboard-apis" uses URL [`https://www.w3.org/TR/clipboard-apis/`](https://www.w3.org/TR/clipboard-apis/)
+    * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/) but related reference "graphics-aria-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
+    * [`https://w3c.github.io/svg-aam/`](https://w3c.github.io/svg-aam/) but related reference "svg-aam-1.0" uses URL [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/)
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "uievents" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+    * [`https://www.w3.org/TR/2001/REC-smil-animation-20010904/`](https://www.w3.org/TR/2001/REC-smil-animation-20010904/) but related reference "smil-animation" uses URL [`https://www.w3.org/TR/smil-animation/`](https://www.w3.org/TR/smil-animation/)
+    * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "xml-names" uses URL [`https://www.w3.org/TR/xml-names`](https://www.w3.org/TR/xml-names)
+    * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/) but related reference "xml" uses URL [`https://www.w3.org/TR/xml`](https://www.w3.org/TR/xml)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html) but related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+    * [`https://www.w3.org/TR/2011/WD-css3-fonts-20111004/`](https://www.w3.org/TR/2011/WD-css3-fonts-20111004/) but related reference "css-fonts-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
+    * [`https://www.w3.org/TR/2014/CR-html5-20140204/dom.html`](https://www.w3.org/TR/2014/CR-html5-20140204/dom.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+    * [`https://www.w3.org/TR/2014/WD-dom-20140204/`](https://www.w3.org/TR/2014/WD-dom-20140204/) but related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/2014/WD-geometry-1-20140522/`](https://www.w3.org/TR/2014/WD-geometry-1-20140522/) but related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+    * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113`](https://www.w3.org/TR/2015/CR-compositing-1-20150113) but related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+    * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113/`](https://www.w3.org/TR/2015/CR-compositing-1-20150113/) but related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+    * [`https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/`](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/) but related reference "UAAG20" uses URL [`https://www.w3.org/TR/UAAG20/`](https://www.w3.org/TR/UAAG20/)
+    * [`https://www.w3.org/TR/compositing/`](https://www.w3.org/TR/compositing/) but related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but related reference "css-writing-modes-3" uses URL [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+    * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/) but related reference "ReferrerPolicy" uses URL [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html) links to:
     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
@@ -1724,7 +1747,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 231 inconsistent references for links found in 101 specifications
+=> 260 inconsistent references for links found in 102 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
