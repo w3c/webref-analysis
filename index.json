@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-11T00:48:15.113Z",
+  "date": "2023-01-11T06:43:36.434Z",
   "stats": {
     "crawled": 532,
     "errors": 8,
@@ -12,7 +12,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "10 January 2023",
+      "date": "11 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -54,7 +54,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "10 January 2023",
+      "date": "11 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -96,7 +96,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "10 January 2023",
+      "date": "11 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -138,7 +138,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "10 January 2023",
+      "date": "11 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -3314,11 +3314,6 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
             },
             {
-              "url": "https://drafts.csswg.org/css-backgrounds-4/",
-              "title": "CSS Backgrounds and Borders Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -3584,11 +3579,6 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -3834,11 +3824,6 @@
               "crawled": "https://drafts.csswg.org/selectors-4/"
             },
             {
-              "url": "https://www.w3.org/TR/web-animations-1/",
-              "title": "Web Animations",
-              "crawled": "https://drafts.csswg.org/web-animations-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -3855,6 +3840,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds and Borders Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
+            },
             {
               "url": "https://drafts.csswg.org/css-images-5/",
               "title": "CSS Images Module Level 5",
@@ -4743,6 +4733,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -9780,11 +9775,6 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-ruby-1/",
-              "title": "CSS Ruby Annotation Layout Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-ruby-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-scoping-1/",
               "title": "CSS Scoping Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scoping-1/"
@@ -9817,19 +9807,9 @@
               "crawled": "https://drafts.csswg.org/css-cascade-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-variables-2/",
-              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-variables-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
               "url": "https://wicg.github.io/local-font-access/",
@@ -12713,7 +12693,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "1 December 2022",
+      "date": "10 January 2023",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -15846,6 +15826,16 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds and Borders Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
@@ -15881,12 +15871,32 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-writing-modes-3/",
+              "title": "CSS Writing Modes Level 3",
+              "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-writing-modes-4/",
+              "title": "CSS Writing Modes Level 4",
+              "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-align-3/",
+              "title": "CSS Box Alignment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-align-3/"
+            },
             {
               "url": "https://www.w3.org/TR/WGSL/",
               "title": "WebGPU Shading Language",
@@ -25512,7 +25522,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "10 January 2023",
+      "date": "11 January 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34584,7 +34594,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "9 January 2023",
+      "date": "10 January 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -34641,7 +34651,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "9 January 2023",
+      "date": "10 January 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -35691,6 +35701,11 @@
               "url": "https://wicg.github.io/portals/",
               "title": "Portals",
               "crawled": "https://wicg.github.io/portals/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+              "title": "Prefetch",
+              "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -41608,7 +41623,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "9 January 2023",
+      "date": "10 January 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -42330,7 +42345,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "10 January 2023",
+      "date": "11 January 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -47665,6 +47680,11 @@
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://w3c.github.io/mediacapture-automation/",
