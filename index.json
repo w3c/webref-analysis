@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-11T06:43:36.434Z",
+  "date": "2023-01-11T10:51:07.343Z",
   "stats": {
-    "crawled": 532,
-    "errors": 8,
-    "studied": 532
+    "crawled": 534,
+    "errors": 0,
+    "studied": 534
   },
   "results": [
     {
@@ -1693,7 +1693,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies",
+              "title": "Cookies Having Independent Partitioned State specification",
+              "crawled": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -2101,7 +2107,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 260)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -2213,7 +2218,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 31)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -2904,6 +2908,48 @@
       }
     },
     {
+      "title": "Cookies Having Independent Partitioned State specification",
+      "shortname": "partitioned-cookies",
+      "date": "5 January 2023",
+      "url": "https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies",
+      "nightly": {
+        "url": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html",
+        "status": "Editor's Draft",
+        "repository": "https://github.com/DCtheTall/CHIPS-spec",
+        "alternateUrls": [],
+        "sourcePath": "draft-cutler-httpbis-partitioned-cookies.md",
+        "filename": "draft-cutler-httpbis-partitioned-cookies.html"
+      },
+      "crawled": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "HTTP Working Group",
+          "url": "https://datatracker.ietf.org/wg/httpbis/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
       "date": "10 January 2023",
@@ -2939,7 +2985,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies",
+              "title": "Cookies Having Independent Partitioned State specification",
+              "crawled": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -3422,6 +3474,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css3-exclusions/",
@@ -4393,13 +4450,7 @@
               "crawled": "https://w3c.github.io/paint-timing/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/mixed-content/",
-              "title": "Mixed Content",
-              "crawled": "https://w3c.github.io/webappsec-mixed-content/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -4666,6 +4717,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-3/",
@@ -5111,6 +5167,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css3-exclusions/",
@@ -5651,6 +5712,11 @@
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
@@ -5885,6 +5951,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-logical-1/",
@@ -6408,6 +6479,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-env-1/",
               "title": "CSS Environment Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-env-1/"
@@ -6774,6 +6850,11 @@
               "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
@@ -7022,7 +7103,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-color-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-color-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 280)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8069,6 +8149,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-content-3/",
               "title": "CSS Generated Content Module Level 3",
               "crawled": "https://drafts.csswg.org/css-content-3/"
@@ -8735,6 +8820,423 @@
       }
     },
     {
+      "title": "CSS Display Module Level 4",
+      "shortname": "css-display-4",
+      "date": "10 January 2023",
+      "url": "https://drafts.csswg.org/css-display-4/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-display-4/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-display-4/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-display-4/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-display-4/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-display-3/",
+          "https://www.w3.org/TR/css-logical/",
+          "https://www.w3.org/TR/css-multicol-1/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/",
+          "https://www.w3.org/TR/webarch/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-speech-1/",
+            "ref": {
+              "name": "CSS-SPEECH-1",
+              "url": "https://drafts.csswg.org/css-speech-1/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/CSS21/",
+              "title": "CSS 2",
+              "crawled": "https://drafts.csswg.org/css2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/CSS22/",
+              "title": "CSS 2",
+              "crawled": "https://drafts.csswg.org/css2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ui-4/",
+              "title": "CSS Basic User Interface Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-align-3/",
+              "title": "CSS Box Alignment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-align-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-4/",
+              "title": "CSS Box Model Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-box-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-sizing-3/",
+              "title": "CSS Box Sizing Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-sizing-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-sizing-4/",
+              "title": "CSS Box Sizing Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-sizing-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-flexbox-1/",
+              "title": "CSS Flexible Box Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-flexbox-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-3/",
+              "title": "CSS Fragmentation Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-break-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-break-4/",
+              "title": "CSS Fragmentation Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-break-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-content-3/",
+              "title": "CSS Generated Content Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-content-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-grid-1/",
+              "title": "CSS Grid Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-grid-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-grid-2/",
+              "title": "CSS Grid Layout Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-grid-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-grid-3/",
+              "title": "CSS Grid Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-grid-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-images-5/",
+              "title": "CSS Images Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-images-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-inline-3/",
+              "title": "CSS Inline Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-inline-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-layout-api-1/",
+              "title": "CSS Layout API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-line-grid-1/",
+              "title": "CSS Line Grid Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-line-grid-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-lists-3/",
+              "title": "CSS Lists and Counters Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-logical-1/",
+              "title": "CSS Logical Properties and Values Level 1",
+              "crawled": "https://drafts.csswg.org/css-logical-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-size-adjust-1/",
+              "title": "CSS Mobile Text Size Adjustment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overscroll-1/",
+              "title": "CSS Overscroll Behavior Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-overscroll-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-page-3/",
+              "title": "CSS Paged Media Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-page-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-paint-api-1/",
+              "title": "CSS Painting API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-pseudo-4/",
+              "title": "CSS Pseudo-Elements Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-regions-1/",
+              "title": "CSS Regions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-regions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-rhythm-1/",
+              "title": "CSS Rhythmic Sizing",
+              "crawled": "https://drafts.csswg.org/css-rhythm-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ruby-1/",
+              "title": "CSS Ruby Annotation Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-ruby-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scoping-1/",
+              "title": "CSS Scoping Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scoping-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scroll-anchoring-1/",
+              "title": "CSS Scroll Anchoring Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scroll-anchoring-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scroll-snap-1/",
+              "title": "CSS Scroll Snap Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-shapes-2/",
+              "title": "CSS Shapes Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-shapes-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nav-1/",
+              "title": "CSS Spatial Navigation Level 1",
+              "crawled": "https://drafts.csswg.org/css-nav-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-speech-1/",
+              "title": "CSS Speech Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-speech-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-tables-3/",
+              "title": "CSS Table Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-tables-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-3/",
+              "title": "CSS Text Decoration Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-decor-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-4/",
+              "title": "CSS Text Decoration Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-3/",
+              "title": "CSS Text Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-4/",
+              "title": "CSS Text Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-writing-modes-3/",
+              "title": "CSS Writing Modes Level 3",
+              "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-writing-modes-4/",
+              "title": "CSS Writing Modes Level 4",
+              "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
+              "title": "Scroll-linked Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/selectors-4/",
+              "title": "Selectors Level 4",
+              "crawled": "https://drafts.csswg.org/selectors-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-3/",
+              "title": "CSS Conditional Rules Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-5/",
+              "title": "CSS Fonts Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-fonts-5/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "CSS Easing Functions Level 1",
       "shortname": "css-easing-1",
       "date": "15 July 2022",
@@ -9215,6 +9717,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -10101,6 +10608,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -10777,6 +11289,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-grid-1/",
               "title": "CSS Grid Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-grid-1/"
@@ -11066,6 +11583,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -11532,6 +12054,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -12948,6 +13475,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
               "title": "CSS Flexible Box Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
@@ -13507,6 +14039,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-break-3/",
               "title": "CSS Fragmentation Module Level 3",
               "crawled": "https://drafts.csswg.org/css-break-3/"
@@ -13810,6 +14347,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css3-exclusions/",
@@ -14186,6 +14728,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -14663,6 +15210,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-inline-3/",
@@ -15528,6 +16080,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-content-3/",
               "title": "CSS Generated Content Module Level 3",
               "crawled": "https://drafts.csswg.org/css-content-3/"
@@ -15593,7 +16150,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ETIMEDOUT 173.230.149.95:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -15663,7 +16219,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -15839,6 +16395,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-logical-1/",
@@ -16635,6 +17196,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -17538,6 +18104,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-easing-1/",
               "title": "CSS Easing Functions Level 1",
               "crawled": "https://drafts.csswg.org/css-easing-1/"
@@ -18122,6 +18693,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-easing-1/",
@@ -19016,6 +19592,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css3-exclusions/",
@@ -20643,6 +21224,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://drafts.csswg.org/css-env-1/",
@@ -23803,7 +24389,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "6 January 2023",
+      "date": "11 January 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -25768,6 +26354,11 @@
               "crawled": "https://wicg.github.io/cookie-store/"
             },
             {
+              "url": "https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies",
+              "title": "Cookies Having Independent Partitioned State specification",
+              "crawled": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html"
+            },
+            {
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
               "title": "Cookies: HTTP State Management Mechanism",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html"
@@ -25871,6 +26462,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -30849,7 +31445,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-3/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/mediaqueries-3/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 410)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -31187,6 +31782,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-break-3/",
@@ -31653,7 +32253,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503 Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 420)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -31671,7 +32270,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -32151,7 +32750,7 @@
     {
       "title": "Mixed Content",
       "shortname": "mixed-content",
-      "date": "4 October 2021",
+      "date": "11 January 2023",
       "url": "https://www.w3.org/TR/mixed-content/",
       "release": {
         "url": "https://www.w3.org/TR/mixed-content/",
@@ -32188,13 +32787,6 @@
         },
         "missingLinkRef": [],
         "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-secure-contexts/",
-            "ref": {
-              "name": "SECURE-CONTEXTS",
-              "url": "https://www.w3.org/TR/secure-contexts/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/2008/REC-xml-20081126/",
             "ref": {
@@ -35039,7 +35631,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 23)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -35057,7 +35648,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -39853,6 +40444,11 @@
               "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -40972,7 +41568,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 458)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

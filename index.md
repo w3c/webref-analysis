@@ -846,6 +846,27 @@ Informative references to this spec from:
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 
 
+### Cookies Having Independent Partitioned State specification {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies](https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies)
+- Crawled URL: [https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
+- Crawled version: 5 January 2023
+- Editor's Draft: [https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
+- Shortname: partitioned-cookies
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Cookies: HTTP State Management Mechanism {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -862,7 +883,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
 
 No informative reference to this spec from other specs.
 
@@ -3076,7 +3099,7 @@ No informative reference to this spec from other specs.
 
 ## Cascading Style Sheets (CSS) Working Group {#group-cascading_style_sheets_css_working_group}
 
-### Compositing and Blending Level 1 {data-spec=true data-error=true}
+### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3089,16 +3112,17 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 260)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3117,7 +3141,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Compositing and Blending Level 2 {data-spec=true data-error=true}
+### Compositing and Blending Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3129,16 +3153,20 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 31)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
+     * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
+     * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3211,6 +3239,7 @@ Normative references to this spec from:
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -3507,9 +3536,7 @@ Normative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 
-Informative references to this spec from:
-
-- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+No informative reference to this spec from other specs.
 
 
 ### CSS Backgrounds and Borders Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -3616,6 +3643,7 @@ Normative references to this spec from:
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
@@ -3769,6 +3797,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
@@ -3897,6 +3926,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
@@ -3976,6 +4006,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
@@ -4116,6 +4147,7 @@ Normative references to this spec from:
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
@@ -4204,6 +4236,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
@@ -4279,7 +4312,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Color Module Level 3 {data-spec=true data-error=true}
+### CSS Color Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4292,16 +4325,19 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-color-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-color-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 280)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224`](http://www.w3.org/TR/1999/REC-html401-19991224)
+     * [`http://www.w3.org/TR/2001/REC-SVG-20010904`](http://www.w3.org/TR/2001/REC-SVG-20010904)
+     * [`http://www.w3.org/TR/2008/REC-WCAG20-20081211/`](http://www.w3.org/TR/2008/REC-WCAG20-20081211/)
+     * [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2003/CR-css3-color-20030514/`](https://www.w3.org/TR/2003/CR-css3-color-20030514/)
+     * [`https://www.w3.org/TR/2008/REC-WCAG20-20081211/`](https://www.w3.org/TR/2008/REC-WCAG20-20081211/)
+     * [`https://www.w3.org/TR/2011/REC-css3-color-20110607/`](https://www.w3.org/TR/2011/REC-css3-color-20110607/)
+     * [`https://www.w3.org/TR/2018/REC-css-ui-3-20180621/`](https://www.w3.org/TR/2018/REC-css-ui-3-20180621/)
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`http://www.w3.org/TR/2011/REC-SVG11-20110816/`](http://www.w3.org/TR/2011/REC-SVG11-20110816/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4638,6 +4674,7 @@ Normative references to this spec from:
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
@@ -4865,6 +4902,109 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+### CSS Display Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-display-4/](https://drafts.csswg.org/css-display-4/)
+- Crawled URL: [https://drafts.csswg.org/css-display-4/](https://drafts.csswg.org/css-display-4/)
+- Crawled version: 10 January 2023
+- Editor's Draft: [https://drafts.csswg.org/css-display-4/](https://drafts.csswg.org/css-display-4/)
+- Shortname: css-display-4
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
+     * [`https://www.w3.org/TR/css-logical/`](https://www.w3.org/TR/css-logical/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/webarch/`](https://www.w3.org/TR/webarch/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-speech-1/`](https://www.w3.org/TR/css-speech-1/), related reference "CSS-SPEECH-1" uses URL [`https://drafts.csswg.org/css-speech-1/`](https://drafts.csswg.org/css-speech-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
+- [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
+- [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
+- [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
+- [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
+- [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
+- [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
+- [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Images Module Level 5](https://drafts.csswg.org/css-images-5/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
+- [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
+- [CSS Mobile Text Size Adjustment Module Level 1](https://drafts.csswg.org/css-size-adjust-1/)
+- [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
+- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
+- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
+- [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
+- [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
+- [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
+- [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
+- [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
+- [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
+- [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
+- [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
+- [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
+
+Informative references to this spec from:
+
+- [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
+
+
 ### CSS Easing Functions Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
@@ -5062,6 +5202,7 @@ Normative references to this spec from:
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
@@ -5341,6 +5482,7 @@ Normative references to this spec from:
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
@@ -5566,6 +5708,7 @@ Normative references to this spec from:
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -5658,6 +5801,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
@@ -5805,6 +5949,7 @@ Normative references to this spec from:
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
@@ -6287,6 +6432,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
@@ -6463,6 +6609,7 @@ Normative references to this spec from:
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
@@ -6546,6 +6693,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
@@ -6649,6 +6797,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
@@ -6814,6 +6963,7 @@ Normative references to this spec from:
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
@@ -7159,6 +7309,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -7170,7 +7321,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 
 
-### CSS Style Attributes {data-spec=true data-error=true}
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -7183,16 +7334,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 337)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7279,6 +7421,7 @@ Normative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
@@ -7511,6 +7654,7 @@ Normative references to this spec from:
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
@@ -7801,6 +7945,7 @@ Normative references to this spec from:
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/)
 - [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
@@ -7940,6 +8085,7 @@ Normative references to this spec from:
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/)
 - [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
@@ -8195,6 +8341,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
@@ -8508,7 +8655,7 @@ Informative references to this spec from:
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 
 
-### Media Queries Level 3 {data-spec=true data-error=true}
+### Media Queries Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8521,16 +8668,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/mediaqueries-3/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/mediaqueries-3/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 410)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html`](http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html)
+     * [`http://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/`](http://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/)
+     * [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/1999/REC-html401-19991224/types.html`](https://www.w3.org/TR/1999/REC-html401-19991224/types.html)
+     * [`https://www.w3.org/TR/2010/CR-css3-mediaqueries-20100727/`](https://www.w3.org/TR/2010/CR-css3-mediaqueries-20100727/)
+     * [`https://www.w3.org/TR/2018/SPSD-html401-20180327/`](https://www.w3.org/TR/2018/SPSD-html401-20180327/)
+     * [`https://www.w3.org/TR/css-cascade-5/`](https://www.w3.org/TR/css-cascade-5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8629,6 +8775,7 @@ Normative references to this spec from:
 - [CSS Conditional Values Module Level 1](https://drafts.csswg.org/css-conditional-values-1/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
@@ -8722,7 +8869,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Proposals for the future of CSS Paged Media {data-spec=true data-error=true}
+### Proposals for the future of CSS Paged Media {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -8734,16 +8881,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 23)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8816,7 +8954,7 @@ Informative references to this spec from:
 - [Scroll-linked Animations](https://drafts.csswg.org/scroll-animations-1/)
 
 
-### Selectors Level 3 {data-spec=true data-error=true}
+### Selectors Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8829,17 +8967,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 458)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/)
+     * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11071,7 +11201,7 @@ Informative references to this spec from:
 
 ## SVG Working Group {#group-svg_working_group}
 
-### Compositing and Blending Level 1 {data-spec=true data-error=true}
+### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -11084,16 +11214,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 260)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11317,6 +11448,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Images Module Level 5](https://drafts.csswg.org/css-images-5/)
@@ -11897,7 +12029,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
 
 No informative reference to this spec from other specs.
 
@@ -12048,7 +12182,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mixed-content/](https://www.w3.org/TR/mixed-content/)
 - Crawled URL: [https://w3c.github.io/webappsec-mixed-content/](https://w3c.github.io/webappsec-mixed-content/)
-- Crawled version: 4 October 2021
+- Crawled version: 11 January 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-mixed-content/](https://w3c.github.io/webappsec-mixed-content/)
 - Latest published version: [https://www.w3.org/TR/mixed-content/](https://www.w3.org/TR/mixed-content/)
 - Shortname: mixed-content
@@ -12056,7 +12190,6 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
      * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/), related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -16042,7 +16175,7 @@ Informative references to this spec from:
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 
 
-### MediaStreamTrack Content Hints {data-spec=true data-error=true}
+### MediaStreamTrack Content Hints {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -16055,15 +16188,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503 Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 420)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16566,6 +16691,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
@@ -17021,6 +17147,7 @@ Normative references to this spec from:
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
 - [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS 2](https://drafts.csswg.org/css2/)
@@ -17042,6 +17169,7 @@ Normative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Form Styling Module Level 1](https://drafts.csswg.org/css-forms-1/)
@@ -17677,7 +17805,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Crawled URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
-- Crawled version: 6 January 2023
+- Crawled version: 11 January 2023
 - Editor's Draft: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Shortname: fs
 

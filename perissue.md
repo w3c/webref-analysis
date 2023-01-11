@@ -2,71 +2,7 @@
 % Strudy
 % January 11, 2023
 
-532 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/): `Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-1/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 260)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/): `Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443 Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error FetchError: request to https://drafts.fxtf.org/compositing-2/ failed, reason: connect ETIMEDOUT 23.92.26.181:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 31)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/): `Error: Loading https://drafts.csswg.org/css-color-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-color-3/ triggered network error FetchError: request to https://drafts.csswg.org/css-color-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 280)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/): `Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error FetchError: request to https://drafts.csswg.org/css-style-attr/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 337)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Media Queries Level 3](https://drafts.csswg.org/mediaqueries-3/): `Error: Loading https://drafts.csswg.org/mediaqueries-3/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/mediaqueries-3/ triggered network error FetchError: request to https://drafts.csswg.org/mediaqueries-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 410)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [MediaStreamTrack Content Hints](https://w3c.github.io/mst-content-hint/): `Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503 Error: Loading https://w3c.github.io/mst-content-hint/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 420)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Proposals for the future of CSS Paged Media](https://drafts.csswg.org/css-page-4/): `Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/css-page-4/ triggered network error FetchError: request to https://drafts.csswg.org/css-page-4/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 23)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Selectors Level 3](https://drafts.csswg.org/selectors-3/): `Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443 Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error FetchError: request to https://drafts.csswg.org/selectors-3/ failed, reason: connect ETIMEDOUT 173.230.149.95:443
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 458)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-=> 8 specifications found
+534 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -261,6 +197,25 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/) links to:
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/) links to:
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/) but does not list it in its references
+    * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/) links to:
     * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/) but does not list it in its references
     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
@@ -423,6 +378,17 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/) links to:
+    * [`http://www.w3.org/TR/1999/REC-html401-19991224`](http://www.w3.org/TR/1999/REC-html401-19991224) but does not list it in its references
+    * [`http://www.w3.org/TR/2001/REC-SVG-20010904`](http://www.w3.org/TR/2001/REC-SVG-20010904) but does not list it in its references
+    * [`http://www.w3.org/TR/2008/REC-WCAG20-20081211/`](http://www.w3.org/TR/2008/REC-WCAG20-20081211/) but does not list it in its references
+    * [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/) but does not list it in its references
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/2003/CR-css3-color-20030514/`](https://www.w3.org/TR/2003/CR-css3-color-20030514/) but does not list it in its references
+    * [`https://www.w3.org/TR/2008/REC-WCAG20-20081211/`](https://www.w3.org/TR/2008/REC-WCAG20-20081211/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-css3-color-20110607/`](https://www.w3.org/TR/2011/REC-css3-color-20110607/) but does not list it in its references
+    * [`https://www.w3.org/TR/2018/REC-css-ui-3-20180621/`](https://www.w3.org/TR/2018/REC-css-ui-3-20180621/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/) links to:
     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -465,6 +431,15 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/) links to:
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-logical/`](https://www.w3.org/TR/css-logical/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+    * [`https://www.w3.org/TR/webarch/`](https://www.w3.org/TR/webarch/) but does not list it in its references
 - [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
 - [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/) links to:
@@ -962,6 +937,15 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Media Capabilities](https://w3c.github.io/media-capabilities/) links to [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/) but does not list it in its references
+- [Media Queries Level 3](https://drafts.csswg.org/mediaqueries-3/) links to:
+    * [`http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html`](http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html) but does not list it in its references
+    * [`http://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/`](http://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/) but does not list it in its references
+    * [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/) but does not list it in its references
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/1999/REC-html401-19991224/types.html`](https://www.w3.org/TR/1999/REC-html401-19991224/types.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2010/CR-css3-mediaqueries-20100727/`](https://www.w3.org/TR/2010/CR-css3-mediaqueries-20100727/) but does not list it in its references
+    * [`https://www.w3.org/TR/2018/SPSD-html401-20180327/`](https://www.w3.org/TR/2018/SPSD-html401-20180327/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade-5/`](https://www.w3.org/TR/css-cascade-5/) but does not list it in its references
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/) links to:
     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/) but does not list it in its references
@@ -1105,6 +1089,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) links to [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html) but does not list it in its references
+- [Selectors Level 3](https://drafts.csswg.org/selectors-3/) links to:
+    * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/) but does not list it in its references
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/) links to:
     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/) but does not list it in its references
     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/) but does not list it in its references
@@ -1216,7 +1203,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 832 missing references for links found in 223 specifications
+=> 877 missing references for links found in 229 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1249,6 +1236,12 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/) links to [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/) but related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/) links to:
+    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [Content Index](https://wicg.github.io/content-index/spec/) links to [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/) links to [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
@@ -1328,6 +1321,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [CSS Color HDR Module Level 1](https://drafts.csswg.org/css-color-hdr/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/) links to [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`http://www.w3.org/TR/2011/REC-SVG11-20110816/`](http://www.w3.org/TR/2011/REC-SVG11-20110816/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/) links to:
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1351,6 +1345,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/) links to:
+    * [`https://www.w3.org/TR/css-speech-1/`](https://www.w3.org/TR/css-speech-1/) but related reference "CSS-SPEECH-1" uses URL [`https://drafts.csswg.org/css-speech-1/`](https://drafts.csswg.org/css-speech-1/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/) links to:
     * [`https://www.w3.org/TR/css-speech-1/`](https://www.w3.org/TR/css-speech-1/) but related reference "CSS-SPEECH-1" uses URL [`https://drafts.csswg.org/css-speech-1/`](https://drafts.csswg.org/css-speech-1/)
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1664,9 +1662,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/) but related reference "HR-TIME" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
-- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/) links to:
-    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
-    * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/) but related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
+- [Mixed Content](https://w3c.github.io/webappsec-mixed-content/) links to [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/) but related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
     * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but related reference "CSS-IMAGES-3" uses URL [`https://drafts.csswg.org/css-images-3/`](https://drafts.csswg.org/css-images-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1867,7 +1863,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 524 inconsistent references for links found in 198 specifications
+=> 531 inconsistent references for links found in 202 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
