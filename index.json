@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-12T12:45:04.946Z",
+  "date": "2023-01-12T18:41:21.141Z",
   "stats": {
     "crawled": 534,
-    "errors": 1,
+    "errors": 0,
     "studied": 534
   },
   "results": [
@@ -1022,7 +1022,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "9 January 2023",
+      "date": "12 January 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3985,7 +3985,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 360)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14810,6 +14809,11 @@
               "crawled": "https://drafts.csswg.org/css-text-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
@@ -22194,7 +22198,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -23153,7 +23157,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23208,7 +23212,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24389,7 +24393,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -25634,7 +25638,7 @@
     {
       "title": "High Resolution Time",
       "shortname": "hr-time-3",
-      "date": "20 September 2022",
+      "date": "12 January 2023",
       "url": "https://www.w3.org/TR/hr-time-3/",
       "release": {
         "url": "https://www.w3.org/TR/hr-time-3/",
@@ -31009,7 +31013,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "09 January 2023",
+      "date": "12 January 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -36611,7 +36615,13 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
+            }
+          ]
         },
         "ok": true
       }
@@ -41652,11 +41662,6 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -42973,7 +42978,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -50219,7 +50230,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -50286,7 +50297,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
