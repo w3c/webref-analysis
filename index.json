@@ -2,17 +2,17 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-12T06:37:15.885Z",
+  "date": "2023-01-12T12:45:04.946Z",
   "stats": {
     "crawled": 534,
-    "errors": 0,
+    "errors": 1,
     "studied": 534
   },
   "results": [
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -54,7 +54,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -96,7 +96,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -138,7 +138,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -3985,6 +3985,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 360)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26107,7 +26108,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "11 January 2023",
+      "date": "12 January 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
