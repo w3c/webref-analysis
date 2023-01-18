@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-18T12:41:41.641Z",
+  "date": "2023-01-18T18:41:47.579Z",
   "stats": {
     "crawled": 534,
-    "errors": 1,
+    "errors": 0,
     "studied": 534
   },
   "results": [
@@ -1022,7 +1022,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2668,7 +2668,7 @@
               "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -2951,7 +2951,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3780,9 +3780,9 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-will-change-1/",
@@ -4019,7 +4019,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 360)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7744,9 +7743,9 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -14171,9 +14170,9 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -19388,26 +19387,20 @@
     },
     {
       "title": "CSS Viewport Module Level 1",
-      "shortname": "css-device-adapt-1",
+      "shortname": "css-viewport",
       "date": "11 October 2022",
-      "url": "https://www.w3.org/TR/css-device-adapt-1/",
-      "release": {
-        "url": "https://www.w3.org/TR/css-device-adapt-1/",
-        "status": "Working Draft",
-        "filename": "Overview.html"
-      },
+      "url": "https://drafts.csswg.org/css-viewport/",
       "nightly": {
-        "url": "https://drafts.csswg.org/css-viewport-1/",
+        "url": "https://drafts.csswg.org/css-viewport/",
         "status": "Editor's Draft",
-        "sourcePath": "css-viewport/Overview.bs",
         "alternateUrls": [
-          "https://w3c.github.io/csswg-drafts/css-viewport-1/",
           "https://w3c.github.io/csswg-drafts/css-viewport/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-viewport/Overview.bs",
         "filename": "Overview.html"
       },
-      "crawled": "https://drafts.csswg.org/css-viewport-1/",
+      "crawled": "https://drafts.csswg.org/css-viewport/",
       "organization": "W3C",
       "groups": [
         {
@@ -19428,18 +19421,19 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/"
+          "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/",
+          "https://www.w3.org/TR/css-device-adapt-1/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
-              "url": "https://www.w3.org/TR/webdriver2/",
-              "title": "WebDriver",
-              "crawled": "https://w3c.github.io/webdriver/"
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": false
       }
@@ -19779,9 +19773,9 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -20666,7 +20660,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -21750,7 +21744,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -23997,7 +23991,7 @@
               "crawled": "https://wicg.github.io/priority-hints/"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -27200,7 +27194,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -29080,7 +29074,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -31955,9 +31949,9 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -32936,7 +32930,7 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -34697,11 +34691,6 @@
               "crawled": "https://fullscreen.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/gamepad/",
-              "title": "Gamepad",
-              "crawled": "https://w3c.github.io/gamepad/"
-            },
-            {
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
@@ -35584,14 +35573,14 @@
     },
     {
       "title": "Private Network Access",
-      "shortname": "private-network-access",
+      "shortname": "local-network-access",
       "date": "11 January 2023",
-      "url": "https://wicg.github.io/private-network-access/",
+      "url": "https://wicg.github.io/local-network-access/",
       "nightly": {
-        "url": "https://wicg.github.io/private-network-access/",
+        "url": "https://wicg.github.io/local-network-access/",
         "status": "Draft Community Group Report",
         "alternateUrls": [],
-        "repository": "https://github.com/WICG/private-network-access",
+        "repository": "https://github.com/WICG/local-network-access",
         "sourcePath": "index.src.html",
         "filename": "index.html"
       },
@@ -41411,7 +41400,7 @@
               "crawled": "https://w3c.github.io/picture-in-picture/"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -42084,7 +42073,7 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -43026,7 +43015,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 January 2023",
+      "date": "18 January 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -44298,7 +44287,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/private-network-access/",
+              "url": "https://wicg.github.io/local-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
@@ -44818,9 +44807,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-device-adapt-1/",
+              "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             }
           ],
           "informative": []
@@ -45161,7 +45150,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "22 November 2022",
+      "date": "17 January 2023",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
