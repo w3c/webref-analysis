@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-18T00:51:06.250Z",
+  "date": "2023-01-18T06:37:50.591Z",
   "stats": {
     "crawled": 534,
     "errors": 0,
@@ -3853,11 +3853,6 @@
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://wicg.github.io/page-lifecycle/",
@@ -22756,6 +22751,11 @@
               "crawled": "https://wicg.github.io/entries-api/"
             },
             {
+              "url": "https://wicg.github.io/navigation-api/",
+              "title": "Navigation API",
+              "crawled": "https://wicg.github.io/navigation-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/tracking-dnt/",
               "title": "Tracking Preference Expression (DNT)",
               "crawled": "https://w3c.github.io/dnt/drafts/tracking-dnt.html"
@@ -23282,6 +23282,11 @@
               "url": "https://www.w3.org/TR/epub-rs-33/",
               "title": "EPUB Reading Systems 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
+              "url": "https://wicg.github.io/navigation-api/",
+              "title": "Navigation API",
+              "crawled": "https://wicg.github.io/navigation-api/"
             }
           ],
           "informative": []
@@ -26168,7 +26173,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -33154,7 +33159,7 @@
     {
       "title": "Navigation API",
       "shortname": "navigation-api",
-      "date": "11 December 2022",
+      "date": "17 January 2023",
       "url": "https://wicg.github.io/navigation-api/",
       "nightly": {
         "url": "https://wicg.github.io/navigation-api/",
