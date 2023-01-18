@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-17T18:35:54.890Z",
+  "date": "2023-01-18T00:51:06.250Z",
   "stats": {
     "crawled": 534,
     "errors": 0,
@@ -1022,7 +1022,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "13 January 2023",
+      "date": "17 January 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1324,6 +1324,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://wicg.github.io/periodic-background-sync/",
               "title": "Web Periodic Background Synchronization",
               "crawled": "https://wicg.github.io/periodic-background-sync/"
@@ -1417,7 +1422,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -7436,7 +7447,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "11 January 2023",
+      "date": "17 January 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -22214,7 +22225,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "3 January 2023",
+      "date": "17 January 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -34201,7 +34212,13 @@
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ]
         },
         "ok": false
       }
@@ -35091,6 +35108,11 @@
               "url": "https://wicg.github.io/keyboard-lock/",
               "title": "Keyboard Lock",
               "crawled": "https://wicg.github.io/keyboard-lock/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ]
         },
@@ -35265,7 +35287,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "11 January 2023",
+      "date": "17 January 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -35296,33 +35318,18 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/hr-time-2/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/navigation-timing-2/",
-            "ref": {
-              "name": "NAVIGATION-TIMING-2",
-              "url": "https://w3c.github.io/navigation-timing/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "11 January 2023",
+      "date": "17 January 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -35352,46 +35359,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/battery/",
-          "https://w3c.github.io/webdriver-bidi/",
-          "https://www.w3.org/TR/payment-request/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/hr-time-2/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/mediacapture-streams/",
-            "ref": {
-              "name": "MEDIACAPTURE-STREAMS",
-              "url": "https://w3c.github.io/mediacapture-main/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/navigation-timing-2/",
-            "ref": {
-              "name": "NAVIGATION-TIMING-2",
-              "url": "https://w3c.github.io/navigation-timing/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/web-share/",
-            "ref": {
-              "name": "WEB-SHARE",
-              "url": "https://w3c.github.io/web-share/"
-            }
-          }
-        ],
+        "missingLinkRef": [],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -36227,6 +36201,11 @@
               "url": "https://www.w3.org/TR/json-ld11-api/",
               "title": "JSON-LD 1.1 Processing Algorithms and API",
               "crawled": "https://w3c.github.io/json-ld-api/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/rdf-canon/",
@@ -37161,7 +37140,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -37253,7 +37232,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -37521,7 +37500,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -37628,7 +37607,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -37708,7 +37687,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -38516,7 +38495,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -38556,7 +38535,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -38739,7 +38718,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -39186,7 +39165,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -39620,7 +39599,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "17 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -42298,7 +42277,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "11 January 2023",
+      "date": "17 January 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -44535,7 +44514,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -47552,7 +47537,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -48484,6 +48475,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": [
@@ -50504,7 +50500,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ],
           "informative": []
         },
         "ok": true
