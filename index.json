@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-18T18:41:47.579Z",
+  "date": "2023-01-19T00:49:44.459Z",
   "stats": {
     "crawled": 534,
     "errors": 0,
@@ -2951,7 +2951,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -13386,9 +13386,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css-device-adapt-1/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -13440,7 +13438,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -14066,7 +14064,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/2013/WD-css3-page-20130314/",
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-device-adapt-1/",
           "https://www.w3.org/TR/css3-break/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/selectors/",
@@ -15160,7 +15157,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-device-adapt-1/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
@@ -19421,12 +19417,22 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/",
-          "https://www.w3.org/TR/css-device-adapt-1/"
+          "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-viewport/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -20660,7 +20666,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -22602,11 +22608,6 @@
               "url": "https://streams.spec.whatwg.org/",
               "title": "Streams Standard",
               "crawled": "https://streams.spec.whatwg.org/"
-            },
-            {
-              "url": "https://privacycg.github.io/storage-access/",
-              "title": "The Storage Access API",
-              "crawled": "https://privacycg.github.io/storage-access/"
             },
             {
               "url": "https://www.w3.org/TR/trusted-types/",
@@ -37135,7 +37136,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -37227,7 +37228,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -37495,7 +37496,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -37602,7 +37603,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -37682,7 +37683,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -38490,7 +38491,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -38530,7 +38531,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -38713,7 +38714,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -39160,7 +39161,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -39594,7 +39595,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -43233,7 +43234,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "9 January 2023",
+      "date": "18 January 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
@@ -47710,7 +47711,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "15 December 2022",
+      "date": "18 January 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -47761,7 +47762,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "15 December 2022",
+      "date": "18 January 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -47880,7 +47881,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "15 December 2022",
+      "date": "18 January 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -50337,7 +50338,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "12 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -50404,7 +50405,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "12 January 2023",
+      "date": "18 January 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
