@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-19T12:44:50.582Z",
+  "date": "2023-01-19T18:37:12.936Z",
   "stats": {
     "crawled": 534,
     "errors": 0,
@@ -1022,7 +1022,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "18 January 2023",
+      "date": "19 January 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -10006,7 +10006,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "8 December 2022",
+      "date": "19 January 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -20227,7 +20227,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "22 December 2022",
+      "date": "19 January 2023",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -31146,6 +31146,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://wicg.github.io/attribution-reporting-api/",
+              "title": "Attribution Reporting",
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
             {
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
@@ -43993,7 +43998,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "17 January 2023",
+      "date": "19 January 2023",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",

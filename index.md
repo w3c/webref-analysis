@@ -5285,7 +5285,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
-- Crawled version: 8 December 2022
+- Crawled version: 19 January 2023
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Shortname: css-fonts-4
@@ -8501,7 +8501,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Crawled URL: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
-- Crawled version: 22 December 2022
+- Crawled version: 19 January 2023
 - Editor's Draft: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
 - Latest published version: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Shortname: cssom-view-1
@@ -14220,7 +14220,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 18 January 2023
+- Crawled version: 19 January 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16071,6 +16071,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
@@ -17966,7 +17967,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 17 January 2023
+- Crawled version: 19 January 2023
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
