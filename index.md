@@ -501,7 +501,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
 - Crawled URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
-- Crawled version: 8 December 2022
+- Crawled version: 21 January 2023
 - Editor's Draft: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
 - Shortname: tc39-json-parse-with-source
 

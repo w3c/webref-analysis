@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-21T12:41:52.857Z",
+  "date": "2023-01-21T18:34:41.599Z",
   "stats": {
     "crawled": 534,
     "errors": 2,
@@ -30244,7 +30244,7 @@
     {
       "title": "JSON.parse source text access",
       "shortname": "tc39-json-parse-with-source",
-      "date": "8 December 2022",
+      "date": "21 January 2023",
       "url": "https://tc39.es/proposal-json-parse-with-source/",
       "nightly": {
         "url": "https://tc39.es/proposal-json-parse-with-source/",
