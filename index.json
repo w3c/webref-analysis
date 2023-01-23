@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-23T06:38:18.299Z",
+  "date": "2023-01-23T12:42:57.465Z",
   "stats": {
     "crawled": 534,
-    "errors": 6,
+    "errors": 1,
     "studied": 534
   },
   "results": [
@@ -2371,7 +2371,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://wicg.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://wicg.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 264)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40805,7 +40804,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "20 January 2023",
+      "date": "22 January 2023",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -40829,7 +40828,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 516)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40859,7 +40857,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -40954,7 +40952,7 @@
     {
       "title": "Screen Orientation",
       "shortname": "screen-orientation",
-      "date": "16 December 2022",
+      "date": "23 January 2023",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
@@ -40978,7 +40976,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 454)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41043,7 +41040,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -45529,7 +45526,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "20 December 2022",
+      "date": "23 January 2023",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
@@ -45553,7 +45550,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 254)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -45653,7 +45649,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -47573,7 +47569,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "05 January 2023",
+      "date": "23 January 2023",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
@@ -47597,7 +47593,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 489)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

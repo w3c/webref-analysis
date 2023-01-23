@@ -9,44 +9,14 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/): `Error: Loading https://wicg.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://wicg.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 264)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
 - [CSS 2](https://drafts.csswg.org/css2/): `Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
     at async Promise.all (index 360)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/): `Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 516)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Screen Orientation](https://w3c.github.io/screen-orientation/): `Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 454)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Web Application Manifest](https://w3c.github.io/manifest/): `Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 254)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-- [Web Share API](https://w3c.github.io/web-share/): `Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 489)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
 
-=> 6 specifications found
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -260,6 +230,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/) links to:
+    * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/) but does not list it in its references
+    * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
 - [Content Index](https://wicg.github.io/content-index/spec/) links to:
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/) but does not list it in its references
@@ -1193,6 +1166,9 @@ Basically all specifications have normative dependencies on some other specifica
 - [Web IDL Standard](https://webidl.spec.whatwg.org/) links to [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/) but does not list it in its references
 - [Web Locks API](https://w3c.github.io/web-locks/) links to [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+- [Web Share API](https://w3c.github.io/web-share/) links to:
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents) but does not list it in its references
 - [WebAssembly Core Specification](https://webassembly.github.io/spec/core/bikeshed/) links to:
     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
@@ -1230,7 +1206,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 863 missing references for links found in 223 specifications
+=> 867 missing references for links found in 225 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

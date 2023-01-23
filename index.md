@@ -9279,7 +9279,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-### Compute Pressure Level 1 {data-spec=true data-error=true}
+### Compute Pressure Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9292,15 +9292,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://wicg.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 264)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/)
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12943,28 +12937,20 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### Screen Orientation {data-spec=true data-error=true}
+### Screen Orientation {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Crawled version: 16 December 2022
+- Crawled version: 23 January 2023
 - Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
 - Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Shortname: screen-orientation
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 454)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13086,28 +13072,20 @@ Informative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
-### Web Application Manifest {data-spec=true data-error=true}
+### Web Application Manifest {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
-- Crawled version: 20 December 2022
+- Crawled version: 23 January 2023
 - Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
 - Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Shortname: appmanifest
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 254)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13159,28 +13137,22 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Web Share API {data-spec=true data-error=true}
+### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Crawled URL: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
-- Crawled version: 05 January 2023
+- Crawled version: 23 January 2023
 - Editor's Draft: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
 - Latest published version: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Shortname: web-share
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 489)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16313,28 +16285,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Scalable Video Coding (SVC) Extension for WebRTC {data-spec=true data-error=true}
+### Scalable Video Coding (SVC) Extension for WebRTC {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Crawled URL: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
-- Crawled version: 20 January 2023
+- Crawled version: 22 January 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
 - Latest published version: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Shortname: webrtc-svc
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 516)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
