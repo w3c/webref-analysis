@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-23T00:48:27.877Z",
+  "date": "2023-01-23T06:38:18.299Z",
   "stats": {
     "crawled": 534,
-    "errors": 3,
+    "errors": 6,
     "studied": 534
   },
   "results": [
@@ -26181,7 +26181,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "20 January 2023",
+      "date": "23 January 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34604,7 +34604,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "11 January 2023",
+      "date": "23 January 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -40978,6 +40978,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 454)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41042,7 +41043,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -45552,6 +45553,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 254)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -45651,7 +45653,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -47595,6 +47597,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 489)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

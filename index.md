@@ -12320,7 +12320,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
-- Crawled version: 11 January 2023
+- Crawled version: 23 January 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
 - Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Shortname: permissions-policy-1
@@ -12943,7 +12943,7 @@ Informative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 
 
-### Screen Orientation {data-spec=true data-missingDfns=true data-ok=true}
+### Screen Orientation {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -12956,7 +12956,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/screen-orientation/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 454)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13078,7 +13086,7 @@ Informative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
-### Web Application Manifest {data-spec=true data-missingDfns=true data-ok=true}
+### Web Application Manifest {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -13091,7 +13099,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/manifest/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 254)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13143,7 +13159,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Web Share API {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -13156,9 +13172,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents)
+The following network or parsing error occurred:
+`Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/web-share/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
+    at async Promise.all (index 489)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17157,7 +17179,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 20 January 2023
+- Crawled version: 23 January 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
