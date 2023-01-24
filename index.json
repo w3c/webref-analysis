@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-24T06:36:22.692Z",
+  "date": "2023-01-24T12:44:30.361Z",
   "stats": {
     "crawled": 534,
     "errors": 0,
@@ -2347,7 +2347,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "21 December 2022",
+      "date": "24 January 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -20232,7 +20232,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "19 January 2023",
+      "date": "19 November 2022",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -43042,7 +43042,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "18 January 2023",
+      "date": "24 January 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -47373,7 +47373,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "23 January 2023",
+      "date": "24 January 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -47737,7 +47737,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "18 January 2023",
+      "date": "24 January 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -47788,7 +47788,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "18 January 2023",
+      "date": "24 January 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -47907,7 +47907,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "18 January 2023",
+      "date": "24 January 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
