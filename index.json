@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-25T12:42:27.534Z",
+  "date": "2023-01-25T18:35:17.718Z",
   "stats": {
     "crawled": 534,
     "errors": 1,
@@ -280,7 +280,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -333,7 +333,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -1164,7 +1164,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1217,7 +1217,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -2641,6 +2641,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+              "title": "Linear PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -23698,7 +23703,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "17 January 2023",
+      "date": "25 January 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24743,7 +24748,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -25653,7 +25658,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -26185,7 +26190,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -29026,11 +29031,6 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-handler/",
-              "title": "Payment Handler API",
-              "crawled": "https://w3c.github.io/payment-handler/"
-            },
-            {
               "url": "https://www.w3.org/TR/payment-method-id/",
               "title": "Payment Method Identifiers",
               "crawled": "https://w3c.github.io/payment-method-id/"
@@ -30527,7 +30527,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -32548,11 +32548,6 @@
               "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-handler/",
-              "title": "Payment Handler API",
-              "crawled": "https://w3c.github.io/payment-handler/"
-            },
-            {
               "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -33059,7 +33054,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -33618,7 +33613,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -33975,7 +33970,7 @@
     {
       "title": "Payment Handler API",
       "shortname": "payment-handler",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/payment-handler/",
       "release": {
         "url": "https://www.w3.org/TR/payment-handler/",
@@ -43563,7 +43558,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -44853,7 +44848,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -44906,7 +44901,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -44959,7 +44954,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -45605,11 +45600,6 @@
               "url": "https://www.w3.org/TR/miniapp-manifest/",
               "title": "MiniApp Manifest",
               "crawled": "https://w3c.github.io/miniapp-manifest/"
-            },
-            {
-              "url": "https://www.w3.org/TR/payment-handler/",
-              "title": "Payment Handler API",
-              "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
@@ -47964,7 +47954,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -47999,25 +47989,8 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/media-source/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-images-3/",
-            "ref": {
-              "name": "CSS-IMAGES-3",
-              "url": "https://drafts.csswg.org/css-images-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/mediastream-recording/",
-            "ref": {
-              "name": "MEDIASTREAM-RECORDING",
-              "url": "https://w3c.github.io/mediacapture-record/"
-            }
-          }
-        ],
+        "missingLinkRef": [],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -48119,13 +48092,13 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "24 January 2023",
+      "date": "25 January 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
