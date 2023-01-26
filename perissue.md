@@ -2,7 +2,7 @@
 % Strudy
 % January 26, 2023
 
-534 specifications were crawled in this report.
+535 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -50,7 +50,6 @@
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
-- [WebGL EXT_clip_cull_distance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
 - [WebGL EXT_color_buffer_float Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - [WebGL EXT_color_buffer_half_float Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - [WebGL EXT_disjoint_timer_query Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
@@ -75,6 +74,7 @@
 - [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - [WebGL OVR_multiview2 Extension Specification](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
+- [WebGL WEBGL_clip_cull_distance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - [WebGL WEBGL_color_buffer_float Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - [WebGL WEBGL_compressed_texture_astc Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - [WebGL WEBGL_compressed_texture_etc Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
@@ -90,9 +90,10 @@
 - [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
+- [WebGL WEBGL_provoking_vertex Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
-=> 84 specifications found
+=> 85 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 

@@ -1854,27 +1854,6 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebGL EXT_clip_cull_distance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
-- Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
-- Crawled version: 21 January 2023
-- Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/)
-- Shortname: EXT_clip_cull_distance
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
 ### WebGL EXT_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -2399,6 +2378,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### WebGL WEBGL_clip_cull_distance Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
+- Crawled version: 25 January 2023
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
+- Shortname: WEBGL_clip_cull_distance
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### WebGL WEBGL_color_buffer_float Extension Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -2702,6 +2702,27 @@ No informative reference to this spec from other specs.
 - Crawled version: 25 January 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_multi_draw_instanced_base_vertex_base_instance
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebGL WEBGL_provoking_vertex Extension Draft Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
+- Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
+- Crawled version: 25 January 2023
+- Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
+- Shortname: WEBGL_provoking_vertex
 
 #### Potential issue(s) {.anomalies}
 
@@ -4388,7 +4409,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 1 November 2022
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -9287,7 +9308,7 @@ Informative references to this spec from:
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Crawled version: 24 January 2023
-- Editor's Draft: [https://wicg.github.io/compute-pressure/](https://wicg.github.io/compute-pressure/)
+- Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
 
@@ -9309,9 +9330,9 @@ No informative reference to this spec from other specs.
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
-- Crawled URL: [https://w3c.github.io/contact-picker/spec/](https://w3c.github.io/contact-picker/spec/)
-- Crawled version: 21 December 2022
-- Editor's Draft: [https://w3c.github.io/contact-api/spec](https://w3c.github.io/contact-api/spec)
+- Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
+- Crawled version: 26 January 2023
+- Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
 - Shortname: contact-picker-1
 
@@ -9718,7 +9739,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 25 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9747,7 +9768,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 25 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -10860,7 +10881,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Crawled URL: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
-- Crawled version: 25 November 2022
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://w3c.github.io/miniapp-manifest/](https://w3c.github.io/miniapp-manifest/)
 - Latest published version: [https://www.w3.org/TR/miniapp-manifest/](https://www.w3.org/TR/miniapp-manifest/)
 - Shortname: miniapp-manifest
@@ -10884,7 +10905,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
 - Crawled URL: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
-- Crawled version: 27 October 2022
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://w3c.github.io/miniapp-packaging/](https://w3c.github.io/miniapp-packaging/)
 - Latest published version: [https://www.w3.org/TR/miniapp-packaging/](https://www.w3.org/TR/miniapp-packaging/)
 - Shortname: miniapp-packaging
@@ -12644,9 +12665,9 @@ No informative reference to this spec from other specs.
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
-- Crawled URL: [https://w3c.github.io/contact-picker/spec/](https://w3c.github.io/contact-picker/spec/)
-- Crawled version: 21 December 2022
-- Editor's Draft: [https://w3c.github.io/contact-api/spec](https://w3c.github.io/contact-api/spec)
+- Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
+- Crawled version: 26 January 2023
+- Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
 - Shortname: contact-picker-1
 
@@ -12681,7 +12702,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Contact Picker API](https://w3c.github.io/contact-picker/spec/)
+- [Contact Picker API](https://w3c.github.io/contact-picker/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File System Standard](https://fs.spec.whatwg.org/)
@@ -16290,7 +16311,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Crawled URL: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
-- Crawled version: 25 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
 - Latest published version: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Shortname: webrtc-svc
@@ -16509,7 +16530,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 24 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -16534,7 +16555,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 24 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -16565,7 +16586,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 24 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -16978,7 +16999,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 25 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -17177,7 +17198,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
-- [Contact Picker API](https://w3c.github.io/contact-picker/spec/)
+- [Contact Picker API](https://w3c.github.io/contact-picker/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
@@ -17539,7 +17560,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Console Standard](https://console.spec.whatwg.org/)
-- [Contact Picker API](https://w3c.github.io/contact-picker/spec/)
+- [Contact Picker API](https://w3c.github.io/contact-picker/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
@@ -17768,7 +17789,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Contact Picker API](https://w3c.github.io/contact-picker/spec/)
+- [Contact Picker API](https://w3c.github.io/contact-picker/)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
@@ -18107,7 +18128,7 @@ Normative references to this spec from:
 - [Compression Streams](https://wicg.github.io/compression/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Console Standard](https://console.spec.whatwg.org/)
-- [Contact Picker API](https://w3c.github.io/contact-picker/spec/)
+- [Contact Picker API](https://w3c.github.io/contact-picker/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)

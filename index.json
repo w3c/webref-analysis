@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-26T12:45:48.396Z",
+  "date": "2023-01-26T18:43:26.566Z",
   "stats": {
-    "crawled": 534,
+    "crawled": 535,
     "errors": 0,
-    "studied": 534
+    "studied": 535
   },
   "results": [
     {
@@ -2351,14 +2351,14 @@
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://wicg.github.io/compute-pressure/",
+        "url": "https://w3c.github.io/compute-pressure/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/WICG/compute-pressure",
+        "repository": "https://github.com/w3c/compute-pressure",
         "sourcePath": "index.html",
         "filename": "index.html"
       },
@@ -2466,22 +2466,22 @@
     {
       "title": "Contact Picker API",
       "shortname": "contact-picker-1",
-      "date": "21 December 2022",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/contact-picker-1/",
       "release": {
         "url": "https://www.w3.org/TR/contact-picker-1/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://w3c.github.io/contact-api/spec",
+        "url": "https://w3c.github.io/contact-picker/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/contact-api",
-        "sourcePath": "spec/index.bs",
+        "repository": "https://github.com/w3c/contact-picker",
+        "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/contact-picker/spec/",
+      "crawled": "https://w3c.github.io/contact-picker/",
       "organization": "W3C",
       "groups": [
         {
@@ -7301,7 +7301,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "1 November 2022",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -23702,7 +23702,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "25 January 2023",
+      "date": "26 January 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -24291,7 +24291,7 @@
             {
               "url": "https://www.w3.org/TR/contact-picker-1/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-picker/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -26407,7 +26407,7 @@
             {
               "url": "https://www.w3.org/TR/contact-picker-1/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-picker/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -28547,7 +28547,7 @@
             {
               "url": "https://www.w3.org/TR/contact-picker-1/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-picker/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -30087,7 +30087,7 @@
       "groups": [
         {
           "name": "JSON-LD Working Group",
-          "url": "https://www.w3.org/2018/json-ld-wg/"
+          "url": "https://www.w3.org/groups/wg/json-ld/"
         }
       ],
       "report": {
@@ -30151,7 +30151,7 @@
       "groups": [
         {
           "name": "JSON-LD Working Group",
-          "url": "https://www.w3.org/2018/json-ld-wg/"
+          "url": "https://www.w3.org/groups/wg/json-ld/"
         }
       ],
       "report": {
@@ -30209,7 +30209,7 @@
       "groups": [
         {
           "name": "JSON-LD Working Group",
-          "url": "https://www.w3.org/2018/json-ld-wg/"
+          "url": "https://www.w3.org/groups/wg/json-ld/"
         }
       ],
       "report": {
@@ -32586,7 +32586,7 @@
             {
               "url": "https://www.w3.org/TR/contact-picker-1/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-picker/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/"
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -32664,7 +32664,7 @@
     {
       "title": "MiniApp Manifest",
       "shortname": "miniapp-manifest",
-      "date": "25 November 2022",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/miniapp-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -32717,7 +32717,7 @@
     {
       "title": "MiniApp Packaging",
       "shortname": "miniapp-packaging",
-      "date": "27 October 2022",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/miniapp-packaging/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -40809,7 +40809,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "25 January 2023",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -46208,7 +46208,7 @@
             {
               "url": "https://www.w3.org/TR/contact-picker-1/",
               "title": "Contact Picker API",
-              "crawled": "https://w3c.github.io/contact-picker/spec/"
+              "crawled": "https://w3c.github.io/contact-picker/"
             },
             {
               "url": "https://www.w3.org/TR/CSP3/",
@@ -47732,7 +47732,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "24 January 2023",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -47783,7 +47783,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "24 January 2023",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -47902,7 +47902,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "24 January 2023",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -48590,48 +48590,6 @@
         "filename": "index.html"
       },
       "crawled": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
-      "organization": "Khronos Group",
-      "groups": [
-        {
-          "name": "WebGL Working Group",
-          "url": "https://www.khronos.org/webgl/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "WebGL EXT_clip_cull_distance Extension Draft Specification",
-      "shortname": "EXT_clip_cull_distance",
-      "date": "21 January 2023",
-      "url": "https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/",
-      "nightly": {
-        "url": "https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/KhronosGroup/WebGL",
-        "sourcePath": "extensions/EXT_clip_cull_distance/extension.xml",
-        "filename": "index.html"
-      },
-      "crawled": "https://registry.khronos.org/webgl/extensions/EXT_clip_cull_distance/",
       "organization": "Khronos Group",
       "groups": [
         {
@@ -49710,6 +49668,48 @@
       }
     },
     {
+      "title": "WebGL WEBGL_clip_cull_distance Extension Draft Specification",
+      "shortname": "WEBGL_clip_cull_distance",
+      "date": "25 January 2023",
+      "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
+      "nightly": {
+        "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/KhronosGroup/WebGL",
+        "sourcePath": "extensions/WEBGL_clip_cull_distance/extension.xml",
+        "filename": "index.html"
+      },
+      "crawled": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
+      "organization": "Khronos Group",
+      "groups": [
+        {
+          "name": "WebGL Working Group",
+          "url": "https://www.khronos.org/webgl/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
       "date": "25 January 2023",
@@ -50340,9 +50340,51 @@
       }
     },
     {
+      "title": "WebGL WEBGL_provoking_vertex Extension Draft Specification",
+      "shortname": "WEBGL_provoking_vertex",
+      "date": "25 January 2023",
+      "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
+      "nightly": {
+        "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/KhronosGroup/WebGL",
+        "sourcePath": "extensions/WEBGL_provoking_vertex/extension.xml",
+        "filename": "index.html"
+      },
+      "crawled": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
+      "organization": "Khronos Group",
+      "groups": [
+        {
+          "name": "WebGL Working Group",
+          "url": "https://www.khronos.org/webgl/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "25 January 2023",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -50409,7 +50451,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "25 January 2023",
+      "date": "26 January 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
