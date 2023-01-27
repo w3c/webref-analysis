@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 26, 2023
+% January 27, 2023
 
 535 specifications were crawled in this report.
 
@@ -90,7 +90,7 @@
 - [WebGL WEBGL_lose_context Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- [WebGL WEBGL_provoking_vertex Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
+- [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
 => 85 specifications found
