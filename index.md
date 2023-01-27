@@ -201,7 +201,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 12 January 2023
+- Crawled version: 27 January 2023
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -6391,7 +6391,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Crawled URL: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
-- Crawled version: 10 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
 - Latest published version: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Shortname: css-nesting-1
@@ -7591,7 +7591,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - Crawled URL: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
-- Crawled version: 15 January 2023
+- Crawled version: 26 January 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
 - Latest published version: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - Shortname: css-text-3
@@ -9331,7 +9331,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 26 January 2023
+- Crawled version: 27 January 2023
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
 - Shortname: contact-picker-1
@@ -12666,7 +12666,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 26 January 2023
+- Crawled version: 27 January 2023
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker-1/](https://www.w3.org/TR/contact-picker-1/)
 - Shortname: contact-picker-1
@@ -17160,7 +17160,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 26 January 2023
+- Crawled version: 27 January 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
