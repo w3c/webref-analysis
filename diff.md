@@ -2,12 +2,12 @@
 % Strudy
 % January 28, 2023
 
-## CSS Images Module Level 3
+## Accelerated Shape Detection in Images
 
-- Initial URL: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
+- Initial URL: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
-- Spec title: *INS* CSS Images Module Level 3 / *DEL* [No title found for https://drafts.csswg.org/css-images-3/]
+- Editor's Draft: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/2dcontext/
 
 
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-28T12:42:20.309Z",
+  "date": "2023-01-28T18:35:24.315Z",
   "stats": {
     "crawled": 535,
     "errors": 0,
@@ -386,7 +386,7 @@
     {
       "title": "Accelerated Shape Detection in Images",
       "shortname": "shape-detection-api",
-      "date": "18 August 2020",
+      "date": "28 January 2023",
       "url": "https://wicg.github.io/shape-detection-api/",
       "nightly": {
         "url": "https://wicg.github.io/shape-detection-api/",
@@ -419,27 +419,20 @@
         "missingLinkRef": [
           "https://w3c.github.io/mediacapture-image/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/2dcontext/",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/shape-detection-api/text.html",
+              "title": "Accelerated Text Detection in Images",
+              "crawled": "https://wicg.github.io/shape-detection-api/text.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://wicg.github.io/shape-detection-api/",
               "title": "Accelerated Shape Detection in Images",
               "crawled": "https://wicg.github.io/shape-detection-api/"
-            },
-            {
-              "url": "https://wicg.github.io/shape-detection-api/text.html",
-              "title": "Accelerated Text Detection in Images",
-              "crawled": "https://wicg.github.io/shape-detection-api/text.html"
             }
           ]
         },
@@ -449,7 +442,7 @@
     {
       "title": "Accelerated Text Detection in Images",
       "shortname": "text-detection-api",
-      "date": "18 August 2020",
+      "date": "28 January 2023",
       "url": "https://wicg.github.io/shape-detection-api/text.html",
       "nightly": {
         "url": "https://wicg.github.io/shape-detection-api/text.html",
@@ -22430,6 +22423,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/shape-detection-api/",
+              "title": "Accelerated Shape Detection in Images",
+              "crawled": "https://wicg.github.io/shape-detection-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/ambient-light/",
               "title": "Ambient Light Sensor",
               "crawled": "https://w3c.github.io/ambient-light/"
@@ -26194,7 +26192,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 January 2023",
+      "date": "28 January 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -46124,6 +46122,16 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://wicg.github.io/shape-detection-api/",
+              "title": "Accelerated Shape Detection in Images",
+              "crawled": "https://wicg.github.io/shape-detection-api/"
+            },
+            {
+              "url": "https://wicg.github.io/shape-detection-api/text.html",
+              "title": "Accelerated Text Detection in Images",
+              "crawled": "https://wicg.github.io/shape-detection-api/text.html"
+            },
             {
               "url": "https://www.w3.org/TR/accelerometer/",
               "title": "Accelerometer",
