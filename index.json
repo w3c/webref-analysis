@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-28T00:51:33.427Z",
+  "date": "2023-01-28T06:35:52.677Z",
   "stats": {
     "crawled": 535,
     "errors": 0,
@@ -10,9 +10,265 @@
   },
   "results": [
     {
+      "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+      "shortname": "css-images-3",
+      "date": "28 January 2023",
+      "url": "https://www.w3.org/TR/css-images-3/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-images-3/",
+        "status": "Candidate Recommendation Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-images-3/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-images-3/",
+          "https://w3c.github.io/csswg-drafts/css-images/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-images-3/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-images-3/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/css-animations/",
+          "http://www.w3.org/TR/css-transitions/",
+          "https://www.w3.org/TR/2012/CR-css3-images-20120417/",
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css3-background/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ui-3/",
+              "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
+              "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ui-4/",
+              "title": "CSS Basic User Interface Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-sizing-3/",
+              "title": "CSS Box Sizing Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-sizing-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-sizing-4/",
+              "title": "CSS Box Sizing Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-sizing-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-1/",
+              "title": "CSS Containment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-counter-styles-3/",
+              "title": "CSS Counter Styles Level 3",
+              "crawled": "https://drafts.csswg.org/css-counter-styles-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/fill-stroke-3/",
+              "title": "CSS Fill and Stroke Module Level 3",
+              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-flexbox-1/",
+              "title": "CSS Flexible Box Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-flexbox-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-content-3/",
+              "title": "CSS Generated Content Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-content-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-grid-1/",
+              "title": "CSS Grid Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-grid-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-grid-2/",
+              "title": "CSS Grid Layout Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-grid-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-images-5/",
+              "title": "CSS Images Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-images-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-lists-3/",
+              "title": "CSS Lists and Counters Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-paint-api-1/",
+              "title": "CSS Painting API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-round-display-1/",
+              "title": "CSS Round Display Level 1",
+              "crawled": "https://drafts.csswg.org/css-round-display-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-shapes-1/",
+              "title": "CSS Shapes Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-shapes-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-shapes-2/",
+              "title": "CSS Shapes Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-shapes-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2022/",
+              "title": "CSS Snapshot 2022",
+              "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-writing-modes-3/",
+              "title": "CSS Writing Modes Level 3",
+              "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-writing-modes-4/",
+              "title": "CSS Writing Modes Level 4",
+              "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/largest-contentful-paint/",
+              "title": "Largest Contentful Paint",
+              "crawled": "https://w3c.github.io/largest-contentful-paint/"
+            },
+            {
+              "url": "https://www.w3.org/TR/motion-1/",
+              "title": "Motion Path Module Level 1",
+              "crawled": "https://drafts.fxtf.org/motion-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-page-3/",
+              "title": "CSS Paged Media Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-page-3/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "14 January 2023",
+      "date": "28 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -54,7 +310,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "14 January 2023",
+      "date": "28 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -96,7 +352,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "14 January 2023",
+      "date": "28 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -138,7 +394,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "14 January 2023",
+      "date": "28 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -3330,6 +3586,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/accname-1.2/",
               "title": "Accessible Name and Description Computation 1.2",
               "crawled": "https://w3c.github.io/accname/"
@@ -3548,11 +3809,6 @@
               "url": "https://drafts.csswg.org/css-grid-3/",
               "title": "CSS Grid Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-grid-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -4768,6 +5024,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
@@ -4791,11 +5052,6 @@
               "url": "https://drafts.csswg.org/css-display-4/",
               "title": "CSS Display Module Level 4",
               "crawled": "https://drafts.csswg.org/css-display-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -5534,6 +5790,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
@@ -5612,11 +5873,6 @@
               "url": "https://drafts.csswg.org/css-grid-3/",
               "title": "CSS Grid Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-grid-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -5873,6 +6129,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
@@ -5896,11 +6157,6 @@
               "url": "https://www.w3.org/TR/css-grid-2/",
               "title": "CSS Grid Layout Module Level 2",
               "crawled": "https://drafts.csswg.org/css-grid-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-position-3/",
@@ -6413,6 +6669,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
@@ -6601,11 +6862,6 @@
               "url": "https://www.w3.org/TR/css-grid-2/",
               "title": "CSS Grid Layout Module Level 2",
               "crawled": "https://drafts.csswg.org/css-grid-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -11098,6 +11354,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
@@ -11111,11 +11372,6 @@
               "url": "https://drafts.csswg.org/css-gcpm-4/",
               "title": "CSS Generated Content for Paged Media Module Level 4",
               "crawled": "https://drafts.csswg.org/css-gcpm-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-lists-3/",
@@ -11590,262 +11846,6 @@
         "referencedBy": {
           "normative": [],
           "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "CSS Images Module Level 3",
-      "shortname": "css-images-3",
-      "date": "3 January 2023",
-      "url": "https://www.w3.org/TR/css-images-3/",
-      "release": {
-        "url": "https://www.w3.org/TR/css-images-3/",
-        "status": "Candidate Recommendation Draft",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://drafts.csswg.org/css-images-3/",
-        "status": "Editor's Draft",
-        "alternateUrls": [
-          "https://w3c.github.io/csswg-drafts/css-images-3/",
-          "https://w3c.github.io/csswg-drafts/css-images/"
-        ],
-        "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "css-images-3/Overview.bs",
-        "filename": "Overview.html"
-      },
-      "crawled": "https://drafts.csswg.org/css-images-3/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Cascading Style Sheets (CSS) Working Group",
-          "url": "https://www.w3.org/Style/CSS/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/css-animations/",
-          "http://www.w3.org/TR/css-transitions/",
-          "https://www.w3.org/TR/2012/CR-css3-images-20120417/",
-          "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css3-background/",
-          "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/web-animations/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          }
-        ],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-ui-3/",
-              "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
-              "crawled": "https://drafts.csswg.org/css-ui-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-ui-4/",
-              "title": "CSS Basic User Interface Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-ui-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-sizing-3/",
-              "title": "CSS Box Sizing Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-sizing-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-sizing-4/",
-              "title": "CSS Box Sizing Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-sizing-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-1/",
-              "title": "CSS Containment Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-contain-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-2/",
-              "title": "CSS Containment Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-counter-styles-3/",
-              "title": "CSS Counter Styles Level 3",
-              "crawled": "https://drafts.csswg.org/css-counter-styles-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-display-3/",
-              "title": "CSS Display Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-display-3/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-display-4/",
-              "title": "CSS Display Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-display-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fill-stroke-3/",
-              "title": "CSS Fill and Stroke Module Level 3",
-              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-flexbox-1/",
-              "title": "CSS Flexible Box Layout Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-flexbox-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-content-3/",
-              "title": "CSS Generated Content Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-content-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-grid-1/",
-              "title": "CSS Grid Layout Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-grid-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-grid-2/",
-              "title": "CSS Grid Layout Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-grid-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-4/",
-              "title": "CSS Images Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-images-4/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-images-5/",
-              "title": "CSS Images Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-images-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-lists-3/",
-              "title": "CSS Lists and Counters Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-lists-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-masking-1/",
-              "title": "CSS Masking Module Level 1",
-              "crawled": "https://drafts.fxtf.org/css-masking-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-paint-api-1/",
-              "title": "CSS Painting API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
-              "title": "CSS Properties and Values API Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-round-display-1/",
-              "title": "CSS Round Display Level 1",
-              "crawled": "https://drafts.csswg.org/css-round-display-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-shapes-1/",
-              "title": "CSS Shapes Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-shapes-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-shapes-2/",
-              "title": "CSS Shapes Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-shapes-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-2022/",
-              "title": "CSS Snapshot 2022",
-              "crawled": "https://drafts.csswg.org/css-2022/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-typed-om-1/",
-              "title": "CSS Typed OM Level 1",
-              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-writing-modes-3/",
-              "title": "CSS Writing Modes Level 3",
-              "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-writing-modes-4/",
-              "title": "CSS Writing Modes Level 4",
-              "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/filter-effects-1/",
-              "title": "Filter Effects Module Level 1",
-              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/largest-contentful-paint/",
-              "title": "Largest Contentful Paint",
-              "crawled": "https://w3c.github.io/largest-contentful-paint/"
-            },
-            {
-              "url": "https://www.w3.org/TR/motion-1/",
-              "title": "Motion Path Module Level 1",
-              "crawled": "https://drafts.fxtf.org/motion-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-page-3/",
-              "title": "CSS Paged Media Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-page-3/"
-            }
-          ]
         },
         "ok": false
       }
@@ -12545,6 +12545,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/CSS21/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
@@ -12573,11 +12578,6 @@
               "url": "https://www.w3.org/TR/css-content-3/",
               "title": "CSS Generated Content Module Level 3",
               "crawled": "https://drafts.csswg.org/css-content-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -12926,6 +12926,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
@@ -12944,11 +12949,6 @@
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -14194,6 +14194,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -14222,11 +14227,6 @@
               "url": "https://drafts.csswg.org/css-gcpm-4/",
               "title": "CSS Generated Content for Paged Media Module Level 4",
               "crawled": "https://drafts.csswg.org/css-gcpm-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -18069,6 +18069,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
@@ -18267,11 +18272,6 @@
               "url": "https://drafts.csswg.org/css-grid-3/",
               "title": "CSS Grid Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-grid-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -18600,6 +18600,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
@@ -18873,11 +18878,6 @@
               "url": "https://drafts.csswg.org/css-grid-3/",
               "title": "CSS Grid Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-grid-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -24614,6 +24614,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
@@ -24627,11 +24632,6 @@
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-masking-1/",
@@ -26300,6 +26300,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/change-password-url/",
               "title": "A Well-Known URL for Changing Passwords",
               "crawled": "https://w3c.github.io/webappsec-change-password-url/"
@@ -26568,11 +26573,6 @@
               "url": "https://drafts.csswg.org/css-forms-1/",
               "title": "CSS Form Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-forms-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -40035,6 +40035,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
@@ -40063,11 +40068,6 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -40716,6 +40716,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "[No title found for https://drafts.csswg.org/css-images-3/]",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
@@ -40744,11 +40749,6 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-3/",
-              "title": "CSS Images Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -45181,7 +45181,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "17 January 2023",
+      "date": "22 January 2023",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -50393,7 +50393,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 January 2023",
+      "date": "28 January 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -50460,7 +50460,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 January 2023",
+      "date": "28 January 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
