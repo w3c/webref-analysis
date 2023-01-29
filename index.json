@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-29T06:35:47.620Z",
+  "date": "2023-01-29T12:42:15.650Z",
   "stats": {
     "crawled": 535,
     "errors": 0,
@@ -12,7 +12,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html]",
       "shortname": "tc39-intl-annexes",
-      "date": "28 January 2023",
+      "date": "29 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
@@ -54,7 +54,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html]",
       "shortname": "tc39-intl-negotiation",
-      "date": "28 January 2023",
+      "date": "29 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
@@ -96,7 +96,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html]",
       "shortname": "tc39-intl-numberformat",
-      "date": "28 January 2023",
+      "date": "29 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
@@ -138,7 +138,7 @@
     {
       "title": "[No title found for https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html]",
       "shortname": "tc39-intl-pluralrules",
-      "date": "28 January 2023",
+      "date": "29 January 2023",
       "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
@@ -13422,11 +13422,6 @@
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
               "crawled": "https://w3c.github.io/input-events/"
-            },
-            {
-              "url": "https://www.w3.org/TR/referrer-policy/",
-              "title": "Referrer Policy",
-              "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -36294,7 +36289,7 @@
     {
       "title": "Referrer Policy",
       "shortname": "referrer-policy",
-      "date": "24 May 2022",
+      "date": "29 January 2023",
       "url": "https://www.w3.org/TR/referrer-policy/",
       "release": {
         "url": "https://www.w3.org/TR/referrer-policy/",
@@ -36330,15 +36325,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-secure-contexts/",
-            "ref": {
-              "name": "SECURE-CONTEXTS",
-              "url": "https://www.w3.org/TR/secure-contexts/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -36399,7 +36386,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -37818,11 +37805,6 @@
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
-            },
-            {
-              "url": "https://www.w3.org/TR/referrer-policy/",
-              "title": "Referrer Policy",
-              "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -39303,6 +39285,11 @@
               "url": "https://mimesniff.spec.whatwg.org/",
               "title": "MIME Sniffing Standard",
               "crawled": "https://mimesniff.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/referrer-policy/",
+              "title": "Referrer Policy",
+              "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",

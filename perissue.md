@@ -1687,7 +1687,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/) but related reference "RDF11-SCHEMA" uses URL [`http://www.w3.org/TR/2014/REC-rdf-schema-20140225/`](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
     * [`http://www.w3.org/TR/rdf11-concepts/`](http://www.w3.org/TR/rdf11-concepts/) but related reference "RDF11-CONCEPTS" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
-- [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
 - [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 - [Resource Hints](https://w3c.github.io/resource-hints/) links to:
@@ -1836,7 +1835,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 515 inconsistent references for links found in 193 specifications
+=> 514 inconsistent references for links found in 192 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
