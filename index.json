@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-30T06:36:58.951Z",
+  "date": "2023-01-30T12:44:57.404Z",
   "stats": {
     "crawled": 535,
     "errors": 0,
@@ -20602,7 +20602,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "9 January 2023",
+      "date": "30 January 2023",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -34416,6 +34416,11 @@
               "crawled": "https://w3c.github.io/clipboard-apis/"
             },
             {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "DeviceOrientation Event Specification",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
@@ -35722,7 +35727,7 @@
     {
       "title": "Proximity Sensor",
       "shortname": "proximity",
-      "date": "3 September 2021",
+      "date": "30 January 2023",
       "url": "https://www.w3.org/TR/proximity/",
       "release": {
         "url": "https://www.w3.org/TR/proximity/",
@@ -46813,6 +46818,11 @@
               "url": "https://wicg.github.io/priority-hints/",
               "title": "Priority Hints",
               "crawled": "https://wicg.github.io/priority-hints/"
+            },
+            {
+              "url": "https://www.w3.org/TR/proximity/",
+              "title": "Proximity Sensor",
+              "crawled": "https://w3c.github.io/proximity/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
