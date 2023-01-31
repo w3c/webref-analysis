@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-31T06:36:58.546Z",
+  "date": "2023-01-31T12:45:19.286Z",
   "stats": {
     "crawled": 537,
     "errors": 0,
@@ -2173,7 +2173,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "24 January 2023",
+      "date": "31 January 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -2209,8 +2209,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://html.spec.whatwg.org/multipage/interaction.html",
-          "https://html.spec.whatwg.org/multipage/workers.html",
           "https://w3c.github.io/picture-in-picture/",
           "https://www.w3.org/TR/design-principles/"
         ],
@@ -20944,6 +20942,11 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
+            },
+            {
               "url": "https://wicg.github.io/content-index/spec/",
               "title": "Content Index",
               "crawled": "https://wicg.github.io/content-index/spec/"
@@ -25311,6 +25314,11 @@
               "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
+            },
+            {
               "url": "https://wicg.github.io/cookie-store/",
               "title": "Cookie Store API",
               "crawled": "https://wicg.github.io/cookie-store/"
@@ -25900,6 +25908,11 @@
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/contact-picker/",
@@ -27940,6 +27953,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://console.spec.whatwg.org/",
@@ -30412,6 +30430,11 @@
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/html-media-capture/",
@@ -33986,6 +34009,11 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
+            },
+            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -34157,11 +34185,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
-            },
             {
               "url": "https://wicg.github.io/document-policy/",
               "title": "Document Policy",
@@ -46969,7 +46992,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "26 January 2023",
+      "date": "31 January 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -47020,7 +47043,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "26 January 2023",
+      "date": "31 January 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -47139,7 +47162,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "26 January 2023",
+      "date": "31 January 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
